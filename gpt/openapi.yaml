@@ -1,0 +1,38 @@
+openapi: 3.1.0
+info:
+  title: Radar Político Mundial
+  version: 1.0.0
+  description: Retorna o boletim político mais recente, atualizado a cada quatro horas.
+servers:
+  - url: https://camilaabdocalvo-coder.github.io/radar-politico-mundial
+paths:
+  /latest.json:
+    get:
+      operationId: obterRadarPolitico
+      summary: Obtém as notícias políticas priorizadas mais recentes
+      responses:
+        "200":
+          description: Boletim atual
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Boletim"
+components:
+  schemas:
+    Boletim:
+      type: object
+      properties:
+        generated_at: {type: [string, "null"]}
+        scope: {type: string}
+        warning: {type: string}
+        items:
+          type: array
+          items:
+            type: object
+            properties:
+              title: {type: string}
+              url: {type: string}
+              source: {type: string}
+              published_at: {type: string}
+              score: {type: number}
+              corroborating_sources: {type: array, items: {type: string}}

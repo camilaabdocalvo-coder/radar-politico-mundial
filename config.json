@@ -1,0 +1,21 @@
+{
+  "max_items_per_feed": 40,
+  "output_items": 30,
+  "social_sources": {
+    "status": "optional_pending_official_api_credentials",
+    "platforms": ["X", "Instagram"],
+    "accounts": ["Estadão", "O Antagonista", "Metrópoles", "Folha de S.Paulo", "Brasil Paralelo", "Gazeta do Povo", "Poder360"]
+  },
+  "feeds": [
+    {"name": "Estadão", "priority": 1.3, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20source%3AEstad%C3%A3o&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"},
+    {"name": "O Antagonista", "priority": 1.3, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20source%3AO%20Antagonista&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"},
+    {"name": "Metrópoles", "priority": 1.3, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20source%3AMetr%C3%B3poles&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"},
+    {"name": "Folha de S.Paulo", "priority": 1.3, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20source%3AFolha%20de%20S.Paulo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"},
+    {"name": "Brasil Paralelo", "priority": 1.3, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20source%3ABrasil%20Paralelo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"},
+    {"name": "Gazeta do Povo", "priority": 1.3, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20source%3AGazeta%20do%20Povo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"},
+    {"name": "Poder360", "priority": 1.3, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20source%3APoder360&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"},
+    {"name": "Mundo — inglês", "priority": 1.0, "url": "https://news.google.com/rss/search?q=world%20politics&hl=en-US&gl=US&ceid=US%3Aen"},
+    {"name": "Mundo — espanhol", "priority": 1.0, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20internacional&hl=es-419&gl=US&ceid=US%3Aes-419"},
+    {"name": "Mundo — português", "priority": 1.0, "url": "https://news.google.com/rss/search?q=pol%C3%ADtica%20internacional&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"}
+  ]
+}

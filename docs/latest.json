@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-08-07T23:48:05.366851+00:00",
+  "next_update_expected_at": "2026-08-08T03:48:05.366851+00:00",
+  "scope": "Política nacional e internacional",
+  "methodology": "RSS + recência + relevância política + repetição entre fontes",
+  "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
+  "items": [],
+  "source_status": {
+    "configured": 10,
+    "successful": 0,
+    "errors": [
+      {
+        "feed": "Estadão",
+        "error": "URLError"
+      },
+      {
+        "feed": "O Antagonista",
+        "error": "URLError"
+      },
+      {
+        "feed": "Metrópoles",
+        "error": "URLError"
+      },
+      {
+        "feed": "Folha de S.Paulo",
+        "error": "URLError"
+      },
+      {
+        "feed": "Brasil Paralelo",
+        "error": "URLError"
+      },
+      {
+        "feed": "Gazeta do Povo",
+        "error": "URLError"
+      },
+      {
+        "feed": "Poder360",
+        "error": "URLError"
+      },
+      {
+        "feed": "Mundo — inglês",
+        "error": "URLError"
+      },
+      {
+        "feed": "Mundo — espanhol",
+        "error": "URLError"
+      },
+      {
+        "feed": "Mundo — português",
+        "error": "URLError"
+      }
+    ]
+  }
+}
