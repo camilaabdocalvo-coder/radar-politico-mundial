@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-08-08T00:35:48.269869+00:00",
-  "next_update_expected_at": "2026-08-08T04:35:48.269869+00:00",
+  "generated_at": "2026-08-08T04:32:38.301664+00:00",
+  "next_update_expected_at": "2026-08-08T08:32:38.301664+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "cb03925bcbb71a3c",
+      "title": "EUA sinalizam acordo para reabrir o Estreito de Ormuz - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkJNd1hacGs0RUdCbi1lY2lTN3BnamlWeG1LVlBQSHF3eDg4ZHR6X1dpWlQxcUhLQ29fZVZUUTVmZFpCUDBocnlEOEJ5TWdxY0NwTWh6cWl2a211TU0xTURObWttbUFGVkIyaGxrcDRKSERSbE5RQjl1Ny1ITkVObG5hRWNuTDE4V2x5SFc2MDVYTEtZQWJQd0NWZUE3dXVMd3Bpanln?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-08-08T00:56:00+00:00",
+      "score": 71.18,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "2d98c75ff26109de",
       "title": "Big techs reduzem medidas para eleição e encaram novas regras judiciais no Brasil - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMml3OXRBY3A4TXFFemtxWHpJay0yUmJZeXVhcHJ0YU5zalJxYmw2VVNXamFhZzc1YkpQbTVpUS01dGpPamRjRTUzUEk4ZFo0cjBsWU5zRk14Yi1zenduTGtZdXR2RVlpbHljTGlHUnNRbk45Y3N6N3hFMFFkSGpiSEhnLS1WTWg4Qi01X3ZpZkE5dnd6RXZiYmxRTkVnSXVLbjg2MHBUZGVOX2k0VjVmQ1RpWmVmS3RweXFpSlZoWDIyU2o1NnRTazN0MA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-07T20:32:00+00:00",
-      "score": 73.67,
+      "score": 69.5,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5081283520017057",
+      "title": "Senado dos EUA aprova indicação de Trump para embaixador no Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXdkdmU5X0duNWc3QnJqcDZFV0RvUEhYN0pCYzJqdExaUGJTb3kyYkxyWVdNZG41dkZmN296NWxUNjRwTDE4MHdSOF9sLTFrTTN2WHU2NTd2NmtpMHEzZDFsZVJGTlFIR0tqTkJraUNoWmVkVnAyX1F0N1lGeVFRTkttbmJzeS1xd1N2eXJlaDRaQVRTb1hXRmFVTHhiNExsNWtLSGJhWXpkbk04Y3hmTTJ1OVlJQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-07T18:39:16+00:00",
+      "score": 67.67,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dfbb348260c1a3bd",
+      "title": "Fuerza del Pueblo propone una política exterior sin “alineamientos” y basada en el interés nacional - Diario Libre",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGtERjdLbmZRWmxsTERwaDZ1Y1l2dnN1dHp1c3ZPbXlWUGdSN2huamRma1Z6RjJrQ0FTOWIyWXBYem1qRFBOZjFZMzFWMS16Vk03Nk8xVVdhVGhKcWZQV3hieVd5alRMWVZLaDZBUXhVandKai1FRzFldDJaNjlUMTN3SmdhSFM5cjI3VldtQU9sU0NpM3Q5SzZPUmtyU2tfV3YwbDR2SmxPSzNnajRBM2ZNRW80WjFPMlpLR1c5LXVfY3PSAcgBQVVfeXFMUDBDemQ3UXI1OHBmX3VNRXQyZUFlS0lSZ1VNLVRDZlU2RXlBcGVBT0dZNHJkYkVBMThvSDFVal82XzN5cFVISzdHTXBiQWhGNE1ZdFBhaEFaYjA1Z01NU2xUdjIwVEZqbkgycm1oWFlwRkFKSVdDMGxOVThTM0FQVlc0ZHVzaUVzeWpXSjVrX0tKSlJqMGZqamJhdTRMVjZCdTNEeTg5V1hCcHdDRzgwbjlFYTE1dG1IYzFHMjBjRUIxd01Nd0xRZUM?oc=5",
+      "source": "Diario Libre",
+      "published_at": "2026-08-07T21:17:00+00:00",
+      "score": 67.26,
+      "corroborating_sources": [
+        "Diario Libre"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "050040d2a34f2f79",
+      "title": "Lula não irá à posse de De la Espriella e manda Mauro Vieira à Colômbia - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEJiX1RUbjJRWjR3NkhPdVRXVWx4MTZtdThJeDZJZ2FSTF9NUF9qTXZkM19kblFFX2pCajZ6bE1MY3ZENnNPRG1oU3dkWVk2emw0Rm9rLXI1TnNwOVp3OGI1RXdwaFVHb3R3WUk3UzJWWDhXS1R5QUNmMG9wcnZ0RnJ2cTZlOFdKNkswcXVtcnVsTVpURFRhbVFQX1ZpVWtYU2N3X1NUUU12Z25TQmk0b0oxV2k?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-08T01:34:51+00:00",
+      "score": 66.92,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -25,8 +85,8 @@
       "title": "Canciller de Bolivia asiste a la posesión del presidente de Colombia - La Patria 3.0",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjBTMjJEc1NZNjQyb0ZHeVd2N3ZtdlFUZC0xbF8tTmk2TEdvU0N2bE1VdVJiVkhYTWdzVEpSRjk1Tno5NF90SkhJdWEwUDgwOXVrUXhfb1RPaGNzRXNGUVBvc0ZwRmpGaVVOclVxVUQ5WDF2aDY1TmRtY1dqU1NZNEswc0VOelRsRHhBY3k0ZXd1bVpU?oc=5",
       "source": "La Patria 3.0",
-      "published_at": "2026-08-07T20:40:44+00:00",
-      "score": 70.84,
+      "published_at": "2026-08-07T20:43:27+00:00",
+      "score": 66.69,
       "corroborating_sources": [
         "La Patria 3.0"
       ],
@@ -41,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWU1cUZDeWFVVEdleUN3Rlp2ejZkbV9WWkFaMDBMbUNoZnBHUElJM3pLN0E2bHVHRExtWDlhZDgtb1RFVDB6R2V6VzQ0WGo5Q3BLWUFyN1FOemdBTTJsemtMcWNiRDl3RUNzZUtHR2o1aXV3SnV3aVY1N2RzOGhzMDFEZktGdHdhSkdmc09Fb0drSk9PWVo1SkhMNVBFUzNKaXlTMjFxRUZ6Y2R6QXdkMmRlc2taSVpva3lTMkRnYk12X1BkT095amdOWHU0bmxGZDhEMXFOV01PMEFMTnNQS3Bn?oc=5",
       "source": "Diario Mendoza Today",
       "published_at": "2026-08-07T19:09:01+00:00",
-      "score": 69.16,
+      "score": 65.14,
       "corroborating_sources": [
         "Diario Mendoza Today"
       ],
@@ -56,39 +116,9 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkNPTDVVNGhPcGFUODBTX0lVVTlfbUV0Sm5rOFkzOE5yeldJbEdHdEhad3Y5UnR0WE4zMUQ3djZXTkRHcG9Rc1dHOXNvbjY3VGZONVpqaTRzVjlvTlRFWVBqVkQ0clZ6eV9tbFJMNXpselVKaWUtMW1laWs0S29PY1g0cXRISmhSOVE3RGM0aTlneEl2dmhJczd5amVCTkxKUjAtVDdYcnFaN2ZBR1BUMEJKaHNHZDFWUkFPdmM5eFpFbjFRTHM1d3JR0gHSAUFVX3lxTE9qUHRyQnlqOHpkRy1fSFJ5NnRib1JpTWZYZE5WZUdkMXZhYVp5Q1B0N3NhZVp2aGVyRkxBTTVPNXU1Z21GbzFzcHY5QzVGbWN6TlJUZDBfaW01WU5mU3NKR1FBZTk0VFlBbHBlYkNyaEZNUVlWeXVLamEzZ1M1QWF2dllLYldPYmZ6bmNrUXFZYU02NGktaEpJQkFBWTN0TTgySWtJOHllOTMxTE9KWHdjMFA4U1RoUGpSaU9fRmJHcEQzdkZCSnFTb1ZrXzBVVF9KQQ?oc=5",
       "source": "Escenario Mundial",
       "published_at": "2026-08-07T18:21:39+00:00",
-      "score": 68.32,
+      "score": 64.39,
       "corroborating_sources": [
         "Escenario Mundial"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3cd4f9b583c5cefa",
-      "title": "Serbia heads into political autumn as Vučić signals exit - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWR5NnZaSXFaeWtfSTBBNnFXZWxjMWVwNjQ0YlJIRWpra2cwdFhTRXJHT2FRNEU2S09FU3FkRURGb1hOWGJDaHFfMnBXQXZaaWxEb3B0ZG83a2tOTkdNanVOampoZ1pVT2RkdUlXdTc0ckpPZjNyWUV6STVfbVRoZ1VR?oc=5",
-      "source": "TVP World",
-      "published_at": "2026-08-07T18:00:00+00:00",
-      "score": 67.94,
-      "corroborating_sources": [
-        "TVP World"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "050040d2a34f2f79",
-      "title": "Lula não irá à posse de De la Espriella e manda Mauro Vieira à Colômbia - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEJiX1RUbjJRWjR3NkhPdVRXVWx4MTZtdThJeDZJZ2FSTF9NUF9qTXZkM19kblFFX2pCajZ6bE1MY3ZENnNPRG1oU3dkWVk2emw0Rm9rLXI1TnNwOVp3OGI1RXdwaFVHb3R3WUk3UzJWWDhXS1R5QUNmMG9wcnZ0RnJ2cTZlOFdKNkswcXVtcnVsTVpURFRhbVFQX1ZpVWtYU2N3X1NUUU12Z25TQmk0b0oxV2k?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-07T22:26:45+00:00",
-      "score": 67.87,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +131,54 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnp5dkVOVnlRcGprSFZWVWFuaHNLOHRZcEhYZnZ3OE1Pdmc3bUwzNVVyd1hVSXlwQXBrSWtkSG4tSVZXeEVTcHBsbk4yMWJjaFI2a1puckw3M1B3eGZWb05EbmhfYkk3S1F6MkI4S1RXanpKbUxHT3F5QldMREVZdWljV0Q4N1BnZXVXOG94VXJRNVdnTzVTdXR3MEp4ejNfaG5jLTYwODJYSE8yRjhtekpBdnBpT0diSDVuQkplUQ?oc=5",
       "source": "infocronos.com.ar",
       "published_at": "2026-08-07T17:55:39+00:00",
-      "score": 67.87,
+      "score": 63.98,
       "corroborating_sources": [
         "infocronos.com.ar"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c1f8a88685a1b34f",
+      "title": "Desmatamento na Amazônia registra maior recuo da década - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYUFDaWwtYTV4azJ3bGFLaDR1a3QtSWE5OFA1LWg4WHZjRXlwaHRYWHdJcTV5ZERIdnBSOUN1NVNVemtDdFNqSFhMR1oxZzBLSUVyUnRieDV6VlUyQlo4SmF6b2RaZUUxaEFRWDYzLU1yd2pmV2VwU2dZa2J4WTNYbF91RTh1MnMyZnNDU2tUUGpkSG1rNUhDTnF0Si1xLW8?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-07T21:57:26+00:00",
+      "score": 62.95,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b7fa1b3c1c8bfa78",
+      "title": "‘Opino se achar que tenho o que dizer’: 8 frases para festejar os 84 anos de Caetano Veloso - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnVBNGUzUW5KWTFMVHhOaW1GdEFKNmU4RDVEZ3hoOExjVmg4TnpwTmw4dm05allWYzJLenNYV29Hdm1Pb1JQUXFMMHZ0STBsLXUtSXhSLWExR2drcDc5Rk5yQmJxVXQwamZ1VklTNURZYU5jZGg0cnVFYmg0LXFxaDUxWEJpczZjbkVUZXhsZjdZODJrdE5wd1VCQmhqTFR3bU5CeWEtTmhmOFBkSlhET2RScWM3Y3I3VGwycHl3ZUxudmRqV0hZRVFuaU5nSmfSAdQBQVVfeXFMTjRESU5Cb0xJdHdObmpyRFF0Yi1VcGduWGFOaF9CbEZnUHAzMHRiQ3NnRUppeFNlM3dDZm5RYVVOejZtN19NbFR3TFRtUVJmQmxLbk5GaTRTZjhSZ1RSRmY2dVQ0TEFRR2QxS0xMQTRZaTQ1TnJnNjFsWkE1SS1JYVliRkhWc3plTXg2N0I5eEZsM1BhdUtEMnZ4bm5qSVNERGpuWGxrTTNzZXR6ZEhuYXFDMDhnR3lzOTdOWTNjX2lxSFFzQ0hFNlR0VzhEZ3JYYjc0NGY?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-07T21:50:00+00:00",
+      "score": 62.82,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "192f4a2d9330b1da",
+      "title": "Nova lei endurece penas por crimes sexuais contra menores - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1ZtVFMtS0V4QjVPdkR4UkQ2RWhQU2dMT1FFdkNwQnpSVFl6NlRHU1AyaG83MVR5ajdyNktxUUN3eGFmbUdqMmZhUmEwdF9FWFQ3cW1jUlNiV1FzdzJOYzNiZ1E4UVoxblFxRU1UM0lmZW5JTjBOSlhja3RnOTdmOU9GV0FzQjhDUDdjdmZnVmhKY1RjZXRDdi1lRklpWWVJckE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-07T21:43:47+00:00",
+      "score": 62.72,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDVNekQzczdjZjl5dVNCM2lTeC1mZ3dKS0dsWjlUU0lvdFZ5aGdYLUxDamt1SnBYcG1laVNsYURlZG0ySG1nQ3Z1VGxSZjV4TGhVWkJQZ1hXLTJyS1ZvVkp3dzI0WG80cW5EYlRiRFZrdUtWQmJXMHAtWVhGdE02NnZWbVo2cHMzVnhXNEh6N2RyY1BYTmpvZ3NzWU9RTnEzam14dW5zYw?oc=5",
       "source": "La Patria 3.0",
       "published_at": "2026-08-08T00:16:38+00:00",
-      "score": 67.08,
+      "score": 62.45,
       "corroborating_sources": [
         "La Patria 3.0"
       ],
@@ -131,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeDlobTRSVWp5RnRKbFFrSWhvWXNLNzNvQTRIQnE3Y0lBVjlsT3NseWE2TlEwY3FUbzNVc1FYb1ZSWUhERDNUV29hSmhNTmNSRHg1YWVpbmprLU15ZUpJdDlBQ0F0UTRrNEVhNlpHMVQxM2dOV29Ubkc0Skhad256QVNOc1RDSUYxVG9SN1lmSkxCNTY4ZTZtVG16MUpoaUQ3Vk9DX19WcEV0OEo0TjE1QWRXUmFuS2ZmWGZIZGJxNWU4RnV0b1U1VzVRREVLeGR3SnA0elJvMW5sZEhqQ0U0eFZhNkxDRXJBWnhxZlpB?oc=5",
       "source": "RFI",
       "published_at": "2026-08-07T14:59:58+00:00",
-      "score": 64.95,
+      "score": 61.37,
       "corroborating_sources": [
         "RFI"
       ],
@@ -146,24 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnZwdDJsWno1dTYtdmRFQ1BQSjZWeDNiYk1tRlRGTDNLMGhkaklJWFBsLUpRdVZ2OXdOVGlYRWJMNS1JUXRualNqMEZ1N2NrdnpLc3JaWDZzel9kSU9fcEZla2dnSHpVUFNsdzVKRTFkTEZpRHlxS3BmM2dUVUxZdHNWcVQ1SWV0YndMdzVNTUl2UmVMZWU5RkcyQXRveGdxUUlfYjRBMnVsVUdTMmRtY1poRUplQQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-07T19:06:04+00:00",
-      "score": 64.11,
+      "score": 60.09,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4d8849314ca42cc5",
-      "title": "Sobrinho de Dilma tenta barrar direitos de Jair Bolsonaro e Justiça rejeita ação - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS3MzSTU1bFAxWEh1cGozblBZWV8zcjAwcEhTUnotTFFMbFFBV2I3ZUVuRWQyR1ZLZTNqM1p0SUJkZy1JSXY5RU9TSVJ2aWN6Qk1FS1QwT2YtQ09lWjJuLV9BZndlVS1MOFotX2J3TnZZVDhHSzlTaGRRY0h0LVhiS1M0Q2tzTGRsNF9NRzVNSGFzZVNYbklORUJoZjVnM2h0dHBMemRVQzlBdDV4SXl3YjVLX3E3SkdFTVE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-07T18:43:53+00:00",
-      "score": 63.71,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -176,9 +236,24 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQm1UcWhBX2hwaU8zdUE0eENUSWNMSi1DRUEtRHZFR3puRkVYbnNvbWxLekVhaTg5U3gzMFp3Mk51c0MxVkF3WUw0UENOdUNrbU9TSzV3VnM0RUNrcThLQ1lYZG5xR21MSFc0c1ZydV9CZ2RBUnZQQXd1RzE2NWt3R2QtbG1rWlBybU5YVThsNzV4cU13b241elU4bzB6QmdsOWJKRVZRQzJ2Mkg5b3Y0S293?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-08-06T20:45:00+00:00",
-      "score": 62.24,
+      "score": 60.08,
       "corroborating_sources": [
         "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4d8849314ca42cc5",
+      "title": "Sobrinho de Dilma tenta barrar direitos de Jair Bolsonaro e Justiça rejeita ação - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS3MzSTU1bFAxWEh1cGozblBZWV8zcjAwcEhTUnotTFFMbFFBV2I3ZUVuRWQyR1ZLZTNqM1p0SUJkZy1JSXY5RU9TSVJ2aWN6Qk1FS1QwT2YtQ09lWjJuLV9BZndlVS1MOFotX2J3TnZZVDhHSzlTaGRRY0h0LVhiS1M0Q2tzTGRsNF9NRzVNSGFzZVNYbklORUJoZjVnM2h0dHBMemRVQzlBdDV4SXl3YjVLX3E3SkdFTVE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-07T18:53:14+00:00",
+      "score": 59.89,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +266,24 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU1BPZ21tSk5xZk44dGp2Q0YwdTdmRjBNdDhoWi1tbkRQbERtNzJnMkV1N1dJRzJzRmdEYXJRYVJEcUlEQncteHB1el9BY0xEbk9fLU5GenZmSUJ3Z2tnU1pVUW5oSVpSWDNkWGd4a1kwcDhpZ1kxVFRZU2RNNldmdlR0OC1naGx5U3d5TEkxUmpFcF9SU1hIU01JcGtQbm55ZVMtZEFoaTd0VE9LWTJMYk9Law?oc=5",
       "source": "Infocielo",
       "published_at": "2026-08-07T11:48:58+00:00",
-      "score": 62.03,
+      "score": 58.75,
       "corroborating_sources": [
         "Infocielo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2ebafc4906f3c12f",
+      "title": "Cuáles son las propuestas más polémicas de la \"patria milagro\" de De la Espriella y qué contrapesos tendrá como presidente de Colombia - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQlRfR290dV9QTUlHZDRUaW5Kc01qVXA1NFFhY1dUSXhCQmhpVWJUdmVYaGxaSEl2eG80eGJUSzZCV3lGSVhyMi1fM2RnVXRPSnNDWVF0aXUtWW_SAWBBVV95cUxOMGIwQ2dvVzVXNjBRTGd2SGxFbkdfZnN0cGN6eHlOTkl0MVJONXBXLXZEbnZuVEJfWjNreW92R3NlZ0p6U193VU5mSUlMOFBOS3RJUTFtcnNUZ05taldfMV8?oc=5",
+      "source": "BBC",
+      "published_at": "2026-08-07T11:05:25+00:00",
+      "score": 58.19,
+      "corroborating_sources": [
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXhZSEdoVFVZUklZZnhDUXhpOHE4VXVfRkJTSE5LTkE2bnI4RWtNMTBVaFFlS0JTYWxMaXlJSmFFNjBqek1MdHYtdTB4LXpRZjJDRkZCTWxoRTVyd2pqSGN0VGZRbzRaWV92RC1ZVE5haGpMWUJ5aFRBVG1DbnRhTkJ5X3dLZUhxOHp5Uy1KYWI?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-07T16:53:08+00:00",
-      "score": 61.8,
+      "score": 58.03,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -221,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHk4T3RCMmpzUlpsTHZzdXRQeG1jSVhkMkFhYUl2OWFOM0l4VVExZFRlREFlemdfMWx0QUFHN3pqdWJBOWZndXZQbk9VdnV4V0JDamlhMFJWc3JkcmtTbTJvcjdTLW8ybjlsRVlMOHc2cTVHTkR2RVlxZE5WalBJZlpwTXZTTFB6ZTF5QTQtaUNKTlFXczJNM1g0aTdTQQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-07T16:48:07+00:00",
-      "score": 61.72,
+      "score": 57.95,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -231,14 +321,14 @@
       }
     },
     {
-      "id": "2ebafc4906f3c12f",
-      "title": "Cuáles son las propuestas más polémicas de la \"patria milagro\" de De la Espriella y qué contrapesos tendrá como presidente de Colombia - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQlRfR290dV9QTUlHZDRUaW5Kc01qVXA1NFFhY1dUSXhCQmhpVWJUdmVYaGxaSEl2eG80eGJUSzZCV3lGSVhyMi1fM2RnVXRPSnNDWVF0aXUtWW_SAWBBVV95cUxOMGIwQ2dvVzVXNjBRTGd2SGxFbkdfZnN0cGN6eHlOTkl0MVJONXBXLXZEbnZuVEJfWjNreW92R3NlZ0p6U193VU5mSUlMOFBOS3RJUTFtcnNUZ05taldfMV8?oc=5",
-      "source": "BBC",
-      "published_at": "2026-08-07T11:05:25+00:00",
-      "score": 61.4,
+      "id": "41f88f894612c286",
+      "title": "Política externa do Governo Lula é respeitada pelas grandes potências, diz Edinho - Partido dos Trabalhadores",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUZNR3pXaWZzNnpYcEtOcHQxenBWa3doRHExMG1zejgwZHRqWUF5TEdXYy0zUkIxRE03ODAtdmFXTVlCZ0FoTUxoZGw4YTBncTJLT0QtRFgwbHFNdUxxWUhHdkZRcFVSdXlOSmRUTGpKNzk4aTJtMVVfdnVYRE5WVlFMVS1Da29iX3dlWVpWMVZuM3o4eFB0LWVqVjZwQUlZ0gGoAUFVX3lxTE50RFB4clpveHc3Y2p2bXhvTElXN3pNU0hweHQxZVZScFo5NGFzZzN0TlRpRWdoa0J5RmN0SXN4QzZNdTRRTnQxUFpNc1FYS3lEQkJBSzlSczhRUHBBaTNYRkxUei04NGlIR1dwLVEzaU16bnRXTkYzSEtidkxlZHlHaTNZdkRIRmhZZDZFUlVqRTlXU0ZqMUxwT2QtSXlBUFlfMG9vVmM3dg?oc=5",
+      "source": "Partido dos Trabalhadores",
+      "published_at": "2026-08-05T22:55:00+00:00",
+      "score": 56.62,
       "corroborating_sources": [
-        "BBC"
+        "Partido dos Trabalhadores"
       ],
       "signals": {
         "source_count": 1,
@@ -251,9 +341,24 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTR1LVZwUlQtRVh1clQtSlZ0ZVpFVU9wN0VOWlNjU0hwelVzWGVGcUpmZ0RxTUFxUEsxdy1EaUdTUEZianhUSXdBNDZVcWhQVXZVRG5qaU9nRklTd2xoM29peUZNSDlFVHBJeXRGMUJlZS10S2o1bmdzRDJudFJrLXh4XzVJS1hTMzVOSlpKZWdHa3ZtWHZrYy1NXzBnV1o1elRJaEZDU2JPcFdkMGIwOHB5S1I2bkdm?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-07T14:36:00+00:00",
-      "score": 59.57,
+      "score": 56.03,
       "corroborating_sources": [
         "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "662ce02631151317",
+      "title": "Patrimônio de Zema aumenta R$ 49 milhões em quatro anos - 06/08/2026 - Política - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORG9wcTZ3Vk03Ung4cmhvME5CaWxZVllTY1lPMnJjT3hYcjh6MU9UM0VxOHNGRVp3cWdSVlNlbGZBNk5IM3B0T3lFMWdBN2FfZEtkczYtOFpkYTFfc2NzOEkzVVFDUWJGQzBlTjVFanBHdDRvc0x0VV9jOFpycE8xNDB3Z0dPUWZtaUg2WXNKRGpfY1VBNTBNOGU4VjgyWUlGU2JaMVdkRQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-07T02:44:00+00:00",
+      "score": 55.45,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNU0txcVFsRGpDcFJrQ1RXOUhIMjdleC0ycF9NLW1Za3N1Zlk0NVEtTVEtdjFOS2pUaVR2bmVycC12Ny1mTXloWS0tSWtDcnlkNUpYZXpmcng1NzhVdUhURXdiODdGdGk1XzhQbWFDaklkTkhHRzRHT0VZaW9zZ1VQb01TX3BHa0liLS1Lam5qXy1WaHVGUFprZEFBeDhYSEprOVhCZ3ZVWTJDWjc0TUxzN1F2S19oRVJ6WkROaUcwbXFMTFJaOFJTNHNjMzZGNy0tMElaRHp0eFFJMU1lWFVPRXFoWEw0QlBuejdpeTNBaTdhQXowZko3cGE0VHIyVVJZMFNSTFR4QVMwME80eW1MeUxQV2l1eWVaeVJ2ODFWbkZod9IBqgJBVV95cUxQWnBuVGJ0XzBfandyM1JIMDNlMG9uaG1jRHozdUhMdW5VOElSY1RMM2JqM25VQk9lZFUwbHYxTnlzdzhfeGh4WnNTM2NyMkk5RXlzWG5GeVc5STlRN21ZNDBNaC02cXlwS3BUQnphWjNwcEVhTGxOcUZjQnZabVZXZm9zVTMwTlNZbVZEaUx6X0RxdXhDdTJWQUJCbnl5UUMxemFCSm1BQ2ZQWUtSVmQtbzlESExLRFl4VE9sQWhQb01VeVl1ZS1qOFcyTTVmY2E4cWYyNjdZdldneFdGTXBSSG5wSlZ0Rnc0c3NoLVZPVDhDMHQ2VzVnMHpLbElPR2lGLUV6ZV9VT0ZaOTNuRHRyT1JnX2pvM05GVmlCRGlqYkxhNWV2ZWd4aDZ3?oc=5",
       "source": "Escenario Mundial",
       "published_at": "2026-08-07T17:16:36+00:00",
-      "score": 59.2,
+      "score": 55.38,
       "corroborating_sources": [
         "Escenario Mundial"
       ],
@@ -281,54 +386,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3dGNEpmZEhJN095TUJCTmV4ZEZJaE02VmduWUw1eFA2MUg3bWRZd3RCRE5kSEZFUG9ZbWpQemxUSWJBZ3p5RkUzZVpkQVl6N2w5V0NiU3FXVG9PSEp1SFVXMTVPSnlvaGNQYzlnblk4ZFlFYWVxekVRYW1fWi1Zd19sYi1CRFFCSUFQWU12cERrSGJWYklkSlhIODNKeVRtdFE?oc=5",
       "source": "lagacetaonline.com.ar",
       "published_at": "2026-08-07T17:03:11+00:00",
-      "score": 58.97,
+      "score": 55.18,
       "corroborating_sources": [
         "lagacetaonline.com.ar"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c5f05a34656cf9e2",
-      "title": "Abelardo de la Espriella asume la presidencia de Colombia - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajZCUGdSbXBKUmpIend6QTI4STdVN2ZOXy14cEx6UDFGdWlyNDczWmNVbTFvSi04WXpONDl5WGMyMlFqbElsb256RGJxREw0ZXNkYkl2YjltRkhzN1BJbTJ6WFVETUM0eWhRclV4SldNZGFSRU44UlVVNU9hSUJ3TENYRlIyQnZweEt4OWd6X3RWU0RtUW9EMFZiYks?oc=5",
-      "source": "La Patria 3.0",
-      "published_at": "2026-08-07T16:23:00+00:00",
-      "score": 58.3,
-      "corroborating_sources": [
-        "La Patria 3.0"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "41f88f894612c286",
-      "title": "Política externa do Governo Lula é respeitada pelas grandes potências, diz Edinho - Partido dos Trabalhadores",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUZNR3pXaWZzNnpYcEtOcHQxenBWa3doRHExMG1zejgwZHRqWUF5TEdXYy0zUkIxRE03ODAtdmFXTVlCZ0FoTUxoZGw4YTBncTJLT0QtRFgwbHFNdUxxWUhHdkZRcFVSdXlOSmRUTGpKNzk4aTJtMVVfdnVYRE5WVlFMVS1Da29iX3dlWVpWMVZuM3o4eFB0LWVqVjZwQUlZ0gGoAUFVX3lxTE50RFB4clpveHc3Y2p2bXhvTElXN3pNU0hweHQxZVZScFo5NGFzZzN0TlRpRWdoa0J5RmN0SXN4QzZNdTRRTnQxUFpNc1FYS3lEQkJBSzlSczhRUHBBaTNYRkxUei04NGlIR1dwLVEzaU16bnRXTkYzSEtidkxlZHlHaTNZdkRIRmhZZDZFUlVqRTlXU0ZqMUxwT2QtSXlBUFlfMG9vVmM3dg?oc=5",
-      "source": "Partido dos Trabalhadores",
-      "published_at": "2026-08-05T22:55:00+00:00",
-      "score": 57.8,
-      "corroborating_sources": [
-        "Partido dos Trabalhadores"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6cd0e69775a95a44",
-      "title": "7 de agosto: fatos históricos que marcaram a data ao longo dos anos - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjVGSmQzbUJLem1NWllHZjZ0b0RzUmM4b3VIMUlpTU5jR00tS0d1dEIwYVVmam92WEtlQ3R1TmhiWklZQi1BRG45b1lpa2luWEM1NmpBUG01NDdZOXVhNHpXSU5xRWJPZW5fcHhYNEVIdk9YQVl1NHIwNzVOSlV1dmNQbXc?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-07T12:06:00+00:00",
-      "score": 57.28,
-      "corroborating_sources": [
-        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -341,9 +401,39 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVRVcGhsVldwVWVaVklZNWVqd2JqUDVDSmx5aXJLbUdQcm40bFo3YnlwOHY0LTl5YUxFOGFJSlBCM1ZPNkVjd082WmJsZ0k3SjB3RHZoYzJfNU9hR3B1SGtZVnBpSzJtRTBKakFqNHFjOXhYR2lUamQwaXRFRXo1eVRPVGdHV1hvV3BHQnNZOUxEMzlDZ1Bqc2luanprcGppVGhUWEFnZUh0WnR3REF3?oc=5",
       "source": "La Razón Digital Bolivia",
       "published_at": "2026-08-06T16:31:48+00:00",
-      "score": 56.94,
+      "score": 55.02,
       "corroborating_sources": [
         "La Razón Digital Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c5f05a34656cf9e2",
+      "title": "Abelardo de la Espriella asume la presidencia de Colombia - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajZCUGdSbXBKUmpIend6QTI4STdVN2ZOXy14cEx6UDFGdWlyNDczWmNVbTFvSi04WXpONDl5WGMyMlFqbElsb256RGJxREw0ZXNkYkl2YjltRkhzN1BJbTJ6WFVETUM0eWhRclV4SldNZGFSRU44UlVVNU9hSUJ3TENYRlIyQnZweEt4OWd6X3RWU0RtUW9EMFZiYks?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-07T16:23:02+00:00",
+      "score": 54.58,
+      "corroborating_sources": [
+        "La Patria 3.0"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6cd0e69775a95a44",
+      "title": "7 de agosto: fatos históricos que marcaram a data ao longo dos anos - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjVGSmQzbUJLem1NWllHZjZ0b0RzUmM4b3VIMUlpTU5jR00tS0d1dEIwYVVmam92WEtlQ3R1TmhiWklZQi1BRG45b1lpa2luWEM1NmpBUG01NDdZOXVhNHpXSU5xRWJPZW5fcHhYNEVIdk9YQVl1NHIwNzVOSlV1dmNQbXc?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-08-07T12:06:00+00:00",
+      "score": 53.98,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -356,99 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVNTbDZLMXdxb0FPZUItUl9aemM5WkVwc05FQXQ1T0dsM01pQ2J0Q2lUYWgtMjE4MzZVSWNpbTcxSXNzN1NEMTRteVh6MEx5TXZKcVJQdjJjYVVOckpFRlZoV0w2MWZpeW04NnVrZm9ZTWtJX1R3NzRqei14T05YY0ppdmFBQS0ySkxiMmdKdGx2NmlLUFBnMTREUmdfUk43ZzdB?oc=5",
       "source": "Consultor Jurídico",
       "published_at": "2026-08-06T12:11:32+00:00",
-      "score": 54.85,
+      "score": 53.15,
       "corroborating_sources": [
         "Consultor Jurídico"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e97efde5b69f555d",
-      "title": "PT erra ao ficar refém de política de classe média, diz Quaquá - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGFIOE10bURHVFl5Mkc0SXlzRFRxcWhNRWVmWVVwclJKQ0lIUTFzYmtVemNKMUp4U3pHSFJDcHVYNnlFZlRPMlBMaTgyUDV3TGdlWXlubTNxcnBnMG55cUVBYjN6WXBYZzhRYlkyVzF2RHlJVHNJNU9MMWhmN2U1ajRpSkU2OUVmckE1c3RjZXNLUWVlYTYwVWxxUzZfWnpNc0Exc25BNEpWZDBlZE40?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-06T20:55:14+00:00",
-      "score": 54.34,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a4a59d76b613c8df",
-      "title": "Governo Lula vê resistência de big techs a novas regras digitais - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakoyY3ZVNTNaS3ZCUUZGNFZYREl4MktNNVFVeHRnQVZHNlJORDZHUmN1QTFGZGVPaXZxR3RuRUpWd1o5TUhqUlVSeE5mSGlDMVdvNnJyTFlRcUVTWVd1Z0N3M1pVdVZ5cFhJYXRxcE1HRUkwRVN6cmJHaDlxNmdWd3VLX0dpZWF6MThDeFUyUHlZRG1WUXpUd0htemdRVERaTjNwSkZPMjhlNTg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-06T20:21:31+00:00",
-      "score": 54.01,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e1fedba9cf377f73",
-      "title": "El desamor provocado - Brecha",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JMXNLWVBwZVNEQWJVMHBVa1dMTjFTOWtCNVZZenlPeGxfRkdzOWxrSG5aWXBhemNwellReEU2dWhrX2owRnREOW1HOUhZRXBiS0c1TGFB?oc=5",
-      "source": "Brecha",
-      "published_at": "2026-08-07T10:38:32+00:00",
-      "score": 53.02,
-      "corroborating_sources": [
-        "Brecha"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "081604e4d0bd6c1b",
-      "title": "Constanza Moreira: \"La política internacional define hoy el rumbo de Uruguay y de la región\" - Caras y Caretas",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLXZ6VEVYQkRwQnRaRldFZ0lwTFFtU29oR3pNaTF0WGF3cmNpT25udHdLc09Da24ybmVtSnZ3VDB5TGtqOEprcjhoQTFFMVNTbWlKU0FKTkpWUGx5N2pudW5XX1Rod09uYlktWk5pVXNwQmtNUE9Kakh4RHBuYzlnZW1acktJQWZoZkdNVWpRR2dKSVhJNWpfeEhkN3lGd19ZTl9DS3JWLS1sOHVKejY3UFFoZC1NQzY0cnRkZS1IbzBuZWp4dXdMR3ZzNkHSAdIBQVVfeXFMTjllN0RTeXp2Vk9kQ3dGLW5ZWkUweU85dVRRRVVLMFkwUS14Q3huVjZiX19ZSzhZLVYwaDdIT1VxMWR1T1BjZzFWZG4zRVlVNmxBNVJ6WmRSX3FBNnZyaVMyZEVmVzZYSzd5RUtaWXJuc2NyRkFTMmRLVXpmVXRZbWd0ZDdWdGRKUWd6dFRtclJiNzRFMjVZTFltMmgzSFNTOEc5VW5MdjFRWTdVS3JsczI4c1FTYnpMMmtaT3ZTLVV5d3FQSl95TkxrR1NKcFRZRU53?oc=5",
-      "source": "Caras y Caretas",
-      "published_at": "2026-08-06T23:23:00+00:00",
-      "score": 52.81,
-      "corroborating_sources": [
-        "Caras y Caretas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b3350609cf48ec6e",
-      "title": "Eduardo Riedel lidera disputa pelo governo de MS, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUozeHJSVkJ3dVVRd0EyamdLanowQVhEV2V5aHctUTdJUEpia2R1NlJZX1RSOGZuclRuRG5FM0V5dDhlWEZzMjJHcS0wSHFOcFpLRGdkdlQtTWdMcmdFU3E4bHl2amY1T0gtaDdpQXE1QnI2T3BheUpQYUtBSjBOZDlvZUNKU1pxR2VIQzhmdXFfd0dPZ2licmFTZ1NtdUE4MS0tM054c01rZDZJNUNN?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-06T17:45:32+00:00",
-      "score": 52.58,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a902a2192709d36f",
-      "title": "\"Una nueva era para Iberoamérica\": la plataforma internacional de VOX aterriza en Santiago - Interferencia |",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUhvSEVDLXhzTHItYmNWOXpqZ1RoTW12WUU3TEZGVTBTdXpjZ2pOXy1QR2stcm5OektkdWFyR3JQeWFIZVJKWnBnVTB1VkpOSXJTZTh0S1F3RGluS0tlMjE0WlJfQkhCZzhackRxMjVVYTR4bjdfNFlId3l2M1hBczBVTkhFT3N0cFZiS2Mtb2NzdlBrYkZBU2haRkNfdHEwVlJPbHZGcHhlNkJVRXpGZEItSTZxWXU1REdTemNZWQ?oc=5",
-      "source": "Interferencia |",
-      "published_at": "2026-08-07T10:00:00+00:00",
-      "score": 52.48,
-      "corroborating_sources": [
-        "Interferencia |"
       ],
       "signals": {
         "source_count": 1,
