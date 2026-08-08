@@ -13,6 +13,7 @@ jobs:
         run: |
           unzip -o radar-politico-mundial.zip
           rm radar-politico-mundial.zip
+          rm .github/workflows/update.yml
       - name: Publicar arquivos
         run: |
           git config user.name "radar-politico-bot"
