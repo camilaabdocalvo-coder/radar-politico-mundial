@@ -1,0 +1,22 @@
+name: Instalar Radar Politico
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  instalar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extrair projeto
+        run: |
+          unzip -o radar-politico-mundial.zip
+          rm radar-politico-mundial.zip
+      - name: Publicar arquivos
+        run: |
+          git config user.name "radar-politico-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Instala Radar Politico"
+          git push
