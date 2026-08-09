@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:48:52.798695+00:00",
-  "next_update_expected_at": "2026-08-09T08:48:52.798695+00:00",
+  "generated_at": "2026-08-09T10:07:02.727139+00:00",
+  "next_update_expected_at": "2026-08-09T14:07:02.727139+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,9 +11,39 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekVLRnN1Qy1rOFVMQWV3RDdzRTlVckFRdGVjemx5TTJDYXdrM3BDMUxQRnc0TElGb0U0czZRTzczUGNkLTVtM3hTNFVlQVZTdDNGRnF0ZWJMOWdPQWRHUF9BYVY1SEFQbTR2MEpyajhMV01PcFV1azRxNGFud1JhQzJTaENWU1FzOEd5Z29rX1dVMTlMZi1CbGJVaWlYc2xuSUV0WHQzYjNRNkxYdFdpSmlhVTBlalgxQ1E?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-08-08T19:49:00+00:00",
-      "score": 81.52,
+      "score": 76.72,
       "corroborating_sources": [
         "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7ff959807f16920b",
+      "title": "La nueva política exterior de Abelardo De La Espriella: El giro geopolítico que redefinirá a Colombia - Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUHJEdlNWWFEyVWtCQm03dENXUG1kQlVxcnV4R0JYN1JNdVhKYXpWcmRHbWxKUVdCUnZNRkhncEhxVGlvREpUZmdseUwwNk1qYjViMTdFZnVwUjdENFBYRGxFZEs1bUtheEptbkREODBnRExWSXh6QktzZmFYYk5SM3RtS1oxVS1PZzhSb0p2dnpYZURLU0QwVDQ4MXRnX0Z6V3pEQVE3QmkwaG9QNlF6dUpPZFQtQTJfZmZodmI4NHBJc2pWeUluckdRSTFvTmRrZTJscVhrRW40d194TW1UZ0JLaWZZUWhCWEo3UkJ3?oc=5",
+      "source": "Vanguardia",
+      "published_at": "2026-08-09T09:46:00+00:00",
+      "score": 75.04,
+      "corroborating_sources": [
+        "Vanguardia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "da5eb350f1f2eff1",
+      "title": "El dólar estadounidense como arma geopolítica - Hoy Digital",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVN6Sk5HelRwbmZTbmw5eXJ1bDl0MlM2Qm5Qd3I4amV3WW05LXIyUTg4T19WcHd1enYtSFhqc2ZDTnhfanNIYzlKeTlZaTZJMmwzdXpFdU5vV3Q4SWxXcFhmeXFKME5WbktMWkZVdnpkMFl0NWN4VTN6R0FiNl9pOVJub9IBiAFBVV95cUxPNFd6dzMtaW1kQ29zcmJsVF9TcWdlWVhpT1VRYlJUM2tCdEZYNHdNUVBYbXB2NUU5X3RXeTAyaVhqWVFvaGliODRENzRhYnYydS1UWVc1Um1QTFlKT05mMEY5Qk1aRHdYRDFERGhvUzB6ZDlOUlFDZExZWWlzeFVNUklWbDFuRHU1?oc=5",
+      "source": "Hoy Digital",
+      "published_at": "2026-08-09T05:10:00+00:00",
+      "score": 69.69,
+      "corroborating_sources": [
+        "Hoy Digital"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2VmcVY3d3ptcmYxM3FsSVhoTFh0NldXaWxuWGE2czZYX2ZnR0xsb3NnY1libGtQZ1R4QzNMS3N6cTFwOHB6cHp1QURaUFpUbEcyRGpFNE5NZW9SVjZ2eVBHU0c2UGU4TW5KMldZUEtsemQ0d1VyLVl5WHU0bk1vNGc0dmlyZkdj0gGcAUFVX3lxTFBkZjRraWtoQnZfcFU0OEwtMmxEaVE1dUhXemgyb1Y3a3FDeEx1Q25MZmdLdTVQV3NHbUlGbWxuajFTUzhxZ2prdUw3UU1nWG43Mkd1Nmc5WVF3VWVRZS1uOUFYOTNrRFR5QlZLbXVZbF9xSTktTHhOR3p4SU9yVGVSc1JOay15cUhXN1dkVXBHU19ZSDc5eW9wMFk2eg?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-08-09T03:00:00+00:00",
-      "score": 73.26,
+      "score": 67.4,
       "corroborating_sources": [
         "EL PAÍS"
       ],
@@ -36,14 +66,29 @@
       }
     },
     {
-      "id": "8ec92090a098f46d",
-      "title": "The future of South Asia will not be determined solely by shifts in global power or economic competition. – PM - island.lk",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORHc0SUllTWdhUUVfZXZ2bzNsOGJ2b25hb05KUV94eDNlcTl2aGpaLVpJbU1mWUs5anBnWjBBNjdMSXo3QWNsWG1RRnM4MzA3YkU5aDRSQkdYU0VKYzZvOE0xYVExYXFhTFFHVFhGLXN6b25GU1NnUTRCd0VWY2FqeWJ6V2J4VXdwc1p0NXg1ZWlfdXJoVms5LVAzSUljU1dhZVZTVnp3ZXhkZVY5OUctRE5ScTNmRkVWMjhfM3RNYWtPelU?oc=5",
-      "source": "island.lk",
-      "published_at": "2026-08-09T04:30:00+00:00",
-      "score": 67.09,
+      "id": "cb64707513bed2ff",
+      "title": "Politics in a brave new world - Island.lk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKU3UtekYwUzR0LS1yY2FYeFMwcUVLSjRsUE90SEZGZDhSclk0NHdMVjVLbHg2M18wSE94THRFdDMwSVJGOWpFdHk4ZmdJQTlubzVqLVNFR0hnSVE?oc=5",
+      "source": "Island.lk",
+      "published_at": "2026-08-09T00:00:33+00:00",
+      "score": 64.46,
       "corroborating_sources": [
-        "island.lk"
+        "Island.lk"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9be38b7f083bfb4a",
+      "title": "De Gaza al Sáhara y de Washington a Ceuta: así gana peso Marruecos en el mundo de Trump - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkhZYUxpd2FHT3JsbEZpbUM5TmhJd0pDY1pMLTgwU1NJRHJGZU52d2xyd2hmRTVYWlJrRk5qdHFGU21QalgtNTFic0xhamNIajZVTWRWWWtCelpZNk5SZ2l5MlN3RWZYWFNYN1ZBNGtiVVRwNV9HSm50a19lN1ZjYTRXNFlCWUVZWFlnak4tRWJHTi0zLS1MdlBXa1ZUMVRNdlNMZC1CTERodlAzNEkwajFWcG9hX2JsT2fSAb8BQVVfeXFMT0s0bXNzc0lWa1B2UEs4SW45VHVKdmpFeUxtUkNvdzRybVFybGNkMUlRVGNSNFZBSzhmMmpra0o4WjhJdERXaWFoQ19jN1p0RVU0RHVoOHVMUzh2X002UERaVTJueWFoZ0lYSkVTazFWQ1JRajBIVWh6SUtKNG8yNmV3ME5qZ3dGVjZ0c2RMWm5QWThjNFQtSEIwbjZWdFFqN3JhMEZFTkh1QlNrVDNNVEkxWlRKeWdfWmc1X1Fvenc?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-08-09T05:02:19+00:00",
+      "score": 61.56,
+      "corroborating_sources": [
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -56,39 +101,9 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZEFlSlpuWGthZkRRbG1MUnFyYnVqZ1RlT3doc0lTV1JGczJGVmRyYW52aTdzSWZ3dWdnTGRrVUV3aUh2UGZpc1ZnWmFQT25LSUp3YkFxeHgtMlJoSG1UMG80LWFkVEpOaHVLdUVLMDlsaHBBUmhjUFdoaTh5UE5pb1FIeDFpTl9hY2l4WE0zQ2pEaWt2bUtHV3U1a3dpZw?oc=5",
       "source": "Universidad de Chile",
       "published_at": "2026-08-08T20:11:57+00:00",
-      "score": 65.9,
+      "score": 61.05,
       "corroborating_sources": [
         "Universidad de Chile"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6799be4aa339fd0d",
-      "title": "Concluye visita de Roberto Velasco a Brasil - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIyZWlVcVNSVzctN21wTmhlVnNBTDVIZjRvbWx5Skk5U0lMUlFuUG8wd3BOV3phakQzeUp1ajRWZG44Rk5UakxYVmx6R1I1NktOdVNadmtNa1l4ckVVWTQtWkdFZkc5YkpWMnVwa3hMTTZuMGxBdlBkenJpemN3aktmZkpndUplTE9xS1I0ZzVlaVF1UWZienRDWjlCOThBa3BVNg?oc=5",
-      "source": "El Heraldo de México",
-      "published_at": "2026-08-09T02:17:00+00:00",
-      "score": 64.42,
-      "corroborating_sources": [
-        "El Heraldo de México"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "30fd55e574243f60",
-      "title": "Un altagraciense fue reconocido en un encuentro internacional de comunicación política - Noticias de Alta Gracia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXMyR3hCb1FGRXZyVnlLUm1zQldUaGlNZlhIbFk4eXg2MHNvZTgwVXAyOC1OcVRUMHZqWHZLTmhQRy0zYnJUTHhtN05LSzZQcDAwWVJPS3BGZEFMVFZ2M3pQazNiLXRNTmN6alR3OEpTeWMtQ2lmTEluMHNaazZiM3prWXVYNHdWVVNqbDdjNEprZTV1dHlSTkpKenlTcTJ2U0ZKYksyaXQzbmYtSUhEdDhDb2wyR0t1al9YR0RqWQ?oc=5",
-      "source": "Noticias de Alta Gracia",
-      "published_at": "2026-08-08T17:50:00+00:00",
-      "score": 63.65,
-      "corroborating_sources": [
-        "Noticias de Alta Gracia"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +116,54 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2tvcFNyQjZ5VTV3Y01fUjJtaU1jOE51ZHFOSV9HalZtcy1mNjJrOEtwWk9oUzhqMmxJLVI3QlpEWkZRSm9HRDR3akhMNmNTLWM3VnVwaEY2Rm13cjhMSWZ6YzlCV3pwOVpEN2Q1bVR2eXE4V2xjcFBobDBmRVlXX1pWOU8xN3VOLXc?oc=5",
       "source": "The Japan Times",
       "published_at": "2026-08-08T06:33:00+00:00",
-      "score": 62.72,
+      "score": 59.4,
       "corroborating_sources": [
         "The Japan Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "30fd55e574243f60",
+      "title": "Un altagraciense fue reconocido en un encuentro internacional de comunicación política - Noticias de Alta Gracia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXMyR3hCb1FGRXZyVnlLUm1zQldUaGlNZlhIbFk4eXg2MHNvZTgwVXAyOC1OcVRUMHZqWHZLTmhQRy0zYnJUTHhtN05LSzZQcDAwWVJPS3BGZEFMVFZ2M3pQazNiLXRNTmN6alR3OEpTeWMtQ2lmTEluMHNaazZiM3prWXVYNHdWVVNqbDdjNEprZTV1dHlSTkpKenlTcTJ2U0ZKYksyaXQzbmYtSUhEdDhDb2wyR0t1al9YR0RqWQ?oc=5",
+      "source": "Noticias de Alta Gracia",
+      "published_at": "2026-08-08T17:50:00+00:00",
+      "score": 59.1,
+      "corroborating_sources": [
+        "Noticias de Alta Gracia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6799be4aa339fd0d",
+      "title": "Concluye visita de Roberto Velasco a Brasil - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIyZWlVcVNSVzctN21wTmhlVnNBTDVIZjRvbWx5Skk5U0lMUlFuUG8wd3BOV3phakQzeUp1ajRWZG44Rk5UakxYVmx6R1I1NktOdVNadmtNa1l4ckVVWTQtWkdFZkc5YkpWMnVwa3hMTTZuMGxBdlBkenJpemN3aktmZkpndUplTE9xS1I0ZzVlaVF1UWZienRDWjlCOThBa3BVNg?oc=5",
+      "source": "El Heraldo de México",
+      "published_at": "2026-08-09T02:17:00+00:00",
+      "score": 58.68,
+      "corroborating_sources": [
+        "El Heraldo de México"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d76c039ba6d77ea4",
+      "title": "Zema propõe tirar Brasil dos Brics e aproximar país do Ocidente - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDh1bWZWeTAzSndIVVpUZ0JaeGEwcjRQLUVpRHI0Nk5YdWJ2UUJ6Qk4zRkRONzJTaXpFM1pkSUJyTFV4RU1lUVdUN1pRSW9CRmx6NGdnQjU1OTR3eGRDRGNNLVVlb0NKWDVlQXRqd3Z3Z2paUHZkcG01VzZJMU5rZXBPM2RWdl9jZm5TWEROLV9oTXVRaVVGcE9LZmdodldnalJZ?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-08-08T22:43:00+00:00",
+      "score": 58.26,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1dUUV9RYmxTT09ZQzlMUTZTZ2ZjNVVFMTVFVUhfRXoyTTV1ZkI5UUtGbGVHV1BsbVFHMVB1SVlDYkp3Q21DOGRkTnlTVTFBblEyX25ETGdDdDhfT0N4WGRrS2dkcDl5ai01cTRiMy1aVFlzMXZMSEFuWmdncDhUbDg1OWVrLXY1Qk5vZnp0eFY3MmtBQm04NlRuSlp6NDFs?oc=5",
       "source": "La Patria 3.0",
       "published_at": "2026-08-08T15:54:31+00:00",
-      "score": 61.92,
+      "score": 57.61,
       "corroborating_sources": [
         "La Patria 3.0"
       ],
@@ -126,14 +186,14 @@
       }
     },
     {
-      "id": "f20f81f6907bf376",
-      "title": "Senado dos EUA encerra sessão após quase 20 horas sem aprovar o projeto de Trump - Gazeta Digital",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUC1xZnZxUmpzYWp5S05ycFJtZEdvZW1jUTlkWWJHVFk4UzhQMUNUaW1rNXUtN0xXdWE3VEJ3M2VrRUNFRGI5ZDA4UjVyRU9fWVJUbVFSRjZ4bU4yRFpISENIZlFjVlJCSWhFcFhQM2JIcVBXLUR2V1hOdWZHNjBEbmpYRnJTcnk1ek94Nmt4S2pfZEcwX1pvRGVXX2pyUWZlSzVJLU5kV1FEcEk1M0xCYUF3azJ5TmNRaDZGZFRTclAtQU4wcjZCSmJGOXQ4R0FoSUE?oc=5",
-      "source": "Gazeta Digital",
-      "published_at": "2026-08-08T13:11:00+00:00",
-      "score": 59.63,
+      "id": "4e74ab7ac64082af",
+      "title": "Onde o Brasil se encaixa no novo mapa estratégico do mundo contemporâneo? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXRTSUxXdlZmRzY4QlF3cFN3M0V0X1prSUJCeE1zb3dFRERFYm1Tek10Wl82Z1p5MFZsa2wwSU1NMFBTakoxMEJXbEM2VGlOLWRTVnV2bnU2cmtKWWJkdFBkZE96blhsUWNEWllwVUpGYnlBQnBwUklHcXJMNTdsZ2p6VWhRb1NYdzRTaU9sZDItMFV0VjdtZzZrZmM5amxIeFF1TE130gGrAUFVX3lxTE1STGJmb2R4R1NjZDQ5eWdUMUVGeHJQdEZXNmN2R0FlbW5yS3l6QjBPb19zQTdWcEdiRU4za3hKcF9KTndxMHBHYlh5RjY3SDZ5TXp6UldlNlg5Sk5XZ2hPcFk1TzBJUFowMXNXVERtWmFjRC1QWi1RcFRHbGVZRktDOVpUaHRIZzVLWllid1dsLTVsa01LcEpxS0pGRkFabkh0ckFUc2d1Uk51cw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-08T20:00:00+00:00",
+      "score": 55.88,
       "corroborating_sources": [
-        "Gazeta Digital"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +206,24 @@
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNbzlXVTFqWEs1a2dlVjZsXzNhRnRtbTkwNGR5MThBeEQ0a3pONG16bk5ZQlZiWFctOUp2MU1GWldWMGZyUzBkQTRBRWtXUjZDTDM5RFlaQjR0YjRyQnAwS3pibUZQT0pSUUpnM1RyZEVUWDdGMzJzT3lyZWZvc0xUM2VaNjEwRTMteFNodC16U0sxLTU0SFhtT0haMHFFbXNJN29zdkROMEZoYzhkakM0RC00VE5wVWh5al9LX2E2M1l5aHlHTHRzZmYwVWlkLVphc1lCMzl6U2tKRFFuVEQxRWVxT2VYUG5QVnU0a3hFWkpuX2NnVWNkamp5b3FYMUc4cjhyN2tWWXNMLXhoWHItbE5ZOG1iM2dGbkFwcFVXbTZ2QkhtUkhn0gGsAkFVX3lxTE9PTzdwWVdXVmFjTzlzVEpHcVhPd2ZKekF2Tkt6ZDdXRDVhZ2w2Z1Q5aERQVEhITldJSlF3OGZJcHlwTWQtTEZSdnhvM1JFQmVIUHItdnhWSjZNVjJzQktjREZ6MkxyVHI4TjJBZTl4MTh4RTVVMG56Ml9hNWh1eGxjVnAwT1J6SXpMMWZSSFJYblNqalZEWnJqWTM0U0Z2TDEtQmZoS1pmWWVEbFM3Y0xsODEwSS1LNjgxeWs2LU1aWXhrNnIxM0YwdGE3QkJ5dUVVVzduLWxNSGFuTFUwems2bkdka1RxbVBzZkhKVi14YXlNMjhvbEc4OTdqTnZkNExFdUg1ZFVyVm96d3pqXy1ZTjg0dno4RXFoa0FHTjNwUm03UUthZGVjdkVTRA?oc=5",
       "source": "El Tiempo",
       "published_at": "2026-08-07T23:43:13+00:00",
-      "score": 58.53,
+      "score": 55.78,
       "corroborating_sources": [
         "El Tiempo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f20f81f6907bf376",
+      "title": "Senado dos EUA encerra sessão após quase 20 horas sem aprovar o projeto de Trump - Gazeta Digital",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUC1xZnZxUmpzYWp5S05ycFJtZEdvZW1jUTlkWWJHVFk4UzhQMUNUaW1rNXUtN0xXdWE3VEJ3M2VrRUNFRGI5ZDA4UjVyRU9fWVJUbVFSRjZ4bU4yRFpISENIZlFjVlJCSWhFcFhQM2JIcVBXLUR2V1hOdWZHNjBEbmpYRnJTcnk1ek94Nmt4S2pfZEcwX1pvRGVXX2pyUWZlSzVJLU5kV1FEcEk1M0xCYUF3azJ5TmNRaDZGZFRTclAtQU4wcjZCSmJGOXQ4R0FoSUE?oc=5",
+      "source": "Gazeta Digital",
+      "published_at": "2026-08-08T13:11:00+00:00",
+      "score": 55.63,
+      "corroborating_sources": [
+        "Gazeta Digital"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWmVkQTJkUFJXbGFEc19ERmMxT0hpOGxIcmx2bWlGY3ZQZFl0MExNYmdCWWNvbW4tWFFNb2FUUU5rREs0R1pwQVpYWWhXRHRjbUVhLVNhWFdsZV9nbGxnU0JCMXlDb3hwZ2plVWpmUXV6MUlVQkNnbW82d3Z0SEFRVmR3TGRwWUFDZWgwcG5xNWE0UThOWllvd0huUnV4RkdDTzFaMFZucThLOG5iWVFLSUo2Z3BGQ0JyRkpsQ21FZUdXUk5SRkpReTBheHl4VlFvLTg0OFdrbnN4R3c4M0RpWmprcV9nYTRiYk11eXQ3ME1kRjTSAfgBQVVfeXFMTzZyNFJrREhnOW1XN0tiM2NuaTFrS3lFZXZuVlF0N3c1a01uTGVsbzVVbXNoazl3eFdkcGVKeWVSV2xudERUbHBQNEtUVFZZOGhpSXpEZVRGWEY0dWY4QUM4OWZacHpFUkJma3hxZlRvWFplbWhwbWluUVIxVExYQ3B5RnFvXzZnVy1rUGVKbW40RHgyOVpyWWpXZTlRaV9WTEhGaVlZOFNWOTRDZXVvUmhhRUJoTGV1eFpoV2ZWSlc2Q2RJc3FIcnpTSVg2LWJVMFZ4QmNyak9Rb3czcEhQcjB4R0hMbXgxY2JpU3Y4RkV3UkxIZ2dRMzI?oc=5",
       "source": "Jornal do Brasil",
       "published_at": "2026-08-08T11:44:00+00:00",
-      "score": 58.48,
+      "score": 54.64,
       "corroborating_sources": [
         "Jornal do Brasil"
       ],
@@ -171,29 +246,14 @@
       }
     },
     {
-      "id": "8875c1166809bd1e",
-      "title": "The Economist: Os governos estão fazendo uma aposta perigosa no boom da IA - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFJuUUJSYzJ5SWU5c0kwYTBMb09QS1kzdTRmS3JVSXZ2Tl9veGRqMXN0UW56YTdFLW50cnF6S3ltM0NlbnNhLTc4ZFBzc25uSGVPclBiMVRFdTN5WkxtQ2xuNnJRbGNSaDVQd2hNbEwweHFNeU1oSkl2WXd3OUZqY0tFNUdSdUFCT21J0gGQAUFVX3lxTE1RR3BxV3RwRVlhcXlrckhqVkRlVks4SnlOZTBpRFhZNnMzRi1ZVjN6YURpUkhzSFlldU5DWmgzTE40XzlHd0hNQnEycHlMUkhmRzZRR2RhcVFreG9fbm1Bek1zRzNUMWV6ZUdXUmJVRUx1aWVyQUtXWkpGVGFxdVAwcGJQVVVJMmRjYk1SMWdjdA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-08T17:30:00+00:00",
-      "score": 58.34,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f98b6ed8d2e44264",
-      "title": "Tercera Guerra Mundial | Estas serán las primeras ciudades latinas en caer, según la IA - El Cronista",
+      "id": "12b018e3edb202b6",
+      "title": "Tercera Guerra Mundial | Estas serán las primeras ciudades latinas en caer, según la IA - cronista.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOazYtdTg5ZzdRdkRLN3Y3MHpvVjBrRmlCSDVCdGNPMmlidUdRd1ViUnhXM0xwbjY5aVNvNVh2a2w0YkM4OEhSOXpzdnI3WnNxNVZVTFVla2R4LXhyM0FCMHJTWVk1VzBDandDRVoyM0Z6dXp0eFNFd3JNeXgxNElLa0lWUzV5eldyT19YaHVoSExlYTVhLXllTWdRd25JNzlmYWxRZVhERWVfNWlta0xxUVAzemE1TE40STk5Ykk4VzB6TzA4OFRBVi00MmPSAecBQVVfeXFMUDlyd1hwa0QtdzJqNXdfbzhUazdyZlNEa2RLZ3c2VTZvcEUzNndpTnVtM0xLb3lFQmdyUld0YThuNVllVlpmaUd4THpQcENCVmJSVzh4NHFaVm5ONFA0ZDBucGw5cW0tZFpBVnFwZEpoQlF1R1hkVU5fZ0VoT242MHU0a3lXRXJNeHBScDFNbVdWS0c2OHdOVy1DWUMxUjVBRE9Takw4aFFLQUh3NGNVQUN0TDVrekJ2RDJOQm5WZElPdmJQUk9wSWdQaS1LY3JtSVZjRHhnRDVOdktRZGRURTJqMG5Fb0hN?oc=5",
-      "source": "El Cronista",
+      "source": "cronista.com",
       "published_at": "2026-08-08T11:33:00+00:00",
-      "score": 58.33,
+      "score": 54.52,
       "corroborating_sources": [
-        "El Cronista"
+        "cronista.com"
       ],
       "signals": {
         "source_count": 1,
@@ -206,9 +266,39 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOENVS1NsV0F1ekhIVU5nOFA3UUc4aDNsMHRfYk9uaWFIQWRjb2hheEhrbXgxMlZSTENrZEFMYkN2WHZvOFNnci1DQXJoeDNXLXNBWE54VlZuVENDM1VqRllERGdpX0d5OTAyb2R6Y2F6TkRxVE80RXY1NWpqd0twTkwtQXBiMDRMOEhHVVNMTHNHREswbmplSHdablNqY193RGFlTXFzV3c0azhtVUd5enR0RVRwWVNIek1kWVJyMXp1ZlRFbHdjTHJEUll1NWF6NDlzTVBXS1hSSzdsRDUwNzEzbEVCbXdW0gHuAUFVX3lxTE1zNEVsX1A1Sm9FY1I3aGxIbm1qTERQejdieE9ycG00LVJHbDNyek5peEZOS2hEUnNOUlRpcXVIVElHTUhtZVhHWDQ2Z1hhQ1FzS2xiZ1RTb0ZTY2VWZXpiR04xMEFnVnJseTZYU1B5aFlvZTdHcGp5dV9jS3l3V0gxcWdhMDAwSmhsVTM0aWxZVi0wWC1vbXVCTFdCWnVCV3BkdkRnVTdDWncxOHpNN1FEZUV3T191RExBSUVjVzNnbVFaX1NFWFRfXzQwSnpnc3VoUFJ4S1RPdW9XM2JGX2REaHR2TUxFUDFFZGo4X1E?oc=5",
       "source": "Reporte Indigo",
       "published_at": "2026-08-08T11:00:00+00:00",
-      "score": 57.91,
+      "score": 54.15,
       "corroborating_sources": [
         "Reporte Indigo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8875c1166809bd1e",
+      "title": "The Economist: Os governos estão fazendo uma aposta perigosa no boom da IA - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFJuUUJSYzJ5SWU5c0kwYTBMb09QS1kzdTRmS3JVSXZ2Tl9veGRqMXN0UW56YTdFLW50cnF6S3ltM0NlbnNhLTc4ZFBzc25uSGVPclBiMVRFdTN5WkxtQ2xuNnJRbGNSaDVQd2hNbEwweHFNeU1oSkl2WXd3OUZqY0tFNUdSdUFCT21J0gGQAUFVX3lxTE1RR3BxV3RwRVlhcXlrckhqVkRlVks4SnlOZTBpRFhZNnMzRi1ZVjN6YURpUkhzSFlldU5DWmgzTE40XzlHd0hNQnEycHlMUkhmRzZRR2RhcVFreG9fbm1Bek1zRzNUMWV6ZUdXUmJVRUx1aWVyQUtXWkpGVGFxdVAwcGJQVVVJMmRjYk1SMWdjdA?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-08T17:30:00+00:00",
+      "score": 53.84,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9930f41ed45a71e6",
+      "title": "Único partido russo crítico à guerra corre risco de exclusão - pleno.news",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXlWekpZcFU0UlEwb0FLM25Wc0ZQNVFlZWR2OVJ4ek84WXk4RXZfbkpwWGFWSXhmdVk3SkNvMHhfdERVV0hOXzRNblFjQ2NIYVRLdnpKa3FsdXladFlEbzdTREJrVU9wMmx2eDBFYWJtQUJLOVdrYXEtUFBGQU1QeDFRUWZxaDVNbnFRWjctR3JiNC1qYnRRcWdOdGJTS1UzMnVvNVQzUm9obG1yZG1uNW1MONIBuwFBVV95cUxNNVdwY3JMSTdzaEhRNG1fN1NYQ3RQcUhGQlpra2xYUjZyNHBEMmRwZHBZbHZjeGhTc1Y5cmxjWVZUcG1nSXNsQVNSZ3dZMUxkbTJ5dll3ZlJTVXhGZ2NxTVhpZzVjU011djZyeVVWajBTUmRZWnVVdWllNzNZcTRtQmhnNVJkNnF5VkQ2dEVIQ00xVVppSWRJaERuUGxYeXl3eTgwTGtueGpnWEdtZW9Vc3lGQ0JCVDJFS21J?oc=5",
+      "source": "pleno.news",
+      "published_at": "2026-08-07T19:20:00+00:00",
+      "score": 53.8,
+      "corroborating_sources": [
+        "pleno.news"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVGRGaDZmUEx6TUhXSGZlbE9FU0hCYU02RUdENDIxZWlVNVVkemEwZ2NhN3BPYThmbmtjaG9SZ21CS2hncjJTcTBXWFVhQW53MHdzOTVVc1pMY1lCaDA2QzFVMDU5Rlc2NS0zalBsQTVKRXpDVldJSkdlMVA3d1lIZ3QwMGVGUldqbG96WV9HVjJsY2xJZjBEN25qcGhkOVpWU0RQeUdLN0VXRGtDMloxTVRXbE14ZWRuQUtFZjZDbEdhWkptb1drWGdJTUZkNHBtR1FMQdIB2gFBVV95cUxQTnFCQ1A3blhma3o0YUpHTE1YRVFqVUc2cjRhSHdxVXItMUxzUHNKWk80TFZDQkRpME5xYVd4SVBPSzlxVWZ4TkxtN2doLVFtTGY1WGRDNTJtbEh0SktRa09KNHNMMWVrd2RodFppYmFFRGl0dHJsWFRfSzAtaGxJVWRpQnZQTmdmQnFmQ21RY2d2bFNQMEkxeTRCZS1VZl9qNExUUnowVEZFNmZTR19jVlNVcmdkbkltazhwcFczbEc0QWZxVUFpQ2l2TTBRSkoyalV1d01Ca0FvUQ?oc=5",
       "source": "Diario Público",
       "published_at": "2026-08-08T10:19:23+00:00",
-      "score": 57.4,
+      "score": 53.71,
       "corroborating_sources": [
         "Diario Público"
       ],
@@ -231,29 +321,14 @@
       }
     },
     {
-      "id": "f4ad4948869220f3",
-      "title": "Changing Role of Middle Powers in Global Politics - The Diplomatic Insight",
+      "id": "e582f445cc7edf20",
+      "title": "Changing Role of Middle Powers in Global Politics - thediplomaticinsight.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNalVkOGkxa0gxVl9CQ3JLNFo5aUtmMUROQl9LU2JRTkE5b2JtLXJNRHF5ckZUVnpxa1FLbUZQLXNlVVBCZGlZRU5BRkhHZi1maHR2YWtxUUhldXRkX0V0dkt6aHdLR2FYMk42LW9IaFdwYU0xdEROOENNLXY0WFpFNEVUSQ?oc=5",
-      "source": "The Diplomatic Insight",
+      "source": "thediplomaticinsight.com",
       "published_at": "2026-08-08T08:49:15+00:00",
-      "score": 56.3,
+      "score": 52.76,
       "corroborating_sources": [
-        "The Diplomatic Insight"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f9c206b5ef6ee9c2",
-      "title": "Único partido russo crítico à guerra corre risco de exclusão - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXlWekpZcFU0UlEwb0FLM25Wc0ZQNVFlZWR2OVJ4ek84WXk4RXZfbkpwWGFWSXhmdVk3SkNvMHhfdERVV0hOXzRNblFjQ2NIYVRLdnpKa3FsdXladFlEbzdTREJrVU9wMmx2eDBFYWJtQUJLOVdrYXEtUFBGQU1QeDFRUWZxaDVNbnFRWjctR3JiNC1qYnRRcWdOdGJTS1UzMnVvNVQzUm9obG1yZG1uNW1MONIBuwFBVV95cUxNNVdwY3JMSTdzaEhRNG1fN1NYQ3RQcUhGQlpra2xYUjZyNHBEMmRwZHBZbHZjeGhTc1Y5cmxjWVZUcG1nSXNsQVNSZ3dZMUxkbTJ5dll3ZlJTVXhGZ2NxTVhpZzVjU011djZyeVVWajBTUmRZWnVVdWllNzNZcTRtQmhnNVJkNnF5VkQ2dEVIQ00xVVppSWRJaERuUGxYeXl3eTgwTGtueGpnWEdtZW9Vc3lGQ0JCVDJFS21J?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-07T19:20:00+00:00",
-      "score": 56.23,
-      "corroborating_sources": [
-        "Pleno.News"
+        "thediplomaticinsight.com"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd0p6Q183c2dMVFo0RXB5emtuMUgzejRuYTZ0SFdMNXpaLTZRUEQ2UFpOWXpCNGxmT1pOekR2S2xMcDMwSHRQSlhjUkk3UWNYUXVDWXNMdEROMU9ESmxUcDRNR2FYamVZS0pyNzVVTEJMZERPT25CZC1UTVh1c0VjSm9fQ0daUGthV01vLVM4UnBCb2RaZEFqWlplbUppUEpURWVBN196ZjJLR0ZTdFdNLVg0OEFoQk9nbjdNTmQtMnI2aHRXMHg2cV9xbDB3SEpyN2xsMHJxUVRYX1gxbjBzQ0MyaWNTN1FiMVlVVXo0YWtSTGZWZzJZbEF0WVpNNTAw0gGGAkFVX3lxTE95N3d0WV80NWxhNmI3TUdjZkRkVDRsdXhTRG5YS3N0Mmt2S1o1U056VDBja0JLVENnQXpNVlVwWTdnd0phSGVJMF94U3UtTlpxN2FIbEpUTjlvQ3UwSEYzU1hmTktMZnFEQl8wLUNudEtVYVN2ZmhEWm9Wc1RZRkxqcng3ckFLYnM4UGRVdnJoVmlrdG9VR0lmVUE0WHI3NFNUZUxDX0E4eUVMSDlkZ2J5Qm1PNmRLbGRsTTdzUFhoUFZWNDF4ZlVPUTJQamFzRkFDYlZtWTJlMW11VGNYRktIQ213czVzTVRCRUt6eDRxT01qdVFoSHdTQ1hFa2R2YTNISDVyUkE?oc=5",
       "source": "El Diario de Madrid",
       "published_at": "2026-08-08T08:29:58+00:00",
-      "score": 56.07,
+      "score": 52.57,
       "corroborating_sources": [
         "El Diario de Madrid"
       ],
@@ -281,144 +356,9 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX1hFM21kQ0ZCa0RRd3NJclBIbjdBZ0h6cm1kLUgwcWZ5WFlTSTZTcG1uNkhrZUg1dEFpem5xdWRGblBpQU5qQXpWVFVGenZkOFBOcHpnVHZfZ2JsUUxWdEpyWEtsX1pPQndMem9Qb0JCS05VTVlyOVR6S2ctQ2pDM1p0RDJnVHZxeGgtQWxXS0Q2Z0d3V2dPRDM4bF9yaE9qbVFldS0tLXVrZTlSUjh5V3FkVnFuWEEyWGtHZDVITWhZLV9TTkh1UkxSNkR4cWYxNkF4MTdQZVBSZzlEM3A5VTFndUNCbFBRZkJjM0FuOFluODRpNkVBTlZCY3NiRFRaZkFQX1ZR0gGQAkFVX3lxTE5zWXNJeDJpdlFFUF9FRi1XYWpDU3AxQ1lLTzVBeGZQdzl4RmF4SklEN09yT19SUVNfZ1lnT2JpYmhZTkZHUlpiZWRocmhMYVF0VEJGaXlZYmJXQmJlcjVOWmg0WjZBNlU3aEJOSE5ZZHVCY2VPN1B5R1FObk1HNlV4WEYyVzA5N1FRZUl1UEd2SVItRDJHLUx1TWZEZktNRWNNVkpNRElsV1RsaXJITXUxOXdVdE1PYnpXdVhTd1d5bFVHMFhTTUpsX2xmaFZrazZHUExTSkNPb25wN0V2LVZiOTlMQ2NsZzVPeTg2dG9xVVdMcUtWM0NGb3k5VW9pZjVZY3FqY1FDWU5pZ0xRZFFs?oc=5",
       "source": "Libertad Digital",
       "published_at": "2026-08-08T17:38:21+00:00",
-      "score": 55.47,
+      "score": 50.95,
       "corroborating_sources": [
         "Libertad Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "45e6c5181cd05187",
-      "title": "A crise entre Brasil e EUA não é sobre Brasil e EUA - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3ZYZUJJSGNOaTFDdWhsdVNCQWJqQklCWXBRUy1uVWNzVU00amNmR05RNzBLQ3MxNENpV0xXaFEzOWdsb3h2TDhidEs1c2pnTkNrc3JmMDR6WUFTT3hJUjlxWldCUUVSYkwxbHoxVndkTXhhVDl1VDM1NkJ5OHY1c2ZkZnhpUFlzbm9iOGNlYVJyMnJPNEhWOTBwRDI1c0Z3VUhwX0wwOHpmMWtvQWxzRXBKVE1RS2hHbnE0?oc=5",
-      "source": "CNN Brasil",
-      "published_at": "2026-08-08T13:30:40+00:00",
-      "score": 51.89,
-      "corroborating_sources": [
-        "CNN Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2d98c75ff26109de",
-      "title": "Big techs reduzem medidas para eleição e encaram novas regras judiciais no Brasil - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMml3OXRBY3A4TXFFemtxWHpJay0yUmJZeXVhcHJ0YU5zalJxYmw2VVNXamFhZzc1YkpQbTVpUS01dGpPamRjRTUzUEk4ZFo0cjBsWU5zRk14Yi1zenduTGtZdXR2RVlpbHljTGlHUnNRbk45Y3N6N3hFMFFkSGpiSEhnLS1WTWg4Qi01X3ZpZkE5dnd6RXZiYmxRTkVnSXVLbjg2MHBUZGVOX2k0VjVmQ1RpWmVmS3RweXFpSlZoWDIyU2o1NnRTazN0MA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-07T20:32:00+00:00",
-      "score": 51.83,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "41f88f894612c286",
-      "title": "Política externa do Governo Lula é respeitada pelas grandes potências, diz Edinho - Partido dos Trabalhadores",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUZNR3pXaWZzNnpYcEtOcHQxenBWa3doRHExMG1zejgwZHRqWUF5TEdXYy0zUkIxRE03ODAtdmFXTVlCZ0FoTUxoZGw4YTBncTJLT0QtRFgwbHFNdUxxWUhHdkZRcFVSdXlOSmRUTGpKNzk4aTJtMVVfdnVYRE5WVlFMVS1Da29iX3dlWVpWMVZuM3o4eFB0LWVqVjZwQUlZ0gGoAUFVX3lxTE50RFB4clpveHc3Y2p2bXhvTElXN3pNU0hweHQxZVZScFo5NGFzZzN0TlRpRWdoa0J5RmN0SXN4QzZNdTRRTnQxUFpNc1FYS3lEQkJBSzlSczhRUHBBaTNYRkxUei04NGlIR1dwLVEzaU16bnRXTkYzSEtidkxlZHlHaTNZdkRIRmhZZDZFUlVqRTlXU0ZqMUxwT2QtSXlBUFlfMG9vVmM3dg?oc=5",
-      "source": "Partido dos Trabalhadores",
-      "published_at": "2026-08-05T22:55:00+00:00",
-      "score": 51.65,
-      "corroborating_sources": [
-        "Partido dos Trabalhadores"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "51aa0ebed9a02f5a",
-      "title": "Hunter Biden says his father’s prostate cancer is causing him pain even as he continues to speak out - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOblpLREstUURkWVVLUVdOMHZjZ0NwYWlYaXByVDdUeXQyeGd0THJ0TDVDWDBUV0dORExpalpXQ3pYNU10aW9VZkJoaFNDaUVyQmFMX0dLSFRGa0JtWTM4QWU5QnFyejd6RGNtRmxGLUtLZTlRWU9Kel9wWDdZLVlQSXdrZFhUT3Bna2FnWV83NW9YRWU5Rk1QbTVsS0ZUWmdaa1RackVLVWVLR3RNbGV4elhneHFnMnVDYzBuNzZMclhwMmZHWU9HYlJ5NUxsbVI4enRCSEJzZndZR3VBa2NldGlqanFab0l6V09HWlJLYw?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-08-08T13:02:14+00:00",
-      "score": 51.51,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "266348f73a2a6f83",
-      "title": "PSD lidera em candidatos competitivos para governador, dizem pesquisas - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkFHUHVpbjJmdHp3dWNkT2hWS2xYNWxqN0s4VzE4bmdiWU1oNzRCWGVnNWsxOXR5SEU3YkFabnZkVm90cUtUU2VybVhyRzloN2hhYWoxamRDcEVMNVZpMG5mVlVMS0lmSjlBampaNTdtMWFVWnZxUlZaUWM1ZTZfdVBwcWhWc3UxcVo2Sk52OERQM0VIQUt0SmlRT1phX3dycnB4THNBU0k4YlRaRDR5VlpaS2R4Q3phaEE?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-08T09:05:47+00:00",
-      "score": 51.5,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cb03925bcbb71a3c",
-      "title": "EUA sinalizam acordo para reabrir o Estreito de Ormuz - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkJNd1hacGs0RUdCbi1lY2lTN3BnamlWeG1LVlBQSHF3eDg4ZHR6X1dpWlQxcUhLQ29fZVZUUTVmZFpCUDBocnlEOEJ5TWdxY0NwTWh6cWl2a211TU0xTURObWttbUFGVkIyaGxrcDRKSERSbE5RQjl1Ny1ITkVObG5hRWNuTDE4V2x5SFc2MDVYTEtZQWJQd0NWZUE3dXVMd3Bpanln?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-08-08T00:56:00+00:00",
-      "score": 51.22,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ed3841c69f9061ca",
-      "title": "Pix vira alvo de disputa política, mas mercado descarta sanções - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQm1UcWhBX2hwaU8zdUE0eENUSWNMSi1DRUEtRHZFR3puRkVYbnNvbWxLekVhaTg5U3gzMFp3Mk51c0MxVkF3WUw0UENOdUNrbU9TSzV3VnM0RUNrcThLQ1lYZG5xR21MSFc0c1ZydV9CZ2RBUnZQQXd1RzE2NWt3R2QtbG1rWlBybU5YVThsNzV4cU13b241elU4bzB6QmdsOWJKRVZRQzJ2Mkg5b3Y0S293?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-06T20:45:00+00:00",
-      "score": 50.96,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9a818b14a62d83e5",
-      "title": "Todd Blanche narrowly confirmed as Trump’s attorney general in overnight vote - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHhmdnJ6VnJsNnQ5V0hLWmx6OUNCY3EtWXBQOS1wNVQ5aXZDSXZwWDdVeEJEdWF6TkVNR2FrU25CdUVKTHA1YXRoLUlYTVJ1WnNxelpJLV9NSEc4aHhSaFhXcGJEUmlrd0gyTmZ6ZHJxNFVvZ29jeGpoU1JGVEhLR0JVM3BJS0dsWWxvT0pzb2cwWW1VY29wYWl3ZGk5dnpDWEttcXJRSWMyVC1nd1hENXFFcGhPTUFwRXNPYW9Gd1NnelZWVnhvMVU3bTlGcU5xNHRsMlBaTQ?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-08-08T11:59:03+00:00",
-      "score": 50.67,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "edcf3119081908b4",
-      "title": "Caiado anuncia Roberto Azevêdo para seu plano de governo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlFyLXROV292MFNYTGhFUWhFVUpYUUJrdncxVGpQRmFpV1FHODk3Y1JDZlU0Y1p2OTE2M0RmTm1LZ2tiRV9KVHlqRjg5bks1Zm1iN1ptYXhadGJMVE5mQ2o2OFVQRF9uZ21GZmItdEhyckZtM3pJNlhOUlgwdF8tZzNxcDhBaTNNUDA5blRqS1lpbGJUWllUV1ZPa21VVm1xMGxMOFVVOXk?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-07T17:41:04+00:00",
-      "score": 50.44,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -441,14 +381,74 @@
       }
     },
     {
-      "id": "dfbb348260c1a3bd",
-      "title": "Fuerza del Pueblo propone una política exterior sin “alineamientos” y basada en el interés nacional - Diario Libre",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGtERjdLbmZRWmxsTERwaDZ1Y1l2dnN1dHp1c3ZPbXlWUGdSN2huamRma1Z6RjJrQ0FTOWIyWXBYem1qRFBOZjFZMzFWMS16Vk03Nk8xVVdhVGhKcWZQV3hieVd5alRMWVZLaDZBUXhVandKai1FRzFldDJaNjlUMTN3SmdhSFM5cjI3VldtQU9sU0NpM3Q5SzZPUmtyU2tfV3YwbDR2SmxPSzNnajRBM2ZNRW80WjFPMlpLR1c5LXVfY3PSAcgBQVVfeXFMUDBDemQ3UXI1OHBmX3VNRXQyZUFlS0lSZ1VNLVRDZlU2RXlBcGVBT0dZNHJkYkVBMThvSDFVal82XzN5cFVISzdHTXBiQWhGNE1ZdFBhaEFaYjA1Z01NU2xUdjIwVEZqbkgycm1oWFlwRkFKSVdDMGxOVThTM0FQVlc0ZHVzaUVzeWpXSjVrX0tKSlJqMGZqamJhdTRMVjZCdTNEeTg5V1hCcHdDRzgwbjlFYTE1dG1IYzFHMjBjRUIxd01Nd0xRZUM?oc=5",
-      "source": "Diario Libre",
-      "published_at": "2026-08-07T21:17:00+00:00",
-      "score": 49.22,
+      "id": "0a5bbcb82a5bc233",
+      "title": "Big techs reduzem medidas para eleição e encaram novas regras judiciais no Brasil - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMml3OXRBY3A4TXFFemtxWHpJay0yUmJZeXVhcHJ0YU5zalJxYmw2VVNXamFhZzc1YkpQbTVpUS01dGpPamRjRTUzUEk4ZFo0cjBsWU5zRk14Yi1zenduTGtZdXR2RVlpbHljTGlHUnNRbk45Y3N6N3hFMFFkSGpiSEhnLS1WTWg4Qi01X3ZpZkE5dnd6RXZiYmxRTkVnSXVLbjg2MHBUZGVOX2k0VjVmQ1RpWmVmS3RweXFpSlZoWDIyU2o1NnRTazN0MA?oc=5",
+      "source": "folha.uol.com.br",
+      "published_at": "2026-08-07T20:32:00+00:00",
+      "score": 49.32,
       "corroborating_sources": [
-        "Diario Libre"
+        "folha.uol.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cb03925bcbb71a3c",
+      "title": "EUA sinalizam acordo para reabrir o Estreito de Ormuz - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkJNd1hacGs0RUdCbi1lY2lTN3BnamlWeG1LVlBQSHF3eDg4ZHR6X1dpWlQxcUhLQ29fZVZUUTVmZFpCUDBocnlEOEJ5TWdxY0NwTWh6cWl2a211TU0xTURObWttbUFGVkIyaGxrcDRKSERSbE5RQjl1Ny1ITkVObG5hRWNuTDE4V2x5SFc2MDVYTEtZQWJQd0NWZUE3dXVMd3Bpanln?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-08-08T00:56:00+00:00",
+      "score": 48.38,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "edcf3119081908b4",
+      "title": "Caiado anuncia Roberto Azevêdo para seu plano de governo - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlFyLXROV292MFNYTGhFUWhFVUpYUUJrdncxVGpQRmFpV1FHODk3Y1JDZlU0Y1p2OTE2M0RmTm1LZ2tiRV9KVHlqRjg5bks1Zm1iN1ptYXhadGJMVE5mQ2o2OFVQRF9uZ21GZmItdEhyckZtM3pJNlhOUlgwdF8tZzNxcDhBaTNNUDA5blRqS1lpbGJUWllUV1ZPa21VVm1xMGxMOFVVOXk?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-07T17:41:04+00:00",
+      "score": 48.11,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "266348f73a2a6f83",
+      "title": "PSD lidera em candidatos competitivos para governador, dizem pesquisas - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkFHUHVpbjJmdHp3dWNkT2hWS2xYNWxqN0s4VzE4bmdiWU1oNzRCWGVnNWsxOXR5SEU3YkFabnZkVm90cUtUU2VybVhyRzloN2hhYWoxamRDcEVMNVZpMG5mVlVMS0lmSjlBampaNTdtMWFVWnZxUlZaUWM1ZTZfdVBwcWhWc3UxcVo2Sk52OERQM0VIQUt0SmlRT1phX3dycnB4THNBU0k4YlRaRDR5VlpaS2R4Q3phaEE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-08T09:05:47+00:00",
+      "score": 47.93,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "45e6c5181cd05187",
+      "title": "A crise entre Brasil e EUA não é sobre Brasil e EUA - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3ZYZUJJSGNOaTFDdWhsdVNCQWJqQklCWXBRUy1uVWNzVU00amNmR05RNzBLQ3MxNENpV0xXaFEzOWdsb3h2TDhidEs1c2pnTkNrc3JmMDR6WUFTT3hJUjlxWldCUUVSYkwxbHoxVndkTXhhVDl1VDM1NkJ5OHY1c2ZkZnhpUFlzbm9iOGNlYVJyMnJPNEhWOTBwRDI1c0Z3VUhwX0wwOHpmMWtvQWxzRXBKVE1RS2hHbnE0?oc=5",
+      "source": "CNN Brasil",
+      "published_at": "2026-08-08T13:30:40+00:00",
+      "score": 47.86,
+      "corroborating_sources": [
+        "CNN Brasil"
       ],
       "signals": {
         "source_count": 1,
