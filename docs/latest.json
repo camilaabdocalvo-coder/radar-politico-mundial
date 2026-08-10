@@ -1,17 +1,62 @@
 {
-  "generated_at": "2026-08-09T21:56:34.236219+00:00",
-  "next_update_expected_at": "2026-08-10T01:56:34.236219+00:00",
+  "generated_at": "2026-08-10T05:11:54.848205+00:00",
+  "next_update_expected_at": "2026-08-10T09:11:54.848205+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "863c163d0fcd8e09",
+      "title": "De Caneta Azul a Luís Fabiano, \"famosos\" tentam carreira política em SP - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1NFSWI5LTFhbVdGQzNMM1FpbFNLSExkdDVsZXVKMXFWUnJKMmtVTmZMc29wNVA5akx4NmNiV1J0aWZCa3RDdzYzT1lzY1hNQjlYVTRuX3RyM1VZSlU0TElMV01YNzYtUlVha19BTVNaZk9hV29ObmFaeWgtaHJCbEtfdzlPcEtlcTN5YU1PS3JDX3ctNmFDTDg2cnBCUWhfdXZxckFULWE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-10T05:06:00+00:00",
+      "score": 78.35,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "95ed1315e72f481a",
+      "title": "How bad politics holds back Kenya's first world ambitions - standardmedia.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUoxQW5qY0RWNVRjcUpnZVZadzhSUWplRFlJYVliVXM0b2dJT2o5Y0RaZUlLTHp4VkdTQXFmQjlHTy1aaFZZbGRwd3hBWU5QazhXQjFuUVJkVjhvdGJ2RGVDSWJrd0plcVlLcUVvRE5vQVJISUpzOUVqelNVN3UzcmN0SnRZZ2VMd2k4eU5hUXZJOWMxRDZwdFlTdXNXaV9sckVmNGZYQlNweURLTURNMTZuV1VDZw?oc=5",
+      "source": "standardmedia.co.ke",
+      "published_at": "2026-08-10T04:59:00+00:00",
+      "score": 75.21,
+      "corroborating_sources": [
+        "standardmedia.co.ke"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "018626bff326979d",
+      "title": "Xi’s fears over Taiwan and China’s surprising AUKUS stance - The West Australian",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbWt2ZmpVdDJfNmlmWjJMc1kxWEk4MTY0Nmt0c2M1Tkx6cjVlNXM4b01vNE15UWRzdmtTSlNxOU5kcDBMckw4dlRiR2pkaGJESlNad0Rhb2tDMjN0THBUeGFudzhLTEEyNENadDFQdWZaWE9wNzRpeUVvYVYyN0JSanBWOXdRbm50V0xnTlp5OFhJcWZSZkpsUHl0OW5aTUszdWRYY3A1a2VhVlBqS2xQSGJzRXVBZnA0MDhDQXlYN3FOVG9ycG5RQXp6TzBERXNWRnplWXV4dFVILWo3a3BVRWcwOFdqcFBtWmVYcTQ3b0pwa3hfOUE?oc=5",
+      "source": "The West Australian",
+      "published_at": "2026-08-10T04:15:00+00:00",
+      "score": 66.31,
+      "corroborating_sources": [
+        "The West Australian"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "f60a32fcd77222fc",
       "title": "La nueva política exterior de Colombia en la era del repliegue hemisférico - Descifrando la Guerra",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGdJdXRQeHN1bnFWcU82cUI3VDlSU3JHakkzQ3g5aVRYNUtFU3FBMVVteXdrT19vWVZEZVlkZHQtYVZBNTF3RFZFY3FnM1FDOXl0OE80UkZsZHBEdVFwV2xFX1ZTN215UnlJa2h4cDRNRDhEam9sUTBHOGhVSVRVQVY3T0JWRGd6?oc=5",
       "source": "Descifrando la Guerra",
       "published_at": "2026-08-09T11:33:17+00:00",
-      "score": 72.2,
+      "score": 66.04,
       "corroborating_sources": [
         "Descifrando la Guerra"
       ],
@@ -26,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekVLRnN1Qy1rOFVMQWV3RDdzRTlVckFRdGVjemx5TTJDYXdrM3BDMUxQRnc0TElGb0U0czZRTzczUGNkLTVtM3hTNFVlQVZTdDNGRnF0ZWJMOWdPQWRHUF9BYVY1SEFQbTR2MEpyajhMV01PcFV1azRxNGFud1JhQzJTaENWU1FzOEd5Z29rX1dVMTlMZi1CbGJVaWlYc2xuSUV0WHQzYjNRNkxYdFdpSmlhVTBlalgxQ1E?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-08-08T19:49:00+00:00",
-      "score": 68.26,
+      "score": 64.28,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -36,14 +81,44 @@
       }
     },
     {
-      "id": "af7320a581892631",
-      "title": "Así cambiará la política exterior de Colombia con Abelardo De La Espriella: alianzas en el nuevo mapa regional - Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUHJEdlNWWFEyVWtCQm03dENXUG1kQlVxcnV4R0JYN1JNdVhKYXpWcmRHbWxKUVdCUnZNRkhncEhxVGlvREpUZmdseUwwNk1qYjViMTdFZnVwUjdENFBYRGxFZEs1bUtheEptbkREODBnRExWSXh6QktzZmFYYk5SM3RtS1oxVS1PZzhSb0p2dnpYZURLU0QwVDQ4MXRnX0Z6V3pEQVE3QmkwaG9QNlF6dUpPZFQtQTJfZmZodmI4NHBJc2pWeUluckdRSTFvTmRrZTJscVhrRW40d194TW1UZ0JLaWZZUWhCWEo3UkJ3?oc=5",
-      "source": "Vanguardia",
-      "published_at": "2026-08-09T13:40:00+00:00",
-      "score": 66.23,
+      "id": "758ea4abad2dd84a",
+      "title": "Cinegrafista da GloboNews é retirado da cobertura do debate após dar cabeçada em repórter - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0RLc3VaNTZqaVBQaVk2NHBFQ0NlU29NZzB3UDB0YTNkTFlGTGctWlpuX1lmejRocnpNempwSWJiZ3NVLU5oWUdZbjdjUXVubVFhZWJtc0xWLWc4aTJPTUZCd0VqaEJQNWtETFh4eEZtOHhHRk9UU2lJblpLRy1WSU84alRrZXNvZDJwQWF6amNDUGFOa2o1Vno4bURKMTBKOTNVYnFUQWhOcGJTdjhEck1xZF9qY05tTXZiZzBqR2E0WHpy0gHKAUFVX3lxTE96ZkhXQS1pUnlDbTRDWGdSTTNJS2dOWEZIdkszSlJPaE51bjlwNGRERjF0ZmltcDl0UlpWN0ZHdE1CQzFSdFdBaEdzT0g3LWwyTFlmM2JveEtCdDRPU2YxMEIzeENxMkpBMHNiTXV4UmFqZGFfQzdKOTNZZnd5QUJsTnJ4cGRyeHlYd05tZnZSeFNBaFF2dlhUeDEzWHVGN0lpakhoZVlXMS1rdmNQSjFZcmcyQXJJMU5nVmcyMGlWd04xeGNZT3ppZ1E?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-09T23:39:00+00:00",
+      "score": 64.05,
       "corroborating_sources": [
-        "Vanguardia"
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f8be94d24edb2ec1",
+      "title": "Policía Federal de Brasil destaca trabajo conjunto con Bolivia - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHpuTVlKTkprUkZ5Rm1NRW4zN0lGcjUwRy1ZOWtXMHdTb09XWjkzYjRoaUw5TWVLWEJyTEl0OXk0VUlBbVVPTVZhNGxyT0hHZlhwV0RQcU5UM3FjYVBENXBWUVNzM3hBY2dWTGlCLXJiUXFtZVRpcC1oaGFkRU14V0NKUUphOXdFMW5RYjAtb1hFOHdRNnVJYzhBMnpxUFp0YmFYa3Q5RVZtQQ?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-10T00:34:56+00:00",
+      "score": 62.06,
+      "corroborating_sources": [
+        "La Patria 3.0"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0e85fbb4ef21f9df",
+      "title": "Milei viajará a Estados Unidos en octubre y diciembre por dos eventos clave: la agenda internacional - Los Andes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVmRiSUZHcGJnX0Ywbk5LZ1FXbm1CbzlwN2tYLW9EUXo2ZHpVTHpFUmQ4eE5uUWlFZE1LUGZQREQzZjA3ZVdkRnFSeS1hVnFsUFB1TFFfWmhnWGZPRlFONmNDajBqV2p2Y3d4QU14VHU2VGFuaTNlZEl5MVVZSXZONllPYlFfVHFUSEhSTDhhVlRpOTJtSFJkeklxVVdPWkk2VE9WUEY1a20zaGlMYktiSFdEby1zNWx2T2MwUTFpRTBXT0J6T1ZkWUtaODRjNDIwbkE?oc=5",
+      "source": "Los Andes",
+      "published_at": "2026-08-10T00:10:00+00:00",
+      "score": 61.61,
+      "corroborating_sources": [
+        "Los Andes"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk1oNDdLZzYwSEZjclRoTFIzMmJBR2JtdHVEbW5uZjlDaHdYX2dTdmgzTjdlX0d6LWpkNk8ta1Y4R0laRG0yV0N4dEV5RTdXR0N1S1JSSXZERDFydWFLdUk4OXRZaXM3SS1oUzVhek1FbzBweFRkR3N2SmEzbGw0Zk44OGZ1UQ?oc=5",
       "source": "The New York Times",
       "published_at": "2026-08-09T12:52:25+00:00",
-      "score": 65.46,
+      "score": 59.07,
       "corroborating_sources": [
         "The New York Times"
       ],
@@ -66,14 +141,14 @@
       }
     },
     {
-      "id": "7c6a2f7bdfa2352f",
-      "title": "The Economist: Como Milei quer blindar a Argentina contra a volta da inflação - estadao.com.br",
+      "id": "7eab2dafc04610a6",
+      "title": "The Economist: Como Milei quer blindar a Argentina contra a volta da inflação - Estadão",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnhmX3QzSHAwTWtkcU9LS1g3M250NEd6UDdiTnZQR2FoZkFPLUFveGFrVDZnTDlmc0F2bjZ0blpJakdMZ1dNTzkzR0tkVFBUUFZ0Sk9ZNTlRWmQzaWlNVHU5dkZoNE5IMnFHWXhqXzFvTFVLZXNuOU04UVVIZ1dWVW5tTUZzVk9wWnNlU1BrYXp5MFBTb21iaFdRVG5tN1FDdXlnWXcwSXY1bEtjZUxlZDMwSdIBuAFBVV95cUxPbVJVY1BSenQ2TzhVNG5nSnFzQUJjWVNDSkk0VF9DV0NwNDdfRXBJOUloaVNsbHItNFhTZk4tLWpzdm5aMGNWSVJQbHllLUdXVl9sSnBMUGo2aWN1YnFoUXREamxqeWl3c3hfcEhzTVhTalJJcjZOdl81QmZpUkROdUVEQmVVY1BON1MwS3Fjd2JPdzJfTmEtNXpDRl9tNmZ2ZGtoMzdCNnNrMnlOcDB0akQ1ZkJuUWFl?oc=5",
-      "source": "estadao.com.br",
+      "source": "Estadão",
       "published_at": "2026-08-09T17:30:00+00:00",
-      "score": 65.25,
+      "score": 57.99,
       "corroborating_sources": [
-        "estadao.com.br"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYW95eTVNNHJQeWpwLThaVkpmSmY2c2ZKcTRGRlNVbU95d2tCSW54bDN1aHU0ams0aUJzcXRMWVN4UjF4MmswZDRKb25NNWlxNjB6T085Mkdra01SOUZxaVlnRWxoTy1iZzMyMHBETTZ5XzdmMGxRUkd4TG91d0M3dFozcDVXNXVrSXQ0N3Nrd1hYejQtM3hEQzNGQ2tJNEZ4dWJJXzc1dVp0bzU1YkJKVmgyMTlzWnNTbmVCdGdhWkdHalhlX1ZIMlprRXdOMWFrbmlXcGZFUnJGSXFadFBEOEV1Q1Eta1hTamlPRTcyMFdKanYx?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-08-09T19:59:59+00:00",
-      "score": 65.11,
+      "score": 57.33,
       "corroborating_sources": [
         "Daily Herald"
       ],
@@ -101,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUlOb3VQTUZZUmtYREFuaXBxeUFkMHdNelFxY2FvTjVIUHhhR2g3WThoM0VXbGtoQ0M5dF93Rmd5dU01TGFyWkZpcnVTX29rU3NabmdqLVFLMUEwZk9QWUhnZXNFNnF2V2JSU3F0bUFJTDFOc0M0a21LNmxJZHh4cEhESWFCVWpOQ2Fwd2U0QklrbFVrcWo1Wjh5RU9ZZ3lZV0tQcDR5b3VsNjZJMmdHUTNsZnhGd0RwaENodXFGM0pfV1A0dGNLWU1UOA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-09T15:33:00+00:00",
-      "score": 63.15,
+      "score": 56.28,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -116,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVS1fUHV4bWpYRi1nTlM0UnJaaXUxRGFSUHA0N2JWTEM0QWtHaVdPai1HTFVQVS1ZNmNkQ0hpYUVsaHZZeDBRbTVNSTdFbnFCUkdkSUNMVmpMTjE5NVcySlZoQnJFZ3VjckNhRDFTaDdLRzVJcWtybVJVVmtoSWdzMlFaYw?oc=5",
       "source": "ecospoliticos.com",
       "published_at": "2026-08-09T18:12:05+00:00",
-      "score": 63.03,
+      "score": 55.63,
       "corroborating_sources": [
         "ecospoliticos.com"
       ],
@@ -126,14 +201,14 @@
       }
     },
     {
-      "id": "21b4fb97e4eb4908",
-      "title": "Japão gera preocupação internacional com comentários sobre armas nucleares - tribunadoagreste.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdk9oOFFORzNyWkY2ZGQyaVdFOXpEUHN5RFFINWZobGFkbk1IcG1hdThibE5kY0UtdHFUaEtqaXNhS19CT0FNRWszMGtjZzJsRU1UQnQ5a3JKVDJnT0NDMGhiTXZDSXFFci1qblJraXRpSEZpQ3JWbWxQMEVLek95d0lQYm93OWZUVTRPeWF2ZjVIeXRBWEFNdWpLY3QyYlhQZkJhQmE2eWdhbk5pZWFTaUk4bzBhMnNmZ01HSnhCSnhiWC1meHFxalcyVElSOFU?oc=5",
-      "source": "tribunadoagreste.com.br",
-      "published_at": "2026-08-09T15:56:00+00:00",
-      "score": 60.56,
+      "id": "19d347b362342e59",
+      "title": "Filho de Joe Biden diz que câncer do ex-presidente dos EUA se espalhou e é ‘muito doloroso’ - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQjNSc3RGMFV5ZnUtX0dOOUxrMkNneVd0UHRveFBRd25XWG8wdWlnRFprV0UxYjQta1Nia0I0YndZT2NYUWh2SXY2YjRYVlhMYWRGc2FDUDN5V1hWSGd3MFk1SUFsOXZpaHF2cUN2czNENFlfQmxkd210Vi03ZDIyXzhsdGRDYXd2MEx6SDBTTmdBVl8wbGVoNXVRbnAydUdNVFBra2hadTZoVTJabW1sUlpiNTAwZFdfMHlzVS1iZ3ltek1KczhXSHE0YWJTTEE5OWotNkFB?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-09T01:02:31+00:00",
+      "score": 54.06,
       "corroborating_sources": [
-        "tribunadoagreste.com.br"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -141,14 +216,14 @@
       }
     },
     {
-      "id": "8d1161c867f6c298",
-      "title": "Alinhada aos EUA, Colômbia reconhece soberania do Marrocos sobre Saara Ocidental - operamundi.uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVm1HZld4QmxEeFlWR0R5aXA2TXFvQ3JpNF95TGt6clFuX1RMMXp4NzJ1RkhNSi05b1p4dVh0V1JUbkwtaFBkYmVqcV8tMFZuNmQtMmVBMTFoaXg1MG4xTk5sUmdrRVd1YVlXTUpFVFFlaHh6X0pxYVBHaWdsLXY5MUU0WG9OZmtoemFfNkszd2JYLVFwenY5cWhZUDhBMndYWGNlaUprdEVpSWtheDJ0bEMxeVY5c1M2bmppQmJoblYtTHY3MzJ0WEJ2bHExaHJiRVJ1R1RMR1FtcHluWnhWRGUtSDk?oc=5",
-      "source": "operamundi.uol.com.br",
-      "published_at": "2026-08-09T14:30:00+00:00",
-      "score": 59.07,
+      "id": "4b2eefbcebfdb7b1",
+      "title": "Japão gera preocupação internacional com comentários sobre armas nucleares - Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdk9oOFFORzNyWkY2ZGQyaVdFOXpEUHN5RFFINWZobGFkbk1IcG1hdThibE5kY0UtdHFUaEtqaXNhS19CT0FNRWszMGtjZzJsRU1UQnQ5a3JKVDJnT0NDMGhiTXZDSXFFci1qblJraXRpSEZpQ3JWbWxQMEVLek95d0lQYm93OWZUVTRPeWF2ZjVIeXRBWEFNdWpLY3QyYlhQZkJhQmE2eWdhbk5pZWFTaUk4bzBhMnNmZ01HSnhCSnhiWC1meHFxalcyVElSOFU?oc=5",
+      "source": "Tribuna do Agreste",
+      "published_at": "2026-08-09T15:56:00+00:00",
+      "score": 53.61,
       "corroborating_sources": [
-        "operamundi.uol.com.br"
+        "Tribuna do Agreste"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVN6Sk5HelRwbmZTbmw5eXJ1bDl0MlM2Qm5Qd3I4amV3WW05LXIyUTg4T19WcHd1enYtSFhqc2ZDTnhfanNIYzlKeTlZaTZJMmwzdXpFdU5vV3Q4SWxXcFhmeXFKME5WbktMWkZVdnpkMFl0NWN4VTN6R0FiNl9pOVJub9IBiAFBVV95cUxPNFd6dzMtaW1kQ29zcmJsVF9TcWdlWVhpT1VRYlJUM2tCdEZYNHdNUVBYbXB2NUU5X3RXeTAyaVhqWVFvaGliODRENzRhYnYydS1UWVc1Um1QTFlKT05mMEY5Qk1aRHdYRDFERGhvUzB6ZDlOUlFDZExZWWlzeFVNUklWbDFuRHU1?oc=5",
       "source": "Hoy Digital",
       "published_at": "2026-08-09T05:10:00+00:00",
-      "score": 58.71,
+      "score": 53.56,
       "corroborating_sources": [
         "Hoy Digital"
       ],
@@ -171,44 +246,14 @@
       }
     },
     {
-      "id": "31c0dfc7fc2c2283",
-      "title": "Gaza: Netanyahu rejeita roteiro previsto no plano de Trump - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlI2V0hUYlNjUUhsUTQ3bTNlQi1FbG5UVV9NV3ZZVGFLWVhyaUVVLTBjbGJERDRxUGFJazFyX09hRDkzWDFBdEVlRDREaDBOY1E0TU1vUXBvbU1DbE9Cb3A4bnFsZEZKZW5wVDZyQ3o3XzhKZV9mRWppVXd0cHRhN092MXZmYUNQZ1lIb0lKTWhObFJ3OFNlYW42YzVaNHJLLTlDOC0yWmd3TVhMMjRV0gG3AUFVX3lxTE9NZkZDaTZVNHVzNnVIZ2tMajFTYml1b2ZQWjdSaVBGM29wT2dvNzgxS2EzaHhnRHlkUU44cFN6SEIyTDlOMGJoSkwxdzNycnFteDM2Q3RhWW55UFZUNjQ3Nk5QNVpseml1VDB2amlpVDJYYWtyRFVjcTh2dWxpUWphbTJhY0lYd1Y2RXFvcFk1NG9Xckhqa0xXZzdiOERtUHppb191WkhnTTZiMG1HOWdJTERhMWg4VQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-09T14:06:00+00:00",
-      "score": 58.67,
+      "id": "57be81e387cbdc08",
+      "title": "Alinhada aos EUA, Colômbia reconhece soberania do Marrocos sobre Saara Ocidental - Opera Mundi",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVm1HZld4QmxEeFlWR0R5aXA2TXFvQ3JpNF95TGt6clFuX1RMMXp4NzJ1RkhNSi05b1p4dVh0V1JUbkwtaFBkYmVqcV8tMFZuNmQtMmVBMTFoaXg1MG4xTk5sUmdrRVd1YVlXTUpFVFFlaHh6X0pxYVBHaWdsLXY5MUU0WG9OZmtoemFfNkszd2JYLVFwenY5cWhZUDhBMndYWGNlaUprdEVpSWtheDJ0bEMxeVY5c1M2bmppQmJoblYtTHY3MzJ0WEJ2bHExaHJiRVJ1R1RMR1FtcHluWnhWRGUtSDk?oc=5",
+      "source": "Opera Mundi",
+      "published_at": "2026-08-09T14:30:00+00:00",
+      "score": 52.39,
       "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f244176659b5bf8e",
-      "title": "Filho de Joe Biden diz que câncer do ex-presidente dos EUA se espalhou e é ‘muito doloroso’ - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQjNSc3RGMFV5ZnUtX0dOOUxrMkNneVd0UHRveFBRd25XWG8wdWlnRFprV0UxYjQta1Nia0I0YndZT2NYUWh2SXY2YjRYVlhMYWRGc2FDUDN5V1hWSGd3MFk1SUFsOXZpaHF2cUN2czNENFlfQmxkd210Vi03ZDIyXzhsdGRDYXd2MEx6SDBTTmdBVl8wbGVoNXVRbnAydUdNVFBra2hadTZoVTJabW1sUlpiNTAwZFdfMHlzVS1iZ3ltek1KczhXSHE0YWJTTEE5OWotNkFB?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-08-09T01:02:31+00:00",
-      "score": 58.66,
-      "corroborating_sources": [
-        "estadao.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "af833c9ecb13787a",
-      "title": "La organización de la Universidad de Verano de los ejecutivos del Estado saharaui reviste una gran importancia - aps.dz",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdHltb1U2aXIyT0gyMDV2bmNzT0NLd1E1bGVhWlJFOU1LSVZaWEhjRHlLLUVZODI1M3oyWUVOY2JVSU9YV2tlVjFxQjJMNkdaVUpkX2ZNdXZmaWxrN085eHV0aDdsVWVEX1ExTUtuSlVwU1VaT2lmNXFudURpZnF4ZEhlSUFadDF6QlBrOEE0TDVjaVZwdDZ0cE9EUGUxT1FxeWszczZIZmxrSmxTMVdQanVKdlVTTnRFTTd4c2RweDRrUlY3LWJJWHJZY3hXWWVpVHZUaS1qM3VIOFZfVzY5b0xaUGtkSjRvUUE?oc=5",
-      "source": "aps.dz",
-      "published_at": "2026-08-09T13:00:00+00:00",
-      "score": 57.58,
-      "corroborating_sources": [
-        "aps.dz"
+        "Opera Mundi"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2VmcVY3d3ptcmYxM3FsSVhoTFh0NldXaWxuWGE2czZYX2ZnR0xsb3NnY1libGtQZ1R4QzNMS3N6cTFwOHB6cHp1QURaUFpUbEcyRGpFNE5NZW9SVjZ2eVBHU0c2UGU4TW5KMldZUEtsemQ0d1VyLVl5WHU0bk1vNGc0dmlyZkdj0gGcAUFVX3lxTFBkZjRraWtoQnZfcFU0OEwtMmxEaVE1dUhXemgyb1Y3a3FDeEx1Q25MZmdLdTVQV3NHbUlGbWxuajFTUzhxZ2prdUw3UU1nWG43Mkd1Nmc5WVF3VWVRZS1uOUFYOTNrRFR5QlZLbXVZbF9xSTktTHhOR3p4SU9yVGVSc1JOay15cUhXN1dkVXBHU19ZSDc5eW9wMFk2eg?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-08-09T03:00:00+00:00",
-      "score": 57.06,
+      "score": 52.21,
       "corroborating_sources": [
         "EL PAÍS"
       ],
@@ -231,14 +276,29 @@
       }
     },
     {
-      "id": "4de96d3256c790b6",
-      "title": "Taylor Swift songs removed from Donald Trump social media posts - abc.net.au",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZng2RVhyYjFlZVFOMy1DR0lvN0I3RHRxNGZZX2t0eEJlM2xTQ2lPUlZyZWlldUFhekRmc3ZoREo4QThNOXU2RjhoR2NmTVhGZGJWME4yMlFNR2RxenN6bkh2b0FoQWh6R2ZzSkhoNW1MLTZXc0tQVWpfWEZGY3B6SW9DSzNDY1B1eENRRXBuYV9aajJiLWdVVmZBU1BpWFBOcjNxeXotY2lxLWcyWE1PRFdR?oc=5",
-      "source": "abc.net.au",
-      "published_at": "2026-08-09T10:21:27+00:00",
-      "score": 55.09,
+      "id": "31c0dfc7fc2c2283",
+      "title": "Gaza: Netanyahu rejeita roteiro previsto no plano de Trump - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlI2V0hUYlNjUUhsUTQ3bTNlQi1FbG5UVV9NV3ZZVGFLWVhyaUVVLTBjbGJERDRxUGFJazFyX09hRDkzWDFBdEVlRDREaDBOY1E0TU1vUXBvbU1DbE9Cb3A4bnFsZEZKZW5wVDZyQ3o3XzhKZV9mRWppVXd0cHRhN092MXZmYUNQZ1lIb0lKTWhObFJ3OFNlYW42YzVaNHJLLTlDOC0yWmd3TVhMMjRV0gG3AUFVX3lxTE9NZkZDaTZVNHVzNnVIZ2tMajFTYml1b2ZQWjdSaVBGM29wT2dvNzgxS2EzaHhnRHlkUU44cFN6SEIyTDlOMGJoSkwxdzNycnFteDM2Q3RhWW55UFZUNjQ3Nk5QNVpseml1VDB2amlpVDJYYWtyRFVjcTh2dWxpUWphbTJhY0lYd1Y2RXFvcFk1NG9Xckhqa0xXZzdiOERtUHppb191WkhnTTZiMG1HOWdJTERhMWg4VQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-09T14:06:00+00:00",
+      "score": 52.06,
       "corroborating_sources": [
-        "abc.net.au"
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "af833c9ecb13787a",
+      "title": "La organización de la Universidad de Verano de los ejecutivos del Estado saharaui reviste una gran importancia - aps.dz",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdHltb1U2aXIyT0gyMDV2bmNzT0NLd1E1bGVhWlJFOU1LSVZaWEhjRHlLLUVZODI1M3oyWUVOY2JVSU9YV2tlVjFxQjJMNkdaVUpkX2ZNdXZmaWxrN085eHV0aDdsVWVEX1ExTUtuSlVwU1VaT2lmNXFudURpZnF4ZEhlSUFadDF6QlBrOEE0TDVjaVZwdDZ0cE9EUGUxT1FxeWszczZIZmxrSmxTMVdQanVKdlVTTnRFTTd4c2RweDRrUlY3LWJJWHJZY3hXWWVpVHZUaS1qM3VIOFZfVzY5b0xaUGtkSjRvUUE?oc=5",
+      "source": "aps.dz",
+      "published_at": "2026-08-09T13:00:00+00:00",
+      "score": 51.17,
+      "corroborating_sources": [
+        "aps.dz"
       ],
       "signals": {
         "source_count": 1,
@@ -251,84 +311,9 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2tvcFNyQjZ5VTV3Y01fUjJtaU1jOE51ZHFOSV9HalZtcy1mNjJrOEtwWk9oUzhqMmxJLVI3QlpEWkZRSm9HRDR3akhMNmNTLWM3VnVwaEY2Rm13cjhMSWZ6YzlCV3pwOVpEN2Q1bVR2eXE4V2xjcFBobDBmRVlXX1pWOU8xN3VOLXc?oc=5",
       "source": "The Japan Times",
       "published_at": "2026-08-08T06:33:00+00:00",
-      "score": 53.54,
+      "score": 50.79,
       "corroborating_sources": [
         "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cb7e4f05f00c7fe6",
-      "title": "La política exterior y la restauración en el gobierno de Kast - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZEFlSlpuWGthZkRRbG1MUnFyYnVqZ1RlT3doc0lTV1JGczJGVmRyYW52aTdzSWZ3dWdnTGRrVUV3aUh2UGZpc1ZnWmFQT25LSUp3YkFxeHgtMlJoSG1UMG80LWFkVEpOaHVLdUVLMDlsaHBBUmhjUFdoaTh5UE5pb1FIeDFpTl9hY2l4WE0zQ2pEaWt2bUtHV3U1a3dpZw?oc=5",
-      "source": "Universidad de Chile",
-      "published_at": "2026-08-08T20:11:57+00:00",
-      "score": 52.49,
-      "corroborating_sources": [
-        "Universidad de Chile"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "30fd55e574243f60",
-      "title": "Un altagraciense fue reconocido en un encuentro internacional de comunicación política - Noticias de Alta Gracia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXMyR3hCb1FGRXZyVnlLUm1zQldUaGlNZlhIbFk4eXg2MHNvZTgwVXAyOC1OcVRUMHZqWHZLTmhQRy0zYnJUTHhtN05LSzZQcDAwWVJPS3BGZEFMVFZ2M3pQazNiLXRNTmN6alR3OEpTeWMtQ2lmTEluMHNaazZiM3prWXVYNHdWVVNqbDdjNEprZTV1dHlSTkpKenlTcTJ2U0ZKYksyaXQzbmYtSUhEdDhDb2wyR0t1al9YR0RqWQ?oc=5",
-      "source": "Noticias de Alta Gracia",
-      "published_at": "2026-08-08T17:50:00+00:00",
-      "score": 51.09,
-      "corroborating_sources": [
-        "Noticias de Alta Gracia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9be38b7f083bfb4a",
-      "title": "De Gaza al Sáhara y de Washington a Ceuta: así gana peso Marruecos en el mundo de Trump - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkhZYUxpd2FHT3JsbEZpbUM5TmhJd0pDY1pMLTgwU1NJRHJGZU52d2xyd2hmRTVYWlJrRk5qdHFGU21QalgtNTFic0xhamNIajZVTWRWWWtCelpZNk5SZ2l5MlN3RWZYWFNYN1ZBNGtiVVRwNV9HSm50a19lN1ZjYTRXNFlCWUVZWFlnak4tRWJHTi0zLS1MdlBXa1ZUMVRNdlNMZC1CTERodlAzNEkwajFWcG9hX2JsT2fSAb8BQVVfeXFMT0s0bXNzc0lWa1B2UEs4SW45VHVKdmpFeUxtUkNvdzRybVFybGNkMUlRVGNSNFZBSzhmMmpra0o4WjhJdERXaWFoQ19jN1p0RVU0RHVoOHVMUzh2X002UERaVTJueWFoZ0lYSkVTazFWQ1JRajBIVWh6SUtKNG8yNmV3ME5qZ3dGVjZ0c2RMWm5QWThjNFQtSEIwbjZWdFFqN3JhMEZFTkh1QlNrVDNNVEkxWlRKeWdfWmc1X1Fvenc?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-09T05:02:19+00:00",
-      "score": 50.61,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c3ae984e6fae4ff5",
-      "title": "Presidente Paz felicita al nuevo presidente de Colombia - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1dUUV9RYmxTT09ZQzlMUTZTZ2ZjNVVFMTVFVUhfRXoyTTV1ZkI5UUtGbGVHV1BsbVFHMVB1SVlDYkp3Q21DOGRkTnlTVTFBblEyX25ETGdDdDhfT0N4WGRrS2dkcDl5ai01cTRiMy1aVFlzMXZMSEFuWmdncDhUbDg1OWVrLXY1Qk5vZnp0eFY3MmtBQm04NlRuSlp6NDFs?oc=5",
-      "source": "La Patria 3.0",
-      "published_at": "2026-08-08T15:54:12+00:00",
-      "score": 50.01,
-      "corroborating_sources": [
-        "La Patria 3.0"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "41f88f894612c286",
-      "title": "Política externa do Governo Lula é respeitada pelas grandes potências, diz Edinho - Partido dos Trabalhadores",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUZNR3pXaWZzNnpYcEtOcHQxenBWa3doRHExMG1zejgwZHRqWUF5TEdXYy0zUkIxRE03ODAtdmFXTVlCZ0FoTUxoZGw4YTBncTJLT0QtRFgwbHFNdUxxWUhHdkZRcFVSdXlOSmRUTGpKNzk4aTJtMVVfdnVYRE5WVlFMVS1Da29iX3dlWVpWMVZuM3o4eFB0LWVqVjZwQUlZ0gGoAUFVX3lxTE50RFB4clpveHc3Y2p2bXhvTElXN3pNU0hweHQxZVZScFo5NGFzZzN0TlRpRWdoa0J5RmN0SXN4QzZNdTRRTnQxUFpNc1FYS3lEQkJBSzlSczhRUHBBaTNYRkxUei04NGlIR1dwLVEzaU16bnRXTkYzSEtidkxlZHlHaTNZdkRIRmhZZDZFUlVqRTlXU0ZqMUxwT2QtSXlBUFlfMG9vVmM3dg?oc=5",
-      "source": "Partido dos Trabalhadores",
-      "published_at": "2026-08-05T22:55:00+00:00",
-      "score": 49.69,
-      "corroborating_sources": [
-        "Partido dos Trabalhadores"
       ],
       "signals": {
         "source_count": 1,
@@ -351,14 +336,104 @@
       }
     },
     {
-      "id": "d76c039ba6d77ea4",
-      "title": "Zema propõe tirar Brasil dos Brics e aproximar país do Ocidente - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDh1bWZWeTAzSndIVVpUZ0JaeGEwcjRQLUVpRHI0Nk5YdWJ2UUJ6Qk4zRkRONzJTaXpFM1pkSUJyTFV4RU1lUVdUN1pRSW9CRmx6NGdnQjU1OTR3eGRDRGNNLVVlb0NKWDVlQXRqd3Z3Z2paUHZkcG01VzZJMU5rZXBPM2RWdl9jZm5TWEROLV9oTXVRaVVGcE9LZmdodldnalJZ?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-08T22:43:00+00:00",
-      "score": 49.08,
+      "id": "2209ce01e4071376",
+      "title": "Taylor Swift songs removed from Donald Trump social media posts - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZng2RVhyYjFlZVFOMy1DR0lvN0I3RHRxNGZZX2t0eEJlM2xTQ2lPUlZyZWlldUFhekRmc3ZoREo4QThNOXU2RjhoR2NmTVhGZGJWME4yMlFNR2RxenN6bkh2b0FoQWh6R2ZzSkhoNW1MLTZXc0tQVWpfWEZGY3B6SW9DSzNDY1B1eENRRXBuYV9aajJiLWdVVmZBU1BpWFBOcjNxeXotY2lxLWcyWE1PRFdR?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-08-09T10:21:27+00:00",
+      "score": 49.14,
       "corroborating_sources": [
-        "Gazeta do Povo"
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "41f88f894612c286",
+      "title": "Política externa do Governo Lula é respeitada pelas grandes potências, diz Edinho - Partido dos Trabalhadores",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUZNR3pXaWZzNnpYcEtOcHQxenBWa3doRHExMG1zejgwZHRqWUF5TEdXYy0zUkIxRE03ODAtdmFXTVlCZ0FoTUxoZGw4YTBncTJLT0QtRFgwbHFNdUxxWUhHdkZRcFVSdXlOSmRUTGpKNzk4aTJtMVVfdnVYRE5WVlFMVS1Da29iX3dlWVpWMVZuM3o4eFB0LWVqVjZwQUlZ0gGoAUFVX3lxTE50RFB4clpveHc3Y2p2bXhvTElXN3pNU0hweHQxZVZScFo5NGFzZzN0TlRpRWdoa0J5RmN0SXN4QzZNdTRRTnQxUFpNc1FYS3lEQkJBSzlSczhRUHBBaTNYRkxUei04NGlIR1dwLVEzaU16bnRXTkYzSEtidkxlZHlHaTNZdkRIRmhZZDZFUlVqRTlXU0ZqMUxwT2QtSXlBUFlfMG9vVmM3dg?oc=5",
+      "source": "Partido dos Trabalhadores",
+      "published_at": "2026-08-05T22:55:00+00:00",
+      "score": 49.1,
+      "corroborating_sources": [
+        "Partido dos Trabalhadores"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cb7e4f05f00c7fe6",
+      "title": "La política exterior y la restauración en el gobierno de Kast - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZEFlSlpuWGthZkRRbG1MUnFyYnVqZ1RlT3doc0lTV1JGczJGVmRyYW52aTdzSWZ3dWdnTGRrVUV3aUh2UGZpc1ZnWmFQT25LSUp3YkFxeHgtMlJoSG1UMG80LWFkVEpOaHVLdUVLMDlsaHBBUmhjUFdoaTh5UE5pb1FIeDFpTl9hY2l4WE0zQ2pEaWt2bUtHV3U1a3dpZw?oc=5",
+      "source": "Universidad de Chile",
+      "published_at": "2026-08-08T20:11:57+00:00",
+      "score": 48.47,
+      "corroborating_sources": [
+        "Universidad de Chile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f9c206b5ef6ee9c2",
+      "title": "Único partido russo crítico à guerra corre risco de exclusão - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXlWekpZcFU0UlEwb0FLM25Wc0ZQNVFlZWR2OVJ4ek84WXk4RXZfbkpwWGFWSXhmdVk3SkNvMHhfdERVV0hOXzRNblFjQ2NIYVRLdnpKa3FsdXladFlEbzdTREJrVU9wMmx2eDBFYWJtQUJLOVdrYXEtUFBGQU1QeDFRUWZxaDVNbnFRWjctR3JiNC1qYnRRcWdOdGJTS1UzMnVvNVQzUm9obG1yZG1uNW1MONIBuwFBVV95cUxNNVdwY3JMSTdzaEhRNG1fN1NYQ3RQcUhGQlpra2xYUjZyNHBEMmRwZHBZbHZjeGhTc1Y5cmxjWVZUcG1nSXNsQVNSZ3dZMUxkbTJ5dll3ZlJTVXhGZ2NxTVhpZzVjU011djZyeVVWajBTUmRZWnVVdWllNzNZcTRtQmhnNVJkNnF5VkQ2dEVIQ00xVVppSWRJaERuUGxYeXl3eTgwTGtueGpnWEdtZW9Vc3lGQ0JCVDJFS21J?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-07T19:20:00+00:00",
+      "score": 47.5,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "30fd55e574243f60",
+      "title": "Un altagraciense fue reconocido en un encuentro internacional de comunicación política - Noticias de Alta Gracia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXMyR3hCb1FGRXZyVnlLUm1zQldUaGlNZlhIbFk4eXg2MHNvZTgwVXAyOC1OcVRUMHZqWHZLTmhQRy0zYnJUTHhtN05LSzZQcDAwWVJPS3BGZEFMVFZ2M3pQazNiLXRNTmN6alR3OEpTeWMtQ2lmTEluMHNaazZiM3prWXVYNHdWVVNqbDdjNEprZTV1dHlSTkpKenlTcTJ2U0ZKYksyaXQzbmYtSUhEdDhDb2wyR0t1al9YR0RqWQ?oc=5",
+      "source": "Noticias de Alta Gracia",
+      "published_at": "2026-08-08T17:50:00+00:00",
+      "score": 47.33,
+      "corroborating_sources": [
+        "Noticias de Alta Gracia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c3ae984e6fae4ff5",
+      "title": "Presidente Paz felicita al nuevo presidente de Colombia - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1dUUV9RYmxTT09ZQzlMUTZTZ2ZjNVVFMTVFVUhfRXoyTTV1ZkI5UUtGbGVHV1BsbVFHMVB1SVlDYkp3Q21DOGRkTnlTVTFBblEyX25ETGdDdDhfT0N4WGRrS2dkcDl5ai01cTRiMy1aVFlzMXZMSEFuWmdncDhUbDg1OWVrLXY1Qk5vZnp0eFY3MmtBQm04NlRuSlp6NDFs?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-08T15:54:12+00:00",
+      "score": 46.45,
+      "corroborating_sources": [
+        "La Patria 3.0"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9be38b7f083bfb4a",
+      "title": "De Gaza al Sáhara y de Washington a Ceuta: así gana peso Marruecos en el mundo de Trump - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkhZYUxpd2FHT3JsbEZpbUM5TmhJd0pDY1pMLTgwU1NJRHJGZU52d2xyd2hmRTVYWlJrRk5qdHFGU21QalgtNTFic0xhamNIajZVTWRWWWtCelpZNk5SZ2l5MlN3RWZYWFNYN1ZBNGtiVVRwNV9HSm50a19lN1ZjYTRXNFlCWUVZWFlnak4tRWJHTi0zLS1MdlBXa1ZUMVRNdlNMZC1CTERodlAzNEkwajFWcG9hX2JsT2fSAb8BQVVfeXFMT0s0bXNzc0lWa1B2UEs4SW45VHVKdmpFeUxtUkNvdzRybVFybGNkMUlRVGNSNFZBSzhmMmpra0o4WjhJdERXaWFoQ19jN1p0RVU0RHVoOHVMUzh2X002UERaVTJueWFoZ0lYSkVTazFWQ1JRajBIVWh6SUtKNG8yNmV3ME5qZ3dGVjZ0c2RMWm5QWThjNFQtSEIwbjZWdFFqN3JhMEZFTkh1QlNrVDNNVEkxWlRKeWdfWmc1X1Fvenc?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-08-09T05:02:19+00:00",
+      "score": 45.48,
+      "corroborating_sources": [
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -371,84 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUC1xZnZxUmpzYWp5S05ycFJtZEdvZW1jUTlkWWJHVFk4UzhQMUNUaW1rNXUtN0xXdWE3VEJ3M2VrRUNFRGI5ZDA4UjVyRU9fWVJUbVFSRjZ4bU4yRFpISENIZlFjVlJCSWhFcFhQM2JIcVBXLUR2V1hOdWZHNjBEbmpYRnJTcnk1ek94Nmt4S2pfZEcwX1pvRGVXX2pyUWZlSzVJLU5kV1FEcEk1M0xCYUF3azJ5TmNRaDZGZFRTclAtQU4wcjZCSmJGOXQ4R0FoSUE?oc=5",
       "source": "Gazeta Digital",
       "published_at": "2026-08-08T13:11:00+00:00",
-      "score": 48.59,
+      "score": 45.28,
       "corroborating_sources": [
         "Gazeta Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6799be4aa339fd0d",
-      "title": "Concluye visita de Roberto Velasco a Brasil - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIyZWlVcVNSVzctN21wTmhlVnNBTDVIZjRvbWx5Skk5U0lMUlFuUG8wd3BOV3phakQzeUp1ajRWZG44Rk5UakxYVmx6R1I1NktOdVNadmtNa1l4ckVVWTQtWkdFZkc5YkpWMnVwa3hMTTZuMGxBdlBkenJpemN3aktmZkpndUplTE9xS1I0ZzVlaVF1UWZienRDWjlCOThBa3BVNg?oc=5",
-      "source": "El Heraldo de México",
-      "published_at": "2026-08-09T02:17:00+00:00",
-      "score": 48.54,
-      "corroborating_sources": [
-        "El Heraldo de México"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b50547240f325688",
-      "title": "Defesa da soberania nacional será o ponto central do novo mandato Lula-Alckmin, diz programa de governo - Jornal do Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWmVkQTJkUFJXbGFEc19ERmMxT0hpOGxIcmx2bWlGY3ZQZFl0MExNYmdCWWNvbW4tWFFNb2FUUU5rREs0R1pwQVpYWWhXRHRjbUVhLVNhWFdsZV9nbGxnU0JCMXlDb3hwZ2plVWpmUXV6MUlVQkNnbW82d3Z0SEFRVmR3TGRwWUFDZWgwcG5xNWE0UThOWllvd0huUnV4RkdDTzFaMFZucThLOG5iWVFLSUo2Z3BGQ0JyRkpsQ21FZUdXUk5SRkpReTBheHl4VlFvLTg0OFdrbnN4R3c4M0RpWmprcV9nYTRiYk11eXQ3ME1kRjTSAfgBQVVfeXFMTzZyNFJrREhnOW1XN0tiM2NuaTFrS3lFZXZuVlF0N3c1a01uTGVsbzVVbXNoazl3eFdkcGVKeWVSV2xudERUbHBQNEtUVFZZOGhpSXpEZVRGWEY0dWY4QUM4OWZacHpFUkJma3hxZlRvWFplbWhwbWluUVIxVExYQ3B5RnFvXzZnVy1rUGVKbW40RHgyOVpyWWpXZTlRaV9WTEhGaVlZOFNWOTRDZXVvUmhhRUJoTGV1eFpoV2ZWSlc2Q2RJc3FIcnpTSVg2LWJVMFZ4QmNyak9Rb3czcEhQcjB4R0hMbXgxY2JpU3Y4RkV3UkxIZ2dRMzI?oc=5",
-      "source": "Jornal do Brasil",
-      "published_at": "2026-08-08T11:44:00+00:00",
-      "score": 47.88,
-      "corroborating_sources": [
-        "Jornal do Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f98b6ed8d2e44264",
-      "title": "Tercera Guerra Mundial | Estas serán las primeras ciudades latinas en caer, según la IA - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOazYtdTg5ZzdRdkRLN3Y3MHpvVjBrRmlCSDVCdGNPMmlidUdRd1ViUnhXM0xwbjY5aVNvNVh2a2w0YkM4OEhSOXpzdnI3WnNxNVZVTFVla2R4LXhyM0FCMHJTWVk1VzBDandDRVoyM0Z6dXp0eFNFd3JNeXgxNElLa0lWUzV5eldyT19YaHVoSExlYTVhLXllTWdRd25JNzlmYWxRZVhERWVfNWlta0xxUVAzemE1TE40STk5Ykk4VzB6TzA4OFRBVi00MmPSAecBQVVfeXFMUDlyd1hwa0QtdzJqNXdfbzhUazdyZlNEa2RLZ3c2VTZvcEUzNndpTnVtM0xLb3lFQmdyUld0YThuNVllVlpmaUd4THpQcENCVmJSVzh4NHFaVm5ONFA0ZDBucGw5cW0tZFpBVnFwZEpoQlF1R1hkVU5fZ0VoT242MHU0a3lXRXJNeHBScDFNbVdWS0c2OHdOVy1DWUMxUjVBRE9Takw4aFFLQUh3NGNVQUN0TDVrekJ2RDJOQm5WZElPdmJQUk9wSWdQaS1LY3JtSVZjRHhnRDVOdktRZGRURTJqMG5Fb0hN?oc=5",
-      "source": "El Cronista",
-      "published_at": "2026-08-08T11:33:00+00:00",
-      "score": 47.79,
-      "corroborating_sources": [
-        "El Cronista"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2a20a4305da28a56",
-      "title": "Alberto de la Espriella asume la Presidencia en Colombia; así será su política de seguridad - Reporte Indigo",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOENVS1NsV0F1ekhIVU5nOFA3UUc4aDNsMHRfYk9uaWFIQWRjb2hheEhrbXgxMlZSTENrZEFMYkN2WHZvOFNnci1DQXJoeDNXLXNBWE54VlZuVENDM1VqRllERGdpX0d5OTAyb2R6Y2F6TkRxVE80RXY1NWpqd0twTkwtQXBiMDRMOEhHVVNMTHNHREswbmplSHdablNqY193RGFlTXFzV3c0azhtVUd5enR0RVRwWVNIek1kWVJyMXp1ZlRFbHdjTHJEUll1NWF6NDlzTVBXS1hSSzdsRDUwNzEzbEVCbXdW0gHuAUFVX3lxTE1zNEVsX1A1Sm9FY1I3aGxIbm1qTERQejdieE9ycG00LVJHbDNyek5peEZOS2hEUnNOUlRpcXVIVElHTUhtZVhHWDQ2Z1hhQ1FzS2xiZ1RTb0ZTY2VWZXpiR04xMEFnVnJseTZYU1B5aFlvZTdHcGp5dV9jS3l3V0gxcWdhMDAwSmhsVTM0aWxZVi0wWC1vbXVCTFdCWnVCV3BkdkRnVTdDWncxOHpNN1FEZUV3T191RExBSUVjVzNnbVFaX1NFWFRfXzQwSnpnc3VoUFJ4S1RPdW9XM2JGX2REaHR2TUxFUDFFZGo4X1E?oc=5",
-      "source": "Reporte Indigo",
-      "published_at": "2026-08-08T11:00:00+00:00",
-      "score": 47.52,
-      "corroborating_sources": [
-        "Reporte Indigo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a65c122b48dcdb96",
-      "title": "El ultra De la Espriella asume la Presidencia de Colombia y arranca con un giro en su política internacional - Diario Público",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVGRGaDZmUEx6TUhXSGZlbE9FU0hCYU02RUdENDIxZWlVNVVkemEwZ2NhN3BPYThmbmtjaG9SZ21CS2hncjJTcTBXWFVhQW53MHdzOTVVc1pMY1lCaDA2QzFVMDU5Rlc2NS0zalBsQTVKRXpDVldJSkdlMVA3d1lIZ3QwMGVGUldqbG96WV9HVjJsY2xJZjBEN25qcGhkOVpWU0RQeUdLN0VXRGtDMloxTVRXbE14ZWRuQUtFZjZDbEdhWkptb1drWGdJTUZkNHBtR1FMQdIB2gFBVV95cUxQTnFCQ1A3blhma3o0YUpHTE1YRVFqVUc2cjRhSHdxVXItMUxzUHNKWk80TFZDQkRpME5xYVd4SVBPSzlxVWZ4TkxtN2doLVFtTGY1WGRDNTJtbEh0SktRa09KNHNMMWVrd2RodFppYmFFRGl0dHJsWFRfSzAtaGxJVWRpQnZQTmdmQnFmQ21RY2d2bFNQMEkxeTRCZS1VZl9qNExUUnowVEZFNmZTR19jVlNVcmdkbkltazhwcFczbEc0QWZxVUFpQ2l2TTBRSkoyalV1d01Ca0FvUQ?oc=5",
-      "source": "Diario Público",
-      "published_at": "2026-08-08T10:19:23+00:00",
-      "score": 47.21,
-      "corroborating_sources": [
-        "Diario Público"
       ],
       "signals": {
         "source_count": 1,
