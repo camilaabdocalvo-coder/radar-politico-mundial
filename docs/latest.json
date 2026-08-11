@@ -1,17 +1,137 @@
 {
-  "generated_at": "2026-08-10T22:19:55.387530+00:00",
-  "next_update_expected_at": "2026-08-11T02:19:55.387530+00:00",
+  "generated_at": "2026-08-11T04:52:26.812818+00:00",
+  "next_update_expected_at": "2026-08-11T08:52:26.812818+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "343b3ea71c8ec04f",
+      "title": "Five years after return, Afghan Taliban government builds diplomacy - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTJScHVfTTZxVjJZMHJyNlREbExJRVNDSDhTU01PeXZrd3NRM2I4QWdhb2ROWV9SWjFUbGdPWTBzX0M1cTZFQklyZnc0SGRuVW1QMmJBMno1dlFQTE14YmREaEtyMkhlYzdVSEhPNTdtX3Z1V05XUjNid0RBemJYeU43Q1VzZXVKQ25Kazc0WWRsbVF3WGVQVmhOTkM?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-08-11T02:57:00+00:00",
+      "score": 81.13,
+      "corroborating_sources": [
+        "The Japan Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "aaa30828ea8efb32",
+      "title": "Africa at Crossroads: Rethinking the Continent’s Position in World Politics - Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWRuZFB1WnlFNy1ZNEpnNXVSNVI2S21xZlo0UXBpTDJyYmswVE5DN3BrcG90bEhHN2N5cUNnZmFvOWl0aWpmVnp3VWVFTHBtaVZIQlJVVkFpZjgzWWxPRzQ5YjRvRGlXQWwxRHJIZkFrRGFySm1VZ1JrNUhKcktCVWZZWXE0SDU1cmZpd1RPc0VJenpRSWNmUEV0VjlVLXpVREhTZ1pUeXNvaFVIS25yYkhB?oc=5",
+      "source": "Modern Diplomacy",
+      "published_at": "2026-08-11T00:00:09+00:00",
+      "score": 77.78,
+      "corroborating_sources": [
+        "Modern Diplomacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9824d3bbe607913a",
+      "title": "EUA mudam política externa e reduzem defesa da liberdade religiosa, diz estudo - gazetadopovo.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNm9rQkItb0JUQmtLam8tbFFRWXhfLURudUZKVkI2SG9zeF9xYThPcDlncFhIcGw0NGVydFdFSUlOWmdjQ0kxcDFlbEx1MTM4WkFCZ2RNak5MWFRTNXlMelIybGRNX1RqZV9ORUlvWDVLZTVLb084TUlIdXltSURLUXl5LWNNd3JUU0dydUZFRlBFcUxUTy00REQydElMbExlLWRpekJRZDJiclhJOGV6VnpldGVjV3Iw?oc=5",
+      "source": "gazetadopovo.com.br",
+      "published_at": "2026-08-11T02:07:00+00:00",
+      "score": 75.16,
+      "corroborating_sources": [
+        "gazetadopovo.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "31485dedfa918138",
+      "title": "Trump reduz vacinas recomendadas para crianças nos EUA - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXBSbllQVzZhVUtSX3YyUFFSZzVCOF80LXVSdHJfNmhlM2VsendpaG1pRUdXRkRVaFIyWWlkY3ZJVHhNbVBQZ1B0SWFBYUh3ckp0cjdkUFU1S3ZZaTlZal9JNHFVRko1QXRHdWNFWFNpMkFabmtaN3dsN1YtQ1lHME1JTHJwS1JxNUowTXlsMWtwNjUzd0lBYVRfTzZ3VWo3blktag?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-08-10T23:47:00+00:00",
+      "score": 69.54,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6a968a77519cd678",
+      "title": "Brasil y Chile, una relación que trasciende las coyunturas - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0JPUW9nMzVjS1A5RnlIcTFIZ3EtMFJ3Mk1DbEp2NGdCTkJ1bEtYRkNnZGEta09TcDZWaFRVQThiajJZSElLbVAzdkV4QVNIcmhMYXIwTmpKX1NFZGsySXNmaWd3NmFpUGZKMm4wOUlZeHBoWkNva3o5b0xqVGcwamlYSXNjejczNU9vYU9MbmVIaXNidEhoR2s4VGozZVHSAbMBQVVfeXFMUDdJUkxyazVpbGxnY1h6Q09zZmpfWllxeXAxbmNQNE1jOFFrdWs1ZTZJQll3Q3hUeVNPVXphUlVrVTlhTUF0bkFFZzVVdlFteExLa2MwRTNpeWVVc2tKeU84eVVEa2IwSWpsMG9lSHZuTnJ3dkQyNnhMQURrRklXVkxXeG5YY1lGcEVpSUlCRnU2d05USnFoSklFaWM0MktlclJVd3BJMkVKMXFoenpqUmwtTmc?oc=5",
+      "source": "EL PAÍS",
+      "published_at": "2026-08-11T04:00:00+00:00",
+      "score": 66.4,
+      "corroborating_sources": [
+        "EL PAÍS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0dc75786bc0736e9",
+      "title": "Homeland Security intensifies pursuit of noncitizens on voter rolls - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGtEemdIYzVFbTBqMnZOOEFoU0UyTjQtSGw5SHNBaDRzRDFvR0J1NWxyNkdTVWxiaXJqT2oxa19nazdhdndCV2ZWdWJMV0xKM1FZWmFESnB1VVVYT1Z5TjFLd3N0N0pzMkp4b09USEdNR29PVmN4YmxwaWNEaEl6cjI2UlNaSFJ3R1BDdG81dnpyaGpMeU83aS1kekk4ZUVkMjB3N2FaZTFsenlXQm9hVUhBZlF5bVBsZlJwQVlKSHNneHpk?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-08-11T03:14:33+00:00",
+      "score": 65.48,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "426d137fb2ff1832",
+      "title": "Hugo Motta declara apoio à reeleição de Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEp1VHdPWDBjWlhZdXhWRVF5ZFBlaWRhTUVldUVnTnV1TXF3NjVFV3FTQWdZOWNQekd2NXNKNGtHMWdfbVhQdURLOG1KX19jbzhaQkp2NGpyZTNlbHFMSU1yUHJOSE04NlQ3bjZqbEVEUXBtM0ZuQno3WjRXVHo5STRhSkdobnZRNmEzNktlWFVvbHMwSUhURg?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-11T00:17:42+00:00",
+      "score": 65.1,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "23c6cec4d2bfec11",
+      "title": "'É muito brutal ver um jornalista ser agredido por um colega', diz Igor Carvalho - UOL",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUjQ1Sm82bFFuWkN4ekpPVjc4eUV4eVRJQ0lJVlVUY0dWejZ4TDZuVEdjZW9Vd1JadzNidUhDZXczcFRJYjcwaVFkbXVmc0oyVTJ6ZTZ4bzg1N1VITDN3WThVNmd3NUZXN092aXlmTUs0OG01dTgwMERvdWdkN2pvQzQ3bWVYczVnNks3UkhQczlIWTZJMlR2NVBZcWNTOGpMZng0WmRXU3JFUUlZQWhXWXE5NGN3SHlMS3FTdFRhbG5WRkNpVUE?oc=5",
+      "source": "UOL",
+      "published_at": "2026-08-11T00:11:57+00:00",
+      "score": 65.0,
+      "corroborating_sources": [
+        "UOL"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "2aacf0a0de64b61d",
       "title": "Leia a íntegra do discurso de Edson Fachin, presidente do STF, em seminário da Folha sobre Judiciário - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaHZ0MW9aWHpoYWZPUkdSb2dUVkY2T3BYTzI4dXRCWmZxVnRQRjVabHczdzJ5M094NlBUdFp2QXJUMVFCNE1PbDl1aDNWREVWOVc0bC1sS1I2WTVxMG1QYkhMN3dsdVhSeWEzM3YxQ21PTXJuc2VJckZua3paX05ncWFhQVl6WFFFZlgxNV9sSllweDBsTlg0MUltSzB1XzQ3b3JJNjZ1QXhDSEduYy1iTjVscFctOFE3aVBsYVd5b0ZfUzdqSUZ1VDdvLVRNcDhnLVlYemd5YjhxU2NwT1hmOFltYw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-10T15:50:00+00:00",
-      "score": 71.04,
+      "score": 64.8,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -21,14 +141,74 @@
       }
     },
     {
-      "id": "10876ca4cf9ce868",
-      "title": "\"Membros do governo no palco com uma traficante\": Tarcísio relembra visita de Haddad à Favela do Moinho - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPanZLQXRVa3Y1aFZoTnhhWUZaRFcxLXZ2bGNCU2JOeFJfNDRFbnVtdG9fcklfX1BvaHJjdUFsMzBlSlRoSkFEalMzR3VhaElWNWtsX0xGRDE2a21pY0lueDhpUnRiZHRtTUZpdS1ZV3RieW45V25xcjJSQWJTOGF1N2NfLVhWMG9XcGlzZzk4NExLVUF4MXpCT3dycktQZlBld1N3?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-10T15:25:17+00:00",
-      "score": 70.62,
+      "id": "330c88196742ea18",
+      "title": "EUA elevam barreiras para painéis solares e chips - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVW1fcDNmM0FPMkJMdDF5MTZwczVkRHVyWjk5cm9hd0NkREx0SzNzdW05ZWp1QTBuUE1RcmdHM0xZMno4UHVxWHVnVHgxZ0ZnaGk2VkR4QzBuVHcwamVxMU01a0hGQVRmV0VFVVctV2dtMWd1V0dJd1hLc1ktRXIwSFBfUUdwdk1VOG5abDdlZUFEVm1BaEI5X2pJdW1oak5UVjl2NnNpdi1PR2RtMVZ5YVdZYVY0UQ?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-08-10T18:58:00+00:00",
+      "score": 64.65,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bf382a13f8361608",
+      "title": "\"Membros do governo no palco com uma traficante\": Tarcísio relembra visita de Haddad à Favela do Moinho - brasilparalelo.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPanZLQXRVa3Y1aFZoTnhhWUZaRFcxLXZ2bGNCU2JOeFJfNDRFbnVtdG9fcklfX1BvaHJjdUFsMzBlSlRoSkFEalMzR3VhaElWNWtsX0xGRDE2a21pY0lueDhpUnRiZHRtTUZpdS1ZV3RieW45V25xcjJSQWJTOGF1N2NfLVhWMG9XcGlzZzk4NExLVUF4MXpCT3dycktQZlBld1N3?oc=5",
+      "source": "brasilparalelo.com.br",
+      "published_at": "2026-08-10T15:25:17+00:00",
+      "score": 64.45,
+      "corroborating_sources": [
+        "brasilparalelo.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d9d9899cd42c5725",
+      "title": "Haddad apresenta plano de segurança com agência antifacção - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmJvNG9XUjQyRXlIbEdiY3d4bjJxSzZsMmktSXBPYTZZTi1WSkc3dy1VNTZfUk9QVFZqVXZhMHlNUHFWcVFhT0pvU0xuT3prUy1WM0xFN0Vxa2RleVFadTRMSlA4eno2dDhCdlBVeEZfZjJhcms1cHBQeHFPaFBFOE5rRGNuS1VYXzdwTUtLV0VvUWd1b1BzTEFzaFE0REkyNkZkTEktNVJfLXc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-10T23:33:10+00:00",
+      "score": 64.29,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4e1bb77aaabb7b01",
+      "title": "Hegseth renames base for Lindsey Graham - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0FfdVR1Sk4xWkZTM0cyUEs3dmgxOUFnRERsa0NpWm9RaGNTTTVrWnJ5VmI5Yk1QRmZXeEtRNjBic3BxR2w5ZTZKSkdCOUJxcHhMUGc2eDZha3F0cm1peDNmeGR2eTdyX0xNc0lkczF0UEtaVWhPTmc0bG1TUHJnRlRyODlrV01LRzFad0VfSDA0Yjhnc1NicS1FcVowdFk?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-08-11T01:18:54+00:00",
+      "score": 63.24,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cc8e2b01a40ac8d0",
+      "title": "How a counterintelligence inquiry into Trump’s Russia ties was derailed - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjRXVTY1c2pUd0ZVTmhsOGJCWUI1OXVieWRFMVRLODQ0YkZmcWZlQXR1Unh0T3EzTzFGeVE3eVJNZXJuSTdFX1E2bUk1R3JvejFUZW12MWFOMHpUVUFNSm42a3BuUWEzYzdIajlWM3pZZ09VM3pqME04SkZzYmlkMzc1YzYzcVptR1NsVzg3Uk1HeXE1WVBBQWVlb1V4MGdaaTJLRnZFM0w4WmFOQ1VObnROeVpid2ZReWpXMmVZNWlrRUZmQy1Ebg?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-08-11T00:13:13+00:00",
+      "score": 62.02,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWhQbURqSU5ZdmZRR3IxUmsxelRTdjNYM21TNUFTYXE1QkdneVFlSEhZQk5RSmpIQlhNeVI0a1VfRGRBZlFCd2dTZUhpekliMmsyZlZCUmxudnpRNzEyV0I3YXVMZDlSV04wVHNOQldZbllscEM4WDhva0FlTHdFM3FDSWctV0J3SjdtNzRxbExoMXJacmVxR1c2d1NEa28tUmNkVmYwZjdlQUowakE?oc=5",
       "source": "eju.tv",
       "published_at": "2026-08-10T15:45:11+00:00",
-      "score": 67.96,
+      "score": 61.73,
       "corroborating_sources": [
         "eju.tv"
       ],
@@ -51,14 +231,14 @@
       }
     },
     {
-      "id": "058b1b949497bec4",
-      "title": "Instituto pede suspensão do Discord e multa de R$ 300 mi - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmpCZS1uYS1WaXh2Qldmd0JKaGFuYmtMXzVpNFE5aHk2dG4zOHVCRE5mMGhETDRwLXl3aFhiVXFFX1ZqLTFoUFlKZ2xWeE9vSmRBemRjNjVSQmxZaldiRFhCX0UybV9uZmUyWi14SjBCS1RJVVVZQ1NPRl8wZUozR1J3dE1MUDgxTDJYQ1NUdUhkaDJjMXQ2dHlZalE1dVk?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-10T20:03:45+00:00",
-      "score": 67.73,
+      "id": "99a7478469bb639a",
+      "title": "EUA anunciam US$ 15,5 milhões à Colômbia após terremoto - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDBTbWRHd2psRXIxNTZGc3F5cThMbWE5Ykd3WThDOHFxSkRFWjh0eWhSWVJkWWdxZFZ5RGZ0SzV4ckZuWUJobnZlZFRjZ1NJdDlabFBXQ29taDd1OXc2SzM5UGh5ZTgwYzJ0enBjTmoxbWd5OUxTOFNleW4xOW1FdmpGZ0hGeVVCOWQzN2JmZGVoXzZpdWhxVmNDakI4U29xVzd1bV9ZZGZzUQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-10T23:57:00+00:00",
+      "score": 61.72,
       "corroborating_sources": [
-        "Poder360"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnQ0YlhEMDVzMGgtV1pDelJCZXZqSXR0VmRMTE9EVGZfS3RxWEZteXp3ZElhdHN1eFI0dlZZTFpLbWttaEFIWk40QUw5Vk9rNUMyNzFxaVNsWDRyU1pUQ3hKd0FPWFJ3RUdtRFEyV3N3d3ZHR1hWRF90VG1yZHE2a3o4Qi1fY2lsSU11Sm5WQTBLTldmZ2dBNDYtVEc5Y2ZhSGV5ME80QllScnJCRGl2alR1R1VESURJSDFQbHhsZlFIc21yTnBhVFFvNjY?oc=5",
       "source": "Bora Investir",
       "published_at": "2026-08-10T14:52:00+00:00",
-      "score": 67.05,
+      "score": 60.97,
       "corroborating_sources": [
         "Bora Investir"
       ],
@@ -81,14 +261,29 @@
       }
     },
     {
-      "id": "2e747f0b516202ce",
-      "title": "Democrats face their next big fight between moderates and the left - seattletimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW9kUVhrT1pLWVRhTDZmRHhTRGIzVE5ZX3cwZDM2NDlRV0FLZ1IzSDBqMklEUkVBMHpKY0pRQk1SdWtHSlNFSDZBcWJYeHRWd1dyVlljSWRnWE5XNzBNUTFzU2ZzRjhJWDV0UFd5Smx1VVZ2VThiTG1QWElNaGJ6RzlaMk5lWERjUFVnWkR6djdUMTJrMHNrdlI5UERpcFpCa0ltTWJZUERTX29xTG15QV81MXBFWkxNZUNpVWVRNUhwbm8?oc=5",
-      "source": "seattletimes.com",
-      "published_at": "2026-08-10T21:54:47+00:00",
-      "score": 66.96,
+      "id": "058b1b949497bec4",
+      "title": "Instituto pede suspensão do Discord e multa de R$ 300 mi - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmpCZS1uYS1WaXh2Qldmd0JKaGFuYmtMXzVpNFE5aHk2dG4zOHVCRE5mMGhETDRwLXl3aFhiVXFFX1ZqLTFoUFlKZ2xWeE9vSmRBemRjNjVSQmxZaldiRFhCX0UybV9uZmUyWi14SjBCS1RJVVVZQ1NPRl8wZUozR1J3dE1MUDgxTDJYQ1NUdUhkaDJjMXQ2dHlZalE1dVk?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-10T20:10:05+00:00",
+      "score": 60.81,
       "corroborating_sources": [
-        "seattletimes.com"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a4cf6e7a2b744748",
+      "title": "Levantamento internacional aponta Conexão Política como único jornal entre os meios mais buscados pelos jovens para se informar na internet - Conexão Política",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRGQ2aW5QTXFndWEwMGw3aG1BcDlqU21hT2l6TTNDZndYRjZFZzNrWk4xMkhpMlUxb015UzNLQTRHTjJXQWRaZVN0RVBlWDMzdUdUYTVDd3ltdkpneHNTNzc0YW8yTXJ6ZzB2cndqN2hCa2gzSUU2U1RZUkg3UmpQUV9SVGt0RzJMeThUSFZNZHBaYVNYQWpjQ3ZWUll1RmtHdFhyZWlVd2Q1S1dueENIeC1zbERxeHJGSjZsVjlxNXNYSllvTEN1NzQ4ODlCUTl3NVhwczlFZTZOWlJaUjQ3VEF0R2hWYktiZm1xRmJjQWtoUjhiWjljbjhRTUw5N0lZUlR6QW5HYlBNYS1oenVDaUZ3?oc=5",
+      "source": "Conexão Política",
+      "published_at": "2026-08-10T14:21:55+00:00",
+      "score": 60.55,
+      "corroborating_sources": [
+        "Conexão Política"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRUdIeVQwUmNvbjV6clZFOTNzd0NJMGR0ZGFQbU9jaHFFMG5waVc3NkljdFN1Yi11QjJWY1V5MXJqNExTMnk4VEpvZXg0eWk1MVloTndsWm9VNlZUNnZzVWk5UlV4bWxkSHFVZUtuMGtoR216eDNjcFBSc29KdFUyX1RMc2ZOaGxERkl6enNMS2V0ZTRCUFNPMGpYc29jUjVrcDJxdzk2NkI2dEd0WS02Zmt4QTI2ZVNBbWhZV0Zya3BSZ2lPb2wyTjRIRW1kVTl2T0NROWMxYTltcGE50gHiAUFVX3lxTE5hWk5nM1EzVllYWWFURHZMOTdMb3ZEdm1zVmpBa3RDWFl5TW9RREI2VXpzS1lDSksya3BoaTJXMEdtNzF3QUNpckZqMWxBcEUtLS1Eb0RzY0tVQ1dzTWRvYlBGaHFtMkhLdm93cXBPT1p4S3ZIZjBWdmhMWlNvSlYxVHBVZ1A3ZUJMRlpGVnc0NzE3OEpxU05sUHZTLXozUUhvZF9Pdk5NdU9icExDRnpldzEtQVNma2ZTUzBqQ2tmWDRKT2dXN1NTcDRZV0JnTk5nZHR4Q1JsSlJQRUpVRldKU1E?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-10T19:14:55+00:00",
-      "score": 66.78,
+      "score": 59.92,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -111,44 +306,14 @@
       }
     },
     {
-      "id": "b755145f22baa80f",
-      "title": "Levantamento internacional aponta Conexão Política como único jornal entre os meios mais buscados pelos jovens para se informar na internet - conexaopolitica.com.br",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRGQ2aW5QTXFndWEwMGw3aG1BcDlqU21hT2l6TTNDZndYRjZFZzNrWk4xMkhpMlUxb015UzNLQTRHTjJXQWRaZVN0RVBlWDMzdUdUYTVDd3ltdkpneHNTNzc0YW8yTXJ6ZzB2cndqN2hCa2gzSUU2U1RZUkg3UmpQUV9SVGt0RzJMeThUSFZNZHBaYVNYQWpjQ3ZWUll1RmtHdFhyZWlVd2Q1S1dueENIeC1zbERxeHJGSjZsVjlxNXNYSllvTEN1NzQ4ODlCUTl3NVhwczlFZTZOWlJaUjQ3VEF0R2hWYktiZm1xRmJjQWtoUjhiWjljbjhRTUw5N0lZUlR6QW5HYlBNYS1oenVDaUZ3?oc=5",
-      "source": "conexaopolitica.com.br",
-      "published_at": "2026-08-10T14:21:55+00:00",
-      "score": 66.54,
+      "id": "8eade6443ab57b25",
+      "title": "Espriella declara situação de desastre após terremoto na Colômbia - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdoVHM0X2RGLS00UDNvallEbHhHbnFQQVJZYk0tZnA0a3VpclRxek9IR2d6TGVrZm9vaFpLOEJWUUMwbW9mOThiLTBjc3U1RGp3RGpCRElkWmpCdjVLdGtKSzRNTU5uQUJMSUhWNUtFYkpzakdlT1JBMVdyTEg0UUc1VUtHZXM1cEt6MmUwRjJPVFIwMkpsVkZOb2pZaHlhRDBncmlsTEhOOWtmX2U5VEFBMFI?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-10T19:14:37+00:00",
+      "score": 59.91,
       "corroborating_sources": [
-        "conexaopolitica.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7faf246626d8aba1",
-      "title": "Trump assina ordem que reduz vacinas indicadas a crianças - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU05meFhac1g4akVXUldDcnVzOXQ0Z3hrbzJQR25QemVmQUhyaUx1b1BRSG0zd2JzTXF4TjhISHpPRThLdU9nMEptSE4xblFxb1djRmlIWFZfQ0d2Ry1OdDMzZllDNlVCbzBteUtJWTdxSE9GYVBsRHZsZ3I4YXprUUpGTkp5cjltTE5GU2h4Ri1DdkFTdW4tYk40QTF4WC05ODhwX0wyRVVFeUxmMEUw?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-10T21:17:00+00:00",
-      "score": 66.18,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "48a6e9f3b07b08ad",
-      "title": "Câmara de BH aprova projeto que 'reorganiza' estrutura do Executivo - Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSERrMzNIVThKb1BjM25YS3ZmcllxWG16Zm44LVBqWFFIS05nV1dmT0IyXzFGaXlxMDFJNm5rWkN5WXQ3d3RQU1J2MlFmMFFmOTdhOUQxbEk2NEFKb1lIOUk0WGlXdWZGOTE5a2E5cHJKbzYxN2ZLcjRuQVNIT2ZIc3lSbHdzSXNUUlkwd1poeGxTS2lBWFpBSUdTSG15MkQ5ZjVQLUNB?oc=5",
-      "source": "Rádio Itatiaia",
-      "published_at": "2026-08-10T20:53:56+00:00",
-      "score": 65.72,
-      "corroborating_sources": [
-        "Rádio Itatiaia"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -161,9 +326,39 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX3ZQZzZWd2JHV0JNbWh2MUFxVW1rcXBlcXdZNERfU0VwOUFTVkFYMkszUGZ2NlpuVXdZNmg0dWhTYmFyUUc2QUVmYVMzdHNJMm5rby1ic2FveHJpN2F3OURvMFlCMDU3cTNQdUdNSjdxOFBwRlNhSUdfUmVxX1pZaWExZ2J2d3FfWXZSZ1JOZG92ckxOc0xnRjJnbmhGc3RMUXdib013Wms5VFR2?oc=5",
       "source": "Brasília in Foco",
       "published_at": "2026-08-10T13:13:32+00:00",
-      "score": 65.42,
+      "score": 59.61,
       "corroborating_sources": [
         "Brasília in Foco"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "55c34f3dffc65bba",
+      "title": "Democrats face their next big fight between moderates and the left - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW9kUVhrT1pLWVRhTDZmRHhTRGIzVE5ZX3cwZDM2NDlRV0FLZ1IzSDBqMklEUkVBMHpKY0pRQk1SdWtHSlNFSDZBcWJYeHRWd1dyVlljSWRnWE5XNzBNUTFzU2ZzRjhJWDV0UFd5Smx1VVZ2VThiTG1QWElNaGJ6RzlaMk5lWERjUFVnWkR6djdUMTJrMHNrdlI5UERpcFpCa0ltTWJZUERTX29xTG15QV81MXBFWkxNZUNpVWVRNUhwbm8?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-08-10T21:54:47+00:00",
+      "score": 59.56,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7faf246626d8aba1",
+      "title": "Trump assina ordem que reduz vacinas indicadas a crianças - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU05meFhac1g4akVXUldDcnVzOXQ0Z3hrbzJQR25QemVmQUhyaUx1b1BRSG0zd2JzTXF4TjhISHpPRThLdU9nMEptSE4xblFxb1djRmlIWFZfQ0d2Ry1OdDMzZllDNlVCbzBteUtJWTdxSE9GYVBsRHZsZ3I4YXprUUpGTkp5cjltTE5GU2h4Ri1DdkFTdW4tYk40QTF4WC05ODhwX0wyRVVFeUxmMEUw?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-10T21:17:00+00:00",
+      "score": 58.92,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSUtPMENBSFZpQ19IQzB1eFNtWk5ScEJoV3Bad09iWkFOYnN3XzQtNHdRd0N3V2FJaE1BZ1IzOTN5YjJhekZvZm02SUJTV0MwdERwc0xn?oc=5",
       "source": "instagram.com",
       "published_at": "2026-08-10T08:00:23+00:00",
-      "score": 63.7,
+      "score": 58.68,
       "corroborating_sources": [
         "instagram.com"
       ],
@@ -186,14 +381,14 @@
       }
     },
     {
-      "id": "de246fb67512f71c",
-      "title": "Bolivia habilita asistencia consular tras sismo en Colombia - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdG5SQU4yZFVPSzB5M2VQNEFocHBPc29JLWlXcEh3TlZYT1JaVG02NUdCMVQ0NU8yWTB3aEtrMmtIS09lem1iUGQ2LXFaeWpCNVVOVjZWWTc3bkdGZ0U2b0ZFLWNzTVlnWEVzVGlwd2RNUVU5N2RtdVhRYW5zNndpVTZacE9hZm9KRmdjLU9JdFRMMkNtcVdxRWtlWUZuUHY4NGU0TQ?oc=5",
-      "source": "La Patria 3.0",
-      "published_at": "2026-08-10T18:34:04+00:00",
-      "score": 63.01,
+      "id": "48a6e9f3b07b08ad",
+      "title": "Câmara de BH aprova projeto que 'reorganiza' estrutura do Executivo - Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSERrMzNIVThKb1BjM25YS3ZmcllxWG16Zm44LVBqWFFIS05nV1dmT0IyXzFGaXlxMDFJNm5rWkN5WXQ3d3RQU1J2MlFmMFFmOTdhOUQxbEk2NEFKb1lIOUk0WGlXdWZGOTE5a2E5cHJKbzYxN2ZLcjRuQVNIT2ZIc3lSbHdzSXNUUlkwd1poeGxTS2lBWFpBSUdTSG15MkQ5ZjVQLUNB?oc=5",
+      "source": "Rádio Itatiaia",
+      "published_at": "2026-08-10T20:53:56+00:00",
+      "score": 58.53,
       "corroborating_sources": [
-        "La Patria 3.0"
+        "Rádio Itatiaia"
       ],
       "signals": {
         "source_count": 1,
@@ -201,29 +396,14 @@
       }
     },
     {
-      "id": "66e0d5174f7086a1",
-      "title": "Vox y Ayuso se unen para dar la mano a Meloni: apoyan las medidas de Italia pero critican a Sánchez al replicarlas - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFpQaTVpeFN1TDRQdWU2anhOLWFZWi0wT3RfazQ3ZFI3M2tSVWxYQldDelRvZG05NnkzNDZyQ2hLczRlb3VQck9FYVM4QW5relNOWVJ2WXp5ejRPSkhvZ3FRMlBkTTdTcDd5TWQwaDBYN1lKcHNZLTF4UTB0ZWZxVVpwMXZ3OU1GYl9Hc3JnTDdnMVdNang0dDlPdE82ODE5RUs4azJ6WFJjLVUtbXNSLWNJUHdVRHNESkw5dnhHN0RyN2xyMXN5SS1XX05rc0huZlN6cHpn0gHbAUFVX3lxTE1zSEdRWnd6SUQ0WEtOa080eGhOVXlldlNKcnZZY21nVFlLWl9NLTFhNnlZYTB3VWNkeDZpTFN3WEV0T3B3V1d2MTVYUjN4enljUWVTSkEtMU5qX1FZb3VqX1BqLVhMaWF5aHhFN19OTFBLbVFiTTN2NWo0RXZ2Y0ZkVnplZlN6LVJPVEt0TTZlTWdiSTVwcU5KcHhqcWthNXRjWEJXTkFhWm5TY3lSNnIxSGJOYldQSnRfZTZwTlRkTGdDcFVZMjExYUhZak5qVjlEQmp5S1dKaVluaw?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-10T18:29:38+00:00",
-      "score": 62.93,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3b7e2e59ee60ed41",
-      "title": "Presidente interino do Cade participará de conferência internacional em Nova York - O TEMPO",
+      "id": "fedc96354d25debd",
+      "title": "Presidente interino do Cade participará de conferência internacional em Nova York - otempo.com.br",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXlYMjcxSGRQVktTMEdQOGdUREJsQklDaEdOcURVYmFfNVlkZWNtdm56UW0zWTloTnFGLVVPdm9ac3A4QXR5clZKdV82UzM0QjdzTG9rdTIwdkJHNm1yQmhTMFhFOS1oS3pqQlg5TzFHWk9zN3g5M1FVRDkxN0ZTLTZnLW9EU0V5LUVSVHIzSUt6ZlNMQ0lkWXpibWJQb09tSnJ4RHdhbGg0S3JEek1kRnJ2YTR2LXpENnpLYW1MZnFtWmlu0gHKAUFVX3lxTE1QUkk0Y2NrS09iNVpKazVKSXhFOVZER1lOYWJ2ZGhRUDlha29GcWcxMzVXZ3pfMG50dlBfRkVKMkhGc0lfVnR2MUh6VlQ3T2x1SG01Y0VtdnRLdU1sS2xYc2RsQlFmSWFRQTJOMGp3OS1HdHZaYnM4b2RMSkM0bXFvWUUyX25HNVhiUF96SDYxaDZVYk5Lb3ZTY0owSk1HdXZkX29vMTFpeElTQWhyT2JlRDlqbVNTWE5wQ0JGdmE1cnhNeFp2bjk1V2c?oc=5",
-      "source": "O TEMPO",
+      "source": "otempo.com.br",
       "published_at": "2026-08-10T10:30:43+00:00",
-      "score": 62.88,
+      "score": 57.5,
       "corroborating_sources": [
-        "O TEMPO"
+        "otempo.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -231,14 +411,14 @@
       }
     },
     {
-      "id": "9a224f03c3a7e699",
-      "title": "Briga entre Trump e Disney pode fechar emissora tradicional - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVjM1dpQ1NhU1dtRUc1RDgtdXhOUVZnVE1HeWV3Qk5zbF9zOENIU1hRVmZBdFFHN0JuMnFTQmxuUUhESUViRGhrNzAyZk9UdXdSUllfek5qel9SZklCVkMwMHlGX0NLcWdjWGlIWjRUemVnNGpvMG5sd1pGS0xsUVk1RjhwUDRGaXdlOTNiaU1Oc3lLaGFkQm9idElmaXZxUjBGcg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-10T15:30:17+00:00",
-      "score": 62.7,
+      "id": "88970ea1deb97449",
+      "title": "Trump e Rubio fingem diplomacia para ameaçar a soberania do Brasil - Intercept Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2xmbTRLeklQUFNaWU5LMTd2eDJVcWpxYUJleDMtUDBic3BqX1d2d3ota0sxcGNsMTlYd1J4Y2ljOUhzVUEyWWl0Y3lMRXN0bkJUZVdJRDNKNWFkMlJESkhiRUxKRzk0UHk5RDFUdXpWX0JoMzJtT0JfRFYzclZIRUNrdzEyQnpwcUE?oc=5",
+      "source": "Intercept Brasil",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "score": 57.12,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "Intercept Brasil"
       ],
       "signals": {
         "source_count": 1,
@@ -246,60 +426,14 @@
       }
     },
     {
-      "id": "301de19b77eab915",
-      "title": "10 de agosto: fatos históricos que marcaram a data ao longo dos anos - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemNxV0dJYnJZdXpyT0ZUZjlmMGs4cHlSYndzaGpXSVRfcVdYcGE2X1JPZkw4dnpqcDNPTEJLODdRX2xBcVFsZ1hOZ0s3ZHpEUDg5MkszN09hWmdnMjc2TzZLTXRGc0NvYVJjaWRLRzFndGpJWkpyVC1qWXkwLWNUYXVhVEJHZjlpN1psTkgteDNCallsZ1pqRlQ5dmRHMWNrQWFEVTZTVTZ6QQ?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-10T14:39:55+00:00",
-      "score": 61.84,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4c390af4715e4930",
-      "title": "Plano de governo Lula-Alckmin 2027–2030 propõe novo PAC, Ministério da Segurança, indústria verde, fortalecimento do SUS e soberania nacional - Jornal Grande Bahia",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTWhLMU5DSDExNS0tdjVpM01RVGE1Sl9sNEZMQmZ0T0tfakdLaXRCNlVaazlpVmZDX1lja01wWUNLYlI1ZkVMa3FobkdudTB6R0ZHQWxjQjBLdll3SjBibUhRMTNjTzZmZGxYSzQycGk1VV9nNGFhR1g3b0ZLRmZLeFN3OEdCRDNKdWVrNlBJU0dsWGVyenZHbU9rSC01VnYxeVdsSmZyVzNHNUZyYlNDVWtmWDctaVg2SF9hMU92Q193RzRRbmVUVGZPN182Y0tOQjFmT043TkR1a0VvdDdOaDNrekUzbzdxeDBSNmdDUU9XRk4ySzV0MEVBNmFoZS1GaHhKQ0Y1ZDBJNFpu?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-08-10T09:00:43+00:00",
-      "score": 61.56,
-      "corroborating_sources": [
-        "Jornal Grande Bahia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "aff28daddd7616cd",
-      "title": "Takaichi will brush off Albanese’s melon joke. She shouldn’t have to - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzlrN19RZVl6Q0VjdDZxUHU0MW5zdl9nUlZXemNrR3NqMHo3NnpMNWFrYnF3WlhsbjIwSUVtRG5uRDhUY01PYU9BUHJuR2o3TktwMGNRdDRubzUxRkVxVHJHMEdSYjh1cDdOZGVQeHI3VW9RWFZGYUJrQS14OS0yTlBOU0dsR1kzTnZ2RVFRQjAwQUdoaVdETFJRSnhWZTZ0SFh6VDBSN0tpcHRva2lOakNfR0Jrc1hUYlNOaWo4NA?oc=5",
-      "source": "SMH.com.au",
-      "published_at": "2026-08-10T09:45:00+00:00",
-      "score": 61.5,
-      "corroborating_sources": [
-        "SMH.com.au",
-        "The Age"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e41ed51ba49a5368",
-      "title": "De Caneta Azul a Luís Fabiano, \"famosos\" tentam carreira política em SP - metropoles.com",
+      "id": "863c163d0fcd8e09",
+      "title": "De Caneta Azul a Luís Fabiano, \"famosos\" tentam carreira política em SP - Metrópoles",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1NFSWI5LTFhbVdGQzNMM1FpbFNLSExkdDVsZXVKMXFWUnJKMmtVTmZMc29wNVA5akx4NmNiV1J0aWZCa3RDdzYzT1lzY1hNQjlYVTRuX3RyM1VZSlU0TElMV01YNzYtUlVha19BTVNaZk9hV29ObmFaeWgtaHJCbEtfdzlPcEtlcTN5YU1PS3JDX3ctNmFDTDg2cnBCUWhfdXZxckFULWE?oc=5",
-      "source": "metropoles.com",
+      "source": "Metrópoles",
       "published_at": "2026-08-10T05:06:00+00:00",
-      "score": 61.36,
+      "score": 56.73,
       "corroborating_sources": [
-        "metropoles.com"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -307,149 +441,14 @@
       }
     },
     {
-      "id": "12e8cee968466d6d",
-      "title": "Vorcaro reforça defesa em busca de 3ª tentativa de delação, mas provoca atritos com advogados - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmlucXFxaFROZzdvMHZvam1VXzljWG1YaDdCalpGdm9GRGRvbGhMZmhZVm5EemtQcm90Q3JJXzlKcmtQUjVHN243NHUwQld0S25teFgxQkhSM1dYbGFYN3NkZjRMOGtDeV95RE91RjdfeTFfSGM3NDNKcWQxYlBQb29nWnRtTFFrXzZjSmtQcjQ0WUJKSFR0NXN4aDBuSDBDbS02NDM2SFBpcEZWRE4yUFU0bzZOOUJJQ3N4VUJ3alg4ZXNXM1Bv0gHMAUFVX3lxTE5wZ0VzZVNIWlZwQWFrMXRDbHN4eXFQQy1oU3VTWUs4dTNhMWNXc3N4YWZDQWFqU3hBcm5LbEVMREppM0ttR3lESGVVSTVVNzZBZ3JSRl85MURHcXFjVTNBZ3dsVGhHcEZRMUtSMGI3UkdUWlJnMUtLY0JZakUzVXJxd0lYcW1QLUtGd0RBcFhCemhjbDBSSnNSOUxpOU1ETTlwUGM4a3hWQzYyR1V1QzdzR1p5b0JVYS1JNmZTMTI1YVpZZkhiaF84REJ5Ug?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-10T13:57:00+00:00",
-      "score": 61.13,
+      "id": "a0b9d95b2a75281d",
+      "title": "Briga entre Trump e Disney pode fechar emissora tradicional - brasilparalelo.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVjM1dpQ1NhU1dtRUc1RDgtdXhOUVZnVE1HeWV3Qk5zbF9zOENIU1hRVmZBdFFHN0JuMnFTQmxuUUhESUViRGhrNzAyZk9UdXdSUllfek5qel9SZklCVkMwMHlGX0NLcWdjWGlIWjRUemVnNGpvMG5sd1pGS0xsUVk1RjhwUDRGaXdlOTNiaU1Oc3lLaGFkQm9idElmaXZxUjBGcg?oc=5",
+      "source": "brasilparalelo.com.br",
+      "published_at": "2026-08-10T15:30:17+00:00",
+      "score": 56.52,
       "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7edc827828ad0f51",
-      "title": "Ceuta, las redes y la ofensiva de la internacional reaccionaria - galiciapress.es",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeE52UERlQnBVUUtYUzZwa0U3WXhiNjUzdGdBbDIyZlNjNFhlVzE2ZENIdjJqQURvTWpfQlNBa2JuNmJjbW5ORjkzUGdZbzhEMXZ1RF9oSkZ4cWFjVTZNeVR4a0JMUTdEUHZZQWEwQ2MtUUVFQS1FeFk2STNoX2Y3VXY5ZW1HVlM0V0J6c3NpaWJDeURNYl9vOE9ETnAtcE43ZG1yUHlrN3hKcjJVZmNLTg?oc=5",
-      "source": "galiciapress.es",
-      "published_at": "2026-08-10T15:48:15+00:00",
-      "score": 60.01,
-      "corroborating_sources": [
-        "galiciapress.es"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b89206e91cebdddc",
-      "title": "Lionel Messi toma acciones legales contra medios argentinos - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzBiNnJFbXhUZDlFc2NseGU1RXNCQ01VQUs0MVVieEdMbHBzeW1YREhZQnpNbXRxdWdLVVNvcU1FTXhNVmkyMFdZZUVfQ0c5emxpbnRyanZRUUt1YXJCTlRaMWJabWY2SElHazgyT2RWVzlUVHh1RG1UbGF5Z1BzM0RQWlJXNWYxQVlmOXkycm9OZThkdnlPUlZzNlpQSVZvbFkyUW9B?oc=5",
-      "source": "La Patria 3.0",
-      "published_at": "2026-08-10T15:44:43+00:00",
-      "score": 59.95,
-      "corroborating_sources": [
-        "La Patria 3.0"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "95a5f6f69097a366",
-      "title": "Raquel Lyra registra BO por receber PIX de desconhecidos: \"ação coordenada\" - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkdoNHZzQy1pYmRGbWxLSWhoX3VHWlN6UXNlNmpwOEktUXV6RTN4NzhzdjFoejRGU1NEWVV5UjNTRjNGM2p6aXBZTnJQd2hGSGY5V01oRnFwc0s5X1hJNWQtV3YzeVE3RXl2dkwzbmhleXhiMmRad2RQVV9TSjNpSVZCRXhpdDZ6Y3J3SWpsUEZueENxT3oyUG15andSMkt4UlhmWElyRnFLSHVBY1N2eQ?oc=5",
-      "source": "CNN Brasil",
-      "published_at": "2026-08-10T11:17:39+00:00",
-      "score": 58.59,
-      "corroborating_sources": [
-        "CNN Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0f45b5a7a346f7f1",
-      "title": "Bolivia y Brasil lanzan Plan Fronteras Seguras el 13 de agosto - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3g0VWNMaU5OWnduLXl5UlQwa1RzcFhxSkVnVk55ZzRYZk5iMlUyUUg3N3lBUmJnX0lQdkJld2d3VUN5Y1pRU2E1UWw2Q3gtWW9HR1pSNkl5Ykxuc0l2MnUtQ2FlY0R1aFJtNmhjYUE3ZzV5czJWLXppMThEMFdGQ1FvczZpOEVGdDAwQVVIc0dNdmdacGstOVF5UF9OV2s0N1pLdQ?oc=5",
-      "source": "La Patria 3.0",
-      "published_at": "2026-08-10T14:19:37+00:00",
-      "score": 58.5,
-      "corroborating_sources": [
-        "La Patria 3.0"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c0dedb49028a5faf",
-      "title": "Senado dos EUA aprova pacote de sanções à Rússia - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekVLRnN1Qy1rOFVMQWV3RDdzRTlVckFRdGVjemx5TTJDYXdrM3BDMUxQRnc0TElGb0U0czZRTzczUGNkLTVtM3hTNFVlQVZTdDNGRnF0ZWJMOWdPQWRHUF9BYVY1SEFQbTR2MEpyajhMV01PcFV1azRxNGFud1JhQzJTaENWU1FzOEd5Z29rX1dVMTlMZi1CbGJVaWlYc2xuSUV0WHQzYjNRNkxYdFdpSmlhVTBlalgxQ1E?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-08-08T19:49:00+00:00",
-      "score": 57.54,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f60a32fcd77222fc",
-      "title": "La nueva política exterior de Colombia en la era del repliegue hemisférico - Descifrando la Guerra",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGdJdXRQeHN1bnFWcU82cUI3VDlSU3JHakkzQ3g5aVRYNUtFU3FBMVVteXdrT19vWVZEZVlkZHQtYVZBNTF3RFZFY3FnM1FDOXl0OE80UkZsZHBEdVFwV2xFX1ZTN215UnlJa2h4cDRNRDhEam9sUTBHOGhVSVRVQVY3T0JWRGd6?oc=5",
-      "source": "Descifrando la Guerra",
-      "published_at": "2026-08-09T11:33:29+00:00",
-      "score": 55.6,
-      "corroborating_sources": [
-        "Descifrando la Guerra"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7e74e4eee7b48203",
-      "title": "El agujero en el discurso migratorio de Meloni: Italia no puede prescindir de los trabajadores extranjeros - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaHdvZWFHZHVKQ2VUaWJfOUZ1UmNObm83SlVyUzdzdU5ULUVKYVhjRkV5NGZnTnViS0ZfZEg2azY3OEMzRk1LQXFYZFB5VXhWMzBMVWVGbVN6ZjhRZ0liUGlUWnVsQTdDdzFOcUo5ZW5vNlVvd240LXc0SkdRbjM4S1RRRU1yQXZra2RIXzlicTl1LWJoZGRINHpOYWc0UzhVRWZfYVFLTE5pQUZPRmtSSVVvLTB0SHVJdkZBNl81YWxOR2ZtWnoxVUhuZlo5VFRpUVYzMmxhWG9fV1hP0gHiAUFVX3lxTE15eTFFTU11ZFEtTUtaWFZXRHEwbEwzYllYLXNRdjlrMjF6NGJYZEFoVmdhT2FpZk1sNmswMWVnWmNWc1lwMGVnXzR5dm5nV1VOSE80d1VSejlSbTRORWpXQ1Y5NHRfdjh3MlJhRTlBNXQ2RFJCb2laQ0E2ZzFtSEE5dkJ5SWRSUExNb2ZVbUZqdThVQS1kUDZLY2JlVmUxNm1ST2xDeHREMFpob2x5bTlOZVZQdjQzXy1GMGFrb0NpRXhsdmtkNWtwUUU4blcyckl3X0IyWnFMekV6LXJTQWwwUGc?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-10T09:13:00+00:00",
-      "score": 53.74,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "758ea4abad2dd84a",
-      "title": "Cinegrafista da GloboNews é retirado da cobertura do debate após dar cabeçada em repórter - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0RLc3VaNTZqaVBQaVk2NHBFQ0NlU29NZzB3UDB0YTNkTFlGTGctWlpuX1lmejRocnpNempwSWJiZ3NVLU5oWUdZbjdjUXVubVFhZWJtc0xWLWc4aTJPTUZCd0VqaEJQNWtETFh4eEZtOHhHRk9UU2lJblpLRy1WSU84alRrZXNvZDJwQWF6amNDUGFOa2o1Vno4bURKMTBKOTNVYnFUQWhOcGJTdjhEck1xZF9qY05tTXZiZzBqR2E0WHpy0gHKAUFVX3lxTE96ZkhXQS1pUnlDbTRDWGdSTTNJS2dOWEZIdkszSlJPaE51bjlwNGRERjF0ZmltcDl0UlpWN0ZHdE1CQzFSdFdBaEdzT0g3LWwyTFlmM2JveEtCdDRPU2YxMEIzeENxMkpBMHNiTXV4UmFqZGFfQzdKOTNZZnd5QUJsTnJ4cGRyeHlYd05tZnZSeFNBaFF2dlhUeDEzWHVGN0lpakhoZVlXMS1rdmNQSjFZcmcyQXJJMU5nVmcyMGlWd04xeGNZT3ppZ1E?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-10T01:48:11+00:00",
-      "score": 50.92,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "86d8ee68175ede86",
-      "title": "Ausente, Paes vira alvo de debate; Ruas cita “confiança” de Bolsonaro - metropoles.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWQwYXFBMHRrMklDMm9LSUJOMjJxdm5FdTJVbUU3NTVoMnlnY0xhQjFjLXBuX2x0SzNkYTc5ZmxBQ1JTVmdSRGJJTnFnVDNFYkRLQ2tCRzhITjBPX0ZzZ1BkVlVKbEJ0U21HamRZVzBkSjVBUkU3bFJIM1VodGllMWdWNGJ1OW0zWUFfTFgzcFc5R3M2UGo0ck85WWd4YW9f?oc=5",
-      "source": "metropoles.com",
-      "published_at": "2026-08-10T01:37:00+00:00",
-      "score": 50.79,
-      "corroborating_sources": [
-        "metropoles.com"
+        "brasilparalelo.com.br"
       ],
       "signals": {
         "source_count": 1,
