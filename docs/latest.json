@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T22:25:50.988148+00:00",
-  "next_update_expected_at": "2026-08-12T02:25:50.988148+00:00",
+  "generated_at": "2026-08-12T05:50:08.292736+00:00",
+  "next_update_expected_at": "2026-08-12T09:50:08.292736+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -10,10 +10,25 @@
       "title": "O que é a Doutrina Monroe, exaltada pelo governo Trump em novo vídeo - BBC",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZjJrQ1doYWRPYzdMc0VWWXZkeWZNd1hydUZGNE5hejZPR3laWkZmaTIySnk1NVVheEp3WHp0ekJsVXNsTGppbV90QmREOUp6SHktN2VLb25NZDJ1ejl1bmxn0gFnQVVfeXFMUHczM2NLMl9wM2tXdGZRbzdiemdwRnlPLThUTHhYTWp6R3VESnJNamY0cXM2OXJlYUZXQm5QM1k2Wjd1RVdrZzE4TjFUMkZCSUZxTGlfa2JIZ2RsTEZ5UFpWSG1LaFNmWQ?oc=5",
       "source": "BBC",
-      "published_at": "2026-08-11T22:16:36+00:00",
-      "score": 75.28,
+      "published_at": "2026-08-12T01:44:58+00:00",
+      "score": 70.65,
       "corroborating_sources": [
         "BBC"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2753d3d9721841f9",
+      "title": "ELEIÇÕES | Durante a sabatina promovida por Folha e UOL, o candidato a governador do Paraná pelo PDT, o deputado estadual Requião Filho, confirmou que, se eleito, vai tentar retomar o controle estatal da Copel. Também diz que não retira as críticas qu - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMUNpT3IxZ0JjVUZzM2ZxNVBUUEcxbHlYVTYtSzRuNXZFazdLX0toQzk1VThuT0hpLXRjQy1Ec0tYenhfQzlOeGN6RnV0Y1N0dW5wR3RB?oc=5",
+      "source": "instagram.com",
+      "published_at": "2026-08-12T04:55:23+00:00",
+      "score": 69.35,
+      "corroborating_sources": [
+        "instagram.com"
       ],
       "signals": {
         "source_count": 1,
@@ -25,8 +40,8 @@
       "title": "Camacho y Lupo se presentaron ante comisión del Senado para exponer sus planes de trabajo para cargos de embajadores - unitel.bo",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlRxTkw3MGJuTHNjRXFRU1dDRElOQTJ1VGdYLVZHbHBZMlBzVUcyWlh6SndyTFpycVRrVUtjZkJTZmMtMENORkhkQTZ2Y20xakVGZzloOElObzRST1JYbTMwQTJrT2FKd0Q5VndoWmNUU0QyREpNd3c3MDNZUDV1Q0VnVXU5UXRLVDlJZkx2MkhxQmJLcEc1SFJpZUItSXJUdGk0bWdtb2pRaUVWUng5Tzd1THZEbG5DdzZBTjRUNk1CNWR0cTAxa1R6RnBOV1g1Q0VmTzZRdWxDQ1dKWUNydUF6amZHUjk5WncwWE9CLXRxc2dTV2c?oc=5",
       "source": "unitel.bo",
-      "published_at": "2026-08-11T20:47:53+00:00",
-      "score": 73.48,
+      "published_at": "2026-08-11T21:25:25+00:00",
+      "score": 66.1,
       "corroborating_sources": [
         "unitel.bo"
       ],
@@ -41,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFBteGJIdTJFWUpkVjVSaTZaZWx4dmxiQkRyaDlfUkJneVd3LXh2U3Zfb2VtUENoYjNIVFZXSWpQWThPWS1OUEpaS2FzWDNwQ3k4TkZiLWFnaVg3d2Jkd1paZFlfSXlBY2REQTVwa1VxS2hXUF8zNmU2M09wbkpzcmNaNW1fTzl1c01BTnNwQW04YnZkamZIN3dBakdveUNpQjVQSEdhRTJjenpvd19iNmw2SXRvZw?oc=5",
       "source": "El Marplatense",
       "published_at": "2026-08-11T19:44:00+00:00",
-      "score": 72.23,
+      "score": 64.47,
       "corroborating_sources": [
         "El Marplatense"
       ],
@@ -56,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3FRaTRjNm5EYWpyX0J5RTJTUHhtNEZEOGRVdncyZkpFUFpNdVJXNWpGdG9qMVh4QlVHZ2J0NG1DR0ktVS1Kbjd0ZkVqX3ZZLVY1SWVzRGpMaDlObEItWTZPazY4NjlBMzlWbVBpa0NBaUVFY2lOZDNrQ1VGaUM0TXhNeTQxQmdtT2prV1cxdjM5SHI4RVRtMXdCY1hsS0NvazI2bEJTT3c3M2luY0o3OGQ2S2NMbTNDZDlHY2M1Z0U?oc=5",
       "source": "Ministerio de Relaciones Exteriores de Cuba",
       "published_at": "2026-08-11T19:10:39+00:00",
-      "score": 71.59,
+      "score": 63.95,
       "corroborating_sources": [
         "Ministerio de Relaciones Exteriores de Cuba"
       ],
@@ -71,9 +86,24 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUnZueF9HRmpIQTZlNUVPZ1BJMVJBaWF4allqX0RxWm1ycGF5bG5KbXBYQnJJZTlvOGJLU1o3TUhFcmkzNUJGRGloR0hKT0xDRGs5aklvandGLUpIWGc4Tlc1T0dHWFprXzdvUXlILW90enhFRXVtRWxVZ2hJdHRkZi0zLU9HYnFBOXpzZ01pUjF6VWs1TDh4NThhU3ItMW1fY25aTUk4ZExTS2pWWkV2d1lxVmwwLWVFam95OEUxUXFveUJLMndvRzZVWEw0QVJDcVlNNDd2RkdPQ3pSRUhQM2FGTnpzQQ?oc=5",
       "source": "El Constitucional",
       "published_at": "2026-08-11T18:29:48+00:00",
-      "score": 70.82,
+      "score": 63.32,
       "corroborating_sources": [
         "El Constitucional"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c4dd536ae94a3afb",
+      "title": "Presidente de Colombia visita Pereira tras terremoto - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcEtjdXJieTlxQlY3VVhHcEtIT3hGS3k5N0hLR3JCRlU1dFFiNk4xdHRHaVFVRXBBWFhkdFFUVGMtZ3pvaXV4N205T1ROa1g3Mms1WlF3QXpCRmZXZDNLcjlDdTU1VHVmc3ZqTUdmSzBQeUlyM3FrdlpUdEhiRjlaaEdiZW1zTnlHdy1IZDgyX1NxSGJ1eVprR0hEOA?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-11T18:26:16+00:00",
+      "score": 63.26,
+      "corroborating_sources": [
+        "La Patria 3.0"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1kxQ0ozSzk5emZXV3FRMGE4djdsLTRwbS1udVRBOFcxTGx3aEUtMTdMdVM4dk9sdk40cFBLcnllbnRaS01zT0lkOFRMRGJuM0JkVUV1emhWcWQ4YVhFaUlYTW5uenVqRTVYM0NDbXlvdXVKX2g3d2ltVEktRHlyemFtd1lSOERQMEtTb1YxYS1UTU1FVERjWVQxZHI1YnJKdkZWanZGUDBUNkpH?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-08-11T18:11:00+00:00",
-      "score": 70.47,
+      "score": 63.03,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -101,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVk0RXNFLTBmbkVEcUZnYTNvUjJ3MXZWczltQ3RZNFZ3UWpHM0wwYlB1UWVfeWlERW11WlBzSDJaUlR3Um1PeGs2MEI2eXpJVGtLTWt5d2FYUDZCVTZRREpwYUJTUGZySm5WSWZGV2R6X3hfWFJGQWd6aXZXR2xfRUtBLWdCcnd6UVVfck1EQ2pZR0VFekJtTUMxZTfSAZwBQVVfeXFMTVFVeHZrTXFRRy1yU01BZmJ4WGhhTjQ2RXNqc1hGRjdja0hSVGRqYzEwNmxLb0lUVjkyVllWX0U2dW5Eb2pKWFpTUjRkSzAxdlViY3dXZDl3WDRWSFB6QU9iVmNaSDVyYlNXUTVXeUNjU3h0MzBjN0NBOENqaklHTy1lNDJFVC1WNmM1R2kxRnotUUpLMTBMNVNFbW4y?oc=5",
       "source": "MILENIO",
       "published_at": "2026-08-11T17:53:00+00:00",
-      "score": 70.14,
+      "score": 62.76,
       "corroborating_sources": [
         "MILENIO"
       ],
@@ -116,9 +146,24 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQWpzbFBrSFlpVEZnWUJKZHNJeW1mVkpOQmpjLXNjdVJ2dlhFVmJNTWZXSnlPalZ2Q3V3Z2xMSmc4VkFXU1BlSlluenY4ZkY4bUR3NkR0UW8talZxcnBEcW9RVTFhejBWel81czNmSk1zSXNtdXFSWU1lcGFWSldjNzkzQUl2aGtIRFp3MnB0MmdnMGJHS2oyeWt0WUZGRXJEemxaeVR5THNaR0NIQmVRZzN4RTF3UEktSmI2R3dDbWtZc0RnQmhfX2s1TV9fMGJMOGlCb19HVHpKN0J3VlozQlRVcTBYOGtQ0gH4AUFVX3lxTE80aEVGVjdYSXRkQklUQ0FSamI5a1lzZEx3cnA4RER6ZVNHdXQyMkhwQkYtXzZVa2gwUkg3RGtGMXZ3NF9uYkxRbk9OaHN5MGlSU0s5MEh3THV6X2dmb0tacEljamVnMHlGYzgtbUgtalZHdVZxaHozbzZDNER5RjBHM2F0WUNIZjQ5YVpScWRnLVRHZnAxUWxKRzBFQWpaWUdMcUJFVUtmLXdEMHBBU2lzTjJfc19NOWtkQ1pMTldUN2RXUnVfWVdnTTZ1X1pqMGsySUxQTS04bzNaVkhYSzhqUFpRaFlnZ2xIbXBoWGFTMk9LUVBYMWo3?oc=5",
       "source": "ladiaria.com.uy",
       "published_at": "2026-08-11T17:37:22+00:00",
-      "score": 69.85,
+      "score": 62.53,
       "corroborating_sources": [
         "ladiaria.com.uy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1df9b4d6a66b7b86",
+      "title": "Moraes determina busca contra suposto informante de blogueiro que escreveu sobre Dino - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUM4bXRkODJVS3c2NWd2VGVKekhZTlYxUHlrd2o2b3ZjdjVOdTNZeC12TTBrUlRuZVpOVUJ6RlMybnplS2F3Qk9fVjVLTE8xOXRUeUMxSUlCTFAxSXQzWVc0WmNCM2RLNkNmX0d2THRvU1BTaXNnaEtVUFpXZTRCRDhoUURVaHhYUG1RT19IT2ViMzZncGVKOEgzMlRpMWdRalh4V01KcHNDQjN3TzE4aXMxQjV3MDdtSzdQLUVrR1EtN0s5Nl8yV2FXSjg3RUp4?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-11T21:59:00+00:00",
+      "score": 61.66,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFh5UzNzdG8zN3hMLXZOUmNtdkE1TnAtZVgxMC01cVFWLTBPSWY3SkN2dTFvQWhMS1BGTk5rUzVnSmdNRmtRcGU0ZkdvcGtCZm45V0dEVEhvU3pBZFJfQlN6NE9HYk5vaWxnQjJ1eWhxanF2NUctXzBaWFczcmJqeER2dkF0ckgxSng0MmJyb3l5V083NUE3YTdqNlpMMkRIbjNPejgydjFvUQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-11T21:46:16+00:00",
-      "score": 69.66,
+      "score": 61.45,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -141,12 +186,12 @@
       }
     },
     {
-      "id": "5b1cdc09f97ef478",
-      "title": "Conheça o ditador da Síria assassinado no Brasil - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTEtSG9EMlFGaHBPZzdPWkZPdnR1U3BseVMtLWpQM3RULXIwWTktT0VZdEl2RlNSaDJmaGxfc2FqZjJiWm9DUC1FWTB5Nmp3TmxncHZockV0Y3BKR1hLREs2ZVAzWGN4QTdVMlZUb0NuMFJSaDRMcmlXX2lEWmpkMGNnZlZ1clZpc2ZLQmx1Qlp0R2REaFE?oc=5",
+      "id": "2d13d6d91dac1d3f",
+      "title": "Mensagens apontam que Fauci temia abortos espontâneos, mas defendeu segurança da vacina para grávidas - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUVtRWY1MVFhRThURXNNelc1ZzJETzk4N1ZqMkZFeVhfRnJiZTZLUnhmWEhmVnpZTDFzdVBYOWRidllyWHpxanFGa1Bsc3BNLVctWUR6VnNhZFJNYWRIQ1RxRFpISF9LRWo4Rl9vcS1oLU1xaGRNaVV5UGpGcUE2NHlPOG1YZFUxVzB0dmRadWhiTURMT1FRYkJnTXk4TjZYUHM5UDZKYWhEd0pYQVpnOWV2bUJOLW5aM3ZkUGZPMEhpSUtraWZnX21JY3FRckRIS1VQQjRYT2tkc1E?oc=5",
       "source": "Brasil Paralelo",
-      "published_at": "2026-08-11T21:01:15+00:00",
-      "score": 68.75,
+      "published_at": "2026-08-11T21:41:16+00:00",
+      "score": 61.36,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -161,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0VpZTY1X0w1WnpsVVYta1Qyc1VBVzVUVm1qZWtnSGpJVElNSC1ac1JyVzNRM1lRNFh0SjVOYzQxQm1XUlRaZ1B4bEFEV1o0VnpUdFNMRThLclBqV3U3eWhSVzhhdGEySS1NOEVmX0Zjd1FaZ284MGhBc0ZXTFNWU2RXQ2hKTW9jOVF1UVZlTnBTeEdqdmhubExLU2QzQ05BYzRSeHp1TFRST09IenJQRHFpRTZkaWwy?oc=5",
       "source": "Escambray",
       "published_at": "2026-08-11T16:01:00+00:00",
-      "score": 68.13,
+      "score": 61.13,
       "corroborating_sources": [
         "Escambray"
       ],
@@ -171,74 +216,14 @@
       }
     },
     {
-      "id": "30a1dbf235861b6f",
-      "title": "Moraes mira fonte de jornalista após matérias sobre Dino - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGJNa1F1ZmQ0ZUQ1M0l3NkxValpseVNITHdjbHlKQ19vUUozd19HTmI1NTJtR09EOXRURHY3ZHE1c1lxTjNramNtVE5nZE1HcnY3Ymo2XzMxWHBibGd3a1VXREFkSkkzcmVQR1pZanFPZURxMW1td2QtTkRubnREZm1vY2JTWWFzWXo4Q0RMSXJVMG15UlBHWnlTN3V1VjVX?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-11T19:51:15+00:00",
-      "score": 67.37,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d85a952e94a738f6",
-      "title": "Ata do Copom: BC defende política fiscal ‘anticíclica’ para ajudar a levar inflação à meta - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZWU0RDFmZ21QN25kaUR5WGtaSnQ2MHNfZ2RZNzNVeFplVk0zalJMbWRrMld0V0FEWWdmekltc0JDNmJTbk9wUXljWkFUU3hfVjkzWXRoNUdnWTg2Yl85QW5CX25vS3prS0pVc3hNc19jczEzMEg5VXpWU0l5WHJLV21lTWVUZEVFMHhJVlpfVlhMUQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-11T12:00:21+00:00",
-      "score": 67.16,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "46bf49d2a6e7401c",
-      "title": "Relojes de milenios versus relojes de quinquenios en la política exterior - ladiaria.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkVfeVNJb1phaFlLOEVPMEs0ZVRiY2NUWHVNT0I2S1cxaFNNNzNYOHZGWTRhT0kyUHJ0Ujlpb0txaVhKMDRCOVFBMWM4Mmt5eFJYcVhmdTlSUnl4WVJlR210elMxeFQ2SlRWdUt3cHZ1TkFNYWRnSVp3ZmN3ZDRPQW5UR2RHb0NCZUVOdEVMdUkycS0yM3doRGpKVlhBM1hENzFmR040cUFDdW4yZE1KMEg5dXQ1cGYtOWtFYzlMTdIBzwFBVV95cUxQaWk4RXlna3BsX1hIcUNYQ01mRjRYamZOWFkzY2toQWZOcjlHUzZwSzFYUlBsWkU3a2U0X1hwaDBRalYyR3FpQ0ZUa0lMb0ZHRXZqXzlMX1pfU3ZGOFA3Z1Q2VUlnSFNyNGpEZ0VIbGluLXR2YVVEVHluYk5SZXJzcG1aRzEwM05HdEhTbjRCNFdoTlVsUjRlN3FPdnFVNzFWaGk0M1ZGbWFiNHZMbXVRSktacXdqQkxFM2c0SzBtQzQ5VnpFZzRRcVRWSXhhcTg?oc=5",
-      "source": "ladiaria.com.uy",
-      "published_at": "2026-08-11T14:17:44+00:00",
-      "score": 66.37,
-      "corroborating_sources": [
-        "ladiaria.com.uy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4cea68df76550330",
-      "title": "Venezuela e Israel acuerdan reanudar relaciones consulares - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmdjdTJJZGxKWXoxT2gxUV9MNmNNdGd6ekRFbk9id21GaFd6bFN2bEdDQXlVX0JGUXl1Y28zWGpVXzdPeWRwUXdKNmk4R0NsdlNZZVVZc0lhOXRjeUN1SWZkYUU2MGZzWDJPMmU1RkJzVHJHQTE2dGpvb3JScmRGNG5zMUZsemx3ZWFiU0V0WkZicEFfVkk5Q21wOWVEVU1RVXo3ZFhNOE5UX2M?oc=5",
+      "id": "876fd7e10656d84e",
+      "title": "Camacho y Lupo se presentan ante la Asamblea Legislativa - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUhSM0xpR21oNFE0SUEtNnkyaVdDbnlZcWdUTU94RURsUk5zZ3JXWkY4RmFtTVJIbWlKV2YyUG52NjJDaXpsT0ZIOENGTFJVWFcwTVE4MnZweV85RjlrNU56YkFTWTFQdk9wNXprbl9VM2NnR1BtUWduM1UzeFFNeWJ2ejF2ckg3bFFPSw?oc=5",
       "source": "La Patria 3.0",
-      "published_at": "2026-08-11T20:29:36+00:00",
-      "score": 65.12,
+      "published_at": "2026-08-11T23:57:50+00:00",
+      "score": 60.7,
       "corroborating_sources": [
         "La Patria 3.0"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "22db9cdc8bfe1cb6",
-      "title": "Plano secreto: Como Trump usou caminhão de comida e avião isca para enganar o Irã - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT054SVBlNXBJSUVaQ25jT0JrRXZ1dHBFN1hKUVlaZEpGOXU4VVc0dWtsU2tyUHI5ZVR2SXQ2Z21oOHJqcWdWS2RRU2theFBZREhoa1pxMjZqbW44V21oc2E3RDdKTjM0VTh0Mzd0STFsMExJSGczanVENm83M1JiLTFLTVV3MnB1QllpOGhfOEVKaTJmTll3Z1Z6NzlHdTBlM0hIdFk5NkRvdkt6akE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-11T17:46:14+00:00",
-      "score": 65.01,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -251,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTJScHVfTTZxVjJZMHJyNlREbExJRVNDSDhTU01PeXZrd3NRM2I4QWdhb2ROWV9SWjFUbGdPWTBzX0M1cTZFQklyZnc0SGRuVW1QMmJBMno1dlFQTE14YmREaEtyMkhlYzdVSEhPNTdtX3Z1V05XUjNid0RBemJYeU43Q1VzZXVKQ25Kazc0WWRsbVF3WGVQVmhOTkM?oc=5",
       "source": "The Japan Times",
       "published_at": "2026-08-11T02:57:00+00:00",
-      "score": 64.67,
+      "score": 59.8,
       "corroborating_sources": [
         "The Japan Times"
       ],
@@ -261,14 +246,14 @@
       }
     },
     {
-      "id": "75cf95c41e71f5c6",
-      "title": "EUA citam Doutrina Monroe e dizem que domínio no Hemisfério Ocidental ‘nunca mais será questionado’ - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWhWdjg2Sld4dUJGQ1JoSXZRcWNJTHd2TmJaeW84OVcxQWV0VzBJOEZDbkRQZm8wSU44ZGhWUVJ1Vm5LRkZLaG1pN2dpV2lmemFVUUI4SzhYdUFiVE1QV3VyUXNjVXRZZmJaR0tRQ0NNbzVMbWRLLXJKVXdpcUJXRk1XOGhyTFFOT3llZFJpcGYtVmliMTY0NjVYRmV6NlVEZHhJU1N0ZGNzRm12SjFQVmpJNm9uQl9ZYklCaFJ3Xzc5Mm5jR19MLWxYVHp0T2d1cmk3SF91aEVDbzDSAeABQVVfeXFMT3lLTWdfM1Y0dkxzbDRsLXgyY19naFUtZHZhTEh3ZW9zV0dJMWpiSS1KLTlBbnVPZlI0ekdRRkZtUkZvTU84U1hnVUJZcm1XeWJNYWM4ZnlVZUJDUEM5WE56OGJ5LWZnczVuazVBYUl0dUpRV3JUcmNQSnZ4TG1RRl9nb2paYkQ0QWxwQ214R3pQcFhXU0JSWHp0SVpmbjJXMW1IcE1hZEJFUTlEYlU4WnZPTklQSFBfclhkMUpvSVJUUm44MnE3ZmZsVXhmM3ZUZC1URDAwOG1zaHBCQnZMUE4?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-11T16:35:13+00:00",
-      "score": 63.73,
+      "id": "46bf49d2a6e7401c",
+      "title": "Relojes de milenios versus relojes de quinquenios en la política exterior - ladiaria.com.uy",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkVfeVNJb1phaFlLOEVPMEs0ZVRiY2NUWHVNT0I2S1cxaFNNNzNYOHZGWTRhT0kyUHJ0Ujlpb0txaVhKMDRCOVFBMWM4Mmt5eFJYcVhmdTlSUnl4WVJlR210elMxeFQ2SlRWdUt3cHZ1TkFNYWRnSVp3ZmN3ZDRPQW5UR2RHb0NCZUVOdEVMdUkycS0yM3doRGpKVlhBM1hENzFmR040cUFDdW4yZE1KMEg5dXQ1cGYtOWtFYzlMTdIBzwFBVV95cUxQaWk4RXlna3BsX1hIcUNYQ01mRjRYamZOWFkzY2toQWZOcjlHUzZwSzFYUlBsWkU3a2U0X1hwaDBRalYyR3FpQ0ZUa0lMb0ZHRXZqXzlMX1pfU3ZGOFA3Z1Q2VUlnSFNyNGpEZ0VIbGluLXR2YVVEVHluYk5SZXJzcG1aRzEwM05HdEhTbjRCNFdoTlVsUjRlN3FPdnFVNzFWaGk0M1ZGbWFiNHZMbXVRSktacXdqQkxFM2c0SzBtQzQ5VnpFZzRRcVRWSXhhcTg?oc=5",
+      "source": "ladiaria.com.uy",
+      "published_at": "2026-08-11T14:17:44+00:00",
+      "score": 59.7,
       "corroborating_sources": [
-        "Estadão"
+        "ladiaria.com.uy"
       ],
       "signals": {
         "source_count": 1,
@@ -276,14 +261,134 @@
       }
     },
     {
-      "id": "aaa30828ea8efb32",
-      "title": "Africa at Crossroads: Rethinking the Continent’s Position in World Politics - Modern Diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWRuZFB1WnlFNy1ZNEpnNXVSNVI2S21xZlo0UXBpTDJyYmswVE5DN3BrcG90bEhHN2N5cUNnZmFvOWl0aWpmVnp3VWVFTHBtaVZIQlJVVkFpZjgzWWxPRzQ5YjRvRGlXQWwxRHJIZkFrRGFySm1VZ1JrNUhKcktCVWZZWXE0SDU1cmZpd1RPc0VJenpRSWNmUEV0VjlVLXpVREhTZ1pUeXNvaFVIS25yYkhB?oc=5",
-      "source": "Modern Diplomacy",
-      "published_at": "2026-08-11T00:00:09+00:00",
-      "score": 62.61,
+      "id": "a003829b4c8f871f",
+      "title": "Camacho y Lupo son los primeros postulantes para cargos diplomáticos - Red Uno",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTFA4Zm5VNU1YY0xMbG5PUkpTcXZQNmlvSGFSQlFRVmpGMlc2WXRNZ2dJU3Z5YVMtUmJBY2w5bG01SUxoVkFUUGwxQ2o0VEVGUmZtX2RPNHJWYWh1MnNwcTNqeDJIWlhva2RZZTNDU2xVSzVqMFkyY3dfN3k0R3dqVGVTX0xkWHpuVEpiYXNpR09WdlJRRWJJbmUtMTNmQjFOd2I4T3RPR2JBdS1oc2ZlZkZXWnUtbmJo?oc=5",
+      "source": "Red Uno",
+      "published_at": "2026-08-11T22:54:55+00:00",
+      "score": 59.61,
       "corroborating_sources": [
-        "Modern Diplomacy"
+        "Red Uno"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6ac8012716caf8d4",
+      "title": "Sigilo em risco? Moraes determina operação contra fonte de jornalista após matérias sobre Flávio Dino - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGJNa1F1ZmQ0ZUQ1M0l3NkxValpseVNITHdjbHlKQ19vUUozd19HTmI1NTJtR09EOXRURHY3ZHE1c1lxTjNramNtVE5nZE1HcnY3Ymo2XzMxWHBibGd3a1VXREFkSkkzcmVQR1pZanFPZURxMW1td2QtTkRubnREZm1vY2JTWWFzWXo4Q0RMSXJVMG15UlBHWnlTN3V1VjVX?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-11T19:51:15+00:00",
+      "score": 59.58,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6f67e014fb579ac8",
+      "title": "EUA: Domínio nas Américas nunca mais será questionado - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0dHajkyVWtDYmxxVmRxSXd6YmhoQU54Um1yNHlFdUpxbm9FbU5aSDQ5V2pxeUNDSHhuSl90dXZlamxMaXBUcEUzc0VkS01Gc3BkX0dYbms2Zkx2Yll1SjdOTEVkMlo3R3NvVVVwZG50OTRzLTBxVHVrVWpvNl80V29RT1k0aVNhQXZOZHdmTzVjaTh6NmN4eHZPdzVPaFNjbEdraTlxWlXSAbABQVVfeXFMTTdWWGlQcmlZcjhvN3ZmMGduaUdicFFBQzRwN3c1LXNlUi1EdDhBcG1NQlJ6ZE5leGJWS2JEU3p1eWtjZnFhZFJfVFZULThiclBzZ3FPYlUybVd0Wm8zc1R6NExyTGhtalZIWG5RNVBTejZTUURZSVMxSVh1blNieHFtTnVGdm5yZG0ycHNrODA0UEdUa3dYNXd2ZmR6RTAyUVpkSFFubjlwWTBaX0NfTEg?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-11T22:33:00+00:00",
+      "score": 59.23,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2ebc4c271d020fc9",
+      "title": "El socialismo deja de ser marginal en EE UU y sacude al Partido Demócrata - elcorreo.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1FfaDF3bEZFTVN6YnNfd2IwWXVJVkloSTNpTS0yLXFkRzZ5ZDFKWG8wUGViQVJONjJYTnRTU1R6dF9PY1pnRHhoZC1XTkIyUldmMGg1MTByRDY2UVFQd2hPX05IWTd6UWVyVTk5eXVtUmVFekVuOXh1dldTT3hhcHZrZWlYeUZDX2Q2bTY0eGhPdEwxdTdydzV5Y19qM3VIazhpRktldzh6NW9kZlZwbVFmTFBwQWJWQ2c?oc=5",
+      "source": "elcorreo.com",
+      "published_at": "2026-08-11T12:58:35+00:00",
+      "score": 58.65,
+      "corroborating_sources": [
+        "elcorreo.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8bbec52b36a0e713",
+      "title": "Bolivia impulsa cooperación internacional en seguridad en foro en Panamá - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWRyTU8xQldsSDJYdzY1cHl5dWxHeHp1cEUwMDZkTXFtajF5MmxsT1Y4NXBOUlhyY2JPSWh1TnVJSWpqVGVWX3A1LWxfVktIZnJ1LVJnUHFPYkFZanBoaG95dkZLQ3NaTm5VcjVRUXFJRkpGa2ZZa2cxR204VTJGV1ljS1JfbjdlQTZXTVEzVkRoS0lEeXN5Y2F3djRoRzR2?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-11T21:37:02+00:00",
+      "score": 58.29,
+      "corroborating_sources": [
+        "La Patria 3.0"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "af4122e57083d2d1",
+      "title": "Destaca Viceministro cubano legado de Fidel Castro - Reforma",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2RUR0JISFMxWTZBdExQT0hFcEo1ZXlQVkY3aFhfVkZlOWZ4cHpzQUJGdk90VWxKRG1wcUU2d21ZNEZ6TGd0QjQ5cDNnQ01xREZVSFlrMG5LaGZhSS04MjRtVmdwcnljMXFMVF82VGh0UHRKLXNObmlMYjhfczVKSjNPcjRZZ1lsbnB3WA?oc=5",
+      "source": "Reforma",
+      "published_at": "2026-08-11T21:31:03+00:00",
+      "score": 58.19,
+      "corroborating_sources": [
+        "Reforma"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "22db9cdc8bfe1cb6",
+      "title": "Plano secreto: Como Trump usou caminhão de comida e avião isca para enganar o Irã - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT054SVBlNXBJSUVaQ25jT0JrRXZ1dHBFN1hKUVlaZEpGOXU4VVc0dWtsU2tyUHI5ZVR2SXQ2Z21oOHJqcWdWS2RRU2theFBZREhoa1pxMjZqbW44V21oc2E3RDdKTjM0VTh0Mzd0STFsMExJSGczanVENm83M1JiLTFLTVV3MnB1QllpOGhfOEVKaTJmTll3Z1Z6NzlHdTBlM0hIdFk5NkRvdkt6akE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-11T17:46:14+00:00",
+      "score": 57.66,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4cea68df76550330",
+      "title": "Venezuela e Israel acuerdan reanudar relaciones consulares - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmdjdTJJZGxKWXoxT2gxUV9MNmNNdGd6ekRFbk9id21GaFd6bFN2bEdDQXlVX0JGUXl1Y28zWGpVXzdPeWRwUXdKNmk4R0NsdlNZZVVZc0lhOXRjeUN1SWZkYUU2MGZzWDJPMmU1RkJzVHJHQTE2dGpvb3JScmRGNG5zMUZsemx3ZWFiU0V0WkZicEFfVkk5Q21wOWVEVU1RVXo3ZFhNOE5UX2M?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-11T20:31:46+00:00",
+      "score": 57.23,
+      "corroborating_sources": [
+        "La Patria 3.0"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cb3cfe47b6c5b853",
+      "title": "EUA citam Doutrina Monroe e dizem que domínio no Hemisfério Ocidental ‘nunca mais será questionado’ - estadao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWhWdjg2Sld4dUJGQ1JoSXZRcWNJTHd2TmJaeW84OVcxQWV0VzBJOEZDbkRQZm8wSU44ZGhWUVJ1Vm5LRkZLaG1pN2dpV2lmemFVUUI4SzhYdUFiVE1QV3VyUXNjVXRZZmJaR0tRQ0NNbzVMbWRLLXJKVXdpcUJXRk1XOGhyTFFOT3llZFJpcGYtVmliMTY0NjVYRmV6NlVEZHhJU1N0ZGNzRm12SjFQVmpJNm9uQl9ZYklCaFJ3Xzc5Mm5jR19MLWxYVHp0T2d1cmk3SF91aEVDbzDSAeABQVVfeXFMT3lLTWdfM1Y0dkxzbDRsLXgyY19naFUtZHZhTEh3ZW9zV0dJMWpiSS1KLTlBbnVPZlI0ekdRRkZtUkZvTU84U1hnVUJZcm1XeWJNYWM4ZnlVZUJDUEM5WE56OGJ5LWZnczVuazVBYUl0dUpRV3JUcmNQSnZ4TG1RRl9nb2paYkQ0QWxwQ214R3pQcFhXU0JSWHp0SVpmbjJXMW1IcE1hZEJFUTlEYlU4WnZPTklQSFBfclhkMUpvSVJUUm44MnE3ZmZsVXhmM3ZUZC1URDAwOG1zaHBCQnZMUE4?oc=5",
+      "source": "estadao.com.br",
+      "published_at": "2026-08-11T16:35:13+00:00",
+      "score": 56.62,
+      "corroborating_sources": [
+        "estadao.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdFNBa3dqVXFoS0NUNXNJOThyZWthNHBYYnd2NG1mSHRpZU9iV3dCYVlmcXkzeW51SlNGS0JIR1hqcGVqeGpBbTd2eGtkdTkta2tGTl9OU0x1b0o1Vk9sbXo4MENBZmdEVzB5REV2bjFrSmtIdS1zOExwaFFWMXpneXRwWG1MY0tzSlNHZnprSWlISUs5eWZkbDE4N3k0dU5jc1hQTFNmbUdlZEo0YXNuTDFQWUZNSGJwNnBSejVXSnNfaEljT3dYSDI1WllKbFRDZ0J6RFdsNnFGdC1VS0kxaUd2Z9IB6AFBVV95cUxPdFc1VXFSYU5BcTNQSzlWR0xFSjRDZTFtMVVpX0RNdUZBc2hkcUlpOXlzY0tmOVQyajJOcmJ2OTVzQmRDUXNVcXV3WU9Cc1VnX3dabnFxV1BwZEU2RFY0VWJQM1FpRUNIYm05N1F1TkItc2o5T1V5cHdVWlYwT0JsOGw2elVvWUlCelRYZE93azRKUmJBbTVaNmZQTEdsUHR5eUlNNDVLcXlabHNoeHd0LXQwMnZMRWh1UkhDeDlSeTctUXB1cW1fYmRyd0JEU19OR1NDdjVQWXllMlJoT01UYV84U2NmX1dx?oc=5",
       "source": "Elplural.com",
       "published_at": "2026-08-11T17:45:52+00:00",
-      "score": 62.01,
+      "score": 54.66,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -306,29 +411,14 @@
       }
     },
     {
-      "id": "864cb832f5471f01",
-      "title": "\"Strategic desecuritization under asymmetry: from security opportunity to security trap\" by CWP alum Kai He - cwp.sipa.columbia.edu",
+      "id": "c955de35c5e10198",
+      "title": "\"Strategic desecuritization under asymmetry: from security opportunity to security trap\" by CWP alum Kai He - Columbia-Harvard China and the World Program",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGs3OUh3RjFTV2NZZTMtcWlZdS13TUs0Yl9IOWkwS1JNb0dBbjdTWjAyYVRzdW9TcEpfZ0YzTl9vYU9MRi1pZWd3RVMyZTVDc2JDNFJfTWlaZjFCTjFYM2VDRno2cUh0TllldGZwa0pmRndfMTBkNkNBZk05V2ZFelplVVIyMl9iODJ1OGJLWlkxYnBUN180bkxnNUlTTVFMcGd4U2E2TXE2MTNOdzFqbWVlSUdYaHdQYU9mNXFTS0dmNU1ZblJR?oc=5",
-      "source": "cwp.sipa.columbia.edu",
+      "source": "Columbia-Harvard China and the World Program",
       "published_at": "2026-08-11T17:39:12+00:00",
-      "score": 61.88,
+      "score": 54.56,
       "corroborating_sources": [
-        "cwp.sipa.columbia.edu"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4b6a12f6033ce9a1",
-      "title": "Protegido pela Rússia, Bashar al-Assad é condenado à morte por crimes contra a humanidade - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnA0bUFQVFRwNi1zenpqaEdTeVVYMkREWTZQUmRPNXdTdUc1RkJhNTBtODVkc1BQOTU3VElJYkVtbmhXZlhUZEozUm5fZGd6cU1jbmtQaVhrT2RUT1VsWU9VZVhuT1M2VUJFZFhWWlIxdU5ZTmNiQ1ZWd0VpS3JBVHFwN29wMmZZM1U3bEkxUjdJdTZJclY5bzZVOW1nWFBmN0VXZlRPTV9TWXJxQ2c?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-11T14:36:13+00:00",
-      "score": 61.68,
-      "corroborating_sources": [
-        "Brasil Paralelo"
+        "Columbia-Harvard China and the World Program"
       ],
       "signals": {
         "source_count": 1,
@@ -341,39 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZ1I1TF8wdUdfeWpqWlAxYV96cjVYV1J4NlFMeGlhMk5KejUzR1VNUXhaemJpWE1xZDQyZUtCYlZvdlJsMlZCUlhDc29OSzB0SVlncHFBYUo1TlQtRE9ERC1IR3NaSjlkRDdxaDdxeDV0WG90enZOUFo2THl0cngzWm43dzBWSkJoMXRNOXN3cVc0cENBdlVaWVhiM1VXclRPTlhCX3pGNGFNcUxiUml0azBReC1jRUNrRHNGYl9zNFZCWXZXcW05eGFjcHYtOFhuakxpeXhKMXkzSzhxM1htUW1JYjJMcjBxT2FuM1NHNmJRTVlKc2g3RTdsSU9DazlmUWfSAZwCQVVfeXFMTk5zNDJLYUdEUnZjTmFGOXZEQXZzbGI5ajBHcE1KYUNsRTFYdlRJem1Hc29NT3FhVDdFdlBTN3RWY2JNWlFsNmRNNTkxdkItRlVCUEdIVXBXX21XRnNVM1Zvbk5xVVNvWGdCdzJjaWxiTFVtN1Bkek14aGNPVWdaMzhTYmFzLXF4R20wOXBGd1RhSDhRVV9abkplMnFRV0lyUjlWUHozTXVTbThONjUtSml5VjJHQldGMVlRS21tTEZNMVJYOWkyT0F5NXNoME9zaFNqT1FIZnVzWjFSeFBHel9wTjBrNkdpWFd5MXcwZTB1dEItcXI0QW9tZlV0SHQ1WE5FcGYxaEs5YWV1dWJ6WXdRX2NyNDJHTU9rQjQ?oc=5",
       "source": "Infobae",
       "published_at": "2026-08-11T17:20:00+00:00",
-      "score": 61.54,
+      "score": 54.27,
       "corroborating_sources": [
         "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a3591b67a359afad",
-      "title": "Petróleo hoje fecha em alta mas perde força após disparar 5% com impasse sobre Ormuz - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaEg3b25VWEVjaGUxY29IRXVibXBDbEppZTNDZlAtX1BDYk1CaWlQNWd5YzVMemQxaVFRNEYtRUNoRU9HSUpxUGNEeEI2dmtteGM3OElwMjRmNTBNMmlhNVpkVERudm82aXp1Mld0VVpZVUIyd1lhY2lsV1JGWUY0ZE1rSldkaDJnWENjaEtDUmxmMHhKWGZlMVlQTGRrWEFnZXdYNi0yV0ZvdDQ5TkpVTkpCdEZwM3pZbEtGX0hfUnoxWl9ZQS1hZjZxR09fd3JtVDF3VVU1VHl4eU9jc2hnV1g5WkFUQ3I4UHltcmhhVmFhR2FI?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-11T13:23:23+00:00",
-      "score": 60.48,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "45ae07f4dcb26bdc",
-      "title": "» Ciclo Leer el mundo: La nueva arquitectura jurídica de la relación Argentina-Estados Unidos - UNSAM",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaEhJaE9SWTV1NTlQMUdGYzRQQlJYMnhydWU0OWR1elp1Z0F5S1pkZVFueUlRdUVlLUJXQ1l6VlZZdU5wSEZ3bnYwNWFyUkV3eEhaRDNtczlGVTd0TUduTEZMY1FaUzNNdGc3NnVNVzJPR0RGbzkySmtjS1RnNmdreVdTTk5LOGN5YUY1dHFaZXgzYXJQazFPOTk4c2gzSGNMYVZPd3EzUnJrMTlxc3RNd3VYQ1pkYkhzUkY2SzBabVRVZ3Jid1VWNk9nSDg?oc=5",
-      "source": "UNSAM",
-      "published_at": "2026-08-11T16:04:08+00:00",
-      "score": 60.19,
-      "corroborating_sources": [
-        "UNSAM"
       ],
       "signals": {
         "source_count": 1,
@@ -386,69 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkR1NTZuX3RsYW5Cd3lSamdSR2VLc2NZTkY2TlhrSHlNbW9ScUIzWDdTV0NLazhrTWtaMnRzc010bUJwU1c4d3E4T0treE52TXF4OU5FZEswdjJXTjBJZU95Q2ZtRjgtMkJBVjBxbVp5cFVwc2RSTXUtcnFMbGllSEtsSUF2SXlGT2pzMVhTeEJHWjNyQlkzNTd6X2VtQW8?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-11T12:52:05+00:00",
-      "score": 59.98,
+      "score": 53.56,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1d628a9db8f237d6",
-      "title": "Campanha eleitoral inicia em 16 de agosto - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZGJocG9CeWprTVA0WU5tRXFqQ2hWQWh3YUNxdlY5aDU0RmRWWWFRNWRzMDZxTUt6Rmw2VW1SUG4xdHpNcTdheE5qSDUtSmtCOHlGVXFIaG50OHQ4dmxrU3p0cEg3RFI5Uk85cERleU9rTUFaYnFyaUw5OWxvVXY1X1IwelN6S1NDYnVGc1p4NWw1bHpseWY4dmhmbnNid2pFTlhSLW81Rk5FdVFITFFSSUhhbWRhU2xKZjVPcmNXSTBsOWZULUwzNDRmMFBGV28?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-11T12:26:00+00:00",
-      "score": 59.56,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4980d6b3fa1cb5bc",
-      "title": "EUA mudam política externa e reduzem defesa da liberdade religiosa, diz estudo - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNm9rQkItb0JUQmtLam8tbFFRWXhfLURudUZKVkI2SG9zeF9xYThPcDlncFhIcGw0NGVydFdFSUlOWmdjQ0kxcDFlbEx1MTM4WkFCZ2RNak5MWFRTNXlMelIybGRNX1RqZV9ORUlvWDVLZTVLb084TUlIdXltSURLUXl5LWNNd3JUU0dydUZFRlBFcUxUTy00REQydElMbExlLWRpekJRZDJiclhJOGV6VnpldGVjV3Iw?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-11T02:07:00+00:00",
-      "score": 56.07,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d89910f991ca607e",
-      "title": "Pleasing no one: Netanyahu puts election first with Gaza decision - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUJIN3FycE1mbXBDMkt3THVUN2hXanpzdndVN1Z5bnVrUjNOcDF4NWlMVlgyLTMxalk4OVpNTkw0eVo0TGllclItUk42eHVIZkFTVmdjVHljRldHYlJqaEwxMVZYN1c1TE44UkR1cEZ2THp1SFlEY0FhN1BjdjNVTWkySWlrZFJxSzlPSWo2UHBoczJVX3NtZw?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-08-11T01:41:00+00:00",
-      "score": 55.76,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bbb9bf790f4dacb0",
-      "title": "Trump respalda a Infantino y advierte a la FIFA de que destituirlo sería un “terrible error” - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEExR00tMUx5S09pNENBbkxsdS1USjR4SUdNZmZCdm9WU0ZjYWRxTWd5dU8wdnBSOTBkMlQtbE5ma1l4Y1lveFRLd1lkX0UySHZwOG9YTGRrNWcyeFQ5emozQUstbU9vMmJjekdGUGRXUkVWNG9oNDczQUpyUXhfNlNidVJMWjlONjJWdHppOVJvNFRpVUI3Q1duWnZvZHVHNmgzQ092cldVdmk4QWF2dklMMGNneDJZOUpfQ05mMC1xSDZfR1p3NNIBzgFBVV95cUxPbzhaTjNzcDRCbmVIRXFkN3VIYXJ5UUd5bzdxRFBRdE1LTXpvUzdVWnZDaGl2XzZkM3VWRHpvT1dMa2FIa0FRTVM0TW9ad0xla2ttN1MydUZtME5yN3FyNFljMkFRcXJTbkQzSzJ5VDVLcmJ5dWVwZW5BU1NnX3dGWl9TZ1FtRGJGb3YzYkxiRG9mX0FvSHRNckh6UktpaVFpM0ZvR3RxcWg5anN2N21vMkdXOFlZcTU3RUR1d0dNRE1tX05WTFlRX3o3UTRQZw?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-11T10:40:53+00:00",
-      "score": 54.95,
-      "corroborating_sources": [
-        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
