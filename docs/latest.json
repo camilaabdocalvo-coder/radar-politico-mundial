@@ -1,19 +1,64 @@
 {
-  "generated_at": "2026-08-13T05:52:31.612423+00:00",
-  "next_update_expected_at": "2026-08-13T09:52:31.612423+00:00",
+  "generated_at": "2026-08-13T11:14:17.161269+00:00",
+  "next_update_expected_at": "2026-08-13T15:14:17.161269+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "55480ca0b99b2b6c",
-      "title": "¿Qué lugar ocupa la diplomacia en el Chile de hoy? Diplomacia, diálogo y política de Estado frente a un mundo vez más interconectado - Diario Constitucional",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVk5oOHcxZzNQclNhWTFhZ1M2d2NnNTRuaTJMOFBDZXlienhoRXc3dGQtTkZnbjhEdmpPMU84US1NaEpIdnd2MExZM25Bc044T2JaUGR0OEN1aWV3bE1hVWlJNDRJdTNLVC1aNlZmdDB2eEh4Nl9mMnJCaTRpRTlhSElmVnYwSTJrMng3Q1VocjdlZEpjUk9NMFVrUl9HdVhPWUt6NmhsU0pjelM4QS12MGJlcUE4SVFhMjZ3VXZFckQ0UFBTbERmRlJqcS10andBZXF3YXUxcU9ObWpTemlPUk1zR2xKbWhfRDV6MEhfczZmYzktbUJIbWtHdzlObTF2c2g4T3BYS0tzNmxiR2F2dndvUQ?oc=5",
-      "source": "Diario Constitucional",
-      "published_at": "2026-08-13T00:07:14+00:00",
-      "score": 76.83,
+      "id": "9b2fb04723da34da",
+      "title": "Reflexão sobre as opções de política externa dos Estados Unidos: Hegemonia sem custo e a ilusão sobre o fim da importância estratégica do Médio Oriente na geopolítica global - Integrity Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oZ3htd2pfZ3pTSDBON2dhSEM0SXBBUjRueVJtUndNVXdYaVBmbHBMMGExbHFWdGR3TWNqYWNUZW01TGNMQWllUFF5cU5NVHhHRFJVRXhQRmZfQQ?oc=5",
+      "source": "Integrity Magazine",
+      "published_at": "2026-08-13T10:12:17+00:00",
+      "score": 82.2,
       "corroborating_sources": [
-        "Diario Constitucional"
+        "Integrity Magazine"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5d33e4bd2cae5f70",
+      "title": "Cancillería de Cuba resalta política exterior y legado de Fidel Castro - Tercera Información",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS21MMHctOVZmd3JTTldiLTduZ05EaHpVTmZuUWh3dWl5TDhmUlRBaXhOdHNaQ1FWdTNpNmdvTHpYWGxELXRYMHFCVGxSREw0ZVcyTzdKY1dmSTlZdHhqbDBKN1dyNzViUmJZY2FLNURBbTZXZjcwdG5VRkRHYjE0MlNBQkx0dC1LbFpYSDJTdmF6ZnYwaFdsZ2ZpQ2J6Y2ZVQ1I0azZGZmp6b3hEek8wTkFCLWl4NjJUWFNwdzNoUmFsZGF1RUpUMzVXSm4tZURGT2Z2dTd3?oc=5",
+      "source": "Tercera Información",
+      "published_at": "2026-08-13T08:16:30+00:00",
+      "score": 71.92,
+      "corroborating_sources": [
+        "Tercera Información"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4437db875046b26c",
+      "title": "¿Qué lugar ocupa la diplomacia en el Chile de hoy? Diplomacia, diálogo y política de Estado frente a un mundo vez más interconectado - diarioconstitucional.cl",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVk5oOHcxZzNQclNhWTFhZ1M2d2NnNTRuaTJMOFBDZXlienhoRXc3dGQtTkZnbjhEdmpPMU84US1NaEpIdnd2MExZM25Bc044T2JaUGR0OEN1aWV3bE1hVWlJNDRJdTNLVC1aNlZmdDB2eEh4Nl9mMnJCaTRpRTlhSElmVnYwSTJrMng3Q1VocjdlZEpjUk9NMFVrUl9HdVhPWUt6NmhsU0pjelM4QS12MGJlcUE4SVFhMjZ3VXZFckQ0UFBTbERmRlJqcS10andBZXF3YXUxcU9ObWpTemlPUk1zR2xKbWhfRDV6MEhfczZmYzktbUJIbWtHdzlObTF2c2g4T3BYS0tzNmxiR2F2dndvUQ?oc=5",
+      "source": "diarioconstitucional.cl",
+      "published_at": "2026-08-13T00:07:14+00:00",
+      "score": 71.52,
+      "corroborating_sources": [
+        "diarioconstitucional.cl"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e066ab93b46ec6c4",
+      "title": "Moraes arquiva ação contra a Havan por “atos antidemocráticos” - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWc5dnoyN3B3Z0c1Q1E5VVczUWE2V0ZDSkhwS0lpU2k5VE5vSmJmSVc2RE4wTTlMTUdrRHVkT0pvM2hKcE1uTzA4empya3VWT2thdy05RmJwdzFYdjBkT19HWHpDQTJldG5Xb3o1c2x4dDlSQ09zVlNKU1pTTFpSZkZYM1RMbFBKelN1STY5VENfZ2tNcWRhUXNGVm1KemlWZFB1TWJR?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-13T11:11:21+00:00",
+      "score": 70.42,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +71,24 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNVNzTk9FWlJqQ0lESkRTSS1BSWlqa2wweUtvR1FWVnVaaHdXS2FSYzE1MWljZDdyYjlkSTZhZUY0Y1FIbkpjTjZhNmNMUlBsRExKNEp0dU9XWVlsZ3ZKei0zT2RRb05kWHo5SGIwVF8yUng0a2ZoV1pZNjZ4V2w5Z18tRUJNdnUybmFOTnNZUnR4LWJMam5WVHVLNWJBc2ZwU1pXQVNmLV9yNFBPQmRzbDdYbFI4MzB0NDFqNlYxMmo0ZFBDOHhfVFdDY3dFWFBNckR5cnF3R1lxLUJrM1NWYmo1VW8yeTJLczhkNnFiZXhlMGhEUnJnSktn0gH_AUFVX3lxTFBYWVNlSHNNNjBKRUhNMTlORUNYNjNwMFplR0N6UzBrRWlvQ1psbkZfaWdiaFVrV2YzZ1dKU0ZIMm84UjdQcFFKSVp3a0JvTW9lSVVRNDBnUEs5NTY2czNPbHdWdWdlX2xSZ2VfanZLYnFSVk9vZDZSUXFNaGJOd2dTS0V1dVZ6bjVPMi1hZGc1OU1mV0R4cU5zTnNwVkVVSUtmekFLbGlPWEh1T1FMbkN1Yk13ZVJnZFVEMEZGc0xFRWJTS3ZaOV8tcGVBRm5WSGZ6SGIyeUpCLU55blJyYUpLcHMzdjdEUDcwOFRNMU5JQlNpRzNzZDFSTVN5RUNpQQ?oc=5",
       "source": "La Vanguardia",
       "published_at": "2026-08-13T04:00:00+00:00",
-      "score": 73.19,
+      "score": 67.28,
       "corroborating_sources": [
         "La Vanguardia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4b732710544b5e1f",
+      "title": "🎙️ PODCAST | O Café da Manhã desta quinta-feira (13) explica o cerco ao Discord, discute o peso das pressões políticas e analisa as repercussões das medidas recém-anunciadas. Os entrevistados são Iagê Miola, diretor da ANPD, e Nina Santos, pesquis - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TVWMyYURaaXVCLTZLSkFtQXFKUkdDcjlNZGl5UTQ4eUd4OWVIa1lTZ3U2a2FKdTNmOHVqMUNvckl6cUFPWGZmMHJpYm8zMlFwSEduS1Zn?oc=5",
+      "source": "instagram.com",
+      "published_at": "2026-08-13T08:00:23+00:00",
+      "score": 66.61,
+      "corroborating_sources": [
+        "instagram.com"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjd4anR0R2UzNkxhV0RNUFd2QVVqUGxCcjY3SjdiTlRqa1NmNEl3cUx0aGg0aDlOMF9jYWY2Y3pHOE9qemduYnlhOElnVXRQd1Q0VTR2LVNhalJRQ2pYd2Z3cW11Wm1kWWdudkZoM29KRzFjWjlGQ0FtZVZLNTd6SmEwT2pEZ0phcXhBemQ0cXQtdW1wTzlvSWVLWnBNclpXT2dJemRJcmZ4TUhTQTc5ZFEya21ISjNuMG5oSUJ2VTNXMWZZdXhRbVBlMWtDZ9IB0wFBVV95cUxPYjdENXlOcTRVYVZhMmtwZkZ2Q1NWZC0tQnAweXI5bU96MFdvTUtHRFpjQ0F0R3NsRkJyTy1xNDlKanJQaXNYRU9sUHJEV0NERmZoUHVaVjRjOFpnS1FpZEEyam1DZXZVQUhMdGc5bkxwYUZvLUloSE5XeUNpZW5FSF8wbVdDQlB2OE1mSS16d21pSkxodU5QSmhNRGRmZlNQWlVMM2xkVVZ4dl9tTzBrU19kaHk4VTNhZDd2SXRwTC14LU5VOTFTdkZCSzRSMkFLUnRR?oc=5",
       "source": "Portafolio.co",
       "published_at": "2026-08-13T00:50:59+00:00",
-      "score": 69.61,
+      "score": 64.2,
       "corroborating_sources": [
         "Portafolio.co"
       ],
@@ -51,14 +111,29 @@
       }
     },
     {
-      "id": "c084ae4cfc645fdd",
-      "title": "Descubra o que aconteceu com o PRONA, partido de Enéas Carneiro - brasilparalelo.com.br",
+      "id": "0cbfd939968e756e",
+      "title": "Un español entre los 265 muertos por el terremoto de magnitud 7,4 en Colombia - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWhld05lMlFjdTVNUnFqRVVhTWFfWXB3WjNWRGNnSG1sb0EyN2hSY1BGaUQ5N2JOcE94OGFBSXY4Vmw5VmxlRzcwUUxtSG1ZNFRqX2M3cWVIVkZSUEUtMU9XeXJ4emhua2N5OF8wbkJ0QWlqVFZacWpfRDQ4eEpqWnJJYnlZN01QT0F0R204NDRQRWJVY0RIc2NjcXVtT2pYRnBkdDlKS0hoYVZQVFRmeGV6eDPSAboBQVVfeXFMTldrbGJ1dVJSNnY3cFN4Qlh0UnNCTFZiWVBVTkxDUXBnT1MxZkhvYUFHUWNHUHpwRkpLcGZJQWYwSXByVktLaHhxRkJyRlBnUzNjeEpQeElWRUFtSWhnakF5enZ1MFdjWlYzaDBsZEREOTdFNlJ2dFJwbk5OZ015MnRSYngtRFVTSEhaWVBRTUt6alRtYWhKZ25JNDZZTW0yTGhXazh5WWNFc1FBa19wa2M4RjNWMVJtMDNR?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-08-13T08:22:23+00:00",
+      "score": 64.03,
+      "corroborating_sources": [
+        "Elplural.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2a20f8206cb7e730",
+      "title": "Descubra o que aconteceu com o PRONA, partido de Enéas Carneiro - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2RZcHdSSEJHTGhqeVBpU2d4dk5Nc3ZGazRPOHYzV0RKUmgyekZ5eU0xcGhKYVFPQVk0T0Y5RlJweXpuU0U3OHZaQk42WHc2ZEctV2RWYndOc1BmWVVzSmI2c3lGZHducWQ5S2xIUGxIQ2xLa0dzNVczXzBhRVBDTmYzMUZoclNZWS1NSW9BYXE?oc=5",
-      "source": "brasilparalelo.com.br",
+      "source": "Brasil Paralelo",
       "published_at": "2026-08-12T19:56:18+00:00",
-      "score": 67.62,
+      "score": 62.9,
       "corroborating_sources": [
-        "brasilparalelo.com.br"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -66,29 +141,29 @@
       }
     },
     {
-      "id": "e89099ed71253c44",
-      "title": "Presidente do STM diz que posição do Judiciário na ditadura foi a 'pior possível' - folha.uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0pDbEIyUFNKdmpmYWN3aXJRbFQxbUdWT1NnM01DcUw1SGFjSnpkRXhzVTF5YTZra3BiU1RDelZBOVhtcE50LTdOR0RlOUl4Y2RWM0U5VDJqbDF3djZSYXhHT1JUaWNJQW1tVXNJNkc0TUhkcWJFa2dBdUJIM2c0UldDUFk5eW1aS1pUNXNEZzlfSXBTaTdZTnIzWUJHZXNxdmNjU0JyM09RMDUyRVZjNnE4Ym5UakRLckFRWEpFNGF2UnpxWVVTSA?oc=5",
-      "source": "folha.uol.com.br",
-      "published_at": "2026-08-12T18:29:00+00:00",
-      "score": 66.27,
-      "corroborating_sources": [
-        "folha.uol.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ca0068408460245a",
-      "title": "Geopolítica en crisis: Vicente Massot analizará el nuevo tablero de la política mundial en Mendoza - 617 News",
+      "id": "1a34a62b2409bd02",
+      "title": "Geopolítica en crisis: Vicente Massot analizará el nuevo tablero de la política mundial en Mendoza - 617.news",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRW50NW43cVplWDB4SzVHVU9zYVIyQjJEUHM2UmRZb1lheU1sd3UtT1lWMXhlVnZHWW8zWHNfeFdUVGpZUm9JUGdPd0praEF4dWJZSDE0blNuYWtHcUhsbklGM0FqSFl2VG8yR0t2QXBPZTFxcXdrVUFERTd4QmRUaGdSMGJSYW5KNldQTkMyVVhPRHQzeFZOeEU2dWdfWFlUMy1UcDdJMVVreFFic0V4Z0hOUzV6Zw?oc=5",
-      "source": "617 News",
+      "source": "617.news",
       "published_at": "2026-08-12T12:21:11+00:00",
-      "score": 66.14,
+      "score": 62.31,
       "corroborating_sources": [
-        "617 News"
+        "617.news"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "555dcc679edc4f18",
+      "title": "Zambia’s Hichilema Seeks a Second Term - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MjBFYlBOTlN4ek1sZnpvb1d0TUFnb0Fwb1FTeHBKS3ZGZVRielFlQXJ4UnFUd0lidHpfeUdQbEtnVzU0Z2xQWXhDSFd3Q1NzalpUMkk0YmlLTWhFYlNJbjV2WTRMY2oxcGFEZ21uTm11Q0liNTdZ?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-08-12T22:15:30+00:00",
+      "score": 61.85,
+      "corroborating_sources": [
+        "World Politics Review"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmpPTEFITTJCZTlWNHFhNEJuWXo3UGZJNmhmRGJCTDdUZERmc3lwSU9ZTmQ3T1kxMjZMb2VrUF9BZHVrRW9ZZl9JSm56N0VqVEc2NTFYRmRrWk9ZdXl5UWp0VTVzQTBYRkx1MWxqd0FIS01JY0IzMzhOVGN6dHI5ZHkyRElCSFliakhkX3FXRDlzd0ZjRHJPUUlIZWpIN2RnbUZfbVNzUzZzMG8ybmRlcA?oc=5",
       "source": "Jornal da USP",
       "published_at": "2026-08-12T19:51:00+00:00",
-      "score": 64.54,
+      "score": 59.82,
       "corroborating_sources": [
         "Jornal da USP"
       ],
@@ -116,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFZHZkl5enItWWNJM1VTX21Kd09JN3h3djJIc1pOeVNKcFc0d2xQcmgzdVZuc0tkcGF5UVBvZkgxdGU5ajR6V1doZ3ZyVG1FOWQ5YlQxaENlaFN1dHNEY1FBVms3Z1dxdzFkamdhSElQZGFnazlSbXM1TWM2bi0tM3huRy1mZzRtNW1QdHgzN3hKcUdkT2xyRnh0d2RrOEFxYnc?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-08-12T19:17:24+00:00",
-      "score": 64.01,
+      "score": 59.37,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
@@ -126,44 +201,14 @@
       }
     },
     {
-      "id": "183ccc6f69f1010e",
-      "title": "Flávio propõe manter programas do PT, Caixa Federal repaginada e foco em terras raras e data centers - estadao.com.br",
+      "id": "ed001bf7c7b1ba45",
+      "title": "Flávio propõe manter programas do PT, Caixa Federal repaginada e foco em terras raras e data centers - Estadão",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbjNjMnFqRDIya2FSVVVHTTJFSW1SenhQTklxejUtWFVGVERVYi1mMkRfWE9KM1BMWkh1SmJIekZKSWJjT2pieWsyNVRjSW1xMkhmMzBQLXBrTVJvMUNXZFFUakdmRjk2YTI3Rk9OcVpxdzlPLXZIUEtMY2o3akNDMk5tSXUwalJIUnBucGF0NGk4NGh4TEJhMGFkNUtEUXcxT3V1TzY4WkthMFUxcTFBaDNGQ0hwazlkRlotRlFBVzMyNlZ1UnViajFhY3p1eFp1SmJjejZMNzA4OEtU?oc=5",
-      "source": "estadao.com.br",
+      "source": "Estadão",
       "published_at": "2026-08-12T23:27:59+00:00",
-      "score": 63.14,
+      "score": 57.93,
       "corroborating_sources": [
-        "estadao.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "983b962349be10a5",
-      "title": "ASEAN’s Return to Myanmar: A Sovereignty Cartel at Work - Australian Institute of International Affairs",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSU5TV2ZpbGVqTDM1TVE3SjYwN0JLcWFfZ01XUmktV3B5UmdNM1VfQ1dXdkRxUzlqVjFjQWNyenJ4aEZfU05HYkRHa0tYaUdqdkdpdlNJN29VNEhHNHRYWV8tNDNBbmpJSHpJUFNFallHaVAyWEFIOEp2ZFZzeUlRWVhqUVh4UnJ5MkdqMVhhTmJMaWxrSjZWV1VsU2tnbGUwcDJSY1R0ZF9yS0s4T0wwM09n?oc=5",
-      "source": "Australian Institute of International Affairs",
-      "published_at": "2026-08-13T01:52:23+00:00",
-      "score": 62.74,
-      "corroborating_sources": [
-        "Australian Institute of International Affairs"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3354d431cf8d9c5d",
-      "title": "Duda Salabert diz ser contra prisão de influenciadora que a criticou - brasilparalelo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmRQY0JKQlFlVXVIMnpKT2RqRlJva2ZiV0NMRVlERjFmeEhvR3RwVElqbTdGNm9yUTk5X0c4QmdPOEFubWVtdV9EM3VYcVBPeFlRQ1B6TkpVMUt3OG9pM1dvc1B3QWlKM0pvOHpXOXVENEdsajJaem03SEN1bDZIbWpoN0N1RjNBY2dwNXZPQ1ZGRHlYLXloOXNYcUZYWC1LcURWZ3BRVWF2aWFNa0gxSQ?oc=5",
-      "source": "brasilparalelo.com.br",
-      "published_at": "2026-08-12T21:56:18+00:00",
-      "score": 61.57,
-      "corroborating_sources": [
-        "brasilparalelo.com.br"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUURzLURBamlEOU1qLUtKNW5Ob2lfdVpKcVkwZFNhQWl3UzBIeTk3WlhFc3VtV1dwWk9GVEJIUWtrZXhPaWdQVnh6ZXFUUHB4NlU2c0pUMXRYM0pwSjlRdk0xRkxwc2VhY2QzNkZDWGFfclJxUWUzODVoN1U2d19yWksyZG9qSDRsT3cxdmo5cVR2NWExQnhOQWNMNFZhTFdobHFEV005SXk0QWY0RUVBN3lLM3ZMUHVrN2JjVENlUWZzVzFOX29OQ2JxUGFjYlNacXJ4eHZ3Zmo0Q2vSAeoBQVVfeXFMT1hhN3hyZTlaOW9IWFN0R1pCWEdpdnhEWDRDSld6RVpabkNZYlA3LXkzU2xQUGg0c01HZ2VndUNQZ0J3bVBNaENnRmhCZmo2ZGxaaUI3Ynl0YmVjbGVnVXdleC1jS0U0OURuYkFuMEtwaEFCblExdVRyLVJPT0VhUUdvOGo4QVg5c0pHN0xjcGNGc0tmLTJYTnJIcHBhNkxWandUOXJPZWllbVVhZUhWd0V6OWNDQWF4MDZyWHNJd3RKQ0tWN2lzcUpGQTBPQ3NZXzNBS1Zublc4SVVtRXhaNW5XQlE2cWEwbHJn?oc=5",
       "source": "G1",
       "published_at": "2026-08-12T05:00:38+00:00",
-      "score": 61.03,
+      "score": 57.91,
       "corroborating_sources": [
         "G1"
       ],
@@ -186,14 +231,14 @@
       }
     },
     {
-      "id": "8897cc9e53f259aa",
-      "title": "El pleno del Senado trata este jueves la designación como embajadores de Camacho y Lupo - unitel.bo",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR1ZhUm94NzRvM290TUdTRjJoYWstb210LUxldmJXWV92aldNYVVqMzNRVE81elFpT1JkczRZU0E3SzZPbnI2TTRlM1hIWlVuazFkbmtJODFTOVo3bnY4cThOTVd6WDVpN1lWMjNDMkpYWkxWMWo1X3JVNDc4VHh0TzZmZERlMEptOVd4U0o4em5jS3FuZEhnRWRPUnBlemVDXzRkbWp5M2pFV1p1NnY0SGxtazU5b04wQUdmZHNac1FMWFZYNG8yNlNENVJJaTA?oc=5",
-      "source": "unitel.bo",
-      "published_at": "2026-08-12T15:32:48+00:00",
-      "score": 60.7,
+      "id": "983b962349be10a5",
+      "title": "ASEAN’s Return to Myanmar: A Sovereignty Cartel at Work - Australian Institute of International Affairs",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSU5TV2ZpbGVqTDM1TVE3SjYwN0JLcWFfZ01XUmktV3B5UmdNM1VfQ1dXdkRxUzlqVjFjQWNyenJ4aEZfU05HYkRHa0tYaUdqdkdpdlNJN29VNEhHNHRYWV8tNDNBbmpJSHpJUFNFallHaVAyWEFIOEp2ZFZzeUlRWVhqUVh4UnJ5MkdqMVhhTmJMaWxrSjZWV1VsU2tnbGUwcDJSY1R0ZF9yS0s4T0wwM09n?oc=5",
+      "source": "Australian Institute of International Affairs",
+      "published_at": "2026-08-13T01:52:23+00:00",
+      "score": 57.17,
       "corroborating_sources": [
-        "unitel.bo"
+        "Australian Institute of International Affairs"
       ],
       "signals": {
         "source_count": 1,
@@ -201,14 +246,29 @@
       }
     },
     {
-      "id": "c96d817429ac5dec",
-      "title": "Justicia argentina embarga los bienes de Cristina Fernández de Kirchner - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmJaa3NxNkNCVTFCM1V6d0c1VjA0UzV6ODM1RU9yNXZudk5sZi1wNUsyRkhSZzUteUIzeVpXMXdPSUtPb3pyUTZvYXFTVHBfcjFJRGg2b1paX2M2MGhZbDdvWGxZYlJhTFBRVC1vczJaNnItU2NvXy1XYjNwSTgtWW0zQk5HWUZBX1Buc0FQVl9lMkxJWjlDX0JqVFVtSTA?oc=5",
-      "source": "La Patria 3.0",
-      "published_at": "2026-08-12T22:28:59+00:00",
-      "score": 59.12,
+      "id": "49609d0b79772b45",
+      "title": "El pleno del Senado tratará este jueves la designación como embajadores de Camacho y Lupo - eju.tv",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnlIVzZRY3lXTEQxekZIYTlIbDRFV1Ezd2l4QkxpOGg4dlVYZ2NONGlXeUowRmNCVlBmQ21tVlJ2V1E1TWwtUjBlOHNhaTVNaHNRWEEyczhWbHVGMEhJWG10em9zRWwydFY5alp6RG5faHBMejJUQUlCRk1CMXBZb1JvVi12ajAwOWJlZjVUNlotZE1SMkpOREpQelFmRHlYeWR0ZnhUbWw3emxrNGpSN1RsQQ?oc=5",
+      "source": "eju.tv",
+      "published_at": "2026-08-12T16:18:05+00:00",
+      "score": 57.07,
       "corroborating_sources": [
-        "La Patria 3.0"
+        "eju.tv"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ebb482037519e3b6",
+      "title": "Duda Salabert diz ser contra prisão de influenciadora que a criticou - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmRQY0JKQlFlVXVIMnpKT2RqRlJva2ZiV0NMRVlERjFmeEhvR3RwVElqbTdGNm9yUTk5X0c4QmdPOEFubWVtdV9EM3VYcVBPeFlRQ1B6TkpVMUt3OG9pM1dvc1B3QWlKM0pvOHpXOXVENEdsajJaem03SEN1bDZIbWpoN0N1RjNBY2dwNXZPQ1ZGRHlYLXloOXNYcUZYWC1LcURWZ3BRVWF2aWFNa0gxSQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-12T21:56:18+00:00",
+      "score": 56.58,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGcyYzhKZ3NvSTgtTHJKYUZLd1BNU3pJVVdJM1lzUUFyYXNTWVhmQnM3cW9KQWdrQW1SeEp6anE3Ylpabmw4cXFpWHg0SVJ5QnRzMVh6V29wYV9la1JXZ3JVVm4yOUF5VndYMVgxWnRyb3JYay1yb0ZSa2l2TnAzOXdQaEdhWW9iNVZWaExsaGs3eE9LLVJIZjJZLXJjZU1QNDNBU1hmX3F2RXJSRFJJSWc0Yzl3U0EyMFFZ?oc=5",
       "source": "Portal Universidad",
       "published_at": "2026-08-12T13:08:27+00:00",
-      "score": 58.75,
+      "score": 54.83,
       "corroborating_sources": [
         "Portal Universidad"
       ],
@@ -231,14 +291,14 @@
       }
     },
     {
-      "id": "13e4300f25bd216b",
-      "title": "EUA: É possível salvar a hegemonia em declínio? - Outras Palavras",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYUdnVG5aOG1PTk1RX2dzemxRdG05S1V3VjZyUUdYazFYVHJjTVJqdnJqRHF3TnQybVpUd0dXODY1cURoVVVLUkpkSExkc3ppb2prNGVPcFRSWTB5STk3eUJwdjBOaDUyT0xfem5abHR2Qnpyb0tsM1ZGUUs2MEZvdk5CQnktXzZveWEtS1VXUEMyMm12ZXhz?oc=5",
-      "source": "Outras Palavras",
-      "published_at": "2026-08-12T20:51:59+00:00",
-      "score": 57.51,
+      "id": "c96d817429ac5dec",
+      "title": "Justicia argentina embarga los bienes de Cristina Fernández de Kirchner - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmJaa3NxNkNCVTFCM1V6d0c1VjA0UzV6ODM1RU9yNXZudk5sZi1wNUsyRkhSZzUteUIzeVpXMXdPSUtPb3pyUTZvYXFTVHBfcjFJRGg2b1paX2M2MGhZbDdvWGxZYlJhTFBRVC1vczJaNnItU2NvXy1XYjNwSTgtWW0zQk5HWUZBX1Buc0FQVl9lMkxJWjlDX0JqVFVtSTA?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-12T22:28:59+00:00",
+      "score": 54.05,
       "corroborating_sources": [
-        "Outras Palavras"
+        "La Patria 3.0"
       ],
       "signals": {
         "source_count": 1,
@@ -246,89 +306,29 @@
       }
     },
     {
-      "id": "c753bb5c24fd1755",
-      "title": "Lula aparece com chapéu em imagem para urna; relembre fotos dele em eleições anteriores - folha.uol.com.br",
+      "id": "0248d85a3c8bebc0",
+      "title": "Colombia aceptará equipos de rescatistas de cuatro países que cumplen todos los requisitos internacionales - vanguardia.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcjd2THpxMzhidmJRSzJPVElaaTFUQnhPYldRaEh4bExVaDR1RG1peExPUUNleGJfcVZnQzJqYVBDcUdxd0taRWdfb3pBWTY3OEpHeF9BZUxtaVhQWWZFclZhd1BsaEtZbmlEcFVvMmVoZG8xMG0yYjlSbFJsblR2OGFLUnN6bDlxYVdsc01tbWxZa3FyZDVrZ0pxLWlGRTZFRFZLMzJYS3RSZ2V1NUZ4VFNpaHhMR0Y4WThiWEhCU3k0VkY2OXcySWV3X0dBV0Z1OWVuaEJpMDdNbTVYSzU5WGtyWE1xV3dPMk5HQ0FkdHhIQ0NZbVVjTERn?oc=5",
+      "source": "vanguardia.com.mx",
+      "published_at": "2026-08-12T21:31:57+00:00",
+      "score": 53.23,
+      "corroborating_sources": [
+        "vanguardia.com.mx"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ea565f935357bb12",
+      "title": "Lula aparece com chapéu em imagem para urna; relembre fotos dele em eleições anteriores - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXdDZ2sxRzBpSkY1MXJnTDl1RTU3THVYTUFzbTJJdFlrQ0E2X3NicDRGZVNVTUdRT1ZRZV9LdGkwM252eHRid1h1S1pNVTRMS25QMFkyM0hMZ21CdVY5THRPVkZTTVprWHBmVXZkLWxkcnhod0I5eWdtampkUjdxVWZYZldDRkZ6ZmtXTktmZlhsSHM5YjA1QlBQMlRsZ2xEM21qZXlOekhteDlrMm04c3phNjAtSFZVdGJQUWhYbERfSG8wSWtLSExGZjRLNnUzX0E?oc=5",
-      "source": "folha.uol.com.br",
+      "source": "Folha de S.Paulo",
       "published_at": "2026-08-12T17:25:00+00:00",
-      "score": 57.31,
+      "score": 52.91,
       "corroborating_sources": [
-        "folha.uol.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9643001a87a4b879",
-      "title": "Meta tem de informar quem pagou ataque a Tarcísio após expor operação de fake news - folha.uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHVyaEJrMWFzcjN2T3VsTUFPMmtsTE05cWNZdWJHR3BNb25ERjZGeENOd080U1dYa0xhR1FXMGFFSE1DYkNvT2JmRm13NlZOc0VHQlUzUUZFMG96UjExRnlnd0NLV3hMWmJObFd0S1cyZTlYdXUwN0dfWTdLNXlzbzJYd0lfb1U5anlLWU5RRGFVdFduc3lPNkVaeEZkT2d0YlozX0YzdnlZOTdSZTl6SDhoZmFZOUpwTTBsbjROd3JwV2xESzZOdjZzekQ?oc=5",
-      "source": "folha.uol.com.br",
-      "published_at": "2026-08-12T17:13:00+00:00",
-      "score": 57.14,
-      "corroborating_sources": [
-        "folha.uol.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "65b3cef8692aec47",
-      "title": "Exembajador dice que Lupo y Camacho tienen perfil para el servicio exterior, pero advierte falta de experiencia diplomática - Visión 360",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2VTblpCYzJCYzhKRFlHOEptZmo1NUxjR0RFYlNQTjNPNmZtUzJRZFVyN0tVa1d5c0ZJNUFuTW43aXI1aTV3UVRLUVFhQ2t2YzMxWEdHVVNGVEdhVHJ6Ung2WjFSbmM2TXFXUjl1X2VUdWlTNFhscmNkeWh4MzI2SnVrRThWRmUycDM1eEtZcm1WMlhoRDJyaDZZY1ZSN3JVRlNwMVRzR1gwRGk1M2tyVkxGUkUtc3Zwc183QlhDZHBTQ3VOZVoyT214QkVzNmtTYWVweURoNmhCVUFLRkluSW5fWmJ3S0lmc2duNlhUdG5tMkdJMU9kdHZOZ1A0emlWNGNN0gGIAkFVX3lxTE5oeFRqMWQ3d0NUb1dhTDNXdlNuMFF1SldrQnAyRGU4NTk0TUc5S0hZbUFHTDUyUnNOZld2VHRCRFZhcDdqWnY2eFVEa0hQZXlPSHNMUkp3VjBhVGp5MWpkenlDQ0Qxa0dobjVZaDdSbXJqSUZTeXl4TzNfd2s5azJMMUR3eTUySVRTNU00YTdQRk1Vc29JVmw0WV93NjdSMnFWWnlxd1NxbDRSa21jM2czUkd4X01JWUluU1B3VzNIMktNeF91NGZhZHl4M0pwNnVMbU80R0RlYWs1TnRZT3BJSkdFeWR3TEJieFRJdURvalVHcjM4bE9IYjNKR2p6ZDFETWM1bGk0Vg?oc=5",
-      "source": "Visión 360",
-      "published_at": "2026-08-12T20:23:57+00:00",
-      "score": 57.06,
-      "corroborating_sources": [
-        "Visión 360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3bfcd56c482c2389",
-      "title": "Haddad diz que vai questionar gestão Tarcísio após PM seguir de forma 'ostensiva' seu motorista - folha.uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXE4OVVEVWZpeHRDal9ELXJ2Q2szUVB3bEN4WUNOM2k2a3NBbG9uZ0dkM2RyTElhd2E0Zlo1WGZ5cTdZTEd0SlRacHAwMVpzY3NqSXFHLXMwTFJUYi05dDd2ZkJrbExSbHQzajV5T1lZSkRWbThUM25FZE1laXkwMnZLQUpyU2RROUlBRWNaNGVSbE44bHBSaXotZzR5cTNneWI3SGVkaHdVV05EczVIV2NpclpPTTVtUFJMMXFWNDZ6Vy13RE05cWhLUkpVS2MxMi12ZUE0WXNNMVk?oc=5",
-      "source": "folha.uol.com.br",
-      "published_at": "2026-08-12T16:59:00+00:00",
-      "score": 56.93,
-      "corroborating_sources": [
-        "folha.uol.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ee7cbc1f8189dbe7",
-      "title": "Veja como funcionava o esquema do Comando Vermelho para controlar as eleições no Ceará - brasilparalelo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHZ0RlBtVFRxQncxUXNkQmtWT0I4WFhCOXZPN2dXZDFvaFFleEx6OHFIdWU5YVVrUzdPRXp0YWI4YTVQNFd5bXdIZV9vUF9EZlpUa24yV0FCTTlkbU5VZXU2OEYtdHFRdjVRQWhDWFA2SDFud3Z1M3FYc3FETm1vOFlienZvQnlodnhVWjVycVhRV2VjU0NnUFhCaHpydDVxNlJjeUtmekw?oc=5",
-      "source": "brasilparalelo.com.br",
-      "published_at": "2026-08-12T16:41:18+00:00",
-      "score": 56.67,
-      "corroborating_sources": [
-        "brasilparalelo.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8bbb27e423a03b13",
-      "title": "Transmissão ao vivo do Discord é suspensa: Entenda a polêmica por trás da decisão - brasilparalelo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWNOcnF4ZWlwQkwxVTJGRU11UDBJVVc5dzhqbzhlMENVQUtXOVNlbG9zVlZ0RWdOYTd1LWpoUzl4Y2xSUkJKbXZmc1BfNEJLclpqeGdJRUc2Q3dYc1FOZnJTZGhEQkN1NjdsYVRCSzFReVpoY2JMZkdzb2N5dXdacEh4dzQ3OWFVaVZQVDdla2RIRlNtdTlj?oc=5",
-      "source": "brasilparalelo.com.br",
-      "published_at": "2026-08-12T16:31:18+00:00",
-      "score": 56.53,
-      "corroborating_sources": [
-        "brasilparalelo.com.br"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNERCSFpaMkZGNDhMekZfOTczdWlXZVIzd2ZHNEQtSS1SNDdLQVA0WTFZSEFBcUJDNWtPaF9nLXVCRGNUSUF0c1JDTnlKek5tLWktZC1JajVjVlpjSVFmMkNTQm01VGNubG5IWThCS1REN1d3MDdTcTBiY01PYk9tZHNER1I4UEhEZk9fdtIBrgFBVV95cUxOamN5U0lZZHRUenlNTW1vRGZhSTBVYlpDLU1vTjFPNFdGSVNoMEMzZGo3YTdCTVhNSkdWMkd0R3lrTjlQS29ldC04bENwQmhhMkhmZEcwR3paVzkzbUF3LXh5ZHlwZTVkVW1xNS1ydlRVV085LVNEejdJSGlEM3IxckFWRnVRNWdvdVZBZjFIaDktWjZCQ2V0THR6eTV5RXBsZy04MzNKR3ZFeW9TTUE?oc=5",
       "source": "La Tercera",
       "published_at": "2026-08-12T10:00:00+00:00",
-      "score": 56.39,
+      "score": 52.8,
       "corroborating_sources": [
         "La Tercera"
       ],
@@ -351,104 +351,104 @@
       }
     },
     {
-      "id": "05047c30b7ddbf78",
-      "title": "“Brasil precisa de uma arma nuclear”: Renan Santos defende bomba atômica nacional - brasilparalelo.com.br",
+      "id": "de580a061b1f3d68",
+      "title": "Meta tem de informar quem pagou ataque a Tarcísio após expor operação de fake news - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHVyaEJrMWFzcjN2T3VsTUFPMmtsTE05cWNZdWJHR3BNb25ERjZGeENOd080U1dYa0xhR1FXMGFFSE1DYkNvT2JmRm13NlZOc0VHQlUzUUZFMG96UjExRnlnd0NLV3hMWmJObFd0S1cyZTlYdXUwN0dfWTdLNXlzbzJYd0lfb1U5anlLWU5RRGFVdFduc3lPNkVaeEZkT2d0YlozX0YzdnlZOTdSZTl6SDhoZmFZOUpwTTBsbjROd3JwV2xESzZOdjZzekQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-12T17:13:00+00:00",
+      "score": 52.75,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "13e4300f25bd216b",
+      "title": "EUA: É possível salvar a hegemonia em declínio? - Outras Palavras",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYUdnVG5aOG1PTk1RX2dzemxRdG05S1V3VjZyUUdYazFYVHJjTVJqdnJqRHF3TnQybVpUd0dXODY1cURoVVVLUkpkSExkc3ppb2prNGVPcFRSWTB5STk3eUJwdjBOaDUyT0xfem5abHR2Qnpyb0tsM1ZGUUs2MEZvdk5CQnktXzZveWEtS1VXUEMyMm12ZXhz?oc=5",
+      "source": "Outras Palavras",
+      "published_at": "2026-08-12T20:51:59+00:00",
+      "score": 52.66,
+      "corroborating_sources": [
+        "Outras Palavras"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6c8c02c64ebe2988",
+      "title": "Haddad diz que vai questionar gestão Tarcísio após PM seguir de forma 'ostensiva' seu motorista - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXE4OVVEVWZpeHRDal9ELXJ2Q2szUVB3bEN4WUNOM2k2a3NBbG9uZ0dkM2RyTElhd2E0Zlo1WGZ5cTdZTEd0SlRacHAwMVpzY3NqSXFHLXMwTFJUYi05dDd2ZkJrbExSbHQzajV5T1lZSkRWbThUM25FZE1laXkwMnZLQUpyU2RROUlBRWNaNGVSbE44bHBSaXotZzR5cTNneWI3SGVkaHdVV05EczVIV2NpclpPTTVtUFJMMXFWNDZ6Vy13RE05cWhLUkpVS2MxMi12ZUE0WXNNMVk?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-12T16:59:00+00:00",
+      "score": 52.58,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5c51b51b9187cf57",
+      "title": "Veja como funcionava o esquema do Comando Vermelho para controlar as eleições no Ceará - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHZ0RlBtVFRxQncxUXNkQmtWT0I4WFhCOXZPN2dXZDFvaFFleEx6OHFIdWU5YVVrUzdPRXp0YWI4YTVQNFd5bXdIZV9vUF9EZlpUa24yV0FCTTlkbU5VZXU2OEYtdHFRdjVRQWhDWFA2SDFud3Z1M3FYc3FETm1vOFlienZvQnlodnhVWjVycVhRV2VjU0NnUFhCaHpydDVxNlJjeUtmekw?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-12T16:41:18+00:00",
+      "score": 52.36,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "65b3cef8692aec47",
+      "title": "Exembajador dice que Lupo y Camacho tienen perfil para el servicio exterior, pero advierte falta de experiencia diplomática - Visión 360",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2VTblpCYzJCYzhKRFlHOEptZmo1NUxjR0RFYlNQTjNPNmZtUzJRZFVyN0tVa1d5c0ZJNUFuTW43aXI1aTV3UVRLUVFhQ2t2YzMxWEdHVVNGVEdhVHJ6Ung2WjFSbmM2TXFXUjl1X2VUdWlTNFhscmNkeWh4MzI2SnVrRThWRmUycDM1eEtZcm1WMlhoRDJyaDZZY1ZSN3JVRlNwMVRzR1gwRGk1M2tyVkxGUkUtc3Zwc183QlhDZHBTQ3VOZVoyT214QkVzNmtTYWVweURoNmhCVUFLRkluSW5fWmJ3S0lmc2duNlhUdG5tMkdJMU9kdHZOZ1A0emlWNGNN0gGIAkFVX3lxTE5oeFRqMWQ3d0NUb1dhTDNXdlNuMFF1SldrQnAyRGU4NTk0TUc5S0hZbUFHTDUyUnNOZld2VHRCRFZhcDdqWnY2eFVEa0hQZXlPSHNMUkp3VjBhVGp5MWpkenlDQ0Qxa0dobjVZaDdSbXJqSUZTeXl4TzNfd2s5azJMMUR3eTUySVRTNU00YTdQRk1Vc29JVmw0WV93NjdSMnFWWnlxd1NxbDRSa21jM2czUkd4X01JWUluU1B3VzNIMktNeF91NGZhZHl4M0pwNnVMbU80R0RlYWs1TnRZT3BJSkdFeWR3TEJieFRJdURvalVHcjM4bE9IYjNKR2p6ZDFETWM1bGk0Vg?oc=5",
+      "source": "Visión 360",
+      "published_at": "2026-08-12T20:23:57+00:00",
+      "score": 52.28,
+      "corroborating_sources": [
+        "Visión 360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3d454732359c2db6",
+      "title": "Transmissão ao vivo do Discord é suspensa: Entenda a polêmica por trás da decisão - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWNOcnF4ZWlwQkwxVTJGRU11UDBJVVc5dzhqbzhlMENVQUtXOVNlbG9zVlZ0RWdOYTd1LWpoUzl4Y2xSUkJKbXZmc1BfNEJLclpqeGdJRUc2Q3dYc1FOZnJTZGhEQkN1NjdsYVRCSzFReVpoY2JMZkdzb2N5dXdacEh4dzQ3OWFVaVZQVDdla2RIRlNtdTlj?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-12T16:31:18+00:00",
+      "score": 52.23,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "92bd6dc859493812",
+      "title": "“Brasil precisa de uma arma nuclear”: Renan Santos defende bomba atômica nacional - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmJ6QkZnODJHMngta0dtS3JqcmdmaU1Rc1hTZWdQc2h1LWNYUEpIWWhNNHRCOWQtc2UyZUZMNEozcnpzZGpVODhHdmQzTVJVemxpTHBBaTJFR1J0RXliQndyTllnc3B6UXFmSlJwUkpta05FUmJndWVsUU16ak5ZMTVPcnZxX1FycG1IRnNBSQ?oc=5",
-      "source": "brasilparalelo.com.br",
+      "source": "Brasil Paralelo",
       "published_at": "2026-08-12T14:51:17+00:00",
-      "score": 55.13,
+      "score": 51.02,
       "corroborating_sources": [
-        "brasilparalelo.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "db4db540e70b3a64",
-      "title": "España y otros 25 países unen fuerzas contra las ejecuciones de manifestantes y opositores en Irán - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTWdNM1NaVS1VZkFjd2FNNnhGSko1VjFZNkVMRUVaZDFZNndxZDZKcU1icld0VG9rQjg1anZTR0FkQTZYU0wyZGFyVmQzZzlxVWpVRWd0UlFlTXJDckdHN3kzNHdVTUxTMFEzZ0M1OThrUVRLYXlyYkFyU1pTZE5EYXVUT1JXcDk1a0FVMGk3eUNmcVZqTDBNMm1ta0lwWlUtNW5Ub3FuRWJjV1NTLXlIYjlBLVZaLTJLZ1BuQ0xkNU5KQ2dhajc2TG50cHBSa3Bpc2fSAdcBQVVfeXFMUHdDVDJpX2JYbEVEUXRvdFJJTktral94YlRWWDM2T0NUZXV2SDA5OWh4UVFoWFVNVVpvQUFuLUFBVk0tTXRZallXNGFpQlNzLWo2ZUlKNDFoV0xhOXVMa05xTklRb0JJNFMySGVlczlFOGFfQnhwYjltTGRHYk1OOGJFR09UUkRhTVpzSmFlRkZVQmc2Mm9Gbm83Ym42eTdRb1doR1hMQXhQQVk5eDU3VE5kQkN1NldfUHAzVksyYzlMcTVpSFVWTFVfRmdZUXVSTms5TW5uSWs?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-12T17:23:08+00:00",
-      "score": 54.28,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "81bf0da339bf44db",
-      "title": "Thai government orders gun control review after 2 deadly shootings near Bangkok - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVlsTld0Q3VONHpZWjAzbUpsZ0JhVGwtUjA5dnQ0QVVQeE9ZcGQ4TGhic24xQnhSUkwtRDR4clpacm9XalhvWEM3dnZRZFZrM2tuYTBBaFd0c3NuTkVrRUZyLVAyMVVsWERDV2IxNEJQN1laY1FEMUxXSG53QWMwRC1zZ2NQVEMyekl5eHFicHZ0emdiUzNEQjZCNlVfMk0taVB4NTV6QzVoUUNFSHN1cG9DM216RGdySGVwZFFWczBsSFRoNmpV?oc=5",
-      "source": "Audacy",
-      "published_at": "2026-08-12T06:28:00+00:00",
-      "score": 53.96,
-      "corroborating_sources": [
-        "Audacy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "642eeca68dbbc14e",
-      "title": "Camacho y Lupo acuden al Senado para entrevista - correodelsur.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzNWV2JjMlNReEpnd0lnVU5EMm5waEwwVVhkZWFOeDB6WUdtZzExNFNzckJzRWN2d1RhYVAyMlY2WGVyaEZJanhqNHhtWGtQU1N1QXNIc1EyeXUyVFZXNzNmcy1jNTVGWkRFeVV2M2VpQjlMcHVfZWFKWU1mVFQ3b281cXJ0VHhrWjVOejBfb0VSTVlwY1NVUHJsUQ?oc=5",
-      "source": "correodelsur.com",
-      "published_at": "2026-08-12T06:22:00+00:00",
-      "score": 53.9,
-      "corroborating_sources": [
-        "correodelsur.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d0afabbb02ba67c1",
-      "title": "Colombia agradece la solidaridad mundial tras el terremoto y decreta tres días de luto por las vidas perdidas - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUc4ZGJSZS1IcnJ2dU1FQlBwUFFQQUFha0RJVGwwVEdyZjlaUllUOWhDNy1KUFRWZlBBc2NrSXB2eEhnZ0UzTVFaV2tfaWVtU0NVQkVOVXYzaWJnZHgxbkpZUmh0SHhmMjZzcVR1Vm9lN29EaHJIaS12eEgxSlUxeDhWajBFcUVXTHRKd0FDdm9BSnJDaUFmMUZkRUtySkUzVGJGZENfSm5uRTNQSndLZXpQbzBnMzQ5eG9aa0RhUDEtRmdxby01VnAxU29ob0ZBN1RxWU03dFJ5MlnSAeABQVVfeXFMT19nUXJaS184d2RFNTNBZzc0VmppSFdrTnRrSnJOaVk2MVphc0Y1RmpzSFJUV2J1U05iNXdPWFFEcXpkT2RVRG95cERxaUh2SGgtMXRRanRLX29uMy1TOFVhM1RZc2czR0Q5M3k2endJOEYyQnljcUNIcVF5ZENpMzV4OXNuTmZBbUJmOWFZWVVRRy1nMlM0VndVLTNqWHBZUzQtRDJkaFNmQ3Z6WWxFUnp4andwSWNFODRuN09QWDd3TW5WX2s4ckotOW1NZGhGMC1DOVhBMXZGZkU0ZWIza1Q?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-12T14:53:35+00:00",
-      "score": 52.16,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "998db4894bc7a03c",
-      "title": "A bandeira branca de Wagner Moura - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnYxMmEzdkNVdTF4VElUdzJNZW5nZTJNMjdGbnRtbGNlbmV5ZGo1Q0VkOUotdEFIR3ZTaV9xMXRSUlZPWDgtZFBQZEhFN2xGUXAyZW1TYnJuNlZWcDl6aEhTdVRCcUJTRVBXd0xzdVJ2dUVBRkxGOTVDZEVfTXJMNDJsTjJLTGxHeGRrLVVNaFJ0QQ?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-12T11:00:00+00:00",
-      "score": 52.11,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "27fcb01a9a486cd9",
-      "title": "Anitta assumiu religião após cobrança política: “Era perigosíssimo” - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPekRidWpyMkxEbmhXTTBEVkI3aU1rMGF6YkhhWjh4TnloOEYtWGpKeWdVb3FCbVJSeXljdG1aZDdLUF9HTUxuWlh0N1ZzRHIxdFVFdi1CME5nYXJWellQaXVQUzZ2dG41WnRBb1ptTGpKcnZUQjNGMi02ZnFCNU9OM0lLUngxcFpwWWVqY0FQYUJ1dU5tM2E1bjVyZ3NxbnVGamxmbGZLYXViS1BnWHRGUQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-11T20:34:00+00:00",
-      "score": 51.32,
-      "corroborating_sources": [
-        "Metrópoles"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
