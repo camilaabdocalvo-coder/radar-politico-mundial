@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T19:46:45.434816+00:00",
-  "next_update_expected_at": "2026-08-13T23:46:45.434816+00:00",
+  "generated_at": "2026-08-13T22:25:37.554538+00:00",
+  "next_update_expected_at": "2026-08-14T02:25:37.554538+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,9 +11,39 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGI0MFlHVDN4NE0yZlowN1NHUHRHdkFXR01aUTBtT3VpM0hPNTZZTHVSRVhnNnZ2aGxFLTQ1WkVDUW1VeTNpN2R0RUhyLVhoajRyTmg2cGc4Q1lGZmlpT1h3VTducGswRXQ0UVRxQW5QdDBuRGhDWEN1Qk50Wld5aGNPZnpwcEdoNzc2NVZ5R3hfYW5fMGJkcXI1RF9wN2NLS1l4NWZER3ZpTG5pM2VyRjZNVUJJZkt1dmc?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-13T19:41:31+00:00",
-      "score": 78.37,
+      "score": 75.18,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3d2fc7302bc40035",
+      "title": "Cien años de Fidel Castro: “El último ‘monstruo sagrado’ de la política internacional” - elespectador.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUFSX21lN2dibml5Q29IXzROczVodWpvZFl6U2lRSlNpd1pxWXRDbVRXd2RyX1RsQVpMVl9nYnNwek9LZi1vVVNtVE9SXy1MMnhwOUR2bTh1Z3gxUjFVWDgxRXNGWDF5NENEQndvNHdiYVk0MGxPbFY4ZU1rTHBrQWdtTUVDaDIwdmNqa0d5TXFCc0hMMmMtM1ZTTnRwZVVzQXhWNFllLURzaU95NndhTGpSLTBGU1o30gHMAUFVX3lxTFByZE5US0NWaURpcW5XaXRPTjFKRGhUbEFzdGEyQmVmZlZsYWtjTHNCSGV0dHpKS0N3bFEzMExydFdVb3RQMG53T2tPUXMwOWdHcmNoVC1BcUhoNXNFMUlPWU9HSkg1cmEzbTFOVHQ1WjYxT0s4aExwcXVCdldOakJVZ0xLMzJCbzExVzVwSGcxVHI5Z05ITXFoZVNLTFlCVm9UalA4NkRpUVg2bmZYVEk4cTJHeHFPN1FQNzJkNVY0TmtCOE5TQi1MSC1xOQ?oc=5",
+      "source": "elespectador.com",
+      "published_at": "2026-08-13T21:08:22+00:00",
+      "score": 73.9,
+      "corroborating_sources": [
+        "elespectador.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3dc0a932d1c49f11",
+      "title": "Senado da luz verde: Luis Fernando Camacho y José Luis Lupo son aprobados como embajadores - Red Uno",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFBYdlhZdm43QzBVTE42UE5NbjZ6cHVCRnVweGk3MlU5MHlwa2k0UjNOamdpcDk0cjgxRXk2NWRBMTRmQVRjbEZVN3ZKck81TlR2dDlTYWViczZ6WWFNSXBKS3BHRVFDdk5yYmFpb01HUHdUcHBnT3h2UGtVdENwWWt1SnhEMV85MkVzclduc1ZwcDZ2NHNQQmd2dTl2b1RNTTRLTXNjZHZKVDhrX24wMG5fWHpPMDlT?oc=5",
+      "source": "Red Uno",
+      "published_at": "2026-08-13T20:10:11+00:00",
+      "score": 72.74,
+      "corroborating_sources": [
+        "Red Uno"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFdORFNrMlJCNkRvUXByNk1fSHE4OEVrNVlndDJVVU9hOG8wYlA4WHRxczUzaWFBekZOeGMyZlNTMTN0RjRqQTF2NHJrMTlGaWZ6SmpSTkFETXZEOTVyazFTd1B1cFY1NzQzNVNXZ2puaWlEYnk1WlRCNHQ5Rjd6ZFJJZExtTGduRmNxRGNCT0FyV3FrTWRWM1pwWHNwTFl6b1lMUHF2RzVxMUFxOTdUY3B0dS1Rb3pscFhLRHVuLURUeWFKbTRz?oc=5",
       "source": "Inicio > UCT",
       "published_at": "2026-08-13T18:50:06+00:00",
-      "score": 74.31,
+      "score": 71.2,
       "corroborating_sources": [
         "Inicio > UCT"
       ],
@@ -41,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oZ3htd2pfZ3pTSDBON2dhSEM0SXBBUjRueVJtUndNVXdYaVBmbHBMMGExbHFWdGR3TWNqYWNUZW01TGNMQWllUFF5cU5NVHhHRFJVRXhQRmZfQQ?oc=5",
       "source": "Integrity Magazine",
       "published_at": "2026-08-13T10:12:17+00:00",
-      "score": 72.97,
+      "score": 70.52,
       "corroborating_sources": [
         "Integrity Magazine"
       ],
@@ -51,14 +81,29 @@
       }
     },
     {
-      "id": "8e17c225f70635ec",
-      "title": "Turkiye’s AK Party turns 25: A journey of change and renewal - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlc5aDVEemEyb0xCWXdWeW9DcG9uRDhBQmptcHRwQjloVndaZVVXXzZucENxZFFkaDNwMTduQVNsWEF4SThUd3NxMjNJdlY5dkdYYmxjQzVQNnFTcnFhRHhpNUZnb0NtMVRIdDZsLXdNQW5rMjZpS0JyVDJZOElUN2tYMjlLRVowMDRxNl83bkRZREhFU2hiMVhQajFYSE12Q1ZLQThR0gGrAUFVX3lxTE9tS3BFV0Q1NEh0Z09za01CUm1HeUNLYWhnWHp2MVZBT0R5cXYyRFc5Tk13TU1XQ0FlMGpBZTNtZGNNd2VsUHIwOW5qSm9xNmlRTWtSdkpwVFJkTXRRRUxDLUV6c1ZtalZxWEIwMndQSFlVQXE3SEN2QnFXVWwxTUlYMVU5NjlwbDdwbTZCS2hNaGlUaGZxdVZkM0M4Zm5QbFRCTmFlSWRNbmNwbw?oc=5",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-13T15:12:40+00:00",
-      "score": 70.11,
+      "id": "4b732710544b5e1f",
+      "title": "🎙️ PODCAST | O Café da Manhã desta quinta-feira (13) explica o cerco ao Discord, discute o peso das pressões políticas e analisa as repercussões das medidas recém-anunciadas. Os entrevistados são Iagê Miola, diretor da ANPD, e Nina Santos, pesquis - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TVWMyYURaaXVCLTZLSkFtQXFKUkdDcjlNZGl5UTQ4eUd4OWVIa1lTZ3U2a2FKdTNmOHVqMUNvckl6cUFPWGZmMHJpYm8zMlFwSEduS1Zn?oc=5",
+      "source": "instagram.com",
+      "published_at": "2026-08-13T19:58:09+00:00",
+      "score": 67.51,
       "corroborating_sources": [
-        "Al Jazeera"
+        "instagram.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "97120b70fd817e8c",
+      "title": "Turkiye’s AK Party turns 25: A journey of change and renewal - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlc5aDVEemEyb0xCWXdWeW9DcG9uRDhBQmptcHRwQjloVndaZVVXXzZucENxZFFkaDNwMTduQVNsWEF4SThUd3NxMjNJdlY5dkdYYmxjQzVQNnFTcnFhRHhpNUZnb0NtMVRIdDZsLXdNQW5rMjZpS0JyVDJZOElUN2tYMjlLRVowMDRxNl83bkRZREhFU2hiMVhQajFYSE12Q1ZLQThR0gGrAUFVX3lxTE9tS3BFV0Q1NEh0Z09za01CUm1HeUNLYWhnWHp2MVZBT0R5cXYyRFc5Tk13TU1XQ0FlMGpBZTNtZGNNd2VsUHIwOW5qSm9xNmlRTWtSdkpwVFJkTXRRRUxDLUV6c1ZtalZxWEIwMndQSFlVQXE3SEN2QnFXVWwxTUlYMVU5NjlwbDdwbTZCS2hNaGlUaGZxdVZkM0M4Zm5QbFRCTmFlSWRNbmNwbw?oc=5",
+      "source": "aljazeera.com",
+      "published_at": "2026-08-13T15:12:40+00:00",
+      "score": 67.3,
+      "corroborating_sources": [
+        "aljazeera.com"
       ],
       "signals": {
         "source_count": 1,
@@ -71,24 +116,9 @@
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZm1pemVpbDA2T3FUSVQtV293VGN4cEcyV21Zdzlmbm9oZ2t6cWdJemhtU0hzeEp1YkVQSHpRN0xrSEVLcGhqaXJtNVlYWUh1cUtEdk9SSHotVFp0dWFLY0pVSXprelo4eHNEYkgtMEhxUHVOamNDdm55TEE5QllBUDlXNlVvcTZ6eHRMNTNMcDJnZFVlaWV3T1l0N0dxN1JWUGtsZnpoVEs1NmJlSndkNUdyVk1OUTg4LW5tWXoxRndGSUJuZ1hhaTdwS3BNeE1NckxWcnEzcTFIeGJkZDE1em5rY1ZHODVVNWNrNndVMVBQNnNrZlVIaUtGSFExQ3VXMkJaNE0tWW1HU0xLTnBhVWJlNHVkeVHSAZwCQVVfeXFMUGZYdzlLRFRjbTBDb3pKRXNFb1JabldVb2lNT3VGOWNFNEJ1QTlSU1VRUndWZktlUlJlTjE0cXhQWF9UdS1hSmNsRmJjOEs2dEQ2N1ZBdUIxTGdYd3RNMTRQcWNSLW5vU3pHaFZSTklUNmVRdW1zRndmZ291V2VZVzVUMGIxRmxYb2tkQmkyd09pSUlaQTdxM1pOMFc4el9zeGl5ODVuOFFid2ZTQlozelJSSTBDdHAxWk1WUHZ6NFcyUzdNNHlabEpoTGhlMmthSHN0Nm5kMEVBaE5xbFpZWl94b3k3ZTBBZkFHejMwUHJxNDlsdmRXbXFMdUhDbVFvM1dJZUJlWXhPR3RYMEJ6cE1GOVdwYmpzYlAzUkk?oc=5",
       "source": "Redacción médica",
       "published_at": "2026-08-13T14:15:20+00:00",
-      "score": 69.08,
+      "score": 66.34,
       "corroborating_sources": [
         "Redacción médica"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b38cf9d251b4486f",
-      "title": "Cien años de Fidel Castro: “El último ‘monstruo sagrado’ de la política internacional” - El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUFSX21lN2dibml5Q29IXzROczVodWpvZFl6U2lRSlNpd1pxWXRDbVRXd2RyX1RsQVpMVl9nYnNwek9LZi1vVVNtVE9SXy1MMnhwOUR2bTh1Z3gxUjFVWDgxRXNGWDF5NENEQndvNHdiYVk0MGxPbFY4ZU1rTHBrQWdtTUVDaDIwdmNqa0d5TXFCc0hMMmMtM1ZTTnRwZVVzQXhWNFllLURzaU95NndhTGpSLTBGU1o30gHMAUFVX3lxTFByZE5US0NWaURpcW5XaXRPTjFKRGhUbEFzdGEyQmVmZlZsYWtjTHNCSGV0dHpKS0N3bFEzMExydFdVb3RQMG53T2tPUXMwOWdHcmNoVC1BcUhoNXNFMUlPWU9HSkg1cmEzbTFOVHQ1WjYxT0s4aExwcXVCdldOakJVZ0xLMzJCbzExVzVwSGcxVHI5Z05ITXFoZVNLTFlCVm9UalA4NkRpUVg2bmZYVEk4cTJHeHFPN1FQNzJkNVY0TmtCOE5TQi1MSC1xOQ?oc=5",
-      "source": "El Espectador",
-      "published_at": "2026-08-13T14:00:53+00:00",
-      "score": 68.82,
-      "corroborating_sources": [
-        "El Espectador"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uNk9JTU5KSGg0ZGhGV3pIVDFVdHdxbHY4Y0RxS04tZ2hyNjhqZ3doOXJwLUJCZjczRmRYWk12SEhCUFhod2VkVDNaWXZxZU4zZGhBVUJrQ1dBOE1WRmVfRnBwQVN0T0Z0blRtMURWZmVsbHc?oc=5",
       "source": "The Economist",
       "published_at": "2026-08-13T13:12:35+00:00",
-      "score": 67.97,
+      "score": 65.31,
       "corroborating_sources": [
         "The Economist"
       ],
@@ -116,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMkc1cFBSQkYtbW1OblJkbkpZR1pZck5SY0R5TmVwU0dma0NkSjk3WndfVl9xZGc5R2JQRjlHaVM5U3JJYUtwMnpwRGptWFNpSFltNGt0cG9YdU1yemtEWXgwLW13Yy1NdjVyalBRcDY0a1c1UFVIUzdOcFNjbWtvSzVURXdwRjROdFV5TXJJMFA1bmsxMWgtVTNMcGRSdm5QclczTkF4WXVCSGlWM1ZCdExTZXRCRnhvZGVqNjR0NGhlcjhyU1hNdzQxSHhkWEVfZjhLWnQ0WTZMVVRkV2F2RTdjeVoweDhMeFFSemxfTkZMMGRGUEZXcHZvMmxPd1Bxd3pfU1BUWVFFSlFS0gGSAkFVX3lxTE5vTmFmc2EyZmlsYWZyeW1TM0NmOEZDZXZxcFVyamJQODU3eGs1UUQyX3RSYVVvejNNd0c4eTU1ZmVqdHI3Q0FNVldxcllHcGhBLTZQaTQ1VDNvdUFGRzMxOFpoVUJ3a0RRRnZuaEpWMjJpczJpTDRDNjRQVTZrZ0paQlNsX3pTZUdUTTJ4enZaQVk2WDFxcU9JNTkxTDdjZkpLdzZqMFdZWVZQakNBenlMZjhHRHZCQ241YktZQjNUYmhucGlaSkFWREllb3hMd3NHU1BGZUo3aHNCRmZsV3BpOVlqeVF1YzZadE9pMnRxekRac2l4eGZCT1ZtaEFJeldSUmtkMFJiNlRtVWNGSWhhb3c?oc=5",
       "source": "Redacción médica",
       "published_at": "2026-08-13T13:02:14+00:00",
-      "score": 67.79,
+      "score": 65.15,
       "corroborating_sources": [
         "Redacción médica"
       ],
@@ -131,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLXBBd1oxc2J5LXVxMTJLblFYYmpYR2NuS1lucHRxZlprcFhfcXdTYVMwQzJFbk5pOXdiS3djbVdTcGMxZjJleEd4MlJpZkRvenppYnNlc0RVUFdNQlE3ZUVvODZndjFCNllkYm8xQlRlandRbkZzOWdidXRfamFhWnhhaW1wWmhybEdpNWNIRU5fQzFDb2Vtd1JPb3M5ZVNnSFdpcUtheWpFOFBVdFMyRjQzVjF2ZEJsd0QtcFY2cGFoanlFLWQ0MVFDS296Qi1WX3hqUzlqOHdUem05aTZJRV9B0gHnAUFVX3lxTE5nWmpxTjJkb2t6TzRFMmF0Q3V0ZlF4LVpzTjNNemNydlAxTGN0RlNCVFU3RC1hajBqYUpIY1p4RmNuY1RkZlZwNHVNejNhZ1R1YzVlQWVKOFFmRkxhRTRmbllSWnhIRm5LVXlrQ1FhdFRwN0hPNW5vSDR1dnVzT0s4UmVtNU9yOEhxSl9xWnVyLUQtTGZzcGJ3OGdRRHdReXV6ekVncWlCakkwT3RJNUY2LVhWeUpNTUh2cnVUZjJfY3ppTHZKYzRqNTFNTGVYN2g5YXhCc194a1UyU0hUVXlrUmsyTXBENA?oc=5",
       "source": "Defesa Aérea & Naval",
       "published_at": "2026-08-13T12:46:00+00:00",
-      "score": 67.51,
+      "score": 64.89,
       "corroborating_sources": [
         "Defesa Aérea & Naval"
       ],
@@ -141,14 +171,14 @@
       }
     },
     {
-      "id": "2abc63050e7ef8c5",
-      "title": "Política ocidental sobre Rússia gera custos à Europa e pode provocar retaliação, dizem especialistas - tribunadoagreste.com.br",
+      "id": "31f39832df7c356b",
+      "title": "Política ocidental sobre Rússia gera custos à Europa e pode provocar retaliação, dizem especialistas - Tribuna do Agreste",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWW5OZlRGV0prN3llOEpBbXIyWjhFYnhaeUt4cUVQWTloMl9XZmctSnViWWl1TU02UFVUYTUycVVvbXdLTmtZeEM1UVZMQ0g2UGNaM01zVUZ3dWdWSDBqT013Y0g5aTN5bzJRT0lFNkR1MS1NYk0yZWZzRXlLN0s1N3FjNVFkVVRoVkRzYk1YR1J2c2RhQy10dGp6SVkwYWNOYXNoc3BabXc1WXd3N0MtcmR6XzRtMGRjZUliSjVfMHVCX3lGSFdxckRwOFB4S19LQUh6WEFTMndHS2o1aDk3emtUTVBEeU5hTEhzWXF0ZE8?oc=5",
-      "source": "tribunadoagreste.com.br",
+      "source": "Tribuna do Agreste",
       "published_at": "2026-08-13T11:17:00+00:00",
-      "score": 66.02,
+      "score": 63.5,
       "corroborating_sources": [
-        "tribunadoagreste.com.br"
+        "Tribuna do Agreste"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3pJT3VwRTFpYzlCWXdwcUxiR0ZmY1NqZzdmX0dIMF85TUhSWmVSVndWVUdNeWdWT2pUb1hsZTQ0NFFQazVZY0h2eDlYWEVTdWVZbnM5NXJKVjNQcXU3dkdXSmNLdkcyY2FWWjh1R1Y1VDZlMVlrLUZ0TkVKUi1qUV9qM050TEFvcGhFdW45M2lIcE9PTm5TZXRLVTRNZ0Q2YVg4SlFmQ0xsNEdTZkdjbEJZeGgyQ21nWkdfTHBCNERBbnkzSVBPUVRzLUkydw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-13T15:59:00+00:00",
-      "score": 65.97,
+      "score": 63.1,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -176,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVk5oOHcxZzNQclNhWTFhZ1M2d2NnNTRuaTJMOFBDZXlienhoRXc3dGQtTkZnbjhEdmpPMU84US1NaEpIdnd2MExZM25Bc044T2JaUGR0OEN1aWV3bE1hVWlJNDRJdTNLVC1aNlZmdDB2eEh4Nl9mMnJCaTRpRTlhSElmVnYwSTJrMng3Q1VocjdlZEpjUk9NMFVrUl9HdVhPWUt6NmhsU0pjelM4QS12MGJlcUE4SVFhMjZ3VXZFckQ0UFBTbERmRlJqcS10andBZXF3YXUxcU9ObWpTemlPUk1zR2xKbWhfRDV6MEhfczZmYzktbUJIbWtHdzlObTF2c2g4T3BYS0tzNmxiR2F2dndvUQ?oc=5",
       "source": "Diario Constitucional",
       "published_at": "2026-08-13T00:07:14+00:00",
-      "score": 64.54,
+      "score": 62.69,
       "corroborating_sources": [
         "Diario Constitucional"
       ],
@@ -186,29 +216,14 @@
       }
     },
     {
-      "id": "4b732710544b5e1f",
-      "title": "🎙️ PODCAST | O Café da Manhã desta quinta-feira (13) explica o cerco ao Discord, discute o peso das pressões políticas e analisa as repercussões das medidas recém-anunciadas. Os entrevistados são Iagê Miola, diretor da ANPD, e Nina Santos, pesquis - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TVWMyYURaaXVCLTZLSkFtQXFKUkdDcjlNZGl5UTQ4eUd4OWVIa1lTZ3U2a2FKdTNmOHVqMUNvckl6cUFPWGZmMHJpYm8zMlFwSEduS1Zn?oc=5",
-      "source": "instagram.com",
-      "published_at": "2026-08-13T13:50:39+00:00",
-      "score": 63.64,
-      "corroborating_sources": [
-        "instagram.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5d33e4bd2cae5f70",
-      "title": "Cancillería de Cuba resalta política exterior y legado de Fidel Castro - Tercera Información",
+      "id": "205584aee99d4ac2",
+      "title": "Cancillería de Cuba resalta política exterior y legado de Fidel Castro - tercerainformacion.es",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS21MMHctOVZmd3JTTldiLTduZ05EaHpVTmZuUWh3dWl5TDhmUlRBaXhOdHNaQ1FWdTNpNmdvTHpYWGxELXRYMHFCVGxSREw0ZVcyTzdKY1dmSTlZdHhqbDBKN1dyNzViUmJZY2FLNURBbTZXZjcwdG5VRkRHYjE0MlNBQkx0dC1LbFpYSDJTdmF6ZnYwaFdsZ2ZpQ2J6Y2ZVQ1I0azZGZmp6b3hEek8wTkFCLWl4NjJUWFNwdzNoUmFsZGF1RUpUMzVXSm4tZURGT2Z2dTd3?oc=5",
-      "source": "Tercera Información",
+      "source": "tercerainformacion.es",
       "published_at": "2026-08-13T08:16:30+00:00",
-      "score": 63.17,
+      "score": 60.85,
       "corroborating_sources": [
-        "Tercera Información"
+        "tercerainformacion.es"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3FLZDdWU2x0ekpGZW5ybHJDanFhMWV6bUI5Z3VsZzNQX1Q5T1RMaFpSX2hsY3AzQkM1VV9XVVoxNjRxZlJBMVVabHRXMV9PLTk3NG8wUHZxX1dzOUZOaXI0LTBXbWx3YmVjZG1rTWpHVElDR0M5Ym00T0FWa2JSbzlvd2RxVnVaWkJvVE1lM1h4YlctaGJTU0N1eW1GaHp1N1l5bERvWlRiTDBadHlLVzRrX2tWbnI1N2RrSFl3?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-13T04:06:00+00:00",
-      "score": 62.59,
+      "score": 60.52,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -236,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3FXRnJMS082OFcxWVlyZHE0YWktN0hQOXhhRXZFbjd1VmItcW1rUmhMRWtwWkdHdk1malRTa2N1V3ljLXRRdGd0c2lUdVcwdTFRLVpKQ1pqRlBnMEhPanFGMENxamNaRzFjQTdUTmJxZ2lGdlVrajIwaERyV1c0ODdwbHlNVWQ4N2Vldl92NEVCaFphc3h0Mw?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-13T12:48:57+00:00",
-      "score": 62.56,
+      "score": 59.93,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -251,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNk1MWWVPUmdySjZQNkdNZklINHRQNVM5OFVoUVF1eHdDcGtCTUprV0QtcVd4TVNfcHVIdndKVUZGT3djb0k4aUtqWUpnNE9wQVMyM3pfcTgxM2RJM0FrMUVxUllnOWU2dnI0aXFBTkNLYVZNYXNCQkwyRkRwZWNpTTVrSEdTOGVnczAxTFEwcjZqdmNEdkNXRg?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-13T12:06:21+00:00",
-      "score": 61.84,
+      "score": 59.26,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -266,9 +281,24 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNM3g2WWFBSTNoWnJjOW5sa0ktSTFhc2w2YXpQNUdtcTg3Y3ZyMmJJVGxsZFFJeGdvX3ZrdXhfdWVoTkRRT2EwRVdWS1RVX1F0bHhYVjhPYi13SXBmUVpubzJNWl9DUk9lM29FczZ4SkxyV1RZMHNMY0pvaUh6RU5MVjNkWkY4YWR0TjBzNDV3OFVCSWlFa3dycFM2UE9Vdmh0LVJFMk1EOW45LUdXa0dhWnREQVk3TkJxYTRXR0xqeHB0RWlnc2hDakpoalRIOEZUN1dwWTdadGNwcmtCeTJVOXZucUFRMTd3MFRXbWtIYmFFSFM2OV9EV0Y2d0tDQnBLNXI0?oc=5",
       "source": "Canal26",
       "published_at": "2026-08-13T14:44:40+00:00",
-      "score": 61.6,
+      "score": 58.83,
       "corroborating_sources": [
         "Canal26"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2ca2c981a237c8f8",
+      "title": "MST protesta em Brasília contra imperialismo dos EUA - boca.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbm51TjBHTzhuZXZJaTJyel95N0dtYjlBY3B2dW14WkNlNFFiUFFNMVJLY1FjbXAwMmRXQlFEVlFCNjF0VktpRDlHZkY5XzFVZUNxWDNfeTRrNWFERVY5NzBpVUx6eF9Mck1uTkJqck9IblZiUmc0cU1oelNvVldHMXJtdDRPaEln?oc=5",
+      "source": "boca.com.br",
+      "published_at": "2026-08-13T14:30:29+00:00",
+      "score": 58.59,
+      "corroborating_sources": [
+        "boca.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -281,9 +311,24 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWc5dnoyN3B3Z0c1Q1E5VVczUWE2V0ZDSkhwS0lpU2k5VE5vSmJmSVc2RE4wTTlMTUdrRHVkT0pvM2hKcE1uTzA4empya3VWT2thdy05RmJwdzFYdjBkT19HWHpDQTJldG5Xb3o1c2x4dDlSQ09zVlNKU1pTTFpSZkZYM1RMbFBKelN1STY5VENfZ2tNcWRhUXNGVm1KemlWZFB1TWJR?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-13T11:11:21+00:00",
-      "score": 60.92,
+      "score": 58.41,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5b1d01e4b13e1033",
+      "title": "No Brasil, 45% dizem ser de direita, 29% de esquerda e 5% de centro - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzk3alpnd3l5dF9ta2RpS2dnb0hxYmZsemtEN3cyRnI5ZXY5N0tqZUY0QmxEWURRY1dzSW1HOWNxOHRxSm5vNk5MZ3c1OWZDZnZrOGdod3dJLXplLUIxZjEyZWdRQVFaLWN6ZXZrUWNxQ2hMWmVXWGszVTNHb3ZscHhFQVEzaHhUVkJQUnZtRzZsZVU4bk9KMng3cWlpU0FoaThF?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-08-13T10:33:04+00:00",
+      "score": 57.83,
+      "corroborating_sources": [
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNVNzTk9FWlJqQ0lESkRTSS1BSWlqa2wweUtvR1FWVnVaaHdXS2FSYzE1MWljZDdyYjlkSTZhZUY0Y1FIbkpjTjZhNmNMUlBsRExKNEp0dU9XWVlsZ3ZKei0zT2RRb05kWHo5SGIwVF8yUng0a2ZoV1pZNjZ4V2w5Z18tRUJNdnUybmFOTnNZUnR4LWJMam5WVHVLNWJBc2ZwU1pXQVNmLV9yNFBPQmRzbDdYbFI4MzB0NDFqNlYxMmo0ZFBDOHhfVFdDY3dFWFBNckR5cnF3R1lxLUJrM1NWYmo1VW8yeTJLczhkNnFiZXhlMGhEUnJnSktn0gH_AUFVX3lxTFBYWVNlSHNNNjBKRUhNMTlORUNYNjNwMFplR0N6UzBrRWlvQ1psbkZfaWdiaFVrV2YzZ1dKU0ZIMm84UjdQcFFKSVp3a0JvTW9lSVVRNDBnUEs5NTY2czNPbHdWdWdlX2xSZ2VfanZLYnFSVk9vZDZSUXFNaGJOd2dTS0V1dVZ6bjVPMi1hZGc1OU1mV0R4cU5zTnNwVkVVSUtmekFLbGlPWEh1T1FMbkN1Yk13ZVJnZFVEMEZGc0xFRWJTS3ZaOV8tcGVBRm5WSGZ6SGIyeUpCLU55blJyYUpLcHMzdjdEUDcwOFRNMU5JQlNpRzNzZDFSTVN5RUNpQQ?oc=5",
       "source": "La Vanguardia",
       "published_at": "2026-08-13T04:00:00+00:00",
-      "score": 59.51,
+      "score": 57.45,
       "corroborating_sources": [
         "La Vanguardia"
       ],
@@ -306,14 +351,29 @@
       }
     },
     {
-      "id": "0c59ecdb10f2db9d",
-      "title": "El Gobierno designó a una especialista en IA como secretaria de Innovación, Ciencia y Tecnología - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcVFRR1MwRzV6TGlwYk9tTHIxWmRKRDJvekhVUTRwOGVGMndmaUdQLU9IeTg1TzVMcTZCZF8tajZiSEcta0VITW5CQS1kTFdQMEFTSmtuX1VObjRPUlNvZFlickd6Nzk1WHpEYlF5V1gzUnl6dTE3Z1BNeTkzX1d2dzhNdmRvR3I3UjJmcklfU05GWmVSWUZXeVc1a21lVmdwc3Z4eXBZWC13MVMzRWZteENZVEcyWk9LVEJ2OFNCNno2SmIzWWUzZ2xySjZsczMxOG1yWlFjNNIB8gFBVV95cUxQcGFpX0ZndnBnY2g3OUEwRUFxb2h0TXVFMEQxbTF2QVVLSWlidnY3SHpsZHNYbEFRbk9JWTVXeGtoMGl3WTkyVXpqNHZUcDRPbGRGa0ZjdjV4c3BqdmVHVWVkNENKNEJ2SHNHVmpXLWMxNmVmZy1JMFNoaElRQnBPY3RjcXVKbS1zdUVvT2JUa3BRYUhCMEhXSEFTSHBOeG9IcHdJSUFnbzlsek5TMVRieHE2Xy1kTGRld2xpVldtbmRqcW1vNlN3Y3dqSTVOLTM4QWxZZUpEMGlxdFAtbU1xOWk2dFM5b0w1OTlzMklnSVJCUQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-08-13T12:27:00+00:00",
-      "score": 59.19,
+      "id": "77e0c6db1f819303",
+      "title": "Global Tensions Escalate: A Rundown of Key World Events - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXRDQThtdzAzTVRnck1wdE1iS285NUUtbnE2bXdkYUJyS1RjcWhwR095bjc4VmstcVFzVVpueHdZY3pJVDNJekpjSWtva2FZVnE2T3pZMWJwYUJEYVc0cGw3OXZGQXliOGcwZm9YSklINnBHWExJem9qS1BteENlNmNIV2NhZHZubmdSU0FyUEpUYlZtMVhxc3pBMW5SakMwS3FSeFVTNy0yaGpq0gGyAUFVX3lxTE9HZkVQaHpZSjg5TTJhOE5hcGQwbUNtU19yVHp0TDhaUTlxNlZ5cENHVHNERjZxX0Z0eE85dmQ5S1JkS2tkNkFZQ2ZYTV9fY1YxRkRzcDk1SnVUaFVaMGFtbUlSSjdkQkNhRHhMR2hpRWNXZEhGenBnVjlmQUdibDd4VjVMTm5tN1V5TVJOaG5qbVYza0NUUE5OeU4wbEFnTFNlQmVZQ19hMHFBaFk0X1VIbnc?oc=5",
+      "source": "Devdiscourse",
+      "published_at": "2026-08-13T12:57:04+00:00",
+      "score": 57.06,
       "corroborating_sources": [
-        "Infobae"
+        "Devdiscourse"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a6374fcc99ba704e",
+      "title": "El Gobierno designó a una especialista en IA como secretaria de Innovación, Ciencia y Tecnología - infobae.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcVFRR1MwRzV6TGlwYk9tTHIxWmRKRDJvekhVUTRwOGVGMndmaUdQLU9IeTg1TzVMcTZCZF8tajZiSEcta0VITW5CQS1kTFdQMEFTSmtuX1VObjRPUlNvZFlickd6Nzk1WHpEYlF5V1gzUnl6dTE3Z1BNeTkzX1d2dzhNdmRvR3I3UjJmcklfU05GWmVSWUZXeVc1a21lVmdwc3Z4eXBZWC13MVMzRWZteENZVEcyWk9LVEJ2OFNCNno2SmIzWWUzZ2xySjZsczMxOG1yWlFjNNIB8gFBVV95cUxQcGFpX0ZndnBnY2g3OUEwRUFxb2h0TXVFMEQxbTF2QVVLSWlidnY3SHpsZHNYbEFRbk9JWTVXeGtoMGl3WTkyVXpqNHZUcDRPbGRGa0ZjdjV4c3BqdmVHVWVkNENKNEJ2SHNHVmpXLWMxNmVmZy1JMFNoaElRQnBPY3RjcXVKbS1zdUVvT2JUa3BRYUhCMEhXSEFTSHBOeG9IcHdJSUFnbzlsek5TMVRieHE2Xy1kTGRld2xpVldtbmRqcW1vNlN3Y3dqSTVOLTM4QWxZZUpEMGlxdFAtbU1xOWk2dFM5b0w1OTlzMklnSVJCUQ?oc=5",
+      "source": "infobae.com",
+      "published_at": "2026-08-13T12:27:00+00:00",
+      "score": 56.58,
+      "corroborating_sources": [
+        "infobae.com"
       ],
       "signals": {
         "source_count": 1,
@@ -326,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRW50NW43cVplWDB4SzVHVU9zYVIyQjJEUHM2UmRZb1lheU1sd3UtT1lWMXhlVnZHWW8zWHNfeFdUVGpZUm9JUGdPd0praEF4dWJZSDE0blNuYWtHcUhsbklGM0FqSFl2VG8yR0t2QXBPZTFxcXdrVUFERTd4QmRUaGdSMGJSYW5KNldQTkMyVVhPRHQzeFZOeEU2dWdfWFlUMy1UcDdJMVVreFFic0V4Z0hOUzV6Zw?oc=5",
       "source": "617 News",
       "published_at": "2026-08-12T12:21:11+00:00",
-      "score": 57.27,
+      "score": 55.94,
       "corroborating_sources": [
         "617 News"
       ],
@@ -341,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjd4anR0R2UzNkxhV0RNUFd2QVVqUGxCcjY3SjdiTlRqa1NmNEl3cUx0aGg0aDlOMF9jYWY2Y3pHOE9qemduYnlhOElnVXRQd1Q0VTR2LVNhalJRQ2pYd2Z3cW11Wm1kWWdudkZoM29KRzFjWjlGQ0FtZVZLNTd6SmEwT2pEZ0phcXhBemQ0cXQtdW1wTzlvSWVLWnBNclpXT2dJemRJcmZ4TUhTQTc5ZFEya21ISjNuMG5oSUJ2VTNXMWZZdXhRbVBlMWtDZ9IB0wFBVV95cUxPYjdENXlOcTRVYVZhMmtwZkZ2Q1NWZC0tQnAweXI5bU96MFdvTUtHRFpjQ0F0R3NsRkJyTy1xNDlKanJQaXNYRU9sUHJEV0NERmZoUHVaVjRjOFpnS1FpZEEyam1DZXZVQUhMdGc5bkxwYUZvLUloSE5XeUNpZW5FSF8wbVdDQlB2OE1mSS16d21pSkxodU5QSmhNRGRmZlNQWlVMM2xkVVZ4dl9tTzBrU19kaHk4VTNhZDd2SXRwTC14LU5VOTFTdkZCSzRSMkFLUnRR?oc=5",
       "source": "Portafolio.co",
       "published_at": "2026-08-13T00:50:59+00:00",
-      "score": 57.07,
+      "score": 55.19,
       "corroborating_sources": [
         "Portafolio.co"
       ],
@@ -356,24 +416,9 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2RZcHdSSEJHTGhqeVBpU2d4dk5Nc3ZGazRPOHYzV0RKUmgyekZ5eU0xcGhKYVFPQVk0T0Y5RlJweXpuU0U3OHZaQk42WHc2ZEctV2RWYndOc1BmWVVzSmI2c3lGZHducWQ5S2xIUGxIQ2xLa0dzNVczXzBhRVBDTmYzMUZoclNZWS1NSW9BYXE?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-12T19:56:18+00:00",
-      "score": 56.68,
+      "score": 55.04,
       "corroborating_sources": [
         "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0cbfd939968e756e",
-      "title": "Un español entre los 265 muertos por el terremoto de magnitud 7,4 en Colombia - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWhld05lMlFjdTVNUnFqRVVhTWFfWXB3WjNWRGNnSG1sb0EyN2hSY1BGaUQ5N2JOcE94OGFBSXY4Vmw5VmxlRzcwUUxtSG1ZNFRqX2M3cWVIVkZSUEUtMU9XeXJ4emhua2N5OF8wbkJ0QWlqVFZacWpfRDQ4eEpqWnJJYnlZN01QT0F0R204NDRQRWJVY0RIc2NjcXVtT2pYRnBkdDlKS0hoYVZQVFRmeGV6eDPSAboBQVVfeXFMTldrbGJ1dVJSNnY3cFN4Qlh0UnNCTFZiWVBVTkxDUXBnT1MxZkhvYUFHUWNHUHpwRkpLcGZJQWYwSXByVktLaHhxRkJyRlBnUzNjeEpQeElWRUFtSWhnakF5enZ1MFdjWlYzaDBsZEREOTdFNlJ2dFJwbk5OZ015MnRSYngtRFVTSEhaWVBRTUt6alRtYWhKZ25JNDZZTW0yTGhXazh5WWNFc1FBa19wa2M4RjNWMVJtMDNR?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-13T08:22:00+00:00",
-      "score": 55.25,
-      "corroborating_sources": [
-        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -386,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MjBFYlBOTlN4ek1sZnpvb1d0TUFnb0Fwb1FTeHBKS3ZGZVRielFlQXJ4UnFUd0lidHpfeUdQbEtnVzU0Z2xQWXhDSFd3Q1NzalpUMkk0YmlLTWhFYlNJbjV2WTRMY2oxcGFEZ21uTm11Q0liNTdZ?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-08-12T22:15:30+00:00",
-      "score": 55.23,
+      "score": 53.47,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -396,59 +441,14 @@
       }
     },
     {
-      "id": "3f7e80d013c09934",
-      "title": "Vende Biblias y ahora hasta se refiere a Alá - El Informador",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2wxSnluZm8zY1A4TUxJZEZnQ2tLcld2TWhjVkRRSVplaEt1cjZJclUtdXBrRDUyaWNQcmd3WGxEcVBNb2ltVUdoZWI0MVkydEYwNmJESl92U29Neld6TGlqVEduSmNzTmZHaFV5REFPemdGWmVRRHhqckxfcVktZlNlYkZjeHlNQS1XTnFaUDgtazNld2MxbzZrRdIBoAFBVV95cUxOR3JoeUd4VjdfU21lbWY5RGhYRXEtdnpqVGlfMGM5aUZMQWNWOUl2MGdoUk9vcHFsRTJsbjdpVWNYc0g5dHkwWW03Y3oxME1fT2E2NTA2Q0J0azJ2LUthVUh5Y0YwYXYzWnVBUC1haXRkazRwRFhIY2lNc3M1UEI5czRwNFhmbXNQUUVPUnpfRFNHNmVEb3BxakdhWV9XaFJn?oc=5",
-      "source": "El Informador",
-      "published_at": "2026-08-13T07:30:00+00:00",
-      "score": 54.47,
+      "id": "0cbfd939968e756e",
+      "title": "Un español entre los 265 muertos por el terremoto de magnitud 7,4 en Colombia - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWhld05lMlFjdTVNUnFqRVVhTWFfWXB3WjNWRGNnSG1sb0EyN2hSY1BGaUQ5N2JOcE94OGFBSXY4Vmw5VmxlRzcwUUxtSG1ZNFRqX2M3cWVIVkZSUEUtMU9XeXJ4emhua2N5OF8wbkJ0QWlqVFZacWpfRDQ4eEpqWnJJYnlZN01QT0F0R204NDRQRWJVY0RIc2NjcXVtT2pYRnBkdDlKS0hoYVZQVFRmeGV6eDPSAboBQVVfeXFMTldrbGJ1dVJSNnY3cFN4Qlh0UnNCTFZiWVBVTkxDUXBnT1MxZkhvYUFHUWNHUHpwRkpLcGZJQWYwSXByVktLaHhxRkJyRlBnUzNjeEpQeElWRUFtSWhnakF5enZ1MFdjWlYzaDBsZEREOTdFNlJ2dFJwbk5OZ015MnRSYngtRFVTSEhaWVBRTUt6alRtYWhKZ25JNDZZTW0yTGhXazh5WWNFc1FBa19wa2M4RjNWMVJtMDNR?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-08-13T08:22:00+00:00",
+      "score": 52.93,
       "corroborating_sources": [
-        "El Informador"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f06b09738096e196",
-      "title": "O Brasil e o Mercosul: uma estratégia de política externa para o Sudeste Asiático - Jornal da USP",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmpPTEFITTJCZTlWNHFhNEJuWXo3UGZJNmhmRGJCTDdUZERmc3lwSU9ZTmQ3T1kxMjZMb2VrUF9BZHVrRW9ZZl9JSm56N0VqVEc2NTFYRmRrWk9ZdXl5UWp0VTVzQTBYRkx1MWxqd0FIS01JY0IzMzhOVGN6dHI5ZHkyRElCSFliakhkX3FXRDlzd0ZjRHJPUUlIZWpIN2RnbUZfbVNzUzZzMG8ybmRlcA?oc=5",
-      "source": "Jornal da USP",
-      "published_at": "2026-08-12T19:51:00+00:00",
-      "score": 53.63,
-      "corroborating_sources": [
-        "Jornal da USP"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d192523b5fd96c5e",
-      "title": "Today, Farage goes head-to-head with Count Binface in snap by-election - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFZHZkl5enItWWNJM1VTX21Kd09JN3h3djJIc1pOeVNKcFc0d2xQcmgzdVZuc0tkcGF5UVBvZkgxdGU5ajR6V1doZ3ZyVG1FOWQ5YlQxaENlaFN1dHNEY1FBVms3Z1dxdzFkamdhSElQZGFnazlSbXM1TWM2bi0tM3huRy1mZzRtNW1QdHgzN3hKcUdkT2xyRnh0d2RrOEFxYnc?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-08-12T19:17:24+00:00",
-      "score": 53.27,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "00ecff88960d717e",
-      "title": "Entrada da China na ação do Brasil na OMC ajuda a combater guerra tarifária contra os EUA? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLcGhkTm5YTnNENTkxUFV1c0VVN0sydkt5bnN6MmhHa09mQ0pVRWJxdlNER2diMTU0dHZzWGZILTVVUWdyNGFuZ3lHR3FURjFPMzc5Rm01ZHpLcEVDWkxvVl9R0gFnQVVfeXFMUDVmbmYxZGtlQjdGTy0yOEhrUUxUeU1PMG5FSnhoNjQ5RkxINUM2QWRjUHJsVk1keFZQbjItR0VFdXVXMng5Vi1tMGdNcTdXSlpFT2pyU01FWHJ6UUNwWEUxd0preFg3MA?oc=5",
-      "source": "BBC",
-      "published_at": "2026-08-12T17:36:10+00:00",
-      "score": 52.22,
-      "corroborating_sources": [
-        "BBC"
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
