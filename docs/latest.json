@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-08-16T03:29:07.841263+00:00",
-  "next_update_expected_at": "2026-08-16T07:29:07.841263+00:00",
+  "generated_at": "2026-08-16T05:47:29.688488+00:00",
+  "next_update_expected_at": "2026-08-16T09:47:29.688488+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "276801653487da43",
-      "title": "Lula começa campanha no palanquesindical que o projetou para a política - Folha de S.Paulo",
+      "id": "51fe2ccdd0c08234",
+      "title": "Saiba quem são os candidatos ao Senado pelo Rio Grande do Sul em 2026 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1ZFblA2MG9BYXpFSDhqUGJKQ3c0UEpyaHhENmNYT3g4NjloUkZwUTJXSXIwb1g2Q1pHajMtalk2WkNTOHQ4blpqbXY4RnRiRUtUX2VWX1ZvXzRmOE1nVXREQVBWWXg5Ti1IRGxabHhxNUhHQ2d5cnBCdF9PRGtaZmRKRk9LZzdJWWlzVlB0cFZZX0E0UmNEWFhkckUwWk1odVBXdnhRWURxdjBPZWU2TXNTX3h3SEJCZkE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-16T02:25:32+00:00",
+      "score": 74.46,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "aae003f64ee08263",
+      "title": "Lula começa campanha no palanque sindical que o projetou para a política - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUNWMS1zNGZWa2taMW9feTBDZS1jYW9pZFlTWHVzeUVya25SV010Z0lHSXZmRzRFUHZWeGFGY1BNYm03bndBZUtXQXR6eGZ2bVRENjZtMzljZkE1UlpYWUNJZW5oc2twdEp0WHhTRGVrenZEejhJb3owZnhxSlViRlNfQzlCQ0lKNVUyc0ktV0t0ZGNHSC1QWFRVWW9JRTQ0Unl0YV8ydUlSbzc1T2gwcTJjclRndE96bTluWkd3?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-16T02:00:00+00:00",
-      "score": 76.66,
+      "score": 73.98,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -21,14 +36,14 @@
       }
     },
     {
-      "id": "9273e88dc6906bbd",
-      "title": "La agenda de la ultraderecha internacional secuestra la política española - eldiario.es",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3QzV0dyOHVoeFBLa2REUFB3cVN1Mlc5cFlnVjdRS21DbnhMWlRJc2UxbVVBSlYxckVYVVM4Y1d3bDlUd3ZLbGR2eUNkNGY1d05ZQjhrTUVwTjlSUUtWNmwtbFhyYnJpUHhDODh0Zm16b2FrN3JrYUVVWlZibEN4blJXVTFtNHVKX3E3Sm1rajc3VmhJWFN6ZUc4a2l4ajZzNk12V1huZVRpS3F0ai1PLVhCZTFVZ9IBuwFBVV95cUxNcC1zUllIQXBvS0dqWU1xUHBvZW9CdVJRaHgycXFpUnhKY2V2NGFXUWh6QVlYaEN5MWQwZWRiMkpWd0t5aHpFLVhJdzlRVWp3QTRTR3F6MGhBZUZLRGp4ZjJSdHMyNVpBQTlkNmZXRm1iX1FmNFc3TDNHejVoVUN5anlxc3dWelcyUUladWx1RmpfcVBWYXVkT3NKWGdvR2JQRDhLR3VyRGJPQUMtRG5Vbnd4UU85d2tVU0tz?oc=5",
-      "source": "eldiario.es",
-      "published_at": "2026-08-16T03:19:00+00:00",
-      "score": 75.27,
+      "id": "7dca94711429cbb6",
+      "title": "De la Espriella frente al terremoto: acción, personalismo y revuelo en su política exterior - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHgzWTBmTUpuWk5GOXlCWjBOZktpcmg4bUNLaF9iT2k5SVdWazcyUldpQ3N2azk3R0trMElQZ25JRE9DWnlfNFBEVm9PY01qaW5qN24taEhRdi1FVUwzNlpERzRfYTR6NTAydGlRRUM4NG1KbmdLSTVXUHZWUURnYmlxZ2pIcl9jbUo2a3VVRW1RODg2cHhSNXFKMWFEMms5RlZnNDhwNW9EWHowLUpXMHdGaHdRSHFfQ3VNR1huUVpyaExYajlIcjFxTFNYN0ZvS1VnQllnTlXSAewBQVVfeXFMTXZDc1poNE5GdjMwbm1JNHpQYUtQYzhnRmNpd0x5MUNHT0QtTVdxSDJqOUtfSE5BSWt0bzJfTTVFdEVhMkRFY3JmdTFoSlcxRzQxcUcyUEJ0Z1dWaUF1SmppZWI5d1ZRZE5Ec0ktemVmRXVISnpXc1Jtbm1ibU53WlhhaUJLSUlJblREX1ZWSmJSN0hVQlRiV2dQTXdxVXR6NmRXek42d0hxWklwbXQzemRhUWFqVVhnOVRmemhreThNcEtiT18xRjlmdVJ1NlJnREZmZTdWSF9CaXNVRjhyNW5ZV0ZUUXZrZFhiT2E?oc=5",
+      "source": "EL PAÍS",
+      "published_at": "2026-08-16T04:00:00+00:00",
+      "score": 73.29,
       "corroborating_sources": [
-        "eldiario.es"
+        "EL PAÍS"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQalBCSndlYWFsbFdsWnY4em1CeG9XUGg4a2VfaElOSmt5TmJFTFpkT1NGT2ZHZUxFT2lqWFZ3RC00bUN4Q1RKRGMxb191RlEzaWJCVlBPU1I1a3hJVGtsZ0NTQktYN2lYSjVsa3FYSk5zTXV3RXU3NkVzeVNrcjA1b1JyVXN3VlVrc0VicHhXak1IRUlBSW11ZC16MkVKaTAtR2NKMTVYcWtfNVJJcEpXbXJlZXZraDJMVzRxWlItZkhJQmhONDJ4ZkpOS05YenNHbDR6bHVoeTI1QTdNMkNKWDZVUFZ3dmxZWmFKcDBoVmJhUG83cDQ4QdIBjAJBVV95cUxObXZFdmlCRldpNW0tNDNpdEdLdUJ3N1psUzVvUlZBeEVPU2kzdS1scllpUlA3aTE4TkY4UXpxS3ZLYk1OMlUtTjBSdTMyZGdxNUt3U3I0NjQ4dWE2LTBZVHRxdWh2R0tVUFJISVJadmFsUkZoUU5BQ3NGWExLTWtLWlI1LW1CYjN2YW5vRV9nWDJSNVdGaVo0MnFQSUVUT2VMVGFrcjJwLThNczI0cmM2dlpleHNuQ0tGYk9XMTM1MVlQcmNGZmdiSl9RVFlwWXlhdWM4WjJlYTd2c2R2TTM4OTlpbDFZclVyLWNxWEZsaEtGMmtjamFtZjMySU90RGJoeFk5djJjalpFZUNS?oc=5",
       "source": "TN",
       "published_at": "2026-08-16T00:47:00+00:00",
-      "score": 72.22,
+      "score": 69.63,
       "corroborating_sources": [
         "TN"
       ],
@@ -56,9 +71,24 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHpocC1DYl9PbExsbmRyRnlsQlFsdDhnRm9GcGJWVGZvWFdjX0o3eV9pWDdoNTJCU3BxcXBPSXJ3dk9XRGUxVUdNZVVZeTFPOXp6ZEo5d3FZSWRSV0VVaEFYMTZicGEyMG9yM3Y1ck9jd0FLa0k1aUVlaHhkUTJ2VEw0TEVnOGk0YUZRRnU2YWczSFVGM1dhc2ZvMVpSMWVwOUYzN1FjTkNDMVVjQ09POHZSczJPTVZ4WlE?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-16T02:00:00+00:00",
-      "score": 68.66,
+      "score": 65.98,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "48ba3d7a14fd0583",
+      "title": "La agenda de la ultraderecha internacional secuestra la política española - elDiario.es",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3QzV0dyOHVoeFBLa2REUFB3cVN1Mlc5cFlnVjdRS21DbnhMWlRJc2UxbVVBSlYxckVYVVM4Y1d3bDlUd3ZLbGR2eUNkNGY1d05ZQjhrTUVwTjlSUUtWNmwtbFhyYnJpUHhDODh0Zm16b2FrN3JrYUVVWlZibEN4blJXVTFtNHVKX3E3Sm1rajc3VmhJWFN6ZUc4a2l4ajZzNk12V1huZVRpS3F0ai1PLVhCZTFVZ9IBuwFBVV95cUxNcC1zUllIQXBvS0dqWU1xUHBvZW9CdVJRaHgycXFpUnhKY2V2NGFXUWh6QVlYaEN5MWQwZWRiMkpWd0t5aHpFLVhJdzlRVWp3QTRTR3F6MGhBZUZLRGp4ZjJSdHMyNVpBQTlkNmZXRm1iX1FmNFc3TDNHejVoVUN5anlxc3dWelcyUUladWx1RmpfcVBWYXVkT3NKWGdvR2JQRDhLR3VyRGJPQUMtRG5Vbnd4UU85d2tVU0tz?oc=5",
+      "source": "elDiario.es",
+      "published_at": "2026-08-15T20:37:06+00:00",
+      "score": 65.35,
+      "corroborating_sources": [
+        "elDiario.es"
       ],
       "signals": {
         "source_count": 1,
@@ -71,24 +101,9 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEtEZ0pWZUMxdEpudlRQWnZLdTF6N1VsNHZXcEg2WHd2RFdZTXlOcExuM0V4VndpNExlZG5ILWRvTk1mT1dXejhGNlRwZDFuRnROZFVwcWl3Zm9OUU53RGVwcVI3NVVZSWNlb3lNQzB3OUFpOVAwVDZWdjlCWkczb0I1Vm0wS3NnQzNNSWxDRm5aM3dFdDVPbHFTa2U4dlp2SjZLdTVxbkJ6amM3ZF9GaERydGZsMzZoOWd6RGV30gHYAUFVX3lxTE52ZlFfMTJVTlYwWmJxLXYxTFRFYl9yQVU4akRCT2FxSDIwNEFqNVJyNlJuUk8wV1FhODdPQkVFS1VFdXBpTk5iQTJoN3JMX3V3SzVZaTUwUE1ONzlQWUhfSVdqN1dUT3pNM2x3VU9sWmNRMUNITTZ2bkFENjBWU29NYjgtYjFqaXVEWVYtZjdEbENTQ0pONVd4ZF9uWk0tNzRseTU0dk8ycGVjQ0R0NWNxQjdPLTBVdTVGMUdyNy1IVjJoY1hGa2VnbDdvaDc4UUJfM3g0cm9DTQ?oc=5",
       "source": "Infobae",
       "published_at": "2026-08-15T19:45:00+00:00",
-      "score": 66.78,
+      "score": 64.52,
       "corroborating_sources": [
         "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0b5223c195e30101",
-      "title": "Ex diputado Rafael Méndez cuestiona servilismo de la política exterior dominicana ante Estados Unidos - Tercera Información",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdWk1dk9qZ25RSjBJakJfdzY5LXBnckhjR0xGM2ZNejR0di1ZcGFFZXotWFBiZ0N2MmdETFJfYUpNRGFidEExZktKS0F3Um1QeDQ0Uk1mQ0haSUhpeVNzWFFYSENDUi1pY3prUDJwRVljT1hoS2xjN2FraTNxeFNXQWtuQ2NrNVR4QW1xdjJsLXV1VkJrUVJyVEhXRW1hY3JkNWZBRENxNzR4TXFOcUpScEtvN2hXam5wczhycklLem5aandCZ3FYbGJPRjNteFg4eEI0LUNwNTA5V2JyWXBMVW5Hcy0yR25WSXNpOVAzV1IyZEJ2S1hZYW1YS0paUTQ?oc=5",
-      "source": "Tercera Información",
-      "published_at": "2026-08-15T19:22:57+00:00",
-      "score": 66.41,
-      "corroborating_sources": [
-        "Tercera Información"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +116,24 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGM4RmQzcjVVSm5CQnFZaUVFRUY4N2o2b0lpYkw1TE9BWGYteWIzQ21CNWhmVUo1VTdmeDlBdFZlTGsxTTRHQm9aeTdHNTBKblhZMTFLbVI4aXFzLUQ2aVBSdEp2R3dUSTlMZE1pa2k0QWVTLXNyaVpveERDdDA0NTlPS0tNcV8tMVl5NEFYYkU5NUdBVVFEOV83TEduM0F2Z1J0c3FDOFlNRkxSRjJXRGtPSQ?oc=5",
       "source": "cnnbrasil.com.br",
       "published_at": "2026-08-15T10:00:40+00:00",
-      "score": 66.17,
+      "score": 64.45,
       "corroborating_sources": [
         "cnnbrasil.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0b5223c195e30101",
+      "title": "Ex diputado Rafael Méndez cuestiona servilismo de la política exterior dominicana ante Estados Unidos - Tercera Información",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdWk1dk9qZ25RSjBJakJfdzY5LXBnckhjR0xGM2ZNejR0di1ZcGFFZXotWFBiZ0N2MmdETFJfYUpNRGFidEExZktKS0F3Um1QeDQ0Uk1mQ0haSUhpeVNzWFFYSENDUi1pY3prUDJwRVljT1hoS2xjN2FraTNxeFNXQWtuQ2NrNVR4QW1xdjJsLXV1VkJrUVJyVEhXRW1hY3JkNWZBRENxNzR4TXFOcUpScEtvN2hXam5wczhycklLem5aandCZ3FYbGJPRjNteFg4eEI0LUNwNTA5V2JyWXBMVW5Hcy0yR25WSXNpOVAzV1IyZEJ2S1hZYW1YS0paUTQ?oc=5",
+      "source": "Tercera Información",
+      "published_at": "2026-08-15T19:22:57+00:00",
+      "score": 64.18,
+      "corroborating_sources": [
+        "Tercera Información"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVNmZDJpQ0plQ1poZW9jTUhOSmF2VTV6MHlMLXhPbWNiMUlxa0l4WWJhMGp0MmYxVHU2S2xzOThkZGs3ai00U29hMF96ZGNTMWoyVUpVWW8xSGtuZ1VYdjVNM0JoUWJtbWVQcl80T2xkMG1fRnQ5ekZqa0tpQXlrN1EwdFk5RkMxSGVaU0VZeldfbGZSSExvQklBbThQeXF1SkduaW1YS19rMU1teTZRYk1tYUh6d0FaSGl1MmprRWYtRE3SAcgBQVVfeXFMTWNfTjRNdHQ3dGlKX1U4RGRfUU5HMnUzVVlIR0ExSDlZdVdCM1UtNklJSWVVWmRXVTdzX0hFRXRwRWVISGdOU0Zsb0tnamd1Z2VBWGJUdDRUY2ozX0hqWDNYMnNpc0RRSFplVjhfTWJwS0kydk9RUmhoNk9hdVUxM0xVYWIyMXpIQWNWRE1uQ2MyWjBuOWxNWUdmUldleDI3TS1ZNm5hNjZ2dkVCRVhWajJ4M0lPMzBXSjNCLWktM01temZVNjhTbXM?oc=5",
       "source": "Perfil",
       "published_at": "2026-08-16T01:44:00+00:00",
-      "score": 65.34,
+      "score": 62.68,
       "corroborating_sources": [
         "Perfil"
       ],
@@ -131,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXRyX2ktM2VLVTFRZFhjaVF1QVgtSTlNSmhiTUNxUnlab3FJTUhzM2I1UFk3eW1SdVdsUlNLRjBuSEdQalNLcVZKeGxxNkpOMVhOVFNnUTZ4UHpWVDlQX0kzaWxvZXR1YXQ3TEg0elh3YklRVUNJVHBDNWJSeGtkOTNscFl6aHhmaDBxU056SlpEbEN1LXAwek84dGdYTWFEclQ4ZjU4Zl9CVDZhUnZZUlhhYk8?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-15T22:22:16+00:00",
-      "score": 64.52,
+      "score": 62.09,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -146,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VT3puSEV6RjY2UUJidnRVQ3BQMjZlOGlvcWJwT0ZIRlYwUWl5WjVoLW5NUURINkZ6WDV6NkQ4Y1JuNjBkM2FBdFo0aHltVlhVdld6b3BRMU1ScFRHY3F1QlMxR2ZEY0lkX2ZBcWxBQmMycVFQcVFRdXNPd0w?oc=5",
       "source": "Razón Pública",
       "published_at": "2026-08-15T16:57:00+00:00",
-      "score": 64.06,
+      "score": 61.98,
       "corroborating_sources": [
         "Razón Pública"
       ],
@@ -161,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMllsbmhwS0RIdWVVYlRZdGI1VHdnb2ZnZ1o4d01iZlRsOE9seDZwWkZrMnp4ZnJsR1oyYW9GbEdjMWV4dGxPek8tRzRkdm0wQTcwck96NHRsRVBoTGZ4QTZ6R3RscWVRbVpvQ2VjNU5aVHU5ekxOSnBvNk9RUnI4MHFjQkpMWU9uVmFZaVAwamJMVG1aenR4NS1aNWdjNGVJZDgyN01RQWlSSWNV?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-08-15T16:57:00+00:00",
-      "score": 64.06,
+      "score": 61.98,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -176,24 +206,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkVpTkk4Q2ZYcFVwT05LbUs5dDhHckZaOVF5NHltTl95dWtDdmlzbHIycTNwZ0xCSDY3bFlUQ1pYQVE2YkI1eXBRVGo4Q2xKNWxCUW44LXBfdjhxSklWQjJMelBIaFFkbG5xb1hsUU5YYVBSa2hvakRIX1hoblp0QzVqejBJNV9wVWo2Y1NXTEUwV1p5S2NROVhyTHhLcDBXMVE?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-15T19:55:09+00:00",
-      "score": 61.95,
+      "score": 59.68,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "205fe52244686c79",
-      "title": "La adhesión de Milei al Consenso de Ginebra: una ofensiva internacional contra el derecho al aborto y mucho más - Prensa Obrera",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFZqUE12T1ZzRTVVOFl2dTJ1bHBYVnZpNVFFS1A5eWFrZFZOeTdFbU5kcVctdzlMcWJLTGlQYkM1eV9jeGhCb1JianNFa3doNGVMTFo2LUpXNmhNSkNJRGluSHpoRlZLRXRrYnBBOC1PWk9lWkd1a01YMmtDeW9naGlyMG9yd0hGMnVkZ1RtV0h5ZmFFYUhyV05FaWN5cDNIV01FcFcwZlVlR0JmR1JJQ21JUjg5V1lDREhoZkdXaXczRTJUaGZpZ0xzNV9mS29qeWc1WV8yTXg?oc=5",
-      "source": "Prensa Obrera",
-      "published_at": "2026-08-15T22:13:55+00:00",
-      "score": 61.37,
-      "corroborating_sources": [
-        "Prensa Obrera"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdF9HendLSk9DdFZCTk9ZWUR3ckViMURxcEIwVWVWRkF1VGlTRXZhLTVJeUVBLXRpUXo2U0pWNGo5QUtPSnBkOUN2YjMzX2d4TmxNSmxDVzdDQk9qcHBUU3cwblIyU0wwTU15YkUyTmd4UU91NHFrY1ZIZUVRanA3Q0U4enFZaTl5LUpnRlUxNjlmbldEZDBJNU90T0g3a3dMcG9mM2pTdUN5R3ZuWmpV?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-15T18:28:03+00:00",
-      "score": 60.51,
+      "score": 58.33,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -221,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWl1VlZuR2xpV1JIQzZfaFFFOGFwclNZaDM1dGJxdmpROXJkckRoTFE4c2pZSmY4OC10T1R0QzJDVUczV2hDXzdIZVppd2l4RU9rNkduSGIxNDZrSDJBMXJ4Q2ZheDJxcTVhWFIzMjVTWGtRSlI2Vi1GRi1fSjdHT2dEcTJqcmlaNHM0Y1JhMDIxdFY3V19vcw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-15T16:34:34+00:00",
-      "score": 58.71,
+      "score": 56.65,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -231,14 +246,14 @@
       }
     },
     {
-      "id": "fa84f27ec0124ee5",
-      "title": "Terremoto en España: Cancillería activa monitoreo a residentes bolivianos - lapatria.bo",
+      "id": "38694badc2114c1f",
+      "title": "Terremoto en España: Cancillería activa monitoreo a residentes bolivianos - La Patria 3.0",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVJVYXFnY0hWSlNvQTN4bDd2UThWREpXaFNMWXJOMW5wbzA0UUJJUlUzLUJ1UktKcGRRWGZ3TTJjYzlxZ29scTN3OG5ORU9MWWc1S194ZDgyN3NIOFNnTXBjVUZ0N2RaLTU0WEdTV0l2QjFpOHYtYzVDS0pEV2s3cG1ndzR1Y19faXlBUEdsSl9FME05eFFURy1uTThQSndNM29Z?oc=5",
-      "source": "lapatria.bo",
+      "source": "La Patria 3.0",
       "published_at": "2026-08-15T18:06:35+00:00",
-      "score": 57.16,
+      "score": 55.01,
       "corroborating_sources": [
-        "lapatria.bo"
+        "La Patria 3.0"
       ],
       "signals": {
         "source_count": 1,
@@ -251,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalFNSXpkQnVRY1hEUi1nTTE4dVVKTDBiYUhnNDNvVmwyQ1pLNW5KODJFZHBJUVhlYlhZSkVxYW5qdTNqaHpENWpoRHNkTS1HNDd4bkJ5MHZQLWFNUk1OazFxNy1SYmpucnZrRUZMR28wcFM5aEJOeEFlY0xFc1c4LVRXWFFDWExSMDM1cmVwRTNseEo2eXMzTE52VmtnUnhzUDVyOVVKU1ZzeE5rYjFpcGl6dXhoakFvVXFWeGI1enFHWG1PZHAxUVpsLUVtZw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-15T14:00:00+00:00",
-      "score": 56.42,
+      "score": 54.5,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -266,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1NJOWZaNUFiQ25EM1hMOXI4MXF1VkIxdGROV1poZWkxelVESEpIVmg1QjQyNkdQSkk4aVl0UFlGalJWaERqUHUzZzdNS0llNnJQVlVicTJQekFWMlV2X1NsRjVuVWwxN3UyUW56S1dTektwNTJHdV94ellncDUwNW9IdHVnUGMwTzJLYzR5Y040X1ZGeHc5SXhPeUFTRDBsMmlSZHhxTWM3NTVTdUhraWw2U3NKekk?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-15T13:00:00+00:00",
-      "score": 55.57,
+      "score": 53.7,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -281,22 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUxsU2Z4bWtlazV3QkdBWFg4S3JZbnZaSU9tcjNyRkVaZllxUl9zWjJVYWRvM214WDVkbTcxMkhXTGpfR1hieF9kVmM3dWk4RjNWSkhFdFhzVVJhbjBZNUkydlNONVFtUEVsOUNLMF9SU0phTy10MVVPRk9lNGd1Y1pVbHRnR1F6SzgzZ1ZDSTcySmNVUDQ2b1hVLW4xeVFlV0did2Fpd29vYWlHWUVBYkdWVHdPZHBpQlVDSzRB?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-15T12:52:13+00:00",
-      "score": 55.46,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1349ce02a822b2fb",
-      "title": "Alemanha debate fim de lei de 1949 que proíbe lojas abertas aos domingos - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFRmNkZXdGludlFkRG0yOU02YWhJbmh4LVBvbWlnMDEzY1lKVHNmc280YXY4VVpOODFWRDlLOUN1eDJlX01MMU8tcXU0VGVXaWx3V2lLSnNkV25PM2RKN1hPX2JGQm4yZTZ2MzBGSW1tXzR1OE94XzRCdElRcXgzaEhJZmRsVG9pLTB6bl9OS2xhdU1sS2gzS0NoZThPai1NRjJnU3Y4b1VDZG5XblVQcF9haHp4RWZ1ZERsUXB3?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-15T11:07:13+00:00",
-      "score": 54.04,
+      "score": 53.6,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -311,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSFR0MW1QNzc2VGFYSnYxa2RxU2htTU1MUXpsVTl0dkxPdHdpd3FIcGRfZEc3TUp4VEI5V19Tc0owQm1zLVBxd0djREhwVDZYcnJVbjNBaThadGJmTlNnM2Z4NUpsTEY2V2ZUNWxxck1HOTJVRlNGMjNuZXp6M25Qb3RYT2VfWV8zVG9GclUyeWlnZ1RmU1BRejRaNHFrSmp6MGFxRHBSNHVyRXVnb3AtcTVVb01La0hQZ3BFSWRoY1NVdXFjakhqakp0aks4a0RPcnY5Q215YW9DV2s4VnJrUjZmLVNBUVJWejZ0TzBUb2xqN2M2bFZNOTAxMnRRV3I40gGUAkFVX3lxTE5xSnQtcW5FNkY2RkYwWFFHZi15Q1JoMHVhWGNMdVE1R043YklkbVEtN09oelBqbzNubWlrcmpod1VKT003LTBvQzZBVWhVZFJiazFfM1RWZHlWeVBqS0xYRkFfLThud1N2aHZzbkZIaXl0QXM0QmdWdUtzRjJ5VjZVejZ6cS0xNmlZRjR3N09JbnllaXBCWWd4QkdnUjJYQ1J5WGxGZkpRM1Q4TUZ2eXhfNkFLei1RMURYZkdWWHMwQVEtRndNM1p3TWx5Z0lEbHNaOU1mM25wZU9TYnpqM3Z5NjJRZDFHV2hfU2ZsY2JzRzBpbVZtZkprOTl4TllTWWIxWkxDVzAyZHhvS0VyZlM0NHZCYw?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-08-15T04:00:00+00:00",
-      "score": 53.91,
+      "score": 52.46,
       "corroborating_sources": [
         "EL PAÍS"
       ],
@@ -321,14 +321,14 @@
       }
     },
     {
-      "id": "2195a1baca219632",
-      "title": "Governo combate as influenciadoras “tradwifes” na Irlanda - brasilparalelo.com.br",
+      "id": "11de19cdb507baf2",
+      "title": "Governo combate as influenciadoras “tradwifes” na Irlanda - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3JoM2MyTW9tNVpFa3NOT21sR1ZsenNicmFkZmRaMlNwVUNTWXpqV3pQR1FWbUs0OTA2VzU4Q2hXakhqUHhDR1RBTHFzT1EzZ0lESTR1YVExNWZ0NHZCeEliV09HS2hGZEQ2dDdPSGdZZERsWDlRTVU5bkE5U04xMklZOXhLZ1YzRWFCaTRvVmxJNGZVUGxac3RhbWVKem8?oc=5",
-      "source": "brasilparalelo.com.br",
+      "source": "Brasil Paralelo",
       "published_at": "2026-08-14T22:33:53+00:00",
-      "score": 53.63,
+      "score": 52.38,
       "corroborating_sources": [
-        "brasilparalelo.com.br"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -336,14 +336,14 @@
       }
     },
     {
-      "id": "7aed2872737e0f9d",
-      "title": "Javier Milei: la política exterior como batalla cultural reaccionaria - ladiaria.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXdwcHpkNEhIUFluWUhHa2JkM3kwYlI3LXRtNk9hQXZqZk5vbmZyUzN2c0g4MkFocFpwWVNvMEdJeWZQMlJJV1RNaHp5dWItRU5fcWtJN1RKYmNCU2RwMXV5OUdJRDJKSU9lNWVDblR6S0dkR0ZIYTNLX3JxcGt2dGdybXBNRWxuakRhRGZ3aGVjSk9kR3F5cnlZblV3S0NnRXVNTTJrazJfRng0TGVRdEJ2d1hLeWtw0gHIAUFVX3lxTE9icEs0N1NoSUV6a212cG1BWXdZWWpuaVZLR0dVQkJGOFVXWmZtTzJVb3h4dHhXWXN0cjI1dDl2ZmFfckJhWFlJM2J2dTNDMURfNEZEbXNVZm5odVpPSHp5RWgzckxfSjV2ZWtXMloyTzFzTlJwOW9kT2dZSVBscndVLVNEMlFIa2h2YWZwM09uQkktVkdwblU3WnNBZWxjYkstVnpTSEpNRXZ0eWdUTUs5QjNJY3EtZ1FGSTZLWFNxbjVNNEw0UVQ1?oc=5",
-      "source": "ladiaria.com.uy",
-      "published_at": "2026-08-15T03:21:08+00:00",
-      "score": 53.5,
+      "id": "1349ce02a822b2fb",
+      "title": "Alemanha debate fim de lei de 1949 que proíbe lojas abertas aos domingos - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFRmNkZXdGludlFkRG0yOU02YWhJbmh4LVBvbWlnMDEzY1lKVHNmc280YXY4VVpOODFWRDlLOUN1eDJlX01MMU8tcXU0VGVXaWx3V2lLSnNkV25PM2RKN1hPX2JGQm4yZTZ2MzBGSW1tXzR1OE94XzRCdElRcXgzaEhJZmRsVG9pLTB6bl9OS2xhdU1sS2gzS0NoZThPai1NRjJnU3Y4b1VDZG5XblVQcF9haHp4RWZ1ZERsUXB3?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-15T11:07:13+00:00",
+      "score": 52.27,
       "corroborating_sources": [
-        "ladiaria.com.uy"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -356,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcjFrLXJENkdtTjNtSVJzWGpRMExCZEZIWGdJTnhqZUR5LUVpMkM0c0RGdFpiZFQxcGNjZ2FLUGdGS0UxbHVrZEQxM0d1eFZOaGxiMmJLWkUzdkU0OXBCSWxLei11bFJGQ1F1ZUxfT3psRHdFcGdILUVZR1RDVFE1N0xBR29CVnoxNVpFN0lNbGJIXzJONzloWWdCQl9GV2thaUJBZXVoOFFRU1gzWlpn?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-14T22:11:40+00:00",
-      "score": 53.42,
+      "score": 52.18,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -366,14 +366,14 @@
       }
     },
     {
-      "id": "acc9055e76683585",
-      "title": "Estados Unidos na América Latina: americanos planejam levar guerra contra cartéis para terra firme - brasilparalelo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDktZzFaSEZZelNZUHFwWUIxNFhVNjUxaUpPbFpuenBhZG9jeXRWeU5mYW5nR3ZtZVc2NHdGMEJJMEQ0a2lhc01PUFVRcWNuWl81QlZKVUhZRWZKeW9lN0o4LVRVXzZTZjI2NGF1TjdDTzNEM2xCbncwdlpIUzBUTWZGTU1GNURab3oxb1QydGEtODZoUzlUaFlSUGNrRjY5WDJyd0VGcm8zRlk?oc=5",
-      "source": "brasilparalelo.com.br",
-      "published_at": "2026-08-14T21:58:53+00:00",
-      "score": 53.3,
+      "id": "7aed2872737e0f9d",
+      "title": "Javier Milei: la política exterior como batalla cultural reaccionaria - ladiaria.com.uy",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXdwcHpkNEhIUFluWUhHa2JkM3kwYlI3LXRtNk9hQXZqZk5vbmZyUzN2c0g4MkFocFpwWVNvMEdJeWZQMlJJV1RNaHp5dWItRU5fcWtJN1RKYmNCU2RwMXV5OUdJRDJKSU9lNWVDblR6S0dkR0ZIYTNLX3JxcGt2dGdybXBNRWxuakRhRGZ3aGVjSk9kR3F5cnlZblV3S0NnRXVNTTJrazJfRng0TGVRdEJ2d1hLeWtw0gHIAUFVX3lxTE9icEs0N1NoSUV6a212cG1BWXdZWWpuaVZLR0dVQkJGOFVXWmZtTzJVb3h4dHhXWXN0cjI1dDl2ZmFfckJhWFlJM2J2dTNDMURfNEZEbXNVZm5odVpPSHp5RWgzckxfSjV2ZWtXMloyTzFzTlJwOW9kT2dZSVBscndVLVNEMlFIa2h2YWZwM09uQkktVkdwblU3WnNBZWxjYkstVnpTSEpNRXZ0eWdUTUs5QjNJY3EtZ1FGSTZLWFNxbjVNNEw0UVQ1?oc=5",
+      "source": "ladiaria.com.uy",
+      "published_at": "2026-08-15T03:21:08+00:00",
+      "score": 52.07,
       "corroborating_sources": [
-        "brasilparalelo.com.br"
+        "ladiaria.com.uy"
       ],
       "signals": {
         "source_count": 1,
@@ -381,14 +381,29 @@
       }
     },
     {
-      "id": "431434100b701a8e",
-      "title": "Vôlei: CBV bane mulheres trans após aderir política do Comitê Olímpico - metropoles.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVk9BelBpcmVBZXE0cWRoenppOEp3SFRKMFpQSFA4enRnSUF5RFdTMTZ1Rkt5LWwyU09SQkUxd1JOZWJ6cGZ5S1VKMUNUNHMtTmwwNE81UW1VTGZrOFpEblBfZEN3S1p0QnhFcWJ5M0VXb2JldkpRaUN4b1ZSR0lMNkhVamk0OW1TdFQ5NkRfUG14TndVdGxMXzE4UXFHcGhhNERjeTJzb2c?oc=5",
-      "source": "metropoles.com",
-      "published_at": "2026-08-14T21:54:00+00:00",
-      "score": 53.26,
+      "id": "6c90f8452115c2d2",
+      "title": "Estados Unidos na América Latina: americanos planejam levar guerra contra cartéis para terra firme - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDktZzFaSEZZelNZUHFwWUIxNFhVNjUxaUpPbFpuenBhZG9jeXRWeU5mYW5nR3ZtZVc2NHdGMEJJMEQ0a2lhc01PUFVRcWNuWl81QlZKVUhZRWZKeW9lN0o4LVRVXzZTZjI2NGF1TjdDTzNEM2xCbncwdlpIUzBUTWZGTU1GNURab3oxb1QydGEtODZoUzlUaFlSUGNrRjY5WDJyd0VGcm8zRlk?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-14T21:58:53+00:00",
+      "score": 52.07,
       "corroborating_sources": [
-        "metropoles.com"
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5e37ea309f5a04f2",
+      "title": "Vôlei: CBV bane mulheres trans após aderir política do Comitê Olímpico - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVk9BelBpcmVBZXE0cWRoenppOEp3SFRKMFpQSFA4enRnSUF5RFdTMTZ1Rkt5LWwyU09SQkUxd1JOZWJ6cGZ5S1VKMUNUNHMtTmwwNE81UW1VTGZrOFpEblBfZEN3S1p0QnhFcWJ5M0VXb2JldkpRaUN4b1ZSR0lMNkhVamk0OW1TdFQ5NkRfUG14TndVdGxMXzE4UXFHcGhhNERjeTJzb2c?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-14T21:54:00+00:00",
+      "score": 52.03,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -401,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmUzZGNsbkZYTHROY0pqSVVvQXFJLUdySHVlQmxiWnM1cF91ZWVIVE1LdFZfekZWc1o1YmpKcmtqT3VJS3c3aENQSVhKRS1pWndHYTBmQnpSRkUxX2hrZldybEFPSmh2eE1KSUYtT2ZhNXRMM3M5b0xJT3dqR0x3eGdfSWp2UGE2andZUW1NVE44OFhqWDJsS3dyNkJMYll2WEc1clJKWFVtN2NCMl9EZ3Z3?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-08-15T10:00:00+00:00",
-      "score": 53.16,
+      "score": 51.45,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -416,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSkplUU40UGgwYUFJTXFReEpCdDlUUmZNMTd3ZjlXMFBGUXJ0THJoRENZQnIzV0tDem5vUXYxYUhXc2FiX0hidkduZ3lZWFRqQV9mdnFvaEx2Q3FKd0huNW1NZE51VklvYlZSbjQzbHhtZlo0YUtHYmxwNzc1Q2VDdGg1OVByUlRJTWVUd3dSOUhsR3V0aDR0T3loeWNLZXZRaUh0elU3RS16LWRUUTNoSzJYZFM2emQzbC1DN3ZBcUp1NlFwWVN5VmhwNWd3ZFdaTkhsdnRVMWtRWWs0S0xCSVI0VFFqcmM2VU1GM3hSVQ?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-08-14T20:40:00+00:00",
-      "score": 52.59,
+      "score": 51.41,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -431,24 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVjVXOEgzR05jRnhHaWZ4Tk5ZU1hXY1kzN3BpVkhoWFVfNGJjWHRMcG9BUm9LV2k0TWFrLTVsdjdsaERBZ2RxakxFMkVLcUFvbDVsRXVlcnNCdW9lNWhPQjczbWpEdWd2a2M0T2stY0VSX25iMzhVRkkyLUJOZUc4WURrRF9KcmNWV3NuV3hwSE9ycW5qUEF3WTlSTU5MM2VjWU9yUkpDamItOV9GWGRIb2ZWUlVXX3Z1cWhNRzlwbzIwTW91NDJKa1pFT00yZkhXTHVnUVhiQWJhZWNaemlDSngzUlhnZVVYaWREbUVMZnFEYkxDSnJnM296Zw?oc=5",
       "source": "O Mundo Diplomático",
       "published_at": "2026-08-15T12:55:27+00:00",
-      "score": 52.51,
+      "score": 50.64,
       "corroborating_sources": [
         "O Mundo Diplomático"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8c1d90b75563ef32",
-      "title": "Consumo e preços avançam e eleição complica o quadro para a economia - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjNVWG5QRFhib3o2NHdMd3ltbUlXaWdLQVBGckRwc3l3VFd2bmI5RWd4VWRsSFIydEVITERHTUFRNGZjVmdORm0tdVJqQXhBeGc3aDBvc1VQS3FsXzBJUEJIbGpMTzlocVlJdGtRWFZJaDc2UkdTZ0N2MEJYMjZaS1lOOGxjVVRtS01tNmxaMlBqVEVWSFVSZzUzOE9PcFo3THR1Z2tCZEPSAa4BQVVfeXFMTk1iaF9yZ3VCa2pxZDlScm1aNjg5WkVocENlN2UzOVFNckNmWHo3b3J4UDk5OXZiVXV1YmoxUzl1cE5WeVR2NFFMTFVZamI5NkJBWGNnUlFPUGFmcmQ1YVRYUElDWHZxd2NERlRBR1NycUtXZWR3ZlItSFhZME1DbVJLMkctdzllQnNNSW53VmF3NWkwZENrbDJFM3JSbi1ZdEpmNmhnSG9JZlNZQ0Vn?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-14T17:25:42+00:00",
-      "score": 50.95,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
