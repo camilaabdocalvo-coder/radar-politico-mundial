@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-16T20:57:43.610336+00:00",
-  "next_update_expected_at": "2026-08-17T00:57:43.610336+00:00",
+  "generated_at": "2026-08-17T03:29:56.416638+00:00",
+  "next_update_expected_at": "2026-08-17T07:29:56.416638+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "9afa62136800fe42",
-      "title": "Investigação da PF revela influência política do Banco Master no governo - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVZGMV9hdjJzNDhTMTRST05hQjNYd01hX2JOZXJWdy0xUG5MazRSTV9Fa1BNRlZLeldpVVBISmNLeU5LOHV1RTBvaHZxNE4ySUZyRjUyVG9FYTIxdWRyNkRVQ2hxNHM5Z2wyU2NzODhVVFpSa25xYlhJU1F4WWVBQVhPNUczYlpFZktnR0tnUEtGN0ZYSG1rV0hlUW9yY3pjZlRteDRpSGZhTWhsTTBKb1BB?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-16T18:39:00+00:00",
-      "score": 83.68,
+      "id": "80a13e4172f7244e",
+      "title": "Consultas populares perdem espaço nacional, se municipalizam e são até ignoradas - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTU3MDFXUXFlM184b3hnQy1IVUVqM28wNk9KRDNQQnhtQXZRb1NIZDAyU1dsaDBPRjJTVGs1akFIdm9DSmFEU09aWV9DOGtaeGZRYWs4NkItTjJkQzRFUFp0b2tGV1E4ejZCUERfd05tYVF5VUxQQ3prd25pV2hsODdMR0t4SnVhRWhrM0wyZ0puOGJmVTBKcm5teVZNWnJhYjFVdUxkSnpIX0R6N0Q3S2ZvbkRwYVdkZkZ6OWpoQUpHUWNRRnJsTw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-17T02:00:00+00:00",
+      "score": 68.64,
       "corroborating_sources": [
-        "Gazeta do Povo"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -21,14 +21,29 @@
       }
     },
     {
-      "id": "53eae0434fcfcd6b",
-      "title": "Zema prevê união da direita no segundo turno e critica política externa de Lula - acritica.net",
+      "id": "d89888965ffa84d8",
+      "title": "Assista ao vídeo e leia o discurso de Lula no estádio 1º de Maio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDEtUV9PdVMtNXFBTzVQQXJId25ubjFucDFDWGdfSWhZRGJNaDQwTUx2WGNzcFJoTDVuNUhXc2hjQ0ZyTTYtQnJzWFN2SURmMG1EdHEtYUFPVGtQTVd4bklhS3ZWMzVTNC1xLUlKaDhQYVQ3bGtkYmxCUnVNdDhBOHY0Mm9mc2NkZTdSZmNQRGFKYzlXMTVwVTdNdXNMbEU2bC13X0ViMFNLV2paVXJhcUN6aw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-17T01:35:25+00:00",
+      "score": 68.15,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "66d5f02bfffc6fbc",
+      "title": "Zema prevê união da direita no segundo turno e critica política externa de Lula - A Crítica de Campo Grande",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNempyZW5jQ2pMeUJRWXotbUU4bjNtMXIzMVpDMlR0NU1HZmpyS3NobTRHUkJ2UGJwa1loSUsyZ3VqblBFTDROMFVUM01DTV9lbVQ1dUxwWEE2VTJBN2hKUDM2MWtsa29OUVlUTHFFMTlHREFtRTBVclFwV3FtM1JsNG1wU0g0Yy14dmFET1dzaWUyV1VmNGF6TVVDWEVvZjZranpCTlVjY01fbjdLNjl0WWxzVDhldw?oc=5",
-      "source": "acritica.net",
+      "source": "A Crítica de Campo Grande",
       "published_at": "2026-08-16T19:00:00+00:00",
-      "score": 73.09,
+      "score": 66.01,
       "corroborating_sources": [
-        "acritica.net"
+        "A Crítica de Campo Grande"
       ],
       "signals": {
         "source_count": 1,
@@ -36,12 +51,12 @@
       }
     },
     {
-      "id": "95808187df6c4952",
-      "title": "Advierten que RD debe asumir política exterior con prudencia y respetar su autodeterminación - El Nuevo Diario (República Dominicana)",
+      "id": "144aef8362653a5b",
+      "title": "Pelegrín Castillo llama a RD a actuar con prudencia en política exterior - El Nuevo Diario (República Dominicana)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdE1jWVdrbk82bTJWT3hnU0pqWUpJSXdHMU5maVJEZzFVdVJFM29CSF9mWXBodWFMTEV0NnBjQWNfQkQ0bkx2VVV2X3lQZ2NLOFdjTENMMldVNkRQZzlsam5XbUE0ZU9FcWM2cG1LckxCVDVXZnZWam9hZzl2Y1pqdjE5ai1LTGVKck1mMnBGLXBpT19SUDZGenhfcXNsV3NMTUg4OFpMOXFjZS1hVTFFNmMySlctZ0REM21kdjJNOA?oc=5",
       "source": "El Nuevo Diario (República Dominicana)",
       "published_at": "2026-08-16T16:59:57+00:00",
-      "score": 70.79,
+      "score": 64.09,
       "corroborating_sources": [
         "El Nuevo Diario (República Dominicana)"
       ],
@@ -56,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSmVQcDZsWjhndkM2WTE0U1lEdGlyaC1zSTZjNWNSUk9udVdPV29udUpGdl96Q3VKMVJSSnhKNW5GR1N5aWFyS2N1ZVliLWRDRzVhV0dwbDdFTDZIdUtvQ1hwT3VvUXU3ejM5QTVfOHJaNUstSmhZNkg0eV9UVTA1QlQ5clhZRWRyeVlFVjRHaFJPMUV5VFZ6ZFJuNW5xYXVxMjQ5QWtUMHVZM0tsXzhkMDNwUGUzVEIwVHBfdkZlTnhuaW1JaVQzMlR5Q3NyY2FfRGt4Y0pxN3DSAecBQVVfeXFMT3FJOWpWMXhFLW5TN09NU25BRGtMWmpZekpxa2diMm9LTERZWHhCNXBGZExpWDFtU251ZlZEZU04cXRiWHVQSHNMVXB2V2hwN2JRX05OMUdhRXhpOXlQMUNtSkI0YmxZRlZfRDFleERjOVlSNjE0VDlwN05LdVB4NEJsYW9JVWN1RHdvS0NSMVBVU2Vic29MWGZyY1FvWUhnRmFQaHpCdERibG1BTU5nTFBvQmhILWF3RHNmelBMaDVVcjlhb3l5NHliR3V1RWNOVF96eFhrd0lmZURSR3FhanZ0c3IxalJN?oc=5",
       "source": "Valor Econômico",
       "published_at": "2026-08-16T16:52:00+00:00",
-      "score": 70.64,
+      "score": 63.97,
       "corroborating_sources": [
         "Valor Econômico"
       ],
@@ -66,27 +81,12 @@
       }
     },
     {
-      "id": "2b203802fb77e233",
-      "title": "Estado dos EUA cria imposto para data centers e pressiona big techs - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakE5SDNFOFgzeElYRnpyOUV2czhxQkVrTHdJeVVqaTRWbUNxOHV6RGxwRUJwaENBRTRMRFI1SEJERW9sQmJvNnlwM3EtSFozWUVRT0NIOU1XOXNNTUZDbWwyWFpmYk9sa1lpdVJiVGZkY0k2LWltcEhHdThDVjRuWWk3cGpac1RkVUNnZmMtOFlNelNhc0N2SjkyMGRFQVp3WjV6ZHVySDItZzdlRlkwSnAtSkVJZw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-16T20:33:00+00:00",
-      "score": 69.96,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9fa051477ebf2706",
-      "title": "Ataques entre Rússia e Ucrânia deixam 11 mortos - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGd5TjI3TEdlN2RZRnVYZDY4RmVHeldYRC0xNFI1WS04NWNuSmpWTmlRbmEzaVJjVGZ1QUF5cjhsY3I1RDNlQTJNYU5ISVpLV2RpUENOTUllYVA0bVZOa2pOM0xBWlBsLUd4NXFlTzFWdFplbjJYcjNzZ0NHS1U5MlZMYms1S0ZvVGVNX3hjY0VCYWh4dUR5OTlreGI?oc=5",
+      "id": "8f73ab867b3aa30c",
+      "title": "Sem Kassab, Caiado começa campanha com carreata em Goiás - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHM5M28xdHNpakZnUGZuRy1Ra3Z3V0R2X3doSVpKVGZLZzM4ZFRDd05lakJENTdfQzNNMDVYOF9GXzhoaFBHY0ZaU3ZwMGlXaTllUkNkTll4amZsejRqcXlOWmJlX3JCLU93S0g2NzRQQmxkTWIwbk5BYzJiaTdmUGxQM0tNWXpFUzRyRTJJM0J3eG53Vzkxa3VIWk0wMkVSajRDVTg0UQ?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-16T18:57:35+00:00",
-      "score": 68.04,
+      "published_at": "2026-08-16T20:55:02+00:00",
+      "score": 62.96,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -96,12 +96,12 @@
       }
     },
     {
-      "id": "311bcf19cf74a69d",
-      "title": "“Sempre fomos o último obstáculo”, diz Flávio sobre Brasil virar ditadura - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFp2WVZrMHhCWnlHdy1CaGZXaU9UNEFZa2ZoaHM4dlB1cE1CTTRpdUtlVzZVMlc0WG9wbmZoQkQ4Z09kaU4tTTNyUjFWR0hwUVRmMTdPeEJZRlpfNzBvWnBzZHVGUmdKZGxUakxIdUE4Y2ZPY2hOLTkxcDRXbXp3M3lNRW1EQzFXa0hzcW5pRVQyM0xELTdIMkdqLTg4UDZUblZ2aEpJYlZpVWJ1WkU5RGFibV9ORUtSSFow?oc=5",
+      "id": "fbec7e885ef756e3",
+      "title": "Lula nunca baixou a cabeça para políticos ou banqueiros, diz Haddad - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRFRjLWVwbXh0MEhhdDZneDRjaUtVVXktOTN5cGZ4Y0VwQko0QkkzWER5UmFnWFIza0VRUXpBaElzUi04WGRrbmx2UEMtc2hJQzVRMy1mT0VncEZxRERET3JoRk9yM2Q1U3FQTGxaUEZVMHViLU1hRTJMeDBiSUg4QlB3RXRuQl9VZzRhWDVDRW5QZGpvaEZ5OXQ1bk1nb1I5V2lmVUQwc3BFNGtsdC1xTGtDdVByUQ?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-16T17:59:08+00:00",
-      "score": 66.91,
+      "published_at": "2026-08-16T20:23:16+00:00",
+      "score": 62.41,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -116,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3prckxOWWZ5NXFyUjkzbXRJclphNFBLSVZCLUxHWnptU0FrLWtBZmtkeXBMWDU3NmRwNjR0OWQwQW1qc2RQWTRXSEV2QzRFck51MTlYT0JrcTU4UUJHbnBJUUw2YmNZUUpCclN2c1lxYkIybnAtNnFIQWMxcXBDd0ROMTZaWE1naTU3eWNMRnRiMWs1LUVkcllKeFZsM2kyNFhj?oc=5",
       "source": "Coluna Política",
       "published_at": "2026-08-16T04:05:33+00:00",
-      "score": 66.64,
+      "score": 61.96,
       "corroborating_sources": [
         "Coluna Política"
       ],
@@ -126,12 +126,42 @@
       }
     },
     {
-      "id": "02ddfe82fc8fb8fb",
-      "title": "Lula não pode pisar em Copacabana porque é odiado, diz Flávio - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUZqZEphU2hFeV9PN2dQLVc4VENPaTItWlRacmdLRXVzUlo5MjBwdHhSMkNBWXNNMzdiUXdZdjFSN3JLSkdmQkdWdXhBbnExVDE4OERLNzlOdEdrV0ZwWGQzMHNwQ0pJNXo5Y2h4T2JmYWVoNk5zNExIMWhoTHdhN2FPTk9ENUVFbVJiSXJyTHZ2N0ZKQXk0dTRiX1ZpU2FGUFhYRFVRRHUzaUtScGc?oc=5",
+      "id": "54648e6c20bd1737",
+      "title": "“O barbudo tem o STF e o dinheiro da corrupção”, diz Alfredo Gaspar - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1JvMFhOTXJ2TjVRZUVNNUJaSXZGcU9BanFHVzNJaUtGVjk5ZUZobWZlRzg1UjhKMGNha2RwQm4yNXk4N2NaYll3NllwRWd5X2tHN3ZkOVd1VE1oaDduY1licXIyRlJTTzZwM1BPTDNSazM0RzNDdUVTRFdTYmRiR1AzRHN2UDl0dDNmVWdLTmU3TTdYYi1tNWV6SmlGbjhZYUF1WW4xTVYtUG1hSVZhUWlScw?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-16T17:03:10+00:00",
-      "score": 65.85,
+      "published_at": "2026-08-16T19:34:52+00:00",
+      "score": 61.59,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9fa051477ebf2706",
+      "title": "Ataques entre Rússia e Ucrânia deixam 11 mortos - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGd5TjI3TEdlN2RZRnVYZDY4RmVHeldYRC0xNFI1WS04NWNuSmpWTmlRbmEzaVJjVGZ1QUF5cjhsY3I1RDNlQTJNYU5ISVpLV2RpUENOTUllYVA0bVZOa2pOM0xBWlBsLUd4NXFlTzFWdFplbjJYcjNzZ0NHS1U5MlZMYms1S0ZvVGVNX3hjY0VCYWh4dUR5OTlreGI?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-16T18:57:35+00:00",
+      "score": 60.97,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "311bcf19cf74a69d",
+      "title": "“Sempre fomos o último obstáculo”, diz Flávio sobre Brasil virar ditadura - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFp2WVZrMHhCWnlHdy1CaGZXaU9UNEFZa2ZoaHM4dlB1cE1CTTRpdUtlVzZVMlc0WG9wbmZoQkQ4Z09kaU4tTTNyUjFWR0hwUVRmMTdPeEJZRlpfNzBvWnBzZHVGUmdKZGxUakxIdUE4Y2ZPY2hOLTkxcDRXbXp3M3lNRW1EQzFXa0hzcW5pRVQyM0xELTdIMkdqLTg4UDZUblZ2aEpJYlZpVWJ1WkU5RGFibV9ORUtSSFow?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-16T17:59:08+00:00",
+      "score": 60.03,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -146,9 +176,24 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzE2Zkp6QVlLcS1OMUFrOWdmdEUtV2R6M05RSkxodkU3bGhSTjlWZXlGTUd1VFZ4eVl6QlpoUDRuaGZsS1R3bFJLYWFLRDl2cVRRekFqT2tteWNETl9IZHRrRGs0cHkzS2JyQjJBcUJQVF9xcFp0UlR0WWF6R29GREk2TDJwbDNIb1VzcENPU3VsLVNqWlZIWXVqSWNweVVnVGN0NlpoZXBzeFpLVG1ZdDdFdHh6MTFXWVE1Y182Y9IBvwFBVV95cUxNVzE2Zkp6QVlLcS1OMUFrOWdmdEUtV2R6M05RSkxodkU3bGhSTjlWZXlGTUd1VFZ4eVl6QlpoUDRuaGZsS1R3bFJLYWFLRDl2cVRRekFqT2tteWNETl9IZHRrRGs0cHkzS2JyQjJBcUJQVF9xcFp0UlR0WWF6R29GREk2TDJwbDNIb1VzcENPU3VsLVNqWlZIWXVqSWNweVVnVGN0NlpoZXBzeFpLVG1ZdDdFdHh6MTFXWVE1Y182Yw?oc=5",
       "source": "CiberCuba",
       "published_at": "2026-08-16T11:44:44+00:00",
-      "score": 65.31,
+      "score": 59.53,
       "corroborating_sources": [
         "CiberCuba"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "02ddfe82fc8fb8fb",
+      "title": "Lula não pode pisar em Copacabana porque é odiado, diz Flávio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUZqZEphU2hFeV9PN2dQLVc4VENPaTItWlRacmdLRXVzUlo5MjBwdHhSMkNBWXNNMzdiUXdZdjFSN3JLSkdmQkdWdXhBbnExVDE4OERLNzlOdEdrV0ZwWGQzMHNwQ0pJNXo5Y2h4T2JmYWVoNk5zNExIMWhoTHdhN2FPTk9ENUVFbVJiSXJyTHZ2N0ZKQXk0dTRiX1ZpU2FGUFhYRFVRRHUzaUtScGc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-16T17:03:10+00:00",
+      "score": 59.14,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjBKSHdYSGlFcXBadFQyaVA5Y0xWUjRWS2xBeHRTelB1a1Y2eVl1d1NRV09JaTFJMTRxdnh4Sy1lZ2ctZDhwczAwbW9FYUhzMDNqX2NzdEZERzZaM0F4c2ZseENMaGRyXzhtUjNPQjFuQTd1bndIQ3Z4UE82RHFSUGhldFVheEpqSzRDYWJ3OG9sTktRNE5oQnRUd2hVWWxGT2J4NF9IMWh2RHFTdjdFTFhIVQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-16T06:55:41+00:00",
-      "score": 63.95,
+      "score": 58.89,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -171,29 +216,14 @@
       }
     },
     {
-      "id": "15aa96febadfbd85",
-      "title": "‘Toda a direita vai estar unida no 2º turno’, diz Romeu Zema no 1º dia de campanha - infomoney.com.br",
+      "id": "e62ba17bac4e029c",
+      "title": "‘Toda a direita vai estar unida no 2º turno’, diz Romeu Zema no 1º dia de campanha - InfoMoney",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWg2R0p2eVVNTGw1VmtGbTFrWUhqQkIta2MxRHNCbk9nRndNZlRWaDg5WnJ5eC1xX3JlbjZ5bUlCS1RHZEhKeThsekVfRmp0eWt0Q1gyMXVqblV0UHpkMUIxT01TOWowdFczX0RTa3hHUXJpY3dISklsY1B0cDY1bUhyWWJkZUVWZXMxZENUaVpGVHdXSzdBVjNFMUNZU2NrdGVOSjNQQXRDSTNhMTA3WXNWZzlLQnBKaEE?oc=5",
-      "source": "infomoney.com.br",
+      "source": "InfoMoney",
       "published_at": "2026-08-16T17:25:31+00:00",
-      "score": 63.27,
+      "score": 56.49,
       "corroborating_sources": [
-        "infomoney.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f9a17224d6d4033d",
-      "title": "Talibã celebra cinco anos no poder sob críticas e isolamento internacional, diz mídia - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdXdxNWVSMFdvZ2JhSXFtUW1pSjJtbzRGT2t5dDZIaG5wOEdfVTJ2OUt6ZldZYjl5NE1RdjJhYkRqZkpqQllOYUwtZXVnTHh5THI4Y3I5SDNiTUpYSkFGQWo2T0JKeUtSQlpPalNKc0Nncm93RkxLbWNjNFJ3bDhQNThDMWpaemdLX1Jid1dvd2NIVHJraG8wVzRkY1ZPdlE3UkZ2dld1NDJTdWlxWE41a0pwOXJ3VU5KOUhjb2ZrdDVHZDBsTFM4YlpOTExfM0xNODlKMUt6Szg3a0U?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-08-16T15:48:00+00:00",
-      "score": 61.47,
-      "corroborating_sources": [
-        "Tribuna do Sertão"
+        "InfoMoney"
       ],
       "signals": {
         "source_count": 1,
@@ -206,24 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUExSlY1cUhOMG9wMUJ3cjVESUZpaDk3S0l4ZWRYLVlrT09MbjNvRVlOYnlrbjRxWFpLaEEwQzhmOHVTMDVkTlljVGpCSHFqNE9HTGg0UW10cEVuaElGUXN5SU4zVEkwRDlCak1IYU1WdjlBWXJmWWJuVEV2M2l5Z0F3Ync5a2N0bUFTaFE0TURrVmt3MllwNzh6NUMwOHBOREE?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-16T03:15:41+00:00",
-      "score": 61.0,
+      "score": 56.43,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1b3138ca0fcdfa59",
-      "title": "Argentina se incorporó al Consenso de Ginebra, la alianza internacional contra el aborto - Nueva Ciudad",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaVdQeUN6RzRUVXRJSGpfbGt0R1lEbnEwT00xZGVfOUNWckFhSGtydzM2SHJlR3VCM2N2VUJ6VDUzTlJyTGZWdDVmWDRlTjZiTFBKUi1hSFNFOEg0ZEtQSDhCSGI2TlRxaTk2TlBJeGZETi1MS0h0TnJzSnMtQ0lxRWVpRUY2Q1N6MTM1ckxpR1h5MVRlNGp3TVhEYkxEaFBnNFhDakljRVBLWEt5YjhrWF9UdTI2MDRLRzNRU1JTNDRWam9kVWpuMERlOGFnZXk2a3VzMno1UUJVSnM?oc=5",
-      "source": "Nueva Ciudad",
-      "published_at": "2026-08-16T15:08:00+00:00",
-      "score": 60.75,
-      "corroborating_sources": [
-        "Nueva Ciudad"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRnlQdzl5WUhad1lCeDBNYldKS014T242SG10Mjd0TjQ4YzNHT3FJckFqZWtNRjFGQW5oeTJXWUl0TU1kR0ltTmhQdTA2RDBLNm1qZk56YWU5N1dTUGRta0Q2b25sb2pseXpRV3IxSFZPRHgxejJEMnBjZkFBY0pvWXl5Q2I4UVJPUGx3OWw4Q29aQTNtX1A4ZGh6SHM3T3FnZ2VDRWhDVUVBT3BDMU9J?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-16T02:40:32+00:00",
-      "score": 60.55,
+      "score": 56.06,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -251,39 +266,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3NxanFJYlhidks5UFNjMlNyTFFlV01wQW5xS080WVVSeGtwMmlsc3ZtU0VhcDlGVEFkU19VNFNWSHlmZVNjY29DN3BtdlFBYjN4UTJ0QmVtWm9lbDliNHZnN0FWeS1hUS1ibnJOeEYxeFYyaVFJOGotUEhoMW1QcGJDLXQ2eERaNDZId2JyN2xJS2pwMFM3SzgxaUVCLVJ0VnJQZUh2RUJyRWJf?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-16T02:40:32+00:00",
-      "score": 60.55,
+      "score": 56.06,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "13486427c97264f8",
-      "title": "Introducing International Relations: Feeding the World - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sM1NMMW5Wa0lmSW1uTEtKV3lzMXhpQ19ya3JhVTVzXzNtTHNoV2Y0R0FvVkFkSWhLR1NZZHlWX2VIbFkxbnFQZ0pLYk5qWTFGd3c?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-16T14:50:34+00:00",
-      "score": 60.44,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "64b95d59af3494c0",
-      "title": "Introducing International Relations: Protecting People - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRS1VQW9SNHlxNi1LMjU3VlRtWkJYN1RJNXZuY1VfcVpTVnNuYld1N3ZUYnJRNXNXTDRqbFFrMkxDVEEzenNjVTZKc3k0SzhHZHc?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-16T14:30:45+00:00",
-      "score": 60.1,
-      "corroborating_sources": [
-        "E-International Relations"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUNWMS1zNGZWa2taMW9feTBDZS1jYW9pZFlTWHVzeUVya25SV010Z0lHSXZmRzRFUHZWeGFGY1BNYm03bndBZUtXQXR6eGZ2bVRENjZtMzljZkE1UlpYWUNJZW5oc2twdEp0WHhTRGVrenZEejhJb3owZnhxSlViRlNfQzlCQ0lKNVUyc0ktV0t0ZGNHSC1QWFRVWW9JRTQ0Unl0YV8ydUlSbzc1T2gwcTJjclRndE96bTluWkd3?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-16T02:00:00+00:00",
-      "score": 60.05,
+      "score": 55.64,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -306,14 +291,29 @@
       }
     },
     {
-      "id": "71b19198460d00fb",
-      "title": "Introducing International Relations: Religion and Culture - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDRktMR0o5V3hoOXczR2syVEhVZkJDbFdlTXdLYUdTT2xGZDBodXlzc0lmTXJzaDBpcnZtWXpIU0FVd3BxV3UyMW1QQVpHUlVoR0FWMV9R?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-16T14:17:43+00:00",
-      "score": 59.87,
+      "id": "f9a17224d6d4033d",
+      "title": "Talibã celebra cinco anos no poder sob críticas e isolamento internacional, diz mídia - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdXdxNWVSMFdvZ2JhSXFtUW1pSjJtbzRGT2t5dDZIaG5wOEdfVTJ2OUt6ZldZYjl5NE1RdjJhYkRqZkpqQllOYUwtZXVnTHh5THI4Y3I5SDNiTUpYSkFGQWo2T0JKeUtSQlpPalNKc0Nncm93RkxLbWNjNFJ3bDhQNThDMWpaemdLX1Jid1dvd2NIVHJraG8wVzRkY1ZPdlE3UkZ2dld1NDJTdWlxWE41a0pwOXJ3VU5KOUhjb2ZrdDVHZDBsTFM4YlpOTExfM0xNODlKMUt6Szg3a0U?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-08-16T15:48:00+00:00",
+      "score": 54.99,
       "corroborating_sources": [
-        "E-International Relations"
+        "Tribuna do Sertão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1b3138ca0fcdfa59",
+      "title": "Argentina se incorporó al Consenso de Ginebra, la alianza internacional contra el aborto - Nueva Ciudad",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaVdQeUN6RzRUVXRJSGpfbGt0R1lEbnEwT00xZGVfOUNWckFhSGtydzM2SHJlR3VCM2N2VUJ6VDUzTlJyTGZWdDVmWDRlTjZiTFBKUi1hSFNFOEg0ZEtQSDhCSGI2TlRxaTk2TlBJeGZETi1MS0h0TnJzSnMtQ0lxRWVpRUY2Q1N6MTM1ckxpR1h5MVRlNGp3TVhEYkxEaFBnNFhDakljRVBLWEt5YjhrWF9UdTI2MDRLRzNRU1JTNDRWam9kVWpuMERlOGFnZXk2a3VzMno1UUJVSnM?oc=5",
+      "source": "Nueva Ciudad",
+      "published_at": "2026-08-16T15:26:03+00:00",
+      "score": 54.66,
+      "corroborating_sources": [
+        "Nueva Ciudad"
       ],
       "signals": {
         "source_count": 1,
@@ -326,39 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXBJcExqTTA5N0k3UXp6UU90VzR1cWt5MEJBU1g1c2U4Zkk3a1FydlJoNGhoVEhucEV6M2VlMkFkUHFiRXdMcHZKQ2p4RnFhYkZLRi1RaVgtUlpwRUx4Zy1yZnhfYUxxSDNUVnlrM0Nvc3FqQWltU05FMnRYUFpaYmJkTDV2TWZkQmcwR2VsUlhqSW04TU9sbjVVaFNkRUhweTl6WWh6NDJRaHIxNlJj?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-16T11:02:56+00:00",
-      "score": 59.64,
+      "score": 53.97,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b4a0f6919706bd48",
-      "title": "¿Qué cambiaría para Cuba con un Gobierno de derechas en España? - CiberCuba",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHRiX28xX19pM2JGcU9OLU1hVjdZLVl6ZG5FTUJBbGJFbEJxMEdCenM1UThENHZBMkk4cXV6ODJnS3ZYY3ZlLXJlUHJONmdQNVBXSm9iWDNJMXB5Z0tXN3BOQkpmMi1wTnRiWi1xWTVjRzRIQV9JYzl1YkY5dXlXM2VoWjNNdDV5TFY3WlFCNWxEQm5KQkg2RkZ4eGJWNEhMTGR1dXMyWE01UDFBVnk5R0dMdGVacHlSV1HSAboBQVVfeXFMTlB0Yl9vMV9faTNiRnFPTi1NYVY3WS1ZemRuRU1CQWxiRWxCcTBHQnpzNVE4RDR2QTJJOHF1ejgyZ0t2WGN2ZS1yZVByTjZnUDVQV0pvYlgzSTFweWdLVzdwTkJKZjItcE50YlotcVk1Y0c0SEFfSWM5dWJGOXV5VzNlaFozTXQ1eUxWN1pRQjVsREJuSkJINkZGeHhiVjRITExkdXVzMlhNNVAxQVZ5OUdHTHRlWnB5UldR?oc=5",
-      "source": "CiberCuba",
-      "published_at": "2026-08-16T13:32:47+00:00",
-      "score": 59.1,
-      "corroborating_sources": [
-        "CiberCuba"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9ff65b8148b6436b",
-      "title": "Equipes de resgate buscam vítimas entre escombros após terremoto na Indonésia; mortos chegam a 53 - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQk5jMWZsYzlJYVpPWU1YN0g1c2swMXFObmRORTU2TVo1R21LaTRGSzNwak9vODNGVlZYM1NCXzJId3FQeVZ5cHhYdlBmcm9yYTNERTcydjBFdG04U0xkbnhueVJTdEU0UWhtOFB6RUVEOWUzczNoS0pCdGpIdEtOQ1FPMW04c1I1M3ZWanZ1WGQ3NVpxdmVndkFadk82WDlpX01hcmk5NHd5M0ZHQXdOWkZESGc5TTlaY08xYUROdHY5cjRCejhhU012ancwYWNSclB5Q09nWTBGOUw3UjdMUg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-16T10:23:33+00:00",
-      "score": 59.03,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -371,9 +341,24 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHgzWTBmTUpuWk5GOXlCWjBOZktpcmg4bUNLaF9iT2k5SVdWazcyUldpQ3N2azk3R0trMElQZ25JRE9DWnlfNFBEVm9PY01qaW5qN24taEhRdi1FVUwzNlpERzRfYTR6NTAydGlRRUM4NG1KbmdLSTVXUHZWUURnYmlxZ2pIcl9jbUo2a3VVRW1RODg2cHhSNXFKMWFEMms5RlZnNDhwNW9EWHowLUpXMHdGaHdRSHFfQ3VNR1huUVpyaExYajlIcjFxTFNYN0ZvS1VnQllnTlXSAewBQVVfeXFMTXZDc1poNE5GdjMwbm1JNHpQYUtQYzhnRmNpd0x5MUNHT0QtTVdxSDJqOUtfSE5BSWt0bzJfTTVFdEVhMkRFY3JmdTFoSlcxRzQxcUcyUEJ0Z1dWaUF1SmppZWI5d1ZRZE5Ec0ktemVmRXVISnpXc1Jtbm1ibU53WlhhaUJLSUlJblREX1ZWSmJSN0hVQlRiV2dQTXdxVXR6NmRXek42d0hxWklwbXQzemRhUWFqVVhnOVRmemhreThNcEtiT18xRjlmdVJ1NlJnREZmZTdWSF9CaXNVRjhyNW5ZV0ZUUXZrZFhiT2E?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-08-16T04:00:00+00:00",
-      "score": 58.57,
+      "score": 53.9,
       "corroborating_sources": [
         "EL PAÍS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b4a0f6919706bd48",
+      "title": "¿Qué cambiaría para Cuba con un Gobierno de derechas en España? - CiberCuba",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHRiX28xX19pM2JGcU9OLU1hVjdZLVl6ZG5FTUJBbGJFbEJxMEdCenM1UThENHZBMkk4cXV6ODJnS3ZYY3ZlLXJlUHJONmdQNVBXSm9iWDNJMXB5Z0tXN3BOQkpmMi1wTnRiWi1xWTVjRzRIQV9JYzl1YkY5dXlXM2VoWjNNdDV5TFY3WlFCNWxEQm5KQkg2RkZ4eGJWNEhMTGR1dXMyWE01UDFBVnk5R0dMdGVacHlSV1HSAboBQVVfeXFMTlB0Yl9vMV9faTNiRnFPTi1NYVY3WS1ZemRuRU1CQWxiRWxCcTBHQnpzNVE4RDR2QTJJOHF1ejgyZ0t2WGN2ZS1yZVByTjZnUDVQV0pvYlgzSTFweWdLVzdwTkJKZjItcE50YlotcVk1Y0c0SEFfSWM5dWJGOXV5VzNlaFozTXQ1eUxWN1pRQjVsREJuSkJINkZGeHhiVjRITExkdXVzMlhNNVAxQVZ5OUdHTHRlWnB5UldR?oc=5",
+      "source": "CiberCuba",
+      "published_at": "2026-08-16T13:32:47+00:00",
+      "score": 53.02,
+      "corroborating_sources": [
+        "CiberCuba"
       ],
       "signals": {
         "source_count": 1,
@@ -386,39 +371,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZWtzblJwekxsaHZrcmFRdFU1SHVkcHFNaldxUjV2LVk4UnFVMUR1UEdhVDc3VGp0d210N25zcnVVS05jZGNvRnYtZXUycDR3ZU1QMTZiTHA1dFlPcnoyajFkanh1Snl2cFJKWmlrNlFtZ1ZlWnY5cENDQzgxWnZua0dsdzJyeWc0NGJfOTYyS0NnemNXVDZwajQzU3diOERlaUZ1RGN5Yw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-16T09:47:56+00:00",
-      "score": 58.48,
+      "score": 53.0,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1d37d8f9d443207f",
-      "title": "La oportunidad que enfrentan Chile y Perú para superar conflictos y convertirse en potencia regional - biobiochile.cl",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRTg0dzVOU0REUTRnT1VFeWZEdHVoMVFMX1cwdTE5Zk9QbUhvU0lMT21VcTRoXy02aXlqMFZQQ3plMmthcm9hZDNmVkdEV1JuMlNscWhRN3d4a1FMMU5SSXBnRGs5a0dmZlpZaWZQbVBTRTBQNUpvSm13aFNld0UtSTByOXVtNzJpdVFDTmdGVldWYlRycXNsX19hdWpCc1pzUV9Peno4bmtOaXJkckN2Y2xDNjFvZHVtM1ZIT1BmY2dScFRwX1JBcW5LUzFtUVJ2amRGTmFwakJyaGpfOHdUUjRMRUZjcm9ySTIweEJWdTFwSFBvaTBuMjVzSHBfQURYMHBDRDl0aEgzUldSNkt3?oc=5",
-      "source": "biobiochile.cl",
-      "published_at": "2026-08-16T12:01:06+00:00",
-      "score": 57.58,
-      "corroborating_sources": [
-        "biobiochile.cl"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "51102a3124af4dce",
-      "title": "Esperan que experiencia de Lupo mejore imagen del país en la OEA - El Diario - Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pXNzdzQV9IZUJ3TjBRbWRvRVdyMjVzZW9COElwT3gwTHZVcktqc3JMRDVBSDhkQkh5ODQ2RmhHT1lMQjI1bEFaUWZQWm9qVExtMUNEa1EwMERaQmM3QXZlYXh0NW05SHg3dlVLc05GTEtWdEl5WkpLSHlBTDJxWWdpeDJ6dGhsN1ZIUWtmRVBnTkFLbENibDNCSzJJS2dLb0RwVmVxM3ZCR3Vo?oc=5",
-      "source": "El Diario - Bolivia",
-      "published_at": "2026-08-16T11:09:30+00:00",
-      "score": 56.75,
-      "corroborating_sources": [
-        "El Diario - Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -431,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQalBCSndlYWFsbFdsWnY4em1CeG9XUGg4a2VfaElOSmt5TmJFTFpkT1NGT2ZHZUxFT2lqWFZ3RC00bUN4Q1RKRGMxb191RlEzaWJCVlBPU1I1a3hJVGtsZ0NTQktYN2lYSjVsa3FYSk5zTXV3RXU3NkVzeVNrcjA1b1JyVXN3VlVrc0VicHhXak1IRUlBSW11ZC16MkVKaTAtR2NKMTVYcWtfNVJJcEpXbXJlZXZraDJMVzRxWlItZkhJQmhONDJ4ZkpOS05YenNHbDR6bHVoeTI1QTdNMkNKWDZVUFZ3dmxZWmFKcDBoVmJhUG83cDQ4QdIBjAJBVV95cUxObXZFdmlCRldpNW0tNDNpdEdLdUJ3N1psUzVvUlZBeEVPU2kzdS1scllpUlA3aTE4TkY4UXpxS3ZLYk1OMlUtTjBSdTMyZGdxNUt3U3I0NjQ4dWE2LTBZVHRxdWh2R0tVUFJISVJadmFsUkZoUU5BQ3NGWExLTWtLWlI1LW1CYjN2YW5vRV9nWDJSNVdGaVo0MnFQSUVUT2VMVGFrcjJwLThNczI0cmM2dlpleHNuQ0tGYk9XMTM1MVlQcmNGZmdiSl9RVFlwWXlhdWM4WjJlYTd2c2R2TTM4OTlpbDFZclVyLWNxWEZsaEtGMmtjamFtZjMySU90RGJoeFk5djJjalpFZUNS?oc=5",
       "source": "TN",
       "published_at": "2026-08-16T00:47:00+00:00",
-      "score": 56.17,
+      "score": 51.9,
       "corroborating_sources": [
         "TN"
       ],
@@ -441,14 +396,59 @@
       }
     },
     {
-      "id": "17db75e19fc73f40",
-      "title": "Se realizará el primer Congreso de Relaciones Internacionales del Litoral - ellitoral.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMFg5VkZqSXlwX1o1QXR0Ym9ZV05VZU44bUtCLU5DODBIR21IM2pVV0dMMDV3Z1JQd2hQbXFhRWNoY2o5SG5MXzRmdnVndXh1U2p6OTNTYWplY2xHVkh6NGJyTGdzU0lYYk5wRElpQ3NuLVQ4LUFkY1VHLTdpX2xWbFFVNXpEdE5iVkxuRHNxcTZfWHBSa3BYVkhFeXQ4R3hLbVlhbTFwNVgwbndIR0doekU5TWdXT0tFUDYtQTRMc2Q3NEVETWZOMlJWTk4tbGFQbktJNk5jNW55QzRJalNUSjd1Z05OZk50UXZkZjlFdjJxRzBfbWY5M0kzeWNSTXc2cUF2THBVQdIBjAJBVV95cUxNN3lXQ1dkTW9aVE1TVVdBUmd0MGtpeFZhR3RFN3VnY2o4WU5KeElvZDdkWGtIM1NkT09hU0pfVmVwYVBnM29JeXh4ZUluWVMxU2daWmRtM0xwZ3BOd01aSzFHdFVDWlNmRXAwUFh4Y1BZUEQzV0xXNkdzV1dMeU96UDM4Y1g3S0QzZ2VNemZtSnVwYnFoN2d2RDRmZ2pCa3VTRGR4THN0bmR0aDJheWROWHNuYVZvTG4waDQtNVcxcC01TzZ0Z0ZreVQ4NlhGTGwtWjUxWC1qSlJ3Rld6Q3VwUzJub055WEN0eW9yZTN5eEFGRGNXT2hzY0JZV1ZIM2VpTWdQYjFabUhHVHds?oc=5",
-      "source": "ellitoral.com",
-      "published_at": "2026-08-16T10:08:13+00:00",
-      "score": 55.79,
+      "id": "1d37d8f9d443207f",
+      "title": "La oportunidad que enfrentan Chile y Perú para superar conflictos y convertirse en potencia regional - biobiochile.cl",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRTg0dzVOU0REUTRnT1VFeWZEdHVoMVFMX1cwdTE5Zk9QbUhvU0lMT21VcTRoXy02aXlqMFZQQ3plMmthcm9hZDNmVkdEV1JuMlNscWhRN3d4a1FMMU5SSXBnRGs5a0dmZlpZaWZQbVBTRTBQNUpvSm13aFNld0UtSTByOXVtNzJpdVFDTmdGVldWYlRycXNsX19hdWpCc1pzUV9Peno4bmtOaXJkckN2Y2xDNjFvZHVtM1ZIT1BmY2dScFRwX1JBcW5LUzFtUVJ2amRGTmFwakJyaGpfOHdUUjRMRUZjcm9ySTIweEJWdTFwSFBvaTBuMjVzSHBfQURYMHBDRDl0aEgzUldSNkt3?oc=5",
+      "source": "biobiochile.cl",
+      "published_at": "2026-08-16T12:01:06+00:00",
+      "score": 51.75,
       "corroborating_sources": [
-        "ellitoral.com"
+        "biobiochile.cl"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "40fafed78606e4b5",
+      "title": "Chart-topping game No 10: Full Confidence puts you in prime minister's shoes - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EWDk2SWRqYWNYWFRpaTVMX29oam44aXU4Um1xcEE0Z2FhT05PMTZxTGlFWWxPY2kyVDZhNEh3NjFOMU82MS1lc0wzaTBOSklsaDI4VVplYmN3Zw?oc=5",
+      "source": "BBC",
+      "published_at": "2026-08-15T23:45:44+00:00",
+      "score": 51.3,
+      "corroborating_sources": [
+        "BBC"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5901971166d41e64",
+      "title": "Landau pide que el “drama político” no desvíe la agenda México-EU tras retiro de visa de Andy López - Grupo Animal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUpyQnctWEY1UEYzanItX1prWVdaMU42TkJLZ1M5NHF5eFVOYm1BN0RfRmdSZ0piXzFIYkhXVHlRR096U1NuNUJYY0xNcnE1S01la0R5SXhkRFplMUVQWGptZ0xsOE1oYU41Y0gyeGxDbXdFTTJvNlZxbWVPc0N5Q1ZWUExVNnFIczZ1SGl3cjdJWUJBNGc?oc=5",
+      "source": "Grupo Animal",
+      "published_at": "2026-08-16T10:39:23+00:00",
+      "score": 50.66,
+      "corroborating_sources": [
+        "Grupo Animal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d4b89d1b05d1d299",
+      "title": "Se realizará el primer Congreso de Relaciones Internacionales del Litoral - El Litoral",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMFg5VkZqSXlwX1o1QXR0Ym9ZV05VZU44bUtCLU5DODBIR21IM2pVV0dMMDV3Z1JQd2hQbXFhRWNoY2o5SG5MXzRmdnVndXh1U2p6OTNTYWplY2xHVkh6NGJyTGdzU0lYYk5wRElpQ3NuLVQ4LUFkY1VHLTdpX2xWbFFVNXpEdE5iVkxuRHNxcTZfWHBSa3BYVkhFeXQ4R3hLbVlhbTFwNVgwbndIR0doekU5TWdXT0tFUDYtQTRMc2Q3NEVETWZOMlJWTk4tbGFQbktJNk5jNW55QzRJalNUSjd1Z05OZk50UXZkZjlFdjJxRzBfbWY5M0kzeWNSTXc2cUF2THBVQdIBjAJBVV95cUxNN3lXQ1dkTW9aVE1TVVdBUmd0MGtpeFZhR3RFN3VnY2o4WU5KeElvZDdkWGtIM1NkT09hU0pfVmVwYVBnM29JeXh4ZUluWVMxU2daWmRtM0xwZ3BOd01aSzFHdFVDWlNmRXAwUFh4Y1BZUEQzV0xXNkdzV1dMeU96UDM4Y1g3S0QzZ2VNemZtSnVwYnFoN2d2RDRmZ2pCa3VTRGR4THN0bmR0aDJheWROWHNuYVZvTG4waDQtNVcxcC01TzZ0Z0ZreVQ4NlhGTGwtWjUxWC1qSlJ3Rld6Q3VwUzJub055WEN0eW9yZTN5eEFGRGNXT2hzY0JZV1ZIM2VpTWdQYjFabUhHVHds?oc=5",
+      "source": "El Litoral",
+      "published_at": "2026-08-16T10:08:13+00:00",
+      "score": 50.26,
+      "corroborating_sources": [
+        "El Litoral"
       ],
       "signals": {
         "source_count": 1,
