@@ -1,19 +1,65 @@
 {
-  "generated_at": "2026-08-18T05:49:54.546673+00:00",
-  "next_update_expected_at": "2026-08-18T09:49:54.546673+00:00",
+  "generated_at": "2026-08-18T09:55:07.264167+00:00",
+  "next_update_expected_at": "2026-08-18T13:55:07.264167+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
+      "id": "35363045b4da5114",
+      "title": "Judge Orders Release of Woman Accused of Vandalizing World War II Memorial - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RQaVFkTG8wcjF4ck1WblpRd0Y5WVJSMDh5VERMYzB3X21vcTJpaXVYWC0yU0pjUDZGWDdJTXRmNGpZa3J1OFhJVTlyY2U3Z1lhNVhLUk81WE9Zd3gxQ3N6QjluZU9ZblhGdmZzemhhWFBkWTVvNVJUN1ZzcGtfNm9Pa1hrTkVfMkRLZlVhZWo?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-08-18T08:50:16+00:00",
+      "score": 74.15,
+      "corroborating_sources": [
+        "The New York Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "700eac45e99fb8b7",
+      "title": "Clinton cuestiona la política exterior de Trump: lo ve más afín a Corea del Norte y Rusia que a Canadá - Canal 9 Bío Bío Televisión",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX21YdW9Ed3BMWGlSTjFKT2MwUG9qcmhkc0RFTnMwMHBiYWw5bVRaU3BoLWctZzAtZ2U1aWN0WFBNZDRwcXVfN25HVUk3dEs0LW9XOUF4VlhsNHFZTktMUlN5bEg2Z3B2c3FYWjVKM29GbGttX3F4SldtaG5jVWl5ZVIxMUMtLUNVb01aME04S2pVYnhxRDhJLVNDVXRRblZCWFRwdU5nX0ZEa01WOE9uR3lrUC1PZG0tUHFZUXI0WDlSMWEzRGQ0TVVubkZ2MWZ4MUJOMkpXVmxmZw?oc=5",
+      "source": "Canal 9 Bío Bío Televisión",
+      "published_at": "2026-08-18T01:41:09+00:00",
+      "score": 73.58,
+      "corroborating_sources": [
+        "Canal 9 Bío Bío Televisión",
+        "biobiochile.cl"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "d2a1011193ed7566",
       "title": "U.S. Seeks to Expand Drug War Into Latin America - World Politics Review",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsSlhWUUZKMDFVeFVtZ29pVGhfN0h6QTRxS0oyNHV5N1QxQmxYRHl0bEk0OW44VFhPaVZpYlhRQm91U3A2al9EVWczZlVqSVpfazJuVlJrYVcya1BFWmpBTmFsOEJQSUNUanhPcHBHQUxvRXJ4NWxxcHp3ejlHUQ?oc=5",
       "source": "World Politics Review",
-      "published_at": "2026-08-17T21:28:05+00:00",
-      "score": 74.15,
+      "published_at": "2026-08-17T21:52:29+00:00",
+      "score": 70.68,
       "corroborating_sources": [
         "World Politics Review"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9bbfed0048595487",
+      "title": "MPE pede impugnação da candidatura de Garotinho ao governo do RJ - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlJTbk1GbjFDUmpIVG15QVZCVjE3Y3pUVVdrMm5vVXZJNmY3VjhlbDY0bWVrZGxldU5tSXdlc0VsWEZ3Y3ZjX24xN2JpM3NxQjN0TWFIQ0ZlZHdwUi1tWnI5MzJIVjJHOXB3WUJ5RXdOeDZIV1ZxTGllTEFVQU44ZkdCMmV2amlzMFhaN2VFR3dPc3ExdFdRV09veEJSdWw0SE0xdUNTUmhPZUp4ckZDaFNzQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T02:47:34+00:00",
+      "score": 70.4,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +72,7 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtY1dRdUZqektzUUdBTlk1VDFBVXM3UHpiZnU3TEtWRFBRSkFQdjNkdHB0WG1RUFpoVnFMWDg5QW9YaEtONUVtYk1UckJrUW44T0V5TWp6VHhaemt6RTc4MVB0WTNIdHI1VlVzSFRNeDJnVVZZTXQ2Ug?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-08-17T21:20:09+00:00",
-      "score": 74.02,
+      "score": 70.2,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -36,14 +82,14 @@
       }
     },
     {
-      "id": "877bd3d3a62b56ce",
-      "title": "Clinton cuestiona la política exterior de Trump: lo ve más alineado con Corea del Norte y Rusia que con Canadá - Canal 9 Bío Bío Televisión",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX21YdW9Ed3BMWGlSTjFKT2MwUG9qcmhkc0RFTnMwMHBiYWw5bVRaU3BoLWctZzAtZ2U1aWN0WFBNZDRwcXVfN25HVUk3dEs0LW9XOUF4VlhsNHFZTktMUlN5bEg2Z3B2c3FYWjVKM29GbGttX3F4SldtaG5jVWl5ZVIxMUMtLUNVb01aME04S2pVYnhxRDhJLVNDVXRRblZCWFRwdU5nX0ZEa01WOE9uR3lrUC1PZG0tUHFZUXI0WDlSMWEzRGQ0TVVubkZ2MWZ4MUJOMkpXVmxmZw?oc=5",
-      "source": "Canal 9 Bío Bío Televisión",
-      "published_at": "2026-08-18T01:41:09+00:00",
-      "score": 70.58,
+      "id": "7c1eef67dfed588b",
+      "title": "Aprovação de Trump cai para 33%, menor nível do 2º mandato - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnhXUHJ4YnFRR1JURV9DWU5Mc0tkR1FIUVBSMEtwa2dIX0tJUC0wckRQZ3dGeUM2WmdUblZVMXhtZVVWeWliRFlORlFsejhrOW5UR0Y0Tzdaay1GcVhIRVZzZ2tQWXQ5NTlVNGM1RHZ6SmtlOEdWOTU1cVRNeHNqVmJGazBrNXBUUTlJd0s4RzBlWUFXNTAwY2dKbS1vTUZGUVlOalFUS2k?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T07:07:28+00:00",
+      "score": 67.12,
       "corroborating_sources": [
-        "Canal 9 Bío Bío Televisión"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -51,30 +97,15 @@
       }
     },
     {
-      "id": "c44ccc9c6b32b4c3",
-      "title": "Clinton critica política internacional de Trump: \"Es más cercano a Corea del Norte y Rusia que Canadá\" - BioBioChile",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTHBaOHVfd1dzSjNRbDBNcVZLR3MyS1hUcTNRdWxOdmdjTmhTV1hCSmk1UGZ6cmNIYlVab20xTW50ck1MUk9PbmpzcV95Q0NBc3ozeWRZVEtpal9WdzRqV1lkZ3MzSERwRnpnd0ttTXhLekdNSjBMalRKVUlSX3JYZWk0bXFwQW96ZEx2eVRXRUdJTE9wWWFtWUpZZmg4ZlFQX3VkN0lHaDdRMElXRjBqanlUT013WGJId1JLa3RHTzJfLS05WHc4Q1B3OTloWnlqTDlyd0hadmtaYVhlRU5oN0hNWU5nZ2hjbkswS043eFkzekQ4LU1KRTBiaFlIVU1k?oc=5",
-      "source": "BioBioChile",
-      "published_at": "2026-08-18T01:00:52+00:00",
-      "score": 69.84,
-      "corroborating_sources": [
-        "BioBioChile"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8b539b8e726f2878",
-      "title": "Carmen Calvo pide respetar la política exterior del Gobierno y tener una visión “unida” de la crisis de Ceuta - eldiariocantabria.es",
+      "id": "d45a3cec4c20c841",
+      "title": "Carmen Calvo pide respetar la política exterior del Gobierno y tener una visión “unida” de la crisis de Ceuta - eldiariocantabria.publico.es",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRllPOU9tbml3aS10LVZ3U0VWTFNJZ2t3QnhsV1UxTm9LQzZqTDVzMGZDRWluUE51NDM2V01DNEpOaEtmdXl3V3dtWkg2YmV5NjNlMXNDM212eEJqcHhRaTdIcVJPMjNZT0Jfb3dRNWw4US1sclpoMjRiSG1HZ0w0S3JqbkhUazdONEU4cWFUb0xxR0RLREJ3c1RkWS1nWkZOcWlXYVJic2ExMVN1SVNVX2syOHY0UXZlNlBEb3pfNUIyczBDQ0RsZTZ0XzY4TF9ld1NyZW9vYXVqbEJ4RTAxYXAxdGI5Y01aSXY3NnAzRDhYa1VVLWlDedIB_gFBVV95cUxOWlgxRC1BdzRkU1JZNEdmSUpfakEzZUpVRmpLWWNOc3BJblNzcVAtc3BiMzRCQXBSX0d1X2h2WjNXZ1VCSGVOeWR0Z1lKSkd2WWlsSlhnYllETzRwTEZZSExubDJfQTRDdVF3aHQtTXVIU2E3ZWtQRnh4OGlTTzRqWHpuSFRPVjdtNFhRVE80OXNFSThkWjRiMUtzazNBZDNqaEszQ0JqRDJ0cEpzZElJVXVqV1NvZVFvZ2l2Tmw5a0ZZdHpQd0VLVHltdWUxNTJZU2xIT1lyeV95eHdrSGk2dmE4X0VBZ1R6VVRIaTN5ZUZuQ0VHaUthQWFidkpmZw?oc=5",
-      "source": "eldiariocantabria.es",
+      "source": "eldiariocantabria.publico.es",
       "published_at": "2026-08-17T17:29:32+00:00",
-      "score": 69.72,
+      "score": 66.29,
       "corroborating_sources": [
         "El Correo",
-        "eldiariocantabria.es"
+        "eldiariocantabria.publico.es"
       ],
       "signals": {
         "source_count": 2,
@@ -87,9 +118,24 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFl5ZlpnVTk4VXNBQ3poX1pSTDBPSm42d2F2aHNhWHA3M0VvRmpqRU94Zm5lVlRqOHJRbUdqaGFFZEZLNDNxMzFrLVlxT0dHWnZKT1lzMTIwNmlkaEJLMTBDaEV5Z0ppRU1VNThwWExPY2pOOXFRSVZPZl9LUUkyWGN0UzVPMHltbWNibnhScDM1WmlfXzJKQmIyRDdLRXR4SXQ1QXpXXzBiYUZaNUZvRTY1YVdmbHlFODB3?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-17T21:43:33+00:00",
-      "score": 69.4,
+      "score": 65.55,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "beb77d7ec34a33be",
+      "title": "Colombia’s New President Stumbles Out of the Gate - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1BTSVg1UkM3UGxGVWJTVjZ3TEZPbHFLN2xsNG9VT0MxYW1XVEVETXBCS2dZTXpnbjVwQkw5YjNwYzdfWmE5ZGZ6OGtDQzk1YjU3YXBnNmxsZDZpUXFVNW9oaS1RVi1uYVZ6dW9jaVJqcHVNWHpZcDRYczNuNHg1R3d1dkszRk9RajRlZF9mNA?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-08-17T13:53:42+00:00",
+      "score": 64.28,
+      "corroborating_sources": [
+        "World Politics Review"
       ],
       "signals": {
         "source_count": 1,
@@ -102,24 +148,9 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3FhSEZTZEZZRU44TkVsbWxUM3IwOHRrVENFbzdnQmdNSlF1cUhDVFZiMHdCYjYtX3ItYVZhZ01TXzJBZlQ1MHJERFdGemVoMGd6QndXVThnU2ZiSmVWMDNBdEhKRzd5V2pKN3hPUnpPS2RYZENwTkpDQ2VlVDdIbWhTaWZhYjJHM1M2M3lMZE5QMjZnaUtMRGhtNVdoc0xmaXJJY2tLekozZXl1NU9iU3I1NWRvZDdJMGpyVHh2ZXVNSkZ0SHFPaE9OY0hMdw?oc=5",
       "source": "Infodefensa",
       "published_at": "2026-08-17T21:49:59+00:00",
-      "score": 66.51,
+      "score": 62.64,
       "corroborating_sources": [
         "Infodefensa"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "14cef8b5f5491826",
-      "title": "Piquet ganha tênis com nome de Bolsonaro de aniversário - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmEtN3Q0SmFkV1BzQXVWQkotei16bjZrcnhrYWFDX0pWUUtWQlEwMm5Ia1VvUmJHTkt3QnZDblZuVE1Wa256WnRTeWIwX01hQlRwcktiZ2RoS0lST1VYRXJBcDBTYUtDYm5sZ1FiUmkzUUFlbHNHeTJFR0IwUFR0VHgtOFlodkNYLVFldjY5NmdyaWx2bWpnYWhhSjg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-18T01:57:17+00:00",
-      "score": 65.88,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -132,7 +163,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40dE5QcC1tNXRwbmdTV3dUaTFnNnZuZWFub2RlNXBQRHRoUENzY3JyOUtldXVIYnRudkNaRFFxX3hxenR0dk9BYTM4ZGlaX1p6cWQ1azduOGROeXBiWVlTYlVrdnhIcWE2Q2wwVUZYVjhXYTRDd0E?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-08-17T21:08:23+00:00",
-      "score": 65.82,
+      "score": 62.03,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -142,14 +173,14 @@
       }
     },
     {
-      "id": "9f02f02362fff82e",
-      "title": "Trump manda a callar a una reportera de CNN por preguntarle sobre Corea del Norte - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVTckd6b2RYaS0yVVVRY3MtQ3hnNDdwN2pFNTBMMExpX2tYMGlGQTdvaV9CdHVrbTVNZFVrMVpQaFEyVzBUV3h5OFMyWG8wc04tX0ZQVWZQYVp2X3ZjbVI5OVpjS0xDbHU3MDd5Y3FSZWZkM1M5akNMR2xSQmlHU0RsN1VDWEZJUFNFOEVFNk03N3hCcFVKUDFSZi1mTUFZX2Q3Skt4elh3SnJBR0d4NVZEZVpxd1NiQ0FVNW1R0gG-AUFVX3lxTE1nQXgtcGVvaWRMM3hHSVJBMFFha3VHQld6TDV2S0QxTWJvNUtpdzJuVVpYMENCSXRFVnF2aDVUMlMtNERQZTBkeHBrdzV1M3RlOElpUmUzWTBhVFZUakFRUWVVVXlnU0x1OUY5MEVaRXFMOHhIb0l6QkNjRzdoNUh0ZW9Lamd0S0p3eUdNRmpyV0U3Wm0tcjZjdzJzbjlRUUJyc3owaHNMTzZYaWVHbDFTZm5UZ0pqclliUHpONkE?oc=5",
-      "source": "El Periódico",
-      "published_at": "2026-08-18T04:17:39+00:00",
-      "score": 65.6,
+      "id": "14cef8b5f5491826",
+      "title": "Piquet ganha tênis com nome de Bolsonaro de aniversário - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmEtN3Q0SmFkV1BzQXVWQkotei16bjZrcnhrYWFDX0pWUUtWQlEwMm5Ia1VvUmJHTkt3QnZDblZuVE1Wa256WnRTeWIwX01hQlRwcktiZ2RoS0lST1VYRXJBcDBTYUtDYm5sZ1FiUmkzUUFlbHNHeTJFR0IwUFR0VHgtOFlodkNYLVFldjY5NmdyaWx2bWpnYWhhSjg?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T01:57:17+00:00",
+      "score": 61.55,
       "corroborating_sources": [
-        "El Periódico"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -162,7 +193,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDRFeE5EUjZfU1pxT3QxbGJiVWNfUk03cDQtNThHV1Z6em5WWUZYUVpxT1YwY3VzMmR5TEJ6aWYzS051a0JVNmhsdGN5Qk1CVWYtazMtQkVReU5KeHhrN01VZDJOTXlCX2RFQ0ViSXA4dTYyYzlHaWsyUVZNckwzUHB3aTJOUTE3SEM5WFNtaTFfcksxTU43MWV1XzBzZw?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-17T16:50:13+00:00",
-      "score": 64.84,
+      "score": 61.48,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -177,7 +208,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPczlnQzFyUGNyV3A5dzJlVjdyUmhvc2JXZ1NXOXFDVm44Ri15UDI0eVNUNlRiV2ZpRkRTSHBVaV9iN2VkZGZQQ3NJUUdLSXFST0pNX294NnZVOG5HclBjZUpRaDc1TWdidnVWc3FqVDl6Sl9iY2lPN1prb1BTTFZPTnUyeERxeVlnQmlTaTV5T3h1VjVTUTN3UnRWY2RmSkZsWFhoaVRycDFKU3J2aTFjRTVHc015MjVGU2praWZ3eDhFVHBZeW15dW5SaU4zX0Rqa0h2OVlPRDlCU2t4b2piRlRnMzFWSDdtd1VSZGpaSllNcW9wdmNFTGF0VXRXb2lEbWZjMXliSlR3VGNZT1JSM2dHR21uUdIBpAJBVV95cUxOYlhRTUxXZWlsNmNzcTNnbFZZUjVmVWpmN09fSE8ycHpGU05TZGhYczJTMEl6T2FjeFBRbVVTTVlJd3NfSFpfRVFmXzdMLVYwWXNtWlQzaExva2dDVVh4eUpud3JJS0lNT3FYUkRPd3IyRTA5WHA5UmExSmhqaldFbm9Nb2h2QkUtSzlubV9hTWNVRUp5VTgtYWE5Z2pIajl6SGlESkNzTTQzSzNpUFotZXJNeTNPaDFKVjN4NDZqREp4VFZqeXJ6MEdDQ3J2OTRaS293Y3JhUXFOSmdYcGpxY0dGSUotZ0FfYkctZGFSdDhkUkpjTi0zeHZyNThHSUY0WmtIZkxzdWI0UGdFTDdkX1VuOExROEJkbldheF9iMzBhNzZ4?oc=5",
       "source": "Agencia Noticias Argentinas",
       "published_at": "2026-08-17T20:04:04+00:00",
-      "score": 64.79,
+      "score": 61.1,
       "corroborating_sources": [
         "Agencia Noticias Argentinas"
       ],
@@ -192,9 +223,39 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZm9zR3U0emZZNDRJc2Jod3l5ckhFUTdJdHBFOTdlNjNVYl9kVU1nZzMyTXBLZVloQnljWGhEamlnYVRRYUJxUElpd2gzNVVLQ3VYcW9qa2MwU0dqYTc2RDB4ME0weU9tR08tY3JVSDdMRkV4VXdOQmp1d2xFRkhPVVJpOFRQbEN0d19CWFZ2bzdVcVhZc0l1X1ZFNmROR1FuNlJ1ZFVlRjJ2ZWo4LTBqdUt0Qm1CM2VUTlZQZEJqSmt2djBEcmpXTWtjc00wd3dqU05iTXpIMG5VQ2tT0gHiAUFVX3lxTE95VjdXcnpvUEVyUU1PNnlZU25OZGowMlBkQW8tSW42eDU4Mi1RMWNDQVh1RjI3a20wSjNVYkVIbHJ5VE1kTG9hckQ4eXdTcFN1ZTBWS3U0Q1BuRjdrLTA1XzJTRTFuYW94MC11b2NVa1FPZ0dwUUluUG5XY1hURVpWRi1EUWR2NkEwcVdlR1A2MTFxWGtieE1SS19BUnFUelJNbHVwZ1JmeVhnVEhZMWdFazZXZkxvRWY2cDVXR2pQeDdodU9XeVhiUVFQVFRyN2ZTZ1hqaWJxUDFyVXpjbVhqSkE?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-17T16:20:08+00:00",
-      "score": 64.41,
+      "score": 61.09,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9f02f02362fff82e",
+      "title": "Trump manda a callar a una reportera de CNN por preguntarle sobre Corea del Norte - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVTckd6b2RYaS0yVVVRY3MtQ3hnNDdwN2pFNTBMMExpX2tYMGlGQTdvaV9CdHVrbTVNZFVrMVpQaFEyVzBUV3h5OFMyWG8wc04tX0ZQVWZQYVp2X3ZjbVI5OVpjS0xDbHU3MDd5Y3FSZWZkM1M5akNMR2xSQmlHU0RsN1VDWEZJUFNFOEVFNk03N3hCcFVKUDFSZi1mTUFZX2Q3Skt4elh3SnJBR0d4NVZEZVpxd1NiQ0FVNW1R0gG-AUFVX3lxTE1nQXgtcGVvaWRMM3hHSVJBMFFha3VHQld6TDV2S0QxTWJvNUtpdzJuVVpYMENCSXRFVnF2aDVUMlMtNERQZTBkeHBrdzV1M3RlOElpUmUzWTBhVFZUakFRUWVVVXlnU0x1OUY5MEVaRXFMOHhIb0l6QkNjRzdoNUh0ZW9Lamd0S0p3eUdNRmpyV0U3Wm0tcjZjdzJzbjlRUUJyc3owaHNMTzZYaWVHbDFTZm5UZ0pqclliUHpONkE?oc=5",
+      "source": "El Periódico",
+      "published_at": "2026-08-18T04:17:39+00:00",
+      "score": 60.97,
+      "corroborating_sources": [
+        "El Periódico"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6a52a3245adaa9db",
+      "title": "Renan Santos diz que CLT restringe o trabalhador e defende MEI - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb29ZeHQ3d2NwODZHa2xaaWFDN0l4VUpaelVNUmNmMXhiMjBFQ3JXdFFYOU9DeE5BTXVZd3ZvWHhJekNOZHZScVRmbGpBTE5RRXg2MG5mQzJSM3BXeGJfaDJsdFlOSzc0OHNhQ1YxbExzNWVRWGd5MDdHSzFIcDBnNXppbjY3VE1EekJ2MmtMU2REU0NLTlYyajR0WURCMTFCQTVPRWlvMkJlenpRbWRvMQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T00:47:34+00:00",
+      "score": 60.4,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -207,22 +268,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM01ONVUxNi0tZHFEc1MzNHNMZ25JdnhIejhYOHlFZFg2NXR3eFJTa3V0ZV9aQ3BLLTd4cUFmM2ROM2ItUkVnNzV3N29uS1J4R3QzNWVpSmxoVjZTRm5MUGwtNzBZcjhnUU5ZTnZucXpiMkxlbVRldXVKeUhxWmRzZF9oNklwSkRHV2xmVUxJTjNrcmNHaGlfY0djdjNEZnVIcWc5UFYzLUZwSmtYb1E?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-18T00:22:34+00:00",
-      "score": 64.15,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "44f55e2e91a02428",
-      "title": "Caiado troca marqueteiro no início da campanha presidencial - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3pseTVZNnplaC05NWljZi1SRmVrWEJTak1JVDdicEJNOUEyWTdlVkgyV3F3Z0xyR09mc2l2cXc5cFZEVGFRaGRMUzNGUWFlVV9jQjllby1aLVhCMUgyV0plQTQ0SmN0amxHODVja3JfSC1pTkZnRVZJSmlkYkZOb2RMQ3l2eHducU1DNnpfSmxHMEc3aHJlV1BjVGZrUjlraDdRLXJyMEQ0Ui1f?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-17T23:57:34+00:00",
-      "score": 63.7,
+      "score": 60.0,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -237,9 +283,24 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2lfNmRyZklsa2pJb1pGaWFqcko2VnhKOHBQX1JhdWRkU08tOW1RdjFvUi1GRUIwVWJLTzVabGZvbFhURW9NOEppd0NsZ0EzSThKaG50SzQ1b2RReFNyVDJTLWk5aEVNWjhIV3ZRaW5wckF4WUJnVUZiS0pNdktESjdveFc2Q2ZyRlp6TUZnTnpkWlpYZ1NtLXVWd2oydnpXT1ZF?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-17T14:32:00+00:00",
-      "score": 62.9,
+      "score": 59.74,
       "corroborating_sources": [
         "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "44f55e2e91a02428",
+      "title": "Caiado troca marqueteiro no início da campanha presidencial - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3pseTVZNnplaC05NWljZi1SRmVrWEJTak1JVDdicEJNOUEyWTdlVkgyV3F3Z0xyR09mc2l2cXc5cFZEVGFRaGRMUzNGUWFlVV9jQjllby1aLVhCMUgyV0plQTQ0SmN0amxHODVja3JfSC1pTkZnRVZJSmlkYkZOb2RMQ3l2eHducU1DNnpfSmxHMEc3aHJlV1BjVGZrUjlraDdRLXJyMEQ0Ui1f?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-17T23:57:34+00:00",
+      "score": 59.6,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -252,7 +313,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWUVBTldjY2JGNk1HdHhjZGtfWDBKandMb1g3MXg5a2ZRdV93YnVrOWppMkJlZ2RjTlhyN0lWaFUzUWZObk5NQ19iMkp3ZjZja0RZa3pFVUg3YU9WWjJ2SWM3YTNMNFpIX2MwNFd4MlhFZmVaQk53TlRpcUY0RE10eVQ0X1lfYXFNeDVhOTNQS2lEOWUtUE9veElxOV8zTzRlMTI4eUtiRnluSXctcE1LYkhRMndQTkpmUWxFM2haMVhUcXF3YTZFNndvQkUtT3pwd3FMS3k3WnA2VVhlQjRMMG56eFpjU2pMcmdzbVhTeC1idGNzWkVvTngzbHEzMGRIQkhpa1ln?oc=5",
       "source": "ladiaria.com.uy",
       "published_at": "2026-08-17T17:25:55+00:00",
-      "score": 62.36,
+      "score": 58.94,
       "corroborating_sources": [
         "ladiaria.com.uy"
       ],
@@ -267,24 +328,9 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMldTNXppd1U5RUpEN3MwdHlEdklvVXlYUk5fQ1FzWXBVNTkxUW80WVotVU13aHZFUFplUzR6VnJscGFYSktPZ3R2Zkt2Ui1fbkF3bW14TXEtYk5fRzE3WXhUM3FlQ3VNdjYwd3lvS1paZG5ISFdIcUx4NHlsRTFpb1ZqbmpDejlWUW11aWluT1R4M0RiR2RfRUJGQ0tXZUozRnY1QWpEVFhJaUFlOHBCQnY0cV93MlBFbDh2SndIalE3U2luaUE?oc=5",
       "source": "Brasil 247",
       "published_at": "2026-08-17T17:21:00+00:00",
-      "score": 62.29,
+      "score": 58.88,
       "corroborating_sources": [
         "Brasil 247"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "38de4290c2cb8ae5",
-      "title": "Saiba quem é o sobrinho do governador do MA afastado por Dino do TCE - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjdXSHNqamNXdi1NVXVfZ21OeDVaeEx4VXBBaVNsUlJVSmdRTngxN1JwZGdlZFlkQ1REWThtTFZoaUtXQ1ZqMjBZdUFIeTVKQm9ISlhNRnNmTm8tMkpwZGQwTHFRN3pPd09kRFVZOFZRb1pTT2ZFTVlma1Vhc2RFekNKaDlKSzZCbm14MDk3My1VUE9adVBBby1lRXNtMmpUV081NEJOUlhuVDl5VTlSag?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-17T21:47:30+00:00",
-      "score": 61.47,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -297,7 +343,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVo5aWpaMGxxcXhQbTNFSVo4SGZXeUg5YWpMQlhhRVhMTlNZSjNPYkxTNTVYR3NVeHZTVHFLRkNua2VUd3Z3dkpJX1lVU3hnV1pJMEZ0NEV3eXlVQXNXYjFOcm1ZVV9XeTNCdncwODM0Y2hDUDNNT2ZMYVdlLU5jeDFRS1I2Q1RxSXYyc01WczZLekpKOUR6ZFBtcDFTM3ZST0M3TGFyeE5NZUNfN2F5XzREQQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-17T12:10:30+00:00",
-      "score": 61.03,
+      "score": 58.07,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -312,7 +358,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTA0OEY4YklZT1kzU2xoQnJ5cHhVSS1EYTRkUmhSWGdCSG5UekVLYTF3M2l3NUdYSDZaZnlCUFJxN0pUTE81bnRHQVZPT2gtdVRNaTBpOWVrSXdvU1JfTGdmZXYxQVNOM0RWcVoyOFhNZ1V5YTFnS1VtQ0xHNWZneFVzTzZ4SDVEcDFPRkhIMjBqeERzRFNsejNJNVhjbzAwQjNXREgzQjFPUEVKb29xRHFrMkxVaFBCTlJsV256SQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-17T12:09:00+00:00",
-      "score": 61.01,
+      "score": 58.06,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -322,14 +368,14 @@
       }
     },
     {
-      "id": "84cd106cc77a22a8",
-      "title": "Em agenda no SCS, Grass promete políticas para moradores de rua - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYk1uR2ZjWU8tUi1TUjNxMkZNZmQybUZLbkNCOGEtVE94eGhRS3J5VXZkb0hteVNLN3VYd0JUc1MwWkFwc2RTRHN4SWpWMGl0OGxpT0Z4TlR2ekVUWXNfOTJmR3p2T2VxSWMySDJyaXQzb3pWaVhZTGdxOUt6Ui1EMndFQVZGNzR1Wl90emZ0ZkFxYTJVNkZBRVVmUGttQjc5RFJUQUQzS1Q2dw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-17T21:06:00+00:00",
-      "score": 60.78,
+      "id": "38de4290c2cb8ae5",
+      "title": "Saiba quem é o sobrinho do governador do MA afastado por Dino do TCE - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjdXSHNqamNXdi1NVXVfZ21OeDVaeEx4VXBBaVNsUlJVSmdRTngxN1JwZGdlZFlkQ1REWThtTFZoaUtXQ1ZqMjBZdUFIeTVKQm9ISlhNRnNmTm8tMkpwZGQwTHFRN3pPd09kRFVZOFZRb1pTT2ZFTVlma1Vhc2RFekNKaDlKSzZCbm14MDk3My1VUE9adVBBby1lRXNtMmpUV081NEJOUlhuVDl5VTlSag?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-17T21:47:30+00:00",
+      "score": 57.61,
       "corroborating_sources": [
-        "Metrópoles"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -342,7 +388,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeXNQX3pRejcxbWVlbm5JLUxpNXN4MXg5TUtHdlZXbHRGQkZKbHBsR2VHWkJRWmJnNTZTb0pkM1k0TkVpMHRPVzh0ZUdLUDlDSFNYV3lwdXphaUdNYWpkQnUzY3JIRXJsVzRSMURjWURPQjg1SXNhYWVCRnN1ci1xSFBaZHRpVXROVk5mbDVxZnNqZk9HUGxpTWdueWJ3dnZyTlpvX2dubDk3LVBRaTNEdjNfbHZyUVpiMzNtN3NSeEVGd09RTXRWZ3dva3RhTjBq?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-17T20:30:00+00:00",
-      "score": 60.2,
+      "score": 56.47,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -357,9 +403,24 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0JxTUtDS29hekN2NjMyblVraXV0Rmc5WDNwS3VidFlhZmo4T1B5T2lwR2dMeVF2WnBVaWVmSldrbWRQaDNFcXRmYmJ3NkE3SFc1ZXM2U1psQ0l4bGRneTJsenZzcHpsS3hLU0d3ZE5NVGtKRUNWWDRNNnhPQ1FpUE9MYnliNDAyX3hvYUJUbW03cnNxYmc?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-17T09:13:50+00:00",
-      "score": 58.87,
+      "score": 56.14,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81e01d6186d8d98f",
+      "title": "Syria’s Recovery Is Being Held Up by Unexploded Ordnance - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGNsSm1HbVhGbkJlR2lKZjB1bFZCUjNYTVZVZ0IwWXFndnRJOGhuZXdxbmEtTmQ3WGd3TEd0bDVTMXBNNFhwbE9SQ0NlaUxCT3pPVlpXR2JjVnM3dlJMYTVxaXR0NjNKcGZDVDhab2c1Y25WYXJPR1p2TDkxN1NpLUNnUE5FSGc?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-08-17T12:10:11+00:00",
+      "score": 55.07,
+      "corroborating_sources": [
+        "World Politics Review"
       ],
       "signals": {
         "source_count": 1,
@@ -372,7 +433,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXc0NTU2aXAtclJjYXdGTS16N19zZUxzbXl2b1ItcUNUMlpCVlVvcl8wYUU2eE5xcDFKWTByUzI3Ql9wZkk0S2syLS10QUlESGhFY3B3XzJsTElmMi1kVHhscEl1bkJSdkJ2WmdHc292Y0k5ZGJzX2EwOXJkV1p5SUZnZHNQUE13cDZ0UEQwOFZ2YUx3UkdVQ0lJWGxENlN3OEE?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-17T18:22:02+00:00",
-      "score": 58.2,
+      "score": 54.69,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -387,67 +448,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmhjT2p6cmxkRFI0R19FVGhhWi1WTW5LX0tVTXNSSXU1eWdLZmFUcnZaZW1Ccl9VR2hJdElhTjNsV1JUSzVpQ0d5QWFQNGhqdk5vdEN1RmNLdkpGUDNyMURQNEtRTERHMldvWjE4eHE4LW1yZkVpaThUUmxhX1l3blhYNGdCTS00UEF5QmVoRjluWVdfa1Jz?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-17T18:20:13+00:00",
-      "score": 58.18,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "11cd87edd02de96d",
-      "title": "INFORMATICA Especial / El ranking de los temas de política internacional de la última semana. Efectos sobre Rumanía - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmlCYVlDVnJFQ3hTS1RxbXprdmdidThmWUE2aEpFQ0pPQXdINndRWXBYRFFwOVh5VmxyX1VnczN1Qno0OUQtVjlscXhvS1lLcmJKbktHdk9vUkNYb09tYUpwZzllQjV3MFdtR19ZcTQzV1ZSbjF3MTI2ZUw5a2tpZl9aUWRNZnE1aER0VGY2TTgyUjg?oc=5",
-      "source": "Informat.ro",
-      "published_at": "2026-08-17T11:07:10+00:00",
-      "score": 57.24,
-      "corroborating_sources": [
-        "Informat.ro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6938cb743a1e3b6e",
-      "title": "Ex-deputada diz que EUA cogitam usar arma nuclear contra o Irã - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0ZhZnVORDdJWjJXQ1BicWFobWpOTXJGSkhYQjBjWHdpekZQT0piS01QN1ZFOVI1SXFuLVpsVVUxQ2V4aDExUmU5VUJadTZvQ1hSVEVpU2Q5WGZVei0yWEJXV1ZpdGV5cjVFZ2EyNEIwUDBaWkdRQy1valI3NzdSYmtLTUZ3NXdSZnIwUEp0UHhtanVYQUlIaWVoajZEakFJaHNIZ2pxMjItMGJ5SEg5eER4RXJMd9IBvgFBVV95cUxOaTBBVTFKYVBlMGd5YjlZbzZRR1UtcEtoeDVxOW94ejV6cG5paUlMMVBsenFES1VxXzJWQTUtT29LaGt5cGhkTW8xOC1YSnBpZTQydndfSnNOQlNIanh3S0sxaFI1LXltUGR0Y0hTakQwTnhCV3dnbGpINzhRczRnRzA4b0hPYkRIM2ZuUlFYVWtxVUhqZGxzNlFBcjFEWU1LZ05RT016VVM3Qi1ibXIwNkVuNUNEUWdORF9vWF93?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-17T20:27:00+00:00",
-      "score": 57.15,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "aa027ecdc0e1fdb5",
-      "title": "“A primeira pessoa que eu liguei foi o Flávio”: Marçal fala sobre sua relação com o candidato do PL - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkhLVEg4aHFoUS1Hd0EzQjQ2MTBFSlVBYTd3bm5yRDZQWGpOWGJvZGhiV1lxd2pWaXRud0VtXzlYNGR3dEFud0ZuWGhSNFpiSmNfRkFDWTJITWZGTFFObGxQVXBCV1lYQ2JfWFZjWHBHbWZkcFJCQmF0MGtkbDVURHNVbG13UXJ5cGlhYnFtYUJBR3Y5?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-17T16:35:13+00:00",
-      "score": 56.62,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9fd05e4fa0eb2f5e",
-      "title": "Casas Bahia: Entenda o pedido de recuperação e o que vai acontecer - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlFBVkNZTHpxZHRnOUpmRllMQUhNU0ItWW9BdjJ4R2xha2JkQ1RUd09FOThqeDdULURWakxvSHVfRHlTMU5NVm15NUJFNGZNb09JeldxV1V4ZGhqOGtDY0lPMUZYa3JsdFc4OFF6aWJKVGMxaWhYUUljM3VZNnZ4eDBxeHdWdUNsd1RaNm9sbUxrXzd2N1duRXc1RFlNOTZ0bEJud3k2RG1iMm9y?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-17T16:06:20+00:00",
-      "score": 56.21,
+      "score": 54.67,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
