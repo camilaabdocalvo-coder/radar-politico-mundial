@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T20:59:57.512517+00:00",
-  "next_update_expected_at": "2026-08-19T00:59:57.512517+00:00",
+  "generated_at": "2026-08-19T03:25:56.219229+00:00",
+  "next_update_expected_at": "2026-08-19T07:25:56.219229+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -10,8 +10,8 @@
       "title": "Mercosul, EUA, comércio e diplomacia: o que dizem os planos de governo dos candidatos à presidência sobre política externa - GZH",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUzdxeUI3OXJ6amxaUEdnSGVMMy1VMkNLZzg4SjBuUDJHWW9YblNuOHU5ZFRWa1QxOEpfa3RLLThUWndDclpZbnkzNF9KUmRoUFZYVFZycXhGUERYbUVuSVVjUFBaRU5SQ2lVc2tSeW04aTRxTnhPSEpOVGJZZGJVOGRyNVdsX1ZObTJUNVhEQWVRbjFXbWVoZlBQYW1peDlrY3E4N1ljYkFvUkE3cXpsV1Fob1VEb29lb3JKY2NfNG12NE5QUzdkcW94X2locHRpUFlhaXFQaW5rSW8yeG5sMjM2R2ZJamx6YWtVcDg5Zy1GaklHeHU0VlExcEtlbTNfY1AzNVhrYm43dzBVS0w3UlM1THFCbVVLdnpENjhucllyQjJtaHpHNmtYWHNHTXY5Q3pBUllyb2xyTk04Y2NDRjJEQl9LUQ?oc=5",
       "source": "GZH",
-      "published_at": "2026-08-18T18:41:22+00:00",
-      "score": 88.68,
+      "published_at": "2026-08-18T18:43:25+00:00",
+      "score": 81.81,
       "corroborating_sources": [
         "GZH"
       ],
@@ -26,9 +26,99 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUlFuZTlpdmdGLTVQUF9JSktzTkwxakExcWpEQlBQbmpqOVlKV1E2U3RJSUpVN0w0YWNpcFR5S1pGcXNhNEROTzQ3Qmp0cHQzZVJHMk96UzZqYWU4OXdQRGlxRGhJNlpFR3NaajVRMV9VdlpPMXhERWV6RktJU28?oc=5",
       "source": "ICL Notícias",
       "published_at": "2026-08-18T19:27:13+00:00",
-      "score": 81.59,
+      "score": 74.53,
       "corroborating_sources": [
         "ICL Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d4713a139088b6eb",
+      "title": "Gastos do governo americano levam juros dos títulos do Tesouro ao maior nível em quase 20 anos - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYVZmMFRBeExodFk2MkhjWURzWFdiYWVqT21YcTZjR2xKamlSODJscXYybVVnLVpGWUFIYm5KVlNvS2c4TWFIUHgwQ0I5aE96NHVYWkRDSGF0d2xUMFhJcEd2VU1jcnpFVk5iN2YxMHZEQXo4QkUxRnRnVk9XU3Z0UHRUZHBRb1QwdWNlS0J6N3RRcHNMVjdsMHkzODBsd2Nrb3RXclk5Q1dsYU9LN1kxRXdFZ0RMTXRUdThqaWhNZklIR3JfVWdoWWp1NNIB0AFBVV95cUxOMzNMSTZFeDVzOVd2MHdDby1YNTFVelR5OG90LXFyVmFDZ01rTXpJd2VUUW92dnlKSFVZTHo2eHdRYV9aWjQxSkw2dklQaFNsT3dUWDVCOURsSVdBYl8wdWwydWZUQTZfWUJYNXNBNy1RYXdhdUlacWdqN2ViOWh0dkJ0X29KYmd6a2FKbHNnRzY0YWpnLU4ydVl6bTMxQ0ZPOHl1T0hrZG1zUmlTMkhzY3pzdXNjWWwzT0ZaU3B1aXhVUjFDU0ZwOUZFNXE0dnRB?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-18T22:20:00+00:00",
+      "score": 72.53,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cec837a4a696dc8e",
+      "title": "Candidatas mulheres são um terço do total há quatro eleições nacionais; veja perfil de 2026 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWWpCNGdSTlB4VTVHdEFibWt6SndHV3NiN0VxRVJWeUxzSTlMUnRLZUQ1d2NPVlJQZVVSenRuWW5BQ0p3b3IycjFsU1V4ODlJZTdacVp1VElLY3poTllyWkpUZ1lPNFlfbms2eGJCUm0zNFI3ZXdCbi1vSGlnd1FLQWczTmtNWnV3NUt4NUJ0aVZSTlpoQWV3NjAycHJMeDktUUlxZTBEeE9IVzVQdkN3OElzeXhyaExiMXh4RkdZa2RPLVFuTzNEMWJrVDI3M3ItYmZPY2N2Yw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-19T02:30:00+00:00",
+      "score": 69.33,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5b9a1df763092aa0",
+      "title": "Ministros do TSE fazem reunião fechada sobre IA nas eleições, mas julgamento segue sem data marcada - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjZiYXk2QzlKeHpwZnRBTlE0NjZJNDgwSWtNVjAzV09QdlBBbmZxV0x2NlVVbGZUcE9KRk1CUV9vZDQtQzdwTW1IZkZtZVJvS3N0UE05Z1Bjam9fSHRBOTFWcERqVTBlaktYNExLc3VNb3ZQLXp4dm1BZjJvNTUxZDVSVllxaVN2VmJNWUFTMTYtUmpyaWRid2Z6ZEhTNWRKd0RIVUxCUjZqVTJvaG1qRDBuV2E2R2hVS0JrbXl6LWZDZGFGd0JLaVB1X2FrOGtO0gHWAUFVX3lxTFBhV2hRM2ZnNjkwRDd6V0FDT05VMG9SYi1BNE9lTU1iYjNZTmZ0dDRpdWZzX1lNWUJvcHBkWlNXRXdUU2doaHB3UEl6RlRnZ2xfSDRUR09yMEF6QUJuWGlvbjNMR1M4bVE4YzBxc05TQktsVElveWh4U2NrZUF2U1N3YVFYeXUwcGlpd0lQWDIzb0hrMHMyS1lvdHhCZzJKb1gySWFWV3BncGVKQUhiRDZNRVp5WFY2MnY4dkEwX2tOSVBJakQyV1BXVjAwWFlrTFdoZjVrZ0E?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-19T01:52:46+00:00",
+      "score": 68.58,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4d93a5f7dfc19b4d",
+      "title": "Trump publica imagem que mostra Ormuz como território dos EUA - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0FwOEtRcEdCaXNRbWg4YzRyczM5U0dELTdWbXNNTVFzNTlGT2t2bUNTNGxxaEd6aWxBdDAyeHZHcFFvdnQ4bnhqRmdEdWE2UmxXd0t0RXVaYnRUWURXbTZZRkFfU185SjJRZWZhTmx1MjFqU3pnUmZfdmNlZS0zck1WdXVTdjZ3X2JabmtyaW92dVJOMk5fTjl2dTh0cFJpSlNwX2ZOMFlZVnEyV0o0?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-19T01:36:20+00:00",
+      "score": 68.25,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0de3dbf67237ceb8",
+      "title": "El Estado nacional formalizó su incorporación a un foro internacional que cuestiona los avances de la agenda de género - Política y Medios",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdVpORUxUZVZOZGR5OVZTNmhBcTI2dDM0TnNFa0loYUVqV2pKb0VXQU00bnRoWVR1TU83MHpEYXdmNTNYazZ3aWJxUGRWWFNjQlo1akJzRkxtNlF4czNsSTlqeHdTUHBEV0gtTlI5MGNlQmU4S2RhejFJemNpdDNpZmNxRURLV1VZLUtqakhPUGFJNUZ2SENPd05SOE9MQUF2QXFncGU3djJRSy1VM0ZHUDdMd1hBWldTUGM1bUxmR1RxRXNTNWJaX1NURVRLV09wYnBBR0tfRHJSNnUxOFpObi0xeTFpdjFtWkloSVdLdGNLcTZsZEtN?oc=5",
+      "source": "Política y Medios",
+      "published_at": "2026-08-18T21:00:10+00:00",
+      "score": 68.12,
+      "corroborating_sources": [
+        "Política y Medios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "28a9abc52ccaee30",
+      "title": "A política externa da Colômbia e a ajuda seletiva em crises - Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXgtdEc2a0NicEh5MzRnRFVqeWE0cXJiMWRhZUsxNHlhRlY3MGZGZ2FDc3lVSmlPdWRobmJDU3dDdWRMT2tOOHp3QmFmRFJfX19ud0IxMkZDb1pUUzZQbzhNaGNaSTk4LXprdFFPUFQ2c3h0UHpGTm5Rd3M2Sy1CYXNqUUxsdl9qVk1DRElUaWFPV1VPeExDbzZoZW9KRlNaZzZPaUFmYXFoWHpKaEhTajJyTmQ2azRFV256NU1meDRaQQ?oc=5",
+      "source": "Tribuna do Agreste",
+      "published_at": "2026-08-18T21:00:00+00:00",
+      "score": 68.11,
+      "corroborating_sources": [
+        "Tribuna do Agreste"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdEl2V0VUeWhVX2FUell0SHRvNUNYSkNmQzlxTXBrZnVvaUNLUkFQcDF1alA4bkt0NXA3WFNSSVlWb09fel9tNHlJWDd5SG9WLUppdlJ6eHBDR0xzWi1RVzJDeS1oZ012bElXZVlMend4cE1Gck81TXhMWk01d3hNTE1EYzBKRUVXZEh3VC00VWtPYlh2TVhhWEhjMURhTVJSOHNOY2pmVThsQ1ZfNTVxTjNldUFha2VPSEdPcDBZcVZmWkpiNkhDQzJPaVMxNFEzTVE?oc=5",
       "source": "Informat.ro",
       "published_at": "2026-08-18T11:58:47+00:00",
-      "score": 73.5,
+      "score": 67.77,
       "corroborating_sources": [
         "Informat.ro"
       ],
@@ -56,9 +146,99 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWMyNUxZWUVYNG5YWEdIek55SlozWi15Z2MxT3hUZlV1OGZFcHd5S08xdmJGT0VEeUtpaE5zQy1XbllmMm1wbUlmX0VFblZuZTFKa29vNXg1RlpzMldEaEFPc0tfUk9jdHB2STZFSjRVZEwwYUwzNkt4dnBqSHZyOEdVaFR5UWVWRjVnSjczbzdMNTFsN0liaC1tM2YtRDdicDcwYg?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-18T16:44:08+00:00",
-      "score": 73.45,
+      "score": 66.91,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81bce63ea253b6ee",
+      "title": "Moraes e Dino defendem rediscussão do diploma de jornalista - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFc5VmNUcWt2SWpSY0FCd0E4MWdYQS1MeTNIZU1ib0pUTG92cHYzQ2tCdzZxMkhKVUZIN3UycVhSTWVhVnhKb3dGTVNPbnZfNEZBQ3FvOHM0VWtmZ0ZIaEpkTHJyU2VteFZGWVd5eG8tdUpvSkIzdkpRN2Q1eno5QWZxd1pxOUxCNllZeTB1NVl1WDV4WGp0RU94LXd6NDN5TGJwWg?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-19T00:00:46+00:00",
+      "score": 66.4,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "da98846274522c64",
+      "title": "Manifesto com artistas e políticos apoia candidatura de Dirceu - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEdXdzZWUFczVmNqSU5qZC1XVjNQYVB4cko2cHE2TjJuV0N3Wkt2Uno5TjVuTHV3eTUta1hxeW1TOE15VGFNS2xVNWNHQXV1TjNIcEJaMXFJM19xdmJqTmZ4Yl9HOWxJWFFDcEVBMFVZQndhcEtYU0VSQzBGOEg3M2cxYWZZS190eXhIVk05QjU5ZWpUcGU1aVl3M3JkWjNONmx1VXJwOENHRVZkZHh1SQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T21:36:12+00:00",
+      "score": 63.75,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "94a27ab2c1efb642",
+      "title": "Jon Ossoff, el senador por Georgia que logra acorralar a Trump - Hechos de Hoy",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2VScTk5OUJQOVVxRkZQUDZyQVR5Y0dLT042ZzVxZ2Jlc3c4d1NwQy0xUjNWdUlCeS1PcG1DQXFUVFl6RGpQLUVkWXhna2h1OGhvSS03STRDbUI4c3J1UXVINWNjWWI1WHdycFJ4Z1RZNUtsMnZzSTctdXE2d3dfQ2RtWUVsdUNCeUZwVHJnUQ?oc=5",
+      "source": "Hechos de Hoy",
+      "published_at": "2026-08-18T23:25:54+00:00",
+      "score": 62.74,
+      "corroborating_sources": [
+        "Hechos de Hoy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e3f9718318dbe8aa",
+      "title": "Zhu Rongji’s Complicated Legacy Continues to Be Felt in China - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHhLWmh1djNTNHRZSGdFTlRUeFVmdkhXNmgtU19TVEJfYnRrXzctSXdfRmxtUzl6R1pWT1NUcXRFMWhHM29OMWpHTVJDUWVTdC1rYVZ5RkFxRmpfeFRpWC05WUxIV3BVVFJVUklYNkNva01hekVweExPUjVhaWpUbnRRWHhsRkVHZGtr?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-08-18T14:11:26+00:00",
+      "score": 61.63,
+      "corroborating_sources": [
+        "World Politics Review"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9605092b4dba89cb",
+      "title": "Defiende Morena su proyecto político ante retiro de visas - MVS Noticias",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWY0d0NobFJ1dFFzSk1Jc210VUhBV3pGQkhrYUJGX1ZoN3ZnRjk1Sm5Od2lkZWUtczhoSjlKNkhWWFpzTUxxbXlYMHlpRDZIbXpBQXFfMFRucjE5STNSQktlR0gzUFBRZUk3YWpyNkU2eWwwU2dkSnQ4emdJZDlFODVaRXhQOTRpaVZfZ0JzYWR0cGo2YVU5WXBLdEh6Q3JsMVEzZFlMLXg2UjNxT2cyb3h3?oc=5",
+      "source": "MVS Noticias",
+      "published_at": "2026-08-18T22:15:11+00:00",
+      "score": 61.45,
+      "corroborating_sources": [
+        "MVS Noticias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d1c0e068ee808300",
+      "title": "¿Trump puede convertir el estrecho de Ormuz en territorio de EU? Lo que hay detrás de su polémica declaración - W Radio México",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMk00ZVpMSU1zcFFrbGFrbzJZR0U1THpWdThBY3REa3RmVHFCUGZsbktqcmJlc1JfNXhRRkZiN3JtV0dkT1QzWUlsR2FFTnVHRmlZMHhVZFgwWHdnXzZiY3VhV3N1ZTNUa0NWTl9YcENkRjFnRlJrd2JsYXRLWVBPdXFzYTR1MnZRTU16WkltRGRjV1pzazlGVTVINEk2M0ZTdHdaalUtendLVXhvNE04dlRIYVVjN2VUd1B1U3NJTVg0TmNnc1lJVEJLT3pTLWJMeThtcmxWZkE?oc=5",
+      "source": "W Radio México",
+      "published_at": "2026-08-18T21:50:56+00:00",
+      "score": 61.01,
+      "corroborating_sources": [
+        "W Radio México"
       ],
       "signals": {
         "source_count": 1,
@@ -71,54 +251,9 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTzdNNWJibDQzd1M2Q19vOElySEJRYUFTbmVPY0VnU0FjYXhZUDFhOTR3MUtPSVdiUDFZVGpLU2FnZDQtTS0yS0o0VjAwcEpyY0JLVjAxaVVnMTh3Vzl2ZTZ2WTFiWnFkbDVZcTlObl9yV1M1cDJGNmd5UElKaU1WOThLUWY5YmdiR2s5M0d3S0JGa3daZC1ncWFXNlJIOXdVcFdlSTFNSDdJVVItZWtkWmUxY3hucmZJLXhBUzYzSFBPWnYybWtmN2V4V3hKUGtjWm92SEZwalJpMU9HX0NoVUlGWTZNN2F6enQtTEd6WmdnSDQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-18T18:18:00+00:00",
-      "score": 67.23,
+      "score": 60.39,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e250d5f97165940d",
-      "title": "Manifesto com artistas e políticos apoia candidatura de Dirceu - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEdXdzZWUFczVmNqSU5qZC1XVjNQYVB4cko2cHE2TjJuV0N3Wkt2Uno5TjVuTHV3eTUta1hxeW1TOE15VGFNS2xVNWNHQXV1TjNIcEJaMXFJM19xdmJqTmZ4Yl9HOWxJWFFDcEVBMFVZQndhcEtYU0VSQzBGOEg3M2cxYWZZS190eXhIVk05QjU5ZWpUcGU1aVl3M3JkWjNONmx1VXJwOENHRVZkZHh1SQ?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-08-18T18:15:53+00:00",
-      "score": 67.19,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2c98782484bf986b",
-      "title": "TSE manda remover post que ligava Flávio Bolsonaro a homicídio - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdm1YNExRZXVwLXI1dlhlMk5nbFVQVmk0bWM5dFR0cnJaZl9IaHdEYjJKclpFelVPZlV2N3lrX0dRTjhUX2swSi1EWlljTmFfUDFTaHdqTkUzcmlZZFNLVVptUWxabXp5UzZMZTQtVnZZR1hESnJfbU5ZU21aWUloMFNIX2d5M2stWmtvZG05QU1GYjlVUzU3NTc2ckU2aVMwVXVpLTRPbkI?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-08-18T16:35:43+00:00",
-      "score": 65.3,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6206a36489242d3c",
-      "title": "Pós-eleições é momento ideal para reforma elétrica, dizem especialistas - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcktXOEIyUHVsbXlOSjQxQjNuY05GRTREVjNKMUFDVXdoWFlYa0psRjVSdlpPdUNpVWtYOUZFbjk0UHpGUFllbmpFa3hyNkk4dm0zYUotZU9pamFBSElMSHRobTRUMU1mVEp0Q0tENkVHTmI3UDh5Y21wQlViVVZ4ckYwUXNUNEkzSkVVWWgwM01GOUV2a1Q1MkREajBORkFrdklockhSeGp5MENBeXh0Ynk4MA?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-08-18T15:38:01+00:00",
-      "score": 64.25,
-      "corroborating_sources": [
-        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX21YdW9Ed3BMWGlSTjFKT2MwUG9qcmhkc0RFTnMwMHBiYWw5bVRaU3BoLWctZzAtZ2U1aWN0WFBNZDRwcXVfN25HVUk3dEs0LW9XOUF4VlhsNHFZTktMUlN5bEg2Z3B2c3FYWjVKM29GbGttX3F4SldtaG5jVWl5ZVIxMUMtLUNVb01aME04S2pVYnhxRDhJLVNDVXRRblZCWFRwdU5nX0ZEa01WOE9uR3lrUC1PZG0tUHFZUXI0WDlSMWEzRGQ0TVVubkZ2MWZ4MUJOMkpXVmxmZw?oc=5",
       "source": "Canal 9 Bío Bío Televisión",
       "published_at": "2026-08-18T01:41:09+00:00",
-      "score": 64.09,
+      "score": 59.78,
       "corroborating_sources": [
         "BioBioChile",
         "Canal 9 Bío Bío Televisión"
@@ -142,14 +277,74 @@
       }
     },
     {
-      "id": "507dafff2931a9d9",
-      "title": "Flávio tem 52% contra 35% de Lula no 2º turno no Paraná, diz pesquisa - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUtyZHpnX2NaOHVBb2lmLVdQVWs1RFFtV1NGSHNWRURVYjkzQ0NuMlA4MV92alJTWkpyRDJwc3k2NjhHdTFaZDhGVDlkY19VSWV1TlZMTWlTQzVQSF9XTHhHMGdYOHk2TnE5RGg0OUJxQkdHRlRMZEwwelpLY2Z3TS1nVl9FVmZpWWlabnVTQ0hWNEVvMDZpQTVzZnc2Ni1sY3JRb3FkVVgtaTdBR2c2cXRtN1MzQQ?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-08-18T14:28:01+00:00",
-      "score": 63.01,
+      "id": "bed46f64679f29fc",
+      "title": "Japan and India Need Each Other Now More Than Ever - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdERleFYxX010YlJBcHpkUWlSMGo4SW9QbE84ekZrR1lnRW82b3M3WXFUMm9tSFRSckpuWkdHVUkxUWVWTExrVDcxclI4NEFESXItU21YX3V2SkZwZnlxX0Y2bG5WYVZWa29YcXMweW5GcHplN2I2WjhrQ1ZKcDMyX1BHSU5wUQ?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-08-18T11:30:00+00:00",
+      "score": 59.38,
       "corroborating_sources": [
-        "poder360.com.br"
+        "World Politics Review"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3ecb79f38b408df1",
+      "title": "TSE manda remover post que ligava Flávio Bolsonaro a homicídio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdm1YNExRZXVwLXI1dlhlMk5nbFVQVmk0bWM5dFR0cnJaZl9IaHdEYjJKclpFelVPZlV2N3lrX0dRTjhUX2swSi1EWlljTmFfUDFTaHdqTkUzcmlZZFNLVVptUWxabXp5UzZMZTQtVnZZR1hESnJfbU5ZU21aWUloMFNIX2d5M2stWmtvZG05QU1GYjlVUzU3NTc2ckU2aVMwVXVpLTRPbkI?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T16:35:43+00:00",
+      "score": 58.78,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "443659cfb861a18d",
+      "title": "Ministros do TSE se reúnem para discutir vídeo de Bolsonaro com IA - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3hYUF9LN3JGVnhKUHVKc3U5OHpyandzaUxFS2R2eDNQcTNaZkhaMlBfWldYME9VaDZ2SWFEOWNyb0ctZFNxZDRfQmN0WFRxQXNXdGZITko0U2lWWjR0VE9WOE9Oa0d0cTBPbjJsVzVPMUxZYVQtR00wcUd3VUlicU5LajNBemFoM3QyUlE1OWpFNnlLMjduT2toU19mLXgwTlZXWGU0VWtBQ2ljWWNfbTFQOGtRZw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T15:52:38+00:00",
+      "score": 58.12,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9117b4d3db85fed4",
+      "title": "Iraqi Kurdistan Caught in U.S.-Israeli War With Iran - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtY1dRdUZqektzUUdBTlk1VDFBVXM3UHpiZnU3TEtWRFBRSkFQdjNkdHB0WG1RUFpoVnFMWDg5QW9YaEtONUVtYk1UckJrUW44T0V5TWp6VHhaemt6RTc4MVB0WTNIdHI1VlVzSFRNeDJnVVZZTXQ2Ug?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-08-17T21:20:09+00:00",
+      "score": 57.98,
+      "corroborating_sources": [
+        "World Politics Review"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "711d869e932897c3",
+      "title": "Pós-eleições é momento ideal para reforma elétrica, dizem especialistas - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcktXOEIyUHVsbXlOSjQxQjNuY05GRTREVjNKMUFDVXdoWFlYa0psRjVSdlpPdUNpVWtYOUZFbjk0UHpGUFllbmpFa3hyNkk4dm0zYUotZU9pamFBSElMSHRobTRUMU1mVEp0Q0tENkVHTmI3UDh5Y21wQlViVVZ4ckYwUXNUNEkzSkVVWWgwM01GOUV2a1Q1MkREajBORkFrdklockhSeGp5MENBeXh0Ynk4MA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T15:38:01+00:00",
+      "score": 57.9,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -162,9 +357,54 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkwwOUxQbEJtLVg2R1hqRXNXejY4b2ZEb0FWaHk0aHM4UnYwXzdCRDZvRVdoTFJJdHRVQkdEekdrTzJFSmtjck9ybmhucUhKUWtvbGlaODRKZC0zczZvQ2todkJPQmpTeDMtbWtvNkFLWjBvS3R6NEIzdU9ic0FUX3VkekFuaG11cGhUOFpNZW1STXZJZUhKZFpKTkV0T1RaVElPaGhVdEx4MmpXWEQ5aEdDc2w1bXFocnJic2JmX1BkdmluTTktTXNwYlRxb2c?oc=5",
       "source": "Now Canal",
       "published_at": "2026-08-18T09:00:00+00:00",
-      "score": 62.72,
+      "score": 57.44,
       "corroborating_sources": [
         "Now Canal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "de707f9e3c18b92a",
+      "title": "Flávio tem 52% contra 35% de Lula no 2º turno no Paraná, diz pesquisa - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUtyZHpnX2NaOHVBb2lmLVdQVWs1RFFtV1NGSHNWRURVYjkzQ0NuMlA4MV92alJTWkpyRDJwc3k2NjhHdTFaZDhGVDlkY19VSWV1TlZMTWlTQzVQSF9XTHhHMGdYOHk2TnE5RGg0OUJxQkdHRlRMZEwwelpLY2Z3TS1nVl9FVmZpWWlabnVTQ0hWNEVvMDZpQTVzZnc2Ni1sY3JRb3FkVVgtaTdBR2c2cXRtN1MzQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T14:28:01+00:00",
+      "score": 56.87,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "da59a8b453fa4af2",
+      "title": "PGR propõe acordo com Otoni de Paula após ofensas a Moraes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUTVYaFBpUWcwcVY0NlhwSDZkSkotUVJvUlBUOEFTSlY1ZW8zcDRCZ1ZMZFNJVWNfZlowc0IzZ2pvT0NSSTFic09VaUItMlJNMjNiVDhvcmxrT09Ra0Yzekd5Umd2cTZzUXV1V2h0NkRJRXI4eEVCeEVORTVvcEJIajdpN3Q3Sm9TM3pRaFlqUHV4MjFxTF9ZbU9JUUpVc3JDZ21r?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T14:02:24+00:00",
+      "score": 56.5,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9bbfed0048595487",
+      "title": "MPE pede impugnação da candidatura de Garotinho ao governo do RJ - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlJTbk1GbjFDUmpIVG15QVZCVjE3Y3pUVVdrMm5vVXZJNmY3VjhlbDY0bWVrZGxldU5tSXdlc0VsWEZ3Y3ZjX24xN2JpM3NxQjN0TWFIQ0ZlZHdwUi1tWnI5MzJIVjJHOXB3WUJ5RXdOeDZIV1ZxTGllTEFVQU44ZkdCMmV2amlzMFhaN2VFR3dPc3ExdFdRV09veEJSdWw0SE0xdUNTUmhPZUp4ckZDaFNzQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-18T02:47:34+00:00",
+      "score": 56.17,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -177,24 +417,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeElkaVB2YjZlY2hWSm1EWkhNZTJYWExvWXlnRklzTTZaX0hkTlhKN1NOTmdZRFhtUml4T2xoQ0ZxZVZXRlM4MVVHdEVUWXRMaE9MbGd0NDlsNGZ2d3VWeERsdVhHdnhydFh0WVlqaGZ4N1RraXVKcEd4dUpNd3JIVmhHNjV6b3lEbTIyenB4MjUyU1VJMnpQR1Y3RnppRWVKd29NbjBnUjRQMVlBVWNCS1kzY3A5SC1SalB1LTM2aXk2VkxCcEptbTg0Smt2MW53?oc=5",
       "source": "CNN Brasil",
       "published_at": "2026-08-18T07:10:37+00:00",
-      "score": 61.13,
+      "score": 56.11,
       "corroborating_sources": [
         "CNN Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8c79f04b5b42d8ea",
-      "title": "MPE pede impugnação da candidatura de Garotinho ao governo do RJ - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlJTbk1GbjFDUmpIVG15QVZCVjE3Y3pUVVdrMm5vVXZJNmY3VjhlbDY0bWVrZGxldU5tSXdlc0VsWEZ3Y3ZjX24xN2JpM3NxQjN0TWFIQ0ZlZHdwUi1tWnI5MzJIVjJHOXB3WUJ5RXdOeDZIV1ZxTGllTEFVQU44ZkdCMmV2amlzMFhaN2VFR3dPc3ExdFdRV09veEJSdWw0SE0xdUNTUmhPZUp4ckZDaFNzQQ?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-08-18T02:47:34+00:00",
-      "score": 60.61,
-      "corroborating_sources": [
-        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -207,84 +432,9 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVExwbXZwei1hNFU1cVNiUXdDS2JZT2lJVFFoelZoNXlHLVhNX2VGbWJxUDRjTmdFMWU3cEw0V25MV0FlcmlmanUxS3VZcFBOYWNyVGRUb1JDRVkwUU0yVVk2c1lyQnRwSnF0SmhlZGg2VWxGMDdNN19YZFdodVZieFZzSUhQMFlUU1dHLVRkNDRUem03Nno1MF9tc1VSbHMxb2g4Q055OEJyYVpuVHU2VnVLamZMU28ybmNMSlpQcmFnSWF5TjEwczh3Q0h2SkM4S3JMN0QtcjZ0cDdMZERNbG1RbFNwUQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-18T02:00:00+00:00",
-      "score": 60.02,
+      "score": 55.68,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f6c8ec9a1dea869b",
-      "title": "Zhu Rongji’s Complicated Legacy Continues to Be Felt in China - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHhLWmh1djNTNHRZSGdFTlRUeFVmdkhXNmgtU19TVEJfYnRrXzctSXdfRmxtUzl6R1pWT1NUcXRFMWhHM29OMWpHTVJDUWVTdC1rYVZ5RkFxRmpfeFRpWC05WUxIV3BVVFJVUklYNkNva01hekVweExPUjVhaWpUbnRRWHhsRkVHZGtr?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-18T14:11:26+00:00",
-      "score": 59.72,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7e6a9eb640cadc0d",
-      "title": "Argentina adhirió al Consenso de Ginebra: organizaciones feministas denuncian un retroceso en derechos - ANRed",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2huOXRUeS1kMV9oOUFaRUVvNS1ULXpMcGFaODZZQUJXY0wtN2hBck85R0Nfa3FtS0xNZWZMaEsyLVk2VUc0SF95ckxIMFFtTFhKQldUMXRYbzF4R2xpRldwcGNtRWpGOW5oQUVtdl9IR21DQUVBd1JwMVc2ZkR4LThRb1NHa1FQVXVGMm9ubXZpRjBMeW9meVdIVlJURkhnM0U5bTZZd0JoM1d5ZDF4bm5pVjd6YVdwc0ozbElyc0Zqdw?oc=5",
-      "source": "ANRed",
-      "published_at": "2026-08-18T14:07:50+00:00",
-      "score": 59.66,
-      "corroborating_sources": [
-        "ANRed"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0546a792913e05ce",
-      "title": "Trump posta imagem de Ormuz como “novo território dos EUA” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTNWS3hXZkctczdnR1REbV9WQVFGZGYzSUdaVGUyZGJ6VHd4UTdDRUJObk01X1gtU1BxMUdJUmRaZ0tTV2doSlViLTBQZW5oQU43UkF1anRmOGVEQ1hTTUM5Z1owYW1VNHBvczFoYk4tRUl2cHVtemFCdXFwVDdLRnRQZzZydE83Ykw0MUNBdVROWmFMMHRNd2k5bW1ySDRXbEItSzczcmNxOUlRbHfSAbYBQVVfeXFMT3dZNWxNRnJweHMzcUUwNlJ1ZUtFRUk5LUNKLVpfU1U0d0FNODU5T3hVTS1XMzFiVkhteHByd1p1MldWY1NuRjB2VGpSOTJadFFhekJ6ak8tTlV0NkVib1Rla1BGdjI2VTlGOWF2QTlwVl9zbXJGdlRwcDZzdUo5RnBvMnRfSE5FSUI2YmVXdnNhaTk1T2hBaTBfM2V3aWVmUUtPRTlWRElZTFRKSnlRMkFWcXI1UFE?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-18T13:56:00+00:00",
-      "score": 59.46,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "296b6c053089cf75",
-      "title": "EUA mudam chefe de relações com Brasil e América Latina - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOC1CMENWY0FJTWw3S2pMYnZJMHlsVDdLQVQ4cFdYUW02N2xXc01JUE5peTRfd2w5emVWYVBFaUJ1QlNnOE9QU29PWVFCdC1IMHV6NGQ1VG5Oc1dHX3RIZ0p5ay1yOTlFWUVETjZtYjZOTWQzdHByQ0FKZ1p2N014YlpJM2hmNTFCVUxHN0d2YnlyLXJ4VmlCOFRrbGxzU0pRblQySkd6MjY2dE9q0gG0AUFVX3lxTFA3bG9nSGY0NWdGV3NaaG1JOE4tUURDRExBZTZ2TzEwSkZheW1VR3FhcmhuaW5UUjczTjM1NHBfbWxzTk02ZlFDTU8yWk81Q1Jyd0hVcGdYck5CQzNFUDNVUVN4RE1Iekt3bUFmaHY0QmpMZEZ4SUtIYUVTRjVLNjFYWWZZTTZkQ1VaQTBKd2NDMU5fZkY4a1lPSHhJUjlNaFBVWFVsNUY0aE9qS2dmal80TG4tZQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-18T13:47:00+00:00",
-      "score": 59.3,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3e9fd37ae8e9a69e",
-      "title": "Argentina entra em aliança internacional liderada pelos EUA sobre vida, família e soberania nacional - O Mundo Diplomático",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmxYcDBuQlpaUTYtNVhKR2NQQWlDSlUyYXlGQWhrRERhd2xaOUUzSG1lZ3YyRlJuMnlySU5lSktwMGZXSFBWaXhJZldnZHE5Y2dRWEJtTEJSVGdzYzFRNVF2djZ3NUZpRE84aURudDRac043emQwZ1NjTTZuNkVrVkZ5NGwxUjdsU3dfemhIb0xNVUJ3SUUwQ2dGaTBKMXlua01ZT3poN1hVbHpVUEU4d3VsSTk5ZzY2NUdmU2g1d3NiZFg1VEhpN3loLTV2SFNtUlFXQk4yamZzODFm?oc=5",
-      "source": "O Mundo Diplomático",
-      "published_at": "2026-08-18T13:35:30+00:00",
-      "score": 59.11,
-      "corroborating_sources": [
-        "O Mundo Diplomático"
       ],
       "signals": {
         "source_count": 1,
@@ -297,163 +447,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRllPOU9tbml3aS10LVZ3U0VWTFNJZ2t3QnhsV1UxTm9LQzZqTDVzMGZDRWluUE51NDM2V01DNEpOaEtmdXl3V3dtWkg2YmV5NjNlMXNDM212eEJqcHhRaTdIcVJPMjNZT0Jfb3dRNWw4US1sclpoMjRiSG1HZ0w0S3JqbkhUazdONEU4cWFUb0xxR0RLREJ3c1RkWS1nWkZOcWlXYVJic2ExMVN1SVNVX2syOHY0UXZlNlBEb3pfNUIyczBDQ0RsZTZ0XzY4TF9ld1NyZW9vYXVqbEJ4RTAxYXAxdGI5Y01aSXY3NnAzRDhYa1VVLWlDedIB_gFBVV95cUxOWlgxRC1BdzRkU1JZNEdmSUpfakEzZUpVRmpLWWNOc3BJblNzcVAtc3BiMzRCQXBSX0d1X2h2WjNXZ1VCSGVOeWR0Z1lKSkd2WWlsSlhnYllETzRwTEZZSExubDJfQTRDdVF3aHQtTXVIU2E3ZWtQRnh4OGlTTzRqWHpuSFRPVjdtNFhRVE80OXNFSThkWjRiMUtzazNBZDNqaEszQ0JqRDJ0cEpzZElJVXVqV1NvZVFvZ2l2Tmw5a0ZZdHpQd0VLVHltdWUxNTJZU2xIT1lyeV95eHdrSGk2dmE4X0VBZ1R6VVRIaTN5ZUZuQ0VHaUthQWFidkpmZw?oc=5",
       "source": "eldiariocantabria.es",
       "published_at": "2026-08-17T17:29:32+00:00",
-      "score": 58.73,
+      "score": 55.3,
       "corroborating_sources": [
         "El Correo",
         "eldiariocantabria.es"
       ],
       "signals": {
         "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9827fc2f7f6121d2",
-      "title": "Trump ameaça bombardear Omã diante de impasse sobre Ormuz - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFFuTHRrTjg0UWlYYXIwcG9TOXVXN21OZk13VXlZd2xtcktqblRvbzQwcUphbnJwZDQ2NkdkQU54SzR5NDJ2ampLYS1rYi13cURNWWRrMk9kY2cyZ2VHRzhGbzR1R3hTSWh2eU1FLWQ1R2ktSVhTSFlHdUJJWDh3V29MWHVWTXZQbXA3cXE1ZGFHS0VwMUc0YjFtNVFXcjFtdk5IcU1tem9sQQ?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-08-18T10:02:41+00:00",
-      "score": 58.67,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "425ae5f8b19954cb",
-      "title": "US and Canada hold last-minute talks to stop Trump’s 50% tariffs - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMjdKd20tREE1VUF4WHAzX1RJZENKQ3ZsWDF5bm40UERIbXI0Tm1Nd3U1SHV0VkdjRm81UFYxZWc0eUl3TjdNN09uWnZGRUQtSnFNU3BwRVFpUGY2S1lYT0FJUmhnQmt3TU4xUmZzOEhFN2hpQ2tXRFJzOVotejZJek5DaXhHVU9Ua2pRVExpaEFOWkQtZG5Yb3EzSWtkdU1raTJIalNVX0RjdFgwNkpvVUEyVU9XRExxelltT1d2TUJ6ZmJm?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-08-18T12:56:29+00:00",
-      "score": 58.45,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8a2d5cabc5173343",
-      "title": "Ito Bisonó, un canciller ideal para la coyuntura de derecha y el nuevo Washington - diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWVwMC10bkI1MWVCa1hiRWdoVDJXWkwwbm43MllmR1Y4d0lnMC1DcEZ1X09YcXBIYWpMbTRoRWlIOXhXc3Vvd0pYYldIXzY4a3lMa2dSZVJJMVB3d0pxc19QSXhFRHQzbEZDcXVuT2NsMGZ0aW93NkN1bUNnMkFSTlV1c3kyV1o2aDFfc2J4ci1TS1ZtUVg0VHBObzc0eUhqdzRERGdfRWZ4Q08yRjl2Y00xaHBGT0VvUTB4eldMV0hKY0xvanFtZHJ0OGZDZ9IB0wFBVV95cUxNb0ZaZXpmeExLSy1MNlQ1STRkWnRHekxMd0NuVEJ6OHJwZ0VRMHl6MkR5elczUTh0M0w2M3NtdURnNThWUDd3MGZXUU5Rekg1cm1wNVdMaldnMlJURmpUUEZlZHhaQktOaER6VTVzQmF3dExrTkNWZkRZLThTMFlYbkx0NGpqQzZ1UjZLUDVmeFd0WEJBU1hpLVp5LWcxVUstY3FnLVZid3RDMDJsUzF0U0VhUjgxazdndWthblNYakdFRmRORU81TVVXdWVONi1uWWJj?oc=5",
-      "source": "diariolibre.com",
-      "published_at": "2026-08-18T12:35:00+00:00",
-      "score": 58.1,
-      "corroborating_sources": [
-        "diariolibre.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2857566acbd021c4",
-      "title": "Presidente pode responder judicialmente por desfile da Acadêmicos de Niterói - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFl5ZlpnVTk4VXNBQ3poX1pSTDBPSm42d2F2aHNhWHA3M0VvRmpqRU94Zm5lVlRqOHJRbUdqaGFFZEZLNDNxMzFrLVlxT0dHWnZKT1lzMTIwNmlkaEJLMTBDaEV5Z0ppRU1VNThwWExPY2pOOXFRSVZPZl9LUUkyWGN0UzVPMHltbWNibnhScDM1WmlfXzJKQmIyRDdLRXR4SXQ1QXpXXzBiYUZaNUZvRTY1YVdmbHlFODB3?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-17T21:43:33+00:00",
-      "score": 57.05,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "aa12156a441eb215",
-      "title": "Japan and India Need Each Other Now More Than Ever - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdERleFYxX010YlJBcHpkUWlSMGo4SW9QbE84ekZrR1lnRW82b3M3WXFUMm9tSFRSckpuWkdHVUkxUWVWTExrVDcxclI4NEFESXItU21YX3V2SkZwZnlxX0Y2bG5WYVZWa29YcXMweW5GcHplN2I2WjhrQ1ZKcDMyX1BHSU5wUQ?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-18T11:30:00+00:00",
-      "score": 57.04,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0ed76c0f9c6d776f",
-      "title": "Aprovação de Trump cai para 33%, menor nível do 2º mandato - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnhXUHJ4YnFRR1JURV9DWU5Mc0tkR1FIUVBSMEtwa2dIX0tJUC0wckRQZ3dGeUM2WmdUblZVMXhtZVVWeWliRFlORlFsejhrOW5UR0Y0Tzdaay1GcVhIRVZzZ2tQWXQ5NTlVNGM1RHZ6SmtlOEdWOTU1cVRNeHNqVmJGazBrNXBUUTlJd0s4RzBlWUFXNTAwY2dKbS1vTUZGUVlOalFUS2k?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-08-18T07:07:28+00:00",
-      "score": 56.08,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3e1235a4a05062d2",
-      "title": "U.S. Seeks to Expand Drug War Into Latin America - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsSlhWUUZKMDFVeFVtZ29pVGhfN0h6QTRxS0oyNHV5N1QxQmxYRHl0bEk0OW44VFhPaVZpYlhRQm91U3A2al9EVWczZlVqSVpfazJuVlJrYVcya1BFWmpBTmFsOEJQSUNUanhPcHBHQUxvRXJ4NWxxcHp3ejlHUQ?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-17T21:52:29+00:00",
-      "score": 54.15,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "299a6d0aecc4acee",
-      "title": "Terremoto en Colombia: una semana de rescates, ayuda internacional y controversia política - Infodefensa",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3FhSEZTZEZZRU44TkVsbWxUM3IwOHRrVENFbzdnQmdNSlF1cUhDVFZiMHdCYjYtX3ItYVZhZ01TXzJBZlQ1MHJERFdGemVoMGd6QndXVThnU2ZiSmVWMDNBdEhKRzd5V2pKN3hPUnpPS2RYZENwTkpDQ2VlVDdIbWhTaWZhYjJHM1M2M3lMZE5QMjZnaUtMRGhtNVdoc0xmaXJJY2tLekozZXl1NU9iU3I1NWRvZDdJMGpyVHh2ZXVNSkZ0SHFPaE9OY0hMdw?oc=5",
-      "source": "Infodefensa",
-      "published_at": "2026-08-17T21:49:59+00:00",
-      "score": 54.12,
-      "corroborating_sources": [
-        "Infodefensa"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ef905554ed99ac05",
-      "title": "Marçal critica Lula e envia mensagem para o presidente - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDRFeE5EUjZfU1pxT3QxbGJiVWNfUk03cDQtNThHV1Z6em5WWUZYUVpxT1YwY3VzMmR5TEJ6aWYzS051a0JVNmhsdGN5Qk1CVWYtazMtQkVReU5KeHhrN01VZDJOTXlCX2RFQ0ViSXA4dTYyYzlHaWsyUVZNckwzUHB3aTJOUTE3SEM5WFNtaTFfcksxTU43MWV1XzBzZw?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-17T16:50:13+00:00",
-      "score": 54.06,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b479b1538bbeec6f",
-      "title": "Iraqi Kurdistan Caught in U.S.-Israeli War With Iran - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtY1dRdUZqektzUUdBTlk1VDFBVXM3UHpiZnU3TEtWRFBRSkFQdjNkdHB0WG1RUFpoVnFMWDg5QW9YaEtONUVtYk1UckJrUW44T0V5TWp6VHhaemt6RTc4MVB0WTNIdHI1VlVzSFRNeDJnVVZZTXQ2Ug?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-17T21:20:09+00:00",
-      "score": 53.8,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
         "social_metrics_available": false
       }
     }
