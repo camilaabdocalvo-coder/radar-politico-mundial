@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-08-19T14:09:24.149347+00:00",
-  "next_update_expected_at": "2026-08-19T18:09:24.149347+00:00",
+  "generated_at": "2026-08-19T17:42:06.015477+00:00",
+  "next_update_expected_at": "2026-08-19T21:42:06.015477+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "8f01cbaf2ab5a30a",
+      "title": "Corregedoria do TRE-SP cobra respeito à legislação eleitoral dos candidatos ao governo, durante evento na sede do tribunal, na manhã desta quarta-feira (19), que contou com a presença de Tarcísio de Freitas (Republicanos), Márcio França (PSB) —vice d - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdlJKbEhoZUZIR2YyM2d4cGItN0VJOHlSSE5HYzhPY3czRU1qMFJ2bTZ6NEExM0QwUElhS3IzY1FKTUw0Q1o3MmRQS3BCbGRaWHdUT09n?oc=5",
+      "source": "instagram.com",
+      "published_at": "2026-08-19T16:30:23+00:00",
+      "score": 77.01,
+      "corroborating_sources": [
+        "instagram.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "32ad38d4cb65675e",
       "title": "With Over 14,000 Workers, Nigeria’s Parliament Busiest in the World - Politics Digest",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVzVOejVPTWo4azB4NVdQNkYyb3lZazdkUldZWHByX1ZyZjBSZlY0YUFjS0o4dGNFanNLaUU5SUpSMkVielBGbEJ5YmNCUEFiWTJVYzZwdElmMnM?oc=5",
       "source": "Politics Digest",
       "published_at": "2026-08-19T09:54:50+00:00",
-      "score": 78.47,
+      "score": 74.72,
       "corroborating_sources": [
         "Politics Digest"
       ],
@@ -21,14 +36,29 @@
       }
     },
     {
-      "id": "b6a878c8498d4a38",
-      "title": "Uganda’s Coming Political Dark Age - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVdWcjBkWlhZdklBazJmbkJYdC1qYThsZDFmVXVuVHh1N05XUU5Pd1dKb3RtWGdkVVhZX2tYTkJnTjEtQWwtYzVqbzB0cmJyQjFwRk92cXZJN1c0S2ZwUy14akJSQU1PVS1NS29UaFd6Yng2bEQya0NGQ3J0X3BvTXQ3SDJXNEs4clln?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-19T12:17:58+00:00",
-      "score": 73.21,
+      "id": "36db4abb4dff76ff",
+      "title": "Colombia Alcántara será Partner y moderadora del XIX congreso internacional de Comunicación Política - RC Noticias",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUZnb1FqTUQ1dXptdUlDOXZ4OTR2cjB5dktqb1F5VUFmd0VaNW81VGlka3VFamhLT0hSMWI3c2dCWkFEX256NW5OYlpWMV9iNTFqQjBmemlnOFE4QXFrSy1GdzBfb0NUbS14aGdVUWlvZEpQdi1mUzlKYTVub0g3Y0tzaTNTUGlSTmJQUUIxbWtJdFB3NXFxamt4cHFMb01sVE00M1loYk84QkpMaHVaNWRMdXJUNzZSZ0hBWm93MEdEZkVhZ2c?oc=5",
+      "source": "RC Noticias",
+      "published_at": "2026-08-19T14:10:20+00:00",
+      "score": 71.27,
       "corroborating_sources": [
-        "worldpoliticsreview.com"
+        "RC Noticias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1dbd93c892639272",
+      "title": "Mercosul, EUA, comércio e diplomacia: o que dizem os planos de governo dos candidatos à presidência sobre política externa - GZH",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUzdxeUI3OXJ6amxaUEdnSGVMMy1VMkNLZzg4SjBuUDJHWW9YblNuOHU5ZFRWa1QxOEpfa3RLLThUWndDclpZbnkzNF9KUmRoUFZYVFZycXhGUERYbUVuSVVjUFBaRU5SQ2lVc2tSeW04aTRxTnhPSEpOVGJZZGJVOGRyNVdsX1ZObTJUNVhEQWVRbjFXbWVoZlBQYW1peDlrY3E4N1ljYkFvUkE3cXpsV1Fob1VEb29lb3JKY2NfNG12NE5QUzdkcW94X2locHRpUFlhaXFQaW5rSW8yeG5sMjM2R2ZJamx6YWtVcDg5Zy1GaklHeHU0VlExcEtlbTNfY1AzNVhrYm43dzBVS0w3UlM1THFCbVVLdnpENjhucllyQjJtaHpHNmtYWHNHTXY5Q3pBUllyb2xyTk04Y2NDRjJEQl9LUQ?oc=5",
+      "source": "GZH",
+      "published_at": "2026-08-18T18:43:25+00:00",
+      "score": 70.25,
+      "corroborating_sources": [
+        "GZH"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +71,69 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjJOTXR0MkJubUVlYzZUZEI0NnlCTUtwT0RBVWptQlZHbjZzdUh0VjcwaEpSTWhORkFPc1E4aXJTcFZzLUpvOXp0RzJubUVkYWt2Z3owbU5QQkIxdWlZMjV0QTFCZGVvTEFYVnJiVG42UUduakdaazd6eURQZVd1TUVzT0QzZVBwSVdmUFZvajRUREJIMThNZ2FuNzlCZ3VERkRsNjBGSkNsMDQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-19T09:31:30+00:00",
-      "score": 73.04,
+      "score": 69.33,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b6a878c8498d4a38",
+      "title": "Uganda’s Coming Political Dark Age - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVdWcjBkWlhZdklBazJmbkJYdC1qYThsZDFmVXVuVHh1N05XUU5Pd1dKb3RtWGdkVVhZX2tYTkJnTjEtQWwtYzVqbzB0cmJyQjFwRk92cXZJN1c0S2ZwUy14akJSQU1PVS1NS29UaFd6Yng2bEQya0NGQ3J0X3BvTXQ3SDJXNEs4clln?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-08-19T12:17:58+00:00",
+      "score": 69.21,
+      "corroborating_sources": [
+        "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "19e3e672de5943f0",
+      "title": "Vaquinhas eleitorais arrecadam mais de R$ 10 mi, e Renan arrecada quase o dobro de Bolsonaro em 2022 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOejRtTGRVaVlJMjhPanIzMG81VFRtaGpmLTl2aG9oR2h1MjlsaFMyRXpSNTl5VTNsQ1hURGpLYXR1Tm5FbnBJcDFHVVhUQmxJWGQ0Rk1Ha0ZWSXJLQlQ5UmFhcElKZldpbDNjdmQwWUVCeUlkeWJXQm42Q21FNjVsYWlZOU5NRG5sem1WZFRROHR0M1hXU0RGbjRqREVhLTFEZjhYVG1QUDViWDdWRFFKamFJZVNLdlJRcmh0YTg2RndHMy1IczBtci0zN21HQk5HSG9CU1V3dGwweTgzOXZtaGpR?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-19T16:00:00+00:00",
+      "score": 68.4,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2e17a36978a6980f",
+      "title": "Ticaracaticast e Brasil Paralelo se unem em lançamento - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzZzQ2hBZHZvdWhfT0lMVFNaaWZ1bnc4T1g1eDhpamlUSXkwYVlKdXJhOXR0c084NmZFZEIyM2dWNnN0MUE4MldoblJJTGpKRUhCV21mMEt0RDZDejlkTUc3R0huVEd3R2IwVWgxNmFSaG13bENBUUliNlhTUU9ZbnpXR3lSMG91UlJJMDVLeGVTRkppLWFFSGc0d3pxZw?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-19T15:05:47+00:00",
+      "score": 67.34,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f2130fcbe513eb82",
+      "title": "U.S. sanctions Japanese ICC chief, testing Tokyo’s support for global court - japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDFBcUo2UE5CRWo1eGt2SEFjb1ZSQzBGQlF0WFlLLUlFX2dtVjBGRmJPdVBQSjhYTk5QZlJDeHQ0bGVnaU1Vb1B5ZFRYanY4dkVQMGYtR3U0ZDB2RWR2blp0RTVQREMtbGl6NURfa1N5a1NxX0hRMGxRSU9hbzcwQkgxS0oxWmR0U0c3UkJHb2NHamRQNHQ1Vg?oc=5",
+      "source": "japantimes.co.jp",
+      "published_at": "2026-08-19T10:04:27+00:00",
+      "score": 66.88,
+      "corroborating_sources": [
+        "japantimes.co.jp"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +146,67 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa3R2N1YwS2FVT1k3dkxjQ1BTU1V5S2x4NjdUUFdmQWMxcVpUUDBmc1hYQUpmd0hUa2steWZlWVY3aERpejRrNkN2M0R6WWt5cnRyeVhjYnZjSXdHejl0M2JoYmh2TzZ3MFBvTlZfX3o0ekZaaHdIMU5YUk9vWHcxaEVWQVJ4NmhVWDRNX1hWWlZxQzlJUFhMblJhZDVFamM4TTJGTDlnQW12LXVlcEtwN3VKY0NNN1d6UkFIckh3?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-19T14:01:42+00:00",
-      "score": 70.32,
+      "score": 66.11,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "14d8cbe053e58f7d",
+      "title": "» Conversatorio: ¿Un mundo para todos? El Sur Global frente al nuevo orden internacional - UNSAM",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVkRJTEItUXB4MmdpdWU2eWV4WklmaVdpY2ZNY3MxNE5veUNPZnd6cEhJRm1LdHVxZ01KZmZXX0I1S1JVYXhlR1hrbE9iMTYzZEsybnpxeWJKS1Q1LUt2VjVoNkVydlNwdnlaYWpUZlRRaWU5aHBlMm1FUUhNeGtFYl9jZHliaFFUSlJfYlJ6UXdONlJJMDZHUVlOam5SalQ4STJoSk8yaG5Od0tKTjRpQmtHdTBvZ0VOeEdpOFI3LW5DRUk?oc=5",
+      "source": "UNSAM",
+      "published_at": "2026-08-19T15:33:38+00:00",
+      "score": 64.88,
+      "corroborating_sources": [
+        "UNSAM"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c27c5122061bde9b",
+      "title": "US-ICC row. EU: “Judges must act free from pressure” - Eunews",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMUIwYjdXX1o3cmwtMTc5SDhxQVlscF96VjZzWGUwSmxBQWsybkl3T2FWQm4ySkFRWmZHTmZlbFZabGxsbUZEZ0JoSzZVRm1aQnZYenBIOWtBc0hLeDZYWjhoLUE2U3dvNWFoazlQWEtrVENTOS0tenU2c3REZUpnWXVlZ0xTdmVNaUljdEx5eWktekNwSkFUNWVKcGJHNXpYS1N1b0FPRHpXUk5Wa2RSQlB4YlpDeEJsQ1NiY0ZXTHloNTkzTFpaVk5CTThDbWI2d003V2JyLTJOMDg?oc=5",
+      "source": "Eunews",
+      "published_at": "2026-08-19T15:04:15+00:00",
+      "score": 64.31,
+      "corroborating_sources": [
+        "Eunews"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f6998b46ced0984c",
+      "title": "Irã chama Califórnia de “novo território” iraniano - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUREWmlzc0xyV29QVHR2VW5KcTI0bVBGeXVvd3VnLThhdmloMEd3ZUxINllUYzF0M1BTLWk2X0Vxa1ZXMks5YW1DNFRuRTZtcmg1aTBKU3I4MnJyOTdpbmpnb0xtT1F4QWppZ0VMMlR5Sks0MWd0cWVZc0tTYmp2dlhVaXBrOGxyR2VUX0tBSV9qTVNVemFLblFSSXZaSi1ibmJF0gGrAUFVX3lxTFBSend4RDk5d3R0NzkyY1dfT0w1Vy1rUkRIZEV2b2xETkVxNnlEdVdCYTZidW15R19KVUVHVWZSZXZoZVlqSko5V2lwRWktWTlwakxTby1VNEhoV2NZeGNIZWljTXhPdjV3VnVmTzdsejdyV0VaX2w3SmFhaUpDeW1Td2ZTenJJc0RMeUpQQ09lb2thZ3hOakp1NzVvaExrR3ROMUVXR1hqaENaYw?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-19T14:25:00+00:00",
+      "score": 63.55,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7488f5fe2c497743",
+      "title": "Diplomatas iranianos publicam mapa que reivindica a Califórnia - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFp4Z3pYb0dRLTJkSTNvX1lHYVJSRkFCOGRWcThWdExyOVhTWFZTbDlfLXVwV3NtTlFuNU82SXhSVHBYQ3c5OGsySmlQZEhMUDhhSG5GekFhLU15czQ3RlI4WGVKSjFlSWZmdk5xZm1FSk11aUxaa1dUc3NJZmx3YTZEMGlVS3BBMnl0RFZQZ2Rib3Y0QktGVVVQZU41T0dhcUNpaDI2YmVxUkVsa29KSg?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-19T11:31:36+00:00",
+      "score": 63.38,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -71,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTU02TDU4dkdpZHBpUnJYQ3Zpb3hhaDZPQkd2RmxXRkM0SHNJaV91all5ZFkxeTFZdjltMWZBczluaXhRbmNFTGhJa3g1Q2VUeUdyaFBjcm9YWmUwZjQ2OG1qaWxlMXZZSXZyS25vMThGZVdJRElNWmJUdF9Vem1IbjVWdl9IOXVXMFJYRGhEdw?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-19T13:58:12+00:00",
-      "score": 67.24,
+      "score": 63.05,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -86,24 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlZVUzRhci1TSkRUV1ZGQmhEcHZ2aWtKNnV6ZXhZeDk5VTlPU2RhNG0taEx2Mi1FNHpEaHM5dWNMMnRZeTVBV2JETWw1VVExR0F0dFBmc0lDX01JUG5HY1JlZ2RqTExvMG1UenhfdkJWaGlubDZsWlk5cFJhc3EzNDE0TU9SeHN6WThUTlYtV1ZpXzNBY2dnR2pUVjFCUnZEZVE?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-19T11:07:15+00:00",
-      "score": 66.84,
+      "score": 62.96,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e1479a07c4396122",
-      "title": "EE. UU. sanciona a la presidenta de la Corte Penal Internacional - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUc1dFc2b2NycGxFREVCV3Q0UGFsV0pPVzhMc0JYcDNxX256TGpUeDRjUlRDNTN6NkI0aWw4c1RuRFV4S3IwT05SMWgyb2ZZNjBmMk82Ti11b2s3bU5MZUlmanRKWnphTjljV1JJZmJralVrNU1jX2wzQ0R2V3V2alhzempYVXh4el81UEQ2Rmh2Vlcyb3ZHcm5QSzJWalJX?oc=5",
-      "source": "DW.com",
-      "published_at": "2026-08-19T13:00:14+00:00",
-      "score": 66.06,
-      "corroborating_sources": [
-        "DW.com"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUlFuZTlpdmdGLTVQUF9JSktzTkwxakExcWpEQlBQbmpqOVlKV1E2U3RJSUpVN0w0YWNpcFR5S1pGcXNhNEROTzQ3Qmp0cHQzZVJHMk96UzZqYWU4OXdQRGlxRGhJNlpFR3NaajVRMV9VdlpPMXhERWV6RktJU28?oc=5",
       "source": "ICL Notícias",
       "published_at": "2026-08-18T19:27:13+00:00",
-      "score": 65.24,
+      "score": 62.73,
       "corroborating_sources": [
         "ICL Notícias"
       ],
@@ -126,12 +261,27 @@
       }
     },
     {
-      "id": "7488f5fe2c497743",
-      "title": "Diplomatas iranianos publicam mapa que reivindica a Califórnia - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFp4Z3pYb0dRLTJkSTNvX1lHYVJSRkFCOGRWcThWdExyOVhTWFZTbDlfLXVwV3NtTlFuNU82SXhSVHBYQ3c5OGsySmlQZEhMUDhhSG5GekFhLU15czQ3RlI4WGVKSjFlSWZmdk5xZm1FSk11aUxaa1dUc3NJZmx3YTZEMGlVS3BBMnl0RFZQZ2Rib3Y0QktGVVVQZU41T0dhcUNpaDI2YmVxUkVsa29KSg?oc=5",
+      "id": "33f53ff04cc7b5d7",
+      "title": "EE. UU. sanciona a la presidenta de la Corte Penal Internacional - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUc1dFc2b2NycGxFREVCV3Q0UGFsV0pPVzhMc0JYcDNxX256TGpUeDRjUlRDNTN6NkI0aWw4c1RuRFV4S3IwT05SMWgyb2ZZNjBmMk82Ti11b2s3bU5MZUlmanRKWnphTjljV1JJZmJralVrNU1jX2wzQ0R2V3V2alhzempYVXh4el81UEQ2Rmh2Vlcyb3ZHcm5QSzJWalJX?oc=5",
+      "source": "dw.com",
+      "published_at": "2026-08-19T13:00:14+00:00",
+      "score": 61.97,
+      "corroborating_sources": [
+        "dw.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7f44ef95748bc258",
+      "title": "Saiba quais pesquisas eleitorais podem sair nesta 4ª feira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFRreUpmYVhReHYyNzBnRTNEbVhGWUlzZkxQS2RJdWRKTjlTS1pDa2ZwR1pQbVBvWUQyZ1RKaENrZlluVmFQWHZoSDV1Umtmd09qd1BRSHIweWRRLWs0eHlScGNCRG9EQ2l2SWd4bTF1cVl0V0FGU29md0t5b0ZTdVdfd2xZTENZM0w5X21ESkxMR0ZvTHRlVkFGa2RCM3JTb1hEQ0ZqSy1pbTB4eUE?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-19T11:31:36+00:00",
-      "score": 64.31,
+      "published_at": "2026-08-19T10:06:10+00:00",
+      "score": 61.91,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -146,24 +296,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmppbmhrRDNBeGtfamhaQVE3eEI4ZFAxa1AxVmp1LUt5NkI5RXFHb0dCeTk4R2VKR00zLTZWLWZ2bEtWN1VEMElDU014SHNHb1R0VEFiRXZ6WlR5U1d5RDlGMjZxZGRPM0FvdVdYcXlTV3dXeTdmZlZ3c2t4RHI2WHFlWUdaZFZfMzR3X3F6OHgtbV9HREROcThwRmljSV9ka1YxNTBrQjRBWlFOb2JkVVAxbw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-19T07:11:27+00:00",
-      "score": 62.56,
+      "score": 59.08,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5dfeb1796ee97d82",
-      "title": "Gastos do governo americano levam juros dos títulos do Tesouro ao maior nível em quase 20 anos - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYVZmMFRBeExodFk2MkhjWURzWFdiYWVqT21YcTZjR2xKamlSODJscXYybVVnLVpGWUFIYm5KVlNvS2c4TWFIUHgwQ0I5aE96NHVYWkRDSGF0d2xUMFhJcEd2VU1jcnpFVk5iN2YxMHZEQXo4QkUxRnRnVk9XU3Z0UHRUZHBRb1QwdWNlS0J6N3RRcHNMVjdsMHkzODBsd2Nrb3RXclk5Q1dsYU9LN1kxRXdFZ0RMTXRUdThqaWhNZklIR3JfVWdoWWp1NNIB0AFBVV95cUxOMzNMSTZFeDVzOVd2MHdDby1YNTFVelR5OG90LXFyVmFDZ01rTXpJd2VUUW92dnlKSFVZTHo2eHdRYV9aWjQxSkw2dklQaFNsT3dUWDVCOURsSVdBYl8wdWwydWZUQTZfWUJYNXNBNy1RYXdhdUlacWdqN2ViOWh0dkJ0X29KYmd6a2FKbHNnRzY0YWpnLU4ydVl6bTMxQ0ZPOHl1T0hrZG1zUmlTMkhzY3pzdXNjWWwzT0ZaU3B1aXhVUjFDU0ZwOUZFNXE0dnRB?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-08-18T22:20:00+00:00",
-      "score": 62.47,
-      "corroborating_sources": [
-        "estadao.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSEppM0hBN3Rlc3Vnc0QyVzNaNUV3SWFYbEpvaVZxOEluby00TVI3Z1VwY3BjUU1PUHhxVFo4bjJxTGdRRGw2M0I0aUNQZ2E2d08ydm8yLUxOX3NDMWMtQ1M0Z1VsWS1yMHNQMi0wZkJyZm1xYU9GUW85S1BUQzJGNFc3X3lacjBjeFZQTUY3RmtmcEVFVTdMZTdvYmowT0stWEJ5cVJFQ180dkxDQ0hJMUh2aDJrQTl3Q0IxaGZ5VmxnM1llR1g5eEVXTTlnRnVDNGlsb1dCVU5sMGlabzBtcFBybFM?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-19T07:03:00+00:00",
-      "score": 62.42,
+      "score": 58.95,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -191,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdEl2V0VUeWhVX2FUell0SHRvNUNYSkNmQzlxTXBrZnVvaUNLUkFQcDF1alA4bkt0NXA3WFNSSVlWb09fel9tNHlJWDd5SG9WLUppdlJ6eHBDR0xzWi1RVzJDeS1oZ012bElXZVlMend4cE1Gck81TXhMWk01d3hNTE1EYzBKRUVXZEh3VC00VWtPYlh2TVhhWEhjMURhTVJSOHNOY2pmVThsQ1ZfNTVxTjNldUFha2VPSEdPcDBZcVZmWkpiNkhDQzJPaVMxNFEzTVE?oc=5",
       "source": "Informat.ro",
       "published_at": "2026-08-18T11:58:47+00:00",
-      "score": 60.22,
+      "score": 58.19,
       "corroborating_sources": [
         "Informat.ro"
       ],
@@ -201,14 +336,14 @@
       }
     },
     {
-      "id": "f541da092056fe3c",
-      "title": "Filho de Renato Russo autoriza uso de música em campanha de Zé Dirceu - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVo2LWVvN0JJTy1veTYyd19mSzZ0NDBodlBxWjYtRW9DX1ZsWFNrWVB2aDc3cDRQNWRKSlZfYnBMd01wTUJ5ZUZVX2otYmRyM3ZPNmhjcGRxTUwzZmF5ek11aHZwQmRuWW5ycDBHNV9QbXE2S01DMVJ5YTNiTVR2ZkN6THhVZ044a2R2Rll4bDZyTGo2Tm94V1dJRlQwWFV1M3lUVG52dFptM19VX3prMEJvT3ZMbUpQWWc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-19T03:06:51+00:00",
-      "score": 58.59,
+      "id": "490ef917389a9b7c",
+      "title": "Comediante é investigado após piada com o partido comunista - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWMyNUxZWUVYNG5YWEdIek55SlozWi15Z2MxT3hUZlV1OGZFcHd5S08xdmJGT0VEeUtpaE5zQy1XbllmMm1wbUlmX0VFblZuZTFKa29vNXg1RlpzMldEaEFPc0tfUk9jdHB2STZFSjRVZEwwYUwzNkt4dnBqSHZyOEdVaFR5UWVWRjVnSjczbzdMNTFsN0liaC1tM2YtRDdicDcwYg?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-18T16:44:08+00:00",
+      "score": 55.97,
       "corroborating_sources": [
-        "Poder360"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdVpORUxUZVZOZGR5OVZTNmhBcTI2dDM0TnNFa0loYUVqV2pKb0VXQU00bnRoWVR1TU83MHpEYXdmNTNYazZ3aWJxUGRWWFNjQlo1akJzRkxtNlF4czNsSTlqeHdTUHBEV0gtTlI5MGNlQmU4S2RhejFJemNpdDNpZmNxRURLV1VZLUtqakhPUGFJNUZ2SENPd05SOE9MQUF2QXFncGU3djJRSy1VM0ZHUDdMd1hBWldTUGM1bUxmR1RxRXNTNWJaX1NURVRLV09wYnBBR0tfRHJSNnUxOFpObi0xeTFpdjFtWkloSVdLdGNLcTZsZEtN?oc=5",
       "source": "Política y Medios",
       "published_at": "2026-08-18T21:00:10+00:00",
-      "score": 58.42,
+      "score": 55.8,
       "corroborating_sources": [
         "Política y Medios"
       ],
@@ -236,9 +371,24 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXgtdEc2a0NicEh5MzRnRFVqeWE0cXJiMWRhZUsxNHlhRlY3MGZGZ2FDc3lVSmlPdWRobmJDU3dDdWRMT2tOOHp3QmFmRFJfX19ud0IxMkZDb1pUUzZQbzhNaGNaSTk4LXprdFFPUFQ2c3h0UHpGTm5Rd3M2Sy1CYXNqUUxsdl9qVk1DRElUaWFPV1VPeExDbzZoZW9KRlNaZzZPaUFmYXFoWHpKaEhTajJyTmQ2azRFV256NU1meDRaQQ?oc=5",
       "source": "Tribuna do Agreste",
       "published_at": "2026-08-18T21:00:00+00:00",
-      "score": 58.42,
+      "score": 55.8,
       "corroborating_sources": [
         "Tribuna do Agreste"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f541da092056fe3c",
+      "title": "Filho de Renato Russo autoriza uso de música em campanha de Zé Dirceu - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVo2LWVvN0JJTy1veTYyd19mSzZ0NDBodlBxWjYtRW9DX1ZsWFNrWVB2aDc3cDRQNWRKSlZfYnBMd01wTUJ5ZUZVX2otYmRyM3ZPNmhjcGRxTUwzZmF5ek11aHZwQmRuWW5ycDBHNV9QbXE2S01DMVJ5YTNiTVR2ZkN6THhVZ044a2R2Rll4bDZyTGo2Tm94V1dJRlQwWFV1M3lUVG52dFptM19VX3prMEJvT3ZMbUpQWWc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-19T03:06:51+00:00",
+      "score": 55.48,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -250,25 +400,10 @@
       "title": "Fenaj quer que STF reabra discussão sobre diploma de jornalista - Poder360",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOGJraTFiSUhyemY3ZGt1X1k3Q2xpZUdtcm1VSDI4djdlQnRXUnJzd1ZMeF9aZU9pc0tBaGtGSjZaSXJ5ajRZbUt6a1FqYkhEMkZUR0MtQnJ0YXhjWHZvT2NHT2pycGpDR2lSQWZ3cm0xcE15ZHpHMHpzRWJIckN0bTFuWDBPYWcxT01aYTVZNkNRdEJlVnlHd2l0bVFrWG5wR3lZOGhyeEczZw?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-19T02:51:45+00:00",
-      "score": 58.36,
+      "published_at": "2026-08-19T02:51:56+00:00",
+      "score": 55.28,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "490ef917389a9b7c",
-      "title": "Comediante é investigado após piada com o partido comunista - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWMyNUxZWUVYNG5YWEdIek55SlozWi15Z2MxT3hUZlV1OGZFcHd5S08xdmJGT0VEeUtpaE5zQy1XbllmMm1wbUlmX0VFblZuZTFKa29vNXg1RlpzMldEaEFPc0tfUk9jdHB2STZFSjRVZEwwYUwzNkt4dnBqSHZyOEdVaFR5UWVWRjVnSjczbzdMNTFsN0liaC1tM2YtRDdicDcwYg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-18T16:44:08+00:00",
-      "score": 58.3,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWWpCNGdSTlB4VTVHdEFibWt6SndHV3NiN0VxRVJWeUxzSTlMUnRLZUQ1d2NPVlJQZVVSenRuWW5BQ0p3b3IycjFsU1V4ODlJZTdacVp1VElLY3poTllyWkpUZ1lPNFlfbms2eGJCUm0zNFI3ZXdCbi1vSGlnd1FLQWczTmtNWnV3NUt4NUJ0aVZSTlpoQWV3NjAycHJMeDktUUlxZTBEeE9IVzVQdkN3OElzeXhyaExiMXh4RkdZa2RPLVFuTzNEMWJrVDI3M3ItYmZPY2N2Yw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-19T02:30:00+00:00",
-      "score": 58.03,
+      "score": 54.98,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -296,24 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXRRcWdkVkJiNmE1VFQxUktfeGxRWWREZzZQV0NUUU9LUW52ME1YVHY2dXhRTW5TZS1PaWw0ZktFZ3VnMmNIOERwMElBZ0g0Z1ZpUTl2bmFLNUpvMXhqWmEyUVY3bWpmUWxxTG9kSndXdFZSXzl2c2JhaHd3RWVZVVpGUkY1cWFjZ0E2MkVra2ZjX09fc3pv?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-19T02:16:22+00:00",
-      "score": 57.82,
+      "score": 54.79,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d38d31d6f02680a0",
-      "title": "El enemigo de Europa no llega en patera - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVl9iR21odThQR0FKTkpuTzloOXRfdi1ka3VWSzJDUEhZaEU2a1pGT0lZRkhNcS1BUEVNUTQ0VTNYQlVaWHJCQUdLczdOT1VUVW1uS2pmb2lmbDAzeGI2R3hRR1dOUFVtb0I5X2plZ3JBeDJtbHBwb2d5WTFYU0I2Wi1sUFVqZnpPeXYtOFU1VVFnUdIBlwFBVV95cUxQU1BMVXlsQTk4cC1lV1ZJXzNFbGEycHQ5OTBXZWlTVG5OcmRRYVFPaWhKT0ZyM0NxNGgwVVlsbXBMOS13am96R2xjRFQxNzV1M3RKcFhOeXloenpBQVpPd2M0WTQ3R29KOFJDZXdFSEJvTXRSN2lncWFlLURMN0JuTTBFM2Z5SXJnVUxWYXNXaU1oX2xodnU0?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-19T05:24:21+00:00",
-      "score": 57.77,
-      "corroborating_sources": [
-        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -326,130 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzdwNHhUdnZQUnlva3Z5MU8zcEo4OWxNWjduLWxkcDhHTkNidzRTeExhd0lLbFNIMmVhRnBNRlZLT2tZOW9VNWN4N1hGcHZiRTlBaUhkN2xXLUJPMHJkblFmU01XUW0wYWgtaS0zTzFlYllaMGJ6UWx3M0dFZUhLVW96ZFhCMXBQbTNYZFdya0lxOUszR0VuclZuZG14aVV5X1EwaFdTaXhPT2xJeGtjRnQ5eU1HSU1seFBfcnRzZ0dDRVg1ZlhUdTJISUpwYnFoeUxv?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-19T02:13:00+00:00",
-      "score": 57.77,
+      "score": 54.75,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9444b78e78ddf05b",
-      "title": "Eleições 2026: Confira a agenda de Lula, Flávio Bolsonaro e outros presidenciáveis - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjVXM2h0UWpHdFpibnpOMkk4LUQ4cTM3dllmMF94WG1nSkVEc2JlcFA3WUpUZ1JkT3lZVFpYVFRFNmRYWmRKem5WYkhrcWhjWHFlczlRaDNSR0xjeWwtbmU3Sk1ybkJ2V2pWMy0xTVpDWFd2bG80SFYtVi1CS1ZKaGc3RnFCdGxKYTRCTGJOdlpRSkVrb0xvLVRnTXdPQ0hJYzdPaHdBVC1CTXdacDJfSENra0diRGwyODc3ZWY3SWtBUnFPTjRqamFn?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-19T02:07:00+00:00",
-      "score": 57.68,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b94caef04af2db67",
-      "title": "Ministros do TSE fazem reunião fechada sobre IA nas eleições, mas julgamento segue sem data marcada - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzRhbW1aM2NadmtiQ3ZTaGJSRWNBUlVvRUxnYVFmekNFVGp6Tm94U2lyNTNDUUh6RlRWcDVicWg0dkk4bThRUGJwOFdUVEJzTHJiRk1reGhHWmlZUGRqdWhtbVR1UDFYMnN1dldkYVhiZzFDUUlSdXREbWRoSHNrX2I5YVZuOWxURDQxRksxcDh5QUJtQ3JsOUU4amxkRU8xS21JMTRjOURROUZpZHRxZ3FYY2FNTXlzU3NZTkNRR3Z2OHBKS1pIUTF6b1pxSzBDMm9xbHpDaXhNSW8?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-08-19T02:02:40+00:00",
-      "score": 57.62,
-      "corroborating_sources": [
-        "estadao.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6bd98f0f2b92617d",
-      "title": "Trump anuncia un aplazamiento de tres días de los aranceles de EEUU contra Canadá - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV01PaWNsczBxU2drNVdRUmxkZElXRjdIVk5zQzNLV1MyT0V6TExoVE41aGNVVnVnLTRuUzFLTnI0NHBRbldHZnJxZ3JUbEdCd21DdTRkUlV1c2xSS00wWmhqcHVIa0lHY0RLX2JfZm5TQ09TT2hTR1BPVm9JXy0wU2g0RzNFOFQ2cVRleFlWUVd5SmZQREg4bmg2a0dFeUtpYkp2cDVid0NFVUExR2d4VGtQRm1fMkxFOGNqMlhuckJDN0ctVngtadIByAFBVV95cUxPRUdqeG9SZE0xWm9ycFpNZl9jNy1kODBjSEQxUTR2bXAwSVNaQ3hXUlVETC1wUGVLVTU4QU1RdW51ak9pUGdLSVVxemd4S0VLbzdnWXZBenlwSXQtaXRGa0ZsX01oRExEV2szMU5vUmVJLVZ1QldtSzg2SmJLRzROSS1xdXNXTkVqZEFyRlplNHVYa0Q5NTBXbHYyYmpMb28zRWNneW9KbkNQcTlYSm1CSDZfbG1VSG1vTlpNZEdKT3Q1Umo4VHVnaQ?oc=5",
-      "source": "El Periódico",
-      "published_at": "2026-08-19T04:53:06+00:00",
-      "score": 57.26,
-      "corroborating_sources": [
-        "El Periódico"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4d93a5f7dfc19b4d",
-      "title": "Trump publica imagem que mostra Ormuz como território dos EUA - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0FwOEtRcEdCaXNRbWg4YzRyczM5U0dELTdWbXNNTVFzNTlGT2t2bUNTNGxxaEd6aWxBdDAyeHZHcFFvdnQ4bnhqRmdEdWE2UmxXd0t0RXVaYnRUWURXbTZZRkFfU185SjJRZWZhTmx1MjFqU3pnUmZfdmNlZS0zck1WdXVTdjZ3X2JabmtyaW92dVJOMk5fTjl2dTh0cFJpSlNwX2ZOMFlZVnEyV0o0?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-19T01:36:20+00:00",
-      "score": 57.23,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "81bce63ea253b6ee",
-      "title": "Moraes e Dino defendem rediscussão do diploma de jornalista - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFc5VmNUcWt2SWpSY0FCd0E4MWdYQS1MeTNIZU1ib0pUTG92cHYzQ2tCdzZxMkhKVUZIN3UycVhSTWVhVnhKb3dGTVNPbnZfNEZBQ3FvOHM0VWtmZ0ZIaEpkTHJyU2VteFZGWVd5eG8tdUpvSkIzdkpRN2Q1eno5QWZxd1pxOUxCNllZeTB1NVl1WDV4WGp0RU94LXd6NDN5TGJwWg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-19T00:00:46+00:00",
-      "score": 55.86,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e9a5c43776b3ade6",
-      "title": "EUA: Novo chefe das relações com o Brasil é crítico de Moraes - pleno.news",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzR1YTVJQzVkVzhaMG9nd1NJQ0Y5dk4xUzBRREItVGJpeUswZGV1S2tiZXVCTDczNmZYQW1tX1pERFhheVNvcDlqdTNyRFNjZmdaNFhRbTE5ZktKdEo1OC1JUHdKVXJuclFORDdkRVFIM2FxNTF4dDczMU9aeWlFVGd1TmJZNnZJb3NoUXFGY1BSN3c0RG5YTW9IYW5EZ29NNldhNVQyQ3M5RmNDa1BuNkZYd9IBuwFBVV95cUxNSjJkMWxwVUdpZXdVdE94N2Rra2pBeU8yTk5yaEFKNnRYNFJwMWxGZ0tERTVtNGM0SHc0c1J6VWxWMjhFa3IyUGl1eWpOS0ZGd1lNQzlrX0dVUFRQSE5IeGxpUTk0XzF2aklzeXYybmhaU0dpcnZaUkVyYXhhaGhZaVJ6X2RqRmhpVWRaUUZaWGVUc19VN3JLcnhIcXB6MkFvWnc1U3dCNXRfQnVzVEpYUXhtTmRkZ21kb3NZ?oc=5",
-      "source": "pleno.news",
-      "published_at": "2026-08-19T01:35:00+00:00",
-      "score": 54.21,
-      "corroborating_sources": [
-        "pleno.news"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "700eac45e99fb8b7",
-      "title": "Clinton cuestiona la política exterior de Trump: lo ve más afín a Corea del Norte y Rusia que a Canadá - Canal 9 Bío Bío Televisión",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX21YdW9Ed3BMWGlSTjFKT2MwUG9qcmhkc0RFTnMwMHBiYWw5bVRaU3BoLWctZzAtZ2U1aWN0WFBNZDRwcXVfN25HVUk3dEs0LW9XOUF4VlhsNHFZTktMUlN5bEg2Z3B2c3FYWjVKM29GbGttX3F4SldtaG5jVWl5ZVIxMUMtLUNVb01aME04S2pVYnhxRDhJLVNDVXRRblZCWFRwdU5nX0ZEa01WOE9uR3lrUC1PZG0tUHFZUXI0WDlSMWEzRGQ0TVVubkZ2MWZ4MUJOMkpXVmxmZw?oc=5",
-      "source": "Canal 9 Bío Bío Televisión",
-      "published_at": "2026-08-18T01:41:09+00:00",
-      "score": 54.11,
-      "corroborating_sources": [
-        "BioBioChile",
-        "Canal 9 Bío Bío Televisión"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "da98846274522c64",
-      "title": "Manifesto com artistas e políticos apoia candidatura de Dirceu - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEdXdzZWUFczVmNqSU5qZC1XVjNQYVB4cko2cHE2TjJuV0N3Wkt2Uno5TjVuTHV3eTUta1hxeW1TOE15VGFNS2xVNWNHQXV1TjNIcEJaMXFJM19xdmJqTmZ4Yl9HOWxJWFFDcEVBMFVZQndhcEtYU0VSQzBGOEg3M2cxYWZZS190eXhIVk05QjU5ZWpUcGU1aVl3M3JkWjNONmx1VXJwOENHRVZkZHh1SQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-18T21:36:12+00:00",
-      "score": 53.89,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
