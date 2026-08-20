@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T14:20:30.530475+00:00",
-  "next_update_expected_at": "2026-08-20T18:20:30.530475+00:00",
+  "generated_at": "2026-08-20T17:51:16.776004+00:00",
+  "next_update_expected_at": "2026-08-20T21:51:16.776004+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,7 +11,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnpXM2UyZFlYeW9YS3BmWlktQVZDdUUyX3B3MHVDZmNkOUxwbVJDRWlHcjlkbERfc0p6dFRadVY1bjhNTEJvRWlQNUE4dl9veXFncThMT2lseENDbFNscWVNMF9VTER5bTJtVXFjSUt2T19MQXI3MDhLREUxcUJYTFQ4SkdJRTF2a3BLQ0VNMFNzX1M1ZmRQbGdqbERSVUhRekNKN05FakZKQ0tIZDE5XzVBWFI1V0ZOMUkzQldkakc4dw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-20T11:43:00+00:00",
-      "score": 83.31,
+      "score": 79.42,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -26,7 +26,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XSjBFUVRCeWlUeXdEeTVRZjZCcjJRNmstaFYzYUFqVVE1TGE1QXh3VlAyd2RvbGVMcjAwWUEzakpGcEhzWmNvRkFiWC1xZnpuQnhIclB3?oc=5",
       "source": "instagram.com",
       "published_at": "2026-08-20T13:56:19+00:00",
-      "score": 77.98,
+      "score": 73.84,
       "corroborating_sources": [
         "instagram.com"
       ],
@@ -36,14 +36,59 @@
       }
     },
     {
-      "id": "c30a40362c069a86",
-      "title": "Kazakhstan's Political Shift and Global Tensions Highlighted in World News - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEtTTHpSY2QzcTE0MzJ3NGlsa2FCMkg4dGdPRzZpMmlJaGtmRlpTSW4yNXhQVEd2Z0V3Vm1BZHVzOFpXV1BjOVFpV05DWlJNak5XMjYzT1o4RDY2dFBjZGpsWnU0aFBhZlNEMktmN2ozYmpQREwzVmRLLTFZOGM5dkFyc09QVnhDYTZKRl9vYld4VVh1ZWJFYTNqSGxqRUt2anJlS1pJQW83SVc3bC12ZHlXWVF4WkQ0QmNZZXl4NFNxTHROdFHSAcsBQVVfeXFMUGxoQnpNX1BUeGxXUzNxMkpxbjRCa2FXd1hFMlhEbGM4a1hHdnV3aUdJb0p6S3JJRG1Cb2RZY3l6Yk9aU1JSNUJ4bjUwVG9aeFpwSjJta2hGRXFTR3NXSmlTR0dZR1owUk51ZVhmMGZycnhtNXJHTTBvUEFVbHJnUnczTEUzZjRfV0NkeTRNRFBNSmY3NURleWwtX2dRV3g3ZmZFcm1Tc2V1VVhrdmMtODBHbVVlTFRMQlozbXRfR2FhbWM0UDFwWk5FV0k?oc=5",
-      "source": "Devdiscourse",
-      "published_at": "2026-08-20T12:59:42+00:00",
-      "score": 73.82,
+      "id": "cfbeb5799afd224e",
+      "title": "Um candidato sem campanha? TSE proíbe Marçal em debates e o uso fundo eleitoral - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GaDJBRGZxUW1ncjRKXzNJeUQwVkItX0hUVVdzY1RGWTVmaFRUQ1pjd3Y5ZFhRS2toQkttelpndzJsd0pQTXh4LWlNVHBHSEJHcFdmWUtNZk5KWHh0YndTbEdmNFpnUHE2eDZTREoyN3VnRmxPYjRiS1RZQQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-20T17:29:51+00:00",
+      "score": 70.03,
       "corroborating_sources": [
-        "Devdiscourse"
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2da59ef07c49104a",
+      "title": "Politics - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hakJBMFhjNUJzRy1hSTdDN2VsT3FLcHQ0dHpOdDhub2g2Y3R3MW41WGFnR3NOcUNOYnVPOUJwTnJIQWRSZzRDcWVoVkhKQTNENGJoZjVORFF2UmZuWTctV3F3b2tHQVhUcThka0Jtdm5ENHc?oc=5",
+      "source": "The Economist",
+      "published_at": "2026-08-20T12:59:02+00:00",
+      "score": 69.78,
+      "corroborating_sources": [
+        "The Economist"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d4127771b84a9ee9",
+      "title": "Lulinha processa Flávio Bolsonaro por vídeo sobre suspeita de desvios no INSS - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONzdJSHV2R3ZwbVJGaDBndkRvVGp3ejJiLTc4RFE0WHpJdUlOOFVQNHgyZ0Z2RXFValozLUxyQlhuN29JMFNsMi1LcVVpSUoycmpsREx1YU5CMjZwU2p1dzYwbXNSNWxrckN0b2dYY0pYeE5vSW9jNS1Ca0ZRMzlWNzlpVW8tc3l3XzMxM2d0VE1iSWptYXNqdjVuelB3ZjNnMkIzcnRHY1ZtUDJWUlNzaVZpX1pXR3lyNk0zR3dxcVUtZWsxWFE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T16:45:00+00:00",
+      "score": 69.12,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c21a69c9df9bde00",
+      "title": "Entenda o que se sabe sobre as investigações que miram Lulinha e o que dizem mensagens reveladas - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQnBsTDVUTHVJaUVuMGNpUWU3R0Vla2JqbUl3eDRZSlhvcF84SUxST2swYm5OSUN4MVRoaXFPU2RoOW9MbWZEY2x5QUVPWUFYMHh0d1dqU0dwTXRISUtXdnZJYjhvRmRWSTduWFh0WnBBQjI1TDdsN0lhUDJPRXhneHBYWmdhYXZFSjlVSklIX0k2UXp6ZWs4bFJTX0loT0VXVzVKT1ZiZ1I3bEpaNVQyb2s0TEdFbHhyQUhFOHhyWW1CWm1SSDV4VlFzenRUSWNXSmtFZ0VXWHZXX0JxcVVz?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T16:37:00+00:00",
+      "score": 68.96,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOV9FVm5GM19YUmdEaWRXWWprTVlmTTZXUldPUnVxejJ1T3pxa0k5OUVQTHYwcF92Y3k3ZWlCeWFtUkI2R1pQWHlkUmpSaVZMWnRUVTJ5TkgxdV84OGx5TnhOSHpHRFpQYlhEU21fN3ZkXzIzWXB3YVVTSGU3QnF3aGxtZTdLSXA5WmViaEJ6SW13UjVwX0RsN0t3?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-20T09:43:44+00:00",
-      "score": 72.36,
+      "score": 68.68,
       "corroborating_sources": [
         "Pleno.News",
         "Poder360"
@@ -67,12 +112,27 @@
       }
     },
     {
+      "id": "80fbc44da11e57d2",
+      "title": "Um dos homens mais ricos da China vai passar a vida atrás das grades - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1Ata0RvX1owdWctT0VOMkZzaGdDQVd0RGpkcGlrOFlZV0hFa2JueDNPSWFCcFprOTVSM0tFS2loSks4NXhQM29XOElQYmItNnBTUkx0bGFsckRZczIxQmNDTHVFMjhSN0tXUWtWbm5KVHpTYVJ3V2ZSa3BsU2VvdnFqNXI5RHlIdE1qVjgzNDVRMGIwQS0yTFJCdXlvLTFKaWZOOFRpb0s5cTBJS3pXeA?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-20T15:51:21+00:00",
+      "score": 68.05,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "0ff9e066fef1ce0d",
       "title": "El Partido Demócrata se prepara para las elecciones intermedias ante diferencias internas - Reporte Indigo",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMUlQOU5sRUxnd094empEQlY4SEFXdk84Y1dyT2dQVmZKTGNZa056WnRlUHpDY2c2LUd2VFlYVkdjU1l2YWJZSDI1SlQ5cUt0azNHZUR5M09NbmVCSWsyUmc3dG5hRTFVbFJfR0xhUGgyTlNtUmk2dXk3LWdLb0l2d3kzRTJVajZreTFVZFQwaVRjdlNJMTBMRmgxR2haX21mdldmYy1Pc3BLaVpjOVVPY2FVSjFfTm1FUmpONEtMbVA0U0VENktmUVkwMFYyQmcyZU5UdDNFcU4yTjVnd2FfeFNHUUg2UVXSAewBQVVfeXFMTTdBNFcxeTJWQklmcm9MZ0w1RlNFclRQbWdGbGJ2UjJmRUdsYU9BNWNzM3JmQzktaTlQVGRySnpiUUFvQjdHV2hZTVNVeGNFR0swX2RpRy1yakk4cnZISEwtT2tVamY1bUpnb2laMVAtNW1QRmlhelg4RUdIcUlFNTlKYnhxRHkzYWtLUExGeGZMWVhTem1JY0p4QWMyMzM2cmd0RjdOdXk1WDZqSnJPNWFvc0V5Z0E4N0Itdzc0b1luZGFyLXZlUG0zanF6ckZNamQteFl2S054MWg1NF94dGFSQmFSamNNb2loODU?oc=5",
       "source": "Reporte Indigo",
       "published_at": "2026-08-20T11:00:00+00:00",
-      "score": 71.49,
+      "score": 67.67,
       "corroborating_sources": [
         "Reporte Indigo"
       ],
@@ -87,7 +147,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVW5IejltaW02M04yWlpTYzJNTl92QUo1MVBSTUJGcjZrMXFzVkxaZ25Va3BXOEFSNkdyQ0tKRFQ5bWNseDNwZFdqc1N3R1UzVl83bDNxQVk1WUxfN0pCREcyWnZkdWNxSzdjNVE0Rlpadw?oc=5",
       "source": "The Japan News",
       "published_at": "2026-08-20T10:24:00+00:00",
-      "score": 70.81,
+      "score": 67.06,
       "corroborating_sources": [
         "The Japan News"
       ],
@@ -97,14 +157,89 @@
       }
     },
     {
-      "id": "a3bacd6ec8f52972",
-      "title": "Infantino chose padel over the U17 WWC finals in the Dominican Republic, but now he is playing politics there at a U14 CFU boys event - Inside World Football",
+      "id": "cbc78d122cd6fac5",
+      "title": "Sheinbaum defiende abstención de México ante la OEA y descarta intervenir en la crisis de Nicaragua - vanguardia.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFVjWWdpZEc4Vi1CVFNYQkdVM1FnUUJYUEpLNENlMWpMWVpuMXJMY3RhTnE4bUlRUGg2UEZlQlBINFgwdnBZeW16ZGhhancxQklaaUxfc2o3RnNyXzRrZlZNSjNnbVF2MlB3N1ZOUkdwd1A1M3dDazJ4elBRdEt6VXdHLW1SQlRpeTZkZTVJNXhCM0N6b3RKbXdoQjNmc0d5VzJ0TVZDdjZnQVVtMUp4cjRIbUFpMTJCd1l5OUZZVm9nWFczMldUdmJKWVlwQVVEbjlIdW5SZUx3NllKZnFVaUhPdS1IZ2M?oc=5",
+      "source": "vanguardia.com.mx",
+      "published_at": "2026-08-20T17:18:53+00:00",
+      "score": 66.81,
+      "corroborating_sources": [
+        "vanguardia.com.mx"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "21b84e830b2f1357",
+      "title": "TSE proíbe Marçal de acessar fundo eleitoral e participar de debates - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQjhxSk43NU1EbWphaFpSTG1CcmNzZHVMSXFsWTRuWnVkZkg0Q2wzN2g2RC1fWkU1YWNBZVBsQ0ZQal91NjNSLURxUGRIR2tDbnBaQkFveDdpOFRjSkhPdGtKeWltS3pxNnhVNkJ2blowbXV3ejFYX2FnNkNpbHlTZ2Jvc043ZzItQ1pUWmFLRmNiSWRTX2xaWXVXY2hCR2sxTkVIc1drek9KeDVQUWJIclAteVRtLWM4OHc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T14:34:00+00:00",
+      "score": 66.55,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1eeffd611131d615",
+      "title": "Infantino chose padel over the U17 WWC 2024 finals in the Dominican Republic; now he is playing politics there at a U14 CFU boys event - Inside World Football",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNRTFGUlJzNE5iZU41WEl6SzRpZ2ZrR0Nua1B4X2NwOU1QdUhnTm54YWdxQy1CTFZ6azA5N3I1VDlBaHcwSlRLcjZGbWdkYjVPeFhZTDM2NDF3YU5fd2lZRU81Q1V3dXdtaXZ1UlZ4M1BiQjVYcVQyUnNwY2VncjV1bGMyaE9uQUZRbWc0amN4aHdfU0RlaTZKdDNMZW5PWTVHcjJHWmxRSnZjTzl6X0E3TVY0WmRlUzRIYmZEU3pELUZmZFhhcktBejhQQ3oxOWJabUJQOGoyTHNOYlhGZmx5bXhKNV9DTk04M1htTEk3THM3b0JMU2lZNzVjeF9KaGs3QlNodlgyODZwM05U?oc=5",
       "source": "Inside World Football",
       "published_at": "2026-08-20T09:05:32+00:00",
-      "score": 69.37,
+      "score": 65.75,
       "corroborating_sources": [
         "Inside World Football"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c3856d537f43a6a4",
+      "title": "Flávio enfrenta protesto contra Tarcísio em 1ª agenda em SP - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjVHZWJJNThKdVA2TU1wMm40aGVieW1teldXSmtMLWw0SmJjNnB2NGNiN3lNSGdtMmhPZkVEanA0R1F4elVoZVdRd2ZWOWpqeG1GdWs4MzVhRThCVDRCOVdxaTk1bTdXdjctVnZablpJWjBCbG5XMDlBbENFSHgxRzN6Y2VfdjdHUTRzNXR6SHZucDZGbDctQS1rY1BsQ1pzMUFvMV9lNnprQ0t4?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-20T13:43:03+00:00",
+      "score": 65.59,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1b45de2ecec77f80",
+      "title": "Sheinbaum defiende postura de México sobre Nicaragua tras votación en la OEA - Grupo Animal",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd1FySVVrbVFLZDRxQmxLYUNxQm5GLVpFQnIyb0lvZ1pNRGtYcVZ3R1ZZVnNTS09Rb1pUR1Nfd1pTWEtaZy1NSkwzWmdBWXlQNVZzTDhxLTdycWctNjhWWmk0eF8tdDVRSXdMWHpIRGd6VzNrQjI0andpemQ5bnZ4Nk5UYVd2Zw?oc=5",
+      "source": "Grupo Animal",
+      "published_at": "2026-08-20T16:16:55+00:00",
+      "score": 65.55,
+      "corroborating_sources": [
+        "Grupo Animal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b0e260a4552fa11f",
+      "title": "Dívida dos EUA atinge US$ 40 trilhões enquanto a onda de endividamento do país continua - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVkwc0UwLVJxS3JfS1ZYYnB2REpTZ1AyeVhBNWxuMG16MEhyLTFJakJiOGFOWHFfaUtoaU10TGxaWWV6eGtPTUhfMkFCT1dfMnBjemRTZVRsb2ktRjNYdmI0ekhTQ3JuLS00eHAtTVJNU0RIZ0lXTmsxS3VMeTg1WnFRSDEyVnlORGZKZDlEOUpVSlJt0gGaAUFVX3lxTFBfVzZUOWlvNzhwQUlIcDZoUUhHelpzTEozYVpSa3MxQVJySU8zQ2thbVZOOFJ4REt5RExOM1NIWURsSGxCTmNUNkd2UmIzajFwdEpTOGt1a2RucENJU2UwV3JkUG8wandIQ0lZV1R4YlNFTUp0d2xLWEFMM2EwSVpWWlF6aU5EOWlxbHBWU0pMN0luQlZ4NGtXa0E?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-20T12:13:00+00:00",
+      "score": 63.95,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -117,7 +252,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDBqQlVJcXJyNmhBS0FFLU92LWdFOVVpTG50VTVpekJBZlZReFdGUGJoV3psR29Ecmx2UlI4NkZpZ3NGSkZBMUlMMEtqV2NYX0JFVFMyQzgyTU8zSWIweFByQkdrQzZJMklCUFJxWU9nbUlXUzNMbHdFdmNyX2c2dUhHa2FCamk3TC03cHpXRURjTV9RcmdBbUcyZktBeVVtd0JmYWZVZmxlMzlJeVVKdVRnVQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-20T03:42:53+00:00",
-      "score": 66.97,
+      "score": 63.86,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -132,9 +267,69 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkZDSVJoeG1vczdUSzR5Q2RVbHNxbVBuX2FGcEs4SnNDblBiNmktSTF2THpDSUpkYTRzVThNY3hfX19tc29abnlQSVYyRVJMTWxoOEVXOXVuWGI0WjhVSXNWMzI5S2phbDJwQ0NYSDdSS0NrWlJhTUh0ajF1RWNybWoyenpGX29MSk1YOVhPcVJpdzZ6SmtSWDNjR0J6bmg4Z1lMMkt5VFE3c21jSUtFWExUYVRobE0?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-20T03:28:27+00:00",
-      "score": 66.75,
+      "score": 63.66,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3993c9c11d7693ea",
+      "title": "México fija postura en la OEA: crisis de Nicaragua no es amenaza regional - Grupo Animal",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDJWWVAxTHhkdm52VUdWTEVsZW11VGZaQ0VPNG5nYXhFSklRSE1jX0h6YURreXlwSUJtZVk3YVJ0YXNYT3VEbldmS3Q1U3R1eFg4emtEYUNVbjN5YXA4eVdrRTh0dHdjbmxwWEhpU2xheC1MV0VCT0R1YnVZZVhrSFlqMEJ1T3lqcmo1dQ?oc=5",
+      "source": "Grupo Animal",
+      "published_at": "2026-08-20T14:07:39+00:00",
+      "score": 63.05,
+      "corroborating_sources": [
+        "Grupo Animal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ebf4f161e53149f5",
+      "title": "Congo’s Deadliest Ebola Outbreak Is a Symptom of Its Governance Crisis - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEluN0s4bkRRTEhNeElHUVl5WU1La1dfbGl1blIyOUc3RlNhZlVUcWNXZVk3WEFkOTZwS1MwbU1UdElBQ0M3aEF3QUFYMk5jYzhBMjhEQ0MxRG9xYzA3RUpyMmFCRmxwNVBsd1kzbHp1UlFEc3hmcEJkUFRLUkZEUUhPYw?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-08-20T13:55:27+00:00",
+      "score": 62.82,
+      "corroborating_sources": [
+        "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "872738b2d033aef9",
+      "title": "Saiba quais pesquisas eleitorais podem sair nesta 5ª feira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlozT0xUdHZwODNYbHFYNS1Hb1Z1S25xZUxVY1lfa2x4cFZEa1o5U1d5RHpHM042ZnItaXlhUTk1enlJOUVZd1c2ZW5QQ1FBRHZpV2YybXVCcE12bU5sNktRcDZpV2ZDZ1Zkb1FBLXA0WmpBU2FiTnBpWVNLb3ROOUFiUGU5UGpvX3BjRWxfTE1VcEluSm9YYjVkQTVuWUx3bjQwT1hTQnVldHdxQ1E?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-20T10:02:55+00:00",
+      "score": 61.7,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a0510115fd5a6747",
+      "title": "Durigan deve se encontrar com economistas do governo FHC para falar sobre eventual Lula 4 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORXJKZEs2NnNiLWhvX1EtdDQzQzBDWHlLellaRW0zZ2hYMHhldm1rZVZtQ0ZHNzRGdWZlS0szSG5UMU81QndJTFZ1MTVwTW04WWlZWG1tNnZaX2k0dXo5WnpIcmE3ZUJ0OEZVajA1LWpORThjVVZuUXkyRUVOeVRLWHJWaUNnNWRGazJ5OGtSTUE0TF81b2V0THVNUXRsZm1rcWhQbk5wUEE3b1pBSWhWcGJzM0I4T1ozLV9Rc0hCSFBsYWNWLVlfZGZoU3ozLUl0RGhTQ2RBaHc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-19T23:50:00+00:00",
+      "score": 60.75,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -147,7 +342,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdW10dmFrOFIzUFkzb3drdmlCckRiN3FwT1l4YnZYblMzcUh4NVV2WXJYbXhfQk1qYVZGSjExTnRkMFI1UFc4Vi1NZGM3MmhMWVN1SzZ6cHpBc3pldkltR041aUJMelVqZzA4V0x1TG1RMVE3d2E5ZFVzYUIzMFliMTh6c0dVVU1kcW96SXRIZG9kc3pNaHhHc0pWYk5oUEhFVkNSTXhSdmtVT3Q2eGJ4OU5JR1FZRVVNWnlyV1VUYVBfWnk0MFJ6RVZB?oc=5",
       "source": "La Silla Rota",
       "published_at": "2026-08-20T12:00:00+00:00",
-      "score": 64.64,
+      "score": 60.72,
       "corroborating_sources": [
         "La Silla Rota"
       ],
@@ -162,7 +357,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXk3VUxjR0JQWlhrOThDb2o3eWFXVkRHSmdZWkx1cWozMWpjWkVkUnlXOUkxU0ZzMm5jOFpPSHBWRGliTU82X0lNSnhtNkg4cHFmWmFIbm8xN2Q0cno4RHZ1d2NvN1RYeXNtYk5yYmZfU2VBWmhzaVZ0aE1FQXd1SjZvcTR1V1dp?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-20T11:48:54+00:00",
-      "score": 64.43,
+      "score": 60.53,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -172,74 +367,14 @@
       }
     },
     {
-      "id": "95c179e6ae1c3c3a",
+      "id": "4add20dd194a9dcb",
       "title": "Excancilleres se reúnen para analizar los desafíos de Colombia ante el mundo - Ecos del Combeima",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbXJRa0x2SmstdlRBaGN5cFczTDZQNUpGTjVhU2tFYzNfbkpEZHcwc0JwaEtIY2lSWkJDN1VKQWlPREp4RHk1eWtiRGpyTlJibFhPaFJiV2VQQnRubUVkUVNnVVpTaXpxNEpXcFRWM0xLWjFnSTdZZUlmVVdXSGJnalllOERxX3lhb2N5YXhlY21mNmx2VGFiOEJncjVaQVJZTFdPemxDU2lGZUxxSFhIZlo4cWVDd0hGeldLUkM5VC1vNERhNW54RQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUd0YUNqNEtxN3BZdWlLUG1ORHByMEJzQ1czcS1yS1p5VzJCMnFKcHpVbzFCczBmSlFucEJCbDk0bVZOamUyNFZPeEZBOTR4Ym9OOE9JM0Nhclg2OW1jb1NRZ1BqRnJMcXU0YjNwd3NQc2JoS1ZRWm9MWEdTT0NlM2hHeUJyT0R3R2tVZlBiVkotZV9KeXZXTUxtVzR6VzQ3S29fNE1qWWxLRUpaajBVVFdvaV9lZVJGZ3BPajExRml2Zw?oc=5",
       "source": "Ecos del Combeima",
       "published_at": "2026-08-20T11:04:23+00:00",
-      "score": 63.57,
+      "score": 59.75,
       "corroborating_sources": [
         "Ecos del Combeima"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7c3d24727f4cb1e8",
-      "title": "Interview – Paul Kirby - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTXdFeW5Kd2xwRzNfeWVxTTVCV1VhcEZyTGRRV2VtbV83ZXZvQXJCV2J5UG1SUUJadzlBd0kydzVFOGVVWGRhRFh0TUZtdTlYTWI1REFR?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-20T09:31:48+00:00",
-      "score": 61.85,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "921f5da79104b618",
-      "title": "New reception facilities for 1,800 migrants open in Ceuta - Eunews",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnd1eHhERGhkWlR3Y1ZRLUlVc1U2ZkRNWnFYVjVSNFREaTRxNl9xZWN2eFpxMmFhSC05RDBoby00Rmk1YXQ0MGdHV1NEeENibk82RHJoSnl5VUhMR01HeUpQX01MLUFnc0RYSXFUZkZ6ZmlNWE5TR1ItR290a0tJZ3VLWGV0dnJ3ZGZiS3lSdTd1VjZjQmVjWHlaR3dtWXBXLVRHcW92eS1STFZnbmdNRDIzWWZYdkJScnlaRE82am0?oc=5",
-      "source": "Eunews",
-      "published_at": "2026-08-20T09:29:31+00:00",
-      "score": 61.8,
-      "corroborating_sources": [
-        "Eunews"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2c90448d8ddd2d66",
-      "title": "Eleições 2026: número de candidatos policiais em SP cai quase pela metade - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXlkTlhIVTBuSzZoek9UMUpFYllFOWRMNmkwdlk5TklrMTN1RDZnU3ZZNWVRS282STUyUHlDUlF1cEFtOFBwa1lvNFNyRllLdWhJY3JGZURGcU1HQjRKa25VLWNRX1kxTVZPalNTWkJHN19BRFZXQkFBcllzVktURTc1eFVuLUUxaGVKWkxwejdpZnlDS0pqdTEtQjRKN0V4bnd6dGYyMXVULWc5eVE?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-20T05:45:00+00:00",
-      "score": 60.92,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f1e67962403a0c44",
-      "title": "Víctor Aldaya: «Uruguay tiene un rumbo fuerte y claro en política exterior» - mpp.org.uy",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelY0LXhIRXdOYi1QLW53V1c5eUxHcjdGTWtrbXJxY1RxZy05eFJnUHVvNXhqd3dIT2FKMUIyenJ5akhBUnA5SXJQVGVxWldIeTFpWjRMLVhJSXQzUWIyNVNRYXM2NGk4Q0NPU29qZ1FrQ1c5LUFYRVVxQ0xSckE5QUlBeE8xOW1nT1hvY3JkUGJSYUh5TVo4?oc=5",
-      "source": "mpp.org.uy",
-      "published_at": "2026-08-20T00:07:07+00:00",
-      "score": 60.79,
-      "corroborating_sources": [
-        "mpp.org.uy"
       ],
       "signals": {
         "source_count": 1,
@@ -252,7 +387,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUzdxeUI3OXJ6amxaUEdnSGVMMy1VMkNLZzg4SjBuUDJHWW9YblNuOHU5ZFRWa1QxOEpfa3RLLThUWndDclpZbnkzNF9KUmRoUFZYVFZycXhGUERYbUVuSVVjUFBaRU5SQ2lVc2tSeW04aTRxTnhPSEpOVGJZZGJVOGRyNVdsX1ZObTJUNVhEQWVRbjFXbWVoZlBQYW1peDlrY3E4N1ljYkFvUkE3cXpsV1Fob1VEb29lb3JKY2NfNG12NE5QUzdkcW94X2locHRpUFlhaXFQaW5rSW8yeG5sMjM2R2ZJamx6YWtVcDg5Zy1GaklHeHU0VlExcEtlbTNfY1AzNVhrYm43dzBVS0w3UlM1THFCbVVLdnpENjhucllyQjJtaHpHNmtYWHNHTXY5Q3pBUllyb2xyTk04Y2NDRjJEQl9LUQ?oc=5",
       "source": "GZH",
       "published_at": "2026-08-18T18:43:25+00:00",
-      "score": 59.87,
+      "score": 58.63,
       "corroborating_sources": [
         "GZH"
       ],
@@ -262,14 +397,44 @@
       }
     },
     {
-      "id": "7212ae2e5ee160a6",
-      "title": "Resumo sobre a Guerra Irã-Iraque - Blog do Vestibular",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTFjTkV2YnkyaWVfWUlqRkd3Q1NFV3U1ZVJkeWZiU0FzekppSDVOUnRfS2VyamM4VHhmNW0xOFdTRk53ZnYyUG15X1FzaXB0a3htTF90NlhucmF5RFVfc3UwT0lrd3NPU1lOTklqTlhtUDFlc3BmWUFQd052T0pycG1CMGpIbDdHU2hIZ2xQQQ?oc=5",
-      "source": "Blog do Vestibular",
-      "published_at": "2026-08-19T22:46:27+00:00",
-      "score": 59.68,
+      "id": "921f5da79104b618",
+      "title": "New reception facilities for 1,800 migrants open in Ceuta - Eunews",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnd1eHhERGhkWlR3Y1ZRLUlVc1U2ZkRNWnFYVjVSNFREaTRxNl9xZWN2eFpxMmFhSC05RDBoby00Rmk1YXQ0MGdHV1NEeENibk82RHJoSnl5VUhMR01HeUpQX01MLUFnc0RYSXFUZkZ6ZmlNWE5TR1ItR290a0tJZ3VLWGV0dnJ3ZGZiS3lSdTd1VjZjQmVjWHlaR3dtWXBXLVRHcW92eS1STFZnbmdNRDIzWWZYdkJScnlaRE82am0?oc=5",
+      "source": "Eunews",
+      "published_at": "2026-08-20T09:29:31+00:00",
+      "score": 58.15,
       "corroborating_sources": [
-        "Blog do Vestibular"
+        "Eunews"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f1e67962403a0c44",
+      "title": "Víctor Aldaya: «Uruguay tiene un rumbo fuerte y claro en política exterior» - mpp.org.uy",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelY0LXhIRXdOYi1QLW53V1c5eUxHcjdGTWtrbXJxY1RxZy05eFJnUHVvNXhqd3dIT2FKMUIyenJ5akhBUnA5SXJQVGVxWldIeTFpWjRMLVhJSXQzUWIyNVNRYXM2NGk4Q0NPU29qZ1FrQ1c5LUFYRVVxQ0xSckE5QUlBeE8xOW1nT1hvY3JkUGJSYUh5TVo4?oc=5",
+      "source": "mpp.org.uy",
+      "published_at": "2026-08-20T00:07:07+00:00",
+      "score": 57.97,
+      "corroborating_sources": [
+        "mpp.org.uy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2c90448d8ddd2d66",
+      "title": "Eleições 2026: número de candidatos policiais em SP cai quase pela metade - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXlkTlhIVTBuSzZoek9UMUpFYllFOWRMNmkwdlk5TklrMTN1RDZnU3ZZNWVRS282STUyUHlDUlF1cEFtOFBwa1lvNFNyRllLdWhJY3JGZURGcU1HQjRKa25VLWNRX1kxTVZPalNTWkJHN19BRFZXQkFBcllzVktURTc1eFVuLUUxaGVKWkxwejdpZnlDS0pqdTEtQjRKN0V4bnd6dGYyMXVULWc5eVE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-20T05:45:00+00:00",
+      "score": 57.63,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -282,174 +447,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUUhoazhJQUphY0hTNm9rOXNGYUFQUDJ6bnAwcEppb1ZyRTd2bWFYUFJtQnMtT3kwa2FmRVFyc25ydDJ2Y0YtNVVUZmtzSk9jTlFnYzdZRUl0U3lYcjV3V1VzT3VvcXhDVjJLSFFhNG9RX2RpVjlxM1lRalAwT0NqMXh0YkQ3QlVSNVNVWHp2NUxMSG5MZ2x3QnhJUHA5ZHpKM1RNVE1FYw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-19T17:17:15+00:00",
-      "score": 58.55,
+      "score": 56.22,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "821e2e745bb60ced",
-      "title": "Tebet diz que só um democrata foi ao 2º turno em 2022 - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEcyRjJSMURSVFc4d29hLU4yRTdXTURDMTRwankyb0diNlBIVlV2S3o0VmhYNndlb2ZQSXl1d1NPS3RBdEhRSXpnWkJBSmgtdEloLUtXMmtQQzJONW85anZELThhMVFHaUVBVG1JLTBDVGxpR2Y0VEFlVkFWT2FfM0hQd3kzeW9QbDVITXZUbExUTl96WXd0Zi1sM1ZlN01lWTAzcQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-20T03:12:21+00:00",
-      "score": 58.5,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5116f7eed0a61f1b",
-      "title": "Nicaragua: Amnistía Internacional pide acción conjunta ante la reforma política - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWpvd2JfNExVQmNYVjBDdGc0WWpFY1ZlNGNLVDVrUjFLb2xtbG0zcERwOWg1ZUx2LXktMHNoZEhQR3U4RDU1TjhuUTFMME14dnFLMUVmbmNYbTlwNXI1RWVDZnEtWVo1YnR6UmhOVFFzcXBPaFRCV1d3dklKOHlzVExQMWxfbmtITDNCTlhKaXJncHIwZXVZOGtLazEtSzVSYjNTTjBwSXZ1MDQ3VkxHbmwwQTduUzI4QTFvNkhMMGR4UdIB3AFBVV95cUxOY3g3b0ZJaXpBREx6UGFjcmQzazlDVGh0c0I4Qzhad2QzcnhvLWV4N054aG9EWUo2Qng0VUR1VzBuZ2dKY2NoblNRb29WRXhyR3prbDExcWRlaU80cGtyU1NONnhmNUdhUjhObm43SXN0bWN5YjlPSlI5LTVfcTBEMS1jeTFqTmhTQmxCOGx5a01UaVBZdGdkREF4cFlsSlNPY0VtTG85SGdSYnB0NU01bzlEN2dvM2NCVzF5TGxhalZuX01SNmpXU0ZsdVpzRThwNGRyTFpEbUpPVEdX?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-08-19T21:16:00+00:00",
-      "score": 58.48,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "36f23f55c32fcf84",
-      "title": "U.S. Escalates Campaign Against ICC With New Sanctions - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIQ0hiallUaHdCbTB1YnRFa3Y3amtzbWlzbEFPV3luUl81amJ6WG5laURuNHVWRm1uRzY0Nk40RU02bmFOODRFS1dpd3YxOHd5UWdjSHV5NExpUS1talVTTUtKU1U0NndIQlFpU2JBVERkSk8wRTMw?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-19T21:09:07+00:00",
-      "score": 58.39,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "79a7d92eb15bfa68",
-      "title": "Ministério Público pede ao TSE que barre candidatura de Pablo Marçal e o impeça de participar de debates - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORnd2UnVrY3ZwSkpaQkVKMGR2YnZnWlFkYkpUbDJ1UnlXeVk0U2hBLVBteDRuRHNucWRHRVRfSXh6MWwxYmNoUjdLcGFRWGRpdnRyTUtTdGRUQmMtUVhaS0lZX09FSTdORUEzMGthTzVtQXVCZnVaYy1TbmpPam40OGFwR3MxRDhENkdweWI3ZzlJcVRZNUt5dHpBQ0NpRlMyeWN0VFRReDFhT1VTYXE0aXl5U1lwY28wRTdyX2hIMjFTSzF6SVpuU3Nkd1JFcUNQdXh3Y3FUNFh1NkItOEN1YldEZG9qLWR0X3c?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-20T01:39:00+00:00",
-      "score": 57.11,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9a3c5cea511dfaff",
-      "title": "PT quer ampliar participação feminina, mas mulheres são minoria - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVE1jNkxzQ000TmtZTmdUUUEzWWU3ZkpVWlhKaUNyZVZhakt5WGt5SXNYSWJrMnNManVLbWI0NldjUFY2T2hJVGFXZXdGb2tjZVZ6OHA1V3BfM3M0REFsNmlpTG9lZ216UV9jZjJENDNFR2hYTE5lNmU1Y01OU3pGcURvcm9sWGQ0WWd3aW9Ba1ptWmdRTVNwSlBoSXZyZ2VSVlBjOTA2WXA4YnZGZlVFQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-20T01:17:53+00:00",
-      "score": 56.8,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2f113de90d1d0f99",
-      "title": "Michelle lidera disputa pelo Senado no DF, diz Real Time Big Data - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUlsNHFfTU5jdXozMThtcDNoRFBvYVF3RnM1M2FpMlFlTUVfcXdUbWVuM2dQbDh1UmhBVjRMRWZIZVgxYlZsWDFsRHJTVWJiNXNYTjNRdW84cFY5STRpeDZScHdERmFQQUVWTHY1MFBRSFJHTlBVVnd2SWQ5dlJiZE1pTTctcWhuV0x3RXBER1dLT2l4enVDRWUzODhOZzFObGc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-19T14:41:19+00:00",
-      "score": 56.8,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "96e07bd595e65a3b",
-      "title": "A world in transition, a test for Nepal - Nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdExRbFhZRXBmTHV0X3FhSDF6cjZqR2JzMUdPdmpvU3BZRml2QTYzQVVGOUdKUnltQnFUM0tSZmx6ZnZrUDNMV25VYTFiOUxkbTlicVZZWlg3R2pGREhGTFd4UHVlWFl0UGtWTEdaZThjRXp6QVhqOFJ3aWQ1b284ckRRaTlydw?oc=5",
-      "source": "Nepalnews.com",
-      "published_at": "2026-08-20T04:30:29+00:00",
-      "score": 56.72,
-      "corroborating_sources": [
-        "Nepalnews.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1c32b0c4ffa5a8dc",
-      "title": "Tebet critica gestão Tarcísio por falta de verba para delegacias da mulher - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEdNc3IxQmh5cC1GaFNYekxfbGh3ZUgxM19PM0xfbWZYYnUxRFFiLXo4dENFWFhfa1ZDNkNwSUFRMTN3aDYxbnRKaDFHNUpoa0lsUDlTZWxjcVpqTlFtXzMzQndjbFlLOU8xM0FkMkh6QnFURV85V3JZZW5Tbk5rSGJWNHVfUVBtdnpnNzd1UlhubTBHZjlpbHZJaVEzWnZENGRmaXZHOTNiSzdHZkhpQ19iVkJUTFNuZ3pDdEpkbW0?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-20T00:57:11+00:00",
-      "score": 56.5,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fc89238135777277",
-      "title": "Él es Rogelio Granguillhome, ratificado por el Congreso como nuevo embajador de México en Irlanda - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2ZOTHl6akk0aWc5OFk1UkZXSVJCRnBRVmFjcnJQdzFxcjI2NUtyUEVIeHpfS2JMZjFaY0JTOGFad01qNDBocHNjeHZvc3dYRHBKb2NZdmhMMVRMVGJVSHBhV2ZfUTdDS0VTc2pDUHVkazQ1djhGMFdFalhqbDJCOGlyenp6RWpSZlcwQ2pXMnZ1UG9WVmZsYWtQYy1XcWhzOENidGN5LXZQZU5NbTIyd2VfNHp6T1NRbVItTkp0RmJ3d0hnYUpkQWd5c0gyMkhqNDg4enZ30gHwAUFVX3lxTFA0Yzh1VGpxbXhxVVNwaTZiVUpjd2J3Vl9fUlY0Y0lZUnZ5ckNLS0tpV1Z4OTVqU2pjdGVyRll1U2VkZW5wdUdNWks0cnJhejcweEQtV3BJLVBKd1NzXzd0OVdwbGhDUnZzalpOMHhUR1cza05tNnJ0RXNVYmRQZ1p0RW9NclJVS3Rad3RadXdIY08yTTVhdVQxTVo0VFpfRHVnOEhGaHFNVmpWVm1wSWJ0S285Nlcyc0daY0dWZnJQV3podUEzd3I0X2NLR2x4TnJ2SE1pOTlqeDlqdGU1TmJZOF9kMUxRYnduU2ZOX0U3Qw?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-08-20T03:38:07+00:00",
-      "score": 55.9,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "04e752274f12b784",
-      "title": "Moody’s vê crédito sob pressão no Brasil, mas aponta data centers como nova frente de investimento - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUloxaUhvdUxjdk80QWVqY0hqQVBGczBCcnE5ek9EQ0dvU2h6QmYtU2FsaUVBLUtzQVJIS3RnMF9Nc3JfYTQ4YVhGOVVGSkNwVnVwTFFlNzF4dE5zMkJUdm1qam1IN0JLQWRLV1podmEwX1ZaZUY5R19UcFBCYTN5SzVLT3UwUEhjRzJtZVVkQXNNMGdVS09fdmMyQVlqaDBXOWtha0FvZnNWYldSelYwTmpjOHZFWDVCYzhFUHB1YURQNXVzc0E3OGNkM1BoSWl6MUp3MDZGNjFyZTJJdGRLWW5xbW03VlJpZEZF0gHwAUFVX3lxTFB1YkgxRUoycjU1bTRQZmpFNjctTWs4ajZzZm5icHNHLThRTXREWlhfR1JYM0g0c1BvM0tYZ1dVTGZJb3FENmk3UHdnWkd1bFF5eU53M2RxejhYbkJxQXRuQlVzYk5ldmxnNjctTF9mZm9HblkxM19iSk8tLThoa0c4eWVIZTdKQ1dQSF9kMWhzNC1RUF9DaUNsbFdtZDlFQ3BYM1VTckM0T0NJc2Vxems2eVdubi1oSzF0TnBma193OWU5aVJvYkhfX3JTNklzR2ZHY2J0a0VNYzU1OWNObDJyeU50QjVIRXF4dUl3Ri1VXw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-19T22:18:00+00:00",
-      "score": 54.3,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "36db4abb4dff76ff",
-      "title": "Colombia Alcántara será Partner y moderadora del XIX congreso internacional de Comunicación Política - RC Noticias",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUZnb1FqTUQ1dXptdUlDOXZ4OTR2cjB5dktqb1F5VUFmd0VaNW81VGlka3VFamhLT0hSMWI3c2dCWkFEX256NW5OYlpWMV9iNTFqQjBmemlnOFE4QXFrSy1GdzBfb0NUbS14aGdVUWlvZEpQdi1mUzlKYTVub0g3Y0tzaTNTUGlSTmJQUUIxbWtJdFB3NXFxamt4cHFMb01sVE00M1loYk84QkpMaHVaNWRMdXJUNzZSZ0hBWm93MEdEZkVhZ2c?oc=5",
-      "source": "RC Noticias",
-      "published_at": "2026-08-19T14:10:20+00:00",
-      "score": 53.47,
-      "corroborating_sources": [
-        "RC Noticias"
       ],
       "signals": {
         "source_count": 1,
