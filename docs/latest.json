@@ -1,19 +1,64 @@
 {
-  "generated_at": "2026-08-21T14:19:04.518913+00:00",
-  "next_update_expected_at": "2026-08-21T18:19:04.518913+00:00",
+  "generated_at": "2026-08-21T17:50:47.969686+00:00",
+  "next_update_expected_at": "2026-08-21T21:50:47.969686+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "0694f4af6a51e3b0",
+      "title": "It’s Time to Talk About a New World War - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qclFzaUpOM0htVDNQS044S2tiUDNSQ0t1YktSOEJrMHRuU2hneDBaaFV2NW80TWRZSU1lTHE0T29jazNYVWR2VjRMdG9XVm9JYzRndWMzeF9JV2xnTzJIek8tNDRqTFBGS0VV?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-08-21T13:58:28+00:00",
+      "score": 70.89,
+      "corroborating_sources": [
+        "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "7cd9d0a0b606f14f",
       "title": "La política exterior de Javier Milei tiene una desaprobación mayoritaria - Cba24n",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzdqMW9ZZmxnYVlNTmJ1MlpFVjZlQ0ZqM3k2aXp3N19DZlJXUlFhZ3VpbldtYXQ0N215X1F0NmZfYWJUUU9ZVFZKamk1M055VVo2Ti1YX0VQZWIzTVFPbTBBN1ktLURfa1ViTUphbnRrcnlSREExakFoZHpZN3Q0cjdKRXE0US1ydUFobmstY1RRWWxYYjJ3dEIxUlJzTmNXY0Z2T0JudlJpZkp5WEczVmctUTdUdkk1Zl9GYk9ybXFJYWVIRExjdVQ1elQ?oc=5",
       "source": "Cba24n",
       "published_at": "2026-08-21T11:41:29+00:00",
-      "score": 72.31,
+      "score": 68.4,
       "corroborating_sources": [
         "Cba24n"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e9f93e74821cc383",
+      "title": "TSE define tempo de TV dos candidatos à Presidência - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnRnSUxDSURhUHVrMEowWV9mLTVqbjZqYjdtZWdCZ0pkSDluVWczbl9MS2FKeXBQN0FlS0lnR1ZoT0FWUlVQXzBLdURIdVhhWWd0S0JHamVxcVdKTWF3X25SVzJmZm50c3JvWlZsM2JrajRwRkloa3RWSUF4VDhXVW1wYWVucUJ6cElWQWJQbjgwemNrZUhxMWFn?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-21T16:03:21+00:00",
+      "score": 68.29,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6eac1348cdec9e53",
+      "title": "Milei defiende su plan económico en Buenos Aires con insultos y burlas a la oposición - expreso.ec",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmFGTEtuOU1nQ1htSGFxSnU1MF9RYnpXd1hnd0pDMUpSQ0F4WUlIRm5laUJMeGJvYlAzTXRXdHVuUEZYSEktQkV3YlFPYzJOTk5PNEJScTF1QkotU0VYWHUxd3kzVHVYWFlOLXNocUhGUktzamdEbndENm1lZzlaZHloSDVrUXp0bzI5d3VxeEw3dDlGOVhMY1ZTS3B3bGVhLXg1YUo1aHhqZ2pZV2c?oc=5",
+      "source": "expreso.ec",
+      "published_at": "2026-08-21T17:35:59+00:00",
+      "score": 67.17,
+      "corroborating_sources": [
+        "expreso.ec"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUJkRXZuQ0hPV19kVEN3UXRKMjBHVUJiaXhnWS1MclVFZlNwbU9WaFVDMEk5MjhCZzNvZFdkdUNKWmd3c29ZaGJOMTU4VHhpVXM4dUxCT3QxVUduSHJGSkpYRXhacVlrNERzS3M2Q3NwV29CLWduSDFKdWtyM18taml2WExBTHJTeWp5Mlo1VDJCUmhnVno0dEdCQ296dklRa0FTYm16RXY2b0xkTHJERDJ3cUNWTW1pVno3VnI0VGc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-21T07:00:00+00:00",
-      "score": 70.2,
+      "score": 66.77,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -36,14 +81,74 @@
       }
     },
     {
-      "id": "1323b4e734aca5f1",
-      "title": "Arab Contributions to Islamic International Relations: Why is There No Breakthrough in Theorizing? - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WTkdSSG5SNVJfd2tmSm9BbHZLU1M3NDFYYmQ4WWdheHMxZHh0c25NMk5qbVN0cWs1ekxKc183LXJwNGJBWlpEcWJ6QlV5cnpEbDd0UDMwLU1NenhHYmFTeW5fdS11N0tzMG0wd0ZlQ2xlRzBh?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-21T13:16:38+00:00",
-      "score": 66.19,
+      "id": "f5747a34853a89a1",
+      "title": "Lula telefona para Trump e fala sobre tarifas e crime organizado - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazN5VFFhZEozeHBLdGtZQmJTRzVfUGJfb0hjQm16X3FfM2E3cnNpY1NWbURwNThzQ1FjRjRhakFxWlVrZkNWMTZNbWtMNVQ3cWwwWnlQS3R3NzdMQzRaQ3dldDE5N0lkTUJsRTNzNTBOU2NHU3hHM2RoQUZvbFFVWXVjaUFFYUVPd0R6MUtveW1qdUhCRGdOWF9adU43ZEtWbnVkNWIyc1EzcTZHQlJ0ZzJncjVjQUw40gHAAUFVX3lxTE1YSUlLdjllbGZNUEstR00tNmJTN3RzZHhxOGNET1kxN3QyU1Y0VzdWY0Y0N3lwS01YMWZjbTJzRzBIbVRqRUR6UkNlbjlnVjRUMGRlcDRJTWxZa2RHcnVBaGRBazBfMVNvXzlabkhCMWRpWnJKLVhPUEt5Nk1LQkdpNkh2d3hHemY5bm9wSnAxUldkREFMeDFUbV9jOFg3eDJld0tnSkt3NWNmY3RpdEQ3eC1kTFhpb0tqZ0pud0Q0Xw?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-21T17:03:00+00:00",
+      "score": 66.49,
       "corroborating_sources": [
-        "E-International Relations"
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9ec5fe5388bac5cf",
+      "title": "La UE reclama frenar la persecución religiosa y blindar la libertad de culto a nivel global - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWjlwalVWeVUwUzhiQjhRS1NSSUF5bjlTbWlkZl9zaTIta01IQ3psU3pYU25Lelh6NHlQSmpiYnlZSU1vNWtLREdEcTZlazI0ak9QUU1DaFZYSGl3NDM1RmpEeDZpbXhUajNSMUJLeDNEU0lBM1V1UHNCY2lVWHFFaGY5Z0ZNSnVsUE1rUXJyR2RNYzJ5cWhRSWhxOEhwN3pSajRCOTRGLU94VVVoSjhQMnoxbGRnSXBrUXlYaUhSNHphT2RlbXc0UUVrMNIB0AFBVV95cUxPRTFzQWJGN19CcThNdHJmdHJWZWtna1Jvc2hDbjNuVFFkNGZXd2t4SWNxQlhhZ0Qxa1NlVXF5a1VaUXZKQnlzLU1QOUJkSDNUdklBaUJtbUJMNEJhV0ZoeEFQU1Q0WTJzZlJZa2g2eHlmbjJWQVhMemhETGNvVVpybW5vTWJqejVPdEJFZkVCaEhZd3FqekVtUkZzNW53QmFFQml0N0tnZ3hYSW5aLTdQMDNURzhINGRnb3UtOS10MjBsNE5ZdEsxZUhFUGlFSXR2?oc=5",
+      "source": "Demócrata",
+      "published_at": "2026-08-21T16:06:35+00:00",
+      "score": 65.36,
+      "corroborating_sources": [
+        "Demócrata"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4cdc77bea3e62838",
+      "title": "Governo amplia a R$ 200 mil teto de financiamento para motoristas de apps de olho em eleição - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05PdHVFdFc4Q3ZDZWFkMG9EcDFCY3JGWW45MkNxeVQxSDFpWll0RkRnZlh5Y3AzY3k4UEtCSUJER2RGTnU5T2FLYjV0NGd0UVdPbkhmTmM0bldWZ0F1d1RuYlR1VE5MU0E4ZWY0YlFMdFVGUUh0cjh2VVdXNTZLZUdGalhzZTROSVVYdVB4TEZzUVJ5NG91aHVHbkN1bll0Y3djczhXWlFsUTFzcTg4T21lS0tZWC1xQ1pWQnRDN2NrNGpSNGZwWlNKSVNKMXVfQm5IYmY0d05vN0k?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T17:30:00+00:00",
+      "score": 64.36,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0d1c3dad9d2bc191",
+      "title": "Ao vivo: Prates e Daniella Marques participam de evento do Lide - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUtIZFptY21sN3R6TEl3UzRkV1dmeHdSQkRlaXF3alNUZ2hNcDFvSVJWQUFMSFZLaVV2Zk50U0tNZmpwcGRqaFVFb2NfejJFd2RGdXVuczE3RGFFWHM2QnpqQmZOTDQwRUJvZmtIbFFLVkNJb2stUHRfYnJGRkFZbWhLVmV5aU9mTVIxVWZBeE53M1F3NTNVTkdFT05OeFJ5Mk96N3dxMFA5Zw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-21T12:05:58+00:00",
+      "score": 63.84,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7d334fac12779ab2",
+      "title": "Meloni se afasta de Trump e expõe racha na extrema direita internacional - vermelho.org.br",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTExjbGFlYzM4dzlmS216aUpmaGd1dXFma0RuSklfVlMxWTlscmgzMkU5UjFBTlBxbHFQQlREQVRhcTZTZzlBT3dNNEdCdUswSTRNNkVtaTBCN2x1Wm5ZY3N3N3RuSVB5U3YzTVNHMHdCT0xCa2o4VDFCYW5kOFRUYjgwZ1R5eU1iaXNObFc5WnFZVlFVNDhfckhNX09qZFMzYnZIOVpRd1EwWE1K?oc=5",
+      "source": "vermelho.org.br",
+      "published_at": "2026-08-21T14:46:00+00:00",
+      "score": 63.79,
+      "corroborating_sources": [
+        "vermelho.org.br"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +161,52 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNE5oWlR4ZjJmYkVWbDFMNmJWZzFyTEZSWVBWLS1vOC1mdExsb3oxUlhUMzlSRnBRUlIxcFNTYmNvTC1pTUVsUnFKWFR4Mm5HYXhjbFZxQ3VsYkwtaThsWUFNX2FDb0RGSnVaV1JFaDE3VzMzc2hJUWRETEdicGNiR0pXNkw0MEc5SUlZenVCa1FOZWhMNWc4c1ltTGNmQQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T02:48:05+00:00",
-      "score": 66.16,
+      "score": 63.11,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "365b5be9fdd46ac6",
+      "title": "Morocco’s Youth Are Choosing the Sea Over the Ballot Box - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjV2YS1RSnZCclpWaDk3WWJ5TjU0anM2dHpqdHlNUWxJMEJXOWtfRVR3XzQ0STYyVHFVVmlwMWZQNWRzTXp3WVluZkJWVEVOV0w5UDZURzNyVDhfX2dUbkFEWm1aa1lYSVBXUHB0eXlsY2VvRXEzUHg0Wk45MHFKSzZR?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-08-21T13:22:57+00:00",
+      "score": 62.23,
+      "corroborating_sources": [
+        "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1323b4e734aca5f1",
+      "title": "Arab Contributions to Islamic International Relations: Why is There No Breakthrough in Theorizing? - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WTkdSSG5SNVJfd2tmSm9BbHZLU1M3NDFYYmQ4WWdheHMxZHh0c25NMk5qbVN0cWs1ekxKc183LXJwNGJBWlpEcWJ6QlV5cnpEbDd0UDMwLU1NenhHYmFTeW5fdS11N0tzMG0wd0ZlQ2xlRzBh?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-08-21T13:16:38+00:00",
+      "score": 62.11,
+      "corroborating_sources": [
+        "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ff2f025c41699f3b",
+      "title": "Lulinha tinha \"comunhão de interesses econômicos\" com lobista, diz PF - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0M3OHNOOWFSV05KbkZsWHVEMHVTOVVoYkdGTDdvbEtYQVFxS1hvbzRLX0hkUDB2eGROUlYzNVdsYkJXeGJwMkRfOWoxQjJqWk96cE1wQVdrcU1ZNWF1MHcwWXc3TktucWlPZ2NuZGtDY3F3VlpKV2pwa1BSb1N3ZnpsYWhXMzNadXd5clpvd2ZWbXk1WThQM1lfRDE2OWdTaUNTNElZWW1XbmNFaVE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-21T10:13:56+00:00",
+      "score": 61.9,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -71,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSmNDZDlfQ0Y5MUZFVFdfa2NHSl9VZTJncDBBTzlKVG5EVjlSMThEODVXUW1JRVpkT2Z2TEIwaDI1VmlScHROZm5fVFFzdzRTR3JsLTFXN2tBUEhSaXhkV0ZkVHlRdHJpSWprcjNTVGNNczFjM1ZIWkJ3WFY0ck80V21rdUhvbnowLVMtaHZrZXNOUlZCNk1EOTZaanhlaHhBM1pjYUdzR2pyY0lmQl91V2g5cDRwd2liSTRxUExXUXJFazJuVDZfajZkbndyQ1dRdXc?oc=5",
       "source": "El Desconcierto",
       "published_at": "2026-08-21T12:59:50+00:00",
-      "score": 65.86,
+      "score": 61.81,
       "corroborating_sources": [
         "El Desconcierto"
       ],
@@ -81,29 +231,14 @@
       }
     },
     {
-      "id": "b8f317ce5d66cc4a",
-      "title": "Global Developments: A World in Flux - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3VIUEE1bWt1ZGZTR0VtYVJnQ3E5UHFKUHhkMjFtRjAwNEJUanV2WWZiVE9xX3ZWMmE2SnNwNElrdjFKOEtvYk1OZU5ZTjJVOUFTZWU3RUlwNHk1N2JIei1BOEhtZlJRRzUwYlhEUVFfeU5XMmlGS2NKa2dOV3pwOHdwR19zTVJabF9fUUVMT3hzclnSAZgBQVVfeXFMTXI4LWVHcDVBTkNnSkRKNWJqR2NCOUprWTZ4MW5KZ29uWEg1M0NEeWFHRGxUcV9CcS1xbV9tRXhyeEx1cGl6Ul85LVNaRmpWbGVsR09oQUsxNkJRWWlURUpXbzkwNmdTQmhYMl85RUQxNmtqelp0c0pDb2pBbDYwYTBxTnRQRjJnNWJRcG5sZmhJcWFXN1RvWUo?oc=5",
-      "source": "Devdiscourse",
-      "published_at": "2026-08-21T12:58:22+00:00",
-      "score": 65.83,
+      "id": "54bedb58fcc7e844",
+      "title": "Iranian families struggle to afford the basics as US ratchets up economic warfare - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcWRVNHV2SE0wZHlqeENVaWMyRU1rSkpzaVZfWFc3LUR1dTdQdnlHbjhQQ0RzMXVVdVY2QVRVd1NoUElHSXZ4S2luTFdpcG96OV9DM1g4Sjl0RzFVOVVWVGtSYzlqZTk1VHpYODl3cjNoVzgtQl9SR21tdFdUY0Jvc2RHeFpHUlZ0TjEwZ3prOHNlbTJTQy1mSTN4U0JFTVF6RnY1dHV2ckJ0ME96dGRsT0VUSjg5TlhlVWdXOV9aTEVvVTBlbkRxdnlxdkIxR3RSSDAxci1NX3k3OUNPNlE?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-08-21T12:16:25+00:00",
+      "score": 61.02,
       "corroborating_sources": [
-        "Devdiscourse"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "69de5ae1c1c742f4",
-      "title": "Interview – Michael Cox - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PX2N1OVltWjhvbS01MDN0OExmbHNpd2NXdFV4aWhJU1JXTndoR0tsOUJRdFpwOHFPR1JMSTZHWk9RRzJlLWk3TVhNOVBxbTNvZktKZERPRQ?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-21T10:35:01+00:00",
-      "score": 63.04,
-      "corroborating_sources": [
-        "E-International Relations"
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +251,52 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnpXM2UyZFlYeW9YS3BmWlktQVZDdUUyX3B3MHVDZmNkOUxwbVJDRWlHcjlkbERfc0p6dFRadVY1bjhNTEJvRWlQNUE4dl9veXFncThMT2lseENDbFNscWVNMF9VTER5bTJtVXFjSUt2T19MQXI3MDhLREUxcUJYTFQ4SkdJRTF2a3BLQ0VNMFNzX1M1ZmRQbGdqbERSVUhRekNKN05FakZKQ0tIZDE5XzVBWFI1V0ZOMUkzQldkakc4dw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-20T11:43:00+00:00",
-      "score": 62.97,
+      "score": 60.96,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "470bd2f3660b027a",
+      "title": "Alta do endividamento de famílias acompanha avanço da dívida bruta - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmRIQjNvTHd1Tk9ZcmpXTEFiZjZhM05HejhYMURHdUNKdEdZbUFNb0xsNHVMbXVnRjlORzROVmlhN0VVa0RJeWE5NDlYZ0VuZWlLSG1NNkRyRy1ldlU2bmJrZEZjbzQxLUlMV3JmMEVmajRnN0JiOUNFOVhmeE9uaHV6UjM2RTAwZkZTQkJWN1pKWGZoYUEzZlRiMFFqdm9EOUJIU3hkU2xwUkZoZFFJ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-21T08:03:55+00:00",
+      "score": 59.77,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "69de5ae1c1c742f4",
+      "title": "Interview – Michael Cox - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PX2N1OVltWjhvbS01MDN0OExmbHNpd2NXdFV4aWhJU1JXTndoR0tsOUJRdFpwOHFPR1JMSTZHWk9RRzJlLWk3TVhNOVBxbTNvZktKZERPRQ?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-08-21T10:35:01+00:00",
+      "score": 59.26,
+      "corroborating_sources": [
+        "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f0520b212ecf7c0c",
+      "title": "Procuradoria eleitoral pede impugnação da candidatura de José Arruda ao governo do DF - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX011ZWNheXZaWkdXUGtadTI3Q2pWVldkMjY0elJHWEZNTnNCM245YmcyVkRCSzVIT052cTVhX2dQalR4ZlBpb0NLZi14RU9HbXBCTEtLNEM2TFJta2wwOUI1NEc5WDJiN0NYbnJDVXQ2ZGJ2NU4zM3EyRzNjWmxrU1VoVE8zSjduNm1vU2c3SlhsLWVlSVBIVDUzM0xpQThFeGZld0xwcUpWTXc2a3JabVhPNVpseGhrekU2V25sTjd2eDVhNjVrODU0Zi1HUFlt?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T21:21:00+00:00",
+      "score": 58.94,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -131,54 +311,9 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUsxNkVVaV9URjgtQXRIdGxKLW9FN0lQZU0xRVJXMm9YSXc2eFB1XzUzUGpYeVVEaDFMMW52a0FqaF9FcGZfeGJCcFVGTWx6MWViNnUwZWxUSmQ2d2Z6T0RPajBCRUJxd1pBQ1U1VXZxWTlTbG1Zbmo3RmptallRTTRYTHlsMUVjT0pYNXFVWkUwcThiTjN3QVhSTGVxdw?oc=5",
       "source": "The Media Line",
       "published_at": "2026-08-21T09:56:39+00:00",
-      "score": 62.33,
+      "score": 58.61,
       "corroborating_sources": [
         "The Media Line"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f0520b212ecf7c0c",
-      "title": "Procuradoria eleitoral pede impugnação da candidatura de José Arruda ao governo do DF - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX011ZWNheXZaWkdXUGtadTI3Q2pWVldkMjY0elJHWEZNTnNCM245YmcyVkRCSzVIT052cTVhX2dQalR4ZlBpb0NLZi14RU9HbXBCTEtLNEM2TFJta2wwOUI1NEc5WDJiN0NYbnJDVXQ2ZGJ2NU4zM3EyRzNjWmxrU1VoVE8zSjduNm1vU2c3SlhsLWVlSVBIVDUzM0xpQThFeGZld0xwcUpWTXc2a3JabVhPNVpseGhrekU2V25sTjd2eDVhNjVrODU0Zi1HUFlt?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-20T21:21:00+00:00",
-      "score": 61.56,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b11913054e961756",
-      "title": "Sheinbaum dialoga con Carney. primer ministro de Canadá, sobre el TMEC - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ3lwUFlSVTdzMUJMeldfOWpmVnlTLWZDVTdSSW5zb2pMSHFZVG5yYU1Zb0tRdHljaVBoSXVGTFJBdnlJZEN4SWY5YXNVQ0s5YXVlTVMwcllRcDFaUnFyTmpGdmlYaE1fV0pOZW1qRVg0UjkxaFdWZW1KNnlzbG12czNZZ0xoeUp0eUNDUndjRXEwYU8xaVlCQ3hSaVZLZ1lETEpZR2cyRmRYX1JOYXRGS1p6b1VnZGhVUm1RMDRoWktRTmxhZnJJUzZR?oc=5",
-      "source": "El Heraldo de México",
-      "published_at": "2026-08-21T00:33:00+00:00",
-      "score": 61.18,
-      "corroborating_sources": [
-        "El Heraldo de México"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3b20d65818491894",
-      "title": "Equipes de Armínio, Malan e Durigan já conversaram; ministro da Fazenda vem ouvindo divergentes - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3A0WF9JTzZCZU5Nem1kTnFyTWtKVnB2SkE1c0FtT0hjVVBZcllwY3VtQkwteWJkYXZDZDZzeTJmNXZjOGk5R2x0YS1wX0QxT2pWckpFRkRMZVJTZUZTcEQ1bF9jOG9IMlp3Z0UtTEhRdHZZUUxSNzNuVXkzRjd2VjZsSVg2aFgwRHlIRU5lOTRWd1pIdkR5R1VmVlF6dkZfYkcyeElibFhCS1RhYmtXYkI3RmMxODJlYUhJamUyOUU0UGt5WV9Od2R30gHPAUFVX3lxTFBVM0JSNlBON05Ma2dsYWZlR0hnOFFVbVJ4Z0xZMV9wUGhuZkp0bHVwZlJLUURYckoxYjU3WGRsRHRSWWw0TW5rXzFOdG5ERldsRDFTamZnbm90Um1PbjFhTXEyYk9TdWZpSXk4QTNwTnhSb0E4UDlQend6LWxJSnNwcFd5aDBXd2pIU25HMGNZdVVHX25ZZXVtQVhZcWtUQWMzUUNzZ0I1bEtVUmlWamF3Sml1LU8tWGV0SzQzZWhObk9WRXBhbXVKRzRpVW85QQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-20T19:43:00+00:00",
-      "score": 60.32,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +326,24 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRXR1TFo2UE55bEdkdHk2RFlYcGVFRXZMSHo0b2JEOUdWOUZ5Q2d1ZWM2MWtKb3dvb2htbFpqcnRWZXdBSW9IN1k4UUtQNTNEbGNLOHdzQWJyY1VzZDZkcVQzUW4td1JUU1YzbQ?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-20T12:03:21+00:00",
-      "score": 60.17,
+      "score": 58.15,
       "corroborating_sources": [
         "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3b20d65818491894",
+      "title": "Equipes de Armínio, Malan e Durigan já conversaram; ministro da Fazenda vem ouvindo divergentes - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3A0WF9JTzZCZU5Nem1kTnFyTWtKVnB2SkE1c0FtT0hjVVBZcllwY3VtQkwteWJkYXZDZDZzeTJmNXZjOGk5R2x0YS1wX0QxT2pWckpFRkRMZVJTZUZTcEQ1bF9jOG9IMlp3Z0UtTEhRdHZZUUxSNzNuVXkzRjd2VjZsSVg2aFgwRHlIRU5lOTRWd1pIdkR5R1VmVlF6dkZfYkcyeElibFhCS1RhYmtXYkI3RmMxODJlYUhJamUyOUU0UGt5WV9Od2R30gHPAUFVX3lxTFBVM0JSNlBON05Ma2dsYWZlR0hnOFFVbVJ4Z0xZMV9wUGhuZkp0bHVwZlJLUURYckoxYjU3WGRsRHRSWWw0TW5rXzFOdG5ERldsRDFTamZnbm90Um1PbjFhTXEyYk9TdWZpSXk4QTNwTnhSb0E4UDlQend6LWxJSnNwcFd5aDBXd2pIU25HMGNZdVVHX25ZZXVtQVhZcWtUQWMzUUNzZ0I1bEtVUmlWamF3Sml1LU8tWGV0SzQzZWhObk9WRXBhbXVKRzRpVW85QQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-20T19:43:00+00:00",
+      "score": 57.81,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGJ5VGFBc09hdTRSTVVFd0hVRER5SndZbHByTjMwM3NyUUhMa0gyNDBraFRPYlNKUGpmYzdXNUNiYUdHQ1cwN1hBVnpSd0NOZHN3WU8xX09QQmhRYnJVYklNaWdJbnpGM0tDR0I5a01EUzFNckRkZmhaSWxaaUtfZy1CcWgwM0FSMTMtRUt1MllDcDloV0g1Z0Q5cVhKck1yQ0hEYTd3cmV6a2RZUkFmeDdoTHpyUnkzT2dDdjdR?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-20T18:23:34+00:00",
-      "score": 59.35,
+      "score": 56.93,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -221,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalR2eV9RWVpYTzd3MldQSXN1TVpsX1JnSVV0aTBHR0ZPTkhrTVRnUHloMkN2ZEtSdnRZMnZtQzhYUTVhRW9jRGx3V1VxTldJaEc1VFVyTUwwSUIxWU9KY1psSTZkelBaSVoxZjllalNWTUVUR1o4TUxBQ3kyUkxXOXo2ZjRsMG5Rdm5UMGYyTFFCenNOeUEwZjk1X01wbzZuNnBxbFNhZzdUSmhsdEZmNA?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T03:58:55+00:00",
-      "score": 59.25,
+      "score": 56.09,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -236,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVByd1lhcGRISzNhRXVaWERfZDVLOUZPWHBuN0FtQWxPZ0RqN09XTUVfOTdzOE4wQTNNT0dQQlRUVEl3MWJOSVFqdXZNTnl6enh5NEVYZ20yRVFRMml6N2ZEMEFzR3NWZ2F1dmZPcFhmX3hPTnFNWkNsOXFJX2N6bk5wcGg5aW9qbXZySXhVekZueHpQSGt5MjRLVHVjd1RldlJTNw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T03:53:55+00:00",
-      "score": 59.17,
+      "score": 56.02,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -251,24 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3l0Y0xpUTVNRUw3eVMyaXpETUMzQlF0a19iOG5HQVFtaE5OMEt0WWtwV0pMSWg2WGpYa2tobmU1NHhEdENfeG5wSmxYSl8yT19RQ2JFanl6S0JkUXl6WGd3UkJycHVyV01VdUZ0SEZBVDk0WGhLTmNxaVB2T0tIOGstM2hZdVZtdHNCMll2NF9TMmZkMHN0Z2Fad1BFSlhTTHItYmJaTmVjVzU3MGUtbnNRYTdUNFhxM2c?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-20T16:14:00+00:00",
-      "score": 57.84,
+      "score": 55.57,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f7e5d49b3494e128",
-      "title": "Why it's households, not the government with the debt problem - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXJ0Y053RzZGZ2JuYkFhenBzQXN3Tm40bmQxUDhVeTJWclF4U3QxN3lxcjJKd2VwUG5iRVJvUzB5UlB3MnNKX3gyTTV6cVZ6aFRmcExHenNjUFhGRW8yN0xCc2hvYWdENy1pODRjUTRZOG9WbnQxUDR5S2daaGt2ZmQwZ1U3cjVpanVUcHEtbWg2ZzNOb2pUZlBrY0lfZ29uTkI5MG5tMzQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-08-20T18:55:23+00:00",
-      "score": 56.73,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -281,9 +416,24 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVDN6RXdSZzFWbThIT1NCeEpZX3BRTUJFcVBMeEFnUk05NnpyVmVnN2lWckhwX2h0aUhwMWI2QWx6R2R2TzgyYW5tZzhjZ0cyRENOcThwZVJheHc2LUZDOXFOd0tEQWRRZ09Wa1FXTGwyV0FTTmdic3l6YUxCZXVuMVFRdXZfbWp2Y0JhaTF5ZlZvRG9iSVJvSmJ4N3dpNW8?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T00:53:50+00:00",
-      "score": 56.47,
+      "score": 53.58,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "762ecfd0e8eb7fd0",
+      "title": "21 de agosto pela história: morte de Trotsky, casamento de Frida Kahlo e outros fatos - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01VUdaQzBkLTF4OFJoWTdBMTcxYUJkYy1OQjRQQ0pPUlA2YkU2UXRpeFp0VllQN21jZWVWMGFDcmFkbFZPRDUyNkwzRUNXbmFTQnRnZUJuSnFxUzdPZElXMkxvLVZ2T25ZbmpraFktVFhHNWpGWGFUakhWLUw?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-08-21T00:30:00+00:00",
+      "score": 53.27,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -296,160 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWtaOW9zbW1Wa0dNS3BvVDJJT1h2bm5TRy1QMTgwQm5TUEpPZWk3T1J6WkZkS0s3bGFLQlI0clI2SWhrckw5V1hmOHNIb2dBam1HdWxXNThQazdYRW1FaGhMcW1Zc2l6M0k1T0FBbndodnhEcFdFTzJFdUtUa3dzbndCNmNBbk9DSG16RExHRkxBQ1plTEZlNm1BMHBtcThJOEdoWkpCeDVWX1FrUXpvRWFWU0oyRE4tNmFTVnEyV3RlZG9Wb3R6aGpCZ1hyZEl0enc?oc=5",
       "source": "A Tribuna MT",
       "published_at": "2026-08-21T04:00:03+00:00",
-      "score": 56.26,
-      "corroborating_sources": [
-        "A Tribuna MT"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "de537cfc670b9817",
-      "title": "Huawei: herramienta clave de la polémica proyección mundial de China - Agencia NOVA",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GMlZHZGJNckV0cUpXeFFUVHNuZGtuV1NTUkJqUVhST0pFQ3ZfTGZYeXhRUG1tZzVkcTNyRnkya2kxT3JPNnJGLWVpR2ZrZUFJbzYwUDdjQzhBNTdmY0xWbE9BNy1tY0poTTl6dHhfaTR0SFdFSGNrcDlZVE5sZw?oc=5",
-      "source": "Agencia NOVA",
-      "published_at": "2026-08-21T03:00:57+00:00",
-      "score": 55.35,
-      "corroborating_sources": [
-        "Agencia NOVA"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e12b16e03a25fe8b",
-      "title": "A ‘piscada’ do Tesouro dos EUA é o recibo de que há algo errado com a dívida americana - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1VvenNVcFB5RTF6eGwyc2VGYmswVTI0Wjg5LTMyNi1yVkQxdU1LUy14Sko0bWZRRkV2Unh3YkczN2JxdE1hcjZGRVlWSFlFZlNsX3d6N0tZNUFRVWVzMF9ZdG4yYlVWRDQyYUVGaEtBVXNvYWlyM3hWclZSNGxKQzZzMEt1UUJzWlRoMHZ4UGdFR1RMMnpuVjQxRVZtVmhhaVRnQ2hWWGxMbm8zOGpvRW5wWmdSdDdSZ3VXSnRUZ0gxR0F5NHpNTHFLeUjSAdIBQVVfeXFMUEdzN3JXRUlveFJOQnpnR19ZeTdrOVZzSTd6WU5YczJKSEE3bUFXb2w3MXpBMDIyN2tDQjNLcVpQNnNuSFZucnd0ZjhjVW11amxvdndiQmNFOGt5dDF5Mng3UHpMLUhFM3plMzFzVVhZWXNkSGNPYlRwX01FMVZ5OE5fVzFFV1dfX2cwc3R2ZVJ5NkZWc0xqZG9TTDVkeE51amFGbHd0X3NiZUhWMmtZN3FYejltZ2tfOU1hNUNNQjB0NnFFSEtOSjNwMURwdkFuUDV3?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-20T22:20:56+00:00",
-      "score": 54.35,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b78dbed5d006c93b",
-      "title": "Mensagens revelam a relação de Lulinha com lobista, divulga revista Veja - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlRRaDMwZmxpcUt5QTRnVGNSekJoLW42djh3OUR0RVRBcjRGOU4yckx0UHBGMDVDM2RDTXRQSXVPZURGZUw0NkN4REpfOHNlS2RWS3NZTEt4R2VpNkc0emFwVEpjRnRWN3VOM2d4b3Y4NUQ0TDRlWnhnOWQzeGx5ZzlBUGJvTkVXZGotVmE3WDJmTkZlNVhnNg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-20T22:06:56+00:00",
-      "score": 54.17,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bd70a2d044917d3a",
-      "title": "Tesouro dos EUA recorre a táticas intervencionistas para reduzir as taxas de juros - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzVkanNmb2pvRmtHeEpkNDRKM2JqdU9kZTV6QkRwdTBMMXZqVWVHSE8tZk5OUHBIanBQa1Q4OUVfR2RTZndjYzdVSlpyNHpsMTk3am96WnJSV0J2a0NDU1pKVnA3bGxJc3VwZ0Ztc0lucHVESmNIUU9HaWwwbGR4cEZyQ3lxZk8tZldGei1vNNIBlAFBVV95cUxOX0FNSUt5OV80WXo4QjJCRlhqV1RxbWJfRXZ2MFQ4M3kteml2YWVnMXNjbVBCSldTUnpvbFljTDBwX3VsbUhXQXdnbEdXODdKRDdsTEdZSDFrSkgwRTJVVi1GUVl2WEZyU2F6T0FOZ3RaR3NMSk03Z3lqSEE0M2I3d1B6TnN1MjZCd1NVQ3I5TDNnWEpO?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-20T21:18:00+00:00",
-      "score": 53.53,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1dbd93c892639272",
-      "title": "Mercosul, EUA, comércio e diplomacia: o que dizem os planos de governo dos candidatos à presidência sobre política externa - GZH",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUzdxeUI3OXJ6amxaUEdnSGVMMy1VMkNLZzg4SjBuUDJHWW9YblNuOHU5ZFRWa1QxOEpfa3RLLThUWndDclpZbnkzNF9KUmRoUFZYVFZycXhGUERYbUVuSVVjUFBaRU5SQ2lVc2tSeW04aTRxTnhPSEpOVGJZZGJVOGRyNVdsX1ZObTJUNVhEQWVRbjFXbWVoZlBQYW1peDlrY3E4N1ljYkFvUkE3cXpsV1Fob1VEb29lb3JKY2NfNG12NE5QUzdkcW94X2locHRpUFlhaXFQaW5rSW8yeG5sMjM2R2ZJamx6YWtVcDg5Zy1GaklHeHU0VlExcEtlbTNfY1AzNVhrYm43dzBVS0w3UlM1THFCbVVLdnpENjhucllyQjJtaHpHNmtYWHNHTXY5Q3pBUllyb2xyTk04Y2NDRjJEQl9LUQ?oc=5",
-      "source": "GZH",
-      "published_at": "2026-08-18T18:43:25+00:00",
-      "score": 53.36,
-      "corroborating_sources": [
-        "GZH"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e05622c9966ca8e9",
-      "title": "Trump anuncia ofensiva econômica contra o Irã - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOV9FVm5GM19YUmdEaWRXWWprTVlmTTZXUldPUnVxejJ1T3pxa0k5OUVQTHYwcF92Y3k3ZWlCeWFtUkI2R1pQWHlkUmpSaVZMWnRUVTJ5TkgxdV84OGx5TnhOSHpHRFpQYlhEU21fN3ZkXzIzWXB3YVVTSGU3QnF3aGxtZTdLSXA5WmViaEJ6SW13UjVwX0RsN0t3?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-20T09:43:44+00:00",
       "score": 53.11,
       "corroborating_sources": [
-        "Pleno.News",
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "999863dcd372dc76",
-      "title": "La foto que la derecha quiso enterrar y hoy comprueba la red internacional de Fernando Cerimedo - El Soberano",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1FaNWE5RUJrSFAyRmlfYmkyc21WVXVxRkQxbk1OTVp2U1hhV2tZZUN6UjhYWjFDWmhSLXIxMmFaQUUwMFNUNGRGNnBYa2JMWmVmVVNTVHEzTXdjX3h0X0lFRS1lWEpZVVhZckkyanllMXl1VE44dWo2RHpPREdxM3ViLXctQ25sZEVNRTRHOXRmVi0wZERPUU9kV2Y1M1pDcjlRWnVkSjBjaVBqNU9nMnItV0MzeGdURnVkQXBfMElHOC1DaHB1Rg?oc=5",
-      "source": "El Soberano",
-      "published_at": "2026-08-20T23:12:49+00:00",
-      "score": 52.06,
-      "corroborating_sources": [
-        "El Soberano"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0ff9e066fef1ce0d",
-      "title": "El Partido Demócrata se prepara para las elecciones intermedias ante diferencias internas - Reporte Indigo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMUlQOU5sRUxnd094empEQlY4SEFXdk84Y1dyT2dQVmZKTGNZa056WnRlUHpDY2c2LUd2VFlYVkdjU1l2YWJZSDI1SlQ5cUt0azNHZUR5M09NbmVCSWsyUmc3dG5hRTFVbFJfR0xhUGgyTlNtUmk2dXk3LWdLb0l2d3kzRTJVajZreTFVZFQwaVRjdlNJMTBMRmgxR2haX21mdldmYy1Pc3BLaVpjOVVPY2FVSjFfTm1FUmpONEtMbVA0U0VENktmUVkwMFYyQmcyZU5UdDNFcU4yTjVnd2FfeFNHUUg2UVXSAewBQVVfeXFMTTdBNFcxeTJWQklmcm9MZ0w1RlNFclRQbWdGbGJ2UjJmRUdsYU9BNWNzM3JmQzktaTlQVGRySnpiUUFvQjdHV2hZTVNVeGNFR0swX2RpRy1yakk4cnZISEwtT2tVamY1bUpnb2laMVAtNW1QRmlhelg4RUdIcUlFNTlKYnhxRHkzYWtLUExGeGZMWVhTem1JY0p4QWMyMzM2cmd0RjdOdXk1WDZqSnJPNWFvc0V5Z0E4N0Itdzc0b1luZGFyLXZlUG0zanF6ckZNamQteFl2S054MWg1NF94dGFSQmFSamNNb2loODU?oc=5",
-      "source": "Reporte Indigo",
-      "published_at": "2026-08-20T11:00:00+00:00",
-      "score": 51.55,
-      "corroborating_sources": [
-        "Reporte Indigo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "eb2e548259b3177c",
-      "title": "Filiação de Pablo Marçal ao PRTB aproveitou brecha provocada pelo TSE - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmMya3NkbUZfNVJ1VjhaankwUTBLcGxSZjByaDVaVjViY2hsakpmN2x5eHFrTVpnWGZhM0ozazVGVkJFZXdMOXVQQlV3YmN2MWl2anZRZGg1NHI5R1d4ZGo5M21pdkFYOUo0RWswalFBOFk0dWZYSi1EUUQ5ZXpWV19SZ2wxbkw0T3RNRFZXTERsMXE5RHNHbEFjZzRvOVpKN3ZCZGxWN1dFLTBwYkJlclpOeVJmQWdmWWZJ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-20T18:31:00+00:00",
-      "score": 51.44,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b7b3bda4509dbfb4",
-      "title": "China’s Evergrande Founder Sentenced to Life In Prison - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGw5N2NCc05VRC01SExwWnZhZDBJcE1XOG91UlBuT0k1REl1Sk9jTHBEZjlCaF95SWFQajhFeTFRR1RVWDhhQXhyV1BqUGhDNEM0Uk5rRUZsTU5ZeHpVYUhMb3VSWTV2c2J3YVp6Mk1XSVFSel9hM09aY3Q0MHctNXloUjFnR0U?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-20T22:25:53+00:00",
-      "score": 51.42,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
+        "A Tribuna MT"
       ],
       "signals": {
         "source_count": 1,
