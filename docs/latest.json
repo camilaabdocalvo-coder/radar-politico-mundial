@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T05:46:53.466972+00:00",
-  "next_update_expected_at": "2026-08-22T09:46:53.466972+00:00",
+  "generated_at": "2026-08-22T09:45:46.679280+00:00",
+  "next_update_expected_at": "2026-08-22T13:45:46.679280+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,7 +11,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaXg2c1ZJMi1CdFpmVXd2WkZWUVJHalBtNWRfckVyaFFTSWdTWVA1ZGZ2U1lpNjcxM1NYeVVkeWY0aHJqOU5ULUI2VkJHZFFrYXI5RHNPemZRV3I2UnFGNFh6a0UxZk8yTUVKUnMwUk1kTWtXcGZ5TXQtVXg0SEJlM0hXTmZaZmtnTDRtaVk0S3ZJOTZWRk1iVDBuYVE4b1RYTDBsNjJKSzBJZG14OWplTmJBYmtKZkRWZ0lUcC1XTWFrZHhlMEprWUdDdlBfNlI4THc?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-21T23:37:55+00:00",
-      "score": 79.41,
+      "score": 75.44,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -21,14 +21,29 @@
       }
     },
     {
-      "id": "cc235fbd85c360c5",
-      "title": "Os altos gastos do governo já contrataram o freio de arrumação para 2027 - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjFoZGRrWXQ0eTV6YmYxRUl6SnZXazRkNk5FbHpIQk92LThGUm9UTF9XaVI1d2wtR3JOLXRhOE81LVJINm9PRGhZbVVJWWZmbnNqLWc2NzFIQzVHU3pmdFBFTVQxN0ZaSHRtY0Ita1ZRWUlrdzNIRWxYRHYwYlg2R3hwVWt6Ty1YLXRmQW5UbzhWdUMwNXF6Y2NJal96RjhRT0FnSzlMc0JMdkVGTTZlWHdwWkwxT1BIcEVrVNIBwgFBVV95cUxPc2lyTm5KRlRLckJ5WS02SXdrMHNRZWx5QjBuNTdqTTJ4WGVhRDJrUGNSNEh4bE05UUxKSEpZaXY5bTBaVkRGZU1pdnBfUzZKVFRNcnAyM2NGUFo4RjRJejZpRnQzOW51ZTdKdGVnMU5NQlBQdkZGU2tzU3BDQ2dUWnk1cEFEb2x5aTFWbzhNcTVETWVOSkJqemdfRFZTcDlZbWhxVV9DTXhzcE0wX0JudzZJY3NOQmN6MDdqNFhtN0ZXQQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-22T01:25:33+00:00",
-      "score": 73.35,
+      "id": "1654ce2da4851901",
+      "title": "Menos mulheres na política: candidaturas femininas caem 26,9% no DF - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmJpZTdzZTBVRkFWTEJCTGN0WWdxenhJVF9FTUxYRzVEcTlNUW9PZkI2b19GbXFKNVZHRGtwQ2dzOEFVWVU0ZDdxSjRGa0NSZ0t1c243ODNSYzBBZ2U2LTNvbGd3el9mSHJna2VGMS0wV0ZzV0trc3BDMnFVaEVOWFZyZWJWNlpmcC01Z3pUSGxEbjF1aDVFMGJrUkpFUklKQjFDU2lRbkxkLTdm?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-22T06:15:00+00:00",
+      "score": 74.29,
       "corroborating_sources": [
-        "Estadão"
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2e5a07ad5342aaff",
+      "title": "“Pode-se ganhar eleição mentindo, mas não se governa mentindo”, diz Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXh6QWlQM29MWVhiT09IQzJnSzRDVk5zclpqWUdJMk9tN0pHS2Y5V2Zna0pCYnk3VF82cGF2NjZoTDEzZFpvYnJBNHBKbzV5djNFT1pBWW9sWnc0RTdsR0lHWFU5LXR3M01tWVpOZzljY3ZPQTNEWWZVNDl5LWVGYUE0aFRkcVU4TE13UWtSWlpCTy1ucHlZNlNCMkZBZ3RFb1FXN3JBalVhcjVRU2ItZjBvbEhjMFJW?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-22T02:49:43+00:00",
+      "score": 70.59,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOFVVWU5ZazFaZ2FIYU9uZWtqY2MtT3M4OVpKUkt2cS1uYjM1TmJSWHZ4UlB3VlM0ZHczNDlOVUVUUlU5MW1GVk5BUTR0bmdnN29JMDF1b0Y0SEI2a0hoUVlsSkpEc2g5U1BXZy10ZDV6Zk1sckN2X05laEdIUjFJSG15X2lnWE14anhZQTFHRHBtclRwRXNWZnVkdEFSRDM5UkZnRWxJLUhod0VyT0NMdzVoQzdLa0FFWVp2LW0yR2VoYXF5TEY3MmtRWG05MzAzZVVOMks1U0F4NWFvX2lWV3QzSEFlM2htTEdDdmVkTkpYQVUt?oc=5",
       "source": "Congreso",
       "published_at": "2026-08-21T20:24:32+00:00",
-      "score": 73.16,
+      "score": 69.53,
       "corroborating_sources": [
         "Congreso"
       ],
@@ -51,14 +66,14 @@
       }
     },
     {
-      "id": "6e8171711eb1aed3",
-      "title": "Pesquisa Datafolha para presidente: veja novos números atualizados - UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3FzMkdueGkwSVU2VnNRbFZGcmlKbXBSU2dvdkZVTGI2RW03dm1SMENmT2ZKTE82djc0a2RWN1ZNbXNXNzdkT0VaaDc3dl93d2RaZG45Z2JESGdkQVl6ci1obXc3Tm1oUDBqcEV5Q2pYWDdQV2NpaUdzbjNNUEFZV2p2V2NYSmlHTFAwUnBvMU1jNVZGSXlwY1pXSm9Qc1BIbndXVjVZd3dNTzRuYWd2NzE0WUExME42T1E?oc=5",
-      "source": "UOL Notícias",
-      "published_at": "2026-08-22T00:31:15+00:00",
-      "score": 72.36,
+      "id": "cc235fbd85c360c5",
+      "title": "Os altos gastos do governo já contrataram o freio de arrumação para 2027 - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjFoZGRrWXQ0eTV6YmYxRUl6SnZXazRkNk5FbHpIQk92LThGUm9UTF9XaVI1d2wtR3JOLXRhOE81LVJINm9PRGhZbVVJWWZmbnNqLWc2NzFIQzVHU3pmdFBFTVQxN0ZaSHRtY0Ita1ZRWUlrdzNIRWxYRHYwYlg2R3hwVWt6Ty1YLXRmQW5UbzhWdUMwNXF6Y2NJal96RjhRT0FnSzlMc0JMdkVGTTZlWHdwWkwxT1BIcEVrVNIBwgFBVV95cUxPc2lyTm5KRlRLckJ5WS02SXdrMHNRZWx5QjBuNTdqTTJ4WGVhRDJrUGNSNEh4bE05UUxKSEpZaXY5bTBaVkRGZU1pdnBfUzZKVFRNcnAyM2NGUFo4RjRJejZpRnQzOW51ZTdKdGVnMU5NQlBQdkZGU2tzU3BDQ2dUWnk1cEFEb2x5aTFWbzhNcTVETWVOSkJqemdfRFZTcDlZbWhxVV9DTXhzcE0wX0JudzZJY3NOQmN6MDdqNFhtN0ZXQQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-22T01:25:33+00:00",
+      "score": 69.17,
       "corroborating_sources": [
-        "UOL Notícias"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -66,18 +81,32 @@
       }
     },
     {
-      "id": "a97062c48580a149",
-      "title": "Datafolha: Lula marca 39% no 1º turno, e Flávio Bolsonaro tem 33% - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1JnY1EzSVR5S0pmalFZUVl5U3Z2NjZvaXJ6VUJCZFZKM2xfT0paQVY2RXJFbzREWE1OM3lJQkN4UHVUWVZYeGx6TE1DRjRsd2stOGczNTV6X1VBbDEwZWJhSXl1b2JqLVl6Rkw1TjlKenJLMFFPX00xZGlYajdveXUyZjA1bGlVcUluYzFKOVg5M013bDlkazZKSkZkWWpDRGRzdmU1X0lscUlESWlrTA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-21T21:40:00+00:00",
-      "score": 68.69,
+      "id": "8cc3092a30404559",
+      "title": "Lula diz que Trump “reconheceu” erro em tarifa ao Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZG1fQURkMWNXYWQ0ZDdMRTdpLTVwWTR1TXdJTUZRQU5IR0gxUEpRQXBaVTN3eTVfdzhTeG1telBLSEJMdzFzXy1QZWlDejVGeDdZazZuWlRGdURtVzRrN0lueG9uU09ad1Q2TjY0dzFRbUdqbXZIZTRHc1ZqU09veVl5X1ljNzlGTlhpWGdaN213TnhtcHdBNUd2cF95Zw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-22T05:59:59+00:00",
+      "score": 66.01,
       "corroborating_sources": [
-        "Folha de S.Paulo",
-        "G1"
+        "Poder360"
       ],
       "signals": {
-        "source_count": 2,
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9f151362f50b8fd2",
+      "title": "Datafolha: Tarcísio lidera disputa para Governo de SP com 45%, contra 27% de Haddad - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnRKUnZGOFVZakNYRm0yVnp1ZGt5WXZRRW43cTlsaVNra1lzS1hKUElqelg0NzJ0bmJfbnJtblFVdTF4M3lnYndPbzJIWFlBNlNmcnRsWFBSNHE2Q0JGaVZHZ3Y1OE4walh1NDBWMjJYRHNhczRPbWdyOW94RUZhU3VfVl9yWlpacnFDQnVkU2JlVTVzbDNUQ1YzVDF4c0F4Y2NEbHNGSmh6bVJLVGtpb1B6UjFVOEtKVHhnSktaNDBRanFlb2hwMQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-21T21:30:00+00:00",
+      "score": 65.49,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
         "social_metrics_available": false
       }
     },
@@ -87,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1hlSHJJSS02ZmhjY1E1ZFNPLWZleDRRYklVYTRNSkl2NUNrYzQ1Um1oR0tYdGNnXy11R0l2RkdOYW1ZQXJMLWFpcFNxYUMwYlV5UkV6Q281anllZnlpSnlKb0o2TjZfNG9kdjFnNjA5U3JSSVp3N1ZhUVc4aFhFcHB6enY3a3BEellYa29LTlZzcWJrUlRJelB6TG1rSUFTemd5OGpia3paZGpyTHVLSA?oc=5",
       "source": "CNN Brasil",
       "published_at": "2026-08-21T23:43:39+00:00",
-      "score": 68.51,
+      "score": 64.53,
       "corroborating_sources": [
         "CNN Brasil"
       ],
@@ -102,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hZdkM0d1R2VGJHbXlrbUNkWkhqeHRydlMyRUJta0JRanh2MUpYQjJhZzhLWEFMN1ppTVJUMUpGWFdPZFY2Nnh3cVNxNmdsNWdKM0dJWGN4cnVGTm9XU0dDVk9zT21rRm9OTFpvUXYwLUFDcXNPZ3A1LUxVV1hYWmd4ZlpNakhsVVBlR2JMSFF5Ni03VDNrN0paYnd6M2NpYmEwb003eWRLSGFz?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T19:09:39+00:00",
-      "score": 66.98,
+      "score": 63.47,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -112,12 +141,12 @@
       }
     },
     {
-      "id": "8cc3092a30404559",
-      "title": "Lula diz que Trump “reconheceu” erro em tarifa ao Brasil - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZG1fQURkMWNXYWQ0ZDdMRTdpLTVwWTR1TXdJTUZRQU5IR0gxUEpRQXBaVTN3eTVfdzhTeG1telBLSEJMdzFzXy1QZWlDejVGeDdZazZuWlRGdURtVzRrN0lueG9uU09ad1Q2TjY0dzFRbUdqbXZIZTRHc1ZqU09veVl5X1ljNzlGTlhpWGdaN213TnhtcHdBNUd2cF95Zw?oc=5",
+      "id": "a548e2f629edbf61",
+      "title": "Homem armado é preso em ato de Ricardo Coutinho na Paraíba - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFMyRF8yYWlaVTVFTGlVRER3OWpIcUtxdXctNnU1RlFjd2RNSnFxeEJncndPMXN6ZExjQUV0RVZKb2RLNm41cUJKWVlZVnAtdmVpRUIzYmM0STFxYk9jVUNGWWZJV0JWbkF3NWVwZ04yZFk5YmlEQ2lLQ0ZEMlB5U2FvSDFYRTBNSHJVQTczNEl4SGF6UTB6aHZ3?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-22T02:18:22+00:00",
-      "score": 66.34,
+      "published_at": "2026-08-22T02:39:33+00:00",
+      "score": 62.42,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -132,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnQxTkZaUFlnbG5tNGJwbm5XdWNNc3VsWWhTQWhVeG1LbDUwTHVvVko4WjhLSTNNR3RBQ0lRUkNyQ2Q1THU3c09leDNRTWFoVkxiSzdmMTZrV2FIV29oM0ZHaFprWms4NURKUnl2SUdvblc4WkIwTWt4YmVRUmtBVDd4RUZ6NkFZRmdVRFlqM3RJQV9QVUpOMGRIdFVOUmgxOG9HRDJacElhbmdG?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-22T00:14:33+00:00",
-      "score": 64.06,
+      "score": 60.02,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -147,9 +176,24 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUR2TGctc2tNTFdtUGVqdzNBSHNIV05rWU1GT2FzczJOSjdjTHZvN3cwYlhRUjMzMEdrUGg2YlZjOXNvaHdfREpab2kxamFDSDZUMFBTUGNEVmN0ZDE4WFpqOW5qNEZLYkoxVGlwd1ItNFVzcTAtMWNaSnNidTBEcVJTdkdTa1RxN3NUM2Y4T1N5VDF1am9ZRGtqY3F5UmNxRHdXXzNEd3lWRDJzbDk2bDdB?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T22:36:15+00:00",
-      "score": 62.34,
+      "score": 58.48,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a97062c48580a149",
+      "title": "Datafolha: Lula marca 39% no 1º turno, e Flávio Bolsonaro tem 33% - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1JnY1EzSVR5S0pmalFZUVl5U3Z2NjZvaXJ6VUJCZFZKM2xfT0paQVY2RXJFbzREWE1OM3lJQkN4UHVUWVZYeGx6TE1DRjRsd2stOGczNTV6X1VBbDEwZWJhSXl1b2JqLVl6Rkw1TjlKenJLMFFPX00xZGlYajdveXUyZjA1bGlVcUluYzFKOVg5M013bDlkazZKSkZkWWpDRGRzdmU1X0lscUlESWlrTA?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-21T21:40:00+00:00",
+      "score": 57.63,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -162,9 +206,24 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUDM0VnliaTh2cjVsQ0xVelhjWUlPbVhvT3FFUjA1T2hFZjdOMWhFOEhVQ1QtVUxQN2NLaHZsTnlxMDhzLWRpVEZHcHNEb3ZIMmZfRjZ0MHRGWDNXVjBQYWN3YjN0aHBFdGtMY1FCRXZVVkVXYW51TW9MTm9sSDBkeEo4a3BCdHhzX3FUM051LS1zYWxIU0FTckdZRWw5c0lacTV5YUFzM0J0RHU1djJ3X1R5RlljdWlCcWtsSE9ZWkgtcEwwclczODl5NXRuMzF0M215SEowZ01jWWNL?oc=5",
       "source": "Notícias Agrícolas",
       "published_at": "2026-08-21T21:06:31+00:00",
-      "score": 60.84,
+      "score": 57.14,
       "corroborating_sources": [
         "Notícias Agrícolas"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "41f68283d0092b38",
+      "title": "‘Política de infraestrutura não pode ficar ao sabor do governo da vez’, diz Gesner Oliveira - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWU1pN0N1TDgxTkE4eWlZMlpSallpVi1mdWFYdU56cnFPTVdrZzBzZFVDU2Q1LVVOMHQ4OERYYWdQUFJrLTAya0x0dDZRaXN5ZGRhN1dZVWt3MzYtN2lzbDJBdG1XWkZ2akVFdlBqS3pSV1N5OXhNNnI4ZXQ4ekZ3QnZHUmVlbS0wem12T1gtQ2FwZTBzUnB1aEM4bFJtRV9JWVJvWDVlWjhlb0lJOUdhcW4yMFJTMDdxNXhOanhkUFU0dGPSAcgBQVVfeXFMUFdfX05Ca0Rnd3VTQ3dRZXUzdzJjVURnV3gxUmFRMmpWMlgyRFFfRi1JNGMtVlVsejdzcFo1Tm5semJHLTRJRW1RTHF6Rmt4a3JqbjRDbk5mSmNvd01XSkNuWGpaV0pBWk0wSW05M0lJYTloTDV0MkthbXpEUk1YaldmemVnR3VSNDlUOE1BR2lMV3RZdDZtaXMzcDhVZTdzRFVaOFNoWE5tUWJ1ekdhaVZFQnFGQmd4TVpuRDY5bGNoOUVsRW1pSmI?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-20T18:24:28+00:00",
+      "score": 56.56,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -177,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGh6MGNuRWctcmY4cE9henBodjJIWE9YbzBjcmhJbXVodkQ2R3JpQUtxQVFzMldXdFBSRlhuOEdGdVhTVU1OeVkzNGRzUVNKZFgxM05La2x3X1d4aVJmOG8tRUFKUDV1b2NMTHNmX2FMTHdiUzBKN0g0djc3eGgySUxPc2lkSkZPLXV5SXRiZ2hVdzRsTFZwMTRR?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T20:19:21+00:00",
-      "score": 60.08,
+      "score": 56.46,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -192,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkhwMkRlV0JybV9OZExUT1NKU0VKN2ZhNkl0ek16VF9pM2VNZG96cHNJdVZyeGM1d0ZVZ3VqYzRtXzFFZlR4cXd1WEhORUNvenBvRmp5ZG40Ynh3MFJTN2VraWhrRG1vbTVER21PMHBIOEtfTjJLdlAzODFSYjR0X0NJSzh5SHJwWDBqZEN6Q1c5MWFaTUhUakFONC1TbGl2VXRGX3BCLW1XbGVmTUZyeg?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-21T20:18:56+00:00",
-      "score": 60.07,
+      "score": 56.45,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -207,9 +266,24 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qclFzaUpOM0htVDNQS044S2tiUDNSQ0t1YktSOEJrMHRuU2hneDBaaFV2NW80TWRZSU1lTHE0T29jazNYVWR2VjRMdG9XVm9JYzRndWMzeF9JV2xnTzJIek8tNDRqTFBGS0VV?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-21T13:58:28+00:00",
-      "score": 59.48,
+      "score": 56.45,
       "corroborating_sources": [
         "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4cdc77bea3e62838",
+      "title": "Governo amplia a R$ 200 mil teto de financiamento para motoristas de apps de olho em eleição - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05PdHVFdFc4Q3ZDZWFkMG9EcDFCY3JGWW45MkNxeVQxSDFpWll0RkRnZlh5Y3AzY3k4UEtCSUJER2RGTnU5T2FLYjV0NGd0UVdPbkhmTmM0bldWZ0F1d1RuYlR1VE5MU0E4ZWY0YlFMdFVGUUh0cjh2VVdXNTZLZUdGalhzZTROSVVYdVB4TEZzUVJ5NG91aHVHbkN1bll0Y3djczhXWlFsUTFzcTg4T21lS0tZWC1xQ1pWQnRDN2NrNGpSNGZwWlNKSVNKMXVfQm5IYmY0d05vN0k?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T17:30:00+00:00",
+      "score": 56.18,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -222,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEJhZDZ1QjhvMnFXMmRxeEFGWk9zSHY3SWtYeFlSZ2NDajVrZnlJV2ctVDJ3T0FMRGR4Ty1Gc0hYM08wZkJxdXBwMWpWNkJfTHdzQzJ0OFI2RUJmbGxrR05rSVNhQUZERm5DWGtFZXRiTzd4TWI1MlRrX2pjQ1N3b3QweG9VclZKX3VSWnJFTkNueFFUSU0yOWx1a2liclF2eXI4UTJ0UHpNWUV1d2xvaHh1QkM?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-21T19:33:43+00:00",
-      "score": 59.36,
+      "score": 55.81,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -237,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2taY2hLOUVFOUFVRzJRZndrd3dSQ2FwRTZmOW5pWTY3cWoxamE5SS02WWR3V0FNUFJLcFA4WEhrYUViQlBlc1UzYUQxSkZRcTQ5VUFpQXBUckVNRzE0TGRoS3hCa25wM1R0NWw1ZG8wRm1ZdTBDQmxSNnk2dnphMS1rSXo1X2dFQ2Rud3FRN3lDTmt5Vm1KMXhObEowZVB0aGxhcURrbw?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-21T19:33:00+00:00",
-      "score": 59.34,
+      "score": 55.8,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -252,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2h2QWk5TGhLcmEwa2pKQlcyUlZTbERXQ0xydnlZRXVSblJva3JtSGNVYXRYQlhOdzVFa2ZHLTFRQU94SmZRLXlkS09MSVZfX1pnTVhZNmZQaldKdUpObGIyTUpYWTd1R2pCVmV6Q205bWFUR3FRdzlFWTRXSDRlTEU1YmM4VWJIN2RXWHV4ZjZzaGtpWU15MlZQVllhc3d5MGZ3RWkyNzA?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-21T19:18:43+00:00",
-      "score": 59.12,
+      "score": 55.6,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -267,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSTJNeEU5T0FESDNTTHJtVXhZQ01LOGNJTVUtMEJ2TVA3akticmRzdV9zZDQyMFVGMmV6bUhscXNDTFBwMVNSVE1IYVFIUV91V3cxRy14VkxDZ3FqT1JFZWJtcFVna3hhYk5seEtVY3ltQXhyNVY3LUhrb2g1Q3RkRC0ySmFzcFUyVmpQOUg4V0tLV0VaeWRrU3V0ZmZSamN0ajJtci1GT05PSWpPdEtpT0h0WklWZW5RenRSaEc2RHBoVjlsdEJndDREbFJRaEVsMGN2LXdrMlJCbEgtQm5JSnpzNmJucHotVUViSNIB8gFBVV95cUxNTmhmaXRSN2QwUGpRM1FnczRYWVlNODRpWEw1aWlkQ3hBUWd4blgwZmU5aFAxaUF6aERSMm14THRSaUprelppUTZWbWdjcFp3SDFib3o1N1FDS045MzRrOFJ5TUxSckpXc0FSS3RIUnZyMTdBSHJoUW5zMEhoR0U4STBEaUpoWjFjSDhzSV82T0ktWWlVcy16elZTOVBiVzBqNWc2U0VaY2xCT3hMODFNNUVmWDRNX2J0OVNNUmN1NEF0X3Z3UWUwZkhyMjJkejh2SWdfYjY5bkpkQjM1N3MxVTFoSklIMFkwYXBKSXRxMkh0dw?oc=5",
       "source": "Estrella Digital",
       "published_at": "2026-08-21T22:12:59+00:00",
-      "score": 58.95,
+      "score": 55.13,
       "corroborating_sources": [
         "Estrella Digital"
       ],
@@ -277,27 +351,12 @@
       }
     },
     {
-      "id": "5be7143fbeb2d951",
-      "title": "RDC: Cómo las deepfakes pueden cambiar la imagen de los políticos en redes sociales - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU0o2VWxSTlZwOTVrMFdhb0pVd2MxcTFNQmNsWTlGaUhOTzVoMG1RajNNRTg4dVZQSjdvcmUtSjAxNXZ6ZXJ2NlBqUmIwZ3lCR09hQjk1dWRJV3l3eHVNZm1FT0o4ZElURE9oSE1MRXdSRm52bHZvMElyU21vMnBSaVBLRldSeFZ2S050dWpETTZsUGxPVlhDaUV6SjQ5bUFrM0pNeWdjWmVza1ZKWVBJLUg1a1kzOUIxb2hlbTdycjNKV1hBNWZad0JKZVJGMkpOajZzTWNLZFppaDVfRy1MSmJhZ2HSAeoBQVVfeXFMUEp0d3BRczdzNllPQS1GNmJIcU9VYTZqNkRSbE5BRzZ4WC1QRS1MeWxtdDc0LWU3clVoR0dQRFZjc3ZsU1Q1VmRHeUctcWYzUDRvWU5EdVNGUFliT2xaVkhyNHhNakR5YnQtME9QMXVMNFZSaGpHQ3ZXNXJnaWthT0hFdmstNVNySVVqcjFQa1NyNm5wck1JRWNIQ01jTzVpTTlqSkNXMzNrR0trbjR6NXdPalk1Z3RTNVI2MWtxQmdFNHdwbDltT29ob1oycEJremd1VWx5dEJIcWN5c2ZwdmF1QW5oc09GWlBn?oc=5",
-      "source": "Perfil",
-      "published_at": "2026-08-21T21:16:10+00:00",
-      "score": 58.0,
-      "corroborating_sources": [
-        "Perfil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4cdc77bea3e62838",
-      "title": "Governo amplia a R$ 200 mil teto de financiamento para motoristas de apps de olho em eleição - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05PdHVFdFc4Q3ZDZWFkMG9EcDFCY3JGWW45MkNxeVQxSDFpWll0RkRnZlh5Y3AzY3k4UEtCSUJER2RGTnU5T2FLYjV0NGd0UVdPbkhmTmM0bldWZ0F1d1RuYlR1VE5MU0E4ZWY0YlFMdFVGUUh0cjh2VVdXNTZLZUdGalhzZTROSVVYdVB4TEZzUVJ5NG91aHVHbkN1bll0Y3djczhXWlFsUTFzcTg4T21lS0tZWC1xQ1pWQnRDN2NrNGpSNGZwWlNKSVNKMXVfQm5IYmY0d05vN0k?oc=5",
+      "id": "11303e3e06121f8b",
+      "title": "Proporção de negros eleitos para o Congresso não chega a 30%, mostra estudo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUJkRXZuQ0hPV19kVEN3UXRKMjBHVUJiaXhnWS1MclVFZlNwbU9WaFVDMEk5MjhCZzNvZFdkdUNKWmd3c29ZaGJOMTU4VHhpVXM4dUxCT3QxVUduSHJGSkpYRXhacVlrNERzS3M2Q3NwV29CLWduSDFKdWtyM18taml2WExBTHJTeWp5Mlo1VDJCUmhnVno0dEdCQ296dklRa0FTYm16RXY2b0xkTHJERDJ3cUNWTW1pVno3VnI0VGc?oc=5",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-08-20T17:30:00+00:00",
-      "score": 57.9,
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "score": 54.87,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -312,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzdqMW9ZZmxnYVlNTmJ1MlpFVjZlQ0ZqM3k2aXp3N19DZlJXUlFhZ3VpbldtYXQ0N215X1F0NmZfYWJUUU9ZVFZKamk1M055VVo2Ti1YX0VQZWIzTVFPbTBBN1ktLURfa1ViTUphbnRrcnlSREExakFoZHpZN3Q0cjdKRXE0US1ydUFobmstY1RRWWxYYjJ3dEIxUlJzTmNXY0Z2T0JudlJpZkp5WEczVmctUTdUdkk1Zl9GYk9ybXFJYWVIRExjdVQ1elQ?oc=5",
       "source": "Cba24n",
       "published_at": "2026-08-21T11:41:29+00:00",
-      "score": 57.7,
+      "score": 54.85,
       "corroborating_sources": [
         "Cba24n"
       ],
@@ -322,12 +381,27 @@
       }
     },
     {
-      "id": "11303e3e06121f8b",
-      "title": "Proporção de negros eleitos para o Congresso não chega a 30%, mostra estudo - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUJkRXZuQ0hPV19kVEN3UXRKMjBHVUJiaXhnWS1MclVFZlNwbU9WaFVDMEk5MjhCZzNvZFdkdUNKWmd3c29ZaGJOMTU4VHhpVXM4dUxCT3QxVUduSHJGSkpYRXhacVlrNERzS3M2Q3NwV29CLWduSDFKdWtyM18taml2WExBTHJTeWp5Mlo1VDJCUmhnVno0dEdCQ296dklRa0FTYm16RXY2b0xkTHJERDJ3cUNWTW1pVno3VnI0VGc?oc=5",
+      "id": "5be7143fbeb2d951",
+      "title": "RDC: Cómo las deepfakes pueden cambiar la imagen de los políticos en redes sociales - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU0o2VWxSTlZwOTVrMFdhb0pVd2MxcTFNQmNsWTlGaUhOTzVoMG1RajNNRTg4dVZQSjdvcmUtSjAxNXZ6ZXJ2NlBqUmIwZ3lCR09hQjk1dWRJV3l3eHVNZm1FT0o4ZElURE9oSE1MRXdSRm52bHZvMElyU21vMnBSaVBLRldSeFZ2S050dWpETTZsUGxPVlhDaUV6SjQ5bUFrM0pNeWdjWmVza1ZKWVBJLUg1a1kzOUIxb2hlbTdycjNKV1hBNWZad0JKZVJGMkpOajZzTWNLZFppaDVfRy1MSmJhZ2HSAeoBQVVfeXFMUEp0d3BRczdzNllPQS1GNmJIcU9VYTZqNkRSbE5BRzZ4WC1QRS1MeWxtdDc0LWU3clVoR0dQRFZjc3ZsU1Q1VmRHeUctcWYzUDRvWU5EdVNGUFliT2xaVkhyNHhNakR5YnQtME9QMXVMNFZSaGpHQ3ZXNXJnaWthT0hFdmstNVNySVVqcjFQa1NyNm5wck1JRWNIQ01jTzVpTTlqSkNXMzNrR0trbjR6NXdPalk1Z3RTNVI2MWtxQmdFNHdwbDltT29ob1oycEJremd1VWx5dEJIcWN5c2ZwdmF1QW5oc09GWlBn?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-08-21T21:16:10+00:00",
+      "score": 54.28,
+      "corroborating_sources": [
+        "Perfil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f7d87b071ebd3773",
+      "title": "Irã reage a Trump e chama guerra econômica dos EUA de 'política fracassada' - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnpXM2UyZFlYeW9YS3BmWlktQVZDdUUyX3B3MHVDZmNkOUxwbVJDRWlHcjlkbERfc0p6dFRadVY1bjhNTEJvRWlQNUE4dl9veXFncThMT2lseENDbFNscWVNMF9VTER5bTJtVXFjSUt2T19MQXI3MDhLREUxcUJYTFQ4SkdJRTF2a3BLQ0VNMFNzX1M1ZmRQbGdqbERSVUhRekNKN05FakZKQ0tIZDE5XzVBWFI1V0ZOMUkzQldkakc4dw?oc=5",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "score": 57.38,
+      "published_at": "2026-08-20T11:43:00+00:00",
+      "score": 54.0,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -342,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlNsYWw1SUktSHBrNG9NZEMwMHhSalA5Uy1zNndJSkJjZU9qbkxuRlR5Mk83S1NBaWtJdk1RaWhKeUpmVjdPem1CQXB3WFdFZXRfd0NSMWRiaHBiVDNDX2VfSEN3SXl1dWxrN1ZrRFV6ZS1wcm13eV83cVhhRkVyXzJneS1OZV9WYTNyelg0dnJKS1Z3cUVjRGcxd0VYSE5SREtYcFJQSlhUaFp2NjY0?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-21T17:01:00+00:00",
-      "score": 57.04,
+      "score": 53.74,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -357,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdlU1OHh5T3RCU2kteklLQm1GY2YyeEFjTmNhcDdWLUlUSlcyQmNiSWZZZ1N3VTNRNjNhVzdlODNRcVVnR3BxMnFZZkVRSDFLR3EteU5NWXdKVm5ZVTBPTlA2WFZPT3BlQTRpSVFFNmhubk9XM2hrNGJXQmZjVTdETWRzME9sR01UNnJWRUlsbk5Hck0zU3JsbXE2OHVPeUhkcW1vc3JTS0tzeEdQczUyQlQyX2lMQVEwLWNXTU1ycmw3NGdxVGpURjJDdTJXS2xWYlJqMVln?oc=5",
       "source": "VLN Radio",
       "published_at": "2026-08-21T20:00:21+00:00",
-      "score": 56.78,
+      "score": 53.18,
       "corroborating_sources": [
         "VLN Radio"
       ],
@@ -372,84 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnRnSUxDSURhUHVrMEowWV9mLTVqbjZqYjdtZWdCZ0pkSDluVWczbl9MS2FKeXBQN0FlS0lnR1ZoT0FWUlVQXzBLdURIdVhhWWd0S0JHamVxcVdKTWF3X25SVzJmZm50c3JvWlZsM2JrajRwRkloa3RWSUF4VDhXVW1wYWVucUJ6cElWQWJQbjgwemNrZUhxMWFn?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-21T16:03:21+00:00",
-      "score": 56.21,
+      "score": 52.99,
       "corroborating_sources": [
         "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f7d87b071ebd3773",
-      "title": "Irã reage a Trump e chama guerra econômica dos EUA de 'política fracassada' - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnpXM2UyZFlYeW9YS3BmWlktQVZDdUUyX3B3MHVDZmNkOUxwbVJDRWlHcjlkbERfc0p6dFRadVY1bjhNTEJvRWlQNUE4dl9veXFncThMT2lseENDbFNscWVNMF9VTER5bTJtVXFjSUt2T19MQXI3MDhLREUxcUJYTFQ4SkdJRTF2a3BLQ0VNMFNzX1M1ZmRQbGdqbERSVUhRekNKN05FakZKQ0tIZDE5XzVBWFI1V0ZOMUkzQldkakc4dw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-20T11:43:00+00:00",
-      "score": 55.46,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6cd0dceb9dd712a4",
-      "title": "Nova pesquisa Datafolha atualiza cenário da disputa presidencial após início da campanha - Brasil de Fato",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFRiV1hnYW9vTkpFYVAzQjMyQjdrVUhMQ1N3ejZxVWpZVUFONjBtUi02YzdkTDc2OVB6eXotVVcycktzNkQwZGRfcWNYTDJicVhocXJJd2FUM1daR1VmamNuNHlZQVlhNDFnVkZtZHIzbWc1RERKZExZSTdBdTdlZExqWDVCQi1iX21Fa2ZHb0huVGRZc2UzVk5nTVRJa2NvOXJvX0dra09QczN3TUxQREtlMU9vYXhHQ25IWFlvZlVHaV9oZkdzWmhPRTM?oc=5",
-      "source": "Brasil de Fato",
-      "published_at": "2026-08-21T14:54:00+00:00",
-      "score": 55.24,
-      "corroborating_sources": [
-        "Brasil de Fato"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8e70438a59f672ab",
-      "title": "Defesa de Lulinha fala em interferência política na PF - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNE5oWlR4ZjJmYkVWbDFMNmJWZzFyTEZSWVBWLS1vOC1mdExsb3oxUlhUMzlSRnBRUlIxcFNTYmNvTC1pTUVsUnFKWFR4Mm5HYXhjbFZxQ3VsYkwtaThsWUFNX2FDb0RGSnVaV1JFaDE3VzMzc2hJUWRETEdicGNiR0pXNkw0MEc5SUlZenVCa1FOZWhMNWc4c1ltTGNmQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-21T02:48:05+00:00",
-      "score": 54.74,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6eac1348cdec9e53",
-      "title": "Milei defiende su plan económico en Buenos Aires con insultos y burlas a la oposición - expreso.ec",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmFGTEtuOU1nQ1htSGFxSnU1MF9RYnpXd1hnd0pDMUpSQ0F4WUlIRm5laUJMeGJvYlAzTXRXdHVuUEZYSEktQkV3YlFPYzJOTk5PNEJScTF1QkotU0VYWHUxd3kzVHVYWFlOLXNocUhGUktzamdEbndENm1lZzlaZHloSDVrUXp0bzI5d3VxeEw3dDlGOVhMY1ZTS3B3bGVhLXg1YUo1aHhqZ2pZV2c?oc=5",
-      "source": "expreso.ec",
-      "published_at": "2026-08-21T17:35:59+00:00",
-      "score": 54.56,
-      "corroborating_sources": [
-        "expreso.ec"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ce73e8ffaf8b6fff",
-      "title": "Regina Duarte volta ao teatro e lembra política: 'Tem gente que não me perdoa até hoje' - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2dqZzJNdTd4a1JQNEYzWC1oVXFMbXhqUGg3ZmF5LUxodmRTY29va1FmMXFzRDRoaGdLU2oxRi0zS05zNjczck5vQnVYMjdhVnozZXowbVRVd3pkZzR5SzB6TEVjcWcxQ0Fqdi1xLUpDOTNkakxDem1xbnhtZlBPNk5aSC0zenZaYWNwbFczMExyak9DNHJmT2FKSXRkck1XdnRsbUZZaHBOcnRPZTZ6bDdsczFTN3BiZ0RnaFhmaWswVmdaRzR2LVRRTmh3cUtBMUVqNg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-21T02:00:00+00:00",
-      "score": 54.28,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
