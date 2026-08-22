@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-22T13:47:10.521207+00:00",
-  "next_update_expected_at": "2026-08-22T17:47:10.521207+00:00",
+  "generated_at": "2026-08-22T16:59:52.760308+00:00",
+  "next_update_expected_at": "2026-08-22T20:59:52.760308+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "1654ce2da4851901",
-      "title": "Menos mulheres na política: candidaturas femininas caem 26,9% no DF - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmJpZTdzZTBVRkFWTEJCTGN0WWdxenhJVF9FTUxYRzVEcTlNUW9PZkI2b19GbXFKNVZHRGtwQ2dzOEFVWVU0ZDdxSjRGa0NSZ0t1c243ODNSYzBBZ2U2LTNvbGd3el9mSHJna2VGMS0wV0ZzV0trc3BDMnFVaEVOWFZyZWJWNlpmcC01Z3pUSGxEbjF1aDVFMGJrUkpFUklKQjFDU2lRbkxkLTdm?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-22T12:08:00+00:00",
-      "score": 76.46,
+      "id": "d2786bab51d75f59",
+      "title": "EUA procuram governo Lula para retomar negociação sobre tarifaço - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXl6SUgyUjQ3ZThHVWM0VFpWeVdhc1hFRXVxRGpxVU9ReUlxU3JwckVKemV1eWZGcG9LU2ZVRzg4cWo4OEs3bllZTGZDeTBjTkx4Ym5JX0hldjdKZDdUY1ZlaGpXMDFicmM3eU9OTkxmTnBnQzVZTG9QTDNXd29lY2dycHd5ZTBkMkdBZUNkemFPNjRjZHptNmVPWGZ0M09WWTNmd1JINmNXZ3M?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-22T12:38:29+00:00",
+      "score": 73.35,
       "corroborating_sources": [
-        "Metrópoles"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -26,24 +26,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVE9fU19obmpQTWw1N05BZ0FqV3l3YThxTWJQUnM4T0g1TDhDa1B1NlBGX1RTMUlsbmsyWnIwYXBvaE1mWkRMS1FuN1RnbVdGcmI0Q1ZYUHlldkZKa2JIOWZpeUxPNGpXVFhDUlB3SFUwdWkxREZoNEdqNXVpRnN2VVF5RGduNDZrWm1kNlpmQkhscnpyTkhvZTI3LVl4ajhWakt6Q193M2h5RElpSktLbw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-22T09:00:00+00:00",
-      "score": 72.87,
+      "score": 69.51,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f650299aa846b33a",
-      "title": "International Political Sociology Contributions to International Relations - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vX29WbV9ERG1ZOXFHb1JMMEEtYnV4QjVOejhWR1RkMFpsR2lvNDljZUFTQTc3SDdsQlM0WjhEVVl3SFZYMjgtMXJjVHZHNHlPRzhDWlB5YUFwUFNMUl9sTldKUEF5TTA?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-22T11:30:36+00:00",
-      "score": 72.72,
-      "corroborating_sources": [
-        "E-International Relations"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +41,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaXg2c1ZJMi1CdFpmVXd2WkZWUVJHalBtNWRfckVyaFFTSWdTWVA1ZGZ2U1lpNjcxM1NYeVVkeWY0aHJqOU5ULUI2VkJHZFFrYXI5RHNPemZRV3I2UnFGNFh6a0UxZk8yTUVKUnMwUk1kTWtXcGZ5TXQtVXg0SEJlM0hXTmZaZmtnTDRtaVk0S3ZJOTZWRk1iVDBuYVE4b1RYTDBsNjJKSzBJZG14OWplTmJBYmtKZkRWZ0lUcC1XTWFrZHhlMEprWUdDdlBfNlI4THc?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-21T23:37:35+00:00",
-      "score": 71.84,
+      "score": 69.25,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -66,14 +51,59 @@
       }
     },
     {
-      "id": "2e5a07ad5342aaff",
-      "title": "“Pode-se ganhar eleição mentindo, mas não se governa mentindo”, diz Lula - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXh6QWlQM29MWVhiT09IQzJnSzRDVk5zclpqWUdJMk9tN0pHS2Y5V2Zna0pCYnk3VF82cGF2NjZoTDEzZFpvYnJBNHBKbzV5djNFT1pBWW9sWnc0RTdsR0lHWFU5LXR3M01tWVpOZzljY3ZPQTNEWWZVNDl5LWVGYUE0aFRkcVU4TE13UWtSWlpCTy1ucHlZNlNCMkZBZ3RFb1FXN3JBalVhcjVRU2ItZjBvbEhjMFJW?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-22T02:49:43+00:00",
-      "score": 66.67,
+      "id": "f650299aa846b33a",
+      "title": "International Political Sociology Contributions to International Relations - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vX29WbV9ERG1ZOXFHb1JMMEEtYnV4QjVOejhWR1RkMFpsR2lvNDljZUFTQTc3SDdsQlM0WjhEVVl3SFZYMjgtMXJjVHZHNHlPRzhDWlB5YUFwUFNMUl9sTldKUEF5TTA?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-08-22T11:30:36+00:00",
+      "score": 69.11,
       "corroborating_sources": [
-        "Poder360"
+        "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2bd81acbf3d7763d",
+      "title": "O que os planos dos candidatos à Presidência dizem sobre o STF - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1dYeWtkZXAzRDFjeGtuM0dQZERvMkI0M2IweThzSkw0WEFJNVI0VFpES1k3Y3NmQ0I5N1h5X3JPYjFuSTRZTVVxZUZseV8yek15WFdZRWpTbTNJNVEwUDBuTHpuRjJka3Zwc3lTOWRvQTh4cmw0UTA4ZjZOQXFPZUZVR1g3M0hVbnN2cGo1cWpCS2ZqTnRzYjBORV9nT1MyMHpqalIyOVZ3Z3l1dkE?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-08-22T14:10:00+00:00",
+      "score": 67.07,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1654ce2da4851901",
+      "title": "Menos mulheres na política: candidaturas femininas caem 26,9% no DF - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmJpZTdzZTBVRkFWTEJCTGN0WWdxenhJVF9FTUxYRzVEcTlNUW9PZkI2b19GbXFKNVZHRGtwQ2dzOEFVWVU0ZDdxSjRGa0NSZ0t1c243ODNSYzBBZ2U2LTNvbGd3el9mSHJna2VGMS0wV0ZzV0trc3BDMnFVaEVOWFZyZWJWNlpmcC01Z3pUSGxEbjF1aDVFMGJrUkpFUklKQjFDU2lRbkxkLTdm?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-22T06:15:00+00:00",
+      "score": 66.86,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81be5dab6b3d8afe",
+      "title": "Andy Burnham says he wants to bring men’s World Cup back to UK in 2042 - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGJLTkROZmlRdXZVMzFNN2doNzFJRE1BX0JWRElKOWp1aC1MXzlNc3c4VlIxRDlucjZjbGxWd1dnSTY5dmJjeEJpUE80OWcxUzlIMlc0UkJablNLSncxR29ySHF2SlpUNkFfd1QxVHc5UE5vaWZYUnJ1VzdwYjZrRFY1UFNPMlZPSl9pRFJFWVU5d29aNzZFem92aTItZ0E?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-08-22T14:20:00+00:00",
+      "score": 64.27,
+      "corroborating_sources": [
+        "The Guardian"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +116,39 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOFVVWU5ZazFaZ2FIYU9uZWtqY2MtT3M4OVpKUkt2cS1uYjM1TmJSWHZ4UlB3VlM0ZHczNDlOVUVUUlU5MW1GVk5BUTR0bmdnN29JMDF1b0Y0SEI2a0hoUVlsSkpEc2g5U1BXZy10ZDV6Zk1sckN2X05laEdIUjFJSG15X2lnWE14anhZQTFHRHBtclRwRXNWZnVkdEFSRDM5UkZnRWxJLUhod0VyT0NMdzVoQzdLa0FFWVp2LW0yR2VoYXF5TEY3MmtRWG05MzAzZVVOMks1U0F4NWFvX2lWV3QzSEFlM2htTEdDdmVkTkpYQVUt?oc=5",
       "source": "Congreso",
       "published_at": "2026-08-21T20:24:32+00:00",
-      "score": 66.25,
+      "score": 63.88,
       "corroborating_sources": [
         "Congreso"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2e5a07ad5342aaff",
+      "title": "“Pode-se ganhar eleição mentindo, mas não se governa mentindo”, diz Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXh6QWlQM29MWVhiT09IQzJnSzRDVk5zclpqWUdJMk9tN0pHS2Y5V2Zna0pCYnk3VF82cGF2NjZoTDEzZFpvYnJBNHBKbzV5djNFT1pBWW9sWnc0RTdsR0lHWFU5LXR3M01tWVpOZzljY3ZPQTNEWWZVNDl5LWVGYUE0aFRkcVU4TE13UWtSWlpCTy1ucHlZNlNCMkZBZ3RFb1FXN3JBalVhcjVRU2ItZjBvbEhjMFJW?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-22T02:49:43+00:00",
+      "score": 63.83,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cc235fbd85c360c5",
+      "title": "Os altos gastos do governo já contrataram o freio de arrumação para 2027 - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjFoZGRrWXQ0eTV6YmYxRUl6SnZXazRkNk5FbHpIQk92LThGUm9UTF9XaVI1d2wtR3JOLXRhOE81LVJINm9PRGhZbVVJWWZmbnNqLWc2NzFIQzVHU3pmdFBFTVQxN0ZaSHRtY0Ita1ZRWUlrdzNIRWxYRHYwYlg2R3hwVWt6Ty1YLXRmQW5UbzhWdUMwNXF6Y2NJal96RjhRT0FnSzlMc0JMdkVGTTZlWHdwWkwxT1BIcEVrVNIBwgFBVV95cUxPc2lyTm5KRlRLckJ5WS02SXdrMHNRZWx5QjBuNTdqTTJ4WGVhRDJrUGNSNEh4bE05UUxKSEpZaXY5bTBaVkRGZU1pdnBfUzZKVFRNcnAyM2NGUFo4RjRJejZpRnQzOW51ZTdKdGVnMU5NQlBQdkZGU2tzU3BDQ2dUWnk1cEFEb2x5aTFWbzhNcTVETWVOSkJqemdfRFZTcDlZbWhxVV9DTXhzcE0wX0JudzZJY3NOQmN6MDdqNFhtN0ZXQQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-22T01:25:33+00:00",
+      "score": 62.67,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjX0dwSFMwdGZNdldrcGxPZEJFdTQ3TVMzWlNwQ3Y5dmlxb0NRX1U3R1J1ZjlDSFhyeEF4NExsLWhMdC0teXVCQWRYLXlsMXNXUGpncg?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-22T12:36:08+00:00",
-      "score": 66.02,
+      "score": 62.3,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -116,54 +176,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkhDa3FGX0xnVnEwZndpNG13aWhKbC1CVkpoSXNiSkhhX2pPbmFuRHlLbUYzZmtlN0hyYkdhU2IySTl5VG9qMHhYZGxZSklCTTgtdlRXMndiNFNDeDRZVno2VGNEeHBheHRKdUs4SlRhQTBVQm1PV2h0dlkwX0xzSzhUbWNIVXVtQWs2VkRtdnk5d2hmUmZYT1V6OVNDNmgxa1ozZTItenFTT2JRNmd3SW1Sc9IBuwFBVV95cUxPbFUxbGVBY1NVUkI1ZVEzc3pZQzJfdS1JWkhnMm1OY0tFNzltSTBSWHZ0a3pNU2daR3hZV2ptcGhXaFRiRGxRT3pTQ3JaQnR4MUFSZzJfX1YwOGxCYTk3ZmZ5WmhqUzFRLTQweXRrQU0yN3RFQ05aWUVnRzRRQjZIOUZ5MmtTY0FnVjUyX0VVZVdwVUcxMFVWeUE5bWNiRnY2eW84bi1aeEFISXZlbWhYWjc1Ymo3ZDB6MHg4?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-08-22T12:22:00+00:00",
-      "score": 65.74,
+      "score": 62.04,
       "corroborating_sources": [
         "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cc235fbd85c360c5",
-      "title": "Os altos gastos do governo já contrataram o freio de arrumação para 2027 - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjFoZGRrWXQ0eTV6YmYxRUl6SnZXazRkNk5FbHpIQk92LThGUm9UTF9XaVI1d2wtR3JOLXRhOE81LVJINm9PRGhZbVVJWWZmbnNqLWc2NzFIQzVHU3pmdFBFTVQxN0ZaSHRtY0Ita1ZRWUlrdzNIRWxYRHYwYlg2R3hwVWt6Ty1YLXRmQW5UbzhWdUMwNXF6Y2NJal96RjhRT0FnSzlMc0JMdkVGTTZlWHdwWkwxT1BIcEVrVNIBwgFBVV95cUxPc2lyTm5KRlRLckJ5WS02SXdrMHNRZWx5QjBuNTdqTTJ4WGVhRDJrUGNSNEh4bE05UUxKSEpZaXY5bTBaVkRGZU1pdnBfUzZKVFRNcnAyM2NGUFo4RjRJejZpRnQzOW51ZTdKdGVnMU5NQlBQdkZGU2tzU3BDQ2dUWnk1cEFEb2x5aTFWbzhNcTVETWVOSkJqemdfRFZTcDlZbWhxVV9DTXhzcE0wX0JudzZJY3NOQmN6MDdqNFhtN0ZXQQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-22T01:25:33+00:00",
-      "score": 65.4,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e9dd0472a4ed58c4",
-      "title": "Mark Hurst - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95ZkpJaUNwZ3hSb0oyMGc5czdKZjFvOHVNYmtRS1d2SDZqOTA4Zmd3NWtmdy1wVzZ0c1dNWjRjYVhlcVBUT0MzcW5TNE1NZTFMZk94bTJR?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-22T11:59:21+00:00",
-      "score": 65.29,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ae0d857aabf0a9a8",
-      "title": "Interview – David Campbell - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNklrdGI1NnE4dVpMOTVKZmt3eGZXcWZmQTN0eWRYdHFmZFhIQ05vXzZ6VnNoMDVPV3dwMHRXdXpqTU00eUFWWnM4bWdvOUowcENxZDlDX1hVWlU?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-22T11:59:00+00:00",
-      "score": 65.28,
-      "corroborating_sources": [
-        "E-International Relations"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcW1pdDVEb1B6UTl2UUlaZWZvVUkxcGc2TlI2Q0JiYXhSaHRqNGtSNmEyMkNTb29OYVZWNGl3QUI0Rm1HWnJmNU1sci1MWXg0Y3dGLTdEVFJhVVZYZU1SSDlqZnNHMGY2Vm1IX3RDVmRiWUxxOWpGcjRyTlF5c01jeWg2RnI5Uzk2QjEtQ1U0cWg2T2ZCMHJHbUpONkVJZVBCYk9YOTcyZ0VWbTRDRnBDRXlqNzM?oc=5",
       "source": "Jornal do Brasil",
       "published_at": "2026-08-22T11:53:00+00:00",
-      "score": 65.16,
+      "score": 61.52,
       "corroborating_sources": [
         "Jornal do Brasil"
       ],
@@ -191,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NMGxWelpDUEtZTTJuVGxXaHpqQkVjY1dfRFVYMkFxZ09oNmpFNEpWUEtjUnBLdEx4TmJxYkZYZEtpQnZRRVlZclhqUlBJZ19TLXVqN3VyanFIOUln?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-22T11:43:43+00:00",
-      "score": 64.98,
+      "score": 61.35,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -206,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uemFEUUZvYndqRTJyRGlPWFZYdGJtbDhZWWFlbERNMHV6YXdsSUw3VFdYZVlPVURDd2lRR1JQbzlSVlZvQm8zNHgwRzhtVkRiQmVKbFFrZm9wWTdR?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-22T11:42:35+00:00",
-      "score": 64.95,
+      "score": 61.33,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -221,24 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqSlJGbVJjTVBzTEw5UmRIbHA1N3dkbktVWl91NnluWkxHTFdPTWhrU0NnSFpWU3A5VzJnaVRVTVIzdDlpT0RzbDlNMHppMFFQUXExVnVJcw?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-22T11:38:57+00:00",
-      "score": 64.88,
+      "score": 61.26,
       "corroborating_sources": [
         "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6e8171711eb1aed3",
-      "title": "Pesquisa Datafolha para presidente: veja novos números atualizados - UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3FzMkdueGkwSVU2VnNRbFZGcmlKbXBSU2dvdkZVTGI2RW03dm1SMENmT2ZKTE82djc0a2RWN1ZNbXNXNzdkT0VaaDc3dl93d2RaZG45Z2JESGdkQVl6ci1obXc3Tm1oUDBqcEV5Q2pYWDdQV2NpaUdzbjNNUEFZV2p2V2NYSmlHTFAwUnBvMU1jNVZGSXlwY1pXSm9Qc1BIbndXVjVZd3dNTzRuYWd2NzE0WUExME42T1E?oc=5",
-      "source": "UOL Notícias",
-      "published_at": "2026-08-22T00:31:15+00:00",
-      "score": 64.61,
-      "corroborating_sources": [
-        "UOL Notícias"
       ],
       "signals": {
         "source_count": 1,
@@ -251,9 +251,24 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnRKUnZGOFVZakNYRm0yVnp1ZGt5WXZRRW43cTlsaVNra1lzS1hKUElqelg0NzJ0bmJfbnJtblFVdTF4M3lnYndPbzJIWFlBNlNmcnRsWFBSNHE2Q0JGaVZHZ3Y1OE4walh1NDBWMjJYRHNhczRPbWdyOW94RUZhU3VfVl9yWlpacnFDQnVkU2JlVTVzbDNUQ1YzVDF4c0F4Y2NEbHNGSmh6bVJLVGtpb1B6UjFVOEtKVHhnSktaNDBRanFlb2hwMQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-21T21:30:00+00:00",
-      "score": 62.1,
+      "score": 59.66,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e9f2632682f773a9",
+      "title": "Notícias Ao Vivo do Brasil e do Mundo - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0V1UE03cmRWSEF2NHgxSXdnSjA2RnBaTVZMaVd5d1doOVVPNkIyOExUSlpKNHB0YWU3NGNucmVfdXNVTEJzWmRkWUUtU0xTMjRpdTVHenc2cERhSDYxbEFOZzFQYmZ4enJSX2Jyd0ZIOVpaMzVjZmNoNVFsTTZEU3RHUndTWC1wNGhkazlNV0QwMHI0Qi1Xdk9vMHJDS0JWVXZsazE3UWhrQzNpeXJUanktT1ZyUUk?oc=5",
+      "source": "CNN Brasil",
+      "published_at": "2026-08-22T10:00:24+00:00",
+      "score": 59.53,
+      "corroborating_sources": [
+        "CNN Brasil"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZG1fQURkMWNXYWQ0ZDdMRTdpLTVwWTR1TXdJTUZRQU5IR0gxUEpRQXBaVTN3eTVfdzhTeG1telBLSEJMdzFzXy1QZWlDejVGeDdZazZuWlRGdURtVzRrN0lueG9uU09ad1Q2TjY0dzFRbUdqbXZIZTRHc1ZqU09veVl5X1ljNzlGTlhpWGdaN213TnhtcHdBNUd2cF95Zw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-22T05:59:59+00:00",
-      "score": 61.72,
+      "score": 58.63,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -281,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1hlSHJJSS02ZmhjY1E1ZFNPLWZleDRRYklVYTRNSkl2NUNrYzQ1Um1oR0tYdGNnXy11R0l2RkdOYW1ZQXJMLWFpcFNxYUMwYlV5UkV6Q281anllZnlpSnlKb0o2TjZfNG9kdjFnNjA5U3JSSVp3N1ZhUVc4aFhFcHB6enY3a3BEellYa29LTlZzcWJrUlRJelB6TG1rSUFTemd5OGpia3paZGpyTHVLSA?oc=5",
       "source": "CNN Brasil",
       "published_at": "2026-08-21T23:43:39+00:00",
-      "score": 60.93,
+      "score": 58.33,
       "corroborating_sources": [
         "CNN Brasil"
       ],
@@ -296,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hZdkM0d1R2VGJHbXlrbUNkWkhqeHRydlMyRUJta0JRanh2MUpYQjJhZzhLWEFMN1ppTVJUMUpGWFdPZFY2Nnh3cVNxNmdsNWdKM0dJWGN4cnVGTm9XU0dDVk9zT21rRm9OTFpvUXYwLUFDcXNPZ3A1LUxVV1hYWmd4ZlpNakhsVVBlR2JMSFF5Ni03VDNrN0paYnd6M2NpYmEwb003eWRLSGFz?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-21T19:09:39+00:00",
-      "score": 60.3,
+      "score": 58.01,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -311,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFMyRF8yYWlaVTVFTGlVRER3OWpIcUtxdXctNnU1RlFjd2RNSnFxeEJncndPMXN6ZExjQUV0RVZKb2RLNm41cUJKWVlZVnAtdmVpRUIzYmM0STFxYk9jVUNGWWZJV0JWbkF3NWVwZ04yZFk5YmlEQ2lLQ0ZEMlB5U2FvSDFYRTBNSHJVQTczNEl4SGF6UTB6aHZ3?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-22T02:39:33+00:00",
-      "score": 58.51,
+      "score": 55.69,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -326,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZi1meUNyaGdtem9aLVJYTUJrZGJIUzAtWEFpZHZCTWI0NmZUWVdrdHlFUWYxQkwxeV9HVlFPeDN4LXZad28tODNVYkVKbVVJUmdIVmN1ZWFBVGNzV2lFbEhGNUppZG5xR2hHeEN0UzU2WTlCU192NExSaDlyamZEcmdXNGR2VjN1SWtfeGlkTmJ5V3J2NDFPWFFKd25hNmFIdXVKaDJYa1I2Yk00ZXV3aGxqVy1Rek9PWXZ0TlZDZGlMd29vanAyZUZwY1NKX2xyLXc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-22T02:00:00+00:00",
-      "score": 57.91,
+      "score": 55.14,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -341,39 +356,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnQxTkZaUFlnbG5tNGJwbm5XdWNNc3VsWWhTQWhVeG1LbDUwTHVvVko4WjhLSTNNR3RBQ0lRUkNyQ2Q1THU3c09leDNRTWFoVkxiSzdmMTZrV2FIV29oM0ZHaFprWms4NURKUnl2SUdvblc4WkIwTWt4YmVRUmtBVDd4RUZ6NkFZRmdVRFlqM3RJQV9QVUpOMGRIdFVOUmgxOG9HRDJacElhbmdG?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-22T00:14:33+00:00",
-      "score": 56.37,
+      "score": 53.73,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "57f245d546c88518",
-      "title": "PT projeta mais de 1.000 comitês voltados a evangélicos em 2026 - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUR2TGctc2tNTFdtUGVqdzNBSHNIV05rWU1GT2FzczJOSjdjTHZvN3cwYlhRUjMzMEdrUGg2YlZjOXNvaHdfREpab2kxamFDSDZUMFBTUGNEVmN0ZDE4WFpqOW5qNEZLYkoxVGlwd1ItNFVzcTAtMWNaSnNidTBEcVJTdkdTa1RxN3NUM2Y4T1N5VDF1am9ZRGtqY3F5UmNxRHdXXzNEd3lWRDJzbDk2bDdB?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-21T22:36:15+00:00",
-      "score": 54.99,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "41f68283d0092b38",
-      "title": "‘Política de infraestrutura não pode ficar ao sabor do governo da vez’, diz Gesner Oliveira - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWU1pN0N1TDgxTkE4eWlZMlpSallpVi1mdWFYdU56cnFPTVdrZzBzZFVDU2Q1LVVOMHQ4OERYYWdQUFJrLTAya0x0dDZRaXN5ZGRhN1dZVWt3MzYtN2lzbDJBdG1XWkZ2akVFdlBqS3pSV1N5OXhNNnI4ZXQ4ekZ3QnZHUmVlbS0wem12T1gtQ2FwZTBzUnB1aEM4bFJtRV9JWVJvWDVlWjhlb0lJOUdhcW4yMFJTMDdxNXhOanhkUFU0dGPSAcgBQVVfeXFMUFdfX05Ca0Rnd3VTQ3dRZXUzdzJjVURnV3gxUmFRMmpWMlgyRFFfRi1JNGMtVlVsejdzcFo1Tm5semJHLTRJRW1RTHF6Rmt4a3JqbjRDbk5mSmNvd01XSkNuWGpaV0pBWk0wSW05M0lJYTloTDV0MkthbXpEUk1YaldmemVnR3VSNDlUOE1BR2lMV3RZdDZtaXMzcDhVZTdzRFVaOFNoWE5tUWJ1ekdhaVZFQnFGQmd4TVpuRDY5bGNoOUVsRW1pSmI?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-20T18:24:28+00:00",
-      "score": 54.96,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -386,9 +371,24 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05PdHVFdFc4Q3ZDZWFkMG9EcDFCY3JGWW45MkNxeVQxSDFpWll0RkRnZlh5Y3AzY3k4UEtCSUJER2RGTnU5T2FLYjV0NGd0UVdPbkhmTmM0bldWZ0F1d1RuYlR1VE5MU0E4ZWY0YlFMdFVGUUh0cjh2VVdXNTZLZUdGalhzZTROSVVYdVB4TEZzUVJ5NG91aHVHbkN1bll0Y3djczhXWlFsUTFzcTg4T21lS0tZWC1xQ1pWQnRDN2NrNGpSNGZwWlNKSVNKMXVfQm5IYmY0d05vN0k?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-20T17:30:00+00:00",
-      "score": 54.63,
+      "score": 53.51,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "57f245d546c88518",
+      "title": "PT projeta mais de 1.000 comitês voltados a evangélicos em 2026 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUR2TGctc2tNTFdtUGVqdzNBSHNIV05rWU1GT2FzczJOSjdjTHZvN3cwYlhRUjMzMEdrUGg2YlZjOXNvaHdfREpab2kxamFDSDZUMFBTUGNEVmN0ZDE4WFpqOW5qNEZLYkoxVGlwd1ItNFVzcTAtMWNaSnNidTBEcVJTdkdTa1RxN3NUM2Y4T1N5VDF1am9ZRGtqY3F5UmNxRHdXXzNEd3lWRDJzbDk2bDdB?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-21T22:36:15+00:00",
+      "score": 52.47,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -401,24 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1JnY1EzSVR5S0pmalFZUVl5U3Z2NjZvaXJ6VUJCZFZKM2xfT0paQVY2RXJFbzREWE1OM3lJQkN4UHVUWVZYeGx6TE1DRjRsd2stOGczNTV6X1VBbDEwZWJhSXl1b2JqLVl6Rkw1TjlKenJLMFFPX00xZGlYajdveXUyZjA1bGlVcUluYzFKOVg5M013bDlkazZKSkZkWWpDRGRzdmU1X0lscUlESWlrTA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-21T21:40:00+00:00",
-      "score": 54.23,
+      "score": 51.78,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6c996736035f7f77",
-      "title": "Poder360: Flávio Bolsonaro amplia equipe econômica com 7 novos nomes - Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUDM0VnliaTh2cjVsQ0xVelhjWUlPbVhvT3FFUjA1T2hFZjdOMWhFOEhVQ1QtVUxQN2NLaHZsTnlxMDhzLWRpVEZHcHNEb3ZIMmZfRjZ0MHRGWDNXVjBQYWN3YjN0aHBFdGtMY1FCRXZVVkVXYW51TW9MTm9sSDBkeEo4a3BCdHhzX3FUM051LS1zYWxIU0FTckdZRWw5c0lacTV5YUFzM0J0RHU1djJ3X1R5RlljdWlCcWtsSE9ZWkgtcEwwclczODl5NXRuMzF0M215SEowZ01jWWNL0gHiAUFVX3lxTE5oRlNxQTlWaU9ZWmQ5emZ1S0hoOVp1OFl0aDhjbkl5SnVBUTRNSGZJemxDcXMzbWJiVFZ6QlVvbEhQMVA3VTVUeHk4VFhNWF9POTFXY2ZPeDcwYXZXMnAwbnBCZW5GcEdyNmQ2RWRTWE1PcmQ4b1YyUnJpekdGRm9CdTVkcmhpTTNkSy1rNXNobkRJRkZZZkFWZnc2UTUwZ0ZObC0ybXp5bENiYkRFd0pRM0l5ajMzNGFQOTg0YW92S0V0TUdPajhjekh3cWxoQl9RbHFiSVdWdXZnbzZ5dUl0Z2c?oc=5",
-      "source": "Notícias Agrícolas",
-      "published_at": "2026-08-21T21:06:31+00:00",
-      "score": 53.79,
-      "corroborating_sources": [
-        "Notícias Agrícolas"
       ],
       "signals": {
         "source_count": 1,
@@ -431,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qclFzaUpOM0htVDNQS044S2tiUDNSQ0t1YktSOEJrMHRuU2hneDBaaFV2NW80TWRZSU1lTHE0T29jazNYVWR2VjRMdG9XVm9JYzRndWMzeF9JV2xnTzJIek8tNDRqTFBGS0VV?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-21T13:58:28+00:00",
-      "score": 53.7,
+      "score": 51.72,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -441,14 +426,29 @@
       }
     },
     {
-      "id": "44617e94547a3dff",
-      "title": "Oposição quer tratar varejo como crise, diz Durigan - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGh6MGNuRWctcmY4cE9henBodjJIWE9YbzBjcmhJbXVodkQ2R3JpQUtxQVFzMldXdFBSRlhuOEdGdVhTVU1OeVkzNGRzUVNKZFgxM05La2x3X1d4aVJmOG8tRUFKUDV1b2NMTHNmX2FMTHdiUzBKN0g0djc3eGgySUxPc2lkSkZPLXV5SXRiZ2hVdzRsTFZwMTRR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-21T20:19:21+00:00",
-      "score": 53.18,
+      "id": "f7d87b071ebd3773",
+      "title": "Irã reage a Trump e chama guerra econômica dos EUA de 'política fracassada' - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnpXM2UyZFlYeW9YS3BmWlktQVZDdUUyX3B3MHVDZmNkOUxwbVJDRWlHcjlkbERfc0p6dFRadVY1bjhNTEJvRWlQNUE4dl9veXFncThMT2lseENDbFNscWVNMF9VTER5bTJtVXFjSUt2T19MQXI3MDhLREUxcUJYTFQ4SkdJRTF2a3BLQ0VNMFNzX1M1ZmRQbGdqbERSVUhRekNKN05FakZKQ0tIZDE5XzVBWFI1V0ZOMUkzQldkakc4dw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T11:43:00+00:00",
+      "score": 51.72,
       "corroborating_sources": [
-        "Poder360"
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "11303e3e06121f8b",
+      "title": "Proporção de negros eleitos para o Congresso não chega a 30%, mostra estudo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUJkRXZuQ0hPV19kVEN3UXRKMjBHVUJiaXhnWS1MclVFZlNwbU9WaFVDMEk5MjhCZzNvZFdkdUNKWmd3c29ZaGJOMTU4VHhpVXM4dUxCT3QxVUduSHJGSkpYRXhacVlrNERzS3M2Q3NwV29CLWduSDFKdWtyM18taml2WExBTHJTeWp5Mlo1VDJCUmhnVno0dEdCQ296dklRa0FTYm16RXY2b0xkTHJERDJ3cUNWTW1pVno3VnI0VGc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "score": 50.98,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
