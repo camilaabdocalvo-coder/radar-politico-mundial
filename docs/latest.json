@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T09:47:08.724104+00:00",
-  "next_update_expected_at": "2026-08-23T13:47:08.724104+00:00",
+  "generated_at": "2026-08-23T13:48:45.642505+00:00",
+  "next_update_expected_at": "2026-08-23T17:48:45.642505+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,7 +11,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUV0QmdpQzBDRWgzR2oxMm9aQjEyRi1UbmRwRENueTQ3UWVKQldTYURrd0Y2N18xT3JrMVNhMjJBREhLX1E1V1RPNnhXck1nUnFsd3JwR282UjlkLXI4UkxTdU1qZGVaaEVBRUpXeFRKSVFraVBNNlFtM1c2YUdXYWhBNDVvMzNrbktPWWw5ZVBxR2dmS1NsaWRXMFY4ZHgtTktaTTZrOTF1NWJycmI3X3NnR3oxSXU3TUdRUHZscDg1cXM2?oc=5",
       "source": "La Izquierda Diario",
       "published_at": "2026-08-23T03:04:55+00:00",
-      "score": 75.83,
+      "score": 71.88,
       "corroborating_sources": [
         "La Izquierda Diario"
       ],
@@ -26,9 +26,24 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS1MtV0JwY1FlOUllVS1mMnNoVTZCNlk1ZHZQdzBPbm9KNkFNUzJ4NHVNRHJBNHNCMy1VVnpWWjBsWjBZTjh0WGxqV05LTXlaSnBZd3o5SlRoS052aWF0SWN4OVdXNFZoNzE3Y2xmMGctNjNzaHc1QnZJd0RfSUhFbHhfcw?oc=5",
       "source": "teleSUR",
       "published_at": "2026-08-23T09:06:25+00:00",
-      "score": 74.64,
+      "score": 69.96,
       "corroborating_sources": [
         "teleSUR"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "395ef67bb7cd8e0c",
+      "title": "Diplomata da Guiana assume liderança na disputa para comandar a ONU - Brasília in Foco",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaWlJSmx5eEtIbHA0UmxweHpTMGVCd2VHbWFsYndFOVNndkhybmhWWE9udUlFeDh3UXJhdGc4TURkZGNVWkt5Y0NVS3pJSHJsaHg3dVVBcFQ0X3RqY1lOeGY1UEdmMFk4Yl9TRHJVVVF6X2ctclo5R1Fmd1ppYTFOOWljbjdSaEJZeWJENXRpYmNNTkpMYW9GY2dhUQ?oc=5",
+      "source": "Brasília in Foco",
+      "published_at": "2026-08-23T12:21:18+00:00",
+      "score": 65.69,
+      "corroborating_sources": [
+        "Brasília in Foco"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUctQzdRREc3Qms2LXh0WF9KTS16RnZDVDJRTjA4b1F0NWtzTnctb1l6MkhQcXd0MjVadlFYRFZaakdNeTVHcUd0NnV4QUZmWVJmZWdiT1hZOTBMSk5TVWVZVVBnMDVGbXNLZlhkVlU1WTRZQ3JlaFM1RGxRLUlFVmE2VGxSUEFaQUJ6RUU2d9IBowFBVV95cUxPVElHY09xa1phdUxGMVp4dndnaGlIdTBGLVJZY0RuUXJxLTNOekg5WEdoVkpuS01zaUozUno2MzE3ZHVKaU1ld0Rod1ltWVRSM1BqSHc3MTlBZmtONURrRUdJU0E2OWhPTlVDZ28tWndCcGtyb3FXUkhqaW5NYk1FZ0ZZTlRrV2FadUFJWGxiMVJldWRpTjdhMllidDJHMFpjSlVN?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-08-23T04:00:00+00:00",
-      "score": 68.8,
+      "score": 64.74,
       "corroborating_sources": [
         "EL PAÍS"
       ],
@@ -56,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmp0U1JsTXNweXEzajF3OXFhZFlXaWgzTXpmWjVmQ1RzTjlybVhUQ25hcllsM3ZLdkV5QlF1NVNyalhyTmZrd2MweHUtczFNQURPVnRUUTRNbzY2cXdPV1VvdlhOMGIybjAxMTdrQkU5bGhWOEFmTXNDNjRiakR5a3A1a1pCNk01Z1BtSmJjdksyU0VUSnZqeDZ4OEhpSzhSS2ItWUYwX2LSAa4BQVVfeXFMUFhaaURXZnVyWGJMZ1E5NEdWRHkxaEw1ZjdWdlZYSDEwTnY5MHl5Q3RzcTQzZ2VBVkw1cC01MjNQNXFqWWxxREZHajg0Q2ZJWTRMdkNKM2l4ZkVhRTNpa2hhZlpLZ2Y5S09tMHVDeUtoRWh3Q3ZVNzN1dUJ2N25FbTRCU2Y2Q3JGTTRGRTRwUGpkMEIzRDQ2Uk93MHFYVXFWdWVxaWliODE1anNGTVhR?oc=5",
       "source": "Perfil",
       "published_at": "2026-08-23T01:50:00+00:00",
-      "score": 66.56,
+      "score": 62.74,
       "corroborating_sources": [
         "Perfil"
       ],
@@ -66,14 +81,14 @@
       }
     },
     {
-      "id": "b6aaa3a6d2e914e5",
-      "title": "WATCH: Iran’s ‘golden generation’ could reshape Middle East, analyst says - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbnZGcU5vVGJZOVJtVkllMDhHWUVESmt4d1JieU90Q1FEZEh5TVYzMEZtZWJ2WjV0NXVZWUlBbDMwMUhwUWFHUkVONjBvQlhBTFJISEJtNGxzTFpTX1A2amJMSk5ad3hWS2c?oc=5",
-      "source": "The Jerusalem Post",
-      "published_at": "2026-08-23T06:48:41+00:00",
-      "score": 63.91,
+      "id": "c7928ee2c44f7d4f",
+      "title": "Irán eleva el tono ante las sanciones económicas de Estados Unidos: \"Los próximos misiles serán más potentes\" - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRDBSbTR2eFE4cHJlWVgtZW1aeC1kTTNBeUxWZlp6aTBreXpVMXY0TVJhZUdvbkNySkFxMlJYTUFOMXFaWmgxRXFXUWY3Q2w2aTUwZFJmZDdIZHRlMHBuQk93S2pEVGdCODh3ck5WMzVBMnY5emxXTmViRHFlRm1CSm1wUk82T1RMNW1naC0wMFZzOU5QMVNpZnpDLWkxWlJzbW9tcWtqTnlVMy0yYUxtRmJTZ0g4Tk9aMFVFR19yM0x2RGh2Q1BZS3oyUHBqUnZRdVQ0STk0aTJCSUdER0HSAeMBQVVfeXFMTndVVGpqR1pjZkVuX1pYSkJMSmYyekxVVmJuLXNYemdJRTZkMkNWd0tXSEwtYzZnWk9COFVtdVdzRGVxN1VMeEZLdGtIZFo1N3hkeG5hNUpObUp2R1BOQmZFNnh0MFRBS2l4TnlqQktON2cwN2ZpUlFsZVdCNWRUMEdYT1JLYUVLcER6cWI2Um9WQVNTWl96NHVTTURuR2JOalc2c1FsaXFfUDJwcFlGNWxkaXh2UDhmVHZVdGpqdDcxQ3RYT3UzUVB5YzJrMGJkbGF6M2Q1WVo0cTd6b29FRnFvSEU?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-08-23T06:11:20+00:00",
+      "score": 58.89,
       "corroborating_sources": [
-        "The Jerusalem Post"
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVpMUEVDYng3RFV0d3Vjc1VRUjNoZ0MwcmtzeEFjNklSbWl2QjQ5amtBNVoxZE1HRnAxVXZfS2w4VXZWZ3VCbW5BQVVPUGdFSUE0dVU4bmdEdE5ob2xsOEpfZHZNb192MEloZFJ2OThwWHJweEYzTEZCb3VlT1RCQzU4SHBSaDFDOXdIaWVWRTBNTEtwV0ZpYVUwSEpLdFlhYXdJdWZtWnQtV3N0OWNNbGJB?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-23T02:34:31+00:00",
-      "score": 62.31,
+      "score": 58.41,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -101,24 +116,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaXg2c1ZJMi1CdFpmVXd2WkZWUVJHalBtNWRfckVyaFFTSWdTWVA1ZGZ2U1lpNjcxM1NYeVVkeWY0aHJqOU5ULUI2VkJHZFFrYXI5RHNPemZRV3I2UnFGNFh6a0UxZk8yTUVKUnMwUk1kTWtXcGZ5TXQtVXg0SEJlM0hXTmZaZmtnTDRtaVk0S3ZJOTZWRk1iVDBuYVE4b1RYTDBsNjJKSzBJZG14OWplTmJBYmtKZkRWZ0lUcC1XTWFrZHhlMEprWUdDdlBfNlI4THc?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-21T23:37:35+00:00",
-      "score": 58.9,
+      "score": 57.06,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b1349bf4c855485c",
-      "title": "Flávio tem 49% e Lula, 40%, no 2º turno no RJ, diz Datafolha - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUoxYUR2a3dNODJhbkVEQXhSSGQyMGNaYkJzdFh5a0JZazZMUzQ2NlRicjdqRDY0aXYwdFprYnItSVRWTVBUaU51bG8xb3BoeEQ1SUg1TG45RkJwVjhUZndhR0ZxY09jTEVpN05vSkpuUm42bnI1YWM4ZC0wMnJNWWdhelhDNlZkbThyMkw5cGJ0MlJxSDhMNHA0RGpxZVpUak5ZSjJsaw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-22T22:45:04+00:00",
-      "score": 58.6,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXl6SUgyUjQ3ZThHVWM0VFpWeVdhc1hFRXVxRGpxVU9ReUlxU3JwckVKemV1eWZGcG9LU2ZVRzg4cWo4OEs3bllZTGZDeTBjTkx4Ym5JX0hldjdKZDdUY1ZlaGpXMDFicmM3eU9OTkxmTnBnQzVZTG9QTDNXd29lY2dycHd5ZTBkMkdBZUNkemFPNjRjZHptNmVPWGZ0M09WWTNmd1JINmNXZ3M?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-22T12:38:29+00:00",
-      "score": 58.49,
+      "score": 55.84,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -141,14 +141,44 @@
       }
     },
     {
-      "id": "71e88e293d0334fb",
-      "title": "O Brasil tem políticas de Estado ou remendos imediatistas que respondem a interesses e pressões? - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVF9FU3ZuWGgxVEtvd1VLVUN0NGNaNzMzSmoyQ2did2J4NHV2bm41VXBlbkJYOU5WcEx5YTFtbUxaZ21vZk0xY19id3B1Y2ZiV201V2VILWVhWG05cDl4eW45c0NHczFQMy1pdVQxZHVZeTF0UjdKbVQ2NW91Q2xtWHNvRjktNnFEU0NQakVkZEhmR3FtRUxIblZZaGdEODYtenpndGR4YTJoWl90ODhkOGpVNFY2N3pLWWtHN2l3UjBrdGNKeWxEZGNqQXRLRllqNTgwZFZQbWI4YkxxWVZoRm1OZWVWWkU?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-22T20:08:11+00:00",
-      "score": 56.28,
+      "id": "63a3ff0fa291d6b9",
+      "title": "Lula tem 46% e Flávio 42% no 2º turno em MG, diz Datafolha - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0h1VlFSOGlBd3hXN00wUEg0QjBia3ZXNTZNV3UzdUY4b2R1R2k1YkZrYzFoMWk2cW54NXYwWExDSlhFTGR5cWdGUnl2MXdDM0dBekNYUHg2MlkzUEN1MGViLVNyc0FmRFRSSXQtRkRTM1JUdEpQblBBaUQ3Q05EMFF6RldxN1NHaW9PME8tb2N6TTZvVEY3TkZLYzY3TVB2N0ZVUjFrTQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-22T22:45:04+00:00",
+      "score": 55.09,
       "corroborating_sources": [
-        "Estadão"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fd51503ca13df95a",
+      "title": "Datafolha em SP: Flávio Bolsonaro, 37%; Lula, 33%; Renan, 5%; Caiado, 4%; Zema, 3%; Cury, 3% - G1",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc01OdEdfbTdCZXYxdUp5OWlEckx1QU9FNmR1bTNsMVU0eXpSaXF4c3JaUks0Q2dFdFJwTzFzYXY3Q1JQVFhtT3cyWkpIc2pmTXA1Z0R4Z2pKZGs5d1pWTHNZamM1NW5UYXhPaFY0NTV0WDhIY2Nudk5SMWYxMm1vWE5za3lfNEpXUWhXV2ZxVDNfUXByN2ZWVlJyQkxodG9TY1hsZ3cwQm15eUtOaG5MVmJhWUtLcFg0dW1mUjU0ZjBOOTZUZmZtSE9iV08xY0lBV2VMdFBKekVnX1lOMWE0d0pjSkxPTlhSN2V2ZVF2bWVFVXVSWHhJ0gGGAkFVX3lxTFBJX3Z1b0h0N0psUzVoZ2h4LXQ3b3ZvZk9HUTFoU19SX0kyZFF0V2x5Z3JOdmJfYlF4bl82bTFQSGNJRWxoa2hCN1JUZXJjbThrRUJBbGYzWXdXeXRwS3JodENlcHdiYkM5OEhCVDR1ZEpHcm11NlZCaFNkbXVGMDdUcVVLVjA5M1A1RTRIMWRMbnRtWjNqYV9ZTGRHbTRqUm95S01MX2czc1laQU0wb2ExYktIdk14U2lpNW1CWGRuUVFPbTlWWnBFOUQ0bHppR0poLXN1ems1SXpfQi1FYksxdlJ4Tm5jd0htWHhCd1gwTVRGTGtrR0VzNnRZdHZGaVdST2gzOUE?oc=5",
+      "source": "G1",
+      "published_at": "2026-08-22T21:38:20+00:00",
+      "score": 54.19,
+      "corroborating_sources": [
+        "G1"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "921fb1cc7e44c8c1",
+      "title": "Datafolha: Avaliação positiva de Lula vai de 46% em PE a 27% em SP, RJ e DF - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1ZOX21nX0czc0N2NU0zckJzS2VMRjI1d3lWcFVQUTZLbk9BVDRjM2VKYUV5MG1ZNEpBcDdXd2ZScXcxenhkeTBOMmN0RXJiSzl4Z2huTzRJQk9yYzY4UVhqNjBSMzhJajd1QmFoemt4ZDVXOGxYbEZzcXJvR2FLY09nZjZpTlJySHpnMlhnWXFwLWRMbGdLZ3gyeDN0a3VSZ3M0Wnc5Ml8weEhUZUc4ME1FTWxJNzhsWHpaQmp3?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-22T21:30:00+00:00",
+      "score": 54.08,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -161,9 +191,24 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVE9fU19obmpQTWw1N05BZ0FqV3l3YThxTWJQUnM4T0g1TDhDa1B1NlBGX1RTMUlsbmsyWnIwYXBvaE1mWkRMS1FuN1RnbVdGcmI0Q1ZYUHlldkZKa2JIOWZpeUxPNGpXVFhDUlB3SFUwdWkxREZoNEdqNXVpRnN2VVF5RGduNDZrWm1kNlpmQkhscnpyTkhvZTI3LVl4ajhWakt6Q193M2h5RElpSktLbw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-22T09:00:00+00:00",
-      "score": 56.08,
+      "score": 53.69,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "71e88e293d0334fb",
+      "title": "O Brasil tem políticas de Estado ou remendos imediatistas que respondem a interesses e pressões? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVF9FU3ZuWGgxVEtvd1VLVUN0NGNaNzMzSmoyQ2did2J4NHV2bm41VXBlbkJYOU5WcEx5YTFtbUxaZ21vZk0xY19id3B1Y2ZiV201V2VILWVhWG05cDl4eW45c0NHczFQMy1pdVQxZHVZeTF0UjdKbVQ2NW91Q2xtWHNvRjktNnFEU0NQakVkZEhmR3FtRUxIblZZaGdEODYtenpndGR4YTJoWl90ODhkOGpVNFY2N3pLWWtHN2l3UjBrdGNKeWxEZGNqQXRLRllqNTgwZFZQbWI4YkxxWVZoRm1OZWVWWkU?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-22T20:08:11+00:00",
+      "score": 53.02,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vX29WbV9ERG1ZOXFHb1JMMEEtYnV4QjVOejhWR1RkMFpsR2lvNDljZUFTQTc3SDdsQlM0WjhEVVl3SFZYMjgtMXJjVHZHNHlPRzhDWlB5YUFwUFNMUl9sTldKUEF5TTA?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-22T11:30:36+00:00",
-      "score": 54.71,
+      "score": 52.15,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -191,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZjg3aHJjZHBUQlVUc2V6RVJNMEQ0TzhJRHNXZ0UtT1NfRHpReFhiLVVPb3RSNXdXbmg5R0FOTWZ1UERsbFNxZzZRR29ReDZ6VGlVVGJRMzI4dzBDSWlCR1cxbEdnZktHMFozU0lFZWd6SzhIdTRUN1dZeWpWU2VhRi1hZFA5bjZpS0RLa3Q1RUN5TkJfOXFyRzdEd1E3ZFEwRVlGVEdSVXd2ZUU?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-22T17:19:58+00:00",
-      "score": 53.97,
+      "score": 50.95,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -206,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS0IzaUUxMUstM29mV1pwaHVyRDFWb29KTVlnY2syRlFjYmxpOXVVbTY3eHg5M2VUOWNvME1qMHVZaEtLbzJZZlJSd1k2MHRiRXlPY0w4QXM1bU5LWUF1d1lHeG9rUUk0OW0tdG50MFA1RHBRRnpjckNiOU1GRng2RFhGeWtzWU1KdlNZSlhlMWcwaERqUmRzeWtERk8wM0J4SnNTa1BTY1djSzl4MnpZbkJmSjJ5aWVsc0Z5RXB2V3JWRzBIbkRXcnFMUWw1MHdMdVotT3BKQW16SXFEd3d3NGxOYjlqQQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-22T16:57:00+00:00",
-      "score": 53.67,
+      "score": 50.68,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -216,42 +261,12 @@
       }
     },
     {
-      "id": "127445b7e8f9a20a",
-      "title": "Bachelet evalúa su futuro en la ONU tras caer al penúltimo lugar en sondeo - VLN Radio",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdVVieG9SZ2UzMXRsNWdhZ011LWdJd3JyNUNmbnk4SU1JZUpPSXpZQWlXOE9CeVZMeXRqZ3lEQWFVeEhfV3RXeFlpTHc1a3hzbFVVVFVETVd1djc3d1NFbG9EWFNEQnJfeGttRVhGQVlibDNCbVdmc18tenR1T2NhQkZhT3lmNFhhYUd1cnN6WURxOTVjSjVMNWR5RkQ1ekVGRW5TWTJwZ3lPQ2dReXZxTUJRX3RWazFhX2ZvQ2hpa2wxNElSai1z?oc=5",
-      "source": "VLN Radio",
-      "published_at": "2026-08-22T20:22:18+00:00",
-      "score": 53.48,
-      "corroborating_sources": [
-        "VLN Radio"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a35c2386923e3353",
-      "title": "Chile cierra su embajada en Irán: Trámites se derivarán a Turquía - VLN Radio",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbG9lcHY2YmJSaDNLYTRCXzlDaGtweTRCRVVsZk9DcjV6bGtaUi1xUloxLWIzeHREOGJpY3R2WWIxWW5sQjRfY3YtckhfcUNBSk5hZ09uNmxBY3VXOFdtdFN1T0tsMVdjZG1lN2VVVzVIaUdGTDA3b1RDUmdVQ0owdklhOUQ0RnpCMEl2ZU5vUW9IWjhuVXU1VUt4QkdIZk9uN0RGZ0Z3Wl9DeVNJeFZPOW9vbHN4cXZOQ1dXbHZVcE4?oc=5",
-      "source": "VLN Radio",
-      "published_at": "2026-08-22T20:22:00+00:00",
-      "score": 53.47,
-      "corroborating_sources": [
-        "VLN Radio"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "522f3874edcd6b9c",
-      "title": "Datafolha, 1º turno: veja intenção de voto por região, gênero, idade, posição política e religião no cenário com Pablo Marçal - G1",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSTFPVnhJZHdKY2Yzb3hRcEdLUXpZcmlXYWdlMlVCTERaMVNBWERBM2NjYWF0S3VMRGFaM0RxY3RGdHhLYXFEWVpCNUI3T2VBVUZkcW1lV19rQVcxZFozZTZqZmtqektYTENnM3dKbGp1QktuRnhlTGZVdDUycXpCdmNvTjFCUTBxZktuaUJhdUNES01LaFB5YzVvZlcyRldrRWNCYkhOYjF0Tlo1S051bEkyRXhJVlJfZ280QlMxRVI1a2ZhdzNFWVRhZXUyUmVhdnlXX2Z0UDN2eUNUUHlib284MWZkY1o3dVU0RXR0dmluNzFlR3g2LXRpSjJzd2RncnlWSXQ4Qkg4WUdscGlXRFJvT1BodVVzMWpJNHhmTmpMX2RXSG5JYlFHaUNpVmdrRHfSAcACQVVfeXFMUHRieEM0V2JieDJBdWdkTERabzRHSEFvMlVWcjhuY21URzNpNUQtMzg2YWRYeXN6R3dMc01mNnExMkxDVmxINWtmMW1VM1NjNmxkN1hIaTF1c0ZzX05zWWtUcmY5Z1dEMnJTYk9RYmZOa2RsdXpRSmMtekdvV2tZQnJPWVlsRmlzUlFWVk5iY2ttcVBob3lWY3kteHhrSk9OVFBNS242Y3NBdHRyQnZ2UUNIU2x6akpQd1h6LWliMUE5YjlZOEJyQ1NtaXpzcmR0aGFNc0pQWkpndEZTTXRVQzIwb19vUGswbVN3Ni0zWDljY0tfUGtCa053MVVUMWt1aGZVWWVHN3dRSW5mQWlBOUdKbUY4LTRyeGpmc0o5M1dyYVJIQnRQellyZFNoeW9WVVlQcVVaWUMxZ0JSNWVVTUI?oc=5",
+      "id": "3dfd2f41ccb38838",
+      "title": "Datafolha, 1º turno: veja intenção de voto por região, gênero, idade, posição política e religião - G1",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWEQ3MlJCbnNBc09VSmhCV0NmejBMRW0zOHRtS3E1bXpKQlBXa2lfTXJTSktWQkZKLXE0WVJ3Szg4dENjYzFvZElYUXBILS1COWVpQWlod0hUdUZ2U1pHdW90NEVpeUIydEhUcmk2cS1YWG9QQWFWT01uV1lyZ0ZYQTYxTHRoRmV0V1J5YmdPWkQyc2ZRQUpPT2pndkhCZ2ZNWHFsbWxQenFldW16UWkyendVRXNNVjlpQVJfcjJhTjlZNDZlMHFXZjh5YWFad3lmUlc1ZXZhc0toZXVPLXJPang3RXhpcU5nQ2hPdTRPcm5vQnR6bXRNLWd0WjV2SFpPang1Q0VuVzE3VmNi0gGbAkFVX3lxTE42YTBPcWtDdENIcXVQSkMxRFgtMUlqZV9WVUFId3RWMEhCNl9kZmUwbjAxcUxrYmhuSDEzZUNkREVhY3JyUE1JalRyU3lLZ2RsUm5KZU9SYW9qNHVYc1VQVnNuVVBJNEtuTjJFeDBiYWRoSTVGWXJJWjJvbUR2amFhT2E4aVJDZHVwMTlkb3kwUjNBSms3YVFVMmZwWi1pN3ZsaXVnNHB0dU5sRWJfWGxWVzdLNWswcVRWQzducktXNE9pelN4RzU2V2dTdkd5eXFadlJYakVhblQ4RVlFdVpBX21nUVg5REpXVnJHV2FSdENZT0wtUjRMVHJVamdnV1B0cWRMel9HRV9PMl9xYURUdlJsTWNqd25ydkU?oc=5",
       "source": "G1",
-      "published_at": "2026-08-22T03:00:16+00:00",
-      "score": 52.61,
+      "published_at": "2026-08-22T03:00:23+00:00",
+      "score": 50.59,
       "corroborating_sources": [
         "G1"
       ],
@@ -266,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXh6QWlQM29MWVhiT09IQzJnSzRDVk5zclpqWUdJMk9tN0pHS2Y5V2Zna0pCYnk3VF82cGF2NjZoTDEzZFpvYnJBNHBKbzV5djNFT1pBWW9sWnc0RTdsR0lHWFU5LXR3M01tWVpOZzljY3ZPQTNEWWZVNDl5LWVGYUE0aFRkcVU4TE13UWtSWlpCTy1ucHlZNlNCMkZBZ3RFb1FXN3JBalVhcjVRU2ItZjBvbEhjMFJW?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-22T02:49:43+00:00",
-      "score": 52.52,
+      "score": 50.51,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -276,14 +291,14 @@
       }
     },
     {
-      "id": "2bd81acbf3d7763d",
-      "title": "O que os planos dos candidatos à Presidência dizem sobre o STF - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1dYeWtkZXAzRDFjeGtuM0dQZERvMkI0M2IweThzSkw0WEFJNVI0VFpES1k3Y3NmQ0I5N1h5X3JPYjFuSTRZTVVxZUZseV8yek15WFdZRWpTbTNJNVEwUDBuTHpuRjJka3Zwc3lTOWRvQTh4cmw0UTA4ZjZOQXFPZUZVR1g3M0hVbnN2cGo1cWpCS2ZqTnRzYjBORV9nT1MyMHpqalIyOVZ3Z3l1dkE?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-08-22T14:10:00+00:00",
-      "score": 51.57,
+      "id": "127445b7e8f9a20a",
+      "title": "Bachelet evalúa su futuro en la ONU tras caer al penúltimo lugar en sondeo - VLN Radio",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdVVieG9SZ2UzMXRsNWdhZ011LWdJd3JyNUNmbnk4SU1JZUpPSXpZQWlXOE9CeVZMeXRqZ3lEQWFVeEhfV3RXeFlpTHc1a3hzbFVVVFVETVd1djc3d1NFbG9EWFNEQnJfeGttRVhGQVlibDNCbVdmc18tenR1T2NhQkZhT3lmNFhhYUd1cnN6WURxOTVjSjVMNWR5RkQ1ekVGRW5TWTJwZ3lPQ2dReXZxTUJRX3RWazFhX2ZvQ2hpa2wxNElSai1z?oc=5",
+      "source": "VLN Radio",
+      "published_at": "2026-08-22T20:22:18+00:00",
+      "score": 50.2,
       "corroborating_sources": [
-        "Gazeta do Povo"
+        "VLN Radio"
       ],
       "signals": {
         "source_count": 1,
@@ -291,14 +306,14 @@
       }
     },
     {
-      "id": "9fab649966b8a5d8",
-      "title": "15 TV Shows To Watch If You Like The Diplomat - TVLine",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVlNNWG1QTVVmNVl4bmRhWkxobElxdFpsZmw1NWM4Tmd3SXg2NFdBZC1FU2U4VFZRQ25ESFVuSjNNZG1NaHVQN2hCRXNXVTdQeDFHaEJCbW1pU0pKc1YyclNFTS1RQzVIb1E?oc=5",
-      "source": "TVLine",
-      "published_at": "2026-08-22T18:02:00+00:00",
-      "score": 51.53,
+      "id": "a35c2386923e3353",
+      "title": "Chile cierra su embajada en Irán: Trámites se derivarán a Turquía - VLN Radio",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbG9lcHY2YmJSaDNLYTRCXzlDaGtweTRCRVVsZk9DcjV6bGtaUi1xUloxLWIzeHREOGJpY3R2WWIxWW5sQjRfY3YtckhfcUNBSk5hZ09uNmxBY3VXOFdtdFN1T0tsMVdjZG1lN2VVVzVIaUdGTDA3b1RDUmdVQ0owdklhOUQ0RnpCMEl2ZU5vUW9IWjhuVXU1VUt4QkdIZk9uN0RGZ0Z3Wl9DeVNJeFZPOW9vbHN4cXZOQ1dXbHZVcE4?oc=5",
+      "source": "VLN Radio",
+      "published_at": "2026-08-22T20:22:00+00:00",
+      "score": 50.19,
       "corroborating_sources": [
-        "TVLine"
+        "VLN Radio"
       ],
       "signals": {
         "source_count": 1,
@@ -311,39 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPZzk3QWRacTNuVU03SFJ5Z0dvU0NsaVM0QjhqNllXVGdrWElOd0hqWHAwbnBfRHZIVUhGYzRHb2U4YUE3Wmxjc1BNN1lpbEtqZjBBQkU0dFJDOXlhejdEcFVXTHdRZ253eEJOS0VsS3lvdWh1WHdma29KVFFiSlBZUWlJa3R3VnM3U0I5RVp0NXptYUpCWFRIR1RVVVFNOW40MkNYMlMxaVJPSFdsVkxoZ1BkRTJtbzFfQmh4NnA4eElYTWlDOUxWcHkxS2p0WEtVNllsWmVuOFdBUGtDbGVyMGdBaDFSN1laSnZoTTdlRzV0RkhHMUNMQWduWFE5QzNXcU1aTE1RTnA1Nkk3M3R3Z05rWmdUS2twODBtZWxHR0VyMk9YaXRLcS1WRlZYcXlLUGFkNlRoU2Itdw?oc=5",
       "source": "Terra",
       "published_at": "2026-08-22T00:45:24+00:00",
-      "score": 51.46,
+      "score": 49.55,
       "corroborating_sources": [
         "Terra"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0a9587669359f6b3",
-      "title": "Rubén Rocha Moya regresa a Sinaloa: Morena, PAN y prensa internacional reaccionan - Serpientes y Escaleras",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUstNGN0SkxaZGNqc0w3SVN1UWdpSE9fYVV0eXVjUGZYZldSOFh0THI3MUZCUE0zMGJBNGlmcFBJbk9XMEIzMDV6WC1tdHdmUEJSb3RGNUpUTDRQd3ZFWkFya2dvRGV4VmVTaTBUSmNrRnBBNTdiUVp2VVJwU2N2N2lUcHVqcVJ4M0VFd3V5WEIyMTN6alVDVlVWQk9ueFVBTUR1cE1sV3NxaUZQZDJXR0N3?oc=5",
-      "source": "Serpientes y Escaleras",
-      "published_at": "2026-08-22T17:13:32+00:00",
-      "score": 50.88,
-      "corroborating_sources": [
-        "Serpientes y Escaleras"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9f151362f50b8fd2",
-      "title": "Datafolha: Tarcísio lidera disputa para Governo de SP com 45%, contra 27% de Haddad - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnRKUnZGOFVZakNYRm0yVnp1ZGt5WXZRRW43cTlsaVNra1lzS1hKUElqelg0NzJ0bmJfbnJtblFVdTF4M3lnYndPbzJIWFlBNlNmcnRsWFBSNHE2Q0JGaVZHZ3Y1OE4walh1NDBWMjJYRHNhczRPbWdyOW94RUZhU3VfVl9yWlpacnFDQnVkU2JlVTVzbDNUQ1YzVDF4c0F4Y2NEbHNGSmh6bVJLVGtpb1B6UjFVOEtKVHhnSktaNDBRanFlb2hwMQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-21T21:30:00+00:00",
-      "score": 49.9,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -366,29 +351,14 @@
       }
     },
     {
-      "id": "4cdc77bea3e62838",
-      "title": "Governo amplia a R$ 200 mil teto de financiamento para motoristas de apps de olho em eleição - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05PdHVFdFc4Q3ZDZWFkMG9EcDFCY3JGWW45MkNxeVQxSDFpWll0RkRnZlh5Y3AzY3k4UEtCSUJER2RGTnU5T2FLYjV0NGd0UVdPbkhmTmM0bldWZ0F1d1RuYlR1VE5MU0E4ZWY0YlFMdFVGUUh0cjh2VVdXNTZLZUdGalhzZTROSVVYdVB4TEZzUVJ5NG91aHVHbkN1bll0Y3djczhXWlFsUTFzcTg4T21lS0tZWC1xQ1pWQnRDN2NrNGpSNGZwWlNKSVNKMXVfQm5IYmY0d05vN0k?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-20T17:30:00+00:00",
-      "score": 49.02,
+      "id": "9fab649966b8a5d8",
+      "title": "15 TV Shows To Watch If You Like The Diplomat - TVLine",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVlNNWG1QTVVmNVl4bmRhWkxobElxdFpsZmw1NWM4Tmd3SXg2NFdBZC1FU2U4VFZRQ25ESFVuSjNNZG1NaHVQN2hCRXNXVTdQeDFHaEJCbW1pU0pKc1YyclNFTS1RQzVIb1E?oc=5",
+      "source": "TVLine",
+      "published_at": "2026-08-22T18:02:00+00:00",
+      "score": 48.45,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5e99a5fedf01173d",
-      "title": "Eleições 2026: compare os planos de governo de Lula e Flávio - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hZdkM0d1R2VGJHbXlrbUNkWkhqeHRydlMyRUJta0JRanh2MUpYQjJhZzhLWEFMN1ppTVJUMUpGWFdPZFY2Nnh3cVNxNmdsNWdKM0dJWGN4cnVGTm9XU0dDVk9zT21rRm9OTFpvUXYwLUFDcXNPZ3A1LUxVV1hYWmd4ZlpNakhsVVBlR2JMSFF5Ni03VDNrN0paYnd6M2NpYmEwb003eWRLSGFz?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-21T19:09:39+00:00",
-      "score": 48.87,
-      "corroborating_sources": [
-        "Poder360"
+        "TVLine"
       ],
       "signals": {
         "source_count": 1,
@@ -401,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUzdxeUI3OXJ6amxaUEdnSGVMMy1VMkNLZzg4SjBuUDJHWW9YblNuOHU5ZFRWa1QxOEpfa3RLLThUWndDclpZbnkzNF9KUmRoUFZYVFZycXhGUERYbUVuSVVjUFBaRU5SQ2lVc2tSeW04aTRxTnhPSEpOVGJZZGJVOGRyNVdsX1ZObTJUNVhEQWVRbjFXbWVoZlBQYW1peDlrY3E4N1ljYkFvUkE3cXpsV1Fob1VEb29lb3JKY2NfNG12NE5QUzdkcW94X2locHRpUFlhaXFQaW5rSW8yeG5sMjM2R2ZJamx6YWtVcDg5Zy1GaklHeHU0VlExcEtlbTNfY1AzNVhrYm43dzBVS0w3UlM1THFCbVVLdnpENjhucllyQjJtaHpHNmtYWHNHTXY5Q3pBUllyb2xyTk04Y2NDRjJEQl9LUQ?oc=5",
       "source": "GZH",
       "published_at": "2026-08-18T18:43:25+00:00",
-      "score": 48.53,
+      "score": 48.32,
       "corroborating_sources": [
         "GZH"
       ],
@@ -411,14 +381,59 @@
       }
     },
     {
-      "id": "0a796f15dcb9b32b",
-      "title": "Limpeza política e militar deve focar no narcotráfico, diz professor - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1hlSHJJSS02ZmhjY1E1ZFNPLWZleDRRYklVYTRNSkl2NUNrYzQ1Um1oR0tYdGNnXy11R0l2RkdOYW1ZQXJMLWFpcFNxYUMwYlV5UkV6Q281anllZnlpSnlKb0o2TjZfNG9kdjFnNjA5U3JSSVp3N1ZhUVc4aFhFcHB6enY3a3BEellYa29LTlZzcWJrUlRJelB6TG1rSUFTemd5OGpia3paZGpyTHVLSA?oc=5",
-      "source": "CNN Brasil",
-      "published_at": "2026-08-21T23:43:39+00:00",
-      "score": 47.95,
+      "id": "4cdc77bea3e62838",
+      "title": "Governo amplia a R$ 200 mil teto de financiamento para motoristas de apps de olho em eleição - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd05PdHVFdFc4Q3ZDZWFkMG9EcDFCY3JGWW45MkNxeVQxSDFpWll0RkRnZlh5Y3AzY3k4UEtCSUJER2RGTnU5T2FLYjV0NGd0UVdPbkhmTmM0bldWZ0F1d1RuYlR1VE5MU0E4ZWY0YlFMdFVGUUh0cjh2VVdXNTZLZUdGalhzZTROSVVYdVB4TEZzUVJ5NG91aHVHbkN1bll0Y3djczhXWlFsUTFzcTg4T21lS0tZWC1xQ1pWQnRDN2NrNGpSNGZwWlNKSVNKMXVfQm5IYmY0d05vN0k?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-20T17:30:00+00:00",
+      "score": 48.22,
       "corroborating_sources": [
-        "CNN Brasil"
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9f151362f50b8fd2",
+      "title": "Datafolha: Tarcísio lidera disputa para Governo de SP com 45%, contra 27% de Haddad - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnRKUnZGOFVZakNYRm0yVnp1ZGt5WXZRRW43cTlsaVNra1lzS1hKUElqelg0NzJ0bmJfbnJtblFVdTF4M3lnYndPbzJIWFlBNlNmcnRsWFBSNHE2Q0JGaVZHZ3Y1OE4walh1NDBWMjJYRHNhczRPbWdyOW94RUZhU3VfVl9yWlpacnFDQnVkU2JlVTVzbDNUQ1YzVDF4c0F4Y2NEbHNGSmh6bVJLVGtpb1B6UjFVOEtKVHhnSktaNDBRanFlb2hwMQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-21T21:30:00+00:00",
+      "score": 48.16,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0a9587669359f6b3",
+      "title": "Rubén Rocha Moya regresa a Sinaloa: Morena, PAN y prensa internacional reaccionan - Serpientes y Escaleras",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUstNGN0SkxaZGNqc0w3SVN1UWdpSE9fYVV0eXVjUGZYZldSOFh0THI3MUZCUE0zMGJBNGlmcFBJbk9XMEIzMDV6WC1tdHdmUEJSb3RGNUpUTDRQd3ZFWkFya2dvRGV4VmVTaTBUSmNrRnBBNTdiUVp2VVJwU2N2N2lUcHVqcVJ4M0VFd3V5WEIyMTN6alVDVlVWQk9ueFVBTUR1cE1sV3NxaUZQZDJXR0N3?oc=5",
+      "source": "Serpientes y Escaleras",
+      "published_at": "2026-08-22T17:13:32+00:00",
+      "score": 47.88,
+      "corroborating_sources": [
+        "Serpientes y Escaleras"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5e99a5fedf01173d",
+      "title": "Eleições 2026: compare os planos de governo de Lula e Flávio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hZdkM0d1R2VGJHbXlrbUNkWkhqeHRydlMyRUJta0JRanh2MUpYQjJhZzhLWEFMN1ppTVJUMUpGWFdPZFY2Nnh3cVNxNmdsNWdKM0dJWGN4cnVGTm9XU0dDVk9zT21rRm9OTFpvUXYwLUFDcXNPZ3A1LUxVV1hYWmd4ZlpNakhsVVBlR2JMSFF5Ni03VDNrN0paYnd6M2NpYmEwb003eWRLSGFz?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-21T19:09:39+00:00",
+      "score": 47.24,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -431,24 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnpXM2UyZFlYeW9YS3BmWlktQVZDdUUyX3B3MHVDZmNkOUxwbVJDRWlHcjlkbERfc0p6dFRadVY1bjhNTEJvRWlQNUE4dl9veXFncThMT2lseENDbFNscWVNMF9VTER5bTJtVXFjSUt2T19MQXI3MDhLREUxcUJYTFQ4SkdJRTF2a3BLQ0VNMFNzX1M1ZmRQbGdqbERSVUhRekNKN05FakZKQ0tIZDE5XzVBWFI1V0ZOMUkzQldkakc4dw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-20T11:43:00+00:00",
-      "score": 47.9,
+      "score": 47.22,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "10cf7e2efb8b5974",
-      "title": "Lula sugere a Trump que “tome um trago” com Xi Jinping e Putin - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkhDa3FGX0xnVnEwZndpNG13aWhKbC1CVkpoSXNiSkhhX2pPbmFuRHlLbUYzZmtlN0hyYkdhU2IySTl5VG9qMHhYZGxZSklCTTgtdlRXMndiNFNDeDRZVno2VGNEeHBheHRKdUs4SlRhQTBVQm1PV2h0dlkwX0xzSzhUbWNIVXVtQWs2VkRtdnk5d2hmUmZYT1V6OVNDNmgxa1ozZTItenFTT2JRNmd3SW1Sc9IBuwFBVV95cUxPbFUxbGVBY1NVUkI1ZVEzc3pZQzJfdS1JWkhnMm1OY0tFNzltSTBSWHZ0a3pNU2daR3hZV2ptcGhXaFRiRGxRT3pTQ3JaQnR4MUFSZzJfX1YwOGxCYTk3ZmZ5WmhqUzFRLTQweXRrQU0yN3RFQ05aWUVnRzRRQjZIOUZ5MmtTY0FnVjUyX0VVZVdwVUcxMFVWeUE5bWNiRnY2eW84bi1aeEFISXZlbWhYWjc1Ymo3ZDB6MHg4?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-22T12:22:00+00:00",
-      "score": 47.3,
-      "corroborating_sources": [
-        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
