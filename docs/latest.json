@@ -1,19 +1,109 @@
 {
-  "generated_at": "2026-08-24T17:52:56.887349+00:00",
-  "next_update_expected_at": "2026-08-24T21:52:56.887349+00:00",
+  "generated_at": "2026-08-24T21:48:17.092551+00:00",
+  "next_update_expected_at": "2026-08-25T01:48:17.092551+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "707cf6287e78225e",
+      "title": "Sob influência de Trump, Colômbia endurece política migratória - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbE5mV2x0WUMwWU9DSWdzUFRmUm1oUHNHc2RMNkUyQU1JN3NrbWMtNHBmUFFtVTFLZm9vbFE0WHdFUDkzTXlFMVJKbkVNcEdvZ2kyWFY1NXVPUi0wZ3l2VkFYZEdDLTBENlYwOUh5cGxPRmVubGJ0U0FJRnA4TW1lTGxad3E?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-24T19:40:00+00:00",
+      "score": 75.88,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d79f662ee1068a6d",
+      "title": "Hawaiʻi students explore global politics, intelligence careers at UH Mānoa - University of Hawaii System",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWZRUVVpVDRyMXh5OVZLYVlxem5qOGV4U2I0dUJsT2JXT0RLTk5rRW16UlpBYWhQU1g2QVg3QXZlOFdiN1J1eGJENjJ4UExBRWpnS3UwWjVicUt4YjVjVVdOQjR1NkpfYUR2Y1lHc2FlLTVvS051VmdQVlBtSDUwOWMzZzVMTzR4UW41aHgxR0pTeWIxZDIw?oc=5",
+      "source": "University of Hawaii System",
+      "published_at": "2026-08-24T20:46:08+00:00",
+      "score": 74.2,
+      "corroborating_sources": [
+        "University of Hawaii System"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e034d63e0dd39708",
+      "title": "Peña habló con cónsules sobre “desafíos” de Paraguay en política exterior - abc.com.py",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaURFcGtZRVQ4dzYtTWZFMWJvakNqRTdFZ3FTQlZrNXhPenV6Wjd6bUVCNUNjbHlwS0Mza0FfMlZRR2lPbnRwdFg4bmJ5WTlsbk5kVlQ2SGVfTy1JWGI5aVh0czFQWlFNb2NpRHNSbko3aWZIaGh5OUgtVzYtVkZ3VlVSMHZJRDBrWWhlRmdKSjFZQ25aTm8wYmpaSXRzc1dxVU1WVFJMLVJINl9MbFpTV0xIcFNkUdIBygFBVV95cUxPWk5ySlV4TW1yLXpDVzJoV3RNdjBFUFpiVEg0UnR2UGswQlVlbnJPTjRTMHhmVGQ1R2FUYktlaEhTcnU0WFcxOC13SDFYY3pVa1p6NFlOTGRlZ1NmU2ozV090WVgtTkpXQXhOa2kxN2ItMzh2WjhCMEU2dzVVbkJaX3o0LTFIVGhzcWU3dUxBT0dXZVhpeEhWNjBjMTVRd29DVU1qV1JoQWVTb3poWTFRYnVPRUM1UzMycmNmczF1blN4TUJtNW1GMkp3?oc=5",
+      "source": "abc.com.py",
+      "published_at": "2026-08-24T20:15:14+00:00",
+      "score": 73.58,
+      "corroborating_sources": [
+        "abc.com.py"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "8ebdeea29f88e39e",
       "title": "Israel registra êxodo incomum após guerra e crise política interna - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHBMNk5QSGhuNG9KRWRoVlJJd1JCQ2FzZ21DbE52Uzc4TWdtUm9Hb25nbEtXNzJvaGpwbFNGM0xNLXNZbC1FcXhhcG5SNklnNC0xUFpFTXNxcmtxNk5jM0I5Ny11RnpIT0tNc3A2RWhSWk5YenZmRm5WT2xJQ1R1WTJlM3ExLXZKTkF0S0ZHWTJxMHdWN1Nka3hWczcxQmVhbV9TeldyVXBuOVh4TEdabl82anQ1bFk?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-24T09:00:00+00:00",
-      "score": 76.64,
+      "score": 73.01,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fecc457bd01927d3",
+      "title": "João Azevêdo lidera disputa pelo Senado na PB, diz Real Time Big Data - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMld6ZEJiVnBpQWFTSnpCWXZ1UEV1RmRHSjdSV29fZVpVZFVtOVVPMDB1M01fMGt2NURtZ1FpT2REZzBlZzZpQXBBM2hxYTIyQjFtZmFwbV9Zd0d6cndkdTBHWmF5R1hGcmx0dDF4dW12V2xQOE9EUmhPU2JiLW5GY2VrdW50RTZaR0dDY0lMbG5Ea2VDakYwZTU0NUJ6OU4xeS1qaFpDT0tPaWM5M1hXWER3MmI1dGZK?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-24T16:15:53+00:00",
+      "score": 72.06,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "068c96d663c08181",
+      "title": "Derrite, Tebet, Prado e Marina empatam na disputa pelo Senado em SP - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0JHMVk3OU5EOEZzZUFZTktRa2x0YVlUQ2RSQm92Uk5GdFIxOWJQTzUxd01NRDB0bVlrQXRrSkV1aVJLeFZON0ZWYzN1XzBiMGhMMFVFVW5QUUFJN2NNcWRHUTVGcjk3a25mTmI2Wm5SM0YxcU9mOU9JcTNmYU5FdWhaazdxRHpiYzc4RGswaFBkakRjNzBDUktQVWtWb09vTTlpUkNaMHJEVmNlT3c2ZHduWHM?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-24T14:30:46+00:00",
+      "score": 70.23,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "10bb3e936491d088",
+      "title": "Rejeição a Trump chega a 65% nos EUA enquanto busca intervir nas eleições do Brasil - Revista Fórum",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckpad19DSUFraXZhZm5tOTZ6VTlxeDc1RnlLZWdLYzExVTNBQ2pNeXloMUdmN2x6Y3hSdFJqak50YWNXTTNUa2tEUTRNZDJ5YlppZF9IeWU0dlJFaXM0WVcwQkFzOFFfMVc2QUhGQXdFbHplaThJN24tblltS19ybDFJUWlvLXlROEd1V3pjNDQ1d05FN09wYnl2Qm5CVW5mMTkwczhZRC1QbWhoLUd0XzdjbHRTTlIwa3NUQw?oc=5",
+      "source": "Revista Fórum",
+      "published_at": "2026-08-24T21:30:26+00:00",
+      "score": 67.11,
+      "corroborating_sources": [
+        "Revista Fórum"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +116,39 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1JQa29NS2VoOUdSaGNCakRuUEl0aTN0LWQ5Sk53Z3pPTVdKRDdpOUZHQWtjeXF6d1VqTldUUkpUMEdTb0hrSVY5OUxQWlV1NFlCN21TeEpuMnc1NWpySDNpRjBRb3RpQ2JTemhBVXZUTDZUSnBVdEdwTUg2NmxJZXNIcDhFb3hjeXYyUXNRRWRmZTlCYTNacnc5MXVQTlYxYzRBcUhWQUVnU3E0N2JZd1pn?oc=5",
       "source": "Semafor",
       "published_at": "2026-08-24T14:20:00+00:00",
-      "score": 71.25,
+      "score": 67.04,
       "corroborating_sources": [
         "Semafor"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c478c5dc9e631753",
+      "title": "Hichilema Won Reelection in Zambia. Democracy Lost - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2ZnTTFINl9SMHg3VGVVS2NvZFNxcDZQQTZmblRfV3NnZWN0blRERXZfZlljVlByNTdrejVZOVhRSG1WZldNZHVYUGVYaHFPSWFRN2FoX2Jlb2VuSXpPeTIzN19yMmtDX01JeFdpRnRPdG0wOUhSZEZFaTBYSFZ6NEpyMW13eXE2cVE?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-08-24T14:01:04+00:00",
+      "score": 66.72,
+      "corroborating_sources": [
+        "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a3f1eb1aacfec509",
+      "title": "Estados Unidos miram países que fazem negócios com Irã - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORms1Z0pwNlFiTk1id0Jod2hYajV3alg0bU1Tc3E2Y295MWtZSDBOeDNURXdOY05BcDFSRTdBQXAtVHg0QWNMeFpaN2lMcDV5SlRnSS02bGpjSFNrWldBOWR4ZU5qaTlOREFSN0Y2Q1YwTDVwNDcybGlpOXUzcGsxMG5GM3pXdW1ocFNSQmI5RC1hLVk4ZnV3V3g4NjZOd1l6M0ZWckpYR1FfbjTSAbMBQVVfeXFMT2xHdmtGaHpPSlJ2c29PQUhWTVd5LUVpOG5zd3Vtek9ua1QyMkhOcGkwZjlEVzllWU9sazJTN2J2cDRLbHVrSEdTR3BVWEd1YTk4UEV4VGE0aTVVYVZQQ3N5ckt2VWtkOTVZYkVPdUZKemt5X0puSEVGWnhTUm5xRnV6OEZtSGlvck5ic2VHel9HUHRueTV2WVp1amd5d3p4eGZyb3hncjlITGQ2SWlZNzFLbkE?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-24T21:00:00+00:00",
+      "score": 66.48,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTB1VlM0ZDhMN1pYQ2dFR29YVUxxNHBLVlNDNklwRW1ncjVQd1pwQzVLNWtxeGRTenNMWjlCRmg4c0ZHQ2FuRWFzMk1wX0NTQjZFWTE1ci04V1lCTHZYNTVjSE9FcFZNSzVtakhYaDNQZ3Via0t2cDhPN01kdzNZcGNsM2RBWmstYXJDQ1U3aWRPZTBkSGplZGllQnhBeDQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-24T10:01:00+00:00",
-      "score": 69.64,
+      "score": 65.91,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -51,14 +171,14 @@
       }
     },
     {
-      "id": "175c94f7d1a8664d",
-      "title": "Flávio diz só vai debater se for contra Lula - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWNQWGxlUnZwbU53RVN2YnpRSnk5dTQxS3BaOUJjYXZLY0dubzNkLUtzME42ZzJCekRFMVRVclRVU2ZTNHR0NV9tUWc5alAtdktfZW1YSHhBWDNrdVU2eUpkYW42RlJJUnVCcjl1NUgyV1k0VmlFVTREc0toNlJaVEtWUmlTTjVmbzRETzVydHg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-24T16:32:17+00:00",
-      "score": 68.83,
+      "id": "2a1795fc5dbbc80d",
+      "title": "Bolsonaro fez tudo para proteger o filho, Lula não faz “nada”, diz Haddad - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdEhVZGxLYUd2UmJlMzVYMkMtNXlUQjBwa1RuZzJHTXA5MWkyWklGZXRzeVI5VTJyRXR2RUZJdjd2dG9XMUV5ZjNpNjcxd042UG1BWHJQdGVNOXNaZmpIUjA2QnZVZEY5RTRwQXlOS1lVWXRsbm00aUI2U0ppQU9tS0ZjYjRzVmZaci1YcjhDTkZScFFMaGdXLTBNQ1BfQXUwOWItQ0VWNVBwOFN4TUZTMkZwV0ctbmVEWkE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-24T17:28:41+00:00",
+      "score": 65.38,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +191,24 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVdEaklyemNyTGxmWWo4NTlIRndGdkx3T0VnZDBGSWtBQmJub3ZNLTlaUEtQdWVteVdlLW1ONDhoS1lQcHdHRHhXZDhldFVCZTUyYTRIZ25oZXljQkhDWGhhaDdzdHBYVFd1VUpGZjN0Znk3MWJpVUVZaUZXenU3a0lnRTFNcWUtRk1jamZB?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-08-24T11:58:41+00:00",
-      "score": 68.67,
+      "score": 64.73,
       "corroborating_sources": [
         "Política Exterior"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5d8ff97d365a7431",
+      "title": "EUA retiram Síria da lista de países que promovem terrorismo - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOE0yQmh3WnM3d0tsTXNUS1J4TFBEcWp6NnFsRm9OeVJyRktOdmZfeWZqSE82bWU1RjFydjRRMjVFME5Xc2JPMFRpRGQ2M1ZnNUxkYWN6dW9UXzJRU2pZa2R0cHJRMWxQSnVURlFSZHZCOFBwSkg2Z1c5bEpQVnJTWjFJSm43YzFyWkk1NWNkbVBreWVZNHR1cElIR0lQaEFXdXN0eVZBZWZXdHd4ZUVxZDcwcw?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-24T19:26:00+00:00",
+      "score": 64.61,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +221,24 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTk0bFcxU2h5azJmUllSWUw4RUJUc2dwTkR1MUlKbUNjVUIzWGZvdHdWRlFoUUMyU1ZYN1RMUFJ1b2tHSVlzWHJ5Q3c3X0Q3dUpQTFFJRjBDZnozMXVobTA0SkZtdTk2Y3NYUUVocXVPTHZhb3MzeUtiWExtaTdfYWlicTNTLV8tUDFUeHFpcUNyRU0?oc=5",
       "source": "Informat.ro",
       "published_at": "2026-08-24T11:43:44+00:00",
-      "score": 68.41,
+      "score": 64.49,
       "corroborating_sources": [
         "Informat.ro"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "175c94f7d1a8664d",
+      "title": "Flávio diz só vai debater se for contra Lula - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWNQWGxlUnZwbU53RVN2YnpRSnk5dTQxS3BaOUJjYXZLY0dubzNkLUtzME42ZzJCekRFMVRVclRVU2ZTNHR0NV9tUWc5alAtdktfZW1YSHhBWDNrdVU2eUpkYW42RlJJUnVCcjl1NUgyV1k0VmlFVTREc0toNlJaVEtWUmlTTjVmbzRETzVydHg?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-24T16:32:17+00:00",
+      "score": 64.35,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -101,24 +251,9 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS3VJNXZpbG5fckpTenliYlhpalMwSF9kU2pKUWFCVHhXSWdGcENTdllaamh0dlM3MnZNZkcxUFJ5VHFrRTRlNk1RTERKRy11UElneGtjVDJjeEtFZFN3UF8xWHo1SzJnZjRaTVBfMXk1V2VIRHZ4VTlhV2pEX0ZoSzlmRkYzWlZMQjhVMkxjSGZmaFlBQi1KYml2TC1pQzFNUHNFeXpmYkFGQ19xMDQwdlZyZmpOTVI0YldtX0U0SGtuSmo1el9HOVM0MkhVRWhxTkFKS1lncmZXX0hwN1ppaVZ1ODU1Y1lxOGZVLVlhSnQ0RjFjUjRjaXVYeEpHZVk?oc=5",
       "source": "UFMG",
       "published_at": "2026-08-24T11:13:00+00:00",
-      "score": 67.87,
+      "score": 64.01,
       "corroborating_sources": [
         "UFMG"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ee17f8f20c646b5d",
-      "title": "Fora do debate, Lula encara pergunta sobre Lulinha: “só ele sabe a verdade” - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFRaR0xkc1p6N2VnUVFDb1gwVWRHYWRfdW9sSkdZM2pPRmNPQ0FNZm9mRzF4bHdzWi03VVA2TUt1UXBLSElHdGN3MzJxSXpkNndobGNRVVZURGV4dV9yaE05VnNobVUwXzlqNDFhSnNrOFprTnJyMnlVUW9EMlVFNTJGdzNZM2NaQVVqWERhd1JXd3E1VHZTVndoS3lrY2gxcTZjOVJtcXlkNXBzMC15ZEhzUVE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-24T15:42:17+00:00",
-      "score": 67.84,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1zRWxkc1VORmdERkFLMXdmY050VGZnR1NuM1dqdk9zcl9PcElCcDlkb0NEeHctMGpJQm5uLTVPaEhBbkZYOXhNR29PY0x3Skd3NmtDWnBJdGExY2ktOU14b09rZjdhRjBZZTdwVVFjbWF1REhnU0RYQXdpRXhsNmwtUzZROUdOdElYTFNBamlMLWdtX3pUS1Vaa0plTFd1cVNhUkJLUUt0TW11QkZ30gHDAUFVX3lxTFBiMnVpcnBLTXJVS01HU29COF81eGlfWHpsNjI4WWVDN2pIb1pYQ01wNDNPN01SYnJOdy1MWHowZ3NpY2lKTmdyVzhaVTlYUGtuQ3BTdkMxMGh5YUhHMnJsVkN0X3R3LTVWcW5aTGpTMk1kanpKZEZrdFdJNC1zNVo0WDNIa1R3bTVtLWtPNkVYdmdaZGVzcndVN0ZnSTJtV0tGNzNyRmYzWUdyYVF2VUtnY3R0N3BfekQyTEIwX2x5dlFXZw?oc=5",
       "source": "El Espectador",
       "published_at": "2026-08-24T10:42:47+00:00",
-      "score": 67.35,
+      "score": 63.54,
       "corroborating_sources": [
         "El Espectador"
       ],
@@ -141,14 +276,29 @@
       }
     },
     {
-      "id": "4a90506a85e63b20",
-      "title": "Trump afirma que “Irã está desmoronando completamente” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbi12OTlleU1KdTRSSFpKb0pYTTlWM2Z5WVkxRlRpb3lMeXhHV1ZJb2NIeE5laWZOZktPcG9fUFIyMkphTUZwQmNuSHB1ZjI4bXlxZnF3ZWhxUGZZMldTV0tKZEcyclJJZWM3Mm40blI1a0gxYTVWVjhSekZZUnU1clR3SEhTT2VuRDU0OEFoY2d3WXRraEJDWG4xNDJheEJfYWlYa1NDNzHSAbABQVVfeXFMTmtrUzFkd1NJSkdpcDJ4bkNnaEpTOTlWTFZpSmVTaDc3bklfT3lGX3JBTngwa0RMUWVPQzdMbEQ3ckc5dDdPbTZ5WGJKZHNLYUozTXZ4TUZsVWVwZFQ0MXFzakFCSXpVUnBadWFNaHRuclUxWk11ZlpLaVp5SjZ2Q2xFT2ZtczIzdERWUVJQWW9IMzRZMTJod2pPR0NEd3FReEhSVjRDaEJFeVExcl9rNm0?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-24T16:16:00+00:00",
-      "score": 65.5,
+      "id": "ee17f8f20c646b5d",
+      "title": "Fora do debate, Lula encara pergunta sobre Lulinha: “só ele sabe a verdade” - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFRaR0xkc1p6N2VnUVFDb1gwVWRHYWRfdW9sSkdZM2pPRmNPQ0FNZm9mRzF4bHdzWi03VVA2TUt1UXBLSElHdGN3MzJxSXpkNndobGNRVVZURGV4dV9yaE05VnNobVUwXzlqNDFhSnNrOFprTnJyMnlVUW9EMlVFNTJGdzNZM2NaQVVqWERhd1JXd3E1VHZTVndoS3lrY2gxcTZjOVJtcXlkNXBzMC15ZEhzUVE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-24T15:42:17+00:00",
+      "score": 63.46,
       "corroborating_sources": [
-        "Pleno.News"
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ae067341984ec2e5",
+      "title": "Colombia inicia reconstrucción tras devastador terremoto - La Patria 3.0",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXNfN3BKTkEzMllxTXV6OEs5RWR3dkdDbVlEM2pQVlduNUozY3JTTGtyTXdobFFKSENZeGF1NUR6RGo0Y3FTUy1RQUVBNklfZmNqLWVzMGJpVTg2dDl0Zl9FUUVNQWI5d0F0eXc5aDdsbnVOV3pFamROZVp6UU91WkpYMFp5VnI5RWVwWDRuQ0d4aXNCTlVCazN0SzJKNUd3VHBXZQ?oc=5",
+      "source": "La Patria 3.0",
+      "published_at": "2026-08-24T18:01:50+00:00",
+      "score": 63.0,
+      "corroborating_sources": [
+        "La Patria 3.0"
       ],
       "signals": {
         "source_count": 1,
@@ -161,9 +311,24 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTNQN3NfNWMyQnNMTzlUYnBDRnpyTW82dEtsSGtqV1JZZE1mYTNjTVZfdWs4dzQ1dm9fNTZEWkhpWXpKTU5BSlBpSzNoMmU3Q3d6Vmp2LWIyZ0RvN1VuSXJ6TkhidVY4QW1RSUEzT2tWRTljUk1TUlhaNFFHTWdhbkg0QnZXZGlLVlEydTFNTHNuRWhkcEFycHpOUmNURGxoeU9rNDNXTQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-24T13:33:52+00:00",
-      "score": 65.39,
+      "score": 61.27,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4a90506a85e63b20",
+      "title": "Trump afirma que “Irã está desmoronando completamente” - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbi12OTlleU1KdTRSSFpKb0pYTTlWM2Z5WVkxRlRpb3lMeXhHV1ZJb2NIeE5laWZOZktPcG9fUFIyMkphTUZwQmNuSHB1ZjI4bXlxZnF3ZWhxUGZZMldTV0tKZEcyclJJZWM3Mm40blI1a0gxYTVWVjhSekZZUnU1clR3SEhTT2VuRDU0OEFoY2d3WXRraEJDWG4xNDJheEJfYWlYa1NDNzHSAbABQVVfeXFMTmtrUzFkd1NJSkdpcDJ4bkNnaEpTOTlWTFZpSmVTaDc3bklfT3lGX3JBTngwa0RMUWVPQzdMbEQ3ckc5dDdPbTZ5WGJKZHNLYUozTXZ4TUZsVWVwZFQ0MXFzakFCSXpVUnBadWFNaHRuclUxWk11ZlpLaVp5SjZ2Q2xFT2ZtczIzdERWUVJQWW9IMzRZMTJod2pPR0NEd3FReEhSVjRDaEJFeVExcl9rNm0?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-24T16:16:00+00:00",
+      "score": 61.06,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -176,24 +341,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTJjV0l4dkFIdEZCTXo4ZkxHb0tacjRGUjM3eDBkVlpENms0N0R5RC1SZWlXZnc5VjhsczFHalh5cTltbnQ4aHdkdFBPbWhoSG0xOE9jUUNRWWVXZ09faXdOSTFxZ2lFeW8xMnZBVDE4bEFxaGEweGM2MUktRi1MTjFlQWZOa1QyTlByajlaODNaTmY1Q0otLXFWT2RETzZYRjE2X0YwSWVqZzlzV2I4Tw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-24T12:38:33+00:00",
-      "score": 64.38,
+      "score": 60.37,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "528687b5a5f40eaa",
-      "title": "Jean-Luc Mélenchon, el referente de Pablo Iglesias y de la 'gauche' francesa que resurge para medirse a Le Pen - 101TV",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0ZaZG1lbFdYaDBmTHJTSkNmZFo3NW1RRjA0cGVXRUZYbmJpUzhRZjFuNzNMbUJqTDNRRUNYVEw5cndNWld1MFl3clJPRmZBMVFwU1lWcmFUcDZrWHZlQ0tsNEx2RnBjNTBRLU8wRUlIZHdNZTJKMXhvdC1lVzQyY203S09Xd0RsTHBya0dXY0ZqeEdyWFMtaElWSVpKTHJrOWU0dGZsS1BTQ2ZQRzJIZm93akZ1UDJmYTdGV0RfZHMxX2Q2LXhERHpLZ0gxVXVGQ0kxbVBUUUtNbmc?oc=5",
-      "source": "101TV",
-      "published_at": "2026-08-24T15:17:00+00:00",
-      "score": 64.34,
-      "corroborating_sources": [
-        "101TV"
       ],
       "signals": {
         "source_count": 1,
@@ -206,39 +356,9 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWpzRWc1ZmxnYktGaXJHQk80R1lWMDhWU1NGdVBSMlV1Q0VNN0xxT0RPcmdkX1VnYm4wLU5Ld1RNS1p2U3haOGZESWVoWnEwQW1WM2Q5bW5mMEFtR3U2MHZneUk4emJRNjFrNllVU21nWmJIbGNsMm5KelB0d2dlc3FsaFpPRUR0?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-24T14:05:10+00:00",
-      "score": 62.97,
+      "score": 58.79,
       "corroborating_sources": [
         "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c594e4a0366c5f9b",
-      "title": "“Você é adulta”: entrevista de Regina Duarte e Gabriela Duarte com perguntas sobre Bolsonaro viraliza nas redes - Expresso",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTmNFSmdWZFFnaVlERHVCNmtUTzVCNHZsOEF3R1dSemRUVXZvQVpBSUFabXB2YnBaZ3d4bGY3Y201QXBkZDRUanBhTkNaRW4zdGZCeWlDQlRSd0RmXzBkaHdNaVZjOHVjVmlHSlpfZ0dqOV9tYWhvdzB5MjAzcFZCcHNtOHp5RU5HRmtrWXN0NTJNRG1KQTRVbHBkT1ZjSWxzZXEwN25MRTlKTmhnMllxU2NuMnhaWWRTWGcxeUxWVTBiZE9EQS12WGhZS3JsQktxM3otZFpBN2tSVlpFdmhYVW9fc1F5akFhUXZLRVI4MkZWakFkQlFRLTJHcG9odw?oc=5",
-      "source": "Expresso",
-      "published_at": "2026-08-24T10:51:54+00:00",
-      "score": 62.51,
-      "corroborating_sources": [
-        "Expresso"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "736532898d4f1875",
-      "title": "Flávio lidera disputa em SP com 38%, diz pesquisa Real Time Big Data - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVB1SVNhM09PRFFLLTA4Zng2X3N2NjBoUUVQdFZFeEhqVUxSRXlkN09wb1VQVjR1dGs0MHZiZnl2cXpXSmpMNW8yamxxdDBQNTdmYXhTUjE1UzN2eUZlanBhTGlUQWl0YnhobDY1WEJyRFRzMS11RFN1UE4xVGFsRk9GY28tVTJyN0tNaXVWM1lLelVuSDhUV1U0aWdMS0JaWWxteG1B?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-24T10:02:00+00:00",
-      "score": 61.66,
-      "corroborating_sources": [
-        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -251,9 +371,24 @@
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMTBNaGtaWl9vTVg4ell0NGY1eXlUckx3WGctLXE2VjdBeVV4aFE5ajk4aFMtZzhIME5NaUloR1N2Z1ZhUGdqcGs5THBSNUlFTWppMkhIc2Vpcm9TNEw0cmZOTmd3ZlVDLXlRYk0xZl9DbnlPdnpTX0h6YUwxSU1uYXg2Z3prODJDOVFwNzVIX2FpdHFVOEpGSnZlTUtrc0dfYTlZbG9NQy10QzE5RzdKSnZWOHduVUhQdGlPY0hOLVI2ZEJ2UUg4M2NaSXo4b1ktR29TaFZXUk9HSkh2bUgxMzFYcVp4OGZoSmgxQkthWE9OeVVKMUNUMDVycnUybEh0QTZpQnVScUJOZ2FtNFc3NlFYQXI5WWFWQ19CRWxFMlJmUdIBsAJBVV95cUxOOWo2c3RhOV9DRXZDSHhVM3Qxc3ZCZkhZV2g3YVRGNWZHa090TXZoZjh5Mk85NzNSeUJqUVVmNVU5dU1qRlJjSERGVFEzelRJcVBrMmdSc0I4eGlvbkY2U0pYYnluSTk5UklRSjVSZUh0dkFGTlQtZ0wxeFNyWERNbV8wNUFOaXpyRkJMZ0hKZ3pILTVlc3VoRFgyMC1GRW1MTGpfWTNqSnVvTGlzeHRtbVB0R3Q5Yzlhd1JGNzJOaDZtR3RES0w2X2stTlpQbGZBNWNBZndDamZHT0F5SE9jNDBKaVZaMXZuVnl2RzBTUk9UUEhWX285bmlyRjlyS0xjT2R4dUdJajNXajhMaGlpNHN1eC1lVExvTUVJZnhpeGZ2TVBjQkNqQ3VjMnhWRF82?oc=5",
       "source": "G1",
       "published_at": "2026-08-24T03:00:47+00:00",
-      "score": 60.25,
+      "score": 57.18,
       "corroborating_sources": [
         "G1"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ca8b5951a04a7b6f",
+      "title": "Sem Lula, Flávio e Zema, eleição presidencial terá debate de estreia com menor quórum desde 1989 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV0VrN2owMld0YWJvSXhUb081YlJKU0NnSHR1TnFXYWpsWTNOZll0aTlBSkp5RUthZXc0blNzMnItdFROSzdFQ3dpbS1oeGdoTUlwVWNvaDB2RVlzTmZ0LThrcnI3cFI4WG1uYTBGWk1NZ1BDbFIwcmpCcUdmXzhlYU90T19xem1qT1F2cV9nel94eHV6VzNGc1BSdXl4UVpfaS1rRHQ2dDFzeFJjLXdOYlExaW9UZmJWTnBUTXh0bWVmNHlxamxiOURMMlpseTBjbzNVekxOMWQ3a0Nj?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-23T20:02:00+00:00",
+      "score": 55.47,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0xxWnkza2p5QjZHS2xLd1FGczViYTZMVmVwaUVtbktFbU1FcVVXcDVBTFNvcVV5WnJ6WVhMeGdZaXF3LS12emNwaHhyQ29UXzFNZDI4V0s3ZWlUVkxJbVRGdWJzRzI0Y1NsQ3NGZGFfREpmS0kwOFlEcWV6OS1KTVlBdml1cEpoUVZzZnEyUEhRY2lWVlQ1a3V2WFZqS0xJb1psUGRHOEY0SjVzelUtTzFGc1JIZXExRXg2aDlOY3VaUU02X0ZiX3dOZjRubVV4aENzNA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-24T07:00:00+00:00",
-      "score": 58.74,
+      "score": 55.3,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -281,37 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmRrTUM5OVdoaFF5dnRzLVZzZ3pPZHFmNnRNMTY3Y2lsZjM0NnRhWTRuLVRRajl5VTZ6ZDR6bFZzVWpzUmxjdnJPZm5KSHRzZlV5cnpQZFl4NVd3Q1d6RXFBeFUxRmFDeFdWb2x6NEFXNlROY1hMeERreGVudWdLYnVuNlQybTBCR0dNWExqQzUwUVc0N2dmQzR1cGRnQU02TEF5aU12V2RmWXoz?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-24T06:30:25+00:00",
-      "score": 58.28,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ca8b5951a04a7b6f",
-      "title": "Sem Lula, Flávio e Zema, eleição presidencial terá debate de estreia com menor quórum desde 1989 - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV0VrN2owMld0YWJvSXhUb081YlJKU0NnSHR1TnFXYWpsWTNOZll0aTlBSkp5RUthZXc0blNzMnItdFROSzdFQ3dpbS1oeGdoTUlwVWNvaDB2RVlzTmZ0LThrcnI3cFI4WG1uYTBGWk1NZ1BDbFIwcmpCcUdmXzhlYU90T19xem1qT1F2cV9nel94eHV6VzNGc1BSdXl4UVpfaS1rRHQ2dDFzeFJjLXdOYlExaW9UZmJWTnBUTXh0bWVmNHlxamxiOURMMlpseTBjbzNVekxOMWQ3a0Nj?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-23T20:02:00+00:00",
-      "score": 58.0,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4f62ffbc0555fba3",
-      "title": "Lobista diz que Lulinha articulou reuniões na Presidência com Brandão - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQi1raExudmpSSmxTbFktdVBRanMxXzNSUE1pNkhDMk9RYV9vV3Y3MGFBUl9DZHhEZ0JlUnZrYkpxOE84SFowMnAwdk9SRUNiLWRuN1hQSHJodVhyRXp5Zm53LUxiU1BtSHgtaUNHeHNSQjRPYTV6NFliRjVzZzNIdFdqb1doNkRNV1RQSnRsTGw5ZEt0V0x5d3k1cGxfSVJjNUE2Rm4yQmMyR01GUzdfZmhR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-24T02:50:21+00:00",
-      "score": 55.11,
+      "score": 54.9,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -326,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUV0QmdpQzBDRWgzR2oxMm9aQjEyRi1UbmRwRENueTQ3UWVKQldTYURrd0Y2N18xT3JrMVNhMjJBREhLX1E1V1RPNnhXck1nUnFsd3JwR282UjlkLXI4UkxTdU1qZGVaaEVBRUpXeFRKSVFraVBNNlFtM1c2YUdXYWhBNDVvMzNrbktPWWw5ZVBxR2dmS1NsaWRXMFY4ZHgtTktaTTZrOTF1NWJycmI3X3NnR3oxSXU3TUdRUHZscDg1cXM2?oc=5",
       "source": "La Izquierda Diario",
       "published_at": "2026-08-23T03:04:55+00:00",
-      "score": 53.79,
+      "score": 52.21,
       "corroborating_sources": [
         "La Izquierda Diario"
       ],
@@ -336,119 +441,14 @@
       }
     },
     {
-      "id": "4c30e9781f75e10d",
-      "title": "Candidatos criticam entrevista de Lula durante primeiro debate presidencial - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzRJX1JCN25ZOXpmOE1tNWgyU0U3cy1tSFI0NUdKeDU3RU5yUER0NmlhalpPYjFFWXFRd0RTa3J2aG13aGhhaFZzZXhUWEVxZU5PbW1FVGlqZ1kydGhYTjQzTXNST1BGS0xNWUk0UVRqY3UtdGNuRFJsd1ZGdU8tRm52bDkzTFlVRVNiQ29ISmxqNW5teUpxcWZxQ0treDg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-24T00:26:28+00:00",
-      "score": 53.2,
+      "id": "4f62ffbc0555fba3",
+      "title": "Lobista diz que Lulinha articulou reuniões na Presidência com Brandão - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQi1raExudmpSSmxTbFktdVBRanMxXzNSUE1pNkhDMk9RYV9vV3Y3MGFBUl9DZHhEZ0JlUnZrYkpxOE84SFowMnAwdk9SRUNiLWRuN1hQSHJodVhyRXp5Zm53LUxiU1BtSHgtaUNHeHNSQjRPYTV6NFliRjVzZzNIdFdqb1doNkRNV1RQSnRsTGw5ZEt0V0x5d3k1cGxfSVJjNUE2Rm4yQmMyR01GUzdfZmhR?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-24T02:50:21+00:00",
+      "score": 52.05,
       "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a7bed704c31b4215",
-      "title": "Com apenas três candidatos, primeiro debate presidencial é marcado por críticas a Lula e Flávio Bolsonaro - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWs4bGtERzZBQXljeWswUERjWTVhYTBSU296SGU2bmpMWXZIZ1VBc3p5STJfWl9VZGRnZUZ6MTJHQm1sUjNBb1BYVUNKNFoycThCMDJYUUVhNmRPcDJOYzlmZVJFUzNFNWplLWM2VmJSQ3M0T1BaM1dPLTRWU0pNdkhvbXhiRnRqX2sxTnJreDFUZ0czQnQtdjRzV3ozQQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-23T23:36:19+00:00",
-      "score": 52.56,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d81f2be54ee9fd0e",
-      "title": "How a billionaire shaped Trump’s homelessness policy - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFFjZnVZdmhUZ1J3MlFzZGJsUnppeTdGNEY2TWRBRVd1ZTU5RXJVRldqeVAySW1Yd0lXZW95LU1yaUF2dFUycG83MVdFRnhZcjhDWXZKREVDVGNtZEpUZ2JsdzUtLW5IQ3EtQzkwdlJxMEJoMUxSaFFLZ1luOXI3dnJFN2ZXbTRSN3ROeVVOUzBNZUV1UzBhTnppSC1jWmdTZm9tbUppazNXdkR5Mm9r?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-08-23T16:00:02+00:00",
-      "score": 52.4,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b4742889098ee2ba",
-      "title": "Sem Lula e Flávio Bolsonaro: veja quem vai participar do primeiro debate presidencial - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSng4MGlaRjJKWm9yTmF4ZEd0bjdUVENlN1JTSEgzZXBVZ3FFNTdhZFp6Q1JLNGx5LWMxVDZ5TDhnYVZmcHhnOExjY3p1aXg0U1BYN3g0M3pvNlBvTm9kTXY4Q1RoMVM4V0FWSFNob0c1Nzh4N2NhVzhka3BScjVMUzVBMERYcDloMjlwamc4SE1pRGlmZldpcS1SbWsxRm5y?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-23T20:27:34+00:00",
-      "score": 50.29,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d5069e260912bba9",
-      "title": "Zema desiste do primeiro debate para a presidência - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSW41MDA0WFJLVkpYVjB5TUZaSlhQcXJoM3ZXdF9aRmc4VW9MVGZhUlRhRm1rMU5NNTFQSU9GdUg3cklJajRhQ1dtOV9Qc3dnT0g3UDV6WnZVeENPSmQzNkVKTGFnZDNuVEd5N0VqMVRTQlAyWF9pMnRQeTQxUUFib3NDQ3NmSzdQc1ctanNhQ2lsSUlyeTVfeg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-23T19:41:05+00:00",
-      "score": 49.77,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "49f375bae3413857",
-      "title": "Relatório de órgão ligado ao Senado mostra que política econômica do governo Lula é “insustentável” - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHdzakVodkdsV3U3VkR5S2hoM19fa0Fod25hcndidHJKbzhYLTltcmVKV1RaX3h6U1NoVmRXSjdKRk1tTjNCWkFuV0JJTERLZlFxQ3JfdXlVd2dYa3R2RV9TRnVpNGhEMXRBczQwQlZtR1lIUWtORjc0Wk5SYTNZVEEwVU9FNWtqZWkxLWo5S0pFOHFJQm5weTdyN3hySjZVOEIxZmwxMXB5bklaR2kzck81YUxzczNkTGJWSF9pSHB5YmtaNVV4bGE5bUJtdkpYNjdMeDRn?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-01-02T08:00:00+00:00",
-      "score": 49.48,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8fef7cad4b8bfd04",
-      "title": "Presidente do STJ diz que regras para eventos não são solução: 'Que juiz vai se vender por passagem?' - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ1RMdHdZbjRtbUtzQTNKS0xJaWhVb3dXRU1fWG9vbG1GNVlvdmJBUG9pZ0wzUHZCdFdtZ3FFZXl5RW9VOG5ndVd2U1VJMXdPcGZoU3QzTjdaSE5vT2JFdGdMSFB6ZmtFbzRzSTVXa2g3QVRVR0NWUkxKYUY2anFFbDZMZzUxNEhzdEQ2d3ZlakNwY28tNFlFclRXY0JxcUxqUzkyTEdocWdfUVNyMHZiV1dHS3dxY0xjNzFxalQ2WFVWUU1ERGpOdjB6QlhZdndoR0RHTlhTMzlSSHFMN2hqaQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-23T03:01:00+00:00",
-      "score": 48.76,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c790485f99b18707",
-      "title": "Irán redefine política internacional tras la escalada con EE.UU. e Israel - teleSUR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS1MtV0JwY1FlOUllVS1mMnNoVTZCNlk1ZHZQdzBPbm9KNkFNUzJ4NHVNRHJBNHNCMy1VVnpWWjBsWjBZTjh0WGxqV05LTXlaSnBZd3o5SlRoS052aWF0SWN4OVdXNFZoNzE3Y2xmMGctNjNzaHc1QnZJd0RfSUhFbHhfcw?oc=5",
-      "source": "teleSUR",
-      "published_at": "2026-08-23T09:06:25+00:00",
-      "score": 48.58,
-      "corroborating_sources": [
-        "teleSUR"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
