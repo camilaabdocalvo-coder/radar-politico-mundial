@@ -1,19 +1,110 @@
 {
-  "generated_at": "2026-08-25T10:01:43.168699+00:00",
-  "next_update_expected_at": "2026-08-25T14:01:43.168699+00:00",
+  "generated_at": "2026-08-25T14:30:51.262678+00:00",
+  "next_update_expected_at": "2026-08-25T18:30:51.262678+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "a1bbcb2efb1de271",
-      "title": "Janja repudia críticas de Renan Santos feitas em debate na \"Band\" - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFlsNnpLekpRejJXYTBGMzBBUVFMbXlOeG40UWcxaE5Sc0VBTU1JNFV5M2NWZllLSFBIbm9pQkZ3eHZZd0hJZXNZOFowcDV2cTR5V3NGaWkxczNDMmlEUjBhMG85MUVtUkZMdlRFb19uZUgyYkd0ZnF4ZDczZDJaX2lxRnJ3RWxvYVJiVDFqOElDWHQwR0hreG1zT0VzbUhTblRGR1RBcjhjMGFBRldXYXVR?oc=5",
+      "id": "d1f6f0f27b615796",
+      "title": "Trump’s Cuba report borrowed heavily from my book on an anti-imperialist movement – but twisted the arguments - Iosco County News Herald",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUFhT3pOcm5vVDg5UXRSa21MVWdVMXQyLXdXSk9LZHZqTWtSYTZzaHloajYzRmEzMllCVEdMUXB0dlZSWVJ2bzZHRnNFRVJaMzk4YkNsRXVwazZZUWtWQXNPaWpQd2t0eEtMeGx4N1NXZkh1ZTV3cEcwSjVWOU92WXlxdVBMMjVCRENkcmVmMFM?oc=5",
+      "source": "Iosco County News Herald",
+      "published_at": "2026-08-25T14:04:06+00:00",
+      "score": 74.22,
+      "corroborating_sources": [
+        "Iosco County News Herald",
+        "swiowanewssource.com"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e5fdb8b8b7ceb27a",
+      "title": "Baku-Tashkent rapprochement increases geopolitical weight of Turkic world – political analyst - trend.az",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80NENwazVLWG96VF9oYTJBbExaUmMyR1I0WHotcU94ZGJvMXhrWUQ4bXMxY1Z5bkJrSnoxbXBOblE3UmFESGQwc1l1VndCRWNPWGR4UWNyUnRxSWgxMjJKU285WQ?oc=5",
+      "source": "trend.az",
+      "published_at": "2026-08-25T12:28:00+00:00",
+      "score": 72.99,
+      "corroborating_sources": [
+        "trend.az"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4d24b775c0217457",
+      "title": "Quem está por trás da revolta contra os data centers nos EUA? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzJ6azA5RHlFaUM0RDhEcExlQ1QzU3hNV1V4eXlRU2V5RUxqQ3NNaFE4S0ljZjQycEJkODBnTDlaaThHbW1SU3Iyb0RJaDlYM05ldV9YNDF5a2k0WTZzUlJFQTY1a2hDc2FFSjFyWHlKWng5TkhZZ1JONGZtOE1BdTFhT3Btc3A2bW16U1hMa19iRzVMSktfVkFIUVlhYWtNd3Q2Tkd5WXVOZmx0dFFUTWgxazRFRU81amFZ0gHAAUFVX3lxTE5QMHo4VFBoV1VPNFhWYzhNUHZaVHI5QTBlV2dQOVo3S0ZkYzR4RF9nNWJpd3BNLUVOOFRqMkh2bWItdkUxYUVURjNIaXJhUHJkWTJrSlY1aUFYZDBiM1V2eWFfalBuRzBVdXNWMFl5Wl9ESG8yVUlkSWVzVlZSb2dfWDJ2Yks2bVBhQV9Rck1UX1lSWTlORm5JeEhBd2t3ZzZ5bUUxZnN1YmczUXctU0dLTHFGYTZzV0NFbUxBZGlRUw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-25T11:52:00+00:00",
+      "score": 67.29,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c072b3f244a9b102",
+      "title": "Zema diz que tribunais fazem “mais política do que justiça” - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzFSRVVlczNRSUZjaXBiSFo0T1pkeFJPbTYtcHhyNGhpUzJzV0FJQmUzQ3lQeWlFVXZFVXl4ZzI5c0VRdGFUQW9fUld0UTlZQWZ5SkFQTTBjTm5NV2pNQ2tXY1RLdUJRX09ZOE5QR0RkQTFDNGJwakZhZ0x5X0h4X1hwbEx2ZGFvZDEzUlI0bGZBWE9GZmhDblF2MlQyOVpkakFkaXFyTVJ5Zw?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-25T05:59:21+00:00",
-      "score": 65.7,
+      "published_at": "2026-08-25T02:47:39+00:00",
+      "score": 65.97,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1c6fe01f3ce9e2f5",
+      "title": "A Back-to-School Reading List for the Globally Minded - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWNtdzJ4X3dUU0lvbFZlOHZrU1pfSzVvcjRtRDdlSnp5ZkRBTG92Si1qcXN0RVhncjhJMUtfWnlmM1lHR0psemNydk1tX2tmaEd5OFZKUkRlWkFfcHNZdzFHZWFrb1ZzeWthdlFyYTBVRnZzckhpUnp6cUZLN084RFdOOHk2Q0lnaGZGVw?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-08-25T11:30:00+00:00",
+      "score": 63.86,
+      "corroborating_sources": [
+        "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0daaccab8970d351",
+      "title": "Reappointed Nigerian ambassador meets with Pope Leo - aleteia.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkczVEdQbGY5WUM3cHdJX1lyaTlobVpqNVhOdjVWQTVxdS1DaWYwX2E3LXBwOERMTV9XMjVTSThKc2tVWEZyemtEbWJUbmdESE43ODNJcjN5T1RoUkh5Z1JhaFIzeDNGT0FDa0gyUmhmR3MzTUZteGRLSlJsMzRySl9mU28taFpnR2Yw?oc=5",
+      "source": "aleteia.org",
+      "published_at": "2026-08-25T11:04:10+00:00",
+      "score": 63.37,
+      "corroborating_sources": [
+        "aleteia.org"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2fe7e3a79c6b7606",
+      "title": "Campañas Adelantas: una irresponsabilidad que desgasta a México - elindependiente.mx",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHpaempBcExoMGI5QVU4eGdWOVZfTGZ0VEJBZVFMblV4a09hWjFIMHUtWDJJazZ5LTdhN0tVUkxvQnd5TFRIMXNVSm05N3N5WDJmTTdHeFVYSzU0djZPZlc0LVo5LUh3YjhsR2M1eGJqczltdXBTRmZEYS1sOGtXRDBmMzk4M2tBQ1VxM1VjMGYwMDhYUGRyZjVNVTA0Rl9ycDBmUWpNRHBZUnJISEE?oc=5",
+      "source": "elindependiente.mx",
+      "published_at": "2026-08-25T10:00:00+00:00",
+      "score": 62.17,
+      "corroborating_sources": [
+        "elindependiente.mx"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +117,24 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHBMNk5QSGhuNG9KRWRoVlJJd1JCQ2FzZ21DbE52Uzc4TWdtUm9Hb25nbEtXNzJvaGpwbFNGM0xNLXNZbC1FcXhhcG5SNklnNC0xUFpFTXNxcmtxNk5jM0I5Ny11RnpIT0tNc3A2RWhSWk5YenZmRm5WT2xJQ1R1WTJlM3ExLXZKTkF0S0ZHWTJxMHdWN1Nka3hWczcxQmVhbV9TeldyVXBuOVh4TEdabl82anQ1bFk?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-24T09:00:00+00:00",
-      "score": 63.93,
+      "score": 61.3,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a1bbcb2efb1de271",
+      "title": "Janja repudia críticas de Renan Santos feitas em debate na \"Band\" - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFlsNnpLekpRejJXYTBGMzBBUVFMbXlOeG40UWcxaE5Sc0VBTU1JNFV5M2NWZllLSFBIbm9pQkZ3eHZZd0hJZXNZOFowcDV2cTR5V3NGaWkxczNDMmlEUjBhMG85MUVtUkZMdlRFb19uZUgyYkd0ZnF4ZDczZDJaX2lxRnJ3RWxvYVJiVDFqOElDWHQwR0hreG1zT0VzbUhTblRGR1RBcjhjMGFBRldXYXVR?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-25T05:59:21+00:00",
+      "score": 60.99,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +147,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbE5mV2x0WUMwWU9DSWdzUFRmUm1oUHNHc2RMNkUyQU1JN3NrbWMtNHBmUFFtVTFLZm9vbFE0WHdFUDkzTXlFMVJKbkVNcEdvZ2kyWFY1NXVPUi0wZ3l2VkFYZEdDLTBENlYwOUh5cGxPRmVubGJ0U0FJRnA4TW1lTGxad3E?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-24T19:40:00+00:00",
-      "score": 63.67,
+      "score": 60.14,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -56,7 +162,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXJSVXBCQ0RDN21wZktxZldjVjliWmJCZ1J4RDN4Yk15NHdEWWxzZ3NxUXJsX090SWh6QjR4enFta2xHQlJfRDNLdDhzbVdHU19lS1JtVW0ybmUyMXJGcG4xYjlmbWZoUzRjSm03SDdlUElCOG5EelpvSXprSWh4V1Z4aV9XX3VSZlc4cDU4S0ExelhfMV9CZ1RFaXBpVHFtdDJnUUtnckZoWVpBWnVSY3ByVjFzSHozbkUxT0ZpNkJlQ1VHTmU3LdIBzgFBVV95cUxPd0lFN1czQ3BsVW5GUjY4V0s5N1RsNFJBWDJrQTIwTkpzdEZkWnN6V0VST0t0MkdIOGYxNHFhRjMwUEYtaDBXWDJiZzRtOTFSd3ZkTHVkcFIwVHJfQWUtNXQ3UFpaUGZzNWdBaVdVa3FXRUlFWk01NjAzYVVlNk1TejdwaGVxNUNvaUVIV3FiWWVpVXptakN3b2ZRa1VGSkFnTXZjaldyQmxXZnBtWFVEWVVFM2xiTmhVbkhlQ0ZBQ2lPOENYWnhrTXhBSmZvdw?oc=5",
       "source": "El Ciudadano",
       "published_at": "2026-08-24T22:20:42+00:00",
-      "score": 63.01,
+      "score": 59.19,
       "corroborating_sources": [
         "El Ciudadano"
       ],
@@ -71,39 +177,9 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWZRUVVpVDRyMXh5OVZLYVlxem5qOGV4U2I0dUJsT2JXT0RLTk5rRW16UlpBYWhQU1g2QVg3QXZlOFdiN1J1eGJENjJ4UExBRWpnS3UwWjVicUt4YjVjVVdOQjR1NkpfYUR2Y1lHc2FlLTVvS051VmdQVlBtSDUwOWMzZzVMTzR4UW41aHgxR0pTeWIxZDIw?oc=5",
       "source": "University of Hawaii System",
       "published_at": "2026-08-24T20:46:08+00:00",
-      "score": 61.61,
+      "score": 57.96,
       "corroborating_sources": [
         "University of Hawaii System"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "27cf83c0f90fb2f2",
-      "title": "Occidente, Irán y la crisis del orden que quiso dominar al mundo - Diario Libre",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmIwTmU2VHNVMTVSVzV1Uk1waE0xWC1lQ0tEd2pjRzcxdlFTNGJUX1kwZW95OHZBblloVDNBaWN4cXJSNV9nTXpwUWowVFU0aC1WMkhHdkZBRE1ySDlGVmZwTTBwNmtQUG1Kc3FFNFYwYnBIeW5XdUZuLTNOSE1aMzRrRVFhZGlyd0pncUhDQTBuYVM5T1l3dHBkbF9PSVNOb0xITjJQSTDSAa4BQVVfeXFMTWNxNHZya2FRRktUbkRDeVJRczI4MTFkRHZxQ1hJOEttd1BXb3dpTWsxa2RpTEt2ZDRBdHlUMmxENDZKbC1LTDFqU1VmcGFoNDJYenhIXzhHbENVdTM2N1dQNmdGRGtKOVBFTGh5empvY0IwamZlU2YyZk8wV21DTXh0UFhsUFk3OGNVU3Y0WXpjN1pKN0U4R0VNYWM4Q3RUaXZsSko0MUgtc3pJWmtB?oc=5",
-      "source": "Diario Libre",
-      "published_at": "2026-08-25T04:36:33+00:00",
-      "score": 61.19,
-      "corroborating_sources": [
-        "Diario Libre"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7b8a4b653087579f",
-      "title": "Peña habló con cónsules sobre “desafíos” de Paraguay en política exterior - abc.com.py",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaURFcGtZRVQ4dzYtTWZFMWJvakNqRTdFZ3FTQlZrNXhPenV6Wjd6bUVCNUNjbHlwS0Mza0FfMlZRR2lPbnRwdFg4bmJ5WTlsbk5kVlQ2SGVfTy1JWGI5aVh0czFQWlFNb2NpRHNSbko3aWZIaGh5OUgtVzYtVkZ3VlVSMHZJRDBrWWhlRmdKSjFZQ25aTm8wYmpaSXRzc1dxVU1WVFJMLVJINl9MbFpTV0xIcFNkUQ?oc=5",
-      "source": "abc.com.py",
-      "published_at": "2026-08-24T20:15:14+00:00",
-      "score": 61.17,
-      "corroborating_sources": [
-        "abc.com.py"
       ],
       "signals": {
         "source_count": 1,
@@ -116,9 +192,54 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMld6ZEJiVnBpQWFTSnpCWXZ1UEV1RmRHSjdSV29fZVpVZFVtOVVPMDB1M01fMGt2NURtZ1FpT2REZzBlZzZpQXBBM2hxYTIyQjFtZmFwbV9Zd0d6cndkdTBHWmF5R1hGcmx0dDF4dW12V2xQOE9EUmhPU2JiLW5GY2VrdW50RTZaR0dDY0lMbG5Ea2VDakYwZTU0NUJ6OU4xeS1qaFpDT0tPaWM5M1hXWER3MmI1dGZK?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-24T16:15:53+00:00",
-      "score": 60.95,
+      "score": 57.73,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7b8a4b653087579f",
+      "title": "Peña habló con cónsules sobre “desafíos” de Paraguay en política exterior - abc.com.py",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaURFcGtZRVQ4dzYtTWZFMWJvakNqRTdFZ3FTQlZrNXhPenV6Wjd6bUVCNUNjbHlwS0Mza0FfMlZRR2lPbnRwdFg4bmJ5WTlsbk5kVlQ2SGVfTy1JWGI5aVh0czFQWlFNb2NpRHNSbko3aWZIaGh5OUgtVzYtVkZ3VlVSMHZJRDBrWWhlRmdKSjFZQ25aTm8wYmpaSXRzc1dxVU1WVFJMLVJINl9MbFpTV0xIcFNkUQ?oc=5",
+      "source": "abc.com.py",
+      "published_at": "2026-08-24T20:15:14+00:00",
+      "score": 57.57,
+      "corroborating_sources": [
+        "abc.com.py"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ab42d5f2434b673a",
+      "title": "Coordenador de campanha de Lula defende recompra de títulos da dívida e alta de imposto para super-ricos - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNENwUVJwM3c2TjFXOXE3NHo3cnJaUWhVN0NkVGZJUmI3SzVxbmpzZFd3ZWgyRG42MTZBcWF3UTlwZ0RYUkhob1p4T2c1UFg5MHBXV0NaUHc2R0ttUWtYcTFnV2g4V2xwZzlhTkhNSld6MzNnaS1wbFpoUncxa0Nmdk1UVjBkcFBNVmlaeS1kd3FHVzhvTjFTRVA0X0tQTDBQcmY1eTNkM0NwMUNPT091RS11T2xnVHBkdVdoUVdWVEhwSU1tZEpIQm96NWdBWXdJMkFlcF9ZQ2ZqNkF4YWotNU1IeGR5RkVjaXdTSg?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-25T02:00:00+00:00",
+      "score": 57.26,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "27cf83c0f90fb2f2",
+      "title": "Occidente, Irán y la crisis del orden que quiso dominar al mundo - Diario Libre",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmIwTmU2VHNVMTVSVzV1Uk1waE0xWC1lQ0tEd2pjRzcxdlFTNGJUX1kwZW95OHZBblloVDNBaWN4cXJSNV9nTXpwUWowVFU0aC1WMkhHdkZBRE1ySDlGVmZwTTBwNmtQUG1Kc3FFNFYwYnBIeW5XdUZuLTNOSE1aMzRrRVFhZGlyd0pncUhDQTBuYVM5T1l3dHBkbF9PSVNOb0xITjJQSTDSAa4BQVVfeXFMTWNxNHZya2FRRktUbkRDeVJRczI4MTFkRHZxQ1hJOEttd1BXb3dpTWsxa2RpTEt2ZDRBdHlUMmxENDZKbC1LTDFqU1VmcGFoNDJYenhIXzhHbENVdTM2N1dQNmdGRGtKOVBFTGh5empvY0IwamZlU2YyZk8wV21DTXh0UFhsUFk3OGNVU3Y0WXpjN1pKN0U4R0VNYWM4Q3RUaXZsSko0MUgtc3pJWmtB?oc=5",
+      "source": "Diario Libre",
+      "published_at": "2026-08-25T04:36:33+00:00",
+      "score": 56.65,
+      "corroborating_sources": [
+        "Diario Libre"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +252,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzllNnZNbVRPbDhmb2RWOVFGQ1QtVG9CQWNZSnFXNUtvYlNCNmp4RnkyOXJNZGR1SE5CN3RNYUUtRXlTMTM2X2U2SGpLMVhyVVFDbURjRWtyNWhtbDcwZElNa3NUY3V4dWl5dXVobFNkRWlSRTc3c2lkQkFfbzVUdW1peDc4dm9QY2JJUHpoX1hEWm93UGlOWU55SVlDeGYyR3FtMw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-25T01:17:39+00:00",
-      "score": 60.78,
+      "score": 56.65,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -146,22 +267,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0JHMVk3OU5EOEZzZUFZTktRa2x0YVlUQ2RSQm92Uk5GdFIxOWJQTzUxd01NRDB0bVlrQXRrSkV1aVJLeFZON0ZWYzN1XzBiMGhMMFVFVW5QUUFJN2NNcWRHUTVGcjk3a25mTmI2Wm5SM0YxcU9mOU9JcTNmYU5FdWhaazdxRHpiYzc4RGswaFBkakRjNzBDUktQVWtWb09vTTlpUkNaMHJEVmNlT3c2ZHduWHM?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-24T14:30:46+00:00",
-      "score": 59.65,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e4348ba969afbff5",
-      "title": "Durigan confirma salário mínimo de R$ 1.741 para 2027 - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFlsd19jeWxGUF90MS1MQjRWUXd3MkRBSzRWWlJSOHB0UFotNjdNbUlPMWZDRzh4R01pZVlRcFRMVVV3c21FMS03N21ib3hELXdVR2VMeUIzLUx2b0F1MFZaT1dvMDZJdmFjV0pkWWI0cGtfMTB4WlhSYm45UzZDc2JrZFpwUU1wZUFDaC1zRndsSWh5RHpkQ3plVF8?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-24T23:56:41+00:00",
-      "score": 59.48,
+      "score": 56.58,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -176,9 +282,39 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTNQN3NfNWMyQnNMTzlUYnBDRnpyTW82dEtsSGtqV1JZZE1mYTNjTVZfdWs4dzQ1dm9fNTZEWkhpWXpKTU5BSlBpSzNoMmU3Q3d6Vmp2LWIyZ0RvN1VuSXJ6TkhidVY4QW1RSUEzT2tWRTljUk1TUlhaNFFHTWdhbkg0QnZXZGlLVlEydTFNTHNuRWhkcEFycHpOUmNURGxoeU9rNDNXTQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-24T13:33:52+00:00",
-      "score": 58.96,
+      "score": 55.98,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e4348ba969afbff5",
+      "title": "Durigan confirma salário mínimo de R$ 1.741 para 2027 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFlsd19jeWxGUF90MS1MQjRWUXd3MkRBSzRWWlJSOHB0UFotNjdNbUlPMWZDRzh4R01pZVlRcFRMVVV3c21FMS03N21ib3hELXdVR2VMeUIzLUx2b0F1MFZaT1dvMDZJdmFjV0pkWWI0cGtfMTB4WlhSYm45UzZDc2JrZFpwUU1wZUFDaC1zRndsSWh5RHpkQ3plVF8?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-24T23:56:41+00:00",
+      "score": 55.5,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "296cadbb422ecbf2",
+      "title": "Canadá disse não aos Estados Unidos, e as consequências vão muito além de suas fronteiras - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbXRDMWhISmEtZFp2X1B4eTJVZkN2TzlXQVZDQ0htV3dyd3NmWnpkYkZHcWx2aW9OeXJsWUwzUUd5ZUUwazF4bS1XWjZmSGhGNmFuLVVma2pnazBGbTdsU1BWc0lsVnVQWk1VYmJsTk41U0swd1pRdXdEc3JtR2FBbHBrZ3hXZldHcmJKOVRhako2b3ZsQTl0ajVjdWV1N2xIZG1DZEptVWw5VjNIWUxSTWdWOTdzM0ttNU4xeXhZNWcxN1Q3NUMxRk1IVU0tMkpNSnZfbWE5UQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-24T22:24:00+00:00",
+      "score": 54.24,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +327,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTB1VlM0ZDhMN1pYQ2dFR29YVUxxNHBLVlNDNklwRW1ncjVQd1pwQzVLNWtxeGRTenNMWjlCRmg4c0ZHQ2FuRWFzMk1wX0NTQjZFWTE1ci04V1lCTHZYNTVjSE9FcFZNSzVtakhYaDNQZ3Via0t2cDhPN01kdzNZcGNsM2RBWmstYXJDQ1U3aWRPZTBkSGplZGllQnhBeDQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-24T10:01:00+00:00",
-      "score": 56.57,
+      "score": 53.87,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -206,24 +342,9 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1JQa29NS2VoOUdSaGNCakRuUEl0aTN0LWQ5Sk53Z3pPTVdKRDdpOUZHQWtjeXF6d1VqTldUUkpUMEdTb0hrSVY5OUxQWlV1NFlCN21TeEpuMnc1NWpySDNpRjBRb3RpQ2JTemhBVXZUTDZUSnBVdEdwTUg2NmxJZXNIcDhFb3hjeXYyUXNRRWRmZTlCYTNacnc5MXVQTlYxYzRBcUhWQUVnU3E0N2JZd1pn?oc=5",
       "source": "Semafor",
       "published_at": "2026-08-24T14:20:00+00:00",
-      "score": 56.51,
+      "score": 53.46,
       "corroborating_sources": [
         "Semafor"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c478c5dc9e631753",
-      "title": "Hichilema Won Reelection in Zambia. Democracy Lost - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2ZnTTFINl9SMHg3VGVVS2NvZFNxcDZQQTZmblRfV3NnZWN0blRERXZfZlljVlByNTdrejVZOVhRSG1WZldNZHVYUGVYaHFPSWFRN2FoX2Jlb2VuSXpPeTIzN19yMmtDX01JeFdpRnRPdG0wOUhSZEZFaTBYSFZ6NEpyMW13eXE2cVE?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-24T14:01:04+00:00",
-      "score": 56.29,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
       ],
       "signals": {
         "source_count": 1,
@@ -236,24 +357,9 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVdEaklyemNyTGxmWWo4NTlIRndGdkx3T0VnZDBGSWtBQmJub3ZNLTlaUEtQdWVteVdlLW1ONDhoS1lQcHdHRHhXZDhldFVCZTUyYTRIZ25oZXljQkhDWGhhaDdzdHBYVFd1VUpGZjN0Znk3MWJpVUVZaUZXenU3a0lnRTFNcWUtRk1jamZB?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-08-24T11:58:41+00:00",
-      "score": 54.87,
+      "score": 52.01,
       "corroborating_sources": [
         "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1a85f6a116f0909b",
-      "title": "Fresh Attacks Hit Thailand’s Troubled South - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZU80ZWlCb09NcUlrSHh6bUJxR3ExTGl6eUttN0lJS2pHcElDVnktcVhESnF6TlluUDJKMS1pTndVRDFfVURDWDF3cFk5dGhrYlFjME1GSlc4U2VBWVQ0QkoyYkhHVEFqOXEzUm1kenZfT01JLUgyTkVHbkIzQ2luaTIwWW9oYUlLQXFuZg?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-24T22:01:13+00:00",
-      "score": 54.71,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +372,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTk0bFcxU2h5azJmUllSWUw4RUJUc2dwTkR1MUlKbUNjVUIzWGZvdHdWRlFoUUMyU1ZYN1RMUFJ1b2tHSVlzWHJ5Q3c3X0Q3dUpQTFFJRjBDZnozMXVobTA0SkZtdTk2Y3NYUUVocXVPTHZhb3MzeUtiWExtaTdfYWlicTNTLV8tUDFUeHFpcUNyRU0?oc=5",
       "source": "Informat.ro",
       "published_at": "2026-08-24T11:43:44+00:00",
-      "score": 54.7,
+      "score": 51.86,
       "corroborating_sources": [
         "Informat.ro"
       ],
@@ -281,7 +387,7 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS3VJNXZpbG5fckpTenliYlhpalMwSF9kU2pKUWFCVHhXSWdGcENTdllaamh0dlM3MnZNZkcxUFJ5VHFrRTRlNk1RTERKRy11UElneGtjVDJjeEtFZFN3UF8xWHo1SzJnZjRaTVBfMXk1V2VIRHZ4VTlhV2pEX0ZoSzlmRkYzWlZMQjhVMkxjSGZmaFlBQi1KYml2TC1pQzFNUHNFeXpmYkFGQ19xMDQwdlZyZmpOTVI0YldtX0U0SGtuSmo1el9HOVM0MkhVRWhxTkFKS1lncmZXX0hwN1ppaVZ1ODU1Y1lxOGZVLVlhSnQ0RjFjUjRjaXVYeEpHZVk?oc=5",
       "source": "UFMG",
       "published_at": "2026-08-24T11:13:00+00:00",
-      "score": 54.36,
+      "score": 51.56,
       "corroborating_sources": [
         "UFMG"
       ],
@@ -291,14 +397,14 @@
       }
     },
     {
-      "id": "cd16a2a5880dc02c",
-      "title": "Un viraje radical en política exterior que nos aísla - El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1zRWxkc1VORmdERkFLMXdmY050VGZnR1NuM1dqdk9zcl9PcElCcDlkb0NEeHctMGpJQm5uLTVPaEhBbkZYOXhNR29PY0x3Skd3NmtDWnBJdGExY2ktOU14b09rZjdhRjBZZTdwVVFjbWF1REhnU0RYQXdpRXhsNmwtUzZROUdOdElYTFNBamlMLWdtX3pUS1Vaa0plTFd1cVNhUkJLUUt0TW11QkZ30gHDAUFVX3lxTFBiMnVpcnBLTXJVS01HU29COF81eGlfWHpsNjI4WWVDN2pIb1pYQ01wNDNPN01SYnJOdy1MWHowZ3NpY2lKTmdyVzhaVTlYUGtuQ3BTdkMxMGh5YUhHMnJsVkN0X3R3LTVWcW5aTGpTMk1kanpKZEZrdFdJNC1zNVo0WDNIa1R3bTVtLWtPNkVYdmdaZGVzcndVN0ZnSTJtV0tGNzNyRmYzWUdyYVF2VUtnY3R0N3BfekQyTEIwX2x5dlFXZw?oc=5",
-      "source": "El Espectador",
-      "published_at": "2026-08-24T10:42:47+00:00",
-      "score": 54.02,
+      "id": "1a85f6a116f0909b",
+      "title": "Fresh Attacks Hit Thailand’s Troubled South - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZU80ZWlCb09NcUlrSHh6bUJxR3ExTGl6eUttN0lJS2pHcElDVnktcVhESnF6TlluUDJKMS1pTndVRDFfVURDWDF3cFk5dGhrYlFjME1GSlc4U2VBWVQ0QkoyYkhHVEFqOXEzUm1kenZfT01JLUgyTkVHbkIzQ2luaTIwWW9oYUlLQXFuZg?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-08-24T22:01:13+00:00",
+      "score": 50.94,
       "corroborating_sources": [
-        "El Espectador"
+        "worldpoliticsreview.com"
       ],
       "signals": {
         "source_count": 1,
@@ -306,14 +412,14 @@
       }
     },
     {
-      "id": "a3f1eb1aacfec509",
-      "title": "Estados Unidos miram países que fazem negócios com Irã - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORms1Z0pwNlFiTk1id0Jod2hYajV3alg0bU1Tc3E2Y295MWtZSDBOeDNURXdOY05BcDFSRTdBQXAtVHg0QWNMeFpaN2lMcDV5SlRnSS02bGpjSFNrWldBOWR4ZU5qaTlOREFSN0Y2Q1YwTDVwNDcybGlpOXUzcGsxMG5GM3pXdW1ocFNSQmI5RC1hLVk4ZnV3V3g4NjZOd1l6M0ZWckpYR1FfbjTSAbMBQVVfeXFMT2xHdmtGaHpPSlJ2c29PQUhWTVd5LUVpOG5zd3Vtek9ua1QyMkhOcGkwZjlEVzllWU9sazJTN2J2cDRLbHVrSEdTR3BVWEd1YTk4UEV4VGE0aTVVYVZQQ3N5ckt2VWtkOTVZYkVPdUZKemt5X0puSEVGWnhTUm5xRnV6OEZtSGlvck5ic2VHel9HUHRueTV2WVp1amd5d3p4eGZyb3hncjlITGQ2SWlZNzFLbkE?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-24T21:00:00+00:00",
-      "score": 53.81,
+      "id": "e9d19e9bc68b9373",
+      "title": "Recuperação judicial: riscos e decisões que credores e investidores devem enfrentar - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUVYUkdxRUVwX3poSGdOdjlyN3R1U0IxcXI2RDlxQm9mNGtJcmNtMWRvVUpuaGpkVHR1WVhCTTc3ZFJUWlk4ckZXbHFTRjdEU1RoNzF3X00wXzF4ZlpVVlh1SnZsOUtQRmVPQ0huYnlJQ0Q0cWN4bE5KN3NLQW1QOWsxRnpCcWtPYUZVSkh1YmQ5TEVydVNYLTA1SlhaNFZzNDZzU1p2VTdXeW9nLWNLMkEtWEhuV193T2hWbU43ZkRaQ3pMTHp4WnRpQzI2VXNYa0tGNmJPQkHSAd4BQVVfeXFMT3ZjWEZSMW9vZ0JTZnRpWmVMNWhqeEZtLXVGV0psU0dtbGVkbk5aNS1ZLWpkN3ExbUZIVE5ZTnl3bnBfb3A1TG13VTRSajExNjdLQmc1eUF6RmlBY056T29VWEhGX0dZbFkwZ0ppMnd2M1d2TUdYWG1fVWZmdEJVTjdPaUhxVDRrZ1JSN25DeUNJZW9yanFWZW5zUDBfdDNRV0xyOTJDU3pLRFdZVndqMWhPdm80cUlzNFZ3dTBsdnkxRktneW4wVmszSko2NW1UVHMwRnVnTE9jMDlXbl9n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-24T17:50:16+00:00",
+      "score": 50.81,
       "corroborating_sources": [
-        "Pleno.News"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -326,7 +432,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHVqaWFtcmc4Vk1tb0dkV3FQR3hCbHlucUctbTJ0LXdfVVYzWmtxdlZpcVJiUXRaNG5xaHZCYlIwT2ExanREZXJiRzNQd3J1aG4zTDQ5cW5wLUZMVHI4djlMOFZVUUNwaUdzNU8xbWU5eHMxcjVkNDRVU3Y2MlMyN051N0lxa2VRWXFKLXRnOWVPT0xR?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-08-24T17:06:00+00:00",
-      "score": 53.59,
+      "score": 50.3,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -336,117 +442,12 @@
       }
     },
     {
-      "id": "175c94f7d1a8664d",
-      "title": "Flávio diz só vai debater se for contra Lula - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWNQWGxlUnZwbU53RVN2YnpRSnk5dTQxS3BaOUJjYXZLY0dubzNkLUtzME42ZzJCekRFMVRVclRVU2ZTNHR0NV9tUWc5alAtdktfZW1YSHhBWDNrdVU2eUpkYW42RlJJUnVCcjl1NUgyV1k0VmlFVTREc0toNlJaVEtWUmlTTjVmbzRETzVydHg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-24T16:32:17+00:00",
-      "score": 53.16,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b2be43b56c5e2e36",
-      "title": "Irã oferece R$ 51 milhões pela morte do filho de Donald Trump - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU09xREZCUmJHNG8zeVhmTlhPRlFja2h0Tjlnc3ZDZkVBNUNHa1J1cVdOQUN0TG9ibHZlNVQ5NmE3b3RNWlFIS1pSOHZHT2RsQV9zaXk0NlliaDVTdktaZHJiZGVtWFVzaEwzLUJzUFR3MjRLVG5jWVJ2VElkeHdBUndVVm9PTTJrQjJBQWNMdkk4cHlmRzI5c2J4RUdPRGhGV2ZkQi1iS2tGUUpWU1lJNGxXRdIBuwFBVV95cUxNc09aTWxQdkVhQy1SdGJ1WFNYVmlzVkpmSmRuVElrV2dIaFN1eUE0eHFRa2FDT3VvUXRxNWtLODZnZHd5ZnFiUUNxS2tsaW5GazZvaURBYlh4SWxoUGlqTVVtV0tIWHhnRWJMX2JwaURRRUVLT2pOdmotc3owQjllQXVxUjNIUmVYMUR2RDFsdWhWMTBKR1hpdVdmNjB5Wm5XX3BiMDIycTNXa3RjRVRGRFF1VFhXZzlnVDEw?oc=5",
+      "id": "a3f1eb1aacfec509",
+      "title": "Estados Unidos miram países que fazem negócios com Irã - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORms1Z0pwNlFiTk1id0Jod2hYajV3alg0bU1Tc3E2Y295MWtZSDBOeDNURXdOY05BcDFSRTdBQXAtVHg0QWNMeFpaN2lMcDV5SlRnSS02bGpjSFNrWldBOWR4ZU5qaTlOREFSN0Y2Q1YwTDVwNDcybGlpOXUzcGsxMG5GM3pXdW1ocFNSQmI5RC1hLVk4ZnV3V3g4NjZOd1l6M0ZWckpYR1FfbjTSAbMBQVVfeXFMT2xHdmtGaHpPSlJ2c29PQUhWTVd5LUVpOG5zd3Vtek9ua1QyMkhOcGkwZjlEVzllWU9sazJTN2J2cDRLbHVrSEdTR3BVWEd1YTk4UEV4VGE0aTVVYVZQQ3N5ckt2VWtkOTVZYkVPdUZKemt5X0puSEVGWnhTUm5xRnV6OEZtSGlvck5ic2VHel9HUHRueTV2WVp1amd5d3p4eGZyb3hncjlITGQ2SWlZNzFLbkE?oc=5",
       "source": "Pleno.News",
-      "published_at": "2026-08-24T19:57:00+00:00",
-      "score": 52.91,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ee17f8f20c646b5d",
-      "title": "Fora do debate, Lula encara pergunta sobre Lulinha: “só ele sabe a verdade” - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFRaR0xkc1p6N2VnUVFDb1gwVWRHYWRfdW9sSkdZM2pPRmNPQ0FNZm9mRzF4bHdzWi03VVA2TUt1UXBLSElHdGN3MzJxSXpkNndobGNRVVZURGV4dV9yaE05VnNobVUwXzlqNDFhSnNrOFprTnJyMnlVUW9EMlVFNTJGdzNZM2NaQVVqWERhd1JXd3E1VHZTVndoS3lrY2gxcTZjOVJtcXlkNXBzMC15ZEhzUVE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-24T15:42:17+00:00",
-      "score": 52.53,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b7776c566519bf93",
-      "title": "EUA retiram Síria da lista de países que promovem terrorismo - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOE0yQmh3WnM3d0tsTXNUS1J4TFBEcWp6NnFsRm9OeVJyRktOdmZfeWZqSE82bWU1RjFydjRRMjVFME5Xc2JPMFRpRGQ2M1ZnNUxkYWN6dW9UXzJRU2pZa2R0cHJRMWxQSnVURlFSZHZCOFBwSkg2Z1c5bEpQVnJTWjFJSm43YzFyWkk1NWNkbVBreWVZNHR1cElIR0lQaEFXdXN0eVZBZWZXdHd4ZUVxZDcwc9IBuwFBVV95cUxNd1FSSnU2clJlQzViQUg3RDdFZU5DaHJMdkNhU0N1YlJNQkhYTFlzSkkyeTBVWl9hREQzdVFnVnZIT29veEpKVVFYcUh3S2FwanM5Zjh4cFVQVVNnLWJuZHo0TllGSVp2dnRJbmhzbF9jQ1ZpalZobV95TldzV3FXdG5xNVh0QTQtMEU1TXE3bE9ad3pvQ1dCMzJyd3Y5clJKa0lsd1dMWFBzdWpzQlgzTHpoTlFXd2hGLVNz?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-24T19:26:00+00:00",
-      "score": 52.48,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ae067341984ec2e5",
-      "title": "Colombia inicia reconstrucción tras devastador terremoto - La Patria 3.0",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYXNfN3BKTkEzMllxTXV6OEs5RWR3dkdDbVlEM2pQVlduNUozY3JTTGtyTXdobFFKSENZeGF1NUR6RGo0Y3FTUy1RQUVBNklfZmNqLWVzMGJpVTg2dDl0Zl9FUUVNQWI5d0F0eXc5aDdsbnVOV3pFamROZVp6UU91WkpYMFp5VnI5RWVwWDRuQ0d4aXNCTlVCazN0SzJKNUd3VHBXZQ?oc=5",
-      "source": "La Patria 3.0",
-      "published_at": "2026-08-24T18:04:38+00:00",
-      "score": 51.37,
-      "corroborating_sources": [
-        "La Patria 3.0"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "78552b08e5445220",
-      "title": "Presidente da Uefa, Ceferin diz que não concorrerá à presidência Fifa em 2027 - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVZxNVdSaEV6a1N3V2NaWHUwTlNuZ2lqejdxZDNHcmVLVVM5T01pSGtZY3N2T0lRR2pBWnlLeHFEMHhVcHlmd0kyRnJZSU4yaGRaUGRpSHRoUUtNemJBc1hRcHBSMEMzYUJFeTlYamNrS2QtUms1OEROd2Nwa0d6UHQ4d3hsSzhDWUo4cFVCeGhGcVhQQ0VZaURBLXRQNDh5eUxLNzlfdmt4QVJIclI1Zy12THpiMUpCbEhMdEhvYll2dXpCcVp3?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-24T00:20:00+00:00",
-      "score": 51.13,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a3c6a8f28f368de3",
-      "title": "Flávio tem 49% contra 44% de Lula no 2º turno em SP, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWhURE45eUUtX2c0cHRseWc3QmxDX29DUFFZVG03cDVTQml2dTY3ajB3Y3hNTFJiako0SnpsN0pRNWdjclB0QzN0Z29pY2RiRjRLQjdabTZKblB0MDRtdWlRVHE2SjZRbkNzRVB6eGdKZ1ZZbFBBc1ByaFVyaEdtRjU5VkdmVzA1anFHTVVGdHA1TWp1NVdWRlRFOHlueGJNbFhiZG1kWkUyUQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-24T13:03:16+00:00",
-      "score": 50.61,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f4bc7af1c5e2ba76",
-      "title": "Talibãs proíbem por lei todas as manifestações no Afeganistão - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3lZcnVOcFFad2U2LU9teGdUV0RxVWs5aGFYMDhHeGNuUTlVeDRxYzh3X1Z5WHNrcE5ENVNsS2xfWGMtSWNtMzJ5ajI0eXVXaWh5NnV3clpEY0xkeFg3ZjM5cmFXaHlxM2RxQkJPVV9nN29DMnpoYzB4VVhxYWtVLVhURGFHVkJveFdqSDFRRFZIME9OSUdjSGp1UFZBYl9wYWRNY2VfUnFKalFGTEpwLVotMVjSAbwBQVVfeXFMTnpkZGx0cnZabmVEUGpGdHg0dnplMjhXLTBaU005V185dnRqTTRQcTB0TEFLSDkwNy0wQXVzSFdmOHZQNFZEU29DUUpvY05tUHF3NWhqNU5CT0RUcXBMbHoxRVl6YnRqVWpEbkdpemdiekc1aGNiNGpyVldfc21iLTkxVS1ScldZQ2EycXZUNFJ5ZkpLa09HcnZwQjBJUGtmLXNmc3dQaUtxQjF2VEVuWHF0WTRMQk56b0Z0YjU?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-24T16:59:00+00:00",
-      "score": 50.5,
+      "published_at": "2026-08-24T21:00:00+00:00",
+      "score": 50.14,
       "corroborating_sources": [
         "Pleno.News"
       ],
