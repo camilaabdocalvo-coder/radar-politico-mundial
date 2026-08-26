@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-08-25T21:47:50.619906+00:00",
-  "next_update_expected_at": "2026-08-26T01:47:50.619906+00:00",
+  "generated_at": "2026-08-26T03:39:05.843045+00:00",
+  "next_update_expected_at": "2026-08-26T07:39:05.843045+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "911b2d3241830794",
+      "title": "Governo libera R$ 1,3 bi para financiar data centers e redes de internet - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNDM3QXFrSVN0TjdyVEttendkNU9XQzN5ZnBOd3RXQ0pqV0VhdmNVUVI3ckZjQ2tLVzRtemtDQTFkUlN6QVFlX0czcXlDQTgzN0pPQ3J0a1FuUWlqaWVuTFB1LWZpZ3F2enBLNzBjdG9zQU1OTVRYMk1tVmtPOHNvWHQ2WmxNWW95NHlWemg4TmRSQ3UtUXJabHZBT1J2NGpTcVR3X0JCRGpwcjJNc0FFcHZFOXhLQXZJemZiZkRBTWVJZHZXSlI2VDU3TQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-26T01:09:29+00:00",
+      "score": 75.47,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "4c58cd9f6764bdb7",
       "title": "CPUSA talks world politics with Iraqi journal - Communist Party USA",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EWFZvNXV1OFpBUnRUbGxxODYyU1Jzd2ZaY3R0NFoyUGxtRHRGNS15ajFPVHpxZDF2LWl2N0tkN09kU18tT2VxMnpzVW5RUjh5S2tmTThMYzNlQ0NKZTZ3Ul9mUmVGdjczYTFFRGlVdnY5eGRBTmRKellUYUU?oc=5",
       "source": "Communist Party USA",
       "published_at": "2026-08-25T17:33:43+00:00",
-      "score": 78.48,
+      "score": 72.48,
       "corroborating_sources": [
         "Communist Party USA"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6ef4e938a8a9334f",
+      "title": "Haddad volta a criticar política monetária do BC: \"Descabida\" - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEVURDhwS2o2TlFHOGxnR29FdjFZUndtd1F3RGU4al84Wm9wWWdxWFF6TXIyOC1ya0pNczJVMDNlaVhocVRwVll1UWJPNU1wZHpvMGI3MzVxa1lFQzZMSTR4R3hSb1N5UDZybXpDanV3a0Q2czJIbG9mcHZSSXFFNjJETTRMUjl0QWlRZHJ5a1VZT1ZnNlloLWU4dw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-25T22:12:00+00:00",
+      "score": 72.15,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +56,84 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNRDBNNk0yNFNCMFUzb1JSSmpOX0ZURlRSWWFPdjViOHhQTEhmSTZjUUVSOVphQTQ1WXBJT3hGSmVRdTl6SWRVajZxM2o5aGpndG9fTGZxc3RlUGh5RExKb2ZyVnRLRUNIZlFLTGRjMXRKbmNxZ3FMWGczUDZ5N0FEUFNzblRrOG56YThzTU5id2IzWV9IN054aGItc3NYQnpocW1NMXp1c21zZy1kdGNpdzcwZmJDWE9PVG5QUC1JSElZWXlrUElQTG83VjhfaXBqS21JMV9qRmNWYTJWNFlWOUFNNmI4Uk5tYjc3TF9HQ0EySl80bnBRM0JvS1lBb1ZwSlhpUVpXTnN5TzRSekh0aTVfZ0VuMHpGYzZUOWlSeU9ENG96SlZoRFpFWEt2M0k?oc=5",
       "source": "الهيئة العامة للاستعلامات",
       "published_at": "2026-08-25T17:12:37+00:00",
-      "score": 78.09,
+      "score": 72.15,
       "corroborating_sources": [
         "الهيئة العامة للاستعلامات"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "91b8d3aa9ba3d4ea",
+      "title": "“El único manual” en política internacional “es que los principios y la ética son lo que no se negocia”, dijo Oddone - ladiaria.com.uy",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUTgwWTcwZ0NwVDFFRldtdDJMZVk1eG5ncTdFU21jZU9aOHRrZG9iX0xVX2NZenRpWERjS1IxVWVXM3hNOFpScnV1RENmRmo2WXB0WXZBQnVKNWNQSmgzUmtBWC04WUwyanl5SDAwcnUzZUNnRy15clpIMmc0RE1qM01NSE1ZMjVsX3o2Wm9yU3RQV3owdVVoZFpWRjdWYU1jX2R0SklySVhpS1lra29nU1hMbHI3ckNfMldYX0pqbWRlZUl6SlFsenBkd05Vd3JhbGtBVjdtT3NvMjFBY1NHcGNPaXNHYnY5aXFmLVV6QVV0ZGPSAYMCQVVfeXFMT0paRHpIT2JObHd4b3lxVXoyeTc1SGhKVzJNY2RTVmt5WnROVlBUS3ZTZjBqMWREczFiRkhHZmMxbF9tdDVVNmEzSXF6cFJfbHJqNTFwN0N1cWt1eU0yYUZxMVRrdkRRZkZ0SWM4b1ZjNjJveFJpV0xkY3ptMGZGblUxNDBabzZidjhacnRxdFVEbW10S0VoVHdUSWxoQTZvT05BaXcySlp1LVN4aDNvejUzY1dCZFJVUWFydzJpTDBlM2ZiY2tGZ00zT3RlTllEdGxRRmdKYTF5LXJsaW5vV0hpQUx3ZUYxMU5rUWQ4RzRmYzVxRUVIMGpfMWJKYW1TUUwtSQ?oc=5",
+      "source": "ladiaria.com.uy",
+      "published_at": "2026-08-26T00:39:52+00:00",
+      "score": 71.89,
+      "corroborating_sources": [
+        "ladiaria.com.uy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8ce1131746e1ca45",
+      "title": "Quaest: Celina Leão lidera ao Governo do DF com 34%, e José Roberto Arruda tem 20% - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWVKb0VieVdwWFpQR2FZUnVVUWI5Q1hvb1BGcTdKdE5rcXFkV1JEOEdpNnhsbHFYZmZreGFsa0pZYVdEdU5GVEhHdnNNMTU5Umpqa0lmd3loVHVkeHpOV2JvQkRQVmVoSmVwdWo1cUxxOFI5NDktV2tkM1luU1hGTHI3dUhIeEtRMWQ3MzJCRHMxM1VPaWlQYzZIN1JvOVVUUFJJRUw2ako4Zi1PcGZwYnhHRzJmXzFQNkxoOXIwZTA0bEZhYjNJ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-25T20:43:00+00:00",
+      "score": 70.59,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d7de2fa37153138d",
+      "title": "Quaest: Tarcísio tem 40% no 1º turno para Governo de São Paulo, contra 27% de Haddad - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkR6TlJEeDRPUjFsZFdLQkJocTJkNTA1Y1hCTTRubHFTN2t0YWN3Nnk4UmlRWlYya3ZvY3VpU2gweEdhLXNrS0l6QnJ2OHNMZ1VPQWducy1aNlgtME1RM1FuZmlHb0NqV1h4ak43aHFXeHNiTmMtcU02ckg0LV9lT2hwVno4RXRNeUxteG9NX3Z4SnBWSnk3Uzh1QnZrNW96a0dXcV80V082LUFvSGM3dHFUMmQ3Z3ZYdEV2MU1uSzlBTTlKSVVjSEl3?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-25T20:10:00+00:00",
+      "score": 70.03,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ff60a1f3940ba4f9",
+      "title": "Rinha de políticos radicais em podcasts gera cortes e engajamento e invade campanhas - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMmFZN0U2Z2NHNEUzck9WOE9ObmRjY0xfdk1ualE5ZHU0RklmckxpaTdFdTkyRGRyeG5HYTlTdFMyY21CT2t6RXp3OU1ONkI0bzRDQ3JzR3JnMjJQTEx0T0hGXzBUMDJpZmxxUHkzYUkwc0FoYVhZQmE5QllwLWdkN2dvTHlaUVVhNEVObVBzOXJJRGFWVlBrNEZPZF9vRjdzeWYwaEppalRZSUlCYzJydE5hVV9ETGNfOE5tLUJGblp6QnJNTjVUNGhQMU9GM3c?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-26T02:00:00+00:00",
+      "score": 68.46,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ebe81fd1b9825149",
+      "title": "Petistas compartilham jingle contra Flávio inspirado em \"Osmarzinho\" - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmpwTEE2b1llN1NLcjM0UU14NWtQRTE0UWZlcFl4RkJTS0J6ZXQtRENsdGdEYmVVNkpWTllCeXpMZ05Ra09OT1dkeWZpYWFZRkZQVklWNlgzcjN5bXFjd2pHenVTaWx3M3dvRUxqYWlRckxvVjhjdUZVUVE5TjU5RjVwWERfeGc4X2ZwQV9LZkR3bGFBZkxfOF9rbGRmcmllMlB6Vy1LV0JoeGQzR05PU3dIeTQ0QQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-26T01:03:24+00:00",
+      "score": 67.35,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +146,39 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTTQ1eExnVkNrTVltdW1qZEE3VVhPZnFoVkNuR0MtVVFFdEhrd2loNk8zRFVyTFlLaDBOTk5WbHMzaUhwMHJBRkFtY2tJSlZzYllmMXpzaGIxM2hVS3k0XzVPUGJMclowQlY1UVNCUU5Ka0hGMFV6cDNqYTkycTJwVElTZHdsdDU4MURDak13dWxyaGdsRVZ3ZnV4XzktNnN6YnpUcTZVN0Myc0NHWnVxakVOR3o0dHpsWW0xMGZ4NTBFVkI5SDdqc2NqMm1UUDl3dTZscXZuVVhicVRETWl1ZzgzUWFpMjhEd1HSAfoBQVVfeXFMTXVaQ3Rqbl9JTndEbVhJN2ZuWGZrRm0xMXBNN0lmREU0TUg5WnVTVzB6SHdMUndOejFUSV9mcDUxVzg0eVFvMXpmbHVDb25tOFdmWHdfWmdodW5weUppclFyMnFvTHZMcnRJOFYwSGRsVkdYWThZRGROSFlnbmdVNFp4UGhzQU1KTTFqdmVzMzFYeHl5ZmxmQkxCZm1waTFiUjVhUlZnT19fVENBaEx0eVZqMnpqN052SW5Wel9Yc2R6V1RPN0pPdkdNZks1OVJQT3JJb2RsZE1QNWFpaXR2a2MzdmFfYW0zNHVtZVp4ZDljMVlFNWUtbVoyUQ?oc=5",
       "source": "ladiaria.com.uy",
       "published_at": "2026-08-25T20:15:13+00:00",
-      "score": 73.59,
+      "score": 67.12,
       "corroborating_sources": [
         "ladiaria.com.uy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "009b4b2481c280f0",
+      "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6 X 1 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS3VZOEFKUFl4QlFlZGFMVTVaa0x6ZUk1ZHYtbDljYmRKNUxOUmEtRXNQSG53dVRuTFd0NjlNMTFSeF9GdUx5M1RBNUMxUTdZdmxnR0w4YVRBaTExVWRQVHBQbXRjTnZoOHN2T29yWDhoSnpYZTRLZi02endNbmtDcm9sWXZxWG5BZklBeTZNekNvZFdrNHhHNTNFY2ZvTVZNUTRlUHlYUGRTd2s?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-25T23:37:30+00:00",
+      "score": 65.71,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a301b3f7927cf093",
+      "title": "Quaest: Dorinha lidera com 37% no Tocantins, seguida por Vicentinho Júnior, com 28% - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWUNsN2ViQUpGRWdWWEpJcUVSc1dSVFBnT19adGkydml5MHFlRy0xVHoxMGcyUXFJaTJLVXVRcGMtOGlwYmszVmN0NGdGdzB0X3lzVlNLYVNpRWNHYl8wUFBGWTlGdHVNd0JDSlJEdndiZnBIMGttNlFQRmZZZmU5VEhCN2VSSm5OX1FkUlNPdVl6cUZpdkRpOU9kTTFoUDJVQWFRaEJIdFZkTFVOb2o5NXh0R2Q1SVJlQmcxTzdZbTNVX2JrOEFN?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-25T23:33:00+00:00",
+      "score": 65.63,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXR0dHlFUlA3alY1c09wdzRpaU5tZzRmemNRWlRITVFSd3V3OXNFck9BYlRuZWRLb25PenlQcGdoUTJNVEJ1eDJSOTFLSFBZQS1rdTRNckVkejZRT2U4cVVud3NhQjl5TUhpX3VRcmc5YTRaVHFZQUdNUWdCLWVMVzhqWmFnaHJwbk5DODBDbVZocGVEU05xMnBwTy03bFRUTi00MVJ4QnBLcnFq?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-25T14:57:23+00:00",
-      "score": 70.69,
+      "score": 65.1,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -71,9 +206,39 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLVJmNFRtMVdXUUxjY1cxZktVWmtwVGltSkpOOThxVEIwWEJmRzVuQ213OUVzWlFHdnpHT3pxSzJ1ZjByR0xJRENJV1JxQ1dqaXNWNmJ2UkF4N0VJaU9YaWF0SmJBenp1V3ZrRUFmSHMxWlQtZGxHdFdJeHRMN0M5Y1JiZ3hoa1c4SVNIVjZsX1BQZDlVOHdNWFhsdGE1MWoxSTVFMFZpM3V0WTDSAbABQVVfeXFMTXdTS3k5ZEtKRE5vQjZYenY0UnJLdndqOW8wOVg3Z0J5Q0RFM1ViLUV6SklTTFgxTXpHNlpnRGVzNDA3Y01URmQtdjBQRjdUcnJEOVlubUt4RU5ZdDRmWE90QjFFX3loM2ZZbm5ReWNEUXM1bXgxUGVnVHZiSUFYUFhhSW1LckpWRUtHWWtfRDNGeDNJY1dwTmxMZGlnWnNBQUtiUzhCcndTczI4VVU4bzA?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-25T14:14:00+00:00",
-      "score": 69.95,
+      "score": 64.47,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5dea7d9b1912cecd",
+      "title": "Procurador do Trabalho terá reunião com Casas Bahia após demissões coletivas - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzlqTDU0OFlhOHJkZGhuY1BjdDA2cUIxTXg4QUZyb1dVX2E5NlVUb1I1dzJRZnNsZ3BPOUFFd05faEh3NS1YSjhvV1MwM1RHcC1Hd3Q5TjZWVVV3NDNwSFJsRkNWM1k2Nmh0LUJFR3ZiTXZKczBwVUppcm1BazlJOUk4bVc1OTV2VkFzWkJpdW10dUMzTGthWXA5anlKSFlYREVDTC1mRURaakNqbTFkbVdfajhhTHB4VFRCNmlTNWNtbXVwYmNpdm5SRdIB0AFBVV95cUxPWWxlYURGYXpoWXJKaGJVYjlmT1k0ZVlIbWdfRTRXZHhCZnY2dXVHZEtScEZoYndKYjd6V0o2ZUpQX05yUlp4U3JGOFRkb0xWMzhhdThKQzFOWVZvWlNMZjZYYWxFUzZTWEQxeElMVk4yU01DZUZ6Wk5JNTg0OHEwQktaa25jQXNhWEtNVGVHQkhmVFJsWDhNXzdfS2FSS3padjl2N19XUmhuUFhVOW1qSUhRVGpYeEFQLTFtMTg0eW9BV3djOXU3a3cxUy05c3Mx?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-25T22:27:00+00:00",
+      "score": 64.42,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9dfb3ceb51772812",
+      "title": "Pereira cuestionó a la oposición por el caso Cardama y los ataques a Goyeneche - Caras y Caretas",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3ZXeXpIV3huOTlHNHo3bzEzM2R4eklRbnRaR21DbGtja0ZwOVZHSEtFcjFKTzVpSGE3U0pwV0RQMk1odEp3SW82akdyVXpuQ1NOR2dkOFBTUnBnQ3hXa1FFa1JYQ3hfcWZiVlR3WE01dURTdlVvQVIxWGkyTDM3Zi1FSTBsczBXbW9rdFMyNFAyYkZZMTNBd2RRLTBiYmxhZEVwa2xxaW9zd2FvZ3E4SzlUTGh6RnduaXVv0gHAAUFVX3lxTE5tVVRFUWd5VGM5R2dlMG1UWDRIaHhtWi16Z2puVmxmclRUa2JRZGRCQ2paVUJuNzR6WTJpUFpSa05SRWtfWXFFQThURTlVeVUtVkV5aXlBaVBtMVN2a3RJb0ZNclkxdWV3TVNiS3RidzJJYnhvT1VlWG52NjkyMTVtT2tiQTdpYURsaUw1Qnd2Z2syNDBkVUc3TDhCNE4yd0xrbU5SVjFsSW9yMGpjU2U0T1ByXzU3T2gtaXJXUF9VZA?oc=5",
+      "source": "Caras y Caretas",
+      "published_at": "2026-08-26T00:10:14+00:00",
+      "score": 63.33,
+      "corroborating_sources": [
+        "Caras y Caretas"
       ],
       "signals": {
         "source_count": 1,
@@ -85,10 +250,25 @@
       "title": "Operação Elli: aliados de Lula questionam nome de ação contra Lulinha - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFY4YUphY2cyOVZXM1hsZzN3SFBncGo4eldZdUpON2tuN0tvRGFNZHJIc1JkbFFpallyT3lGRVAyQTZFdGZQTnoyQlY1cGV1OUtoR0NXVTItMHBDVmYwekFnblJfNkFCTjZjT2J5VVgtbWJ0RDd3ajJzQi16b1JfQ0VicVBjRjlYOFZVdE82VFFURTIzWGYwMUI0bjg1aTBhcnBndTZVWE5IWkRfQmpYLQ?oc=5",
       "source": "Brasil Paralelo",
-      "published_at": "2026-08-25T20:30:40+00:00",
-      "score": 68.9,
+      "published_at": "2026-08-25T20:58:14+00:00",
+      "score": 62.85,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1b4e810f49cfb4ea",
+      "title": "Views of far-right candidates in primary campaigns rattle Florida Jews - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWRBZjlzLUV3anp5ZUxTUE90aTRLVnYzLTJqRHRxRzVCeklfaHN3UERkVjhmVlk4LUdSRmhoVk9KUlQwTnR6Qmhyd181SGlCSWx2WWpldDFmZ3hOQjZMSFRnR1RFY3YxcXhNVDFoNWFwMS1CWFJJd3FXRUt2NHQ2UDA4LVJ6eXBEMTRhbjE2QVdiWlhXdk94WC0wM0FRVGhqZXduTnpocEQ3b1dBWTd4YWh3?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-08-25T23:32:07+00:00",
+      "score": 62.61,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYlZtaUFzdXZSazdfMU1QQ0Z5SUxTTEJSS3BlZTFNY1Z5TUNqb2Z6eDdKVE9nWmNjSFZpeElsT3ZfbElBM1c2UVZKU3VBZ3FDMDEzLV9FZzF6cjMzTVVmb09uMm15RENlNGswN2sxYzdQN0JyV2FIUS0zMkRaeEVXNnAwMjUtWWdmT3V2WWZpMUpKNjRNYjN5U1M5aEhLLTMyTWdPSTB3M0NESVZJNllXMk9XeDd5ek14TlNWMktGenJhS19FNEtMa01MTmxVRktQNlhBTmdoYmVXTlRoZW5NZkh4MDBtVkliNjd1VEVWRlhiQlFGcVphbk9SRTdGbkRLOWfSAYcCQVVfeXFMTlhBZEYxX3hlRjNfNVl5em9JUHh2V1BtTXdrYk9BaXpvV0NJRVNDeWxCNDNnSldyN1h2REJNTURvZlBac0FfZDV1TGVTcV9lMzA5NGNvNWZzdDZXUlJxOHFKOUdsS1Ewcm51VUszX0I3aW1ldUFHNjFnNU5Dd0JOZDBqSjBOdTE3ZW11MmNRVnFvVldWX2VWc0otbjY3Ni1nMlB3ZWx3QzBWQkFOU2tuVnN1VG9XTkNONXBCdzlWYW83R2VVaGRHLUxYc1hvMHJ6d0VrSGV0V0d6NWdzblZyR01JeGF5V2Rpb3BHUGkwTnVldUFBRFJ1Zk91dDRiYzRUb21DWW9lcGs?oc=5",
       "source": "Revista Semana",
       "published_at": "2026-08-25T21:25:25+00:00",
-      "score": 67.01,
+      "score": 60.33,
       "corroborating_sources": [
         "Revista Semana"
       ],
@@ -116,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUlnY0xHd0dtcE1NSnh3c2p3ckRxNnRWSExIUXlKWUhZSndxYl9uWk5OSWFtbkNnM20wdmtlbnJINHBPQU1wbklzS2lNdkxKLVlNQkdITlFhNW16cjBCTnQwZGZkcklaOFMyX1EwaTZjQnpMX2UxdXlQTWhqeld3dU9VTQ?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-25T21:19:14+00:00",
-      "score": 66.88,
+      "score": 60.22,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -131,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80NENwazVLWG96VF9oYTJBbExaUmMyR1I0WHotcU94ZGJvMXhrWUQ4bXMxY1Z5bkJrSnoxbXBOblE3UmFESGQwc1l1VndCRWNPWGR4UWNyUnRxSWgxMjJKU285WQ?oc=5",
       "source": "trend.az",
       "published_at": "2026-08-25T12:28:00+00:00",
-      "score": 65.2,
+      "score": 59.99,
       "corroborating_sources": [
         "trend.az"
       ],
@@ -141,14 +321,44 @@
       }
     },
     {
-      "id": "450b9d371020a896",
-      "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc3VUT0NSLVQxSnhEM1luZmhvWm9rZTZHYm5FOWVEWFprRWl4R3hjUUNsZnJDMHZLdS1HbmNYWnExd2lKdGR6ajJFSUVLVG1UeWZxaEtGRUJqQVRyM0pFR1RYMnFZeDBRckRmS0tfbnNuR1FreFBqU2NDV2FNaGg3eEVRV3d4TWNfTmpQQlllTUpWYm5QemFYY2RXUy1ta3JUenN1MllFQlNFTGczMHlJZkd5cEZrSGFYUXRoMGROdnhOWnB2M1RRS3QzMVRHYXNSQmVBMFVR?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-08-25T18:59:00+00:00",
-      "score": 64.09,
+      "id": "88eafdeedc69fb09",
+      "title": "Facebook falha em filtrar anúncio com desinformação eleitoral, diz Anistia Internacional Brasil - Sul 21",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNHdsNWk4RlBMNGdoVUtMZTkxN0RTbUcteWlxSDhHT2g2ZTh3YU9GRnpPM2RmS3d6QzZUdm4xeGZwVzJIVHNCaHVHWFV2UnNfNWpKV3ZNUXlDQmFOZ0t6ejBvNEZWdThCejZJbG4xcEFnbkh5aW14bXFIYTZ2U1BYbnFqMm40VlZ6M1QwZ1RiV1hFSUY3eHRYT3poczNCNWNuTWdjVkhnM3A5czlKTEllb1VUR2JRclNXbTlPOEE1RGFzcjhuM1JTRHZSRFJLZ0x1Rk9sOERNNzVmUQ?oc=5",
+      "source": "Sul 21",
+      "published_at": "2026-08-25T20:58:00+00:00",
+      "score": 59.85,
       "corroborating_sources": [
-        "The Guardian"
+        "Sul 21"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3af7e5409bdbad09",
+      "title": "Direita tenta enquadrar evangélicos de esquerda como Judas e falsos cristãos - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMHU1R24zSUwtaEs4Y2MtRElFYWFCREJUcjNoS0JHdk1UTzZ3TW45c2g4bE9yNGZhMDA5YjhwMkVSLS1FM1hhV0FsR2ItUUhuS3YyanJyTVQ5TXNVRGFtd1pTazdmUDRIdTA4TkRSQ01RbjFZSHdqY1VHTjR5Smcycl9lckJ0RUFEMDhQUHlwSy16dmp5X1RkZmNWTFhDN3RqVFlZWXhjRWNkSkNVUFdSN2JMRkdPQ2ZsWTRIU1MxRFB3QWdT?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-25T16:08:00+00:00",
+      "score": 58.15,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "731bf4d80af8ca07",
+      "title": "Silva é o sobrenome mais comum dos candidatos de 2026; leia a lista - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMk9FZG42TEJSR1p0Uzh3N0VpRzk4anpBV0NJbXlDUmlNX0tldGsyRmdINVZCRE5JdHpaM05iRnVTS0lha1E4WXZJdWJLbGdQcmNZVkljQm0tZ0FKY0N5eXdZc0VjM0R3aHRUX1dxTnhDQklrdE5ldnVxMFhWZ2RWd0lUVjB3UTB2OHN5Zk1saHBpOE9qYTdhVGVuWW9jMzdyNFdfRm5FOTkxVXhJcllTQjlyeFZiZw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-25T15:57:28+00:00",
+      "score": 58.0,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -161,24 +371,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVh1dHVOcTZ1UkN0UTlTdVQ4UTNJU1hzTTRGdFNxMzNyMWFpM3ZseUNtMTFUOTNqSHlrNEx0aFVtdHVBYnNwYk5UczdLRDVZaEVudjd2cGV3VzFjUS1HdmtSY2stWFpyN0U5X0hZUjNzc1otSklINWJRMExZVHpwc3BqWndiSk1ybGJtY2lqRzBCYkUzS3RNOUQ0VmUxcjkySG44bVN4dVVIYVR2TUpjMEZKZm9Ya21sVTVv?oc=5",
       "source": "Noticias Urbanas",
       "published_at": "2026-08-25T18:52:40+00:00",
-      "score": 63.97,
+      "score": 57.74,
       "corroborating_sources": [
         "Noticias Urbanas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "731bf4d80af8ca07",
-      "title": "Silva é o sobrenome mais comum dos candidatos de 2026; leia a lista - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMk9FZG42TEJSR1p0Uzh3N0VpRzk4anpBV0NJbXlDUmlNX0tldGsyRmdINVZCRE5JdHpaM05iRnVTS0lha1E4WXZJdWJLbGdQcmNZVkljQm0tZ0FKY0N5eXdZc0VjM0R3aHRUX1dxTnhDQklrdE5ldnVxMFhWZ2RWd0lUVjB3UTB2OHN5Zk1saHBpOE9qYTdhVGVuWW9jMzdyNFdfRm5FOTkxVXhJcllTQjlyeFZiZw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-25T15:56:50+00:00",
-      "score": 63.73,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVFLZVpnY3R4dDVyOFpXd0RPQXU2MGJhc01Bc3U1OVRGcWNnaTFpeDVHTWhIcDhqTEVjall0RzB5TDZNMmFLTmx0bmh3UkJ2X3Nma1BRM3FwcmkzUm9OQXBfSi0tRHBnc01OVUZ1a1dMZ3RZRjc3MWpEdjFWWHBSZGRVMA?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-25T18:29:46+00:00",
-      "score": 63.53,
+      "score": 57.37,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -206,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiYjZkNkFzSEs2aGpTVVBSZEtHeFB5QUFtS3psZi1aN2NJQk9GZTFXVFlabHVWcmdFMXVpSDRLV0ZtSUVRWGRFWDJrRlZYNXdWclpXQnhiMElIZmNlNlF4anF6dnpUdTZwallQaEN4LVpOdFRn?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-25T18:17:42+00:00",
-      "score": 63.3,
+      "score": 57.18,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -221,9 +416,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFlnVW1EMEtMMWtDbXBJcnRiNGlTNXE0QnAyZDdmUXQyZnNCNXdsamRmZUowUGlOY0l2NUZwT1hEbU9lVHNRdEZtQ1d0WE1QMDhVdDN3dDFaaUtqaV9ESk4wbWdETGtlU0Zjak9ONkhXNkFndnlCRVFZdUEwTzJ5bWZ4ampNa2hocDA5WWRaTGdDZWdfX1c5Ry1SODNnTVFtUnVZalNRdm5NaEHSAbMBQVVfeXFMT040NktsZUxUaW9UWGJOb2VqcEIzbDktMVVWOEx1ZjVxNzZ5RHdLX3czelF4bGx3cmtfT0FiOFdkX05udktzaUFIX2IxZEZfNEREVW9YZ0hxLXVYMi1Za0dyaERfN290aFlEMS1TYWZjbm5FdFByWlk5cDNOZWhNQVNTbGhKVHNERmZ2VWhYM2M2aDZVNmZVQVdzLTE5UERHRjd6V1A3NUtjMFFCVXIzcWVPZFk?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-08-25T18:07:00+00:00",
-      "score": 63.1,
+      "score": 57.01,
       "corroborating_sources": [
         "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "39543eae6842ed1d",
+      "title": "Hegseth’s purge of top generals leaves the Army rudderless - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaGU0SFItY2JOcFp3NDVRYjdaOGw1V2hMYU9ELVZ2dTl5MWtGVDNKWUZXREp2bzNEYTRXV01BVXg1enpHRllXSmx4RnZCNjZpbGM4cE5iVk8tN050emJoSjVDbF9ZUjB4blM3VXZ1SlNnQnQ1V2tWMEE0NHVib1g3RWp5NFpmT0FoeGtXNDBJZWJ5OE9ZcVVEZ1M1WGpKU0M1NjdMWUl6TGNGd0dldVNabW1fdkRmaTQ?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-08-25T17:55:33+00:00",
+      "score": 56.82,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -236,218 +446,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFlVWGtONmNTaFpLbG1wSVJaYnRhQnl5RUhiVXA2RG1xT3h3bjVrbm1jdFB0Ti13bWxHU1liU2hNSUY5VlcwYUVjSF9XUi1TMWdUM1pDUlNPNnlmYWhkbGE3VFRmUjdTNjFlVmZCVHd6QTN4MHNJRzVkUWxYZWZLa1pPOVdMMl9BSU4waXJyek9tcVpQeFlIYV9uek9pQVJtM0JyamNMSlZUbWRLUDlqNTN3cnNaZ2YzbXFaam8zeEZCZw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-25T14:22:33+00:00",
-      "score": 62.09,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fea86e0f6b3db1dd",
-      "title": "Donald Trump afirma que já não há minas no Estreito de Ormuz - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQi1GQnRraEpvU0lGak53VnB4Z1hWYkVTcFZHelVtSUNTUU1HQzBlaWxmUzdXeXZHZHlPcVh6XzFpTEx5ZVctNm15OUZjZmlxOF9SRjM0Yk9wc3ZkbGU4NFpoaWRZanNESzhPQ3phWldPRldhdEl6ek95cWNjbU5WMS1fR0M0dHJBS29NVVI3WlFhUXhPaGt0Rkx4RXN5V3paaFZ4VzFDbW56VVhCV2lhaUdra9IBuwFBVV95cUxOa2J2VU41aWVuSEQ1Vy1aWHRnQkF5ODR4ci1uSjhrS2xfNjV4WXRrMmJkZkVyMHd0blhkRU1GVUxFM0N5aXVkTmNTZmhLd1kwdk1qWlBiT09DN1J5QmhyQ1JjZmxnR1BocVdGNkFQclFVcmFNVHhVcDlXdGxxZjRlcWVXRVdGaHh2ZHRPYUZ0NllEdU5ob0M0WXZFdDhFRGNmRlFiWUs5UDNJMUdTcEkzOURWT19iN2p0YVo0?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-25T16:59:00+00:00",
-      "score": 61.84,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fecc457bd01927d3",
-      "title": "João Azevêdo lidera disputa pelo Senado na PB, diz Real Time Big Data - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMld6ZEJiVnBpQWFTSnpCWXZ1UEV1RmRHSjdSV29fZVpVZFVtOVVPMDB1M01fMGt2NURtZ1FpT2REZzBlZzZpQXBBM2hxYTIyQjFtZmFwbV9Zd0d6cndkdTBHWmF5R1hGcmx0dDF4dW12V2xQOE9EUmhPU2JiLW5GY2VrdW50RTZaR0dDY0lMbG5Ea2VDakYwZTU0NUJ6OU4xeS1qaFpDT0tPaWM5M1hXWER3MmI1dGZK?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-24T16:15:53+00:00",
-      "score": 60.59,
-      "corroborating_sources": [
-        "Metrópoles",
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c072b3f244a9b102",
-      "title": "Zema diz que tribunais fazem “mais política do que justiça” - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzFSRVVlczNRSUZjaXBiSFo0T1pkeFJPbTYtcHhyNGhpUzJzV0FJQmUzQ3lQeWlFVXZFVXl4ZzI5c0VRdGFUQW9fUld0UTlZQWZ5SkFQTTBjTm5NV2pNQ2tXY1RLdUJRX09ZOE5QR0RkQTFDNGJwakZhZ0x5X0h4X1hwbEx2ZGFvZDEzUlI0bGZBWE9GZmhDblF2MlQyOVpkakFkaXFyTVJ5Zw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-25T02:47:39+00:00",
-      "score": 60.02,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4d24b775c0217457",
-      "title": "Quem está por trás da revolta contra os data centers nos EUA? - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzJ6azA5RHlFaUM0RDhEcExlQ1QzU3hNV1V4eXlRU2V5RUxqQ3NNaFE4S0ljZjQycEJkODBnTDlaaThHbW1SU3Iyb0RJaDlYM05ldV9YNDF5a2k0WTZzUlJFQTY1a2hDc2FFSjFyWHlKWng5TkhZZ1JONGZtOE1BdTFhT3Btc3A2bW16U1hMa19iRzVMSktfVkFIUVlhYWtNd3Q2Tkd5WXVOZmx0dFFUTWgxazRFRU81amFZ0gHAAUFVX3lxTE5QMHo4VFBoV1VPNFhWYzhNUHZaVHI5QTBlV2dQOVo3S0ZkYzR4RF9nNWJpd3BNLUVOOFRqMkh2bWItdkUxYUVURjNIaXJhUHJkWTJrSlY1aUFYZDBiM1V2eWFfalBuRzBVdXNWMFl5Wl9ESG8yVUlkSWVzVlZSb2dfWDJ2Yks2bVBhQV9Rck1UX1lSWTlORm5JeEhBd2t3ZzZ5bUUxZnN1YmczUXctU0dLTHFGYTZzV0NFbUxBZGlRUw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-25T11:52:00+00:00",
-      "score": 59.63,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e8b572cbb9bcf989",
-      "title": "Augusto Cury é de esquerda ou de direita? Entenda o posicionamento do candidato à presidência - Revista Fórum",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmkzSFlSbGcwbnRaYUxKNi1oaUQ1RFhvSHVBeXVqMGN6R0hWSTEzSkhqY0drRF9LWkFxYkNRYmlEdUM1SmVhWkJuSkZLWWcxR2F5V082MkktdkZOWVpVRmotNVkyOFk0Vjc3LV9HeHpBelVPY3hmM3l2SXNsbUl6QVFLSWhHY2xGRnY2Mm9MbVc5bzBrR254bTNFTlJvMmpyRHFkQl80d0FwY1FqX1pSLVM4Q3pIRzZiREwtNmptOEZGZTc2X2c?oc=5",
-      "source": "Revista Fórum",
-      "published_at": "2026-08-25T14:52:37+00:00",
-      "score": 59.61,
-      "corroborating_sources": [
-        "Revista Fórum"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1f3a8376cab8ecc0",
-      "title": "Opinião | Diplomacia em tempos de mudança - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0hxTElzb296WnItTHlZRThSWm5hMEhjOUhPRVREMEUzOWRrUGJpSC1udHNIR2Z2N0k5MWpUTEJ3TkxtQkppcUJDUzByNUhuWG9NYUlEa05kZVNrakZHYnFWZnh6azVKb0V4dV9VLUVRajNJRXJmNEJlNFZ5UXE1aV93OFVySzJmeXc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-25T06:00:00+00:00",
-      "score": 59.49,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e1cecfd159d2ef6f",
-      "title": "Flávio aciona TSE contra Durigan por atuação de ministro em campanha - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMm5Sbnc1ZTJzWTZXd1FULWlUaC02M0VNbWtuQlVXT1pzTE9DTU1iZWRxNXB2SUprdlZIXzRfTHFNZ2xhLUZkN09JN1pfWkU4d2l5T2I4UHUtSGpaVTktdkRRNHNLb1JQb1RyajlrQzJoNlJmbzlibnFZeU9FTnN3WXgtYS1WeUxycjV4ZHBDT3lmQWhQVmVnZTc3Nlp5cFVtU1NjcE5VZmo0b043cXdiQWhDNTVoeFEyY0JR0gHAAUFVX3lxTE4wOEFRYUlIa2Q5NlBYalpuSjhpaXpUcGVMN3ZvVlNvY3gwamZtSFVKbTBOWldObnF6c0JfMWZ3UjVpclBlb3l6a3hDYTJDX3A4MmJRTVl6NmRIY3lhd2xud3NwMEJpRklDMVZLT05CbDhaUGMzSGlPVjI1RmQ4WmN0UnlCMVRhd28yNHhpQmNhNzlJM0Z0Z3hqTGJTcGs2cmIybGpWMlZjMDN0ZERqd3hfTkpSX1JDZnl0b1VTdDQxZg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-25T01:53:44+00:00",
-      "score": 59.37,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ca9b8ad7ddf59f76",
-      "title": "EUA preparam maior revogação de vistos da história, que pode atingir até 200 mil estrangeiros - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORFZxaWhHY09SYkI0TW11Tlh0MTVSVVU3b0h2V0ZxU0hndUgxaHh3TzRxSTN2Yng2WUxQRzlUVlc5QU9zWklIZnVRa3NSNmVuN1JXRjZiTXNEeW9kcWM5TWJxVVJGY2dtYnhseUd1U1cyZXB1NlpHNXFHSXZVTjZDWW5TWmx4Vm5BV0dObTY2ZE1ZMjFVbDJ0LVBXUG10dm5DVEpBM0RpZFNYT3NKdGxXcHV4dy1GbUw2aloyVGhwRVFHaXFJZm5ROVNjSzhQTXpUY01TUtIB2gFBVV95cUxPYjJnb0o3bkdncjZlQzBnSDdTMHpQMXJISXkxdlRzbEh4U0dYVlRqakphUk02b0NBQVUzVms3NFBVamtUQzJpNmFiMWd0MjJTYWh1M2FhcEF1OG9yN2ozakItSTZZRTRuRzFDek55eE52bXFjV2ZMY2RyYjN1UklyaEkwUHZfeE9EQV9mUjNqODNlMEFsRFJncWh0ZjBza0NYR1dkcjNCZm5TQ1E5elBtV3BTYWFRYThVUjdMYVRVT25RVUIyN3dsamw5Mmp0eVROVV9ERENVWTJEZw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-25T10:21:00+00:00",
-      "score": 58.22,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8ebdeea29f88e39e",
-      "title": "Israel registra êxodo incomum após guerra e crise política interna - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHBMNk5QSGhuNG9KRWRoVlJJd1JCQ2FzZ21DbE52Uzc4TWdtUm9Hb25nbEtXNzJvaGpwbFNGM0xNLXNZbC1FcXhhcG5SNklnNC0xUFpFTXNxcmtxNk5jM0I5Ny11RnpIT0tNc3A2RWhSWk5YenZmRm5WT2xJQ1R1WTJlM3ExLXZKTkF0S0ZHWTJxMHdWN1Nka3hWczcxQmVhbV9TeldyVXBuOVh4TEdabl82anQ1bFk?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-24T09:00:00+00:00",
-      "score": 57.67,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "36316ce8fb0aefc3",
-      "title": "Elmano de Freitas é sabatinado por UOL e Folha, amanhã, às 12h30 - UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY2hJajM4TVV1OE41WmViR1I1Wmhza3lJVGJnRFJmaG5xdS0yeE9DRHFFVWg1Rm5LWGVlQjZfVTFMS0o4R3doZWplTlJmaGF1a25BVFR6ZHN6Y1lmNkJRaGZhZE1Vam5jZzFWWnJfT3lRVXNUc2lrWTV2TE9IcGV4WHVfQXNZQWhCRVdYdDB3OXhvREJaa2h1MjNDdWtodnRzYVBMNERIdF9NOFB6MUtZQk1n?oc=5",
-      "source": "UOL Notícias",
-      "published_at": "2026-08-25T08:30:00+00:00",
-      "score": 56.58,
-      "corroborating_sources": [
-        "UOL Notícias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1c6fe01f3ce9e2f5",
-      "title": "A Back-to-School Reading List for the Globally Minded - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWNtdzJ4X3dUU0lvbFZlOHZrU1pfSzVvcjRtRDdlSnp5ZkRBTG92Si1qcXN0RVhncjhJMUtfWnlmM1lHR0psemNydk1tX2tmaEd5OFZKUkRlWkFfcHNZdzFHZWFrb1ZzeWthdlFyYTBVRnZzckhpUnp6cUZLN084RFdOOHk2Q0lnaGZGVw?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-08-25T11:30:00+00:00",
-      "score": 56.28,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0daaccab8970d351",
-      "title": "Reappointed Nigerian ambassador meets with Pope Leo - aleteia.org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkczVEdQbGY5WUM3cHdJX1lyaTlobVpqNVhOdjVWQTVxdS1DaWYwX2E3LXBwOERMTV9XMjVTSThKc2tVWEZyemtEbWJUbmdESE43ODNJcjN5T1RoUkh5Z1JhaFIzeDNGT0FDa0gyUmhmR3MzTUZteGRLSlJsMzRySl9mU28taFpnR2Yw?oc=5",
-      "source": "aleteia.org",
-      "published_at": "2026-08-25T11:04:10+00:00",
-      "score": 55.88,
-      "corroborating_sources": [
-        "aleteia.org"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "707cf6287e78225e",
-      "title": "Sob influência de Trump, Colômbia endurece política migratória - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbE5mV2x0WUMwWU9DSWdzUFRmUm1oUHNHc2RMNkUyQU1JN3NrbWMtNHBmUFFtVTFLZm9vbFE0WHdFUDkzTXlFMVJKbkVNcEdvZ2kyWFY1NXVPUi0wZ3l2VkFYZEdDLTBENlYwOUh5cGxPRmVubGJ0U0FJRnA4TW1lTGxad3E?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-24T19:40:00+00:00",
-      "score": 55.25,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a1bbcb2efb1de271",
-      "title": "Janja repudia críticas de Renan Santos feitas em debate na \"Band\" - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFlsNnpLekpRejJXYTBGMzBBUVFMbXlOeG40UWcxaE5Sc0VBTU1JNFV5M2NWZllLSFBIbm9pQkZ3eHZZd0hJZXNZOFowcDV2cTR5V3NGaWkxczNDMmlEUjBhMG85MUVtUkZMdlRFb19uZUgyYkd0ZnF4ZDczZDJaX2lxRnJ3RWxvYVJiVDFqOElDWHQwR0hreG1zT0VzbUhTblRGR1RBcjhjMGFBRldXYXVR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-25T05:59:21+00:00",
-      "score": 54.48,
+      "score": 56.6,
       "corroborating_sources": [
         "Poder360"
       ],
