@@ -1,34 +1,19 @@
 {
-  "generated_at": "2026-08-29T04:23:41.714123+00:00",
-  "next_update_expected_at": "2026-08-29T08:23:41.714123+00:00",
+  "generated_at": "2026-08-29T08:24:00.879667+00:00",
+  "next_update_expected_at": "2026-08-29T12:24:00.879667+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "29339d8816911c17",
-      "title": "Flávio anuncia médico Claudio Lottenberg como ministro da Saúde - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHF5R2tpdmJIZU40TlRiV3Q2V3BtclRDMEhPUV9iM3FSb3RDRVJmeEFqTk1XRVZUZjRTVk1MTHlVRzFDR3VNbng1Y1RGM042aHBubloxZEFiMm9IN0VBUFlMWXZYQ0ZGZGhUbUx2VjFXMjRxaXAycHFrYWxUeFgwSEdhQ1loTmNTTDNkVnJXOHpkUUNPTTVBcWRZU0puSHY1MXF0VGZidw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-29T01:45:30+00:00",
-      "score": 75.3,
+      "id": "a54c30556e457d52",
+      "title": "Politics To Oil: The 6 Consequences Of Iran War After 6 Months - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkRvQkVjSkpkYWJ6bTZIUTcwdWtEaXNsVDNoWlZVLUt3UktpbXY0UERaellPOVNGV3JJcnJwSWZhQnhXSTVGZnU3eXY1UURiQ3RDZ2dCUmE5QUE5a1VXc3VabGx6bWJLUWNPekdFd2NKVmpiQ1F6UzJHX21zWFpXOC1jOXdVQ0UtelExMXNlQlBEUmw5RXFHUG45b0FVTkFsWVU0Ym0tRDRCRjJHTElIbmhvVF_SAbwBQVVfeXFMTm9lY0xJbURheGxra21ucExiTnE2bWdPOElVdUhaQ0x3Q2V2SzlaMWZBbkxOR1ZnTFhxaGtGYlA0aEJhZXpIUkMyVDRKLWxVU0pFTWVrbkllN0tFREc4ZUVQaHNocW53OXJ2NVVpeXc4ZjcxeUZKcVktN3dldGgtaTROVTB0TzdVUlJyYXl5TFRKdFMtS1NlYTBJb0hqRmF6MFpwMkRCd3JmalFSX2tNWVVxby1heWNfQllKR2Y?oc=5",
+      "source": "NDTV",
+      "published_at": "2026-08-29T04:37:56+00:00",
+      "score": 79.0,
       "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2ab17925308f5a1c",
-      "title": "Cancillería avanza en la implementación de los Lineamientos de Política Exterior con acciones en diplomacia científica - CANCILLERIA :: BOLIVIA",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBza05oZG5sZVFGQlZBb0hOTG0yWFZGU3E3RW1pU1dMWEk5TUJpOWk3Y0ZuTmI5emE5MFBWemdGZW1qOEM2ZWdfNHE1Y19ITW91M3I2WjJUYm5PQmR6?oc=5",
-      "source": "CANCILLERIA :: BOLIVIA",
-      "published_at": "2026-08-28T21:01:43+00:00",
-      "score": 75.15,
-      "corroborating_sources": [
-        "CANCILLERIA :: BOLIVIA"
+        "NDTV"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +26,39 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzFiSkpsZmxpdXZsMnBLTVRWcnp4Sy1YYlNWZ3AtdkFXQ29JWjllRE9qa0NWS1FGWi1oUU03cHc0Vld1V3RZYWRZMEJCQTJLazNoakt2R2hUWTNTcGtnYW1Mak56UjhyWkZ2d25zeDVTTEdJNTdDQlJsbUJISTUwa2lKYzJzWUdmU0ZWLWtfaU1USUVvZGtNTUYwX2JfNUNHbW1YSUd5Q2RuQ1c0VFM0LVQwd1g1Z0xYcE1tNG1ESGFVemthaDJUb0ZLRFRROEJEV3c1Ym5vUXJtRlU?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T17:42:00+00:00",
-      "score": 74.91,
+      "score": 71.39,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2ab17925308f5a1c",
+      "title": "Cancillería avanza en la implementación de los Lineamientos de Política Exterior con acciones en diplomacia científica - CANCILLERIA :: BOLIVIA",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBza05oZG5sZVFGQlZBb0hOTG0yWFZGU3E3RW1pU1dMWEk5TUJpOWk3Y0ZuTmI5emE5MFBWemdGZW1qOEM2ZWdfNHE1Y19ITW91M3I2WjJUYm5PQmR6?oc=5",
+      "source": "CANCILLERIA :: BOLIVIA",
+      "published_at": "2026-08-28T21:01:43+00:00",
+      "score": 71.29,
+      "corroborating_sources": [
+        "CANCILLERIA :: BOLIVIA"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "29339d8816911c17",
+      "title": "Flávio anuncia médico Claudio Lottenberg como ministro da Saúde - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHF5R2tpdmJIZU40TlRiV3Q2V3BtclRDMEhPUV9iM3FSb3RDRVJmeEFqTk1XRVZUZjRTVk1MTHlVRzFDR3VNbng1Y1RGM042aHBubloxZEFiMm9IN0VBUFlMWXZYQ0ZGZGhUbUx2VjFXMjRxaXAycHFrYWxUeFgwSEdhQ1loTmNTTDNkVnJXOHpkUUNPTTVBcWRZU0puSHY1MXF0VGZidw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-29T01:45:30+00:00",
+      "score": 70.9,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -56,9 +71,24 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWZlVXlMOHNRcGhEemNYUzY4aUhVaHVJbTd0RW54NlRsbmpHYjB0Q1NrN2RVZnhQRzVzYWF0WGdadTBPT1pYWk5IakZ1Z3dpN3pXaFRRLTVfVURiSmJiVTRKaXo5QmNudExxeW85VVN0aVJralBOYUdCdDRsZlgzQjVLclFZVXYwVnNQN0JuZ0E0TUIxMUpRRVlSYmhlelhzblkzUVo0NDhINFdiX00xWVhXNHRqOUpfazNzZV8tRTRWQmo5TTltWkY5VmlvcDR5ZXNsUVpjN2JpRWhqX3hN?oc=5",
       "source": "Jornal Grande Bahia",
       "published_at": "2026-08-28T19:15:55+00:00",
-      "score": 73.4,
+      "score": 69.72,
       "corroborating_sources": [
         "Jornal Grande Bahia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9fd1deeb01d34320",
+      "title": "ICE prende quase 50.000 pessoas em julho, recorde no governo Trump - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU5oOTh5YjBKZ1NTY0JacHBMX1VkMHFlMDJoc2p5QlNIV2VrN1F0cWFKQ1VuaENvajVaZW51VHJ4ekk2aDFsYzhDaS1Md25QSzl2ZHg2dXVjRlQycDhDNzJWbUJRblowSUtCS1pYeGVzcExCT0lBZVN4eWVzS05KVWZibDFrWnUyX3FWU3oyUGdVbWZpd2ZqY2VsRl9KSGJYZnJyak9WYmR0MmREV3ZpN2VEWlc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-29T00:20:13+00:00",
+      "score": 69.45,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkxIVnZWY2tXd2JEY0VpNlVmUlVsZ0ttNkFtNEFZbW9VNmhZdXVUcWtnQTc5djlMdnNhLVN6OHZBUUVtRWdGTk1vZm9nV1J4emxJV1ctSm9yU2hFMGdjVVpzUzBFTU8yYTN6dEoxQWhMdTBUVUsyNG9QZzQ5TW1uRlF6UzFSNklxQ1N6MmE3UUE3T3ZxWU04b2hHd3VJN2hWYjlpU1JFRlBMUQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-28T21:03:00+00:00",
-      "score": 70.17,
+      "score": 66.31,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -86,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMVNwMzFYZ2RWblhEZEJMbWVzaVJUUXpEeU1qSmVmRXlkcTE3Y1pkUnFjVklqVG9iQXZiRkxPYUtWWUZHQXJJMEFzWVZ0U2dOWGZlaV8zZlFkdUNOeGp3Y0hCbVExYVdWWXEzNmlaQmxJS1BlNE9OZVJoeGNjdmxZU0tNZHFXcWVfV21ZT0tQOFFTbG5XZE9rcG1MVndVWUVueXJJaUZLZnZESWlTcXVBTlZwc245X2VkVEF0MGhUcHBSN2dXWHZPbmhTcmRwVXZqazBxREJxMURBTGw1cEFVbm1LNGVPN09VOUxzY1c2aVBTaHk0aHRPTTJlTktjMnVPQVFxWHdGONIBogJBVV95cUxQcFlDQ2YzUjV3S1NyT2RJb1lBYUEtSFZvcWV0WndHZlJ2M0J6SDEzMVZkLXBRMUdpZGJ5U3FqbWRCUzZPTno5b3dIM2haQ3RER3UwbXNGbEQza2diNWd0em8xLVQ4Ti13UHJzLWtfeF9WZS1HS1FWOFhuUjI5SjI1RDlrSko4Q1RrSl9iTkRiUjBubmdiYm8tN2gwMjhJUVNPeVJfRUFYOWUtdmhEQk5ETmlwTGhTTmZPaUFDay1tTDFoN0NEOFU0X1hkVTJFOEozamlDaENQekFkbjNpU1I3bDFNZmRFRGRiNnF0UlJ6QUtmUVBSbHkzbWRTdnZpbk9ncFFnbF83X1ZsM3JtRHEtcVRxTGVkb0JzR0M4RHNPRmlEUQ?oc=5",
       "source": "Infobae",
       "published_at": "2026-08-28T22:14:00+00:00",
-      "score": 68.4,
+      "score": 64.4,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -101,9 +131,24 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDRiTEJGY0htdEgtMWVkUXl6TmJ5TmdHRlVnbl8wZEdmbXNUS1JXQW5zZHpLeF90MnVaNWdOYW5fTmxCZTRsWjlMRlZsTGMxU2cyYkZZeEw5T2VsTTIwQmRmbmpWejR3VW53em9JVFl5UUFHVTBuM3licjVQc1FmbGpHUFd6blhTcVpzOFNMNnlIVFZBendSSHhXRVFKOVFZeHJsSVc5b2Z0a2pJbzNkVnRqQWZJRFltdlE?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-29T02:16:22+00:00",
-      "score": 67.9,
+      "score": 63.43,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3fd9522c0a5866ec",
+      "title": "El eje CRINK, ¿cómo se unen los enemigos de Estados Unidos para debilitarlo? - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHZyYTZucFpGOVU4M29USjNOc3NxOXFQd3g3Z3hSZVpEaXRQTzFaUmxiOElXNXVoZlNZbTlicUJYSWozS3pPT2lpekNnajNYTWlvXy1PdXdqclZoU2h3M1FKT2NrUXZSZ2lIZEpOYjlJNTlCTDdtNUYtaXlBZW5CRHlsSm9qSjh2THpOcjNia2ZlZFFMVmRSdjhYa0xMdjVOV2pENVN6Qmdib25BcTZuaXBpSdIBzgFBVV95cUxOWjkzWTFLN21aRnRpbGtlX0xUdXJPaU1HTXdORm1fcW1leTFUOWVWNWpkQzFzWjY0RFJPRC1iM3hXamFlQUtsTDR6VTFuUkZlQjBEY3JYVURWSzZBUmpWTjlBX1M5NUxqcWVTUjllRmhCZkVpNVlIOWE0MFlabllOekhYS0tXOE1mcEdBQUNoQWREWDdIVmlvb180bmFWeVdNbWNPb3dHZ2lGOHB0WE9wR0ZERHFTdnAtSFNGaUpzVTFIRjlwakJibU9UQmpIZw?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-08-29T04:59:25+00:00",
+      "score": 63.41,
+      "corroborating_sources": [
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN25ZYWZpSEwtVUIzV0dXSjRtelhqSmZ2VFlpQ2JlS0xRbkJXb2RUc0l5TmRSdmM1YnVKdEdzeV9uVEczb3B6clY5Q0RXSThjbHpHSGp1VkNzU0gxeHk1Yk9XQkNGaWFmcWpheEJYNUtrcDdvZ19yQlZGSzBwbzlvXzdDVnd6YXpOSjlVZzFOZFN3bGdwV0hzN3oxcXB1eEFSQ0ZoNWRuTUhvZURmb3ZzZHhWWndaSy1ScGtQQ0R2RUNZYWVfUjl6OHJfTnZFTGhk?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-08-29T03:41:26+00:00",
-      "score": 66.6,
+      "score": 61.96,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -131,54 +176,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDVXb1N4YmtQanJ6a2JpWHlkbDg2LXNrWTBUdWU3YUFRVUduSlNDNUlodkVXVXU1RWo4Z0VJM2FXRTlST2JZcmZvdFZUenVtbHZBYjJVSk00VDFra0dBN0Q1dmpIcVZMNUs3YXIyZGZEcVUwWC12VDFkZ0xKMjJPcFhKSmRXb3ZwS2hsSHd6Z1RJa05HT0c4aVVMRVdPc3FybnBvOEI0QUZfX1dfTWk2QzZyV3N1SURoQmpHQUIwQmVwWUZBYU04Q1kxcTJaTTdjV2lR0gHYAUFVX3lxTE80VHlLQUV1ZjI1Qy02TjNyd05Ka0NUY3NTdmVjOEstUm9JNC1BUFY4dWRDX3Y2bTJGMVgzR1ZQV0l5dTVqSHQxXzJnSFZQUEN2LWs2M3pTSTl3OGQ5WVdjUFpSSzA0MUgybHdSZEtOMXNMclJzdEtFZXU0azZYRF9XNmJGVGxHc0hkb3dVRjVLMHZ4a3RBNWZub1hxQ2h2QlJrcEdNaTF3WG45UnhZYlo0X2RWYzI1UkJmMlFNRXRab1lRNUV6cjU3QlVKRFdlMXdVcmsxNm1hYg?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-28T15:00:00+00:00",
-      "score": 64.5,
+      "score": 61.23,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a8b751ae1cdf6ded",
-      "title": "\"Espero que não seja política\", reage Celina Leão sobre greve no Metrô-DF - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHVHTENzcmhKd3k2X29GR2xTaGw3OHlkRUVMV3kxV0ZESWFHemJqc2w2U1JtYmhYX1BpUmZZTXZYN2k3TGpFd3RGQ29ZOHM0cFh6eFNsbGhGRVoxTEpTeFQ5blROcGY1MWhta0lrY3NQdFJ0UXNSalUzSW5ycTJMbGhHRFJza2pSaFFVRWNta3lZTUZqczZDTWhkSFNBX3hFOUJyVU1lRHY5R2MyZnBmMg?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-28T14:25:00+00:00",
-      "score": 64.0,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e49d35860cf80782",
-      "title": "Violência 11% do PIB do Brasil, diz Fachin - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYU1HNi1RanpVSTlySjlmMXh5R2hyTU54WUZWc2swTUJCMGhaMWU4OFMxelRpYUV3RnpaeTUzRWc4MExCeW1uNFhVWXV0TWxDa084QklyOUhSNGQ1Smx3MG5EUy1zck5hYk1XZVByX2d5UUtDNU1rbFROU1BKNDdlUTRBc2dtZl9yOWJiX1Y1SlFka2UzemJzeFJNQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-28T22:29:57+00:00",
-      "score": 63.68,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cf6495e83d2e71ad",
-      "title": "Campanha de Lula lança site que liga Flávio a milícia e Banco Master - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzQ2SXV0Z05FUlIyMXdsblZJeVFwWGlYbGlwWllNRi1OeDJfUjl6cnBRR01fYVJ3V0xRbFF0cFo1MjkzcmF4OWo0N2RPLXJUQkU3RTdFMFZTY0JGVmhDbnZEQkRpdVFvcEhuU1lFdWRiaEdEVDNDX2R1UHBEeFB0Mk5wV2hCbXB0UTV1UVZ4T1lCektaYVUxcnR4YmN5OWowVlZZLVJ3UDVId3ZyRFNaMGtB?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-28T22:19:57+00:00",
-      "score": 63.5,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQklZZmdYM1JUc3A3WXVxNV9IQl82Vzg2Qy11bjFqRDRjcmFqU1VBQmZpN0tZbnRKVVBkTDlWVXhMUmZDcm1MX1liMVNnakRxcXNtX0p0cWptN3R0UzJ0UXRFUFJiUzJzSW9oazM4MGZnZXJsa3prOGhHNjBPUXhZcUxVLTM4WS11b2NzNk4zS25pQzZGVXVzazN6X0tXOFE1RFlhdm9pT2taVXZSblZMbXJ1WnpBRXBhX2JGNmtGOVpYWVJSeXlQV2lTeUExV1RQTG1j?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T02:03:00+00:00",
-      "score": 63.12,
+      "score": 60.84,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -206,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVBLSWtxNjZOTHNNZUxYTUdMM2VoUlZfQm9tOVhvX25JQmw2VXIwTmprVEY3a2F3TTdFb3NOYV9zZHVCLVVtQ3JFTFRHMzBJMVFIeXFQLXp5VWxKY2E0ME01eVBKaDRWN0pWYXBoZmM5ZlZhSHBma0NjbjYxQjRQTE1mSHpRVUVlRTFGNWFnV3VZOFZoR3J3NHRmbkpYcWRYd3liQzJPTU1aaWRvdEpycFg4ZndOdm1OcC1JWU9DNTBCNEtEN3Ntbw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T02:00:00+00:00",
-      "score": 63.09,
+      "score": 60.82,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -216,14 +216,44 @@
       }
     },
     {
-      "id": "90698b9453e193af",
-      "title": "Trump Administration Looks to Give a Swath of Yosemite Park to Developer - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkY0X0RQbFpPNDZmaS1Ga2M5QVFDYVNWdWJNVnltbmI5cUZ1U0xpTGtNVWRLMy1obXhORTVxclN3Q1BsTlV0OFBJNkRSb0lwemVSeVNTZDliY1BzNmpSUGppekJsTHE0SVljdmlSTXQ4anQ4V3Qzb1ptOHIxTEJjYWN0MU1zV2pNLVlhWER4cTRjbUh6bWRmSkVha2VxZkZxcWpiS0tkaUlKZ25lRGhFMFI1eE9pRGJiWjZ3NHBpSnY3YXg4OW1PQTQzWQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-08-29T00:11:11+00:00",
-      "score": 62.51,
+      "id": "a8b751ae1cdf6ded",
+      "title": "\"Espero que não seja política\", reage Celina Leão sobre greve no Metrô-DF - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHVHTENzcmhKd3k2X29GR2xTaGw3OHlkRUVMV3kxV0ZESWFHemJqc2w2U1JtYmhYX1BpUmZZTXZYN2k3TGpFd3RGQ29ZOHM0cFh6eFNsbGhGRVoxTEpTeFQ5blROcGY1MWhta0lrY3NQdFJ0UXNSalUzSW5ycTJMbGhHRFJza2pSaFFVRWNta3lZTUZqczZDTWhkSFNBX3hFOUJyVU1lRHY5R2MyZnBmMg?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-28T14:25:00+00:00",
+      "score": 60.78,
       "corroborating_sources": [
-        "The Seattle Times"
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e49d35860cf80782",
+      "title": "Violência 11% do PIB do Brasil, diz Fachin - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYU1HNi1RanpVSTlySjlmMXh5R2hyTU54WUZWc2swTUJCMGhaMWU4OFMxelRpYUV3RnpaeTUzRWc4MExCeW1uNFhVWXV0TWxDa084QklyOUhSNGQ1Smx3MG5EUy1zck5hYk1XZVByX2d5UUtDNU1rbFROU1BKNDdlUTRBc2dtZl9yOWJiX1Y1SlFka2UzemJzeFJNQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-28T22:29:57+00:00",
+      "score": 59.66,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cf6495e83d2e71ad",
+      "title": "Campanha de Lula lança site que liga Flávio a milícia e Banco Master - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzQ2SXV0Z05FUlIyMXdsblZJeVFwWGlYbGlwWllNRi1OeDJfUjl6cnBRR01fYVJ3V0xRbFF0cFo1MjkzcmF4OWo0N2RPLXJUQkU3RTdFMFZTY0JGVmhDbnZEQkRpdVFvcEhuU1lFdWRiaEdEVDNDX2R1UHBEeFB0Mk5wV2hCbXB0UTV1UVZ4T1lCektaYVUxcnR4YmN5OWowVlZZLVJ3UDVId3ZyRFNaMGtB?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-28T22:19:57+00:00",
+      "score": 59.5,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODB4d2p3cXg4VjNSTHktSjFMMVVRcW1HdUdadXc4RmtGSmx6dVcwWXAtVHd0Nzk1S0xfWkg4THBXZGdaa0Z1VTYtdkFHYjZsb2ozQmlVbWNESTdfZmhVMkRiRzk0SmJ4MV8zRGhYM2NvVzdRSU1xODBtRWZjMTJEWDVQN2ZQamxUaTdEQm83cGdubGo3VERnMzVRT3h4Ty1LbVRUclJ2UzI2RVQzYlQtQ3RLZ0JPWDVSelE?oc=5",
       "source": "El Heraldo de México",
       "published_at": "2026-08-29T00:07:00+00:00",
-      "score": 62.43,
+      "score": 58.23,
       "corroborating_sources": [
         "El Heraldo de México"
       ],
@@ -251,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaFZMVk1WTk9MOVVpa2dYc1N5Tzk4MVVRX2xoQTREalJQRDVHYmt2eFNaTHduVE1mLXRKdWR1b0x0U0lxLWk5QWpmZGJvMFgtRWI3OC13YkR2YkVmUDVqV281XzJ0eUk5Q1ZRQlVjZHNzcnotcWVXYzdmR0hxRE9hd0dJX3pRa0d4cmljQVB2RWdRUHJDZ3dzZXI0N2ZlS2dtdFZITlp3cWJ1TEgydHhFcjRtd0MxVDF0UjNlUi12eDhwWjJwLV9oekg3WWg5LW9aUm9LVGJTWjlQNGU0UXpVY3hFWmxQVnFXTzFmZW53?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-08-28T13:14:33+00:00",
-      "score": 60.02,
+      "score": 56.91,
       "corroborating_sources": [
         "Daily Herald"
       ],
@@ -266,9 +296,39 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdU1fcmxzTkRqVTl5a0JCbGxrdEV3LWp1d0ZkUE1QQjUtZkRvSWJxMEZKemwxazloQ1N3UXAwQkFmNEtfamk2LWJ1Y2FPZHQ2SnZNYU52UmF5cTRrZzliVG1URGY4TmswMktVX1MwV3FwUUhNWHFTZFNsLWo3TWliY1BSbkc2WGZQUkR0VWJjNnZWeWktdE82aDVJNzQ2M3lleEpMT1M3dDhRbFVSVmtwbUQycnB3d9IBuwFBVV95cUxPN3ZGb2JZcDdkanZlaEg1OVpwTEZaWk1Xb2FhRnB0VGdNOE5ERVZmdUJKNUVCbS1BR3Q3NHljSlRFbnJHS3JxaVhiYUhfMTNWYXktb0JfZXhiYkpMT3l5OGhkMHk3bzBZLU15N1FkNWxiNDVETzhRbHIwNVhpdk03LWNidFR2S3Q2Q1NpNGF0TmljNkpyLW5yVjBUTFgyeEJRWkVkTFljS3JWYzVWQ1pGdzZObUlISnNCdXBB?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-28T18:11:18+00:00",
-      "score": 59.37,
+      "score": 55.8,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "62fdb1140ac7fbd7",
+      "title": "Operações contra bets gigantes expõem fantasmas da criação do ‘mercado cinza’ das apostas - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZG1adFNiTEQ1aEZJTGdsaDNLSjczb1RPamRfdV94QWFuX0d2NVM0YllsRjBOU29XNXZaeHp4U3BvSy1fYXhwTlZwVHVKMUxCdWNtQ0p5MmVBS01MOXhtaDJzYVpwNTlNSDZBOWRLT0F1cm4wVFV5TU1pVERBMTlDVHgxQ29mdlBSMjU2NjlFYzhuR2JPc0ZrM3J4NUxGMU9lYmNfMWRkeWNMSXl1ak11RER1SVdhUWtudXE3UTVWa3BrY040Yko1NmNZV2pqRXBHVXZseFpfUF9rbUJhRjBUWGxPbWhqWGhKVGc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-28T17:59:23+00:00",
+      "score": 55.63,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0bf6ee190e621536",
+      "title": "Borrell asegura que la política exterior de España “tiene un coste” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWlQb2RfTkl3VUtIR3NPRGU1bU5jbzZBd04xMlZaM0NLMnZKeklkRDhwTXJkWWE3QnFUZndyN1JjZ3B5YVQ5cnNqSG9yZmp2WHlLbU9lSndFel80cDNua2IzSVdaRFZpeVJKUjN3V1l2T3pXcG50TVpveEZuZEFVRjR5Ym9DUjFfV3IxMDM2Q0U3aWozeWJzVXBQWF9NS1V4ck1yR1FldHBTNTDSAb8BQVVfeXFMUFEwWDNHMTBnQ1V5Wm5zcEhSU0RReFlTeS01WldrbzlMT0FoSVp2VlZ0TFNzblpDYnBQM0UzQnZTTFJQbS15V1ZfZThsdmhKQnZLeXQ0cmhmTTdlRldEa0tlQzk5WlBzbEhwd0dMYzYwREhPeGw2T2otOW5rajFNU291dEp5U1c3ZmxWLVpxeUdVNmVCM3FFNjIxSWVLcmo4bGVmbFBHb1c0WGxsTUppTXA5dERLOS0wRGZ2ZVhXOFk?oc=5",
+      "source": "EL PAÍS",
+      "published_at": "2026-08-28T11:06:40+00:00",
+      "score": 55.39,
+      "corroborating_sources": [
+        "EL PAÍS"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1B4cjNXY0FmTUoyaEt0U25mUXItdGVNaldDN3VsaUhXWEdCdzMycUdnbXBoUU1icGRYcVVPM3RGQUlaZzEyU3lZdzN4WWNGamRzX3RxbV9scDluMlNrMnlLdVhRRzdETFZWWlNaZmtXblFfUmU1VjlPTWNubTJUUlQ4Tm5GdzY3cm53UmVzSjdmdHIyU0dRRVlfbk8zMmpoaFNDdDRCNDNHVm1JMlNsbDlERQ?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-08-28T20:56:00+00:00",
-      "score": 59.05,
+      "score": 55.2,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -296,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWwzaU9WdFZUVjdzb0ZXLVFrVWYtenJCeFE3MmNOQmZmb1I3YkpjaGMxcEZKT3NGX291YXVvMXBHLVQzYklkV2JVQm9hbU83WnlGSllxMFJpNl81aFJyd3pDdk10WGhDQW5tVExmUGU2SGNBMUJVYW9YckhRS2U3VHg1SjI1bWpDOWw1QVJaQzVjMXp1OXI4VW1XSEtueWNfY2tBeg?oc=5",
       "source": "expreso.ec",
       "published_at": "2026-08-28T20:15:10+00:00",
-      "score": 58.37,
+      "score": 54.59,
       "corroborating_sources": [
         "expreso.ec"
       ],
@@ -306,14 +366,14 @@
       }
     },
     {
-      "id": "0bf6ee190e621536",
-      "title": "Borrell asegura que la política exterior de España “tiene un coste” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWlQb2RfTkl3VUtIR3NPRGU1bU5jbzZBd04xMlZaM0NLMnZKeklkRDhwTXJkWWE3QnFUZndyN1JjZ3B5YVQ5cnNqSG9yZmp2WHlLbU9lSndFel80cDNua2IzSVdaRFZpeVJKUjN3V1l2T3pXcG50TVpveEZuZEFVRjR5Ym9DUjFfV3IxMDM2Q0U3aWozeWJzVXBQWF9NS1V4ck1yR1FldHBTNTDSAb8BQVVfeXFMUFEwWDNHMTBnQ1V5Wm5zcEhSU0RReFlTeS01WldrbzlMT0FoSVp2VlZ0TFNzblpDYnBQM0UzQnZTTFJQbS15V1ZfZThsdmhKQnZLeXQ0cmhmTTdlRldEa0tlQzk5WlBzbEhwd0dMYzYwREhPeGw2T2otOW5rajFNU291dEp5U1c3ZmxWLVpxeUdVNmVCM3FFNjIxSWVLcmo4bGVmbFBHb1c0WGxsTUppTXA5dERLOS0wRGZ2ZVhXOFk?oc=5",
-      "source": "EL PAÍS",
-      "published_at": "2026-08-28T11:06:40+00:00",
-      "score": 58.32,
+      "id": "f580a3c98e00f061",
+      "title": "Em jantar com mercado, Flávio admite composição política e evita atacar STF - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlZ3NVplVWpwbGFXbUpxaHd2TXlFczRTak9pa014MjRCRlFya3FZNjY5RFpfSjNsVFN0WVAxWVZkb1MyT1dUN3E5VTJnMWhPVGZFUVBrTmUyenFGQ2xDWVVUV1BRVWRDUnA0UjJCWGd3RFJwUFZVUFkyeV9PblFpdW1CUzd6bVZKVlJldjRTd3pTclJSeWc4bjFPb3pfelZXZXp6OUdJQ3NHVGhqYXFGV3QybTlWUC02OVA4XzBkUQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-28T05:00:00+00:00",
+      "score": 54.5,
       "corroborating_sources": [
-        "EL PAÍS"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -325,23 +385,8 @@
       "title": "Oruro y Arica fortalecen integración comercial y empresarial - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnoxTFhnazF0Sjk2WDJYcEktZk5BUldGNjdJeUZJb1RHVUVQa3N6LWJUUXV1X1ZzeVJZYXFnMm8xck92YjhRWDJHRnhQdHVNWVkxOWhqeEtBZjFiMEdqQnRWc1BJMUNPZ0xhaWtJNmFDQ213bDlhWjNISFhxcHVrWnlDbURvVGZSc3RSVktPaFlOUlk2OFh5SFNBYVVTWVNYNkRRMklvbnhzQUU?oc=5",
       "source": "La Patria Bolivia",
-      "published_at": "2026-08-28T19:47:36+00:00",
-      "score": 57.91,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "44cc9655808db807",
-      "title": "Fallece Oyo Rukidi IV, el rey más joven del mundo - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDNfaTNxRTBNWVotMDRNWEpGM1hma25zWmNFNWFtUEtnbGhCYzZVTElaSUdSVzJWcmNtWHg3OWdUU1RJV1FhNmxLb21YckV3ekdHUmEyemVKYXlmTWhkeTVoLWEzbVNRTmZQdVA5ZDNKaHhFQnUzTFg2eHdHWl9PYVY3YTV6bDBUUXE2TEtCVVdwUQ?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-08-28T19:02:42+00:00",
-      "score": 57.18,
+      "published_at": "2026-08-28T19:47:38+00:00",
+      "score": 54.18,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -356,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1ZJZXMzTm5sTTdhU09RbVUxaVAtckZKdjJDZ1ZyVWt3cTFjY0d4Ym83R1lzSjZXV2hzSlg5Z3RMR3REdkNtRFZySnE4S1l6VVNhZlVVbzhRdlRjczBvUm9nTUxEM0plNkZ1S1ZwWmFaQldNNzVLS2ZmWDJpeVFCV1BKdEJ0R3BOOVl6NzBsTTlTOWdIdUctZTA3TkpIVWlCZ085bGxjTktzRl9pdjExRjlIc3ZHUnppWVBseDFwaHJzbnRxME1mVkkyZFZQM2pxX2fSAdcBQVVfeXFMTnJwNGxocGlRZXY1UklZTWVuUG9fR052cUJMX2pxdFl1MUMyczBMWlQ4bTFja0d3UUlMQ3YxcERLaFhNb3dKNzdSOFYzUDJtNmUtb1BNWVU4WUVxeGxkVzY1MlQxV3ZxREpHRHNGM3dMMUN1RTEtb1ZOYnJIbU9yQ1llSkYwRThuZTN1T1lmczFCNW9weEhWZXY3dUM1S0VEWjJfWDNVTjhhWWE2QzRMU1MwaEVkOElDeHhMZmZwTURqLWdxVEpvWHBmcWFQamtndnR3dmpqZWc?oc=5",
       "source": "Estadão",
       "published_at": "2026-08-28T15:44:00+00:00",
-      "score": 57.13,
+      "score": 53.8,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -366,14 +411,14 @@
       }
     },
     {
-      "id": "f580a3c98e00f061",
-      "title": "Em jantar com mercado, Flávio admite composição política e evita atacar STF - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSlZ3NVplVWpwbGFXbUpxaHd2TXlFczRTak9pa014MjRCRlFya3FZNjY5RFpfSjNsVFN0WVAxWVZkb1MyT1dUN3E5VTJnMWhPVGZFUVBrTmUyenFGQ2xDWVVUV1BRVWRDUnA0UjJCWGd3RFJwUFZVUFkyeV9PblFpdW1CUzd6bVZKVlJldjRTd3pTclJSeWc4bjFPb3pfelZXZXp6OUdJQ3NHVGhqYXFGV3QybTlWUC02OVA4XzBkUQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-28T05:00:00+00:00",
-      "score": 56.97,
+      "id": "dc7b7dcac7da20eb",
+      "title": "Chile, Argentina, Bolivia y Perú firman alianza por minerales estratégicos - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjdaZzRWa0VBMmZjRU8tNmpyMWtkdDkxUl9NR0tRQlJ2RDN3NGNvNUR6bXIzdU9wbzU4VGxKb3NkWHBWcmRrQ2VkajQ3MjU3SEVXaWlKZkdYY0NUYmJKem1HT3JHdEpLUUR3NXlTZlY0aHNXN2VPM0prb3ZyLVp5LTBUbkZ5dXpNR0E5c2ViQzdyQ0Z4SEJoS1czTE1WMGZWUFN3?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-08-28T19:10:36+00:00",
+      "score": 53.64,
       "corroborating_sources": [
-        "Metrópoles"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -386,54 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY1pxSEkxbUJGNWdNRDc5Yk5INkF6Vm9QSDI3UmR0ZWxwZE50UDJSWHFvUlZXcldVWlRYazMyd2hBZVE3OXU5NDhxeTM0eXpoekhySk8wVi1odGh5V2RGeUUyU2oyNFdWRUt1anBzT3N1QTlZVC1iZW1UZVp5V0p2ZEhoRDdfNkhNSWxfYnN4OENaNTNoR2ZNM3NDVUgwaFBabEQ4N0RNalAwTlBpYU5GZERscF9Cc0J2NXpfNnJxZXg2VzJfTjUtYzJOX0Y2MnRiamE3V0dXQndRN1NqZlhzZA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T15:28:00+00:00",
-      "score": 56.9,
+      "score": 53.59,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dc7b7dcac7da20eb",
-      "title": "Chile, Argentina, Bolivia y Perú firman alianza por minerales estratégicos - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjdaZzRWa0VBMmZjRU8tNmpyMWtkdDkxUl9NR0tRQlJ2RDN3NGNvNUR6bXIzdU9wbzU4VGxKb3NkWHBWcmRrQ2VkajQ3MjU3SEVXaWlKZkdYY0NUYmJKem1HT3JHdEpLUUR3NXlTZlY0aHNXN2VPM0prb3ZyLVp5LTBUbkZ5dXpNR0E5c2ViQzdyQ0Z4SEJoS1czTE1WMGZWUFN3?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-08-28T18:44:14+00:00",
-      "score": 56.89,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cb9c1628d670afce",
-      "title": "Borders as Violence: From Territorial Lines to Distributed Practices - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41YlBjTlVoQjFteldIN3JBaTJDRVctVkZxbXozdlFhMGxLUWV2NUp5UXhidEVFZVg4MlNGM2NlLTdISV83RzBQdWlhUGFVMVVVMnQ5dHZUajdHNnh1SU5lUF9vdkdVbXhVUTBR?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-28T17:51:34+00:00",
-      "score": 56.06,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8815245b9050f2ca",
-      "title": "Moro lidera todos os cenários de 1º e 2º turno no PR, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzBlcTh3MFFCS0RxdjhiaVc3ZzBzWnVqMExpOEhiVGZNRjZ5dUhGWTJUMzgtNU5SZ2ZmR19ScFRQekRWck9ibzNNcDRjQmRpckF6YmYxeTVENW8ySFdGVFhkanhNZHJBc05yck9HMHVSSFZfTjR0b1p3emRRMWJIZDVpS1dkSkgzZTdGemVaeGRUeWtqVFZPNGtSWnhxUGJmaEl1X1locHNPUHJjQXlLVUwwQlY?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-28T14:13:43+00:00",
-      "score": 55.84,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -446,7 +446,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjZrRjVvcktZZnp3NUg3WS1KWVZ3MmVmMzc1cV9qcjUtQUpPd0Y0Y1NXcHIwSWRBanhlTkRLdWRabXBMaVhobl9Vd2x6LXV2aFlBSFg4VFptand0aW9SZ1VTdGo5bVROZ19iRmt5QVVoeVVxMjJIQnhBaTNBbF9ScHV5SmEwQk13ODYtZHZmbkt1ZW11eVFKZUNORXZZZm85N01DVVdiWQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T02:00:00+00:00",
-      "score": 55.09,
+      "score": 52.82,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
