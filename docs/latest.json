@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T16:23:49.191349+00:00",
-  "next_update_expected_at": "2026-08-30T20:23:49.191349+00:00",
+  "generated_at": "2026-08-30T20:23:45.388162+00:00",
+  "next_update_expected_at": "2026-08-31T00:23:45.388162+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,7 +11,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYVRnaWZXSUs2Z0NjWGlCVmdXYld5T0tLaE8tWGREb1pDWEJtelNXOUhLLTU1c3VNOEVJZU9kTmJQdVp5S0ZlUGFRZUpmWVRoeG8tVkZQRVZoSDRVblM4MElsSVhodlpNZ0hTcGh4WkNTQmxuZ0RuM0NJbERqaUdGcEZlUGtlMThiQVkxZWdnVUpPZDBLQ3k5VG11MGphbldjeG9Lc1dzQjZGeFZ2aWNlekZDV3hBNFNXdFZzNGhnWXhZTDJsc3B3YnRORFg4M0l0WmJNc1NXd090WVVDakpYcy1ibXluMjBVV2xfM1l3dkg1WGE0WTlR0gH8AUFVX3lxTE9qWUVRU2djejRWUlVnY3FNYjFRSGNRNlA0WWtrNjNnendtcEtoam9YQi1UV0JYcmtSN19TV3NJd3dwNi1KNHZDcUVXbUJ5ZmQ5akJHc1VkeUxwZGo4cU5Mbm92Umt3TXJkRzJlR292RGVtU3lzNW5FZk5LWGZaRDRWOW9JQkQwaXR2V3Y2UGFxQUFNQ1NLTmRGZlZlSFhycHlQS1Z6TzRPQnYwOFIycEdQVGlHRWtUYndENmhIbHNQblZQaVpNaW5URGt4Q3FsU1pzcUJaQ19YLUp3cXZxQ213YW5TM2d3UFpJWFVhWHZHdGNjNmVwY0t0NWZTUQ?oc=5",
       "source": "El Litoral",
       "published_at": "2026-08-30T10:02:29+00:00",
-      "score": 76.19,
+      "score": 72.23,
       "corroborating_sources": [
         "El Litoral"
       ],
@@ -21,14 +21,29 @@
       }
     },
     {
-      "id": "2e8a07accbacef16",
-      "title": "Cómo la geopolítica global define el bolsillo y el día a día de los santafesinos - El Litoral",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnVzcE9ITEc0b3FwOGF1WTNIaEZBNG5IdHZaYVp5YklYbFE0VkdERXRnSHdlbG4xeDBtVVFwbHlMTU5FZ2tLSUtJWHlmclY0R2JER3E2b28tUHc2LTdibGhQU1NhMVcxcDNvSmJjNnhGeWdEblN0NjVERW80UDQ1bkxVZ2JmUmQwQkpidWxMclZuU0wxUEJCbFhjS0Frd2hwa3V6VWNrUXJrZlFyQWJYY2w5el9xd1VQU1pzYnM5dFFWa1FGTzctatIBzgFBVV95cUxOckhPYlRwMzhpN0V0ZElSeWdqak1JNWg1bGF0ZFpmckhMMGR1QnJ2WU05MXR2N1BSdVRqQXRlbjZNajBsbzQyQ0pnQmw2S2pmb2t4Z3hFX1ZoTE1EaHRqQi1NaVdwTFY1QzA5SFBlQmJPQzRwblM2NnhyUWJZMlZDYXdFX2s1bXNzQzBMTzVpZHlyRWVmTEVOQVozTnpBTHdzWE96eTU3c3hnVjRiUVNRMzVUbzJrbXRVMWdMbmhhMU9iMF83WEJCMk41V21jdw?oc=5",
-      "source": "El Litoral",
-      "published_at": "2026-08-30T10:03:20+00:00",
-      "score": 68.21,
+      "id": "b067d4c5665d4311",
+      "title": "STF debate democracia e IA com especialistas de Itália e Espanha - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb3FBQ25hQV84V09scmJ4ZHJLZ3Y3M3NNMUl3NE5veU92ZmNGUnpSWlBWRU1JdzFMa1BCNVJlUEZwNDJYVHlRbUs5U3RXSk1vdUNVbEtwSnNMQ29RMFZUM3VWZEEtUUF1Zk0ySmJjNlNIQkN4ZHEweHhsZnhxVVhrODdrdWRJdDJlaXpMZi1wQnlWUDZRSmdwZFpCS084N0g2REEtaUg1dmJnZE0?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-30T11:58:23+00:00",
+      "score": 69.09,
       "corroborating_sources": [
-        "El Litoral"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7df4fd724879c460",
+      "title": "Change of Names in International Relations: From Appreciation and Self-Protection to Cold War Politics - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmdYT3dQZG82UERkaWZHUjE2VjloeDB1cVprLU9UNkw5TndZd1gyMDY2U1AwWVZ4UFg1aVpWSGtrTC1HQXI0RFA3M3l5dXdzTTc4anVJNzBGdTlIZnZ6a0RuOE0yOTQzTExvNHFVUm53dF9DVno2WGJINEdoOXNjQ1R4OWNwYktjcGVONXhGd1V4SG9keDJHVjI4TktwcnFaemRjNUZ2UVZYS3hRU0VPQXB1Z2hQTTNpZjQ1YkI5Vl93SS1MWVhTaXhiQl8wRVFhZnZGX29uSTg?oc=5",
+      "source": "THISDAYLIVE",
+      "published_at": "2026-08-30T01:18:06+00:00",
+      "score": 64.95,
+      "corroborating_sources": [
+        "THISDAYLIVE"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWmZ0N3J3TjhpY191Y2VZVTVpLWdCUXlCcDNGRGNFVlRKR0FvU2JSOTNpWTREaUdkQmJRR1FleHE0eVc5UUR0LTJVOEhWR2ozTWpPVGtMQ1NNT2JZY29fcGw2UWhRbG1ELVczZm0wMkExNmFFbjNXVjZzMlJZdWZkSkFqUmNWZFBOZUhxd29pb2RqdzJRTzRqWWJPMHVQY3hscWt2VVc5MW9mclhZVEMxZDBiZUc3VDN0OWI5YkFJSnlxU0U?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-30T07:00:00+00:00",
-      "score": 68.14,
+      "score": 64.49,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -51,14 +66,14 @@
       }
     },
     {
-      "id": "7df4fd724879c460",
-      "title": "Change of Names in International Relations: From Appreciation and Self-Protection to Cold War Politics - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmdYT3dQZG82UERkaWZHUjE2VjloeDB1cVprLU9UNkw5TndZd1gyMDY2U1AwWVZ4UFg1aVpWSGtrTC1HQXI0RFA3M3l5dXdzTTc4anVJNzBGdTlIZnZ6a0RuOE0yOTQzTExvNHFVUm53dF9DVno2WGJINEdoOXNjQ1R4OWNwYktjcGVONXhGd1V4SG9keDJHVjI4TktwcnFaemRjNUZ2UVZYS3hRU0VPQXB1Z2hQTTNpZjQ1YkI5Vl93SS1MWVhTaXhiQl8wRVFhZnZGX29uSTg?oc=5",
-      "source": "THISDAYLIVE",
-      "published_at": "2026-08-30T01:18:17+00:00",
-      "score": 68.07,
+      "id": "2e8a07accbacef16",
+      "title": "Cómo la geopolítica global define el bolsillo y el día a día de los santafesinos - El Litoral",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnVzcE9ITEc0b3FwOGF1WTNIaEZBNG5IdHZaYVp5YklYbFE0VkdERXRnSHdlbG4xeDBtVVFwbHlMTU5FZ2tLSUtJWHlmclY0R2JER3E2b28tUHc2LTdibGhQU1NhMVcxcDNvSmJjNnhGeWdEblN0NjVERW80UDQ1bkxVZ2JmUmQwQkpidWxMclZuU0wxUEJCbFhjS0Frd2hwa3V6VWNrUXJrZlFyQWJYY2w5el9xd1VQU1pzYnM5dFFWa1FGTzctatIBzgFBVV95cUxOckhPYlRwMzhpN0V0ZElSeWdqak1JNWg1bGF0ZFpmckhMMGR1QnJ2WU05MXR2N1BSdVRqQXRlbjZNajBsbzQyQ0pnQmw2S2pmb2t4Z3hFX1ZoTE1EaHRqQi1NaVdwTFY1QzA5SFBlQmJPQzRwblM2NnhyUWJZMlZDYXdFX2s1bXNzQzBMTzVpZHlyRWVmTEVOQVozTnpBTHdzWE96eTU3c3hnVjRiUVNRMzVUbzJrbXRVMWdMbmhhMU9iMF83WEJCMk41V21jdw?oc=5",
+      "source": "El Litoral",
+      "published_at": "2026-08-30T10:03:20+00:00",
+      "score": 64.24,
       "corroborating_sources": [
-        "THISDAYLIVE"
+        "El Litoral"
       ],
       "signals": {
         "source_count": 1,
@@ -70,8 +85,8 @@
       "title": "Lei Rouanet acelera sob Lula e capta R$ 10,7 bilhões desde 2023 - Poder360",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDBFcC1VUkRKa1ZSSzZNeno3TzM0Rm50VVFQSm9lLXU5MEdWNENfSGNVY2pFczZ3NFJCUVZiYjljNzVMMklWUFk1WkV3SGpxN1FyeVFmZ3FGVzNiOUFJS2FOZnQ1M2gtY2dBLVZfMFRsNnJMS3Fzek85SXh4VkJBRUZqTDNXOXRST2FJbmtST0lRcXNpVGhleDZoWmVJdXlj?oc=5",
       "source": "Poder360",
-      "published_at": "2026-08-30T13:01:56+00:00",
-      "score": 66.46,
+      "published_at": "2026-08-30T14:41:01+00:00",
+      "score": 63.87,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -81,14 +96,29 @@
       }
     },
     {
-      "id": "8154d5a33650ac8e",
-      "title": "Nicolás Maduro aparece em fotos na prisão e cita a Bíblia - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOalZkSDlzbHlsanM2cmpJSlRLWDhrMlRQeF9TRzNjUFFmTU5fR0dSdlJfVmVnTXJVRmlpWEtESVhPVlVQVGo0WF96YWwxRFhLNmNYZ2pjdGFKVnhfVEo2ajJ3TGZISlphWDM4dzhhZFFpMHZrM2NyVUIzcFNyWkFXeC1HN3RiU0g3MVJYblZFTDNqd3paM2x6OHVJWkZGV0NJcW45VUxGMkJMd0MteTRJ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-30T15:17:00+00:00",
-      "score": 66.11,
+      "id": "f674475cafb3aa90",
+      "title": "Famílias de presos gastam R$ 4 bilhões por ano em visitas - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZExjdkZ2aFV4b1Y2NENjQTdWYkV3WncxYjNram9CV0xZcktJRldzQWttMkNxdkp5WXNZTVdFZW83QnJSNmI1UU5PUklySkFSdV9YNWd5ZkhRU3J5RktxakdXWHEwdy1Uc28xWXBRdzJfQ0JvcDZHaG9uUGRDSVBhYVBIMC1vX0NDTmRjRWNOajUzLThobE1acTVia3pTc1d2anJCVEd1dWl2cy16c3c?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-30T14:04:21+00:00",
+      "score": 63.23,
       "corroborating_sources": [
-        "Pleno.News"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e06fe4d9b78108e4",
+      "title": "Javier Milei cerrará una cumbre internacional del liberalismo en Buenos Aires - Diario Mendoza Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSm5OeTQ4elA4bWpqalBLVE01WFRXVkNPMEhVTkVjQzdMcWo2SkpqbkdnWWJSYXk4Q2pLMmdkekxsbnZlNnFLSVZpYjN0SWx2NGZrbnZZOEotY1NWcFRvMHE4cUlKaGg2S0M2UnZnVmF1OUFIakxvYWZKVC12clNZTzVTTXpLaWdQOG5FZXNReGhZa1o2VU9HYVQzRjF0Sld3ZFRWZVFHU1FhZEhQQXV1VHoxMVdKLVZr0gGvAUFVX3lxTFBEdkxfOHlrZ3d1cDdROVlJREtORmptdUVIVE1MOWZvNGxBcUs4MGExcERlNFdMeXVibjlSSW1UNm0tbEJMb1hSbnlxT1ViZi01OXN2LV81bzdTS0RTOC1xckZiRzZ4WFNoSTVHT2JId1ZQN3I3NEx4b1NCR29nSGVjbkhMWnJySnJJYnkwOU8zZHYxdmt5Nm4yMFVYbzl4bVI3RGJMR3B4akR5d3NfU2s?oc=5",
+      "source": "Diario Mendoza Today",
+      "published_at": "2026-08-30T16:23:35+00:00",
+      "score": 62.74,
+      "corroborating_sources": [
+        "Diario Mendoza Today"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +131,37 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVQ1LWZqeWRnM0VDV3dBNnJtdXUwaEJuS0o3WEk1WUhwS3pNcFdQMkRPSFhoWGFRWm5pWHlIci1jdDEtVEUzRTFCM3BQU2NVT1JzNHhncGtMRjBILVNxMXNkZHROZklZTHpjVlpsTkQwaFpsTDdpbVl2Q2VnUGFoTWxPZkVxaDQzR1Q2ejBtTEg3MEt1c1VuNU1xRWlsdGdud1BzNWtmZlZnYk02czBmclQzQ3k?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-29T15:39:44+00:00",
-      "score": 64.11,
+      "score": 61.73,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a32c91e6436ededc",
+      "title": "Nicolás Maduro aparece em fotos na prisão e cita a Bíblia - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOalZkSDlzbHlsanM2cmpJSlRLWDhrMlRQeF9TRzNjUFFmTU5fR0dSdlJfVmVnTXJVRmlpWEtESVhPVlVQVGo0WF96YWwxRFhLNmNYZ2pjdGFKVnhfVEo2ajJ3TGZISlphWDM4dzhhZFFpMHZrM2NyVUIzcFNyWkFXeC1HN3RiU0g3MVJYblZFTDNqd3paM2x6OHVJWkZGV0NJcW45VUxGMkJMd0MteTRJ0gG3AUFVX3lxTE5RMndNdHRCVHFaLXo4OVAyNUF0RGRRSVVWclI1SGZWU2hMdUNLb2w2M3J6UFQ2NnVPN05zUDJKSDF1RFNDSHpqeHpSUnk2aEhTUzg4UTVuZlRTLUVSMnJDM2RYTnJ3aWNMckJvaHpoNzYwTTRKWm9ZNWp4dDZOS2pudXlpMERkbWVoNmdhRXVzQTQ2a01URWVNbktqTWV4ZU5va2tTbU1nZ3g4bkJYYmZ5eWE0SzZGbw?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-30T15:17:00+00:00",
+      "score": 61.52,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2a196f0c4ed444b5",
+      "title": "Nova ferramenta da USP usa desemprego para detectar recessões - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaGdBY3pjYUtwMHZ5Y2NrREotNjdZQU12ZXI2UjFRQ2F5aWdQdExvT3N2bW53R2NmSFNER0J5MzVGZzNMeDVmd2xvckUyOFllZ0xBT3RqVkx3Q2pXa1hFXzc4LWplcFF6bDRQMFBYc01haFhRS1dGLVBYVFZZQTM0SU5RVUc1ald5aV9vblhkV2tSX09nRjY0WkRqaFVITlpfNEhVWlhId3M?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-30T10:51:09+00:00",
+      "score": 60.0,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -116,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HUWZ1cHJseWJaNzkyNkJvczIxOHdNZTdseE5KTUNfTVFCSWJ6ZFp0RUVHMkRXeWxCY0gwZ0wtRnVCdUNUdzl3MjhrZXY3eHRVZjNHUGJUblFYdHlBcC1Pd19NTWUtNm84Y3I4?oc=5",
       "source": "Cenital",
       "published_at": "2026-08-30T12:38:00+00:00",
-      "score": 63.01,
+      "score": 58.75,
       "corroborating_sources": [
         "Cenital"
       ],
@@ -131,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzJXSmtxTkg1UC1WTFN1cjRJZDJrbHl6YUFBREZUbFBwRXpnZjB6TTFGa0tsVFpDQjRkeXA3cGtVSVRDNzltQ21JTG51TDdFWkx5VWVRZUtnQmZzQzRFbVFwQlN6dTc4emhUTUl6M3c5bTlSYXJ0SVBSbjB2OU95Ynd6VDhxQmJpUFhrZXBiS0ZwMWtlODhFVEhEdDctYlR5bzc1SllVcldya1B1RmdaLTVxd9IBuwFBVV95cUxNT1RrQ2RIaWZ3MldwdFA1NUU0eDFFWjlnTFhjZXBVLVB1amthWWpvWEF1LUhnR2pQTUw2MDZnWHdOU19SN0JjdHZOT3dvSVFGV0ZBTWdwbTFhNHdFTFpveEpMWDkxN21BZUhVM1N1ZDBmVHZrdk91bHljSF9QWlVxbkY2VEtPYkhZTUFCZTlBTWF6ZlFmU0gxaWV6SERhc3NQZmRSNUs4WUdkRC1HWjFNMTdxcDhIT3B4OThB?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-08-30T12:15:00+00:00",
-      "score": 62.58,
+      "score": 58.36,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -141,14 +201,14 @@
       }
     },
     {
-      "id": "1f9d8bc95cd546ae",
-      "title": "Opinião | Hiperconstitucionalismo: já ficou claro que ‘vontade política’ não cria recursos - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSXFVVmduc0hpdGlYNmxtLVU1TGhDMDdMRzRXcjE4OVN6cTREbld4SS1zT2lfQnpRNThJMGNZdW9xRVl3WnN4OXloaGFLOWNMZzhYcHVyU0NjZWRpS2Y1SmZkZ2FnNjVqbVd3eWhsWFdKRFYzQzMybFJxbGJfdmo2WFVJalR1eG9pdEl2dlVhdG1SV3luSU9fMEdsb3gzcm5GdlNCVGhFa1RMMzJreDZ6ZE5GV1dIdVdSUEg4X0VZUDBQa3BERGFVeXZIUm5WV1BOWkYxWG1Jcw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-29T20:09:22+00:00",
-      "score": 59.12,
+      "id": "2341608eede1c1d1",
+      "title": "Queria que Lula fosse comigo a Israel, diz CEO de grupo pró-Israel - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVBvRjdZaFVQZGI3SkJIdVVjUW5WRFpnUnZ5VkItcnZNNUdjUTBlQ1JyeUlnamtrZ2pycHpPcWlnb0ExQUpCODNTMlFtV2FLQ3I1SU1nekt4NUVMVC1IVDd2TXpOdU1kWkliTXp6ZGVGMWZobmxxVU5nb0JQdTV1SUV2am9HSm5uaGJRN2pDZ2NwclNhanlQUzVWbzNiZ1ZPckVaMThoTzRvZDBzcmJPaDR1eXVTUQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-30T02:00:00+00:00",
+      "score": 52.47,
       "corroborating_sources": [
-        "Estadão"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTh2QlJKZWtKVXoxUTVzVDVveXcxU2wzbUg4bmVKbGpXNkUyZTE2anYwWEpaalNUVkl3M3poX01pM3plV3V5bWcxWDNPLXNnSTZud2xQZ3R1ZGhGTExPNXF4bHBxN29aRG5mSUtOb3drbFdHRHFXYVE4U21mSnlZQWRReE5SRDJ3bjNwSjM5UHFxR3FTWmtQeTFCUkVDZw?oc=5",
       "source": "Xadrez Verbal",
       "published_at": "2026-08-29T18:18:30+00:00",
-      "score": 54.84,
+      "score": 52.28,
       "corroborating_sources": [
         "Xadrez Verbal"
       ],
@@ -176,24 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHRDMFJ6QlJqRTM3aUpacDRGRnd0aDJtUXJRWkhrVXhqeVlxMHlPTkJLX1U3MXNPTGh0ZEVrZjVuc3JjMjQ0c1JJeXdscEgzQmdOQ3pfU2VLV3QxQXJ0ZUx6ODBWV3VsdDdxT2lJTkpjdExZY1R0X0RFUFY2bjBUOTR3V1dobjRDbU1IdnFaODZwQ3NUZmI3eUNRSlptNE0ybVVmNG1FVUtQZUFqcWstajVDNmU?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-30T00:41:46+00:00",
-      "score": 54.57,
+      "score": 51.51,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "15a96185be82e911",
-      "title": "Relación México-EE. UU., ¿Qué esperar? - Diario del Yaqui",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWxrcjNfNUMxSjdjNVhtaWM1d2QwV21RQWZBSEFKTVR6UHBwYnIwemxUYWxHd3hQZFMxejhNT3VZT29EUFMzS1lYN3dmN281aWNQemF4NW5YMWVBN3FqcnZ6THlIZFVGbUp5SHNmVXZOSFB4Yzc2M2lQd1JMUDhCUjl3?oc=5",
-      "source": "Diario del Yaqui",
-      "published_at": "2026-08-30T02:41:09+00:00",
-      "score": 53.22,
-      "corroborating_sources": [
-        "Diario del Yaqui"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBza05oZG5sZVFGQlZBb0hOTG0yWFZGU3E3RW1pU1dMWEk5TUJpOWk3Y0ZuTmI5emE5MFBWemdGZW1qOEM2ZWdfNHE1Y19ITW91M3I2WjJUYm5PQmR6?oc=5",
       "source": "CANCILLERIA :: BOLIVIA",
       "published_at": "2026-08-28T21:01:43+00:00",
-      "score": 51.97,
+      "score": 50.55,
       "corroborating_sources": [
         "CANCILLERIA :: BOLIVIA"
       ],
@@ -216,14 +261,14 @@
       }
     },
     {
-      "id": "f89bbc779f2ca30b",
-      "title": "Orlando’s tourism industry gets a boost from staycationers - Florida Politics",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkxkaFgyMXNpTVpWeVRVRndwWng4dnRLUDEyOGFIOXZXVU1MNWVnRWNQSWktOHY3bERLQ1RNeUcwcG51VzFBOTFTU3kzMFRMRERWUkREQURJenhWV3ZFdVQ1c1BRMHg5SEgtSjVUc2xBNy1TblNmLWNsbHloSk9QcTctT2dCUG9rNmNsZUlRdUUyWUhIdjc0ckFHRVJXNFNjelBubw?oc=5",
-      "source": "Florida Politics",
-      "published_at": "2026-08-29T13:02:53+00:00",
-      "score": 51.53,
+      "id": "15a96185be82e911",
+      "title": "Relación México-EE. UU., ¿Qué esperar? - Diario del Yaqui",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWxrcjNfNUMxSjdjNVhtaWM1d2QwV21RQWZBSEFKTVR6UHBwYnIwemxUYWxHd3hQZFMxejhNT3VZT29EUFMzS1lYN3dmN281aWNQemF4NW5YMWVBN3FqcnZ6THlIZFVGbUp5SHNmVXZOSFB4Yzc2M2lQd1JMUDhCUjl3?oc=5",
+      "source": "Diario del Yaqui",
+      "published_at": "2026-08-30T02:41:09+00:00",
+      "score": 49.99,
       "corroborating_sources": [
-        "Florida Politics"
+        "Diario del Yaqui"
       ],
       "signals": {
         "source_count": 1,
@@ -236,39 +281,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWZlVXlMOHNRcGhEemNYUzY4aUhVaHVJbTd0RW54NlRsbmpHYjB0Q1NrN2RVZnhQRzVzYWF0WGdadTBPT1pYWk5IakZ1Z3dpN3pXaFRRLTVfVURiSmJiVTRKaXo5QmNudExxeW85VVN0aVJralBOYUdCdDRsZlgzQjVLclFZVXYwVnNQN0JuZ0E0TUIxMUpRRVlSYmhlelhzblkzUVo0NDhINFdiX00xWVhXNHRqOUpfazNzZV8tRTRWQmo5TTltWkY5VmlvcDR5ZXNsUVpjN2JpRWhqX3hN?oc=5",
       "source": "Jornal Grande Bahia",
       "published_at": "2026-08-28T19:15:55+00:00",
-      "score": 51.32,
+      "score": 49.97,
       "corroborating_sources": [
         "Jornal Grande Bahia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "361d4d4ef6d917c3",
-      "title": "Interview – Hidemi Suganami - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0OW5zc2xOZW0ycFd0QXo4VHZUT0dtMV9VbmY0SnNvNjUyNDRTNmpmY09DR0RuWW1xbDNrelE2d1llU0hBTTFobXdYOTBPY1ZnSmJ6bXBZbjJ1M0lz?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-08-30T00:03:52+00:00",
-      "score": 51.06,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7bae20f52f119b25",
-      "title": "Acenos de ajuste fiscal da equipe econômica são risíveis: tardios, insuficientes ou lorotas - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX3YtUndOVTdyb2hIaHJxUkVHQ1ZHZmc1bU1sUlFSdF8takRZOGZEWEUtcTExYVhfb09Ua0Q2bWo0SkJyN0tkVzdRd295cjN2Sk1RZDhid2RrTl8zUTRiVFlYZnV0cWhLN0hqanJRekFWNUxNTTBkUHFoc2dOeEZiR3lpQ0FKWjZveWZUTmpBZTUyOUlSQkxXUk02bTI0NFgtb2ZDcE9xcmVHTGdEaUJvRmxQSE52bG1FdFVZeVFxR2ZpNGQtQi1XM1VObVRkYUZrTmd3RTE3R2w1YTdFZTV1UkZB0gHnAUFVX3lxTE56YWVleWNGZmZ4QXRrejFidHViWTJCVFdFb2RtUWgwT0dlLS1uY0VYM1RBeDhmbjVuSWxraTEwN0I2YmJaeDVaM2wwWUJ6bVNZNkpEUjFWVFF1ZlpsS0ZROWFxV19RZ3ZxaUE4UTlVQjluS0V0cnd1bl90V3BCcVdNYk5LWmZlMFdmQVZLOXQxMVJVcGxVTjFnQm9NTWhvMUdObE5DaTIzc05kN1dLTEFNZzV2ekRVdThRaU1kdnVlbjJ6ZnBENFY0ZGdWdmVJUGtsX1FpbXktMHBtQWJybUlXQTg2N0ZLdw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-29T20:00:00+00:00",
-      "score": 51.01,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -291,12 +306,27 @@
       }
     },
     {
+      "id": "f89bbc779f2ca30b",
+      "title": "Orlando’s tourism industry gets a boost from staycationers - Florida Politics",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkxkaFgyMXNpTVpWeVRVRndwWng4dnRLUDEyOGFIOXZXVU1MNWVnRWNQSWktOHY3bERLQ1RNeUcwcG51VzFBOTFTU3kzMFRMRERWUkREQURJenhWV3ZFdVQ1c1BRMHg5SEgtSjVUc2xBNy1TblNmLWNsbHloSk9QcTctT2dCUG9rNmNsZUlRdUUyWUhIdjc0ckFHRVJXNFNjelBubw?oc=5",
+      "source": "Florida Politics",
+      "published_at": "2026-08-29T13:02:53+00:00",
+      "score": 49.31,
+      "corroborating_sources": [
+        "Florida Politics"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "edf96026c937a7f5",
       "title": "Opinião - Luciana Coelho: Com ameaças interplanetárias, 'Presidente Curtis' leva política ao absurdo - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQklZZmdYM1JUc3A3WXVxNV9IQl82Vzg2Qy11bjFqRDRjcmFqU1VBQmZpN0tZbnRKVVBkTDlWVXhMUmZDcm1MX1liMVNnakRxcXNtX0p0cWptN3R0UzJ0UXRFUFJiUzJzSW9oazM4MGZnZXJsa3prOGhHNjBPUXhZcUxVLTM4WS11b2NzNk4zS25pQzZGVXVzazN6X0tXOFE1RFlhdm9pT2taVXZSblZMbXJ1WnpBRXBhX2JGNmtGOVpYWVJSeXlQV2lTeUExV1RQTG1j?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T02:03:00+00:00",
-      "score": 49.44,
+      "score": 48.6,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -311,9 +341,39 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVBLSWtxNjZOTHNNZUxYTUdMM2VoUlZfQm9tOVhvX25JQmw2VXIwTmprVEY3a2F3TTdFb3NOYV9zZHVCLVVtQ3JFTFRHMzBJMVFIeXFQLXp5VWxKY2E0ME01eVBKaDRWN0pWYXBoZmM5ZlZhSHBma0NjbjYxQjRQTE1mSHpRVUVlRTFGNWFnV3VZOFZoR3J3NHRmbkpYcWRYd3liQzJPTU1aaWRvdEpycFg4ZndOdm1OcC1JWU9DNTBCNEtEN3Ntbw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T02:00:00+00:00",
-      "score": 49.43,
+      "score": 48.59,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7bae20f52f119b25",
+      "title": "Acenos de ajuste fiscal da equipe econômica são risíveis: tardios, insuficientes ou lorotas - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX3YtUndOVTdyb2hIaHJxUkVHQ1ZHZmc1bU1sUlFSdF8takRZOGZEWEUtcTExYVhfb09Ua0Q2bWo0SkJyN0tkVzdRd295cjN2Sk1RZDhid2RrTl8zUTRiVFlYZnV0cWhLN0hqanJRekFWNUxNTTBkUHFoc2dOeEZiR3lpQ0FKWjZveWZUTmpBZTUyOUlSQkxXUk02bTI0NFgtb2ZDcE9xcmVHTGdEaUJvRmxQSE52bG1FdFVZeVFxR2ZpNGQtQi1XM1VObVRkYUZrTmd3RTE3R2w1YTdFZTV1UkZB0gHnAUFVX3lxTE56YWVleWNGZmZ4QXRrejFidHViWTJCVFdFb2RtUWgwT0dlLS1uY0VYM1RBeDhmbjVuSWxraTEwN0I2YmJaeDVaM2wwWUJ6bVNZNkpEUjFWVFF1ZlpsS0ZROWFxV19RZ3ZxaUE4UTlVQjluS0V0cnd1bl90V3BCcVdNYk5LWmZlMFdmQVZLOXQxMVJVcGxVTjFnQm9NTWhvMUdObE5DaTIzc05kN1dLTEFNZzV2ekRVdThRaU1kdnVlbjJ6ZnBENFY0ZGdWdmVJUGtsX1FpbXktMHBtQWJybUlXQTg2N0ZLdw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-29T20:00:00+00:00",
+      "score": 48.33,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "361d4d4ef6d917c3",
+      "title": "Interview – Hidemi Suganami - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0OW5zc2xOZW0ycFd0QXo4VHZUT0dtMV9VbmY0SnNvNjUyNDRTNmpmY09DR0RuWW1xbDNrelE2d1llU0hBTTFobXdYOTBPY1ZnSmJ6bXBZbjJ1M0lz?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-08-30T00:03:52+00:00",
+      "score": 48.06,
+      "corroborating_sources": [
+        "E-International Relations"
       ],
       "signals": {
         "source_count": 1,
@@ -326,37 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHF5R2tpdmJIZU40TlRiV3Q2V3BtclRDMEhPUV9iM3FSb3RDRVJmeEFqTk1XRVZUZjRTVk1MTHlVRzFDR3VNbng1Y1RGM042aHBubloxZEFiMm9IN0VBUFlMWXZYQ0ZGZGhUbUx2VjFXMjRxaXAycHFrYWxUeFgwSEdhQ1loTmNTTDNkVnJXOHpkUUNPTTVBcWRZU0puSHY1MXF0VGZidw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-29T01:45:30+00:00",
-      "score": 48.86,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bf518290cef02ab6",
-      "title": "“Muy mala señal al país”: Jara cuestiona a Kast por asistir al Foro Madrid en septiembre - El Dínamo",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXNrWjgzTGlZRWJJRU56ZFpEdVdZX0lFVjRUQnZCckVqbFcyZC0xMEJ2eUZjY3V2N25rMlcxTEVBTkIxc2ptWkFVZDAtcWlicVZmYW9sSXZDd1gtSmV0SzlFcWdLaVdad2pjQ0tIdjlzRkp1ekF5RlZlRmJNcS1jbHl6SGhTTjlNaHMzcmEzN3lJeGlOMEdTRng5c2Jmd3dXZXVpV3VhQnVKS3ZXMEFPcUJQcHFxS0txZW1nNlJHbVl0MDZjZ3JMYmJR?oc=5",
-      "source": "El Dínamo",
-      "published_at": "2026-08-29T21:04:23+00:00",
-      "score": 48.78,
-      "corroborating_sources": [
-        "El Dínamo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5e823dab880370ce",
-      "title": "Flávio e Lula empatam no 2º turno, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXRfX1FVb2dKbnZWamQ4UDU2ZUNjNnpSV1lBN0pOcUFGazhxaVhrMGprN3FUaDljVWpUZFdCNzh6ODM1UXVWWmdjVnJsbVowQnZ0WElwQXNUX3dQSEhoYjh5aUotVE1GdGdKSkI4ZzZMRlpSNFYtVmZEM21DSWZDYUF5MzZaS3hGelFlT0xsZ1I3ck04NDFwVFVMUXpOQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-29T16:31:28+00:00",
-      "score": 48.66,
+      "score": 47.24,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -371,54 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU5oOTh5YjBKZ1NTY0JacHBMX1VkMHFlMDJoc2p5QlNIV2VrN1F0cWFKQ1VuaENvajVaZW51VHJ4ekk2aDFsYzhDaS1Md25QSzl2ZHg2dXVjRlQycDhDNzJWbUJRblowSUtCS1pYeGVzcExCT0lBZVN4eWVzS05KVWZibDFrWnUyX3FWU3oyUGdVbWZpd2ZqY2VsRl9KSGJYZnJyak9WYmR0MmREV3ZpN2VEWlc?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-29T00:20:13+00:00",
-      "score": 48.27,
+      "score": 46.71,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ff0d5575536a4a55",
-      "title": "Nepal: Menina de 6 anos é salva após 60 horas sob escombros - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2puZDZ5R1c5bUJmYU5VV1MxVHJOYjhKRWcxbFBiQTRDWm1yejBuS3ZORWNsa0NFNU9WYktxbFJxQVRTdERUeURGcjdrQVNiMTM0X3I4WkhLc1BQVXNWMk5QeUZxQkZvZ202SW9WV2x2NDVQZGhJZ3oyWklXQUgtSlpoSUF2Qjh4YkVsckw2ZFduekdmclppc1ZGenNLQllQV3pHS3M2TkZTQXotT2pEVNIBuAFBVV95cUxNR3hqWEhYWXhKeFMydVdKTHpKcl9RSVc4bGpVN01EdWNwYUZlN2NRQkY3UEgwSjM1RW9fQlFGZjBoWVRfek5vSlJMNTdod19HbjNDMFgxVmxIRXlya29EMi1icE9MRnBhVGlUd1lZY3RPVGR6bjVXVzNFNmhyMEp6LXA3MWdzZ21STVlmOVp2eVZMWGhmYXhSV2MzS0N4U2dEeGxFck9ySURVWWxuNDlEVnVVekF3N09j?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-08-29T19:19:00+00:00",
-      "score": 47.53,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9f8ed04fa5030df5",
-      "title": "Lula volta a defender política para cuidar de idosos: \"Obrigação do Estado\" - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkxIVnZWY2tXd2JEY0VpNlVmUlVsZ0ttNkFtNEFZbW9VNmhZdXVUcWtnQTc5djlMdnNhLVN6OHZBUUVtRWdGTk1vZm9nV1J4emxJV1ctSm9yU2hFMGdjVVpzUzBFTU8yYTN6dEoxQWhMdTBUVUsyNG9QZzQ5TW1uRlF6UzFSNklxQ1N6MmE3UUE3T3ZxWU04b2hHd3VJN2hWYjlpU1JFRlBMUQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-28T21:03:00+00:00",
-      "score": 46.98,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7fb50891145566ee",
-      "title": "The Short-Lived Ukrainian People’s Republic (1917-20): A Brief History - TheCollector",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUYnV5OVVNakx0ZnVnSUZMYW5OUU1nU0J0a1RyczBLY0FIMExwTjRVQjBLRTdiZVVTZ05VLUlOU0NvaHVWNG5HOEExOFVEcjRUZG5xdDVLSTR1MDZYSF8tMG10RmNvQzE2ZXJTWFowbnJCanhUbV9j?oc=5",
-      "source": "TheCollector",
-      "published_at": "2026-08-29T18:19:59+00:00",
-      "score": 46.86,
-      "corroborating_sources": [
-        "TheCollector"
       ],
       "signals": {
         "source_count": 1,
@@ -441,14 +426,29 @@
       }
     },
     {
-      "id": "def9f34d2a9ab3b4",
-      "title": "Kicillof y su posible política exterior: regreso a los Brics, alianza con distintas regiones y distancia al acuerdo con EEUU e Israel - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMVNwMzFYZ2RWblhEZEJMbWVzaVJUUXpEeU1qSmVmRXlkcTE3Y1pkUnFjVklqVG9iQXZiRkxPYUtWWUZHQXJJMEFzWVZ0U2dOWGZlaV8zZlFkdUNOeGp3Y0hCbVExYVdWWXEzNmlaQmxJS1BlNE9OZVJoeGNjdmxZU0tNZHFXcWVfV21ZT0tQOFFTbG5XZE9rcG1MVndVWUVueXJJaUZLZnZESWlTcXVBTlZwc245X2VkVEF0MGhUcHBSN2dXWHZPbmhTcmRwVXZqazBxREJxMURBTGw1cEFVbm1LNGVPN09VOUxzY1c2aVBTaHk0aHRPTTJlTktjMnVPQVFxWHdGONIBogJBVV95cUxQcFlDQ2YzUjV3S1NyT2RJb1lBYUEtSFZvcWV0WndHZlJ2M0J6SDEzMVZkLXBRMUdpZGJ5U3FqbWRCUzZPTno5b3dIM2haQ3RER3UwbXNGbEQza2diNWd0em8xLVQ4Ti13UHJzLWtfeF9WZS1HS1FWOFhuUjI5SjI1RDlrSko4Q1RrSl9iTkRiUjBubmdiYm8tN2gwMjhJUVNPeVJfRUFYOWUtdmhEQk5ETmlwTGhTTmZPaUFDay1tTDFoN0NEOFU0X1hkVTJFOEozamlDaENQekFkbjNpU1I3bDFNZmRFRGRiNnF0UlJ6QUtmUVBSbHkzbWRTdnZpbk9ncFFnbF83X1ZsM3JtRHEtcVRxTGVkb0JzR0M4RHNPRmlEUQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-08-28T22:14:00+00:00",
-      "score": 44.43,
+      "id": "5e823dab880370ce",
+      "title": "Flávio e Lula empatam no 2º turno, diz pesquisa - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXRfX1FVb2dKbnZWamQ4UDU2ZUNjNnpSV1lBN0pOcUFGazhxaVhrMGprN3FUaDljVWpUZFdCNzh6ODM1UXVWWmdjVnJsbVowQnZ0WElwQXNUX3dQSEhoYjh5aUotVE1GdGdKSkI4ZzZMRlpSNFYtVmZEM21DSWZDYUF5MzZaS3hGelFlT0xsZ1I3ck04NDFwVFVMUXpOQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-29T16:31:28+00:00",
+      "score": 46.22,
       "corroborating_sources": [
-        "Infobae"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bf518290cef02ab6",
+      "title": "“Muy mala señal al país”: Jara cuestiona a Kast por asistir al Foro Madrid en septiembre - El Dínamo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXNrWjgzTGlZRWJJRU56ZFpEdVdZX0lFVjRUQnZCckVqbFcyZC0xMEJ2eUZjY3V2N25rMlcxTEVBTkIxc2ptWkFVZDAtcWlicVZmYW9sSXZDd1gtSmV0SzlFcWdLaVdad2pjQ0tIdjlzRkp1ekF5RlZlRmJNcS1jbHl6SGhTTjlNaHMzcmEzN3lJeGlOMEdTRng5c2Jmd3dXZXVpV3VhQnVKS3ZXMEFPcUJQcHFxS0txZW1nNlJHbVl0MDZjZ3JMYmJR?oc=5",
+      "source": "El Dínamo",
+      "published_at": "2026-08-29T21:04:23+00:00",
+      "score": 46.02,
+      "corroborating_sources": [
+        "El Dínamo"
       ],
       "signals": {
         "source_count": 1,
