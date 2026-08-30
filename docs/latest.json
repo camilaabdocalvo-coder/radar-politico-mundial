@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-08-30T04:23:35.494077+00:00",
-  "next_update_expected_at": "2026-08-30T08:23:35.494077+00:00",
+  "generated_at": "2026-08-30T08:23:37.045906+00:00",
+  "next_update_expected_at": "2026-08-30T12:23:37.045906+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "53562590ff6b8aa5",
+      "title": "Opinião - Ezra Klein: Política virou refém da realidade distorcida das redes sociais - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWmZ0N3J3TjhpY191Y2VZVTVpLWdCUXlCcDNGRGNFVlRKR0FvU2JSOTNpWTREaUdkQmJRR1FleHE0eVc5UUR0LTJVOEhWR2ozTWpPVGtMQ1NNT2JZY29fcGw2UWhRbG1ELVczZm0wMkExNmFFbjNXVjZzMlJZdWZkSkFqUmNWZFBOZUhxd29pb2RqdzJRTzRqWWJPMHVQY3hscWt2VVc5MW9mclhZVEMxZDBiZUc3VDN0OWI5YkFJSnlxU0U?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-30T07:00:00+00:00",
+      "score": 76.77,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "7df4fd724879c460",
       "title": "Change of Names in International Relations: From Appreciation and Self-Protection to Cold War Politics - THISDAYLIVE",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmdYT3dQZG82UERkaWZHUjE2VjloeDB1cVprLU9UNkw5TndZd1gyMDY2U1AwWVZ4UFg1aVpWSGtrTC1HQXI0RFA3M3l5dXdzTTc4anVJNzBGdTlIZnZ6a0RuOE0yOTQzTExvNHFVUm53dF9DVno2WGJINEdoOXNjQ1R4OWNwYktjcGVONXhGd1V4SG9keDJHVjI4TktwcnFaemRjNUZ2UVZYS3hRU0VPQXB1Z2hQTTNpZjQ1YkI5Vl93SS1MWVhTaXhiQl8wRVFhZnZGX29uSTg?oc=5",
       "source": "THISDAYLIVE",
       "published_at": "2026-08-30T01:18:17+00:00",
-      "score": 79.78,
+      "score": 75.43,
       "corroborating_sources": [
         "THISDAYLIVE"
       ],
@@ -26,24 +41,9 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVQ1LWZqeWRnM0VDV3dBNnJtdXUwaEJuS0o3WEk1WUhwS3pNcFdQMkRPSFhoWGFRWm5pWHlIci1jdDEtVEUzRTFCM3BQU2NVT1JzNHhncGtMRjBILVNxMXNkZHROZklZTHpjVlpsTkQwaFpsTDdpbVl2Q2VnUGFoTWxPZkVxaDQzR1Q2ejBtTEg3MEt1c1VuNU1xRWlsdGdud1BzNWtmZlZnYk02czBmclQzQ3k?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-29T15:39:44+00:00",
-      "score": 73.07,
+      "score": 69.75,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "15a96185be82e911",
-      "title": "Relación México-EE. UU., ¿Qué esperar? - Diario del Yaqui",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWxrcjNfNUMxSjdjNVhtaWM1d2QwV21RQWZBSEFKTVR6UHBwYnIwemxUYWxHd3hQZFMxejhNT3VZT29EUFMzS1lYN3dmN281aWNQemF4NW5YMWVBN3FqcnZ6THlIZFVGbUp5SHNmVXZOSFB4Yzc2M2lQd1JMUDhCUjl3?oc=5",
-      "source": "Diario del Yaqui",
-      "published_at": "2026-08-30T02:41:09+00:00",
-      "score": 65.39,
-      "corroborating_sources": [
-        "Diario del Yaqui"
       ],
       "signals": {
         "source_count": 1,
@@ -56,9 +56,24 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTh2QlJKZWtKVXoxUTVzVDVveXcxU2wzbUg4bmVKbGpXNkUyZTE2anYwWEpaalNUVkl3M3poX01pM3plV3V5bWcxWDNPLXNnSTZud2xQZ3R1ZGhGTExPNXF4bHBxN29aRG5mSUtOb3drbFdHRHFXYVE4U21mSnlZQWRReE5SRDJ3bjNwSjM5UHFxR3FTWmtQeTFCUkVDZw?oc=5",
       "source": "Xadrez Verbal",
       "published_at": "2026-08-29T18:18:30+00:00",
-      "score": 64.48,
+      "score": 60.91,
       "corroborating_sources": [
         "Xadrez Verbal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "15a96185be82e911",
+      "title": "Relación México-EE. UU., ¿Qué esperar? - Diario del Yaqui",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWxrcjNfNUMxSjdjNVhtaWM1d2QwV21RQWZBSEFKTVR6UHBwYnIwemxUYWxHd3hQZFMxejhNT3VZT29EUFMzS1lYN3dmN281aWNQemF4NW5YMWVBN3FqcnZ6THlIZFVGbUp5SHNmVXZOSFB4Yzc2M2lQd1JMUDhCUjl3?oc=5",
+      "source": "Diario del Yaqui",
+      "published_at": "2026-08-30T02:41:09+00:00",
+      "score": 60.88,
+      "corroborating_sources": [
+        "Diario del Yaqui"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +86,24 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0OW5zc2xOZW0ycFd0QXo4VHZUT0dtMV9VbmY0SnNvNjUyNDRTNmpmY09DR0RuWW1xbDNrelE2d1llU0hBTTFobXdYOTBPY1ZnSmJ6bXBZbjJ1M0lz?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-08-30T00:03:52+00:00",
-      "score": 62.38,
+      "score": 58.18,
       "corroborating_sources": [
         "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7bae20f52f119b25",
+      "title": "Acenos de ajuste fiscal da equipe econômica são risíveis: tardios, insuficientes ou lorotas - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX3YtUndOVTdyb2hIaHJxUkVHQ1ZHZmc1bU1sUlFSdF8takRZOGZEWEUtcTExYVhfb09Ua0Q2bWo0SkJyN0tkVzdRd295cjN2Sk1RZDhid2RrTl8zUTRiVFlYZnV0cWhLN0hqanJRekFWNUxNTTBkUHFoc2dOeEZiR3lpQ0FKWjZveWZUTmpBZTUyOUlSQkxXUk02bTI0NFgtb2ZDcE9xcmVHTGdEaUJvRmxQSE52bG1FdFVZeVFxR2ZpNGQtQi1XM1VObVRkYUZrTmd3RTE3R2w1YTdFZTV1UkZB0gHnAUFVX3lxTE56YWVleWNGZmZ4QXRrejFidHViWTJCVFdFb2RtUWgwT0dlLS1uY0VYM1RBeDhmbjVuSWxraTEwN0I2YmJaeDVaM2wwWUJ6bVNZNkpEUjFWVFF1ZlpsS0ZROWFxV19RZ3ZxaUE4UTlVQjluS0V0cnd1bl90V3BCcVdNYk5LWmZlMFdmQVZLOXQxMVJVcGxVTjFnQm9NTWhvMUdObE5DaTIzc05kN1dLTEFNZzV2ekRVdThRaU1kdnVlbjJ6ZnBENFY0ZGdWdmVJUGtsX1FpbXktMHBtQWJybUlXQTg2N0ZLdw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-29T20:00:00+00:00",
+      "score": 57.37,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkxkaFgyMXNpTVpWeVRVRndwWng4dnRLUDEyOGFIOXZXVU1MNWVnRWNQSWktOHY3bERLQ1RNeUcwcG51VzFBOTFTU3kzMFRMRERWUkREQURJenhWV3ZFdVQ1c1BRMHg5SEgtSjVUc2xBNy1TblNmLWNsbHloSk9QcTctT2dCUG9rNmNsZUlRdUUyWUhIdjc0ckFHRVJXNFNjelBubw?oc=5",
       "source": "Florida Politics",
       "published_at": "2026-08-29T13:02:53+00:00",
-      "score": 59.86,
+      "score": 56.77,
       "corroborating_sources": [
         "Florida Politics"
       ],
@@ -101,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXNrWjgzTGlZRWJJRU56ZFpEdVdZX0lFVjRUQnZCckVqbFcyZC0xMEJ2eUZjY3V2N25rMlcxTEVBTkIxc2ptWkFVZDAtcWlicVZmYW9sSXZDd1gtSmV0SzlFcWdLaVdad2pjQ0tIdjlzRkp1ekF5RlZlRmJNcS1jbHl6SGhTTjlNaHMzcmEzN3lJeGlOMEdTRng5c2Jmd3dXZXVpV3VhQnVKS3ZXMEFPcUJQcHFxS0txZW1nNlJHbVl0MDZjZ3JMYmJR?oc=5",
       "source": "El Dínamo",
       "published_at": "2026-08-29T21:04:23+00:00",
-      "score": 59.2,
+      "score": 55.33,
       "corroborating_sources": [
         "El Dínamo"
       ],
@@ -116,24 +146,9 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBza05oZG5sZVFGQlZBb0hOTG0yWFZGU3E3RW1pU1dMWEk5TUJpOWk3Y0ZuTmI5emE5MFBWemdGZW1qOEM2ZWdfNHE1Y19ITW91M3I2WjJUYm5PQmR6?oc=5",
       "source": "CANCILLERIA :: BOLIVIA",
       "published_at": "2026-08-28T21:01:43+00:00",
-      "score": 57.31,
+      "score": 55.33,
       "corroborating_sources": [
         "CANCILLERIA :: BOLIVIA"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7fb50891145566ee",
-      "title": "The Short-Lived Ukrainian People’s Republic (1917-20): A Brief History - TheCollector",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUYnV5OVVNakx0ZnVnSUZMYW5OUU1nU0J0a1RyczBLY0FIMExwTjRVQjBLRTdiZVVTZ05VLUlOU0NvaHVWNG5HOEExOFVEcjRUZG5xdDVLSTR1MDZYSF8tMG10RmNvQzE2ZXJTWFowbnJCanhUbV9j?oc=5",
-      "source": "TheCollector",
-      "published_at": "2026-08-29T18:19:59+00:00",
-      "score": 56.51,
-      "corroborating_sources": [
-        "TheCollector"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +161,39 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWZlVXlMOHNRcGhEemNYUzY4aUhVaHVJbTd0RW54NlRsbmpHYjB0Q1NrN2RVZnhQRzVzYWF0WGdadTBPT1pYWk5IakZ1Z3dpN3pXaFRRLTVfVURiSmJiVTRKaXo5QmNudExxeW85VVN0aVJralBOYUdCdDRsZlgzQjVLclFZVXYwVnNQN0JuZ0E0TUIxMUpRRVlSYmhlelhzblkzUVo0NDhINFdiX00xWVhXNHRqOUpfazNzZV8tRTRWQmo5TTltWkY5VmlvcDR5ZXNsUVpjN2JpRWhqX3hN?oc=5",
       "source": "Jornal Grande Bahia",
       "published_at": "2026-08-28T19:15:55+00:00",
-      "score": 56.41,
+      "score": 54.52,
       "corroborating_sources": [
         "Jornal Grande Bahia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5e823dab880370ce",
+      "title": "Flávio e Lula empatam no 2º turno, diz pesquisa - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXRfX1FVb2dKbnZWamQ4UDU2ZUNjNnpSV1lBN0pOcUFGazhxaVhrMGprN3FUaDljVWpUZFdCNzh6ODM1UXVWWmdjVnJsbVowQnZ0WElwQXNUX3dQSEhoYjh5aUotVE1GdGdKSkI4ZzZMRlpSNFYtVmZEM21DSWZDYUF5MzZaS3hGelFlT0xsZ1I3ck04NDFwVFVMUXpOQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-29T16:31:28+00:00",
+      "score": 54.43,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7fb50891145566ee",
+      "title": "The Short-Lived Ukrainian People’s Republic (1917-20): A Brief History - TheCollector",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUYnV5OVVNakx0ZnVnSUZMYW5OUU1nU0J0a1RyczBLY0FIMExwTjRVQjBLRTdiZVVTZ05VLUlOU0NvaHVWNG5HOEExOFVEcjRUZG5xdDVLSTR1MDZYSF8tMG10RmNvQzE2ZXJTWFowbnJCanhUbV9j?oc=5",
+      "source": "TheCollector",
+      "published_at": "2026-08-29T18:19:59+00:00",
+      "score": 52.93,
+      "corroborating_sources": [
+        "TheCollector"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHF5R2tpdmJIZU40TlRiV3Q2V3BtclRDMEhPUV9iM3FSb3RDRVJmeEFqTk1XRVZUZjRTVk1MTHlVRzFDR3VNbng1Y1RGM042aHBubloxZEFiMm9IN0VBUFlMWXZYQ0ZGZGhUbUx2VjFXMjRxaXAycHFrYWxUeFgwSEdhQ1loTmNTTDNkVnJXOHpkUUNPTTVBcWRZU0puSHY1MXF0VGZidw?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-29T01:45:30+00:00",
-      "score": 54.95,
+      "score": 52.69,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -176,39 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU5oOTh5YjBKZ1NTY0JacHBMX1VkMHFlMDJoc2p5QlNIV2VrN1F0cWFKQ1VuaENvajVaZW51VHJ4ekk2aDFsYzhDaS1Md25QSzl2ZHg2dXVjRlQycDhDNzJWbUJRblowSUtCS1pYeGVzcExCT0lBZVN4eWVzS05KVWZibDFrWnUyX3FWU3oyUGdVbWZpd2ZqY2VsRl9KSGJYZnJyak9WYmR0MmREV3ZpN2VEWlc?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-29T00:20:13+00:00",
-      "score": 54.12,
+      "score": 51.95,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1f98fae5f77dae60",
-      "title": "Expresidente de Colombia denuncia vínculos de Cerimedo con narcotráfico - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazk5TVI4WDZiemRLVUhtOU9tLW5UM1JNdFhDcGVVOVRXanR0UmVxS1l5Z3ltWjlaTUJuNDVkYk41LVR6VGZOWlJjZllfS1lRdElQYXJFUVFpSnNSVmlaR1dSekNHak9hTE1qeVd5eTlVNHdiNlY3Z193aGlJUlNFTVNfM2o4d2VrMlhfcTZHQmRVSXJ4MEpWTWlrOG9BY3ZW?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-08-29T14:46:54+00:00",
-      "score": 53.31,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8cc90e10dc059272",
-      "title": "Condenan a cinco años de cárcel al expresidente de Ecuador Lenín Moreno por corrupción - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbm5PTHlUcWJ3czJCZ1U1NExBaXlNUTA3aVJlS0V1c2hXTFVKUHZmQWhyT0lvdDVwNlJnVG1nZmQxVnoyNVI2YVJpaVo5dUVQOHZma0NiUXdjUHJTSEE1NzhBRUVVTDh1WjhkX2dIeWJWTTZWaFF1LUoxYzl1ZFlwSHFpMEFNbUNDUmZXc24wN2Zzby1DaUhZa2Y3RVBSLUVXcXRtNktB?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-08-29T14:36:10+00:00",
-      "score": 53.16,
-      "corroborating_sources": [
-        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQklZZmdYM1JUc3A3WXVxNV9IQl82Vzg2Qy11bjFqRDRjcmFqU1VBQmZpN0tZbnRKVVBkTDlWVXhMUmZDcm1MX1liMVNnakRxcXNtX0p0cWptN3R0UzJ0UXRFUFJiUzJzSW9oazM4MGZnZXJsa3prOGhHNjBPUXhZcUxVLTM4WS11b2NzNk4zS25pQzZGVXVzazN6X0tXOFE1RFlhdm9pT2taVXZSblZMbXJ1WnpBRXBhX2JGNmtGOVpYWVJSeXlQV2lTeUExV1RQTG1j?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T02:03:00+00:00",
-      "score": 52.59,
+      "score": 51.42,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -236,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVBLSWtxNjZOTHNNZUxYTUdMM2VoUlZfQm9tOVhvX25JQmw2VXIwTmprVEY3a2F3TTdFb3NOYV9zZHVCLVVtQ3JFTFRHMzBJMVFIeXFQLXp5VWxKY2E0ME01eVBKaDRWN0pWYXBoZmM5ZlZhSHBma0NjbjYxQjRQTE1mSHpRVUVlRTFGNWFnV3VZOFZoR3J3NHRmbkpYcWRYd3liQzJPTU1aaWRvdEpycFg4ZndOdm1OcC1JWU9DNTBCNEtEN3Ntbw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-28T02:00:00+00:00",
-      "score": 52.58,
+      "score": 51.41,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -251,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkxIVnZWY2tXd2JEY0VpNlVmUlVsZ0ttNkFtNEFZbW9VNmhZdXVUcWtnQTc5djlMdnNhLVN6OHZBUUVtRWdGTk1vZm9nV1J4emxJV1ctSm9yU2hFMGdjVVpzUzBFTU8yYTN6dEoxQWhMdTBUVUsyNG9QZzQ5TW1uRlF6UzFSNklxQ1N6MmE3UUE3T3ZxWU04b2hHd3VJN2hWYjlpU1JFRlBMUQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-28T21:03:00+00:00",
-      "score": 52.32,
+      "score": 50.34,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -261,14 +276,14 @@
       }
     },
     {
-      "id": "a197c54f5c08d303",
-      "title": "Como a falência da Venezuela ajudou a mudar a América Latina? Entenda no vídeo - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMUpCRDdKcDJfNG1NdjVtV241d2ZFZVFxSm0tMndtMW8wWXF4ZE5uUUtZTUlLd1VhTUQwYXdHTkdwb005bVgzTVdnTkxxWVRjRmpMQXRnX1dYU1ozdGdSUVN0UGMxdVJaNG11Nk0wUENqOGtMTmhCTGJaT3QtVGtCQVpWSGpuUVd0ZXJBc01MUi02R1JNRWVlV1RTd19vUEFqSGpDTWdoWTBVay0wdjVpMHhieG8yUFZMeHNTcUZhN1N1SG1PNmNYdXREV19uUEp5SVHSAdcBQVVfeXFMTjBsNmM3WnUwVUIybUtKWkstaW5CSjRvZnE1Z1RKSEdIajFnNnFKNGtTSjJzZWlkQ05qWjBTb1E4d1h2S3otWWQtQ2VSOHpMR2pQdGVJd19LMlFKQ2VoSjJJeGZlS0ZsN3hfZ0ZCWUhFSXBzQVQ1TW1JVWhxSXN1NzJha1BFbGxib2FVbUZpazZsWlh1VHRtaDRaQWhob2RVTlFZZnVvWmtHUGJGN0JsVmItRnFXUHJCQS1Ya3NsVV9hVlIwX3Ytb2J2aHllSXdtb0ZpODhqRHc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-29T08:30:00+00:00",
-      "score": 51.37,
+      "id": "1f98fae5f77dae60",
+      "title": "Expresidente de Colombia denuncia vínculos de Cerimedo con narcotráfico - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazk5TVI4WDZiemRLVUhtOU9tLW5UM1JNdFhDcGVVOVRXanR0UmVxS1l5Z3ltWjlaTUJuNDVkYk41LVR6VGZOWlJjZllfS1lRdElQYXJFUVFpSnNSVmlaR1dSekNHak9hTE1qeVd5eTlVNHdiNlY3Z193aGlJUlNFTVNfM2o4d2VrMlhfcTZHQmRVSXJ4MEpWTWlrOG9BY3ZW?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-08-29T14:46:54+00:00",
+      "score": 50.07,
       "corroborating_sources": [
-        "Estadão"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -276,14 +291,14 @@
       }
     },
     {
-      "id": "f99a00c539ccb9ff",
-      "title": "'Dark Horse' tem contradições para justificar dinheiro de Vorcaro e falta de prestação de contas - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNem94Y3drQ2wzOHg4eDNEXzJCdWY5VDZwMm1XbFBFQzlUVWZuU3EzM3FpaGM2NERKOTZhc3VXZnVJN081SW5kU1NDcnoxR09OM0l2ZnNFUU9pT1YyakN2Q3VpUUQtTzMybER4TF9zSkJjTnEtSnBnUWF5VjRfa0xxYlBsckx0bHJyQnQycXN4WVJkV1pnRzRjYW0yeWZaaDAtNWJCTGdqVGs0Nnc5a2tLWUJ6bXZJUzNSaGtmLWk2eWxzZkJ4ZDBwNHZ1V2VXREtYQ1A2ZFVJSmJsSWl6?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-29T07:00:00+00:00",
-      "score": 50.32,
+      "id": "8cc90e10dc059272",
+      "title": "Condenan a cinco años de cárcel al expresidente de Ecuador Lenín Moreno por corrupción - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbm5PTHlUcWJ3czJCZ1U1NExBaXlNUTA3aVJlS0V1c2hXTFVKUHZmQWhyT0lvdDVwNlJnVG1nZmQxVnoyNVI2YVJpaVo5dUVQOHZma0NiUXdjUHJTSEE1NzhBRUVVTDh1WjhkX2dIeWJWTTZWaFF1LUoxYzl1ZFlwSHFpMEFNbUNDUmZXc24wN2Zzby1DaUhZa2Y3RVBSLUVXcXRtNktB?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-08-29T14:36:10+00:00",
+      "score": 49.93,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -291,14 +306,14 @@
       }
     },
     {
-      "id": "def9f34d2a9ab3b4",
-      "title": "Kicillof y su posible política exterior: regreso a los Brics, alianza con distintas regiones y distancia al acuerdo con EEUU e Israel - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMVNwMzFYZ2RWblhEZEJMbWVzaVJUUXpEeU1qSmVmRXlkcTE3Y1pkUnFjVklqVG9iQXZiRkxPYUtWWUZHQXJJMEFzWVZ0U2dOWGZlaV8zZlFkdUNOeGp3Y0hCbVExYVdWWXEzNmlaQmxJS1BlNE9OZVJoeGNjdmxZU0tNZHFXcWVfV21ZT0tQOFFTbG5XZE9rcG1MVndVWUVueXJJaUZLZnZESWlTcXVBTlZwc245X2VkVEF0MGhUcHBSN2dXWHZPbmhTcmRwVXZqazBxREJxMURBTGw1cEFVbm1LNGVPN09VOUxzY1c2aVBTaHk0aHRPTTJlTktjMnVPQVFxWHdGONIBogJBVV95cUxQcFlDQ2YzUjV3S1NyT2RJb1lBYUEtSFZvcWV0WndHZlJ2M0J6SDEzMVZkLXBRMUdpZGJ5U3FqbWRCUzZPTno5b3dIM2haQ3RER3UwbXNGbEQza2diNWd0em8xLVQ4Ti13UHJzLWtfeF9WZS1HS1FWOFhuUjI5SjI1RDlrSko4Q1RrSl9iTkRiUjBubmdiYm8tN2gwMjhJUVNPeVJfRUFYOWUtdmhEQk5ETmlwTGhTTmZPaUFDay1tTDFoN0NEOFU0X1hkVTJFOEozamlDaENQekFkbjNpU1I3bDFNZmRFRGRiNnF0UlJ6QUtmUVBSbHkzbWRTdnZpbk9ncFFnbF83X1ZsM3JtRHEtcVRxTGVkb0JzR0M4RHNPRmlEUQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-08-28T22:14:00+00:00",
-      "score": 49.95,
+      "id": "d52bc262b2ca1c0d",
+      "title": "‘I don’t want to be a backseat driver’: Gordon Brown on Burnham, billionaires – and his vision for a better Britain - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3VreEFPMXl1amt2ZkpkTGxMYmRHd3RQMWJURlFMQmdLZDlPNFpMUjE0dXpjNHdqdkliRFN5dHNZRkRrbk1hQTZ1UjEtV1cyM1FNd2p3WUUwWTJaTV9DeF9BaThUc2NpOWNmTl95TWxqN3RpQXZpY2E5N2dPbWRhdWJhZ1ZNTzhEN2xNQmFVQ2xkeXRNMGxXODZfVjBIelJSbXFnc2lJS1Vnb2cwa2NKemZkZC1RYXhwdF9HWldWVEY?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-08-29T14:12:00+00:00",
+      "score": 49.62,
       "corroborating_sources": [
-        "Infobae"
+        "The Guardian"
       ],
       "signals": {
         "source_count": 1,
@@ -321,12 +336,12 @@
       }
     },
     {
-      "id": "ed3b01f58f1be3b3",
-      "title": "Guerra no Irã completa seis meses com Trump perdido e regime com série de vitórias estratégicas - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDVXb1N4YmtQanJ6a2JpWHlkbDg2LXNrWTBUdWU3YUFRVUduSlNDNUlodkVXVXU1RWo4Z0VJM2FXRTlST2JZcmZvdFZUenVtbHZBYjJVSk00VDFra0dBN0Q1dmpIcVZMNUs3YXIyZGZEcVUwWC12VDFkZ0xKMjJPcFhKSmRXb3ZwS2hsSHd6Z1RJa05HT0c4aVVMRVdPc3FybnBvOEI0QUZfX1dfTWk2QzZyV3N1SURoQmpHQUIwQmVwWUZBYU04Q1kxcTJaTTdjV2lR0gHYAUFVX3lxTE80VHlLQUV1ZjI1Qy02TjNyd05Ka0NUY3NTdmVjOEstUm9JNC1BUFY4dWRDX3Y2bTJGMVgzR1ZQV0l5dTVqSHQxXzJnSFZQUEN2LWs2M3pTSTl3OGQ5WVdjUFpSSzA0MUgybHdSZEtOMXNMclJzdEtFZXU0azZYRF9XNmJGVGxHc0hkb3dVRjVLMHZ4a3RBNWZub1hxQ2h2QlJrcEdNaTF3WG45UnhZYlo0X2RWYzI1UkJmMlFNRXRab1lRNUV6cjU3QlVKRFdlMXdVcmsxNm1hYg?oc=5",
+      "id": "a197c54f5c08d303",
+      "title": "Como a falência da Venezuela ajudou a mudar a América Latina? Entenda no vídeo - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMUpCRDdKcDJfNG1NdjVtV241d2ZFZVFxSm0tMndtMW8wWXF4ZE5uUUtZTUlLd1VhTUQwYXdHTkdwb005bVgzTVdnTkxxWVRjRmpMQXRnX1dYU1ozdGdSUVN0UGMxdVJaNG11Nk0wUENqOGtMTmhCTGJaT3QtVGtCQVpWSGpuUVd0ZXJBc01MUi02R1JNRWVlV1RTd19vUEFqSGpDTWdoWTBVay0wdjVpMHhieG8yUFZMeHNTcUZhN1N1SG1PNmNYdXREV19uUEp5SVHSAdcBQVVfeXFMTjBsNmM3WnUwVUIybUtKWkstaW5CSjRvZnE1Z1RKSEdIajFnNnFKNGtTSjJzZWlkQ05qWjBTb1E4d1h2S3otWWQtQ2VSOHpMR2pQdGVJd19LMlFKQ2VoSjJJeGZlS0ZsN3hfZ0ZCWUhFSXBzQVQ1TW1JVWhxSXN1NzJha1BFbGxib2FVbUZpazZsWlh1VHRtaDRaQWhob2RVTlFZZnVvWmtHUGJGN0JsVmItRnFXUHJCQS1Ya3NsVV9hVlIwX3Ytb2J2aHllSXdtb0ZpODhqRHc?oc=5",
       "source": "Estadão",
-      "published_at": "2026-08-28T15:00:00+00:00",
-      "score": 49.4,
+      "published_at": "2026-08-29T08:30:00+00:00",
+      "score": 48.65,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -336,14 +351,14 @@
       }
     },
     {
-      "id": "36cf6b5f91d1f104",
-      "title": "Só no Brasil a extrema-direita defendeu as tarifas de Trump, diz analista político dos EUA - CartaCapital",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbll5cDhwU2pfOG9Vdm1Kd3RaNE90OHUtandtWHoyRXZMMDhTZFlzRnh5bzhvZmdxc0pvN2hiQXdpR19VU3BHb2ZKM1hZc3RYajlBeTJsLUpZRTBlVUpZTEQ1Qjd5LWVsSGNETmZBUVRvY2tYMFFiSnU3bFg0end4dFVRcXFQSHhGY0E0QmpNZTQ1WHl2N2VEbzhITmlPajVVN0Z5UDhSdEVYRkVGaUpXNjNXRi02czZGNENPajZ6UmlzMG9MY3YxX0gtNA?oc=5",
-      "source": "CartaCapital",
-      "published_at": "2026-08-29T08:55:00+00:00",
-      "score": 48.67,
+      "id": "def9f34d2a9ab3b4",
+      "title": "Kicillof y su posible política exterior: regreso a los Brics, alianza con distintas regiones y distancia al acuerdo con EEUU e Israel - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMVNwMzFYZ2RWblhEZEJMbWVzaVJUUXpEeU1qSmVmRXlkcTE3Y1pkUnFjVklqVG9iQXZiRkxPYUtWWUZHQXJJMEFzWVZ0U2dOWGZlaV8zZlFkdUNOeGp3Y0hCbVExYVdWWXEzNmlaQmxJS1BlNE9OZVJoeGNjdmxZU0tNZHFXcWVfV21ZT0tQOFFTbG5XZE9rcG1MVndVWUVueXJJaUZLZnZESWlTcXVBTlZwc245X2VkVEF0MGhUcHBSN2dXWHZPbmhTcmRwVXZqazBxREJxMURBTGw1cEFVbm1LNGVPN09VOUxzY1c2aVBTaHk0aHRPTTJlTktjMnVPQVFxWHdGONIBogJBVV95cUxQcFlDQ2YzUjV3S1NyT2RJb1lBYUEtSFZvcWV0WndHZlJ2M0J6SDEzMVZkLXBRMUdpZGJ5U3FqbWRCUzZPTno5b3dIM2haQ3RER3UwbXNGbEQza2diNWd0em8xLVQ4Ti13UHJzLWtfeF9WZS1HS1FWOFhuUjI5SjI1RDlrSko4Q1RrSl9iTkRiUjBubmdiYm8tN2gwMjhJUVNPeVJfRUFYOWUtdmhEQk5ETmlwTGhTTmZPaUFDay1tTDFoN0NEOFU0X1hkVTJFOEozamlDaENQekFkbjNpU1I3bDFNZmRFRGRiNnF0UlJ6QUtmUVBSbHkzbWRTdnZpbk9ncFFnbF83X1ZsM3JtRHEtcVRxTGVkb0JzR0M4RHNPRmlEUQ?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-08-28T22:14:00+00:00",
+      "score": 47.9,
       "corroborating_sources": [
-        "CartaCapital"
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -351,89 +366,14 @@
       }
     },
     {
-      "id": "39b8e64ce6270ad8",
-      "title": "Albanese eyes big-spending agenda for third term, places tech regulation at core of government - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRU5tOXVPTzhOQ0xiaXFPNzBoS0ZlNk5uMFVwSTRjb2dhNXdNa0hXMTVmTmE1d0p5VVNSNUUtZ2JnY1ltSndRaXVJdkZIaWczY2xRWnFGbDJ0TmpUQkNTQkl6enZfdC00LTBoekp3cF9MUTVxcWYxRzBuZFMzZ18yMUl1YzQ3R2NZN29tWlB2RGFJX0tjb1hocVo3Slg5ZFpQdmZvQVdzbjU4RGp5ZEJ2SEJOazByYVFBZ0xTYUNzWmlfbjgtN19BLXk5TmlRdHdnMUQtMFU3Z05WYWVzb0NCU2ROOTdTUnJiSHc?oc=5",
-      "source": "SMH.com.au",
-      "published_at": "2026-08-28T19:00:00+00:00",
-      "score": 48.27,
+      "id": "ed3b01f58f1be3b3",
+      "title": "Guerra no Irã completa seis meses com Trump perdido e regime com série de vitórias estratégicas - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNDVXb1N4YmtQanJ6a2JpWHlkbDg2LXNrWTBUdWU3YUFRVUduSlNDNUlodkVXVXU1RWo4Z0VJM2FXRTlST2JZcmZvdFZUenVtbHZBYjJVSk00VDFra0dBN0Q1dmpIcVZMNUs3YXIyZGZEcVUwWC12VDFkZ0xKMjJPcFhKSmRXb3ZwS2hsSHd6Z1RJa05HT0c4aVVMRVdPc3FybnBvOEI0QUZfX1dfTWk2QzZyV3N1SURoQmpHQUIwQmVwWUZBYU04Q1kxcTJaTTdjV2lR0gHYAUFVX3lxTE80VHlLQUV1ZjI1Qy02TjNyd05Ka0NUY3NTdmVjOEstUm9JNC1BUFY4dWRDX3Y2bTJGMVgzR1ZQV0l5dTVqSHQxXzJnSFZQUEN2LWs2M3pTSTl3OGQ5WVdjUFpSSzA0MUgybHdSZEtOMXNMclJzdEtFZXU0azZYRF9XNmJGVGxHc0hkb3dVRjVLMHZ4a3RBNWZub1hxQ2h2QlJrcEdNaTF3WG45UnhZYlo0X2RWYzI1UkJmMlFNRXRab1lRNUV6cjU3QlVKRFdlMXdVcmsxNm1hYg?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-28T15:00:00+00:00",
+      "score": 47.73,
       "corroborating_sources": [
-        "SMH.com.au"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "69017a67b2342c7a",
-      "title": "EEUU se hace con el \"control mayoritario\" del 20% de las reservas petrolíferas venezolanas - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFpuUkNsQlFxQ0tXTXRwSEpOcHNmS3RFaGs4RGkxaUFVOE83QnJLWk1rbHl4RWdseldabkZRdHdNRjVGU3dmQ2FuM1B0QWVYbUg3alVvbFNLQmJsVFVOOEwxNzBMV0VqeHlxcEdDVEdwdkJFR0FVMjlkV0JPZTlvMWJJRDJMYm1Uc21HQ21kbjZWNnhNaVpZaHM5R2ZwOC15S2pyQ090ZjVBV2l5M2dyT1l5Y2ZmZ3hrVHVKMHJWaWE0Z9IBxwFBVV95cUxQbmpKN3cxX29VcHE5VVhDTDJSb1hlMGxGQXFKTER4Tk9YemhzazdrSFBtcDJVRUNZa2hiQURqNjl2REJfSXBEYm9XQkMwRTMyU0ZYcGY5YW8tVmtyeE9pTkxSZ19aRm1VUDZ2SndKQW1OajJpNWk2Z05VVWd0TVphQzlEMUMtQkVMcEJhdklBT3huZ2FDejRpVFN0dUVuSGhoaFpidjVPeVUwVExndTg3c3dsWGZDQ1JHRE9SalJSM1V2Vl93R1E4?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-29T08:00:43+00:00",
-      "score": 48.02,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8978ec900847ec81",
-      "title": "Leia a íntegra das perguntas da “Globo” e as respostas de Flávio - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVNEaExJbkRpQ3VaZlFqVjB3aTBSZnhzN3ROdlNMaHpPRVdrc0pCUVpKa3dQNzItamJYVkktRkh6RWhxX1hnbThYalo3SGhoQmNlVWZDa3otNnFueEpCZzN5U201ZlJBQlBsRlg2NXBSTnpqUlo1SFNwbjgzaENyMHEtWVU2MTRXVFMxLVNxNUpoaXNaN0E0SV9CMkFrYjkyYzJVY19BTUNyczJpLUdfMQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-29T03:21:22+00:00",
-      "score": 47.92,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c8e7f18d8e5ae55c",
-      "title": "Flávio evita aquecimento global e cita saneamento como resposta - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZG1XNVFob0dQRVRaTGVmSjBoLUNWY1RJZ2NvMVpBSlRVek5lQjZmb200WmVXR291bVZkNEI1RmNXYlBONWxndWdNV2xtZlZBRlhfV0haQ2RBNTJtZ1ZrWkt1LU5oc1lOT1g0Z2VvZ1pWQWRzcmVuRGJzVnBwd3JHb21Cc1MxTXFGbFFOVlZFMy1MaEhjbEFacVoxTlJyZGI4My1LaHZUOXlpYzBJbTJkR0FB?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-29T02:50:39+00:00",
-      "score": 47.61,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6dbb5ae7e72582fe",
-      "title": "Flávio cita Lula 17 vezes em sabatina; petista evita nome de Bolsonaro - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDRiTEJGY0htdEgtMWVkUXl6TmJ5TmdHRlVnbl8wZEdmbXNUS1JXQW5zZHpLeF90MnVaNWdOYW5fTmxCZTRsWjlMRlZsTGMxU2cyYkZZeEw5T2VsTTIwQmRmbmpWejR3VW53em9JVFl5UUFHVTBuM3licjVQc1FmbGpHUFd6blhTcVpzOFNMNnlIVFZBendSSHhXRVFKOVFZeHJsSVc5b2Z0a2pJbzNkVnRqQWZJRFltdlE?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-29T02:16:22+00:00",
-      "score": 47.26,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a1cd71a917479a95",
-      "title": "Washington, Rabat, Jerusalén y Madrid: el tablero detrás de Ceuta y Melilla - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTdLamxEOHN1UWRIZjRtMklxMUhEazdQYVBxX1lUcGZYckVPUzVQaGNNcmNTeXh0elFfaGtwd2R1T2ZXOGljRE5jQktiQnFYVk8zSVhLTE0zX0RRTzlUdFY4cV92U1pYNG95bFBaWmQ3c2hyb2hxSzNKcWZSbndON3Zjc2hVQ3dSU3hjcV9oRGF1dUJrMUpoU00wbXNOWkdkVEF1Y3B3bFVTOUJadzJ4aWxMSXBod1dnRXJydNIBwgFBVV95cUxNUVVZdnQ4UDRyUXUwYUpyU1ZXa2o2bWhTU1RZeUVrVlktSW56cWZRcTF0cFJocnBBUWVVN0JDQ0MzUGRYeUs5WjNodjI5RXhGVkpqTlluaUU4RUdkU0JoeWcyY29uWjEwbWtxdndiSXJYazVLNmE0aS15Qjc2MDRPZE93a3hpY1RzdG81Z0xBWE93R1RUYTZiVWVvMERoSDNfd21HendCaElCSF9xOXpsOUdrUG1MSmlrWFlQT3dTUzdOZw?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-08-29T06:08:33+00:00",
-      "score": 46.73,
-      "corroborating_sources": [
-        "Elplural.com"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -449,6 +389,66 @@
       "score": 46.49,
       "corroborating_sources": [
         "GZH"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "39b8e64ce6270ad8",
+      "title": "Albanese eyes big-spending agenda for third term, places tech regulation at core of government - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRU5tOXVPTzhOQ0xiaXFPNzBoS0ZlNk5uMFVwSTRjb2dhNXdNa0hXMTVmTmE1d0p5VVNSNUUtZ2JnY1ltSndRaXVJdkZIaWczY2xRWnFGbDJ0TmpUQkNTQkl6enZfdC00LTBoekp3cF9MUTVxcWYxRzBuZFMzZ18yMUl1YzQ3R2NZN29tWlB2RGFJX0tjb1hocVo3Slg5ZFpQdmZvQVdzbjU4RGp5ZEJ2SEJOazByYVFBZ0xTYUNzWmlfbjgtN19BLXk5TmlRdHdnMUQtMFU3Z05WYWVzb0NCU2ROOTdTUnJiSHc?oc=5",
+      "source": "SMH.com.au",
+      "published_at": "2026-08-28T19:00:00+00:00",
+      "score": 46.4,
+      "corroborating_sources": [
+        "SMH.com.au"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "36cf6b5f91d1f104",
+      "title": "Só no Brasil a extrema-direita defendeu as tarifas de Trump, diz analista político dos EUA - CartaCapital",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbll5cDhwU2pfOG9Vdm1Kd3RaNE90OHUtandtWHoyRXZMMDhTZFlzRnh5bzhvZmdxc0pvN2hiQXdpR19VU3BHb2ZKM1hZc3RYajlBeTJsLUpZRTBlVUpZTEQ1Qjd5LWVsSGNETmZBUVRvY2tYMFFiSnU3bFg0end4dFVRcXFQSHhGY0E0QmpNZTQ1WHl2N2VEbzhITmlPajVVN0Z5UDhSdEVYRkVGaUpXNjNXRi02czZGNENPajZ6UmlzMG9MY3YxX0gtNA?oc=5",
+      "source": "CartaCapital",
+      "published_at": "2026-08-29T08:55:00+00:00",
+      "score": 45.92,
+      "corroborating_sources": [
+        "CartaCapital"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8978ec900847ec81",
+      "title": "Leia a íntegra das perguntas da “Globo” e as respostas de Flávio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVNEaExJbkRpQ3VaZlFqVjB3aTBSZnhzN3ROdlNMaHpPRVdrc0pCUVpKa3dQNzItamJYVkktRkh6RWhxX1hnbThYalo3SGhoQmNlVWZDa3otNnFueEpCZzN5U201ZlJBQlBsRlg2NXBSTnpqUlo1SFNwbjgzaENyMHEtWVU2MTRXVFMxLVNxNUpoaXNaN0E0SV9CMkFrYjkyYzJVY19BTUNyczJpLUdfMQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-08-29T03:21:22+00:00",
+      "score": 45.56,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "69017a67b2342c7a",
+      "title": "EEUU se hace con el \"control mayoritario\" del 20% de las reservas petrolíferas venezolanas - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFpuUkNsQlFxQ0tXTXRwSEpOcHNmS3RFaGs4RGkxaUFVOE83QnJLWk1rbHl4RWdseldabkZRdHdNRjVGU3dmQ2FuM1B0QWVYbUg3alVvbFNLQmJsVFVOOEwxNzBMV0VqeHlxcEdDVEdwdkJFR0FVMjlkV0JPZTlvMWJJRDJMYm1Uc21HQ21kbjZWNnhNaVpZaHM5R2ZwOC15S2pyQ090ZjVBV2l5M2dyT1l5Y2ZmZ3hrVHVKMHJWaWE0Z9IBxwFBVV95cUxQbmpKN3cxX29VcHE5VVhDTDJSb1hlMGxGQXFKTER4Tk9YemhzazdrSFBtcDJVRUNZa2hiQURqNjl2REJfSXBEYm9XQkMwRTMyU0ZYcGY5YW8tVmtyeE9pTkxSZ19aRm1VUDZ2SndKQW1OajJpNWk2Z05VVWd0TVphQzlEMUMtQkVMcEJhdklBT3huZ2FDejRpVFN0dUVuSGhoaFpidjVPeVUwVExndTg3c3dsWGZDQ1JHRE9SalJSM1V2Vl93R1E4?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-08-29T08:00:43+00:00",
+      "score": 45.34,
+      "corroborating_sources": [
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
