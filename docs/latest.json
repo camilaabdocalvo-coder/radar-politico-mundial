@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-08-31T20:23:57.997193+00:00",
-  "next_update_expected_at": "2026-09-01T00:23:57.997193+00:00",
+  "generated_at": "2026-09-01T00:39:18.955830+00:00",
+  "next_update_expected_at": "2026-09-01T04:39:18.955830+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "41f9e77219478f7c",
+      "title": "A política externa nos planos de governo de Lula e Flávio Bolsonaro. Por Kayque Ferraz Costa - Combate Racismo Ambiental",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR20wcFJ4QzRKc3RxYnZpUFF6Z0xQM19GaGhpOFB4bjh0LW5JbGFyczhDaDlUU1V3aFNoQTl2cndhUlB6SFJoRlBmQXVVMDFTdnQ2NXl2SDNtYm1qME1wZUsyVThnaHpLSTdqUG1PeXhObUtGenFoeGNSTWp0YmlnbGtNNzhiMGZpTl8ydW5adjBMRVQ3dzdlTXN4NElGNmxsWFN1cUV1cl80MUpYeVRyNXBabzFBN0IzQUZTSDBvaExRdk84ZjJSWGlYaFcwUWRY?oc=5",
+      "source": "Combate Racismo Ambiental",
+      "published_at": "2026-08-31T20:35:56+00:00",
+      "score": 78.68,
+      "corroborating_sources": [
+        "Combate Racismo Ambiental"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "07cf76ebf071364c",
+      "title": "Chile y su política internacional en juego: aranceles con EE.UU. y Magallanes - biobiochile.cl",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWmRKSldqVUZleV9HSDVwRW13cFVLZ2dDa0J2RUI2WmF6ZWZmOVZrUWd6VWV4M2dLbVNuRU1fcG84eUs1SG02YVJsT0RaZDd5U1N2QURLaF9kM3Vlb1RtZm1pamJyLTJtYjJmVU45djZuLTcwdVM1UDktckpmbV9BZEJpTkJ1a1FsNTFwaWxUMF9UVWZ4QURhVzdFZWVQeWQ1cDFESkkwRkxOSk9aREZsZ3ZuRDllNUwycEU5M2lsMHMxS3kzWmw2eUl4Q0JKSS05V0xFNkNyZzJSNENGYmF3WXBrOVlHa3lkY1NDSm1B?oc=5",
+      "source": "biobiochile.cl",
+      "published_at": "2026-08-31T21:58:30+00:00",
+      "score": 72.25,
+      "corroborating_sources": [
+        "biobiochile.cl"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "083006228fc1a563",
       "title": "Netanyahu's rhetoric on settler violence doesn't match Israeli government action - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2o4TlJiOGhfY2FTTzZOUlNrOTNIY3llRTFJTG5IX3N5S1hnUEQwaE12T3Iya3JSd1ZLYUQ0YTNiRjhsdkFNekwxdmdXdHNobU94STJCanRyMkFYeEhCWVA3Rm5yZHRMVmZkOE9GblhwT3E1bENnVVg4ZDFDTGJEZmtLRF9HOC1MbzhyRmZ4ZEVBSHJqQU45ZWRZTU1uYmtXLVpkSQ?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-08-31T19:33:46+00:00",
-      "score": 74.44,
+      "score": 69.54,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
@@ -21,14 +51,14 @@
       }
     },
     {
-      "id": "c45af2c5febc249c",
-      "title": "Natura anuncia troca de comando e ex-presidente volta ao cargo - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnJpWDZVcGtETTIyY1dOTXgtXzI2MXI1cHItekNacjFIb0l5dEQ2YzdTQWMyenQ1SVBrQWhRZ3F4Rzc3dTR0WEduOTdDWm1vVVpsNncyb1owVjliWVFlU215T1diTllCX2VSbGQ4ZmRNVVNDdE9VWjZkNm1jc0J5XzNvU0NoUlVGQUtvb0RQcXY0RmtRVjhZTlJEVXprcU0?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-31T13:44:57+00:00",
-      "score": 70.89,
+      "id": "1647bb445c5e015a",
+      "title": "Decisão de Toffoli contra Renan Santos é alvo de críticas no TSE, e ministros defendem debate em plenário - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV1VMY2dzRXhydVVyY1BZTnNRZ2JCYXFnbDFMYmQ5RTVSTDQ4NEhDSnpmMXpuaFV3YU1NWm1sTmlkWndmZThTck1mVTFrN0ZJWkpDMGlvMEFDWUNEclpsNHRJUk5WOS11b25QemlLZDE1MHBGNTR2NVdybXFTbGRxdktKbEdvdFVmMXBvQkcxakg3QXhEbTd6MzlJUWhUY0ZWcGU3ZHZFc1hLN3ctYVhROEVaR2RwTTRILTBkQUpfMFBWZmpRal9fZ1dlS1ZMUTFXckt0ZkxJVzUyTUxxUzZHVnI2TDhxTHYxaUE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-31T21:10:00+00:00",
+      "score": 66.32,
       "corroborating_sources": [
-        "Estadão"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -36,29 +66,14 @@
       }
     },
     {
-      "id": "6bb9e4c5c90c901b",
-      "title": "La cacofonía en la política exterior de la UE, a debate - La Vanguardia",
+      "id": "024d054304c78c3f",
+      "title": "La cacofonía en la política exterior de la UE, a debate - lavanguardia.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV00teWE3MWE1aXo3N3dWWUc2V1JnbnRLU3FobzdPZkQ3LUdCUHJKMXRyZTVqaE93N2I3TTAtc0F1WGN4cXBfVl82UDZqMFJzVUdYVTlLdE00eXZ2SnZ5bjVZN2NpejI4N0pRT3F1ZUNGZWVmNmxSUjJmY2pmaWNCNk9KcDRoTkZxajVJeEY1ZnJRUWwtTVgzVUZYQkE4ZHh2NE1QREJB0gGrAUFVX3lxTE9XMldnUXRpeVN5OFFRSzVaMDFxVklvNjlWREVJM2x3TXJxRkhaWXBzTm84dV9TQ1VNSm15eGdnN010dVpLcUdYM1JLZkdGbDFickFlRHhyT1BkeGFjVmVPYWUyMGNlVE5sREFYOHY5MUFZT0c1VVpCWkVBRktrZ3dXZ0V4Mlh5cWZfWDhkN1RVbWcxVGRQUTFGZEYtbjdJVjJYWHgycmxGOVNXOA?oc=5",
-      "source": "La Vanguardia",
+      "source": "lavanguardia.com",
       "published_at": "2026-08-31T16:25:26+00:00",
-      "score": 70.77,
+      "score": 66.28,
       "corroborating_sources": [
-        "La Vanguardia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "67cc72c3105d85b0",
-      "title": "Entenda a tensão que está crescendo entre Turquia e Israel - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW1XOU1RVUFKNi11VVhfczhMblhqdWZGblg1MnI3RjU0VXRDTXZQUy1sUUsyVWFSNzZXYnlCNy03ZEQwR01OVTRPWUcxNDhFemk3VFhzUnNhOWZEdE5qNXFIQU1hcE9LSkZDNmppQjBrTXk1SXpNMUZVVy1NTGZ0d2haRWFVSWdiazdrdXVocTlMVVcwZTNEbUJnaE9SUUdWZFFN?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-08-31T20:03:45+00:00",
-      "score": 70.06,
-      "corroborating_sources": [
-        "Brasil Paralelo"
+        "lavanguardia.com"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +86,69 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnRiMnlRSlBjaTgxYkJBaTdaOFlmZWFCaTBYTnJsWS1sOXVUYUNyZmlWT0pGbk4tczNhM0N4aVNJWDhpNkE4dG95VmFNX2o3ZURKU0I0UzE4ZnlCWW1jaVREbXRNYjBqNWF3cFJjbWs4U2Z5WkI1UVdnSUJ2cEdKSmJvNllpOWc2MHhPRlZVUTlVbWs3OE9MdURJZ3hMc0h6N1AzR0hXNTFrUHlYVnJmbVBCS3R4SGw4Mmt1Q29hTkNYMVNyUDl0My12aEQ?oc=5",
       "source": "Radio Gabal 104.1 MHz",
       "published_at": "2026-08-31T15:18:37+00:00",
-      "score": 69.54,
+      "score": 65.19,
       "corroborating_sources": [
         "Radio Gabal 104.1 MHz"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "67cc72c3105d85b0",
+      "title": "Entenda a tensão que está crescendo entre Turquia e Israel - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW1XOU1RVUFKNi11VVhfczhMblhqdWZGblg1MnI3RjU0VXRDTXZQUy1sUUsyVWFSNzZXYnlCNy03ZEQwR01OVTRPWUcxNDhFemk3VFhzUnNhOWZEdE5qNXFIQU1hcE9LSkZDNmppQjBrTXk1SXpNMUZVVy1NTGZ0d2haRWFVSWdiazdrdXVocTlMVVcwZTNEbUJnaE9SUUdWZFFN?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-31T20:03:45+00:00",
+      "score": 65.09,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0d55d796e3fc11f6",
+      "title": "Donal Trump abrió la puerta a revisar la postura de Estados Unidos sobre Malvinas y generó expectativa en Argentina - Actualidad Jachallera",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM3dVeGJOYnJQc1VVa1c4T2NTeEFJaHZCdHJHUW5nZmN6bW13T1hJSU5JRnpOTWtpbW9xSzQ3Zm9COGQ3LWVzeGxyVU1fODJQUG9xc1dseHNVOVFDaHF0eTZJVURQSVhOeU5yb1ZBd3A3ZVllM2xfN2VZMEw4ODVtVTJHRmdWM0NXd1hzLVpzU29mYUI2UXBqdUhrdGF1OXN1WUFWMzVJeWxKNF9lSGQwWDdFQUstMXJTMUlPVkpQTXpkWVBnQ3VuWHVnLWVNaWZVMEZzZVJFajV0aW9WVEtxRUhOV2JTQXh5ZDdDVVNsSlY1NzJYT1E?oc=5",
+      "source": "Actualidad Jachallera",
+      "published_at": "2026-08-31T22:20:59+00:00",
+      "score": 64.69,
+      "corroborating_sources": [
+        "Actualidad Jachallera"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b4ef2523d9229494",
+      "title": "Túlio Amâncio estreia no SBT na próxima semana após pedir demissão da Globo - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFpKUlRvdS1IRXEwQVhOU3hNc3hCRkxSQi1QREc4RFBQbkQzWWUtUmhMOGZPQ0pzYy1TTFBHRnFoMkdoQXpSNmRRTXlhc0JqM2FKWDBYUFkzVkl0V1RPNUFnQXA2VWtFUlRnY0piQkg4UlE1Y2RVak9WdTZRTzkzOUl4T3RybHVQeFRDUzIzaExKem5UMGdhNmE3WU9TSnVMUkxhQWxrSW14RFNxdzZ5RFRuZ005YjYxME8xVGxDUGxTZnc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-08-31T19:29:00+00:00",
+      "score": 64.45,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a5087bd22b9e0789",
+      "title": "Debate em BH discute papel da China e do socialismo na disputa geopolítica global - Brasil de Fato",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDlucmVySGZDZXB1eldKZ1BNOUZqZy1ia0ZXbUxSMXZIVUxLZlRpRUdvTVgxaUNXU2RJMjNTTXg1OWIwMUV4bEo5Qmc4YlMwWkotcWM4eFNsVEpvVHppN0FQelBQQThoVHdCUHk0LTJKbGs3czRSZ2kxNm5KaEJXR2UxRS16X1ZDVUNpSGpPbE10dlVNMUpDNkpSMzl5YW5JbVpGZk1pVEt1b2sybDl0emJRdXJWS2NKejZueGhHdFZ5c0k?oc=5",
+      "source": "Brasil de Fato",
+      "published_at": "2026-08-31T14:32:00+00:00",
+      "score": 64.45,
+      "corroborating_sources": [
+        "Brasil de Fato"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +161,39 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjcxTUp5eU1URDlUQ0hSM25sT1pOWnU3SElUdmdUdmt6MkZQbmMtM3VGclViTnJZM2lZWnpRNFFHeWpFQjVzRm5ITGlLYWJxZm90YXFybDl6M1lkdDA2Q2hRakpxWGppbEJnUmc3dUZFSEEydEVDMThac2pJMXMwQko3TVEycElQMVNYSWY0bW9BWVZIY0U2LU43TmplUUk?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-31T18:24:28+00:00",
-      "score": 68.05,
+      "score": 63.31,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "33bb2540c04aef7a",
+      "title": "O que faz Relações Internacionais? Conheça áreas de atuação - FIA – Fundação Instituto de Administração",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CVFJTczVjU0NXTDlSSGZMYUVBYVB4YVF4Y3NuMDhtWUR2eFdIOExLOC1OS0FzS2R5cEFJa1hhY1g3eU1RaXRQRjgtclI4ZXA1dXJqdE5xQ1J5cEpURWhGZHFqZ1NuWDlxMkE?oc=5",
+      "source": "FIA – Fundação Instituto de Administração",
+      "published_at": "2026-08-31T21:07:33+00:00",
+      "score": 63.27,
+      "corroborating_sources": [
+        "FIA – Fundação Instituto de Administração"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bf499cc495b3ffb8",
+      "title": "Islandia, cerca pero fuera - Política Exterior",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13S0haektDdXJNcW9POXRKUWEwNk1zWGpqT2ZsNy0tZlNteXh4a1JXSjRRYXcyVmUyUDlYTTdqMnJhdGdaTVpFZi1OOU1SVWdXbjA4ZndfX0RnVXRJTXIxS21TWVJWT3ZCM2N1R1JqVERpSTFOVXlJ?oc=5",
+      "source": "Política Exterior",
+      "published_at": "2026-08-31T12:41:55+00:00",
+      "score": 62.76,
+      "corroborating_sources": [
+        "Política Exterior"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzUyWUtVRHJ4MVBRcF9iZEJQSVdROU5SZGVXaFZrUWROZWFmaTVVTVRQTkNvMERhOGRoMzJ1SWwyWjBJQkNCekYwaXl2NnFibjNaRnowWmVJd0FQZFJWMDRoU1BVb0RXREpHSnhSTlNYSktBNm9jMjVZZUs1cGZhVDZJMC1CV2JVa1lWNFRVN2paMXAtYVU1YkJxUzREZzRwR1lHVUFTTEdjTFdE?oc=5",
       "source": "El Mundo CR",
       "published_at": "2026-08-31T20:19:51+00:00",
-      "score": 67.39,
+      "score": 62.38,
       "corroborating_sources": [
         "El Mundo CR"
       ],
@@ -116,9 +221,24 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2NxMVpYUFRiVVVwcXV4NXBCTS1SMzAxZEdKVklGSWlkNU5rSVh3NFBuVFRadS0xNVU2cHhnSmNST1Fad3dUZnpxVjBFd25LeElpb2gzSlpoN3JIbUI4TC10ajkxRkVHNzltemV4YlRyeS1FYkFzNFZlaDVYcEh3cExoTEM1YVlFYTcyaUR0ZnVBLWZ4bS12bGJaTjhRc3drVElMdV9qUTVUSERUZDYzVWtfVXhkNkxUbkhTTTR0cnkzMVU?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-08-31T17:30:00+00:00",
-      "score": 66.99,
+      "score": 62.37,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3a2c62f5ed82aba2",
+      "title": "Gustavo Petro se reúne con Paco Ignacio Taibo II en la CDMX - vanguardia.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb1lNNTQzU1g5NkM5eDRmMFNMYkJOaG05N0JWbGN0TFlqamNOMFZNbFJ1S290TXYwU05ZY05COUxFTDd5aXNRMlVQRVI0NkR5WHcyZVY5WDZLcHRETE9POUY2M0VFcE5RM0ZSY3EwWmJfbWpUQnh6MHNmTHdHRWN4T3l6MG9qNWxLc0FTekw3Sm9uY2FEM2VZS1hFT25TRUxidmk5VFl4aHN1TTVHbXJRSDY0SlEzUmFTUXNN?oc=5",
+      "source": "vanguardia.com.mx",
+      "published_at": "2026-08-31T20:15:17+00:00",
+      "score": 62.3,
+      "corroborating_sources": [
+        "vanguardia.com.mx"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVRlWDdIbjlCVG5VMFZiN0Utd3gtcUZuZmpieWowWmZ0OGFibzNqUnNKV3U2cjBieXB4Y3g4cHhGZVdyUFlBS2poUkQtZUdoMWdaYm1LT3J3S0Q3MnNkVDg4Y1J5aDVtR3lLXzVyUi1HckU4eVBOUF9tTmJ6MDdRdk9GMnYyRkFRMHdyWmpjVWlWdktWd3k1WE5MZTNudDI4d1Z4MmM2Ykk2VjJvbTMwTFVTQWZ0ellkWlRxTkFZZVEyZy1VcDNCQ29La2lSNFU?oc=5",
       "source": "eju.tv",
       "published_at": "2026-08-31T12:10:48+00:00",
-      "score": 66.29,
+      "score": 62.3,
       "corroborating_sources": [
         "eju.tv"
       ],
@@ -146,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQXlDQ3g5RDU0MnZFZ0RnRzRNM3JfaU9mUEdUV0U3MVZtYmVVNzlZLWI1U0RNQ0xOcHVVMnhKcHJPUm1Yd2xwRHlEYUhYMlFuWTA4cXMyNFBvbTNadWlkNGlhdmtlaVNkbUFwSkZXWTZOVUYtUTlsYUwwYzVlb3FseS03NHNUUQ?oc=5",
       "source": "Noticias Urbanas",
       "published_at": "2026-08-31T19:20:58+00:00",
-      "score": 66.18,
+      "score": 61.31,
       "corroborating_sources": [
         "Noticias Urbanas"
       ],
@@ -156,44 +276,14 @@
       }
     },
     {
-      "id": "7b9e2277c268dc12",
-      "title": "Zelensky coordena com aliados ampliação na luta contra Rússia - pleno.news",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlpwcWhrc0x3cHpwdm1BUDF5MGNuQTU1SG4zVXYzWnpacHBSQkFEaklHMUZqTm9tS1FmV2Rza2wtOERjc1ZYMkhSTWF0eWM1cVhFem9kQ0kyWjVlTnh2V3M4ZHVONmxHM0xxc3kxa21fUzBobFlPaXgyNG9KRF8tQk9TUzNmVTUzdVBWZEFIU3VzZnRYOHpXNXAwNTI0LWo1LWpSSnpubUJiRTc1OC1UV21GTnI?oc=5",
-      "source": "pleno.news",
-      "published_at": "2026-08-31T18:57:00+00:00",
-      "score": 65.7,
-      "corroborating_sources": [
-        "pleno.news"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7abe8e6beab4492c",
-      "title": "Saiba quem está por trás dos planos de política externa dos presidenciáveis - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1VwdDYtSVh2QkFhR2VueTRjaU1LYklmYnFVUHlJYUJsanpNOVJnbGdHV1RteVBteUk1bmRsOFkzRjI4cXp2OHlXLTNNeml5ZnN5dnR6MkZ6NUNPODRsYzExWXZjS1hqWEtXUlVlWHZvejFqdTN0SEhVYm1UaDJqel9HcWpVQkdpSTVocElDWlpEc1BiOUh2R2dYMnB1bU5VcEw5R01hX0puYUVEeWtuUGp6QXUyYVlrSzl6ODBKYXQ3N2s?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-31T10:42:06+00:00",
-      "score": 64.85,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5ef7f19ebdc11df1",
-      "title": "Tras días de bajo perfil, Javier Milei vuelve al ruedo con una intensa agenda política e internacional - Aire de Santa Fe",
+      "id": "1a8f90b6fdf12e1e",
+      "title": "Tras días de bajo perfil, Javier Milei vuelve al ruedo con una intensa agenda política e internacional - airedesantafe.com.ar",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWldBTWhabW10TEtZZDU0azN5Q0xXSDZueHFrU0hlVFhQWXNjZnlUNUhaaXlZbGJ1OTg2X29Hd0Rad3d1b0FaMUhKanpPbmRQRk9SVDBYMUgyLWtDWjMyLXNCdk9Oc1RwNlF6TjRqRmtKYXRzUXplMWVUemFuSzU5aDNBRU10VW5XY1JINkdWMElLYm9UQWwzRlJoR0kwN0hVYnZzWVZDYzlNTGJxVFZpVm83NGNCa2U2clNuTEtaNlJJeWpscHp2ZXN3LXAwUTB0OGY4SlRR?oc=5",
-      "source": "Aire de Santa Fe",
+      "source": "airedesantafe.com.ar",
       "published_at": "2026-08-31T10:34:00+00:00",
-      "score": 64.72,
+      "score": 60.9,
       "corroborating_sources": [
-        "Aire de Santa Fe"
+        "airedesantafe.com.ar"
       ],
       "signals": {
         "source_count": 1,
@@ -201,14 +291,14 @@
       }
     },
     {
-      "id": "8f1e5c621c93628e",
-      "title": "X aponta lacunas em regra do TSE sobre exclusão de candidatos de algoritmo e pede suspensão - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZ0TVl3TWU1SU9yUkZHZy1aX1g4QmY1SVhvaXE1WU1tS3BYQzBwbUViWUU0SlB1S1JDdXJhaUVjZ0k3WjdRSW81Ykg1Sk9GM3pIWV8zZGhwX0NYc2dxWVFSd3c1SWF4X0VfNklwTXRaWjdDbHE5VzZySjB5QjVvWmpULUllaHdXSTgxd21YMVBUNzR5TzV1aHVobldLQXMtamRoV3BPUzFiaDVkbk03Y0RvVWJnU2NlS2VDRHhwMUxtYVg1azJqQ004cXNqaVNqbU5ZbWlidGQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-31T14:41:00+00:00",
-      "score": 63.87,
+      "id": "9bd14ab055d29fd1",
+      "title": "Zelensky coordena com aliados ampliação na luta contra Rússia - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlpwcWhrc0x3cHpwdm1BUDF5MGNuQTU1SG4zVXYzWnpacHBSQkFEaklHMUZqTm9tS1FmV2Rza2wtOERjc1ZYMkhSTWF0eWM1cVhFem9kQ0kyWjVlTnh2V3M4ZHVONmxHM0xxc3kxa21fUzBobFlPaXgyNG9KRF8tQk9TUzNmVTUzdVBWZEFIU3VzZnRYOHpXNXAwNTI0LWo1LWpSSnpubUJiRTc1OC1UV21GTnI?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-08-31T18:57:00+00:00",
+      "score": 60.88,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -216,59 +306,14 @@
       }
     },
     {
-      "id": "1ce33d9381f47047",
-      "title": "Bolivia y Japón potencian alianza estratégica en litio, tierras raras y energía - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWZTTkx3U0h6eVZScGU1Vzd5bnJYYXl6dEw2X2JMUnBjYTJYWTdIQ1BVNXU5SFY1Q1didWtvMGhYclU0dUpQSGdFZkl2WEkxSGJ2UTdTUG1sN2Y4WGZWQUJpRzZaM3FwN1NUV2pLWFhHTjFzZHFOV3poVV8zRXJkSjNfUnI4Z1ZJZW1hQ2E4ZDB2S2s0Qk1fM2o4ZjJTUQ?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-08-31T17:13:58+00:00",
-      "score": 63.69,
+      "id": "603c37f4257220d0",
+      "title": "Cúpula anti-EUA? O encontro que reuniu Rússia, China, Índia e Irã - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOURfMzNuanVwLXJYNmNCa3YzeVZzRnIybGRfUDE3NlhHZXF1RVlRdVZVZlladVViQjFwclRfbXV2UlZEWjJ6VkIyU2ZvMElhaTdMeXJLSGp5V0t2UXVoa1llamZmdmQxUm1JYzh0dGFNRFNuZTEzVUhXU1h6ODd0bkRjZzFMMXAxY3owc0tiU3U4NFpyUF9LTXBwLVA3ME1Xd0h1NnBES0g?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-08-31T15:49:19+00:00",
+      "score": 60.69,
       "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b09c67a5ec1bbd10",
-      "title": "Setembro tem feriados além da Independência; confira o calendário - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFF3TW55NUpzSjNWRnllNVM3MGpLOUlYaUdFcTNLRFoyYjU4SUFIdWV2UWxsZFJ5S2FVY0RUV2kwN0pJc2E2aUpIcTNvUl9sc2loYVlqUjItcHhJNzhNZk0tZ1NaWEFseHpaa3RWYlEwUkNWSzFhNU42YmxyM29yei1HcHZKTTBVcmFoeHNDc2Y1amE4eWw1Nnd6MUdfYWs?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-08-31T14:28:00+00:00",
-      "score": 63.64,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8d6d10ee37a3e880",
-      "title": "Durigan diz que Brasil precisa de juros civilizados e promete superávits a partir de 2027 - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdVdQZEM4TXoxWWFUQ3hJWm9rWjJKYnl0VW9tb0dZWFMxLWtXSVE2blBnRGxKaE5lM1FVaTNsd2s3MDRFWXRXaXJMZWQ4QlJQZWlIYW9tdlByU3BBenQwRmUtNUJIaGs4OFQzcHpWLUMzVnBBYVpGQjZvREl0c1Bwd1ZNMjdyazkzZ1hhZmUtTWtILV9ZVEE5eWp5Wml2ZXJ1bHBFT0Z3aU00M2N0NkRsanhsdGJPcGRVaGhmR1BrbHlETlRCYkJnVWhKT2gwaEYwUDYtblJ2b1I?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-31T14:25:00+00:00",
-      "score": 63.59,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2f4ba8445c26113b",
-      "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHZVX09FMTl1Q3UydGNaQW1uT1pLUk1kSXBlTTg4dEpHVGNicUZUclRTOHMzcGcybEthT1luQlEySU9xeGlXT25Cc0FFMks3MW9pUElwR2xTN0FXejlkczlwNEFRWm1SYjY3WHp6VEZBa1I0a0ZpQmxYbUY3ZXl3TmtoWTJkaUNSQTBYUjkwU3ZBU1JiTHJjMlJTcV9RN3ZqdjZoRGFYX0Q5VkVkeXd5RU5aZXVDdjN5dW5UQVQzbWVOajVMTnhMUl9qVDY?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-08-31T09:00:34+00:00",
-      "score": 63.27,
-      "corroborating_sources": [
-        "Estadão"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -281,9 +326,69 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmMyeXBCNmJWWHo3WmVKajh6TllLaVlBNklZZnhWbzJpWXRmNnZacjBBZlJ5WG9VM0Q3SmF4ZjNCdjd0Rmd6eERTajlFVFdvNk91by0zc1JraG9nV2NMdzdKWlVSNjIxSGd3SzRWa3BpZjV6ajRyQmc4Yi1NVEU4UnEwRm9fVE1BWGhYNXBVck5pTDlhUTBUUktZS0Q5NU9VYTVzeVRWMA?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-08-31T05:30:00+00:00",
-      "score": 63.23,
+      "score": 59.91,
       "corroborating_sources": [
         "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2f4ba8445c26113b",
+      "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHZVX09FMTl1Q3UydGNaQW1uT1pLUk1kSXBlTTg4dEpHVGNicUZUclRTOHMzcGcybEthT1luQlEySU9xeGlXT25Cc0FFMks3MW9pUElwR2xTN0FXejlkczlwNEFRWm1SYjY3WHp6VEZBa1I0a0ZpQmxYbUY3ZXl3TmtoWTJkaUNSQTBYUjkwU3ZBU1JiTHJjMlJTcV9RN3ZqdjZoRGFYX0Q5VkVkeXd5RU5aZXVDdjN5dW5UQVQzbWVOajVMTnhMUl9qVDY?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-31T09:00:34+00:00",
+      "score": 59.62,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8d6d10ee37a3e880",
+      "title": "Durigan diz que Brasil precisa de juros civilizados e promete superávits a partir de 2027 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdVdQZEM4TXoxWWFUQ3hJWm9rWjJKYnl0VW9tb0dZWFMxLWtXSVE2blBnRGxKaE5lM1FVaTNsd2s3MDRFWXRXaXJMZWQ4QlJQZWlIYW9tdlByU3BBenQwRmUtNUJIaGs4OFQzcHpWLUMzVnBBYVpGQjZvREl0c1Bwd1ZNMjdyazkzZ1hhZmUtTWtILV9ZVEE5eWp5Wml2ZXJ1bHBFT0Z3aU00M2N0NkRsanhsdGJPcGRVaGhmR1BrbHlETlRCYkJnVWhKT2gwaEYwUDYtblJ2b1I?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-08-31T14:25:00+00:00",
+      "score": 59.34,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7abe8e6beab4492c",
+      "title": "Saiba quem está por trás dos planos de política externa dos presidenciáveis - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1VwdDYtSVh2QkFhR2VueTRjaU1LYklmYnFVUHlJYUJsanpNOVJnbGdHV1RteVBteUk1bmRsOFkzRjI4cXp2OHlXLTNNeml5ZnN5dnR6MkZ6NUNPODRsYzExWXZjS1hqWEtXUlVlWHZvejFqdTN0SEhVYm1UaDJqel9HcWpVQkdpSTVocElDWlpEc1BiOUh2R2dYMnB1bU5VcEw5R01hX0puYUVEeWtuUGp6QXUyYVlrSzl6ODBKYXQ3N2s?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-08-31T08:35:18+00:00",
+      "score": 59.28,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1ce33d9381f47047",
+      "title": "Bolivia y Japón potencian alianza estratégica en litio, tierras raras y energía - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWZTTkx3U0h6eVZScGU1Vzd5bnJYYXl6dEw2X2JMUnBjYTJYWTdIQ1BVNXU5SFY1Q1didWtvMGhYclU0dUpQSGdFZkl2WEkxSGJ2UTdTUG1sN2Y4WGZWQUJpRzZaM3FwN1NUV2pLWFhHTjFzZHFOV3poVV8zRXJkSjNfUnI4Z1ZJZW1hQ2E4ZDB2S2s0Qk1fM2o4ZjJTUQ?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-08-31T17:16:05+00:00",
+      "score": 59.13,
+      "corroborating_sources": [
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlhIY1o4VWd0cTFwcVVpLUctZTBfNHk0dVVtbGpUeUN2Ql81ZFlOdnROaG5vVDIwbFNHRURJY29KVWNEYWplT1QyUDdWcmVnQXNFNU9PWThqS1V1N3JYXy1VVXpMc3o3ckJaWkx0Q1J1Q1k3bVlvZVJFVzRjeUI0NGowQm8?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-08-31T13:59:19+00:00",
-      "score": 63.14,
+      "score": 58.94,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -311,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZVm5ac0kyYmFZX1dHcVlQYkNtZzZDbDkxNTF3WUNvdlhMckp5aTVvRHM1emRxUWlqVTVlZUhBRmNZaTZ6cDYxV0pSeHRqZkR3clhSNnR4WGJXd2VHSnYwOWZLVHNlU1JwdWZEVGFScElfUnQtekNFWi1CTQ?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-08-31T15:06:36+00:00",
-      "score": 61.33,
+      "score": 57.0,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -326,24 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXJycWpsZTFrb19qWENvWnhmVGZERmpLcUc2ZWY5ZXNJVUZyNXVPOVNEdlF4VEV2dWllYmgzQkJCZGJZQjdSbDR3cDAyTlpEaUlzVTRiNjd5SlZtaEtadGVuQVpONUlOYzRSSVpfSUxuV195QVBUS3E4bmp6RGRyUEwxQXV5Nk1NOFZEVV92OGpmREtDM2tlRXkxUHZ4Q1VL0gGmAUFVX3lxTE9LSUJiU0NmbnE5VTJzR2VEWUt5Y3V0R1oweTJuUEJwOHoxUU9kdWlBa1hvNHY5R2pIX1pwQnRtdHhWaEFKQk5VMDFyOGZTZjhkUE5lUzJtYV9INTl5QXpLZTlQd2ZDZXdxWlExSXdBNHB4VWtHRE94Vi1pUXZ3WlpvdVAwRVFndGtHU1MwaFJub3oyR3EzTkQ1MVZXbVdtY01tRWZhZmc?oc=5",
       "source": "Diari ARA",
       "published_at": "2026-08-31T05:02:01+00:00",
-      "score": 59.84,
+      "score": 56.57,
       "corroborating_sources": [
         "Diari ARA"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8c879e7ed37e08b3",
-      "title": "Islandia, cerca pero fuera - politicaexterior.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13S0haektDdXJNcW9POXRKUWEwNk1zWGpqT2ZsNy0tZlNteXh4a1JXSjRRYXcyVmUyUDlYTTdqMnJhdGdaTVpFZi1OOU1SVWdXbjA4ZndfX0RnVXRJTXIxS21TWVJWT3ZCM2N1R1JqVERpSTFOVXlJ?oc=5",
-      "source": "politicaexterior.com",
-      "published_at": "2026-08-31T12:41:55+00:00",
-      "score": 58.81,
-      "corroborating_sources": [
-        "politicaexterior.com"
       ],
       "signals": {
         "source_count": 1,
@@ -356,99 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZC1LMThFRXBmeWRJNnBaNDJ0c0hQWldxdXdXT1BtdVdab1BtWHllRHM2M0h2SDl3VEtzbnhYMkFSbFU5TE9SbmFfU3B4c2ZlXy0xMG84dDAxdHZfaExOVGQyM2haNzdUNDdqNEVFVXhPNUVCNUFKbFJIRGVKVjlOOXdDVGxZLXV3dm1DZkpZSExKb0swQ215QmpfbDR5WHRfMDh5b3g2TmU2Qmc?oc=5",
       "source": "Poder360",
       "published_at": "2026-08-31T09:05:09+00:00",
-      "score": 58.34,
+      "score": 54.68,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dc15771e8e4bba32",
-      "title": "China y la estabilidad del precio internacional del petróleo - Grupo Animal",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUxBVk55NGNyRnRfRU5YNlJoQm9TczJQVnVJX2ljenRrdTVYeVZnVF9jOWozQ2dpRkJrVE90ZmRKbDBtbUVqMENYRlgxZFBiMm9XdlluSWt4Mk1HVkxyVEEwa054NzlPTmJZLXBYWTZ5RUZoamhvRWdzbmlwM0JOQTRaaTI?oc=5",
-      "source": "Grupo Animal",
-      "published_at": "2026-08-31T12:09:24+00:00",
-      "score": 58.27,
-      "corroborating_sources": [
-        "Grupo Animal"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "de423db32e5ebe18",
-      "title": "Lula reclama de falta de controle na PF e atribui vazamentos a 'ala bolsonarista' - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjJ1OUJiZGNQajBuR3V3UzhyNGFhTTUxcEpBTnh0UEhaU0tHRGUzcWhiZWZBNzdJSmt4RzRNdDBKSlRVQ21kNGplRFlOUU55SkYwMURWckJxQW1hZlBVcm1PdTVKeVhsV01FTHNnNUczUlBKQ3pkTVcwZVpvOTYxVEVIM2RCbjRLNnAtM29ieWtYOGo3eVo1Q0VFRmZiZzJMSGtxVE56dUxsS0N3LXNpV1FBOXlaLXFQNlZXNHBSelNPbU1VcGVodg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "score": 56.49,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3ee671a560ba6721",
-      "title": "La salida del ministro de Economía de Bolivia y su bucle de crisis política - El Litoral",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYVRnaWZXSUs2Z0NjWGlCVmdXYld5T0tLaE8tWGREb1pDWEJtelNXOUhLLTU1c3VNOEVJZU9kTmJQdVp5S0ZlUGFRZUpmWVRoeG8tVkZQRVZoSDRVblM4MElsSVhodlpNZ0hTcGh4WkNTQmxuZ0RuM0NJbERqaUdGcEZlUGtlMThiQVkxZWdnVUpPZDBLQ3k5VG11MGphbldjeG9Lc1dzQjZGeFZ2aWNlekZDV3hBNFNXdFZzNGhnWXhZTDJsc3B3YnRORFg4M0l0WmJNc1NXd090WVVDakpYcy1ibXluMjBVV2xfM1l3dkg1WGE0WTlR0gH8AUFVX3lxTE9qWUVRU2djejRWUlVnY3FNYjFRSGNRNlA0WWtrNjNnendtcEtoam9YQi1UV0JYcmtSN19TV3NJd3dwNi1KNHZDcUVXbUJ5ZmQ5akJHc1VkeUxwZGo4cU5Mbm92Umt3TXJkRzJlR292RGVtU3lzNW5FZk5LWGZaRDRWOW9JQkQwaXR2V3Y2UGFxQUFNQ1NLTmRGZlZlSFhycHlQS1Z6TzRPQnYwOFIycEdQVGlHRWtUYndENmhIbHNQblZQaVpNaW5URGt4Q3FsU1pzcUJaQ19YLUp3cXZxQ213YW5TM2d3UFpJWFVhWHZHdGNjNmVwY0t0NWZTUQ?oc=5",
-      "source": "El Litoral",
-      "published_at": "2026-08-30T10:02:29+00:00",
-      "score": 55.8,
-      "corroborating_sources": [
-        "El Litoral"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1ec7670b46e35412",
-      "title": "Pedro Haces ofrece respaldo legislativo a la política exterior de Sheinbaum y plantea fortalecer vínculos internacionales - La Querella Digital",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOVFMWWJ4N0JmLVNCaWR5b2hwZjhTa1pLS1NtQlFENGJJNjVkVDVMRldOY21LUWhnTVRMRFZCT2dpRlI4dEN5M1I3dUZhSXY3Z2ViemR4RWhYU2pxa19tWWRVdlNhaVRUWXc4M3oyR1BLa1djN19PNGYwZ1UxaWVHT0lRU2R0emZMcEt3UUI0Q1lPRmRVOG5EdWppTVpzTlQzbnAzSGluZFdTZ19PY0lNN1dZS1ZjT3F4Y0ZsOXk4Z1p3NnkzYUpBOXF5VG5xOHFXOTlWTUFpcTdraEVERUNMSloteGVCMXBqWkZRZA?oc=5",
-      "source": "La Querella Digital",
-      "published_at": "2026-08-30T21:39:47+00:00",
-      "score": 54.41,
-      "corroborating_sources": [
-        "La Querella Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "38c9496bba774b91",
-      "title": "TSE manda Lula suspender comercial com \"currículo\" de Flávio - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlRXZE9fNVJyYkdMYS1tMUV6blNnSVlvM0JQRFBnMnBRV2U1bk9fZU43dVhYZVhudEpKRGt2OEFIajU4RlhLSGs1VFJxR0pGekllbktlcUNCRHlGWTNUY29YMFFNSTlyMVNoT2h4aDhoTUFwcEE4UUVzd0JSWUd1RU9UT0tsZkl0SXhjZDRHUXpkUkd0dlhocjhxTDl3VENWOGNZ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-08-31T02:07:53+00:00",
-      "score": 52.57,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "675d0d194eb81285",
-      "title": "Empresários fazem doações a partidos em vez de direto a candidatos e ocultam elo eleitoral - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbUdRNXN4OXJIWFp3amVValV1TkdaaFc0bVI1X1ltc29VYW16TkZYR01NaGdMVFlWSzBNU0JxQXJpOE04bUpxd1AyOUY3dnM4bEswWG5QbUVRRWpxZ0RicV9Eb0NlWXlEWDNoaEN4c19saVVkUllqbUxvWF9tdm1hODZZNkxzS3dLN3pTQzNhb1B2ZjF6blpyRDZZX0treUh1QlJfU3g0c2JHVEVmRldKZEtRQ096eVpQeHgwY1dpbVBBaGs4ZkduNVFCWklkQzFYV1JDNThubw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-08-31T02:00:00+00:00",
-      "score": 52.47,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
