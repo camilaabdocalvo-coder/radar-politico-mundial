@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-09-02T04:30:13.168434+00:00",
-  "next_update_expected_at": "2026-09-02T08:30:13.168434+00:00",
+  "generated_at": "2026-09-02T08:30:26.136723+00:00",
+  "next_update_expected_at": "2026-09-02T12:30:26.136723+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "8ab24c98f7401a56",
+      "title": "Flávio critica Senado por omissão e pede impeachment de Moraes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSFJ2bXlHTFRIWWFnWXd3NzNaMENOQVVBQzNVYlA2bzkyVWYtbGhaT2lKaTVDSldONUZ0RkIxZ2RCWVd2YjU4SnQyanlDOHZvS0h3SEY1LTZRUVJEaE92UVM3ODNnSXF1QTJaVFB6aXRWNFF0QV9jbERMZU5EeWNUc3NlalBCcFpSaTJFbnNtMHBKc1J5MTR4eWdfclpwcWRJaHpUSmdYemVYM0k?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-02T02:28:13+00:00",
+      "score": 71.53,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "df815d36b6ae41a0",
       "title": "Keir Starmer renuncia al Parlamento británico y abre nueva etapa política internacional - elexpres.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zZ1RlaDA3M3g0X1BwMjRLNzVBaVR4cmYxUnRWaGlFcDJLVFlpRVYzXzNWTFVVaVRPcUFWR2JpNXBvek9qVGJMTDRtTDBWMmVFM24zN1BhRWlKVUl1YVE?oc=5",
       "source": "elexpres.com",
       "published_at": "2026-09-01T19:12:00+00:00",
-      "score": 73.23,
+      "score": 69.57,
       "corroborating_sources": [
         "elexpres.com"
       ],
@@ -26,7 +41,7 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbFBzTjVkNmJodHV3ZTE2NmVmOC1HcG9JbW81V2ZyYnlOMERYV1lwMWpZRnh0Z3J0MVdINDY4cGJTTXl1Q0cyV1ZjTEdhcFVvWmFtS0wtNEs4aGhtX0J6QXZnLVowZmMyM2hsWVZyMXVkMXVfUDhyTWlzZklQdzRIVDctcWZOMDFjU25jV1dWaVVLbThucGJLSnVfYmR5Qlh3OXRZN2JVQ195bmVPc1U3U2VvM0NraFNkNHg0Z0s1Skt3UUZzQ1VFamc5T0VOaGtoLUdHREtmeFpMNVoyaHpYV0JCZjdkWGpNVjJTdXNzVzhIZ9IBkwJBVV95cUxPaXh3RDViaFBzaENTWFQ4LXI3c3NWX3N5dTY0ei1Jdl9rbHkzUEJhT2FtUENMUHpOMkN5QWVwZjZ3TV9VZzVQd2ZvZnY0c2ZRLUhiRmF4bDlJaFhVQlo2Y0RtNDhkRW45UTBYeWZBV2hoZ0pidkoxaDlCb1p0cHhOdU1FaUEyd20xVVdnMFVZSmliS0lQalp6Y3dKMVZIbEE2cHdwRml5MThMZjBCQWJhWjVBZWNFVFAzdkxiY3YwRkYxaExSYmJDMmhka1BwcGxvVmNVVU40aUVxOVRYWkhCTzJNTm9GQWRueUNuY3JuTU41TDFncm9qQmQxZUNsVmp2T3U5em14cVVPYm5UcF9KVzFodw?oc=5",
       "source": "La Tercera",
       "published_at": "2026-09-01T23:10:27+00:00",
-      "score": 69.28,
+      "score": 65.2,
       "corroborating_sources": [
         "La Tercera"
       ],
@@ -41,9 +56,24 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWFMNEhvLTVsZm1ndUJ4VndJWnUyOVI1MXBPMzVFSTZMRUM5TjJZcVRiSG95T1RpMnJldksydnl0YkpsZVFiUTBjSkNPQlJ2dDdKdHRrY2RCcEs2cGhLLVJjaHhyX0tULTF0Yk1mTWw5TFFLaFFkQ2F0M29hNFNZd3pvWG45ZDZzUlZmSVZyQVhRTDhGS1B1U20wdE92QkY0NjVQbzgyaEVtV2ZxaHMyMkpQaWI1WnkwVFB0MG5IRVgwMjBWS19zQ3lMVQ?oc=5",
       "source": "Diario Financiero",
       "published_at": "2026-09-01T22:30:00+00:00",
-      "score": 68.56,
+      "score": 64.56,
       "corroborating_sources": [
         "Diario Financiero"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3051b1f2b9c9f48c",
+      "title": "Petro denuncia a Abelardo de la Espriella por ‘persecusión política’ ante Corte Penal Internacional - El Financiero",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnVCZlpBcEQyclhxVGphMGFzTmh0V0R0ZzZFZjBuSy03by1nZVI0dEtRMnNDVDR5V0V1cllfNll0bDBUZTN5M1lHb0QtMDFZQnk3RjdRSXlOX0ZLcmt2T3ZOLW4xVUhrTlJ6U2JMNkJDYWVmWjNjcnBsU1NITm1QZnhzSUlyc19sNG1GQlREd0dVX01YdHFwcWlCRFMtMjFad0hhenppeGNRMVJ2dTNPaFdnblV4UkZwNmVUT2tZT1ZBdw?oc=5",
+      "source": "El Financiero",
+      "published_at": "2026-09-01T22:03:46+00:00",
+      "score": 64.14,
+      "corroborating_sources": [
+        "El Financiero"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +86,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjkxNUxHNk5fN1pubWxwcXlRMkpJSG5ZYnNfY00wYWExTFFEVThsYktsRXJhanBaTm4xdXQzQVhZM2k5ZkZjTktXU2ZMa1VPc0hwTFFLU0dneHUtYU9XRkN6UFJtOVkzY0RaZ2dqOUR2WUM0cHZMeXBMdmlxbXE2ZkxJUkpnMjVjdHVLUUd0eWhkRlI2VWNHQQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-09-01T17:04:52+00:00",
-      "score": 66.24,
+      "score": 62.79,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -66,14 +96,29 @@
       }
     },
     {
-      "id": "bcc7434056f67217",
-      "title": "Agência de Comunicação - Política de minerais críticos precisa atrair investimentos, e não os afastar, diz ABPM - Estadão Blue Studio",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOc2wzUDgyVjFscmt2TnlxdmliM3h0V1VlTzBmSzNZaG9OU044VnRrdjNES201aVhyWlZXdnJyU0k2NkRxLTlsajVrY0pGdTJSeWw3VlMzTUw0RHV0TUx6N0lRNjZFWjdwdmtaR04yQnBzR0w5Vl9kTUtXVXRwczFXeUZ2SHNpOGdZNERrdDltci1pUFVDMTFVU0FCbHNxUjh3bWlCS01lTTlUY01fZU1HLXAxd2xSMWF2RmJ3TmdsYU00LWtad3YydC03a3dxNnlWcnIzOEpSNGNfYzIzNF9LNW1sRUJycHFMaEloWFRpSXFzNlptSE9z?oc=5",
-      "source": "Estadão Blue Studio",
-      "published_at": "2026-09-01T17:01:35+00:00",
-      "score": 66.19,
+      "id": "ac75e9a80a8b5771",
+      "title": "Hegseth targets 7 more officers as his frustrated Army secretary quits - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDl4QVVVaDZBcGIzR2k1ZzM3cTlsY3phVDNEQU5ZU2ptdnhVZUxOd3p6VXBMYWlqLUxYRUtEVUZGR3kxTmxwbnFTYWlUdFZ2LUVLTUdxTnhaZVpGUTNJTHU4cE9HVlRpZWRFRW5VdUEyMExtREhNczByaDYxbDh2VURHbjJLX1I2ZGhoRGgzeXRPVHBqd0c5eHJUSGt0cjloU2FYTU4tNmEwRHo0aGxkZWFhSThlU3pHSGh5c2NXVmxUYzNrS2ZPOA?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-02T04:19:01+00:00",
+      "score": 62.53,
       "corroborating_sources": [
-        "Estadão Blue Studio"
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "26498acff72d0547",
+      "title": "Três líderes mundiais podem se encontrar pela primeira vez; encontro pode mudar rumos da política internacional - gazetadevarginha.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGU1bS1jOS1Ob3U4X0E4ejMzc1NQU2lmaTVzbHV6RDl6eWNDaW1jMlBZbW1JUzRVbUlTZHoySkFHdXFzY0I0aVZNQk1CR2hPVGE3QUkxSmRBRXNHbWZHRUVNWkRIcTlXVHA5MjR5dHRkemZUOGFHVXFNZ1RMdHZES08xTWphTndxVWY2Vm5hX3BSSHR1TTFDWHpSdjR5VjlfUTZVR1F5NXBjQ2lTdmxZWFh6NjZGdWtFWW83QVdZeklOd0I3SkN3ZTRkbG9SVmNwc1dFLXlGcDI2THhxM04yMDJhQm8yU2RkY0U4?oc=5",
+      "source": "gazetadevarginha.com.br",
+      "published_at": "2026-09-01T19:32:46+00:00",
+      "score": 61.87,
+      "corroborating_sources": [
+        "gazetadevarginha.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -86,24 +131,9 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOVE1UHBqaDJtWDBNbF9rTWNwVC0yMTVNeEZvLW9tMnQwQ3NkTmNfU19hRk5FR25vS0ZqeGZQZ1RoNlU4V3RqdGdfT1dnY216dnpmbXBhZzVtT0M2VXB3bU5GOWpzbDEzeTBXSUVncjJrWnM0dUJjWkxELWplSC1TdzY3NzlRal9ZYXB6RlJuV1dFLVBwSzZ6YzJ2VEtKQkRqTFdqVHV1TnpURTBvNldoUU5vVy1KN3Nuekt1QnhKdUpLSUVCbVJVVjlOcGtDQjgxZzJkeGlB?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-02T00:38:00+00:00",
-      "score": 65.89,
+      "score": 61.64,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7a9717c172f32fb5",
-      "title": "Três líderes mundiais podem se encontrar pela primeira vez; encontro pode mudar rumos da política internacional - Gazeta De Varginha",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGU1bS1jOS1Ob3U4X0E4ejMzc1NQU2lmaTVzbHV6RDl6eWNDaW1jMlBZbW1JUzRVbUlTZHoySkFHdXFzY0I0aVZNQk1CR2hPVGE3QUkxSmRBRXNHbWZHRUVNWkRIcTlXVHA5MjR5dHRkemZUOGFHVXFNZ1RMdHZES08xTWphTndxVWY2Vm5hX3BSSHR1TTFDWHpSdjR5VjlfUTZVR1F5NXBjQ2lTdmxZWFh6NjZGdWtFWW83QVdZeklOd0I3SkN3ZTRkbG9SVmNwc1dFLXlGcDI2THhxM04yMDJhQm8yU2RkY0U4?oc=5",
-      "source": "Gazeta De Varginha",
-      "published_at": "2026-09-01T19:32:46+00:00",
-      "score": 65.56,
-      "corroborating_sources": [
-        "Gazeta De Varginha"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +146,52 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOEdrWjNkU2pva2NkRjhWTThYQmFvVzFtTTdrdXBuYlEwb2Q5Mk52T0Q3MExfa3lBeW9DTUVUdmF0RFlTQmlROWtEVTh0X0FTbGk1OVFScnZ0cFJNWmxzU0UyaklmekFxRGlZLThYeUl0ckN3NkNnZjBoa25vc2pkWDJ3aEFMQUJXLVR0WmFKX3VpNXV0M0RObE4wQUZoQTdnTmdKVE1QYm9JU3g3SUdQS1BlNVNrVzdKcFRPNFJ4TQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-09-01T15:19:52+00:00",
-      "score": 64.69,
+      "score": 61.4,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6c747c815e5011a0",
+      "title": "Comer fontes de carboidrato à noite faz mal ou engorda? Veja o que os especialistas dizem - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVVRRTZhbTdmTUJKU2M2MkVELThjemZlRkZ4X2d6bzkzbURYZ1c5dWVnQVlpT2N0elROOURoQ2RMWG12OENBckc4RmxQWkUxd1JsLW41UG9BNE1JTFlRWVZJV2ZRVGpFZUZhMGJCZkFJOGw4R05rb2tqZnVkS19FRF92eVJrelB6V3NTLXFfLVlzNjFKbkxHTlFtaHotU1djMjRwRUwzOUxpRnVfODRwZkN5Ni04b1g5cm1BWnFlYlpjWjQyeXBlUWt5eHpNVVVjSlozSE5n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-01T23:06:51+00:00",
+      "score": 60.14,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7cc9eae1f2c1b9e0",
+      "title": "Revuelta en la UE contra las reglas de unanimidad que lastran su política exterior - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUh2MzhfUmloTFRRaFYwUHlpdjM0Tmk4SkdWbDBGendoNFhpeTUxQ2otZ2Njd0tKcGRtQ0hqODVyb09qRkxfeVdlNmJRZGctc1BZRkdtY3gxc3g5ak5pZS1lUWFYd2k3cmRCMnpDNnRlVUUzSG1sZ2thWllQOTNhc3lXN0UwN0FOM0czU3lPNG4xQzEwbFVSa0daTGFZSnJaWjRYTV82SE5WN2gwTGx4VkRmM0tMdl85dTdXMnpB0gHDAUFVX3lxTE9iSWZJOVg4eWhYTm9adGNiOTFJV3lNalRoWU9QNV96QzhURTl1QmtfclV3cDNndnVMQnNyWXdhQmxqcEQzU2V0VHJpRk5ud0w3Z0JUOVpVTG1USUhhQ2RHZmxod29zXzV2OGFuUTRvQ0xhUk9DWEpjdThWSHdOalRiZDFlcVRlbVRRQzNzZWlFM0g3Y0lBNzlNc29rcXVXc1FJRURoMmRTOEdVbmJuYlRyT1A2ZHV0S0JuWTYtUVB1SUxMMA?oc=5",
+      "source": "La Vanguardia",
+      "published_at": "2026-09-01T16:54:43+00:00",
+      "score": 59.66,
+      "corroborating_sources": [
+        "La Vanguardia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d2db012ed49ff568",
+      "title": "Revista alega que filme de Bolsonaro recebeu mais um repasse de Vorcaro e candidato responde - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTdBbEFxaWRmdndaYzFrQU1xWFJOaDVPZ2d4TzZvYkhjZ2pnckFXUm5ZbFBXYXJ6ajVtdm9DRWh1cXFOWE5XUlo5UkxaZFZHOG5fc3liTTF3VXdQMDJpMzNKeUdwOFFwMy1Gc0w1SXZCeDUxaVhKdVdtTXpfSmU0ZEhQN1ZVZzhURW95SDJIN0VDV0RpcFR5cDJuWFFuYzJYWXRtOENXU2VGSUhfZ2VSUUNFQXpWN1hWZ3ZpaU9PM0doQko5S1VhUGNtTko0NGNn?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-09-01T22:35:20+00:00",
+      "score": 59.64,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -131,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUhSeXk1LTBsOEx0UURQTGhUNGZNSmJLMmdMb2pYNUYtMEFsZVF6eks5ZmsyN1JQdkRYcW1oVDdnT2VnNndYcm5PTFVXdEpCeUdpdWNNTm5MNkl6NE5uajU3UllwQUpOU1lhYmZxTzJIZ2pIX3FMSVN2Vmlpb09ESkF3UHh5Qms5?oc=5",
       "source": "The Guardian",
       "published_at": "2026-09-02T01:31:00+00:00",
-      "score": 63.89,
+      "score": 59.53,
       "corroborating_sources": [
         "The Guardian"
       ],
@@ -141,14 +216,14 @@
       }
     },
     {
-      "id": "ff596c28ea1f9faa",
-      "title": "Fichas del petrismo exigieron explicaciones a Abelardo de la Espriella por posturas internacionales de su Gobierno: “El país tiene derecho” - infobae.com",
+      "id": "4ae0ea461094fc09",
+      "title": "Fichas del petrismo exigieron explicaciones a Abelardo de la Espriella por posturas internacionales de su Gobierno: “El país tiene derecho” - Infobae",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbnkzS0c1WnQta0E1d0I5SkNqUElhUElkU1V1QmZxLWNrd2E2X1NCX3hGUG9EZ0plX05KcGJVc0FZb2pZUkxjZjdGdGVfYmt0TTk4UllPbWJfS3VJazBycXhOY2gzV1kyay1jWkVtMGdRUHVKNmtCYXpIeHBPWjRvbDdvTnowdU1CS2pwVHZ2N1pQMGc0b3FfVGYwRVA3b1JZNnN1Yl9HeUtPTjZVTm1rYm1FSVQ2YS1PMXNfNklBSWNjbjdDemdyRnZvNHNBVWZVZGQ3aWhXdlR0aUYwcTFMcG1hemVCVDlqLTA4bjJlenVlaEJvWFVzb29ETnNUa2FybmdSUFI1TUNCZE5kZlHSAagCQVVfeXFMT1BLZnB6QUhMWG02SF9tcjFIaW5reDlHSkNLUWpTb2RjRXFoYXREb1VOd3duM2ZYcWN0eEh3d1RjSTYzYk9mdXNVb29Lam1Rck9hb25pbEwxb2ZKdVh1SzR4QnJDSFF2WHg1bnF5YlNuLXZ5cE0wV1dUakVCaUhYNG9xdUJJUlZxcU9XRzQ2dDhOeWduUmk1ZW45UjlVYjBmNnJheGpRb0xIcDZsdENJVXJ3LTVpQnl1SmI2c01hX00wWS05U1VzUmtaMU9LMVZXVFRxNklWT01zNm81M2hzSFpvXzBGMG1ITHlwSFd3a2VjWDVFdzhISXQzSnpwR2haMzhBNzltUmdLc1JIcjFybUJyM203NHExbmt6QW5WT3V1b1pLa2F2blo?oc=5",
-      "source": "infobae.com",
-      "published_at": "2026-09-02T00:49:27+00:00",
-      "score": 63.1,
+      "source": "Infobae",
+      "published_at": "2026-09-02T01:28:00+00:00",
+      "score": 59.48,
       "corroborating_sources": [
-        "infobae.com"
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -156,44 +231,14 @@
       }
     },
     {
-      "id": "7cc9eae1f2c1b9e0",
-      "title": "Revuelta en la UE contra las reglas de unanimidad que lastran su política exterior - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUh2MzhfUmloTFRRaFYwUHlpdjM0Tmk4SkdWbDBGendoNFhpeTUxQ2otZ2Njd0tKcGRtQ0hqODVyb09qRkxfeVdlNmJRZGctc1BZRkdtY3gxc3g5ak5pZS1lUWFYd2k3cmRCMnpDNnRlVUUzSG1sZ2thWllQOTNhc3lXN0UwN0FOM0czU3lPNG4xQzEwbFVSa0daTGFZSnJaWjRYTV82SE5WN2gwTGx4VkRmM0tMdl85dTdXMnpB0gHDAUFVX3lxTE9iSWZJOVg4eWhYTm9adGNiOTFJV3lNalRoWU9QNV96QzhURTl1QmtfclV3cDNndnVMQnNyWXdhQmxqcEQzU2V0VHJpRk5ud0w3Z0JUOVpVTG1USUhhQ2RHZmxod29zXzV2OGFuUTRvQ0xhUk9DWEpjdThWSHdOalRiZDFlcVRlbVRRQzNzZWlFM0g3Y0lBNzlNc29rcXVXc1FJRURoMmRTOEdVbmJuYlRyT1A2ZHV0S0JuWTYtUVB1SUxMMA?oc=5",
-      "source": "La Vanguardia",
-      "published_at": "2026-09-01T16:54:43+00:00",
-      "score": 63.09,
+      "id": "94a5d44c1f808a99",
+      "title": "Briga no STF? Veja a reunião de Moraes e Mendonça - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEtvbkVESHZWS0s2ZkRFbWpLNWdzQjhMdE1PWmdRLWFDc3JSaGQzS3dRX0VEZC1sWGxjQWgtNEMwNHlVcEJlc0NaLTM1bjloZU1wQ1JDZ3Yta3FSSUduU3hyOUhXYlVfR2MxMGYzNTZfbGlYNUdxS0ktX2sxNk1RUHZiN1JDQVhIWE96WFZsUE9qMVZxZ3c?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-09-01T20:50:08+00:00",
+      "score": 58.02,
       "corroborating_sources": [
-        "La Vanguardia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "938053b9a2091f81",
-      "title": "Europa, sola en el mundo - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hTkYyVWdic01aaXh2QmdsUXJXYUcxbDU3b3ZwSndHQ2FxaWRGWGNxekdhWExqdC1vbVJ0UHhBZEFyVkNDRndPLVpTaXNuZXVlcmVUTFJFTm52bGhIV2pkcWhiREhqVHFFdmxqSDNHSGNtdnNN?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-09-01T14:50:59+00:00",
-      "score": 61.27,
-      "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e4eebfb6540574a9",
-      "title": "Campos Neto elogia medidas do Banco Central para conter fraudes no Pix - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVdRRWhnekFqT3FBZHFnb0Y4b25LazBreUg2bnc5a09ENjdQRFU3dExkSWhmWHpBTHQyX3UxTC1nLUczVFFSWVZQMDR3Tjk4ejNOTDUzREl5TVY1cVlILVMxY3ZMNHdTd19qZnJYZHdRbEptbHd6TFgya2FSTmhXTm54THY0LXZ0VDk1cUpaLXVUNHNPekwzZ3FYVUFmdUFiTURsczlHMGlUUS00ZzZEbkpRRnBzUTBTRHFIXzNtMA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-01T19:19:00+00:00",
-      "score": 60.34,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2tMNzg5S1lNSERzcDdJSHNHbmFqeUV0cUhJNzlHZkVWUGE0YjB5bE9sUHNzV2hob1ZWVlpQVE5JMUxMMzkyTTBVaGtlLTNpNVgzeENhZGs4aXQ3ajBOMkp0RFFNOVZGQ2R0cElSZGhIeDlLTVl0RGxGZGRVVnh2OUFjN1BxZ0tCWVY1cmhRSTNiSV90dHhtQ2VESnJCaERRVTkwUWl6MmhjUQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-09-01T18:54:55+00:00",
-      "score": 59.95,
+      "score": 56.33,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -216,14 +261,14 @@
       }
     },
     {
-      "id": "b8ea691a211e4bf9",
-      "title": "Alemania, España y otros nueve países reclaman poner fin a los vetos “obstruccionistas” en la política exterior de la UE - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdlNSQUZMSEVnMVd4QXIzeFlxMVc2bHZmdTlfQ19RY3JrYW1MVXEyYkRzM2pZdklaQ1h5UFM1N1B2cEp6ZWRFc0l4bDI1eXZNektBa3dLUXBEeGk4QlF5dDZGQmtYWVEwT2tsTzA5N1V0aExaYnZMR1lqZV9DdW9SbmlOT1dDTjRzcXBWeEEzNHhOZHVCV0xqZ1BQcWdMaHVwQ1Z6RUh3YWdRSGNQNUVkZXhsRjZ2YlF0YmU4YnJBdkFycUtyb0s3SEVpV0JNcjB5Wkg5cE5OZFRZR1FwZG5rMG80dFpEcUZESXJ1eXdVX2JfSEQ0OEFpcFR30gGOAkFVX3lxTE5mWWFOcnlJNWxBM0lrMVp1bklmTkxPYlJ5emtyeGFoRngxam1GZmVoeFBaQnNQQkVCSWFJT2ExTkZuRldXdG1IZFhBeFU4U3hONUl5UWRDX2F3WXozLUtFQXZlZ0RlUEROOEJaUjR1VWpQZmFNNzliZ1liekhrbHU5N1dUWmhzR1BlbnBaRHR6ZUlqbHdaMVpwZzFkUU1wdjRneXl3T0ZTTlZwTGhCY0h6Vl80T2tOZVF6ZDFsTWY0bjg0dzdIWTNVMEhuSmtya0lISWFlZTRKZ3dNVFdWOGVJRWJSTTVsREhwcFhvRDY5eGdWSjV3eGFtX1FoUkhxbHNDUUROaUdEYThJeTQ4dw?oc=5",
-      "source": "EL PAÍS",
-      "published_at": "2026-09-01T12:30:34+00:00",
-      "score": 59.33,
+      "id": "d48041011b8b6c78",
+      "title": "Governo de Sergipe assina contratos de mais de R$ 70 milhões com empresa ligada a político aliado - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRXhZLTgxN2RaMWUyb2JLbmYzUUEwY2R3QVJ5c05qdHNDRF9ZZ1ZxZS1sNDAyeGhLSTUxVk03Mk93eEp0el9qVmU5MnJlZVJ4VlRTYjRXbld5enVyZHJrTm9RZlNqZGFsa2UyQ1FyY2tZMFdtZjlJRXNydERxUWp1RWM1cTRVXzI5TlVwSm5BbGJtdC1ob1czOVR4X21pOERPM2hienJ6TElDSklfd1NlVDEtcHJUdmw3WUcyazJOdjl0dDFianBIZmYzX0p0ZnhkSm1VZXQ5S2lsS1BldWVN?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-01T07:32:00+00:00",
+      "score": 55.96,
       "corroborating_sources": [
-        "EL PAÍS"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -231,89 +276,14 @@
       }
     },
     {
-      "id": "b877adebdd1f1ba9",
-      "title": "Former British PM Keir Starmer to leave politics - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmlxd0p1RlFkbnFONGVuam5PU05JMVVGeXJRQzlRanJlMHA3elJkeERlSW5JRmxvS2RER2ZhSzVqbGVGeGE0ZG5VNy1uejhyTlpOd0QzdkNkY1huMFN0djNFX0FuSUJiVTVObjNhdmo2OS0zaGp6cDdyM1ZLem9fVFNnY2hnUVNl?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-09-01T12:02:27+00:00",
-      "score": 58.96,
+      "id": "9e6bc90a18dfdd9a",
+      "title": "\"Acha que segunda tenho que estar fora?\", perguntou Vorcaro a Moraes dois dias antes de ser preso - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUlINUlWRWlfRXRXNjJBY0lEM2ZKUEhyMG80S25rUXVzVHhCY1ZUVGxjUjFfNDhBMVduYmU3YndrS2xzbWpWZXNlaEpSdExGdU5qWThvZWE5aDltZzY1UDMzX21PMVZrZ0lpSWtrNzQyWWx2Sk5vWldOaFM0Yk5DWXlsM2hwcTVLNmNvTk5mWXBUa3RoSTB1em11ekFyNWdSd0FiYg?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-09-01T18:19:53+00:00",
+      "score": 55.83,
       "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "12d78f5c45e051a5",
-      "title": "Las redes que sostienen Iberoamérica - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0JudzBTN1JnMHJmRTVmNlFuMnlLUzZPTDZyQ2RqUjU0M1ppZ01veTBpU3NyaDBwYzVna3VZM0NfUHNlcTlnUXBJcTh1WHVCOUxoSURrUG9UUDBsVi1FRElVSmJ5RlR1S25FbFhkb3M4YnFRTXoycEFXU1dNQ3R0QUxTdzI0Zw?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-09-01T11:59:59+00:00",
-      "score": 58.93,
-      "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f0f6911bdc969ac0",
-      "title": "Combatir juntos el crimen organizado - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbjl6MTNCMkhNbFFYRExQOElHTVNHUUJsLUhvWVQ1cnlHSHB0T1dNeU1lNWRwWDlvM3NxYnQ4V25mVWZPWmRXVU80bDE4NThlSWtwOU1vdG5iNnhmRGowdEVWNzVMTnZZQjYwUXhsTE1vb2NxZHZobG9nVjdMSU9JRllraXhhZw?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-09-01T11:59:59+00:00",
-      "score": 58.93,
-      "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "11b6ad6121416b39",
-      "title": "La distancia como oportunidad - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMM2ZFWDVzcS1PS3FtZVpSZm55WW1PTVpZTTNlNVk5aVRsX0ZiTDU4NlNwUXNKX3lTbmt3SDZSZ2lKQlpnWC1TcG5DYWFuMDEtZmlwWGczU0FxeV9BVTVWdDVuU0ZBeDdLOHpvWUlHU1JvQ3FvdXpIdjBXN2w?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-09-01T11:59:59+00:00",
-      "score": 58.93,
-      "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3373187e747c9483",
-      "title": "PIB confirma desaceleração que deve se aprofundar no segundo semestre - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVhIRDZxVjh5QXQ0Z1hMQ2NmY2pnZ093SV9kN2lQaVJCM3lhYm5YSm16NUQyZWhuWm1ZbUdsVWFpOVNnZ1k0dmk3LWJnb2FLa1kzQlphbUdSemJIZ2V1aUZCVkJmU1NRYWZMSHdfWjZHb1paMkNXT2ZCZVpONXJhN05CVVAzV2dGaTdiZnE5ZkdYVk1obExaVFNOd21JTFkzM1o4X2xVYVRWd9IBrwFBVV95cUxNM3lzaVFFN0wzT1paM0FKNWhIU052Ql8tZGw2SGdrSjcwYWlKc05BUWV6a05iZThuUkhSSTdhN3dOYkhtcGQ4am5lblB1c1EySkFfWGt1QzlobEVneC1qQl85VDRmS29OQ2djeE1KLVBmZGF2M0FMTmV4d05STThvQVBCQ2xSYTl5QnhSLVFZQktuUkY5bEhHSVZQVmZuaW5kdDN4T25UcWZBNTZzRU9F?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-09-01T17:46:39+00:00",
-      "score": 58.88,
-      "corroborating_sources": [
-        "estadao.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8f5d7fd21a270261",
-      "title": "Seul diz que reunião entre EUA e Coreia do Norte deve ocorrer ‘a qualquer momento’ - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2pzaDVtTlZkczRUY25CZFY5WVhjUWk3VUQzaEVybmVEanpLWU9XQlZLWUxxTlp3aGZ1THJsMWdGV3kwRHpydnRvV2laanNoSkpST2NVejUzYWRNaklXNUh5TTdSMVg1WEFwMmNBdGtWckE2d0w5ODBlX21YeXR1NTVnd3RkbGxCek1TQlpFWHVpZmRWdFR5bGhybU1ldW8tajc1bnZIdlhZMk1HVVk2ejBtMVRTa2JMMlVUSEZIY3pzbXhKclNLY2NNcG9OMlU?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-09-01T17:34:29+00:00",
-      "score": 58.69,
-      "corroborating_sources": [
-        "estadao.com.br"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -326,9 +296,24 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdW5UQ1A2NTdQalhvemZLN0NBX3lHSHFxc0FuaVRYQ0I0Y0pib21qaGE1MG5BT0dMWFJreXY0U3duVzRVWmxJcG5YZnl4LXJoUXZEYWROTjBNM3JmSFN3XzdCa0pSc2xHZWtvUFNMSFMzOFhHWnZsM3M4WWNncExXVzFTSGJZQVZsXzVNSGpxaVpjWDN2Q0E?oc=5",
       "source": "Radio Free Europe/Radio Liberty",
       "published_at": "2026-09-01T11:05:55+00:00",
-      "score": 58.23,
+      "score": 55.3,
       "corroborating_sources": [
         "Radio Free Europe/Radio Liberty"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "41f9e77219478f7c",
+      "title": "A política externa nos planos de governo de Lula e Flávio Bolsonaro. Por Kayque Ferraz Costa - Combate Racismo Ambiental",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR20wcFJ4QzRKc3RxYnZpUFF6Z0xQM19GaGhpOFB4bjh0LW5JbGFyczhDaDlUU1V3aFNoQTl2cndhUlB6SFJoRlBmQXVVMDFTdnQ2NXl2SDNtYm1qME1wZUsyVThnaHpLSTdqUG1PeXhObUtGenFoeGNSTWp0YmlnbGtNNzhiMGZpTl8ydW5adjBMRVQ3dzdlTXN4NElGNmxsWFN1cUV1cl80MUpYeVRyNXBabzFBN0IzQUZTSDBvaExRdk84ZjJSWGlYaFcwUWRY?oc=5",
+      "source": "Combate Racismo Ambiental",
+      "published_at": "2026-08-31T20:35:56+00:00",
+      "score": 55.07,
+      "corroborating_sources": [
+        "Combate Racismo Ambiental"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGFWTm1hcGd6RzJBd1kxNF9JMjZDVXZ0MlVzelFlSHFGa3NDeHpDaG5NcVJmMDB6N2ZnNkFZaGRBcmduZ2o3Y3M1Ui1peFNTTVcyYjQyRDF0U1B4MVZNRGNBMFBxSFA3TmY1SW4wdXFBdTk0aUpqS2kxdDhWMWI0M1U2WFZ5RkhMSkZlMUJ3Q3BJQ1NsWHlDMnZiczFQTlJoTnVQZFE0RdIBrAFBVV95cUxOQ2hEaXEyOVZtY0d3ZklHZFJaSUhXSHJLZVFXR2VzRFEzS0Nxci1rWVFqdEZVUmtrazBfYlNJZTltcnNJVDl6S19zbXR1RGFUUHZKblN5MDJjYXN5ZmR3YzBEWkg4RjdhNExaaFAyd1FtZ0xHa0xsV3VBekZEWmZ6OTR6YmptbTNXcGtqVVNTU05sLTVKYTVTZlZtLTN6RDVJa1EwczNBSko1UTdL?oc=5",
       "source": "El Independiente",
       "published_at": "2026-09-01T10:22:12+00:00",
-      "score": 57.67,
+      "score": 54.81,
       "corroborating_sources": [
         "El Independiente"
       ],
@@ -356,9 +341,24 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUlFpOWU3Wkg0RExkam1QQTVTUmJraFN0R3ZGMExCUmE3eWQtbTFTSjg2UWlXU2ZfbFBVY2VDVzY3T0N4bmM1VE5BcVFUUUg3VFVOZnlPSThqaHRhUWw2NzlYd3EyR19UMXRYSjR1X0ozVWhVRUFib1VtdThKTnRnUnV1MWhpVTN2STF3cXdFS1d2bDVVRzVUR0JRaVBlb3gwOHQyUVk4Q0hwYlZHOGw0bW5kMWFhamF1Z2lEUW9xd0tESTIyX2dweTVqcXpicUtReWYzMEZWVGFYbnRnaGtwSjEtQdIB6AFBVV95cUxNXzNleWNxbW00RkpueFUtTUxCN1BDV1ZtNWpmV2JYbVBWWVlfSHh2ejRQcklaOU9qVlpOT2Z3T3dEWktHS2M5VDJKTUF2YUQxLUVwbENSOFJWLXBYdGxzckdSQTdiRWY2SUkzQldQYUJ5M09ZUWN6LXptZ3lUdUFoN3RQZC0tdFE3dTBoa2VaZlliei1ZUDhEV29PUUQ5Tm5YRkVXTVI3UElnOGtLRFNtdXAxR3RieERoNWV5dGpFMnFwZHBtTUpuNFUyT0RXODBJb0VDQ1dZbUJOVlhqV2d4UFFoMV9zQmQ5?oc=5",
       "source": "Demócrata",
       "published_at": "2026-09-01T10:05:11+00:00",
-      "score": 57.46,
+      "score": 54.62,
       "corroborating_sources": [
         "Demócrata"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "78d7f34c59f0e2c6",
+      "title": "Brasil precisa transformar segurança de fertilizantes em política de Estado - R7",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVENDenFoamZaSGs2ZTVtRm5jUEpVZkd0SFZQbk5VU2d1MmVYTnRFWl9Nb29pN25hRnJ3eVhlbFlHS3hZalBPeXBzNUlpbVI1RTg0aFhveVpYejJPaEQweFowN1R5VTRHQkFKMUM3ZmdreGJVMW9kZkNwYkppZGpVZUhxOEJvY0Nnanc1SEJza3dfOUt6QVVaT0RsSk5CMHR2YzdyNjhiMGQzRUo3SFBaUnVkQlNhZ1hxNHVWN1hKNVRCUVJxZUE?oc=5",
+      "source": "R7",
+      "published_at": "2026-09-01T05:00:01+00:00",
+      "score": 54.44,
+      "corroborating_sources": [
+        "R7"
       ],
       "signals": {
         "source_count": 1,
@@ -371,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWdBRXBsUzIxTW8wTnM2bW1uUG10NnRLMktoejN3WndLWXdPQ1dBMWhjN19HWDJ0Zmsyb0JlemlCNlFiWEJRUmxfQ1dpS19Fay1HaUZObjlOVEo1R25IOUVZWDY4QW9MbWJ6T2NsbXd4WFZyNUw1emhMYVBtQ0xOQUxOelRscGowSkRoRmNRR2VNNWdoVUVYY0VLOG1hQnZJVnBQRHkwRGc4Mmd2VGZMSWRHSGluV2MxYVJSWG9fWkFHdGt5R2owVTRR?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-01T16:00:00+00:00",
-      "score": 57.27,
+      "score": 53.93,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -381,14 +381,29 @@
       }
     },
     {
-      "id": "41f9e77219478f7c",
-      "title": "A política externa nos planos de governo de Lula e Flávio Bolsonaro. Por Kayque Ferraz Costa - Combate Racismo Ambiental",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR20wcFJ4QzRKc3RxYnZpUFF6Z0xQM19GaGhpOFB4bjh0LW5JbGFyczhDaDlUU1V3aFNoQTl2cndhUlB6SFJoRlBmQXVVMDFTdnQ2NXl2SDNtYm1qME1wZUsyVThnaHpLSTdqUG1PeXhObUtGenFoeGNSTWp0YmlnbGtNNzhiMGZpTl8ydW5adjBMRVQ3dzdlTXN4NElGNmxsWFN1cUV1cl80MUpYeVRyNXBabzFBN0IzQUZTSDBvaExRdk84ZjJSWGlYaFcwUWRY?oc=5",
-      "source": "Combate Racismo Ambiental",
-      "published_at": "2026-08-31T20:35:56+00:00",
-      "score": 57.03,
+      "id": "ac78c0d1c9040e00",
+      "title": "Germany Blames Russia for Leipzig Airport Attack - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejJPZ1lGRElyRnlvUUxXMDk0NHdTQm9GN2JMWk9JcWM3ZENBSy1jMkF4QnRqTW02MWxzQkxIRzlENDltT0xWaU9Ed0kyWlhSTHJWZWpOQWtxTG5WZnRIZEM1enI3OUtIWjE1ck5rek44ZThQMzdBMGJ2MkxKRjBGTy1VTTlIQlU?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-09-01T19:30:28+00:00",
+      "score": 53.84,
       "corroborating_sources": [
-        "Combate Racismo Ambiental"
+        "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8f87d5357e957e71",
+      "title": "Analistas debaten el rumbo político y económico de la región - Diario El Norte - San Nicolás",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHh4d1N5T2s1Wnc3Y0o2ZVZSelBpT2dFNktOYUZGdFRXSjdhdUZKaXNkX1J5SV83Y0xUTlhtNzdyVmxjekdMdkR5NUFLMjdQWnNZWkU3UGo4VHhIdmxJV0pqVVJTLWYyTGx3bkNXeGRhbDhDZGFBUUJraFp5RE1Ub1ZIemlCemptTmZMRG55VWNxSGJL?oc=5",
+      "source": "Diario El Norte - San Nicolás",
+      "published_at": "2026-09-01T19:07:33+00:00",
+      "score": 53.51,
+      "corroborating_sources": [
+        "Diario El Norte - San Nicolás"
       ],
       "signals": {
         "source_count": 1,
@@ -401,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtYWE5RGJrS09ENkZwVzJQcWtYSFBlXzVOVnlPSEQwbDM2cnNhYzZtSUNQbWNwYjJQY1ZBU2sxdFpKeDZzdWp5MnhOY0E2d0EwdkpVRDM0YzZ0a1VqaFpzMXFuQjl2UFl5ZTc5bUExZVBaemlLTDV5Z0tDOFd6VVU?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-01T18:52:44+00:00",
-      "score": 56.92,
+      "score": 53.29,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -411,14 +426,14 @@
       }
     },
     {
-      "id": "132a3f12574211f0",
-      "title": "União Europeia: 11 países exigem fim dos vetos “obstrutivos” na política externa - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWDZ0eXg0cW9INEt1UUFvWlJjdUVOMzhJODBZdC1MeWlTRzJRT2xNdnMta3RsUHZ6cWRZVm9aRkYycEp6M3pOamR2MFVCdWJUcmxyZ1FxLUZhQlc0c1ZTaldINDVoNW5HOTU5c2VVNW8zYUxZOFdRVmVPLXN4NTlQbkE3LWZpU2oyUWhRU29DaXhnQXB2TnN3RlNZd0hQV2RadVM5aDJVQ2l4Tlotd3ZDSWdoUnBoRW1HRHZQWFdMUQ?oc=5",
-      "source": "Euronews.com",
-      "published_at": "2026-09-01T09:10:43+00:00",
-      "score": 56.78,
+      "id": "707561a50852695b",
+      "title": "Aún no hay política exterior - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHdlOHZ6SU03R0pBZFluYjBXUnAxV2dZeVAzaWNXWUtXTDE4dEc4Wko1YTQxRVM5MHY0cG40MnFleS1NQnRSbUdaMU1VV1hsS2plcEE1VktPOUZCamEtU2czNXV5X2s4cjVOT3oybXBfdWF2enJmZ3NPaS1Pb1RoWFlpNFlSczhqNzI1cG9KR25Jb3hvbGl0OEYzOWVDQlJ5YjZKMVhwVllINUnSAasBQVVfeXFMUFEwMHpmMmZSbi1nQV82dnVKaTRYSUF1SXhDZy12RlZETWNzeGdPNjJCaFRVQUJCV3VmZEkteXRDeEJ6dS1CUEFYQWd4QzBXX3FhMjA0azZUdFBWTXdtbEM2SVFzOG9xUVlGeGRrNkRqRXJPcjNhalZLSnFjcmN6aDNMNy1tR1g0bTJYQmJ5VmxHYzhEZmdFcVNLTjB5RGo3aWtSNG50MXFtQ2ZR?oc=5",
+      "source": "LaRepublica.co",
+      "published_at": "2026-09-01T05:01:03+00:00",
+      "score": 51.45,
       "corroborating_sources": [
-        "Euronews.com"
+        "LaRepublica.co"
       ],
       "signals": {
         "source_count": 1,
@@ -426,29 +441,14 @@
       }
     },
     {
-      "id": "291087b080ab32aa",
-      "title": "Gustavo Petro dice que denunció a Abelardo de la Espriella ante la Corte Penal Internacional - El Universo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeUozRk9xd251aVlBWWZYUUNHQnZTdFVMcEVEdEpyaUVsWmhzRVN1QlhvMnZCQld1RUlNY292cmFSQm50cWNwTjAtR0VsdzVEYmpKWHFJSUcwZGo4Rl9mS3kzR2stdjNCVnJBM24wRXcyd1FHNTVfU1ZYb2JackhFdVNPRG9QbnMtVWVuODVmNUZjQk1BaHRVUS0xanhkbXRyNlVsMEVaYjE0OElhNEpqNUstRmdyZExXZE9wV1YwSVEzUXRsT2xHODExZTZ0WkdWeGgzV2xhV1o3V3d4ZW1GcHVR0gH2AUFVX3lxTE9veDBqSW1sazJYaE9wYVdCVjU5c1RpQXpyU1FHRjdGYjZqd3hjb3BxWjUzNTdpRE5rLXJQbU1BQVJOa1dkQUVQdHJ0bXFvY1c0eVNtZzQ3SklRR2ZrWjBTN1c3TmJPalFnV0RZMF9ua19PX3ZWY0YxT2J3MG5yaU1SZ2lnT0FUMmx4WU5oU2pTeWxiam8xYTR3R1hJd1FyWGtEZzVENGMyU0FrR1lkdmNPanZVTDQ5RjZnbGkzM1Y3clNoZzBwTTFWSVd2U3pTalkzY2c3NFlycldJXzJvclJxS3RDT2ZRdHBxUUVLRUp0dFlLVXJ5QQ?oc=5",
-      "source": "El Universo",
-      "published_at": "2026-09-01T18:28:00+00:00",
-      "score": 56.53,
+      "id": "475b9095955d9c38",
+      "title": "¿Podría Inglaterra perder Las Malvinas como consecuencia de su política internacional? - PanAm Post",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOVQwU3NUcWNVaTNUTVFla1JPTG5mYXRWTnpaanFDZ0FLajJxb29ybnlzeEVyTmJFTTkydHJQMW5kTmZBdTNCY1lZbmM2bzUwUGw0Yk5wWEtEOHRXSXN3eVhtSFFWdmRlZ0pCUkhfdHJQeGFyZ2lFSmpCbkNqR1Z1eWk1MlZ0RHdCZWM4QVVVZVo1Y1p3RTlqaW1wVUNGUVJGMDlkSGxyQ2FrVFpGTHhpYVljdjNMZTZNYUlRQWgyNVJUUDU1clFEWkRQRnRvZw?oc=5",
+      "source": "PanAm Post",
+      "published_at": "2026-09-01T04:55:55+00:00",
+      "score": 51.4,
       "corroborating_sources": [
-        "El Universo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5e5110892a31598e",
-      "title": "Opinião - Deborah Bizarria: Políticas baseadas em evidências dependem de dados - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHNHR0JEcWJYV2p0U0thUTJsR1FESHljdUhqY3pMS0VQX2tOOGc3bTR6T1ZwYmJ4OTBFeDF1Qm8yS2xSQUEtYmREZlpjdWVwWndEUkRXU2RjS1B2c3c5WFlOZ0xFRW9scFFpM1FSMExKbS1YWkl4VUh2ckRHNUVSdi1ELU11YnNvU2FwQndibDVzcGdYeGNBVGxJRW9MRzYwWEliUHFyMHUyOXZCTVlJR0dFME5CUnpZc0JB?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-01T15:00:00+00:00",
-      "score": 56.4,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
+        "PanAm Post"
       ],
       "signals": {
         "source_count": 1,
