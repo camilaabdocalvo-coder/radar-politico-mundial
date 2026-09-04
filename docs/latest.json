@@ -1,32 +1,17 @@
 {
-  "generated_at": "2026-09-04T16:29:03.073558+00:00",
-  "next_update_expected_at": "2026-09-04T20:29:03.073558+00:00",
+  "generated_at": "2026-09-04T20:27:48.840819+00:00",
+  "next_update_expected_at": "2026-09-05T00:27:48.840819+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
-    {
-      "id": "2961f1767bb8df66",
-      "title": "La Ausencia de Cerimedo en el Foro Madrid: Entre Rejas y Debate Internacional - Partido Por la Democracia (PPD)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekRBUHJmWlNKQVJCYnlhb0VtMzlENmV1TjZxNU1mMEI5TV8zbDM1Sjl5MkJkSVkyaWx0b2pyalpfTVJvVmgxRWRlZjlzOXBpWllMNzVBZEFlR3JFQWlBdFZmU2Z3Z05zd28tZUVIMFg1WWxoSlNTRmlab29mQVdBcGhBTDEyVlZTUTJ1aUxuMUhWNjJLME1DVmZXeWhOOHRSaHdXRHln?oc=5",
-      "source": "Partido Por la Democracia (PPD)",
-      "published_at": "2026-09-04T15:23:33+00:00",
-      "score": 82.13,
-      "corroborating_sources": [
-        "Partido Por la Democracia (PPD)"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
     {
       "id": "a01f35485193c8fb",
       "title": "Política externa ganha centralidade na eleição e desafia próximo presidente - Metrópoles",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGxxLU9yQjJOWGlOTDY0bjdVQXRiQkxsQS1TMmU3UTBHYnEyNmIxeHUzQzk5ZWRDbUU3NDN3dzRWR3VYeGlIS1M4c0VIQk5oazJlZ2ZvZTF3eFp4Wnpxc25fNjhIMHgyNm5CMWh6WjRHZEhhNUpReGFGS1pfYXl2NUNsdmpMcUNPVU9sZFNIWFNCeXdSbHNuMEM3MWkzdzdNVHRQSmNmYS10N1E1OUE?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-04T07:30:00+00:00",
-      "score": 81.54,
+      "score": 77.87,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -36,14 +21,74 @@
       }
     },
     {
-      "id": "07b4e472aa09fc7d",
-      "title": "Sergio Bitar analiza diplomacia tras fallo en la candidatura de Bachelet: «Creo que ha dado tumbos este gobierno en materia de política internacional» - futuro.cl",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYkNTekRoVEtVZkQ0dVJkOEpYTU8tSFI3RTduQ2JmS0ZPdnpaVmNLWUZVUjcwcUttVXgyMTRVb3QtcVpXUjU2ejczZVZsUGRVMkRLaVJ1alozQVpTRG9VUHdLTUk3T0o2TWREdnFRWF9fUjlwUC1UXzJJelltTWd6T2VzczBFYVJuZV9ZOXhXWEdLaGtkSDduVmxhbnRuZ095WDVmZEVPU1JkSHhqUmM1d1NOcVRwVWVta1I2Z3owUnhzZTRjTmhsYTIzTjV0a2U5ZXVJbU1aUWZQaGlnTk9mZWtkQzhQVlRBcUx6NS0xZGE4YUNVdGVXaUNGdjVZY3JTM2hxM1k4QXpBZ9IBjwJBVV95cUxQd29hZTM2THNvaU5yTTZVV3FVbjgtNUdkbnR4d1gyN0c2R1BrSDVTZ2w5ZHoyUElPT3B2VzVkZS1qSFVDU2ZEYndpdlF1Tmg1bGRaZWNoZTJxMURYWVFzZVlITF9DLXZlRkZfcnVqY0N2Z1AyTGhhXzF0NkxhQnJiUWJuYm5kTDBlZi04Q1I1UVBpUnFTeHk4LXM4eTkyU1g2U2c4WmpwWUlHcDhCQkdOdVFyTWVUNUwyMmdXUXhkYXJBZWhzWTl2THM5YXI5TXZydEJzbE40U1psbzZDQnpxTXM2TW9JMldDMS1EdVY0aEdxLXBBdzlhMUJiMG5rZlk5MjhHeDd4ZDFzeDZQUklZ?oc=5",
-      "source": "futuro.cl",
-      "published_at": "2026-09-04T12:47:28+00:00",
-      "score": 79.09,
+      "id": "2961f1767bb8df66",
+      "title": "La Ausencia de Cerimedo en el Foro Madrid: Entre Rejas y Debate Internacional - Partido Por la Democracia (PPD)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekRBUHJmWlNKQVJCYnlhb0VtMzlENmV1TjZxNU1mMEI5TV8zbDM1Sjl5MkJkSVkyaWx0b2pyalpfTVJvVmgxRWRlZjlzOXBpWllMNzVBZEFlR3JFQWlBdFZmU2Z3Z05zd28tZUVIMFg1WWxoSlNTRmlab29mQVdBcGhBTDEyVlZTUTJ1aUxuMUhWNjJLME1DVmZXeWhOOHRSaHdXRHln?oc=5",
+      "source": "Partido Por la Democracia (PPD)",
+      "published_at": "2026-09-04T15:23:33+00:00",
+      "score": 77.56,
       "corroborating_sources": [
-        "futuro.cl"
+        "Partido Por la Democracia (PPD)"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2a463f5ff15761a4",
+      "title": "Sergio Bitar analiza diplomacia tras fallo en la candidatura de Bachelet: «Creo que ha dado tumbos este gobierno en materia de política internacional» - Futuro Chile",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYkNTekRoVEtVZkQ0dVJkOEpYTU8tSFI3RTduQ2JmS0ZPdnpaVmNLWUZVUjcwcUttVXgyMTRVb3QtcVpXUjU2ejczZVZsUGRVMkRLaVJ1alozQVpTRG9VUHdLTUk3T0o2TWREdnFRWF9fUjlwUC1UXzJJelltTWd6T2VzczBFYVJuZV9ZOXhXWEdLaGtkSDduVmxhbnRuZ095WDVmZEVPU1JkSHhqUmM1d1NOcVRwVWVta1I2Z3owUnhzZTRjTmhsYTIzTjV0a2U5ZXVJbU1aUWZQaGlnTk9mZWtkQzhQVlRBcUx6NS0xZGE4YUNVdGVXaUNGdjVZY3JTM2hxM1k4QXpBZ9IBjwJBVV95cUxQd29hZTM2THNvaU5yTTZVV3FVbjgtNUdkbnR4d1gyN0c2R1BrSDVTZ2w5ZHoyUElPT3B2VzVkZS1qSFVDU2ZEYndpdlF1Tmg1bGRaZWNoZTJxMURYWVFzZVlITF9DLXZlRkZfcnVqY0N2Z1AyTGhhXzF0NkxhQnJiUWJuYm5kTDBlZi04Q1I1UVBpUnFTeHk4LXM4eTkyU1g2U2c4WmpwWUlHcDhCQkdOdVFyTWVUNUwyMmdXUXhkYXJBZWhzWTl2THM5YXI5TXZydEJzbE40U1psbzZDQnpxTXM2TW9JMldDMS1EdVY0aEdxLXBBdzlhMUJiMG5rZlk5MjhHeDd4ZDFzeDZQUklZ?oc=5",
+      "source": "Futuro Chile",
+      "published_at": "2026-09-04T12:47:28+00:00",
+      "score": 74.84,
+      "corroborating_sources": [
+        "Futuro Chile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9c7121bc026931cd",
+      "title": "El reclamo de Javier Milei sobre las Malvinas y su impacto en la política internacional - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlF3U3BjZkNNalBQT2c5bmtvMTkwZjQ1ZjBHNnZ0dVdrNmp5Nm9LTUZXS2RFT2d6enR4X0plRmFrY3dXVXFOaWQ1dkh6Nmo0N0xhQURrMzlEQ1JsLUcyUUJWZkxhUHZrWWhlN0M4NlZ6clY5eUlkR3RBYTBYYXZxMmx5blkyalByOWpLM0Uwb05aNFU0RkwyX21BNUV0RzNkT2JVa3otcmxDN3hvNFhDRzlUemRiS0ViY19pTjJXMDB1cDhtQUN5eExrZE3SAdIBQVVfeXFMTXJraHZQUlZPNkpTLXNrOGM5SG0xZFJLYjlwRE96OHJPaXlZem95TjFic1FPbDRWSmhGSjBDdFpVeDN2SVpVWmNqQWlNVG5mYmJ3eDJEOE5FNDdtY1NmSnpEckROQzZCc1Z0dGVmZTR2cWI0NEVGRjNzVWowN1dkUTBMN0xHQkxOdTFIc1FLbk1lV21RZVdnb1h2QkYwREg1cmk5dld0ZW9nRzdNR0VGc1Y3bzRjcjhITUZDN3VzVFZnWFBrVE5fODJnU24yY3lLNU1n?oc=5",
+      "source": "Cadena 3 Argentina",
+      "published_at": "2026-09-04T19:50:18+00:00",
+      "score": 74.7,
+      "corroborating_sources": [
+        "Cadena 3 Argentina"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2f4ba8445c26113b",
+      "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHZVX09FMTl1Q3UydGNaQW1uT1pLUk1kSXBlTTg4dEpHVGNicUZUclRTOHMzcGcybEthT1luQlEySU9xeGlXT25Cc0FFMks3MW9pUElwR2xTN0FXejlkczlwNEFRWm1SYjY3WHp6VEZBa1I0a0ZpQmxYbUY3ZXl3TmtoWTJkaUNSQTBYUjkwU3ZBU1JiTHJjMlJTcV9RN3ZqdjZoRGFYX0Q5VkVkeXd5RU5aZXVDdjN5dW5UQVQzbWVOajVMTnhMUl9qVDY?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-04T18:12:15+00:00",
+      "score": 72.74,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "58022ffa5d81baa2",
+      "title": "“En política internacional no funciona el término ganar-perder”, Justin Trudeau durante su visita en México - vanguardia.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdTZ4c0lXMjdMZ3IxYWk5c2RMb05qanZTLTdzV1RFV1VkT1NYRThZeTUzamFlNW1kWkR6QUJSOElUM0pCUHpiR0RrSnBVbWpDZ3lzWndFX3B0LThiLVlaVEZ2U1JQbzc5dFA3UmU2bUVPcUJ2azhJNndsX05EbURIMnVVTGFYOXM4SG0tYlJ5ZGpyVVJzdzFUSTBONkhGdVZjU3FvR3l1eGR4a1k4R1VYa3EzWFZESERDWEZmTWNSMGJDb2VLaVQ3RV84Vmt3MkFPVUJFcFMybEJwcmxYd0lIajlFZzF5U2VkT2M4U1Bn?oc=5",
+      "source": "vanguardia.com.mx",
+      "published_at": "2026-09-04T17:28:41+00:00",
+      "score": 71.9,
+      "corroborating_sources": [
+        "vanguardia.com.mx"
       ],
       "signals": {
         "source_count": 1,
@@ -56,9 +101,54 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0NSaVNieGE3LU52UHJMbUlybTlJTnRtd2cyekhialBYMEhoNjdEcWJyNzlYalg2VkZXdjFweVNGSUZjWTJqMW1qMXFMMHJtN2FOSjI4SUJEOWVpdktkVWUxVmM0NWV0Y3FqNzZ4aVpSUkhqX2VFMG02aC1Ca2FMbFpkY0d6QkJqVkpmd2FJM3o3R2xyNkRhM1FadTFnTkkzakw5Z1pZM1RWLVdxQ21laGNXN1lIYTRlcGl3NWRIUS05QQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-04T12:38:00+00:00",
-      "score": 73.91,
+      "score": 69.68,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3b5c18f2fcb04e23",
+      "title": "Elon Musk makes his first spending push in key midterm races - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGhzVENST2pvakFwMW11UDQxdHN4QzN2bU9KUmp5azVOLVB4RnNIWnZzQWxXVTJzWklxUENrY1Y0Ri1DSldrU2o5Sm0zUXlITXhpV2h0TlhSY0s4OHFLNVQ1RGRSUmZuLU1DVGw5czdFd2pYRk1URzVkNzJDWU02NFRVWi13V0JreUdMXzdpbkpReVdVcjRSMjg5WlZuRXJDLVpIOHd2dFBjN2xxM1NoMGozT0w5NGRwa0Y4?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-04T20:19:37+00:00",
+      "score": 67.31,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4a07fe5aff454e30",
+      "title": "\"¿Efecto Scaloneta o mandato de Trump?\": la crítica de Grasso a Milei tras los anuncios sobre Malvinas - Diario Nuevo Día",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlVnenB1cXZNVUZqdGdubEcyZk5sR2JEalFWekxKb3VWdE1rMjMxUDZmellUQ2djYkJMX2dDSkpkVWI1Qnh2NVd0dHpsbWhQZmhBMXFka3gwUkQxY2hCY1N2MFdrdGJYNGt3NDB5NFpuVC1nQmJtRi00R0dmNksyQlZoQ1FRbXZiTE5halZmWU9TOHkyV2RiRG1ZRnk1VTl3SE5YeEEtTWcwMGo1ODN4aG1WMFJZQUN0bS1ST3F1Q2g1SnROMDNqNnM3WmJaMlZXazdJODdkMDdUR1FLazBLWQ?oc=5",
+      "source": "Diario Nuevo Día",
+      "published_at": "2026-09-04T19:16:48+00:00",
+      "score": 66.02,
+      "corroborating_sources": [
+        "Diario Nuevo Día"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6b0c61e82c96efc1",
+      "title": "Everyone but Australia reconsiders relationship with America - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdndqTjlqaEFOd1BzNXRJTDBMdTllY2MtMGFvSTE4bG15b2RRM2xCR2stVzZfY3NRX3VKZ3luQ1pZTV9qYi1GbkttWGFPM2w0UXhWRzNNTEpOQXJYeWVNRFdkV01QMGFwZEFpMmJXVGotc0tzc01aczJMV3E1dGtrQzJsZ1o1VEw4TXJmNFZFN09oS2tGN2NTeFlvNkdWMDFYY3VaVktGMEIzelVKRVE?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-09-04T19:00:00+00:00",
+      "score": 65.68,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVNfc1JmTW5fbHdmQ0ZzNnJ6TjNUeHR6TGp5WXA1dFdmX2dYYnEyRHJPVDRZYllLN0pnU2R5ZzBlSWd4TDd6YUhEaHlzd2VJVDVVdVRVa3UxYXM2WVhaWnVqSkFMeUtKSlB6bmQ3eFBjT1lUXy00OXZzd2FlMkFQZGlTOUFfUjNJTW1qTzlIZU9QNHlkTERRa0ZDSjR1ZnlXQloyUkVvS3daRmVtR2x5ZkJrS0RSVXhka0FQdEwtd1BWR0VMYV9RNlZNQTJSaEx6ZUVlUE9nZGl1VE54Y3c?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-04T16:00:00+00:00",
-      "score": 69.88,
+      "score": 65.23,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -81,14 +171,44 @@
       }
     },
     {
-      "id": "0f0e2de1020ef478",
-      "title": "» La III Escuela Repensar el Desarrollo de América Latina presenta su programa 2026 - UNSAM",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTklnN0wyeXZnM1BCSmJ2dnJxc0tzbzEzVFRxWUVXbHBvd0RnSWhLSXJ5WWFFV2Q4VmlydWZ5LU5DUWUxLXZNcUxnUHB6UlRZNDEwbTB6WDZrUDNqZHpDeDRoUURSNWkwM2d2RWQwRHBwNU1LUklUV2pTck9LSlY2MGFpRzRkTTFaRkxjVDVyajlXN1Y5VS03OG9TN3M2MXdkcnA3ckdWYTNhUGJleFVlTGR6YTNWak93NTk3NHNoaW8?oc=5",
-      "source": "UNSAM",
-      "published_at": "2026-09-04T16:09:36+00:00",
-      "score": 67.07,
+      "id": "0067ffc4bfebc1ca",
+      "title": "473 – Catástrofe no Nepal e petróleo na Venezuela - Xadrez Verbal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUY3ZVloZm5WekRxcW55TUdUd01FZVFraEsyTnhYblVGcHpXSGgxa29ZNkdmUFNRTE8xMGZ2MzZHT01sNGdmaFk5cHBoQjhZNEVrZkZFQlV5TEwyRGdrWWItc0NaZDRlYl9ydGhxYlNvYXdGSENtQnpqS1IxZjVCNUk1VVJGV3RIVkx2Yy1JWm1sUXFhUkl2RHh2WXNfek41U2RhS0p4dnNHZw?oc=5",
+      "source": "Xadrez Verbal",
+      "published_at": "2026-09-04T17:17:04+00:00",
+      "score": 63.67,
       "corroborating_sources": [
-        "UNSAM"
+        "Xadrez Verbal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "df5f59d4dddf08b5",
+      "title": "Como a relação do Brasil com países africanos pode ser caminho para integração com a América do Sul - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOFBEQVJaZVd4bXBCV0pPODhzR1RqQ2NpdVFiTU53NjBqX0twTjk3SjFjSWhkYTVFd0pwZi0tUkFUU1N1Z0drMm12MDNqc3JyUm5NOUNQRU4xVXdwZ0EtdlpBeEx1R3dla0FlSENqMFMyYmRqejFDbHcwTVMxUm5lNm5lUmRGZ2Z1UkpvTVNiZDgtWkhxenptOXAwNnZpTjJ0d3liWkJTSVhFQmxPaDRxTlF4ai1XeXhwQmFqaU0wNGktdlM1SjVjbUkyWEZPMWtUZU1CTlIwT3RyLXBBYmVIMEVnZExmR0ZWZ2pkX25vaw?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-09-04T17:01:00+00:00",
+      "score": 63.37,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "24ab449669d0ace0",
+      "title": "Caiado: “Se eu for eleito, as regras do STF serão outras” - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnZwUmdfbXVmVkxSSmUxZzA3a0RyaS1ZVnpnOWhhWmRPSTg3ZlVNTl8tb1ZpUUEwc2FFR0JDNDQtZmtwenhwbUZuNzJ2SkFFN25JYURuckVpcVhKY2t0WmtIbnZHcmFiTXlabTdzeTNNTjd3YlFmWW1CWEprdGdjQjJDMFBlZFZMaWlmekp0aG91cDNLSGdEN1NzTTFMWVYxbG1QZEJ4U0Y4QdIBsgFBVV95cUxQNUpkdl93cjM2V2lqOF9IWl9DVG1fOFlSYldpbnhjOXduaUszbVZCbmZCS21sbS13cDFfa1ZXOTZOOFNaQTh0RFhSTkp3ZDBtM3JWMjhjYzNNZEcxcnkzNTZwa1RzY0ZTSHE4VVhXX29ERWY2WUE5Z3RXUXNWVWlUQ0xiWV94bG5KcDlma200cHVqQnVPcTVEZmFodWtxWlpwdThSazlZb281bThyR004YXpR?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-04T16:26:00+00:00",
+      "score": 62.71,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +221,24 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOWVPMGE5c1pKc1lBUmgtcmZrczlTZjh5Yk1wWTQ5anFzNk1vWmoxU0p3ZHZBTGd0cHJUY291UlZKcHBIVHJUWXZhczRmaXdQN21abGFRRG50N3RUTEIySy1hQlF1VDJqczZ1YVBGWjJFSHpDRDlLVFJvTEV2dm1vMmlTM1VHb2RXX21NbHN3bV95SEZQc1BkZlhhaGJmTUhydUhqTVYxR0tGUDhMUHY3d2lmTXNsM094ZW9aYXJiMW5mT0hjY0Y4TTQ5TU50bHpBYXg3UGV6c0t2eTRZZF9qTGFZT3g5WkhGb2JN0gHrAUFVX3lxTE55WmtrSkFnMDluQ3N4VnhncnVIbXN0QXhzajN1NG1BZ2hrRG9MLW1KOEFpNkl5bzFxd04wX25MazlDblZfdkZsQktqSDF3SEZVT2pEeFM4WHU0LWFtMUEtd1pYTndtNVJYUVRiY18yUE5PV3VBd3Boc3RIY0d6ZWl6VGVwcjNXNHNxeUJIU0gtdmZyOUxzVVo3RGlGTkQ0OHI5SWhSNHFoTmFVNkF3c25Dc0xycDhUbEpNeUx1X0wzc3FhcEVwSFFWdGtRZDBDUW4tRXNublpVNTlhdm0wcEFTdVBOREEwajBPdVU?oc=5",
       "source": "MARCA",
       "published_at": "2026-09-04T08:08:47+00:00",
-      "score": 66.17,
+      "score": 62.44,
       "corroborating_sources": [
         "MARCA"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0f0e2de1020ef478",
+      "title": "» La III Escuela Repensar el Desarrollo de América Latina presenta su programa 2026 - UNSAM",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTklnN0wyeXZnM1BCSmJ2dnJxc0tzbzEzVFRxWUVXbHBvd0RnSWhLSXJ5WWFFV2Q4VmlydWZ5LU5DUWUxLXZNcUxnUHB6UlRZNDEwbTB6WDZrUDNqZHpDeDRoUURSNWkwM2d2RWQwRHBwNU1LUklUV2pTck9LSlY2MGFpRzRkTTFaRkxjVDVyajlXN1Y5VS03OG9TN3M2MXdkcnA3ckdWYTNhUGJleFVlTGR6YTNWak93NTk3NHNoaW8?oc=5",
+      "source": "UNSAM",
+      "published_at": "2026-09-04T16:09:36+00:00",
+      "score": 62.41,
+      "corroborating_sources": [
+        "UNSAM"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTVmX3ZDdEtnZFhYbHRVN0I0LTQydzNFVm9TRE5tZHNIWjhnVW03bUF0RTRULTNaZ1Y0YjBJeEdiZXI1T21sSDN1Nk1sWnJCakE5SVJGZFc5VWQ1ZEdZN1ZxellmWTdVamQwcE5GbjVIck1yVUd2dHJDc1cxSUhRQ29saFNRSEoxSTVKWU1lb1BZcDlPcGlZMDd4N0MzMzNHaFNmX0lYTGlvekZiTlFJYWdSR2VrcUNHaVFN?oc=5",
       "source": "Portal VV8",
       "published_at": "2026-09-04T07:33:55+00:00",
-      "score": 65.6,
+      "score": 61.93,
       "corroborating_sources": [
         "Portal VV8"
       ],
@@ -131,24 +266,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1VwdDYtSVh2QkFhR2VueTRjaU1LYklmYnFVUHlJYUJsanpNOVJnbGdHV1RteVBteUk1bmRsOFkzRjI4cXp2OHlXLTNNeml5ZnN5dnR6MkZ6NUNPODRsYzExWXZjS1hqWEtXUlVlWHZvejFqdTN0SEhVYm1UaDJqel9HcWpVQkdpSTVocElDWlpEc1BiOUh2R2dYMnB1bU5VcEw5R01hX0puYUVEeWtuUGp6QXUyYVlrSzl6ODBKYXQ3N2s?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-04T06:39:15+00:00",
-      "score": 64.72,
+      "score": 61.14,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "58be5d3d127902bd",
-      "title": "Polémica por programa ligado al Reino Unido y a funcionaria de Malvinas - Diario El Norte - San Nicolás",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDNadkhIbEpFZVJMbnJmUEg1clE5d3VWemZyN3pHcUg5ZDZFOVFrQTFrYXp5V3lXM2EydXdWUG9ZakN3SnFycmF2aFRfd2piNXlaX1FHVExxSnJIdWdtTThVRElOcThwdWhCSG92aWxGcC1UQmx5a1QzVjBqU3JJVURVakRGSVdrWmFKbWpOOEM2eWNDcmpmellSbEFFSi1mVEZN?oc=5",
-      "source": "Diario El Norte - San Nicolás",
-      "published_at": "2026-09-04T14:03:42+00:00",
-      "score": 64.55,
-      "corroborating_sources": [
-        "Diario El Norte - San Nicolás"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEpIWjNkQ2RDZDJWTTZkVE0teXdsNWNNTUdZU2dQbE1oNTJhQjk4RFYyczRITThEZXdSaW02RHhMTjgtQ0g4bHpBWjBtbjh2MWxKbW1jRWVrRzh1QXdzdXlEOVpqa1dOb2tnN2xPYWxUYnZsM3RWdklleFdCWDJUWkNPdlJIMjRqNDh3UWNUelJoZ0VxSEh6UjZqYVBYR25oMUpkVk5CTFoxd2s1c2o4?oc=5",
       "source": "Identidad Correntina",
       "published_at": "2026-09-04T13:52:40+00:00",
-      "score": 64.33,
+      "score": 59.95,
       "corroborating_sources": [
         "Identidad Correntina"
       ],
@@ -171,14 +291,29 @@
       }
     },
     {
-      "id": "2f4ba8445c26113b",
-      "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHZVX09FMTl1Q3UydGNaQW1uT1pLUk1kSXBlTTg4dEpHVGNicUZUclRTOHMzcGcybEthT1luQlEySU9xeGlXT25Cc0FFMks3MW9pUElwR2xTN0FXejlkczlwNEFRWm1SYjY3WHp6VEZBa1I0a0ZpQmxYbUY3ZXl3TmtoWTJkaUNSQTBYUjkwU3ZBU1JiTHJjMlJTcV9RN3ZqdjZoRGFYX0Q5VkVkeXd5RU5aZXVDdjN5dW5UQVQzbWVOajVMTnhMUl9qVDY?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-04T06:04:40+00:00",
-      "score": 64.18,
+      "id": "ff27aa4b73638678",
+      "title": "La política exterior de Colombia – Parte 2: Diplomacia en Latinoamérica - Universidad Distrital Francisco José de Caldas",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNLRWJkT3o2ZHZxaU5oTE03bWcxY01JMzAydVh3UEFlYThicnBSV29hTm5YSmF6VE5JSjJOdTNQUDh3OWdXbEl2WjhXRnp0ZUpaQXdRVlR6RFNhRGpSeTFxMkpaYVFERUNyREhIVlhzVjdYdXg2el9yRDI3RGdJLUsya2lWRHpKTDZqakRFVU8xQXpGa0ZhU3JjcU4ydlJKdk12QjNXZDctblVZOENwR29odWpwUUtKM0E?oc=5",
+      "source": "Universidad Distrital Francisco José de Caldas",
+      "published_at": "2026-09-03T16:38:57+00:00",
+      "score": 59.26,
       "corroborating_sources": [
-        "Estadão"
+        "Universidad Distrital Francisco José de Caldas"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "68083829d852be3d",
+      "title": "Von der Leyen, Kallas y el pulso por el control de la diplomacia comunitaria - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbVR6QXo3ZDBtakpPVThFMGZHVXhQSDlYdDBWZFpzUHBfSUNIZ19RYWxQQzB3c2NrUXZ0RDNkS2x6STN2aFg3LV9FSXpPd3FyZ0luTUdkMGxwNkRiVk55bXp6VjlOMDB4cjlJbk5uWFoydHhHcDBiVzl5TXhpbE90eDVEdVRaazdGZFl3TGYzakZjd2M3RnB2b3ROa0JkejZsTE1HbVNMdlE3MktkM09JankyY1RqcEEzUFlDRXVsckRoT1RGUkZXUGlXY0vSAeABQVVfeXFMUGdOZ24xRkE4ZE5GTUItcXpSdTZJN18yZVlQMU03MGFCZk1pZjF0dDZfVGFZNnU5R1dMeFVPc3VpTFc3bWVOMDA4YWxFWUY5SGhza2JWMkVxeVlmS1NZTk9sVkZDM0t2X0FaQWJrd2pHWjdWVzBub3NINXZjQkYxTURlN1BqcTRScGdtaFJpb2ZwTVJGaENmQ01LRDA0WDhjMGVZUTlZU2dXNFM5NkpHcmdkbHhuSUh4OC1iOVkzNnNxQ3d6ajBUUUdtYlRUaFo2TElHcDlhVGphU0JSMThmXzQ?oc=5",
+      "source": "La Razón",
+      "published_at": "2026-09-04T04:00:45+00:00",
+      "score": 58.97,
+      "corroborating_sources": [
+        "La Razón"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdmIzVlpWUGEtcmtqUEt1NkZZRWEwRU56R2VTMDM1NWxjYldYd0FzSWZoUUxDazlhd2V6QzhINEJUZ09mZnJYWWtTSnZVT2F2T2IzWVBNVXJHUy1HbHVDT29iVHFxa19KcHRPRVRrUXJLN1d1Q1RJVEdkVmRsdGFMWGtpdzc2RkFPRUlsbmkxdnNjZmVkRWg4eVlaUGduRXdYWjllejZTU1V6UXRyR2tUVUFZZ3ZyY252NkVicGZfZXQzQTJSYnF1WUczNU1RZ05pSFFxb1QtREIxSkM1UTR2aFdhQ2REUElia0tFZFo3V2lSc1E4eDJrNWRuLUl3cnNm0gGPAkFVX3lxTFBjU0RzSHVoRlktVDRIdlZrOVF1c2Z4VnBhV1VEdEtoVXZ2a1FfYjJjYmt5bW9vU3gzX1pBcGJ2WFhnSTh6N0tsSFJCTnJJbTVWamhKQmhNbFVCYVEwLXNOZk82cVJfNGI2dmN2XzJuY254SUtweWFfaWo2LVhta190TFcwTGhBOC1MOUMxMlBTNFU1Nm8zLWpxVGRjVkNwWXRBSGJHa0ZhbUNpVTRYYjk5OVhhaVIyR2hvaHhXYVcxeDMzNlV0b1BXeU1uektTZjFoNDJjMnE0RHJsUkY3SGtFbzktSnhiekxNM1otb1RDdDVnR2lyenNyN3lma0tCZFpFYklkYWhJS082SF9Bcm8?oc=5",
       "source": "O GLOBO",
       "published_at": "2026-09-04T12:46:16+00:00",
-      "score": 63.07,
+      "score": 58.82,
       "corroborating_sources": [
         "O GLOBO"
       ],
@@ -206,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0s1bGg2Zl9yYjRTbWVVQXVQbkdacjZZbm9NRXZ0cmFGc2NHNXE5bE9relVRMnBzbWhib0ZFTGdZR041R1BkRjVoaHZ0SG1HRW5JX3VBRHZYaW44WWItQ3BTOENaX3A1LUtMWC1UcUtNUXFuenhxLVJBM2xDbkotRWt0bk5ZM29VMGNtTW11OTB1TjZVdHZqeGQ0MUl3bU14NTAwaTlyaW5oRGfSAbYBQVVfeXFMUGkzT0h6QVR1RnpTdDdnR2JzVTZhaUVmbXZGWnU4Q3d0b0VaZV9tNFE0YlkweFZRTnNJdDduNW5lV05pVTdRNlpUSnpvTzlBSGp6eWVuOVMzU2JBbWZuZGdqT3FHd0NuT0NkLUpwWWdycm0za2VpOVd6VzRuZXB5cUxYODJiMHFKZmZvbjBoSkNGTUVDS2dZZFBxMHdSM0FidFV1bWhIbEh1NENxYjFHMXJkWmZWQ3c?oc=5",
       "source": "Lê Notícias",
       "published_at": "2026-09-04T12:42:00+00:00",
-      "score": 62.99,
+      "score": 58.75,
       "corroborating_sources": [
         "Lê Notícias"
       ],
@@ -221,24 +356,9 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oZGZvMnlCUXd6VkY3VUg3QzNLMnBKZUZlSjJMNmloN2hsU0xPb3dfRmt0ZXYyendXY0FkczIxZ29fMDF3UElrcWRQeUhjVVF1aU01T19lX0NrZUhqWEJ3bklpdV94STEtVlBr?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-09-04T12:35:12+00:00",
-      "score": 62.86,
+      "score": 58.63,
       "corroborating_sources": [
         "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fe9ca06377a01cab",
-      "title": "Necesaria política sanitaria que aproveche responsablemente la cooperación internacional: Cruz Castellanos - Hoja de Ruta Digital",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdk14QXR0ckpQbmdRRVJuNkN5OC13bzdZNGtSTDZnU0dYaWdIdnlzdnpPQVpuQTBZTXJvdTIyX1hsRzFqbkR5cm9ZdzFHSnNVRUIzZHlvQnAyRmE1N2E5ZUNRbVFRa1g3cjlNcTBQTFFXc3hZSzc3TUdtb1BMNEZNUmZUdWxzYUU2VWFScElVMlRzUTJUNmlsa0E0WjRWU3BTN1JERkNQcnJ4TGJ5cGtsX3loUHpybUhoOWRqOG43NW9OT1dVcXl2aU1jMG5STnF4?oc=5",
-      "source": "Hoja de Ruta Digital",
-      "published_at": "2026-09-04T04:24:55+00:00",
-      "score": 62.66,
-      "corroborating_sources": [
-        "Hoja de Ruta Digital"
       ],
       "signals": {
         "source_count": 1,
@@ -251,24 +371,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFNlaU84aTlzRXpmdmc1UXktR1YxVmVkaWMwcU9WVXdUOXU3NmJpeHc0aEhnbGtrSXpSRWx2cUhLaVVnNTQtMnMtWHc0X1ZpUzBQZ3RScTJwcGdRVnRRUld1UVB0NFNBZldIZGNUWmotaWRHMlhnSjk3UVdXYjdLdjJSYTNGSC0xa2YzeXYtTmFEQUhZWHBCOVVPTTVMMmp0UVdwME9XLXc?oc=5",
       "source": "La FM",
       "published_at": "2026-09-04T12:22:33+00:00",
-      "score": 62.62,
+      "score": 58.42,
       "corroborating_sources": [
         "La FM"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "68083829d852be3d",
-      "title": "Von der Leyen, Kallas y el pulso por el control de la diplomacia comunitaria - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbVR6QXo3ZDBtakpPVThFMGZHVXhQSDlYdDBWZFpzUHBfSUNIZ19RYWxQQzB3c2NrUXZ0RDNkS2x6STN2aFg3LV9FSXpPd3FyZ0luTUdkMGxwNkRiVk55bXp6VjlOMDB4cjlJbk5uWFoydHhHcDBiVzl5TXhpbE90eDVEdVRaazdGZFl3TGYzakZjd2M3RnB2b3ROa0JkejZsTE1HbVNMdlE3MktkM09JankyY1RqcEEzUFlDRXVsckRoT1RGUkZXUGlXY0vSAeABQVVfeXFMUGdOZ24xRkE4ZE5GTUItcXpSdTZJN18yZVlQMU03MGFCZk1pZjF0dDZfVGFZNnU5R1dMeFVPc3VpTFc3bWVOMDA4YWxFWUY5SGhza2JWMkVxeVlmS1NZTk9sVkZDM0t2X0FaQWJrd2pHWjdWVzBub3NINXZjQkYxTURlN1BqcTRScGdtaFJpb2ZwTVJGaENmQ01LRDA0WDhjMGVZUTlZU2dXNFM5NkpHcmdkbHhuSUh4OC1iOVkzNnNxQ3d6ajBUUUdtYlRUaFo2TElHcDlhVGphU0JSMThmXzQ?oc=5",
-      "source": "La Razón",
-      "published_at": "2026-09-04T04:00:45+00:00",
-      "score": 62.3,
-      "corroborating_sources": [
-        "La Razón"
       ],
       "signals": {
         "source_count": 1,
@@ -281,24 +386,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTM5Ml9QdTBtbEo4V0dmbVFMcEh4LVp5aE1IV3NxMVFMbWJoRzNPSlFLUVJxRG11eFVUTV82bzJPUXBQX0FmRWc1aXRlSmRYTXNNWU0wOWJiek14NVBoUFNQaGRMcDFTMXNsSXBJNWhlUi1uOU1JTy1JVDh6WEJ2QUs3NlhKUkt5Zk1HbkRPR0RIX2c4dWJMaHkzeGI0U0F3MFdpWQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-04T09:02:06+00:00",
-      "score": 62.07,
+      "score": 58.24,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ff27aa4b73638678",
-      "title": "La política exterior de Colombia – Parte 2: Diplomacia en Latinoamérica - Universidad Distrital Francisco José de Caldas",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNLRWJkT3o2ZHZxaU5oTE03bWcxY01JMzAydVh3UEFlYThicnBSV29hTm5YSmF6VE5JSjJOdTNQUDh3OWdXbEl2WjhXRnp0ZUpaQXdRVlR6RFNhRGpSeTFxMkpaYVFERUNyREhIVlhzVjdYdXg2el9yRDI3RGdJLUsya2lWRHpKTDZqakRFVU8xQXpGa0ZhU3JjcU4ydlJKdk12QjNXZDctblVZOENwR29odWpwUUtKM0E?oc=5",
-      "source": "Universidad Distrital Francisco José de Caldas",
-      "published_at": "2026-09-03T16:38:57+00:00",
-      "score": 61.69,
-      "corroborating_sources": [
-        "Universidad Distrital Francisco José de Caldas"
       ],
       "signals": {
         "source_count": 1,
@@ -311,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTRnYmNtZEtIYVNNVnZzcUR2VDV3M29OVnBwNjhST2NoOVpUTTBpaVh3NXZJMUl1VEtZeksyS1FFeW5PSkgwU09ud2ltTzN4ZGszZU9XMkU0RTZwcmQtV2N3LTdfUHJBZ0RSdVVrUFc1aHJRR1VYT2h3T1FrbEJ0WThLY3JSWU9iSWYzdlJEUzBDLWxvVTRFSFNoMGV3dlJZbnh6YkRBYzY0andNYUMxWQ?oc=5",
       "source": "lanacion.com.ar",
       "published_at": "2026-09-04T03:05:00+00:00",
-      "score": 61.49,
+      "score": 58.24,
       "corroborating_sources": [
         "lanacion.com.ar"
       ],
@@ -326,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQY3lPT3FoWVhPdTFWNmZ3X28wRThlNTRLY1E0eDNIZ2dBUDltOWtrUWg1S0dFV3llR3hxcjVmdGl6c2J0akozNW5lX0M4Z0VvbTdDRFQ4ZmVlaVRJTVZKUjUxZGVsTmI0ODBXckcyOXlVS1V5eGU5bEVwbXVGeExRUENfaHMzejVQMkhvSXdpVWI2b0JDdVFyeE12WEdfV09fMkNpT3JydF83UnIydnl6c1hIN2hhRVMtei1uSUFsQnZUMWhmbDdhUElTS1hsOTNlb2Y0cDdHWVAzWTdQaDAzMWtLa0Fta2lWcWlieHlYTl8xR1RxUEVoR2FvQXpWZ1o5dF9lSmdR0gGgAkFVX3lxTE9vQ3hwUnZvOFFxRzNESzFOeF9NQmN0cEtmZkV0RkdfOFJ6Z2R3SXRicTYxOThEaHZSMXNnRm4wLWJtVmc1c2JRMkxfYl9fSWtwQmRXV0tfRGJXLWppWTNLdEJhT2pIMjU2SXBoQ1RaVFVNUzRHTGlwdzJoZTNoTVFqdHJWbE9mNlFhZUVCcDdaVm1Gd3dOZWdYc2JaNHRwdEVNbi1Id3VJOVBZX1VmQzhnc01adjRkSF9ieWhUUzN1RmlqX3Mtd2J4ellDTERfaVZ1U1RvVjRaR3FMS1NrckFUQktxMFFpejhTVjI2Q2w4T1NkMWlPbENxaE9GMDJwRkVIOTJmbUt2eHhlOUZXcXVxTXNSOTlwS2tFM2pGcG1GWg?oc=5",
       "source": "Infobae",
       "published_at": "2026-09-04T03:00:00+00:00",
-      "score": 61.42,
+      "score": 58.18,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -341,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0JrN0Z1dU9TRnp3Qnd3SEdIeHNaTHB2VEEyamQ0bVBsMkJjeVd3aEhKQ1lwVkJSQjFma0x6Y2w1d2VJSVFTVjlIWm9ZUXFHbnNuY2xnZU82UHJfSlV3VkE4V2ZxTmZQVjA1STRNQTQyTUY0aDA4MFV4MGdrQXBzRDFUSXZHYzNIQXRkMjB5Rmg3QTNZSDZILUJCUUpuWFM3UUhYVDBMNE1lcHdJNDJaVkcxWF9uczVlVUE?oc=5",
       "source": "El Heraldo de México",
       "published_at": "2026-09-04T01:07:00+00:00",
-      "score": 59.84,
+      "score": 56.77,
       "corroborating_sources": [
         "El Heraldo de México"
       ],
@@ -356,99 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFlCenZMeFhveFNQR1kxSHk4VlJ1dzlvUHZ5dHVfZTl1OHpnRDNnWjdRX1NscFBVVzVhOGluTXVtVG5iT19LZW11YS1jcWN5d0NSUjlnTTVtVHpGQkxYUWRiSHBiSnZWdTZublYzTWNBMUxtcXQwdU0xQmJpaVBRVm9Wd0t2RW9WMUlhMm5TYWxuUDRKckNfOXZVYlV0MGFaVU1xbVdUOHlfdEdxMUFoLVJGcklnQVFfVllz?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-09-03T23:58:15+00:00",
-      "score": 58.92,
+      "score": 55.94,
       "corroborating_sources": [
         "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9201f01cb010512c",
-      "title": "Jordan Bardella: UK and France must ‘regain control of Channel’ - The Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDRvaVhBTzFfcEszQ0JQZ2ItNmJhRmpndjQ0MUdubVFIZ2ZQS3g3WkdvRHk0Nkg3OFVFTjZ0MmIzc3hYeS1vQTVuMS1uNzJCMlYyeWpWZDZEX2wzbEZ1NkxkaU15eUljb1RvV2MwcnRfMXpvRjFwbHdEbTRweDk4OS01cENZRDVwaFFWODBydDhIRDk2UklHZm8zT1E5eU1T?oc=5",
-      "source": "The Times",
-      "published_at": "2026-09-04T08:25:58+00:00",
-      "score": 58.46,
-      "corroborating_sources": [
-        "The Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "070c003038d755f2",
-      "title": "Delegado da Cunha afirma que \"perseguição política\" provocou sua demissão - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEpmc0FMUHFQajNMRlZ4eGstTENUd0Y2eTh5eEVLSTByeEkwWi1FSHpJSHNtbkxhdUFTNlRmZUdPQzlwRkdXU2tZd1l1Z0sxZGpvT2FPX1l2SHRCRUhEYTNGR0xtdjNCeU1UQmptNmJyRDBLSW5kWEpKdEdMSjYwUHlGcU1TWTJsTFBEZHZZTGM0T1U1ek9FXzVZb2J5TTdrZVU5anVnZ002Vk12TkVsYTFKQ2p2cEljMFhhMHRsSWI?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-09-03T18:36:00+00:00",
-      "score": 57.98,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2cb4b880499c3a66",
-      "title": "TSE firma pacto contra violência política nas eleições de 2026 - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejBCU0p3VW9lQ214d2h0YUM0NmNLeG1aTVJMVnZMOGNUMUdUbmNqR1U1Y0tjTGptVF9Nd1BGREJsVUdCWkhzMFRVOHNYRVhodEIzSk82ZEdWRFpOSGVlVTItaXVoWE9xdjFaRFhWOHBJMDJnSTBkaUtUdG1FRDZQSklxUHZTRldkb3RJM1B3cmVQbTF5alpSUjZrLTlGdi1fSFR4eGJ4SmRFM2haR1otMEI0RHhPUQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-09-03T18:25:00+00:00",
-      "score": 57.85,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a79529a6b24199f5",
-      "title": "Orsi retoma el diálogo político con reuniones bilaterales - Diario La R",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzFEdHUwcFBkbWVLWGxVNGNBbDhLOUZHUjlTTGNEOUhwNHpvU1dQa1ZkZ3Q1ekJCX0gxX1FhalZRZWMwcUFsclVfTzlWenplX2xoeUJSeV9tbEd0OUFWaTl0UG5PMmVqX19EOWdlRmpHT3ZJVVR6YWZNWUp5NWtyRV9OWHppT2t6c3ZaMUlxUnZBc19nZXoxZS1MOGk?oc=5",
-      "source": "Diario La R",
-      "published_at": "2026-09-04T06:35:26+00:00",
-      "score": 56.66,
-      "corroborating_sources": [
-        "Diario La R"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c8a2f478db0282a1",
-      "title": "PF diz que Mendonça desconfiava de Andrei por proximidade com Lula - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXhnVDU3dXNncnkzM1Vic3dWQUw3WDZ0X2FaTnRDbGFhb3ladU9CSXppeWg4bEt3el9Wb1hYOWY3OGVUdm83bV83UlFwNEpUbWc2MzJJcWgwN2dDd3FPZ3N4XzBBVmYtQkFNYjBMRUNFSWZZSm5PR19jU1NSMjl4ZDhFN3JLam9LejgtTVRIQ0tLOWNHR0Z0ZlQzOXlhV1d0eVh2ejRyRXA5dVhLN2c?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-04T03:06:58+00:00",
-      "score": 56.52,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "662a113d368b79ab",
-      "title": "Renan Santos diz que Cury é sócio de empresa que tentou comprar Master - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZF9hcnA0MmM2UGdFSU52QTR4RzlhOUVpTkI5Nm5oNEFpX0lGVkNMWUdza3hKNTk3dDJXS0VyWUlqRi1XS2pNd0JsS285ZjZUYzNFMmZWWXlpLVBHVTZ6aGxDejFOU3IyYkU4NVFtSkhmdFI1UG5SangtOTFGYUNmSW1uRGVhZFRYNDJuQWcxOTY5d25YSXh2cF9LS1ZXRUlJMU9oN0JoVFRCcmZOaEZiYzIyMWRNREJWWEhV?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-04T02:48:35+00:00",
-      "score": 56.26,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
