@@ -1,19 +1,64 @@
 {
-  "generated_at": "2026-09-05T12:31:36.525401+00:00",
-  "next_update_expected_at": "2026-09-05T16:31:36.525401+00:00",
+  "generated_at": "2026-09-05T16:27:37.385780+00:00",
+  "next_update_expected_at": "2026-09-05T20:27:37.385780+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "1ac886a1dd0e794c",
-      "title": "Para blancos, reaparición de Lacalle Pou por Venezuela \"llena vacío\" que Uruguay ha dejado en política exterior - EL PAÍS Uruguay",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN0FWaUdvLW5lRkVXb3hmLTQxSncybFBOTnVaQmRydjQyRkNuT29yUGZQSFE4NDVLZmphNFBEbTJVdWxCM2l1aUdRdjczUDhKQWpFalQ2dmp1RjhrUEtUWlF4dDFCak54a01aalExX25ic1JTMXZ4R0hVVHQ2QndLbnBQWlZ6b3BPeHVISDlPYmx0NW1nRkNVcTR3dUwwRHlIYmg2UVozdXFVdVI3d3JNSGFGZlg1M3dwTU5VV1dHQlF3YVE0ems5OXhPUkNGLUtYY0tOb0YxbFVURWlBMDJkTnMtdzQ5eFV3Q05Z?oc=5",
-      "source": "EL PAÍS Uruguay",
-      "published_at": "2026-09-05T07:05:35+00:00",
-      "score": 69.17,
+      "id": "cd2ba81407c497b3",
+      "title": "TMC estreia novo programa semanal de análise política em parceria com o Poder360 - tmc.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFV1Tk9TanNvZC1yYXBzUUFuRlFmcnB3c2NkRmM2VUwyZE5oWHFMSjNucmd3OUxVdmUtVFJJa3c5amxjbTNyc1ZYQnZfZEpOVWVJNWpUOFJ2UGc4b2RKbzR6T0V5T3d6OEw0dldNSThYcXBPVVY0eEQyenF2bGdjWldScmoxdTRXWU5nRWtVcS1YMXc1Zk9PTUhtTk11S1ktY1Q4bzhmbW93aWlGd2c?oc=5",
+      "source": "tmc.com.br",
+      "published_at": "2026-09-05T14:06:08+00:00",
+      "score": 75.62,
       "corroborating_sources": [
-        "EL PAÍS Uruguay"
+        "tmc.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "09587ff96594abcb",
+      "title": "Orsi inició ronda política antes de la Asamblea General de la ONU con tres líderes - El Debate - Uruguay",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzZSc2VTVk5GUVhJUENOdkpRWjhnS2QwNzJram1WQ21mQmpadzZOZ0JJTWhQQi1QU0l1dFlfSFlXbWFqZnVER2R0cV93NHRJUlI5b0JMano4cV8zbEN5Tk10M3FuZnREUi1yN3d1V0djZmUtbGZzdG9ydWVpeWlyZG9zN2I1cV84Z1FsdEdyMjVseG5ORUxoY00tc3ZDNG5Penlua0pBR0Q3TjRBU2NHMFIydnVSeW9kXzZ4TGpFZFhmeVdGRDdZbThnRDFRcjdQR1E?oc=5",
+      "source": "El Debate - Uruguay",
+      "published_at": "2026-09-05T13:10:00+00:00",
+      "score": 71.54,
+      "corroborating_sources": [
+        "El Debate - Uruguay"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f1673f21e70e6e9a",
+      "title": "Crise no STF: leia o que os candidatos a presidente propõem para o Judiciário - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWNGQ2J6MUthYmJsdldJYWQwT25TeXN2UGJqSk5HcUdOc0x6ZWwzektLX01RMnYzZUVLNlpKRmd4STIxenNSSkF1QVlrMGtZeWp1TU9zejd1ZXVFUGhSYW9XNUZ1dGlLd2M4ZFNUVDBTWm1GbVNYOTRPSFduM0JCSC1JYjN6RmVPWk1RbFBfekZ1a0pjQWFZNDY5eTZTejhOcEtSQ1pSa1o4a3dVZlJJSGg3aTNGcXNFV2JPSUpTaWhRSVk?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-05T08:34:40+00:00",
+      "score": 69.63,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2db158fae6dea100",
+      "title": "Augusto Cury omitiu negócios nos EUA da Justiça Eleitoral - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUtneWFqbE50TFZxaUgtclVua19janBWREJoUkppc2dSRjUyYno4eE5tN0p1VkFGZ25GQnNSUF9EOTRmR05hNThNcHF4T2tkQ0VrMmE2Q2JRSWhOZDc0TnQzQThNM3N0b1FfQzRNVFRsNlJYcGk1bWEwN0c2OEt0QW5MZU02cVRiVXVzaDFHb0ctclVwdXl6elVfWXhsV0hyakY0eWthRnRCNlE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-05T15:04:00+00:00",
+      "score": 68.77,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVNubkhiR1BfeXNCUUt3X1hjX0pkNmpzQUl1dmY1VTFPdi02NlVkT0hGWDFqWnRWUjJaOGN2V21BUko2QmtQc29UcnBRZmRPZ3lxN28yc0hzdDBxdHh1Rkg3VlQ0OVlVUUJZdEJvQV9WeEpTWGoyT3Z1NzRPTTVVV0NnVFp4VGJHNUNiZmI5bzhSMkV5LVNrUTJzbGhJdw?oc=5",
       "source": "GUB.UY",
       "published_at": "2026-09-04T22:18:39+00:00",
-      "score": 68.8,
+      "score": 65.66,
       "corroborating_sources": [
         "GUB.UY"
       ],
@@ -36,14 +81,29 @@
       }
     },
     {
-      "id": "faba7b060583d629",
-      "title": "LIVE DO DATAFOLHA | Segundo a colunista Mônica Bergamo, os vazamentos e delações devem tornar a corrida eleitoral ainda mais incerta. 📲Leia mais na #Folha: folha.com/politica #politica #videosdafolha #datafolha #eleicoes2026 #lula #pt #flaviobolson - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kY1hZRnpfQkRzeHc1MmtiTHQzVmJieExsTUhCZ1pfcGZWTXExZzFhZF9wT08tclU0SjRWNVZUVU5LbGd6NTg0RWxuMDdodFhwUlhWTDB3?oc=5",
-      "source": "instagram.com",
-      "published_at": "2026-09-04T22:58:01+00:00",
-      "score": 64.35,
+      "id": "1ac886a1dd0e794c",
+      "title": "Para blancos, reaparición de Lacalle Pou por Venezuela \"llena vacío\" que Uruguay ha dejado en política exterior - EL PAÍS Uruguay",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN0FWaUdvLW5lRkVXb3hmLTQxSncybFBOTnVaQmRydjQyRkNuT29yUGZQSFE4NDVLZmphNFBEbTJVdWxCM2l1aUdRdjczUDhKQWpFalQ2dmp1RjhrUEtUWlF4dDFCak54a01aalExX25ic1JTMXZ4R0hVVHQ2QndLbnBQWlZ6b3BPeHVISDlPYmx0NW1nRkNVcTR3dUwwRHlIYmg2UVozdXFVdVI3d3JNSGFGZlg1M3dwTU5VV1dHQlF3YVE0ems5OXhPUkNGLUtYY0tOb0YxbFVURWlBMDJkTnMtdzQ5eFV3Q05Z?oc=5",
+      "source": "EL PAÍS Uruguay",
+      "published_at": "2026-09-05T07:05:35+00:00",
+      "score": 65.17,
       "corroborating_sources": [
-        "instagram.com"
+        "EL PAÍS Uruguay"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "84b691b1a4df26f6",
+      "title": "José Octavio Bordón: “Argentina no puede tener una subordinación absoluta a un solo país” - 617.news",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JeGlnSFAxNEx4OXN1U1dGN0k2clMtRHRFc3g2Vlh0TDVlYUpWdjl6OTVvelZBbmtsa0MwRVc5TDhHZmZvRXdfdjVjSUNYZzNnR2RtY0daM19HbTRsRjdCWmZ2X2JQUGJPZE0w?oc=5",
+      "source": "617.news",
+      "published_at": "2026-09-05T12:46:27+00:00",
+      "score": 63.1,
+      "corroborating_sources": [
+        "617.news"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWkswTGxRdW5qNXR4dVF3YU9MY1k0SVRmdC1ZTVRjd0dmdXpjOGtFZ0djQWZhdzVtaXZHNDJuSXZ1WXI1c2FkelhmY3dubGtHTERDNlZ6OE5qOXQ1ZXZWb2o4MzNHQzBxVEpqNk11UXF1VWh3R0xabG11UHEzbW1JZE1KV1MwclNzR01WY0x6VFo5RE84MlZpX0d0TnR5WW8zOUUyZkFUeVZmRDF2LXZCYg?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-04T20:54:00+00:00",
-      "score": 62.63,
+      "score": 59.61,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -71,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYkNTekRoVEtVZkQ0dVJkOEpYTU8tSFI3RTduQ2JmS0ZPdnpaVmNLWUZVUjcwcUttVXgyMTRVb3QtcVpXUjU2ejczZVZsUGRVMkRLaVJ1alozQVpTRG9VUHdLTUk3T0o2TWREdnFRWF9fUjlwUC1UXzJJelltTWd6T2VzczBFYVJuZV9ZOXhXWEdLaGtkSDduVmxhbnRuZ095WDVmZEVPU1JkSHhqUmM1d1NOcVRwVWVta1I2Z3owUnhzZTRjTmhsYTIzTjV0a2U5ZXVJbU1aUWZQaGlnTk9mZWtkQzhQVlRBcUx6NS0xZGE4YUNVdGVXaUNGdjVZY3JTM2hxM1k4QXpBZ9IBjwJBVV95cUxQd29hZTM2THNvaU5yTTZVV3FVbjgtNUdkbnR4d1gyN0c2R1BrSDVTZ2w5ZHoyUElPT3B2VzVkZS1qSFVDU2ZEYndpdlF1Tmg1bGRaZWNoZTJxMURYWVFzZVlITF9DLXZlRkZfcnVqY0N2Z1AyTGhhXzF0NkxhQnJiUWJuYm5kTDBlZi04Q1I1UVBpUnFTeHk4LXM4eTkyU1g2U2c4WmpwWUlHcDhCQkdOdVFyTWVUNUwyMmdXUXhkYXJBZWhzWTl2THM5YXI5TXZydEJzbE40U1psbzZDQnpxTXM2TW9JMldDMS1EdVY0aEdxLXBBdzlhMUJiMG5rZlk5MjhHeDd4ZDFzeDZQUklZ?oc=5",
       "source": "futuro.cl",
       "published_at": "2026-09-04T12:47:28+00:00",
-      "score": 61.75,
+      "score": 59.34,
       "corroborating_sources": [
         "futuro.cl"
       ],
@@ -86,54 +146,9 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLURJYlUwZkZEX2txOFd6UGh5QXZaZF85ckJXSzI4cTVjdUIxVU1XS0dsQVNpOGQ5bXZDaGRBVkNtNU1SQ1BwbVRCR3hVUmF3Z280TTNwUkZYV1ZpNldPSlI0VjdaU3ZIMldoeFdtU3hDYU1zRlY1RGxOdDJncnM1VFY1dHlVeWh4Ul9FeW9zQjVlelRHNnZoYU1IeFlPOVpJam56NDVIUmRUSGp0WDdHb0RjS1JEdFE?oc=5",
       "source": "Radio Polar",
       "published_at": "2026-09-04T22:15:00+00:00",
-      "score": 60.74,
+      "score": 57.61,
       "corroborating_sources": [
         "Radio Polar"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f72181df6808862c",
-      "title": "CEPAL propone diversificar alianzas ante nuevo orden geopolítico - Hoja de Ruta Digital",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeW1JaVVjaldEa29LRUY5aTI4ak81aWZrTUNhX3pDTUNlWXlFaG5YOFc2blIyQ1pHSHJqRTczNk5GeXNlOEFKTWtENDliOHhLSHB1a0pqMW44TlpzeC1jSHNZSUoxNnhRbG1XVzF5MU9CR2pJd1RLblZoOGpYeXU2dkktNVh0c2l1UzNHVjBKRzAzZ281WFJ5cjdB?oc=5",
-      "source": "Hoja de Ruta Digital",
-      "published_at": "2026-09-05T05:57:39+00:00",
-      "score": 59.97,
-      "corroborating_sources": [
-        "Hoja de Ruta Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7abe8e6beab4492c",
-      "title": "Saiba quem está por trás dos planos de política externa dos presidenciáveis - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1VwdDYtSVh2QkFhR2VueTRjaU1LYklmYnFVUHlJYUJsanpNOVJnbGdHV1RteVBteUk1bmRsOFkzRjI4cXp2OHlXLTNNeml5ZnN5dnR6MkZ6NUNPODRsYzExWXZjS1hqWEtXUlVlWHZvejFqdTN0SEhVYm1UaDJqel9HcWpVQkdpSTVocElDWlpEc1BiOUh2R2dYMnB1bU5VcEw5R01hX0puYUVEeWtuUGp6QXUyYVlrSzl6ODBKYXQ3N2s?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-04T21:15:32+00:00",
-      "score": 59.92,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "68aadd66f78fb0b4",
-      "title": "Saiba quem são os 7 governadores que podem ser eleitos no 1º turno - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDBneHljR1h4enBjdGRFLTJnelRoMm1OYXVwSGxUalFqejNxbWFfQnE1R1h3M3Bhc1BqZ2dDTHVLQzQ0TmFPSzBpdWZIaEV4emJ5VjQ2aHVxTENRbnQ0MlczOHlNVlJLcy1vcEVESHd0T01VWm5zdVVkNjNtaVZMcTVfVDRsb0JGZUxfWldlTUxxV1g1S0wxVHRCc3FZUVk1VzFudS1LQmpZbUtSdDV0REU2OGdBQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-05T02:34:26+00:00",
-      "score": 59.61,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZXk5SzZTZ1J1S1d4bE5ZcC05WXdnWEdUa19nOUJNc19kRkd2THBmTVo2M3Y2Z3RzRVVSTjY5TmJGZXh1bzZ4QmpLU1hLaWtabGFyR1hCbUpHeWUybDJFdjlrd1Vpd19tdU0wd3VaWTJzd2pfZkZiMmhlcXdPNnhCSFpkXzk5QW1xb2pVUDZ0T2xWUWdQTjk2UVZPcEh5SHNmZmF4b2FhYV81X0lTNGFodVI4VmxjZTF2Q0RpVndkVDJ0NTRaLUJCS2FLbF9GNjZDU2RmdHVsMNIB3AFBVV95cUxPcW5vaFZqY1I4XzBCUmc1UEtkMjRfR21zX3RwV2d4T2JhMzg5X3pZMmJGRTVrcHliV2pTbHg1SERRVHZHcXNhR2szN1R6T2ZiQnUycnFia2p0NW1NU3R6eWx1UEE1MFh3VDFYNHBkOEZRWjRjRGw4UXpUTFVxTjQ5aXVNaWJLYzh5a3RJRTlITTR4b2owSVhDaEtZVEVsMmowLW5QcU1wS252VVJDVEJXYkUyNVprTDRzSFJyY2pJaG1iclFBX014Z0RDRVU5VENKeFU4a2xDRlI0XzA2?oc=5",
       "source": "elDiario.es",
       "published_at": "2026-09-04T20:45:31+00:00",
-      "score": 59.52,
+      "score": 56.51,
       "corroborating_sources": [
         "elDiario.es"
       ],
@@ -156,14 +171,14 @@
       }
     },
     {
-      "id": "022b697519d639ca",
-      "title": "España en la cuerda floja: las alianzas que nos debilitan - El Adelantado",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTZsTTZRSmFOT1RxU1FrSkdSTWtuZGU3S2V0ZXZkRE1QeFZ1UTlMMnd3cUpScHVlY0xfZWZ5OEt4bk8wOTlyVXRmejhZTzVBcWpPR09VOEdkTHhzekRFZldGUVprclhGeW5QVGpSRlpNX3dfVDVlaGMzd1FTSHJDWnVqOUpzVE5jWFFubktyZFlMeGtNZEZndDNXV1dPMWFVTGNJ?oc=5",
-      "source": "El Adelantado",
-      "published_at": "2026-09-05T05:05:55+00:00",
-      "score": 59.09,
+      "id": "68aadd66f78fb0b4",
+      "title": "Saiba quem são os 7 governadores que podem ser eleitos no 1º turno - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDBneHljR1h4enBjdGRFLTJnelRoMm1OYXVwSGxUalFqejNxbWFfQnE1R1h3M3Bhc1BqZ2dDTHVLQzQ0TmFPSzBpdWZIaEV4emJ5VjQ2aHVxTENRbnQ0MlczOHlNVlJLcy1vcEVESHd0T01VWm5zdVVkNjNtaVZMcTVfVDRsb0JGZUxfWldlTUxxV1g1S0wxVHRCc3FZUVk1VzFudS1LQmpZbUtSdDV0REU2OGdBQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-05T02:34:26+00:00",
+      "score": 56.07,
       "corroborating_sources": [
-        "El Adelantado"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlF3U3BjZkNNalBQT2c5bmtvMTkwZjQ1ZjBHNnZ0dVdrNmp5Nm9LTUZXS2RFT2d6enR4X0plRmFrY3dXVXFOaWQ1dkh6Nmo0N0xhQURrMzlEQ1JsLUcyUUJWZkxhUHZrWWhlN0M4NlZ6clY5eUlkR3RBYTBYYXZxMmx5blkyalByOWpLM0Uwb05aNFU0RkwyX21BNUV0RzNkT2JVa3otcmxDN3hvNFhDRzlUemRiS0ViY19pTjJXMDB1cDhtQUN5eExrZE3SAdIBQVVfeXFMTXJraHZQUlZPNkpTLXNrOGM5SG0xZFJLYjlwRE96OHJPaXlZem95TjFic1FPbDRWSmhGSjBDdFpVeDN2SVpVWmNqQWlNVG5mYmJ3eDJEOE5FNDdtY1NmSnpEckROQzZCc1Z0dGVmZTR2cWI0NEVGRjNzVWowN1dkUTBMN0xHQkxOdTFIc1FLbk1lV21RZVdnb1h2QkYwREg1cmk5dld0ZW9nRzdNR0VGc1Y3bzRjcjhITUZDN3VzVFZnWFBrVE5fODJnU24yY3lLNU1n?oc=5",
       "source": "Cadena 3 Argentina",
       "published_at": "2026-09-04T19:50:18+00:00",
-      "score": 58.78,
+      "score": 55.85,
       "corroborating_sources": [
         "Cadena 3 Argentina"
       ],
@@ -186,29 +201,14 @@
       }
     },
     {
-      "id": "2f4ba8445c26113b",
-      "title": "EUA, China e bomba atômica: veja propostas dos presidenciáveis para política externa - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHZVX09FMTl1Q3UydGNaQW1uT1pLUk1kSXBlTTg4dEpHVGNicUZUclRTOHMzcGcybEthT1luQlEySU9xeGlXT25Cc0FFMks3MW9pUElwR2xTN0FXejlkczlwNEFRWm1SYjY3WHp6VEZBa1I0a0ZpQmxYbUY3ZXl3TmtoWTJkaUNSQTBYUjkwU3ZBU1JiTHJjMlJTcV9RN3ZqdjZoRGFYX0Q5VkVkeXd5RU5aZXVDdjN5dW5UQVQzbWVOajVMTnhMUl9qVDY?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-04T18:12:15+00:00",
-      "score": 57.53,
+      "id": "022b697519d639ca",
+      "title": "España en la cuerda floja: las alianzas que nos debilitan - El Adelantado",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTZsTTZRSmFOT1RxU1FrSkdSTWtuZGU3S2V0ZXZkRE1QeFZ1UTlMMnd3cUpScHVlY0xfZWZ5OEt4bk8wOTlyVXRmejhZTzVBcWpPR09VOEdkTHhzekRFZldGUVprclhGeW5QVGpSRlpNX3dfVDVlaGMzd1FTSHJDWnVqOUpzVE5jWFFubktyZFlMeGtNZEZndDNXV1dPMWFVTGNJ?oc=5",
+      "source": "El Adelantado",
+      "published_at": "2026-09-05T05:05:55+00:00",
+      "score": 55.3,
       "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "58022ffa5d81baa2",
-      "title": "“En política internacional no funciona el término ganar-perder”, Justin Trudeau durante su visita en México - vanguardia.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdTZ4c0lXMjdMZ3IxYWk5c2RMb05qanZTLTdzV1RFV1VkT1NYRThZeTUzamFlNW1kWkR6QUJSOElUM0pCUHpiR0RrSnBVbWpDZ3lzWndFX3B0LThiLVlaVEZ2U1JQbzc5dFA3UmU2bUVPcUJ2azhJNndsX05EbURIMnVVTGFYOXM4SG0tYlJ5ZGpyVVJzdzFUSTBONkhGdVZjU3FvR3l1eGR4a1k4R1VYa3EzWFZESERDWEZmTWNSMGJDb2VLaVQ3RV84Vmt3MkFPVUJFcFMybEJwcmxYd0lIajlFZzF5U2VkT2M4U1Bn?oc=5",
-      "source": "vanguardia.com.mx",
-      "published_at": "2026-09-04T17:28:41+00:00",
-      "score": 56.99,
-      "corroborating_sources": [
-        "vanguardia.com.mx"
+        "El Adelantado"
       ],
       "signals": {
         "source_count": 1,
@@ -221,9 +221,24 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0NSaVNieGE3LU52UHJMbUlybTlJTnRtd2cyekhialBYMEhoNjdEcWJyNzlYalg2VkZXdjFweVNGSUZjWTJqMW1qMXFMMHJtN2FOSjI4SUJEOWVpdktkVWUxVmM0NWV0Y3FqNzZ4aVpSUkhqX2VFMG02aC1Ca2FMbFpkY0d6QkJqVkpmd2FJM3o3R2xyNkRhM1FadTFnTkkzakw5Z1pZM1RWLVdxQ21laGNXN1lIYTRlcGl3NWRIUS05QQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-04T12:38:00+00:00",
-      "score": 56.65,
+      "score": 54.25,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "58022ffa5d81baa2",
+      "title": "“En política internacional no funciona el término ganar-perder”, Justin Trudeau durante su visita en México - vanguardia.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdTZ4c0lXMjdMZ3IxYWk5c2RMb05qanZTLTdzV1RFV1VkT1NYRThZeTUzamFlNW1kWkR6QUJSOElUM0pCUHpiR0RrSnBVbWpDZ3lzWndFX3B0LThiLVlaVEZ2U1JQbzc5dFA3UmU2bUVPcUJ2azhJNndsX05EbURIMnVVTGFYOXM4SG0tYlJ5ZGpyVVJzdzFUSTBONkhGdVZjU3FvR3l1eGR4a1k4R1VYa3EzWFZESERDWEZmTWNSMGJDb2VLaVQ3RV84Vmt3MkFPVUJFcFMybEJwcmxYd0lIajlFZzF5U2VkT2M4U1Bn?oc=5",
+      "source": "vanguardia.com.mx",
+      "published_at": "2026-09-04T17:28:41+00:00",
+      "score": 54.24,
+      "corroborating_sources": [
+        "vanguardia.com.mx"
       ],
       "signals": {
         "source_count": 1,
@@ -235,8 +250,8 @@
       "title": "After standing up to Trump, Italy's 'fierce' PM faces another big test - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWpVVDFEdjhVZWpjdG1rdmZoSnQ4dWJmdTVSd1RvdjR6cXhVQ2RuZ2xsR2MzWFU5eE5qNlFTZEx6eXZrUDl5ZnprbGZXbktSektEUWQ1RnF1ZzR4TXRGS3RETlBHVGx2aGVqVWo0NWljZU5mb2tsTDJ0dWppbGJmdHA1VHY1UTM3SEtISEdTYXhtLUhiUW5TM2NVelE0U013c0hPMktRRDdsRHpsZHkxWg?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-09-05T02:31:18+00:00",
-      "score": 56.56,
+      "published_at": "2026-09-05T02:28:30+00:00",
+      "score": 52.99,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
@@ -251,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2ZQdC1OdWRPcTdrdjBMSXRaOUVEbkh0eTZlVDhkTEhSQTFQUDZGeDE1cWNPTnRjaEZ2eW5laXNMLVlOSW1MMzlVaTlnSGxlSnRnSmUzenNvZjRGd3JFYm9tdEp4TVhaeC0xVGVWV09kWGJtdXA0SUNqc0lPT2pDQkk5c3Zud3dTX3pHLUc1aWloTUdQMmZjY2w4Snltb3Vlem9kaXB1TmZRWkRVajdwX0p2OGZNZ0dQN1Y2eDVVSQ?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-09-05T01:51:32+00:00",
-      "score": 55.94,
+      "score": 52.47,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -266,39 +281,9 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbTNuWmZQSGFyXzVHbC1TS0pOckllUUNVNkJ5SUEzYVpGNWVGVGdieExIZVpHS0t2TEpEQ2QyaF9hazlNODZUdU4zdVpSbVdSZjJpcnkxSEotVndNV21mNDNZVF9sZi1rTTVwNjNpaTJ0dmQ4X0hoTDBSbEpQX0RWMFlpY1pwRi1scktVaUp0TXVRUnJnS3JSTjh1ekR4MUc3ejdFSllXUGxJbEc1ekU2d0ctVDRmWEQ2WUVkUFl5YVgxUjJLWHlMMFhER3JLcG5TM2U5WnJkMlFDSGRFYVRCX0ZLeVUwME5yYVdhcndpYWt3R2xiVW9JVzdJUnlsU1FkYTRheGRyMjdqb0U4?oc=5",
       "source": "terra.com.br",
       "published_at": "2026-09-04T23:34:00+00:00",
-      "score": 53.87,
+      "score": 50.62,
       "corroborating_sources": [
         "terra.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f27cce368208dc84",
-      "title": "Mieres trasladó a Orsi preocupación por la represa de Casupá, que definió como un \"gran error\": \"Es el lujo de la miseria\" - El Observador",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUjZBcDlrSDVDTkZnUUFNXzNKQ1ozLTlCaXhFVy1XUzhoTkVsdmN0cWQ1YlY1TFZFOW1LSGkyWkJkdlFsVVh6UUxUOUx0T2tLZWVZX21vVVNYYUgtNmxid1NCUTlYZHNlR21BcHhkWGlSMlJOTFc0WFBmekczOU9maFdHV0dBbF9IdncwNnlHdFpKUHNEOUxCOW8tcHJ6UnJxS2F3TjRaREt0aTNPcEZUM0c5QjVRV3ZqQ00tc2JqZTZTUl9vbmhWX216V1BvSThydGE3N1A1NUFYTUUtNEdnc1NvZTI0RVRIVVHSAe8BQVVfeXFMTjlUWlZIU2Q3Z3FOTTVvMnVQUjJlWkJwNHZkd1RLS081OGxKUWtlTUpLYzkzdEV4Ni1aWEt6UU5aN3hpdktXVnJlejFxWXdWN2dJcU9UbXVMZkJ2VWppWVhpaWNYaWxTZkpLVGhSTktqenNHSWVSVVZoZWlQTlpyb1JKTlJFQkViZ1NRaUNlRUh4NnZ6SVBFTk92cjdBY2JhRUR2RXFxNTdJS18tMkpQaEg2STNsbnluZzJreU5CdHFQMW9NRFdFNG9uY21PekJlUDFPUUN1WXR4RE44TFZodko0dHBtNXZmaE9HbGFBWW8?oc=5",
-      "source": "El Observador",
-      "published_at": "2026-09-04T23:05:00+00:00",
-      "score": 53.45,
-      "corroborating_sources": [
-        "El Observador"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a50d7a127d50a663",
-      "title": "Orsi recibió a Ojeda e inauguró encuentros con líderes políticos: \"No podemos estar en clima furioso electoral a tanto de votar\", dijo el colorado - El Observador",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZWxQdnhMYW5GRDM4SnRLVGFOUl9ZbU5EMHgwSnpEV1NXSVJmMkhQNy1abzgtNGdBWGR2LVEzMDllRzdRT1paWmhycDJTN180NVN4WjAzWm5fajc4N0N6eXdJWUNnQ1dZR0pTSkRTeHdFcUZoTHhxaW8wYmdYRkZoaGpEd0cyVWNiU3lRU3Y0MzRNUnAxeHphczBrWWRPZzhtT000V3BYMHZSaFZ4cnlpNmtxVFZoaWdLdFViRW5DNU92cTVYQjJ6UW93WWdCYUw1UDRhd3J6NExySFVpb2xBV1FNYnA2cEtIZnZtazVQZlAyYVdZX1dxelo0YnVfMGhJSjNRYnQ0WkVId9IBjwJBVV95cUxNQVVtRkJLOUdRNk1VYUhQWmc1MHRlZ0VJS05BMElwY1hSVjYtay16YW5sRXNxbWRza19aYXBFSldmcUh4NnpVRklEUG0wbE9uM0VXUXRvcG5VckxSOWFERVA2N2RVTnZtYU5Pa1NXaUlBbWZuVTJuV3NkTlVibi13N2lRRjZKZ2ctSjVBZWUtWk1NeEt1cUxNaV9sWm5fbHdKZjRXc21XRGlOSkdHaGxXZk1pa01sYWpDLUloOU9pUm14NXlrdHZ4RENxUXM1aF8yWkFoWXI1N29QeWh6TnRiLWVYZlN4YUtGcmFTa0tMVXlyYjE2eXlUcHFUQXZ2bkZfMGZ3d3ZsNnRPbFBIRjkw?oc=5",
-      "source": "El Observador",
-      "published_at": "2026-09-04T21:17:00+00:00",
-      "score": 51.94,
-      "corroborating_sources": [
-        "El Observador"
       ],
       "signals": {
         "source_count": 1,
@@ -311,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNLRWJkT3o2ZHZxaU5oTE03bWcxY01JMzAydVh3UEFlYThicnBSV29hTm5YSmF6VE5JSjJOdTNQUDh3OWdXbEl2WjhXRnp0ZUpaQXdRVlR6RFNhRGpSeTFxMkpaYVFERUNyREhIVlhzVjdYdXg2el9yRDI3RGdJLUsya2lWRHpKTDZqakRFVU8xQXpGa0ZhU3JjcU4ydlJKdk12QjNXZDctblVZOENwR29odWpwUUtKM0E?oc=5",
       "source": "Universidad Distrital Francisco José de Caldas",
       "published_at": "2026-09-03T16:38:57+00:00",
-      "score": 51.78,
+      "score": 50.4,
       "corroborating_sources": [
         "Universidad Distrital Francisco José de Caldas"
       ],
@@ -321,14 +306,14 @@
       }
     },
     {
-      "id": "f716ee09887688d7",
-      "title": "Entrevista del Canciller de Cuba, Bruno Rodríguez Parrilla al podcast Cuba Analysis (+ Video) - Cubadebate",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUUtVFQ2VVJSWXVvLWxFVDh1ZGRoSWhsaHJEM2pWYTJXQ1h4RG5MQTgtTUxNbWx3bkk5UjV0Z09zMk1QeGJxUVdxOXEzbmtLNUs3R0szZjRiV2F5d2FjSHA0VkU4Nl9yVDRkRFBsbVlBV2NMMGhpNkhESWRjSGNWUjY2Vi03WmRXd1dSc2lQTGxGZkpZN3hENzQ2Z25uTE1BeGZtTERDanBWcmVxbG15Y2hONFhIZ1lVRXpmXzJsVmlSaGJ5cHBMT09iTHlaNGtKQUHSAdcBQVVfeXFMTVVPVEstOE9ZaFdfZDRIVEdCaVNURGlRVC05T0xoa2wwcFlMWGtVbEtlSGRSNG50VVVkRXgtQlMzYkRFYkRMYWtNcmtwS1FNb0xBR3BKMjk1cE9mZTBadFBXRW51enB6dkFOQ0pDOHVsYjFHTV9pUnpWd1FlZXhlWG1Wck1aODhjdDBQUU5VU2NzUVdYSy1iZVhvdG5Sd1RvNTZ5Tk9Hdy1Jb3p1d242ZDU1UDRleVp5OVFGUko4ZnZoY0tTVmx6STdmeURmZ3dEajY3eWM5ODQ?oc=5",
-      "source": "Cubadebate",
-      "published_at": "2026-09-04T20:58:19+00:00",
-      "score": 51.69,
+      "id": "4257be90acd5b743",
+      "title": "Rodrigo Pacheco, presidente do Senado, anuncia data para deixar a política - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmZHVlNQcV9neDlkZHoyTHZnbS04RWRQREpoWFJjalNqZEV3cUt1ZTZUZld3dU1pdk5CZFQySjVZVjB3RWNnSlN4dU5KSFBqNUpQTUFfQ1lGc2pLZVRxczZnSzVXclVNM2dYM3J6N2VuRlFRZVk4RUpWamtfMlFjeXVVVDQ4dmprNDBxckFPU1RlVkVSYkgyNmV4WjJoMURVZG9FRXF3X29kT0VfNHhIdTJqSHNpeXR1ajhMZG95dXp5dFdWOFVfQnBRdkVfRERTTkhXelhyd1RkZVhRWnYzS3I4N2ZkOTNIMmU00gHwAUFVX3lxTFBFZWNPeHpiVXdJMzZiT1luWWhJNTY5c1QwT05yOHZwRC1sOXE3RDVoQUFJc1R3Y3hfbW9ROUNNdEtuam00VWNBcHJ5QlJjRGVtVHZrOHFyRXY3NjZQdU9EaXp0a1dSWHZ6dXBkV2xoNHh6NXFnOFhlMHVoekJzaGpKUmVvVXpLOTBxdTBDY0hEcUdGNWtTMTNvZFlSMkl6ZlVMd3JkSWYtWTlQMXdSYlZKNzM2VkF3S2ZrM0tqdm5WZzJ6MWNBamk0Z2hrN3FpUGNMaTBpOUxhS25hUW5Hc0ktTnBkNkQ1Wkotd0JaZ2Rnbg?oc=5",
+      "source": "Estadão",
+      "published_at": "2024-05-08T07:00:00+00:00",
+      "score": 49.48,
       "corroborating_sources": [
-        "Cubadebate"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -336,14 +321,14 @@
       }
     },
     {
-      "id": "a1c75d21bdf9f276",
-      "title": "Pesquisa inédita mostra que, na política mundial, ninguém exerce mais influência do que Trump - veja.abril.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2FYbkNyMXRBQ20wazJON2RyVHluNHQ1cWh6UHFjX2xEdUk2RHhGNmptT2x2SGhTeXRFSUpDSVdiUU5zRHRhbmV0YWRkN0dvRmMwUEhvcU91MzBmV2lSVVQza2RrQXR0cVVta1VFRXRrZmY5eE90REIybFA1XzgtRzNMb0lrOUdBR2IzUVExd1NUbHdnRTQxQlFwNWI5VFJCdUJzREhycEk4QkpSdU1UYnZjUG5oaFlMOVZuUDRoUmpFZw?oc=5",
-      "source": "veja.abril.com.br",
-      "published_at": "2026-09-04T09:00:05+00:00",
-      "score": 51.43,
+      "id": "a50d7a127d50a663",
+      "title": "Orsi recibió a Ojeda e inauguró encuentros con líderes políticos: \"No podemos estar en clima furioso electoral a tanto de votar\", dijo el colorado - El Observador",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZWxQdnhMYW5GRDM4SnRLVGFOUl9ZbU5EMHgwSnpEV1NXSVJmMkhQNy1abzgtNGdBWGR2LVEzMDllRzdRT1paWmhycDJTN180NVN4WjAzWm5fajc4N0N6eXdJWUNnQ1dZR0pTSkRTeHdFcUZoTHhxaW8wYmdYRkZoaGpEd0cyVWNiU3lRU3Y0MzRNUnAxeHphczBrWWRPZzhtT000V3BYMHZSaFZ4cnlpNmtxVFZoaWdLdFViRW5DNU92cTVYQjJ6UW93WWdCYUw1UDRhd3J6NExySFVpb2xBV1FNYnA2cEtIZnZtazVQZlAyYVdZX1dxelo0YnVfMGhJSjNRYnQ0WkVId9IBjwJBVV95cUxNQVVtRkJLOUdRNk1VYUhQWmc1MHRlZ0VJS05BMElwY1hSVjYtay16YW5sRXNxbWRza19aYXBFSldmcUh4NnpVRklEUG0wbE9uM0VXUXRvcG5VckxSOWFERVA2N2RVTnZtYU5Pa1NXaUlBbWZuVTJuV3NkTlVibi13N2lRRjZKZ2ctSjVBZWUtWk1NeEt1cUxNaV9sWm5fbHdKZjRXc21XRGlOSkdHaGxXZk1pa01sYWpDLUloOU9pUm14NXlrdHZ4RENxUXM1aF8yWkFoWXI1N29QeWh6TnRiLWVYZlN4YUtGcmFTa0tMVXlyYjE2eXlUcHFUQXZ2bkZfMGZ3d3ZsNnRPbFBIRjkw?oc=5",
+      "source": "El Observador",
+      "published_at": "2026-09-04T21:17:00+00:00",
+      "score": 48.89,
       "corroborating_sources": [
-        "veja.abril.com.br"
+        "El Observador"
       ],
       "signals": {
         "source_count": 1,
@@ -356,9 +341,39 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOWVPMGE5c1pKc1lBUmgtcmZrczlTZjh5Yk1wWTQ5anFzNk1vWmoxU0p3ZHZBTGd0cHJUY291UlZKcHBIVHJUWXZhczRmaXdQN21abGFRRG50N3RUTEIySy1hQlF1VDJqczZ1YVBGWjJFSHpDRDlLVFJvTEV2dm1vMmlTM1VHb2RXX21NbHN3bV95SEZQc1BkZlhhaGJmTUhydUhqTVYxR0tGUDhMUHY3d2lmTXNsM094ZW9aYXJiMW5mT0hjY0Y4TTQ5TU50bHpBYXg3UGV6c0t2eTRZZF9qTGFZT3g5WkhGb2JN0gHrAUFVX3lxTE55WmtrSkFnMDluQ3N4VnhncnVIbXN0QXhzajN1NG1BZ2hrRG9MLW1KOEFpNkl5bzFxd04wX25MazlDblZfdkZsQktqSDF3SEZVT2pEeFM4WHU0LWFtMUEtd1pYTndtNVJYUVRiY18yUE5PV3VBd3Boc3RIY0d6ZWl6VGVwcjNXNHNxeUJIU0gtdmZyOUxzVVo3RGlGTkQ0OHI5SWhSNHFoTmFVNkF3c25Dc0xycDhUbEpNeUx1X0wzc3FhcEVwSFFWdGtRZDBDUW4tRXNublpVNTlhdm0wcEFTdVBOREEwajBPdVU?oc=5",
       "source": "MARCA",
       "published_at": "2026-09-04T08:08:47+00:00",
-      "score": 50.93,
+      "score": 48.82,
       "corroborating_sources": [
         "MARCA"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f716ee09887688d7",
+      "title": "Entrevista del Canciller de Cuba, Bruno Rodríguez Parrilla al podcast Cuba Analysis (+ Video) - Cubadebate",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUUtVFQ2VVJSWXVvLWxFVDh1ZGRoSWhsaHJEM2pWYTJXQ1h4RG5MQTgtTUxNbWx3bkk5UjV0Z09zMk1QeGJxUVdxOXEzbmtLNUs3R0szZjRiV2F5d2FjSHA0VkU4Nl9yVDRkRFBsbVlBV2NMMGhpNkhESWRjSGNWUjY2Vi03WmRXd1dSc2lQTGxGZkpZN3hENzQ2Z25uTE1BeGZtTERDanBWcmVxbG15Y2hONFhIZ1lVRXpmXzJsVmlSaGJ5cHBMT09iTHlaNGtKQUHSAdcBQVVfeXFMTVVPVEstOE9ZaFdfZDRIVEdCaVNURGlRVC05T0xoa2wwcFlMWGtVbEtlSGRSNG50VVVkRXgtQlMzYkRFYkRMYWtNcmtwS1FNb0xBR3BKMjk1cE9mZTBadFBXRW51enB6dkFOQ0pDOHVsYjFHTV9pUnpWd1FlZXhlWG1Wck1aODhjdDBQUU5VU2NzUVdYSy1iZVhvdG5Sd1RvNTZ5Tk9Hdy1Jb3p1d242ZDU1UDRleVp5OVFGUko4ZnZoY0tTVmx6STdmeURmZ3dEajY3eWM5ODQ?oc=5",
+      "source": "Cubadebate",
+      "published_at": "2026-09-04T20:58:19+00:00",
+      "score": 48.67,
+      "corroborating_sources": [
+        "Cubadebate"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "646c0c09b6a75dde",
+      "title": "Congresso aprova PL que viabiliza orçamento do Redata e facilita emendas - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWg0TlA3cGxjQTdqY2Nnbk5iVGhReG5VczgwTmFORUJneDZmbVZwVGY4MV9xNUc5X2xlc09VQzVlVW5EYnphcWlfbFdPd3RmZlhMV1VrT042S2hxU05QZlJCVHRhRm44MHhWV2VKNkVEdzdSRVlkTHZ5NHdsVHc1NDZlQTFjLWFJdXRKRmF4ZTJxUmpBekxMUjlPUm9qTEQ3dFlHZGNVblZYUWpOZlBVVWJ5ZFlaY1Bq?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-04T00:33:32+00:00",
+      "score": 48.33,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -371,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNVNfc1JmTW5fbHdmQ0ZzNnJ6TjNUeHR6TGp5WXA1dFdmX2dYYnEyRHJPVDRZYllLN0pnU2R5ZzBlSWd4TDd6YUhEaHlzd2VJVDVVdVRVa3UxYXM2WVhaWnVqSkFMeUtKSlB6bmQ3eFBjT1lUXy00OXZzd2FlMkFQZGlTOUFfUjNJTW1qTzlIZU9QNHlkTERRa0ZDSjR1ZnlXQloyUkVvS3daRmVtR2x5ZkJrS0RSVXhka0FQdEwtd1BWR0VMYV9RNlZNQTJSaEx6ZUVlUE9nZGl1VE54Y3c?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-04T16:00:00+00:00",
-      "score": 50.92,
+      "score": 48.29,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -386,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTklnN0wyeXZnM1BCSmJ2dnJxc0tzbzEzVFRxWUVXbHBvd0RnSWhLSXJ5WWFFV2Q4VmlydWZ5LU5DUWUxLXZNcUxnUHB6UlRZNDEwbTB6WDZrUDNqZHpDeDRoUURSNWkwM2d2RWQwRHBwNU1LUklUV2pTck9LSlY2MGFpRzRkTTFaRkxjVDVyajlXN1Y5VS03OG9TN3M2MXdkcnA3ckdWYTNhUGJleFVlTGR6YTNWak93NTk3NHNoaW8?oc=5",
       "source": "UNSAM",
       "published_at": "2026-09-04T19:19:18+00:00",
-      "score": 50.38,
+      "score": 47.49,
       "corroborating_sources": [
         "UNSAM"
       ],
@@ -401,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlVnenB1cXZNVUZqdGdubEcyZk5sR2JEalFWekxKb3VWdE1rMjMxUDZmellUQ2djYkJMX2dDSkpkVWI1Qnh2NVd0dHpsbWhQZmhBMXFka3gwUkQxY2hCY1N2MFdrdGJYNGt3NDB5NFpuVC1nQmJtRi00R0dmNksyQlZoQ1FRbXZiTE5halZmWU9TOHkyV2RiRG1ZRnk1VTl3SE5YeEEtTWcwMGo1ODN4aG1WMFJZQUN0bS1ST3F1Q2g1SnROMDNqNnM3WmJaMlZXazdJODdkMDdUR1FLazBLWQ?oc=5",
       "source": "Diario Nuevo Día",
       "published_at": "2026-09-04T19:16:48+00:00",
-      "score": 50.35,
+      "score": 47.46,
       "corroborating_sources": [
         "Diario Nuevo Día"
       ],
@@ -416,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdndqTjlqaEFOd1BzNXRJTDBMdTllY2MtMGFvSTE4bG15b2RRM2xCR2stVzZfY3NRX3VKZ3luQ1pZTV9qYi1GbkttWGFPM2w0UXhWRzNNTEpOQXJYeWVNRFdkV01QMGFwZEFpMmJXVGotc0tzc01aczJMV3E1dGtrQzJsZ1o1VEw4TXJmNFZFN09oS2tGN2NTeFlvNkdWMDFYY3VaVktGMEIzelVKRVE?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-09-04T19:00:00+00:00",
-      "score": 50.13,
+      "score": 47.27,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
@@ -426,29 +441,14 @@
       }
     },
     {
-      "id": "3c06b2a94ce9eb85",
-      "title": "Super-ricos ampliam fatia da renda sob Lula, apesar de agenda voltada aos mais pobres - 04/09/2026 - Economia - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ2Qyd3B5ZTBKMW1TYmtJdlhtaE5YMUFxT1pKMkpzVXM1dHRScGlXYzctOTExZlBScjZVWFRMQTFXTHFBd1VwN2NLUHdTU1FKaGJSMU9RenhxbVZfalB4YnpVNGdzSXBSYVVoaHRqRF9ndXVZaUdFZ2VweTBLLXROMWNyTVpIMEpMcUEzRnZfdjBLbEstb0R4ZjdsZWhfcU1aVk94RzhRc2ZfeHVuQy1BOEloUnFLUkdnOVRYaC1sblNhM0xYV0ZHUXFTMEpMRWdvREE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-04T14:02:00+00:00",
-      "score": 49.57,
+      "id": "0e4c0d25f1a91962",
+      "title": "Indústria química critica governo por falta de política de longo prazo - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVFBdGdkS0wzSWVKQU8yMEJLaG9PRnV4ZThiQmo5SWd1VXVFWGVVNGVuSlJtOHc1WVZrT3FwMzVmeU14cmlVMTM2OVRSbzRWUjBsUG54amRDY3ljTmJiMEp4STRNbG5sMlY5LWdvY1pRSU5lZDM0M01TNUJpVnkwcmYwYTFDNTZFMkpRRlRoNEw0YVRTcG9KaGwzT1hCUnVaT1I1Y2pieWd3bTg1amhTRQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-02T13:35:08+00:00",
+      "score": 47.1,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9104dfd39a714607",
-      "title": "La política exterior: un salvavidas para gobiernos en problemas - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTRnYmNtZEtIYVNNVnZzcUR2VDV3M29OVnBwNjhST2NoOVpUTTBpaVh3NXZJMUl1VEtZeksyS1FFeW5PSkgwU09ud2ltTzN4ZGszZU9XMkU0RTZwcmQtV2N3LTdfUHJBZ0RSdVVrUFc1aHJRR1VYT2h3T1FrbEJ0WThLY3JSWU9iSWYzdlJEUzBDLWxvVTRFSFNoMGV3dlJZbnh6YkRBYzY0andNYUMxWQ?oc=5",
-      "source": "La Nación",
-      "published_at": "2026-09-04T03:05:00+00:00",
-      "score": 48.25,
-      "corroborating_sources": [
-        "La Nación"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
