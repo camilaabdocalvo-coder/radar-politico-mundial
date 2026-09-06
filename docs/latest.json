@@ -1,17 +1,152 @@
 {
-  "generated_at": "2026-09-06T12:32:42.684207+00:00",
-  "next_update_expected_at": "2026-09-06T16:32:42.684207+00:00",
+  "generated_at": "2026-09-06T16:28:17.127569+00:00",
+  "next_update_expected_at": "2026-09-06T20:28:17.127569+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
+      "id": "44e4a3981cb1bff6",
+      "title": "Argentino de 32 años es uno de los principales asesores de Kast en política internacional - noticiaslosrios.cl",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTU82RHFfdllwZ3ZxV2RRVjUzY0xRcERYOUhndWhyTEd3dDV2REl0dGl6am1tYldIUEZTZU5lVGtnVXlzd1p6NlRVZkxZMGhsWG5LcG5GZ3lIVnk3b0hTQ0VzUXU1MEw4bWJvME51am5YREF5RGY4c3NqVVV1LWxXZ3VZN0ROOEIzcDFjN0gteF9VRnhWMGt3ckZtdjFPelNRZ2dOZjNJLXR6OHpkSEpRMUdVc2JPZjMtYWhyRGtzblp6TVFuWXBlZkhmLVg?oc=5",
+      "source": "noticiaslosrios.cl",
+      "published_at": "2026-09-06T16:01:37+00:00",
+      "score": 74.92,
+      "corroborating_sources": [
+        "noticiaslosrios.cl"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "79528e4cca06e2e7",
+      "title": "Thomas Kwasi Tieku: How A Ghanaian Political Scientist Smashed The Glass Ceiling At The World's Biggest International Studies Organization - The African Exponent",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObHlTZldjbGN3dm4tSlJob3drVkNQMTJPWmVmbkpxeWtHWUZxdXVxWHIyRVhFVjNwVmdZLUlualJsWDBJbXZNRmRZd1U4dlAwRXptZmZDNmtwRFg1OTB0QzRnbjlFRE01RkVWUFVtbFFHMXE1cGVWcEhrTHNCdVdSQUpWZ1BCTnZyaVJKNFlIMHV1cnVBVmxLdW16am9zLWtUWlpSTllzT3pNVG1yWTlET2tpYkE2dU04LTFEUnJsU0pna2dGdzdKUUVPTzV5OGFyd3FKRlRERVNuaEdBek5SRkg2RjdpanBHcVVmWGZ0cms4WU9MNEZJM1hKTUE4dw?oc=5",
+      "source": "The African Exponent",
+      "published_at": "2026-09-06T13:39:55+00:00",
+      "score": 72.1,
+      "corroborating_sources": [
+        "The African Exponent"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c5c9d93ffce87467",
+      "title": "Home minister urges UN, global powers to push Rohingya repatriation - bdnews24.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FQ0RPQndHVGEyODUxRFE5TDRVQk9ZQTNCblJjYl9wUnlkSWUzZllKbHFtaC0wN2R3SDdyWFNxVF9uYng4RVJtZGpwQmZ6dHVjdmtQb0M4WQ?oc=5",
+      "source": "bdnews24.com",
+      "published_at": "2026-09-06T09:54:00+00:00",
+      "score": 67.97,
+      "corroborating_sources": [
+        "bdnews24.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "02a1d929a3ab912c",
+      "title": "Saiba quais são as propostas de Lula e Flávio para as contas públicas - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVd3OW9pLXRBTDRSWHNqdHR1NHVGOWNoQTJCSW81VnNxZll0Rm5iNjk2bDRLeDI4QjNnWl94YzJvX1pCdTBtQnVKYjR2VjV1TDVlVTBIeUhLRHdwRUFmT1dwc2pLaVJ3MXlQSWtyNlU3VVZuemtSU2syckw5eVM4RzkzZWM5ZkVCT3k3QWMyV1Z3T2tESEpSc3ByTUhGU3hhbFF1ZnNwdml1aFdfbDNPa0hrM1JfUDRLc1E?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-06T13:01:58+00:00",
+      "score": 66.38,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2b3d9a3f330b6a9a",
+      "title": "Tamara Lalli: «El sionismo quiere quedarse también con Siria» - teleSUR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnMzQUNVUlpJSHBaZktQdUdHd2huTHNHdUpfR0g0djJzV3l1U0JJcnNUanVlRWZhZERicTRkOUJBeWktcHh5OFZqdmdQTDE0X3UzY3lWTUtpRndPOG1aeWJsVlJRM0Y2cTdvQjFNMUVaUWxNUlR1SUw0ZXlycXVJaTBiWjkwYUllNUVnb0p0NGh0dkx4OVFUaA?oc=5",
+      "source": "teleSUR",
+      "published_at": "2026-09-06T15:21:04+00:00",
+      "score": 66.1,
+      "corroborating_sources": [
+        "teleSUR"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9e9929ff9dd1310b",
+      "title": "Putin e Xi Jinping reforçam parceria estratégica na Cúpula da OCX - Lê Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGZSU0JNRmRENVFMMU1JV1RhRVA4Vi1JckVEQzRoWC04UHI3N0ZHU0xjckJ4Ym1UMGd5VTRaakFIY081Zk1LOGVXZktZSnpSMnhJemNFN1VkZWxndmJZTlBUOWhpck55a3ZPdDBCY3RlLWpTNzluSGJuNnpfNVNUMkNhY1E5VnY4ZjNDMlJOSXNkZ0RLZHEtM0RMVHlwdF9uSzMtbUFTdzjSAbMBQVVfeXFMUFdiLVFsYmZRZFMyR195Qm1Yck1UanZJLWpwU1NxekNzZ0V3dWlfNExrWXVydnE2R0pMUGZmSmpma2kybXVaUy14NmFZV3RaeTVrX2puOHlXMnlPTTR3NEM3b2FhSVFuelpsamNNTnZyNkdOTy1LMFZjcklCS05HejltZ1diV3Qzb2Q3TkR6Y0dBUXRQa2hENC1Hb0tSWWJwak9UZEdteENfZUdkQmoyRUQ0TDg?oc=5",
+      "source": "Lê Notícias",
+      "published_at": "2026-09-06T14:35:00+00:00",
+      "score": 65.18,
+      "corroborating_sources": [
+        "Lê Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e90ad1f44df9fed7",
+      "title": "Acordo de Meca redefine equilíbrio de forças no Oriente Médio - Lê Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGRsTjBpTDRtOVNzMGZGWUxXRUhYMWhrTG1mLUhuWjFiZ3BJUU1Eb01wRDZENkJaWUpEeHpDQmpsN1ZUWGFFbC1DSHRoWThCUjhhcUl0eXF0RUhkbWNqeXFHMzJ2WjhMY1BzQ3d2X0pxcVN3N3B3b0lNLURzd2Iwd0FNVEl4bDFyNVBIMTFKWXQ0OWUzemI5ZU9Lak1PVFRyS3Zj0gGuAUFVX3lxTE8xZnllSnM1NlBrcHZzdXRDNzJyMF96SEZJc0xKRU8tWTZwT2dEQXJISG1FRThPWXJhU2JUQXZ2V1Qxb3hLZ1JiMm9PMzF3LXJyVnNJR3N4RWJFX1d6Z2dKMDliVERzSUt2ZFhqeGZJVTdtN0xRblJxdTRfdjYtR3pNb1V5WTFRRlp6czYyWU05dmZTX1ZRdHFwYTc3ME5kcWNfaGRWR2VBTjc5Ukt1dw?oc=5",
+      "source": "Lê Notícias",
+      "published_at": "2026-09-06T14:24:00+00:00",
+      "score": 64.96,
+      "corroborating_sources": [
+        "Lê Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b03e4e535ec3b326",
+      "title": "A call to the youth - New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YQ2Ftel83ajViNjJPSm9kRU92THo4Y21rSGxudmoySzVYUm1vY0hiZE5lMHJaVUlBTmdWVjB1QmVRWUJfajlpYzZyT1ptVk1vOFhRdDJNSGFPOFVCTFRWT3lrVlAyLXZFYzBSMkNuRHFyQU82amFZ?oc=5",
+      "source": "New Age BD",
+      "published_at": "2026-09-06T13:18:24+00:00",
+      "score": 63.69,
+      "corroborating_sources": [
+        "New Age BD"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "25445296ee42c033",
+      "title": "Redução de ICMS para data centers enfrenta resistência de Estados - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEl6M0s4Nll5ZlNPcFVUdzdSdmFnV2h5eVg5WTRUZVNKbkVGbmZndlBTdmp3OFdCSjhYM0d6eF9XVHc0YnVDRS1oaWpVOUphZEFjUnRGRS1sandMRUZRcFRyOUt5NERkTUN5LWd1R2J1eDBqX0d3eXNacUc4a0ZSekdqbGdrRWs5OG9idXZkNUUtV3hjWU40RE0xV3ZJa3RjMElGUXc5ZnNRdw?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-06T09:03:54+00:00",
+      "score": 62.11,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "c3a12b226e553e5e",
       "title": "8 anos da facada em Bolsonaro: do atentado à condenação por golpe - poder360.com.br",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUdTYlVWaHhzY1V1WjRYTzVQMVNybm5rTGpST1ZYNm15cno0MHpHMV9IUnlFQzNVMHhkeEQwdzE2MTY5M1NxbVZDbTRERmQ2dGRhV3VQbjJIS3d3R0ctYXJPUk5PclRyckwxeUloOUdNUkpnUEsxQWFrNGdWWDJVekVVeEZJZDFwWG1RQ00yMTZuX1poOTRfSmllcmE3SVdiU3VxUDdsdU1WZw?oc=5",
       "source": "poder360.com.br",
-      "published_at": "2026-09-06T09:00:13+00:00",
-      "score": 66.26,
+      "published_at": "2026-09-06T09:03:16+00:00",
+      "score": 62.1,
       "corroborating_sources": [
         "poder360.com.br"
       ],
@@ -26,24 +161,9 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMWp0d0tER3RFYWFfdkp2ckVaMWZBUDFJb3dLTjRKbjBiNDZ4S18xeXFiSVRHTWVkZ0xmRlNORjFkdWZEZFRTRkdxczNhblFPQmk3aUhsMENNU1ZIcWNnb045MktFYW1LNFNZTF9zZTBsS1dyc0dUbFk3X29kYkNVY1g4UWIzeElSSXpNTXA1Q3pzTDU0N2JLak9oM0VGNmNEZnVRUzVSUjdGdVpTaktERFRxdThfdTYxU1RyNHZ1V1VacEJUNHc?oc=5",
       "source": "radionuevomundo.cl",
       "published_at": "2026-09-06T11:00:02+00:00",
-      "score": 65.59,
+      "score": 61.13,
       "corroborating_sources": [
         "radionuevomundo.cl"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "de3384ec5dfcbfae",
-      "title": "Home minisyer urges UN, global powers to push Rohingya repatriation - bdnews24.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FQ0RPQndHVGEyODUxRFE5TDRVQk9ZQTNCblJjYl9wUnlkSWUzZllKbHFtaC0wN2R3SDdyWFNxVF9uYng4RVJtZGpwQmZ6dHVjdmtQb0M4WQ?oc=5",
-      "source": "bdnews24.com",
-      "published_at": "2026-09-06T09:54:00+00:00",
-      "score": 64.29,
-      "corroborating_sources": [
-        "bdnews24.com"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmlvZFNEaldJUnBzLUtZTHBqMTRlNklxclNpWHBTTHBpa29JQTV5RXgwVl9mbkctZ0haM3JuRWQyLVpvNVBoSU53YjNNcVFYYTctVjlXWW00OVpVbzJVVV9zaTJZSl9UQ2J5ejdUS1JNQjRMcHJJeVJPRV8wOXBTOFQxMk5QSkJfbmNRRFJZN3hQTTQ?oc=5",
       "source": "Revista Oeste",
       "published_at": "2026-09-05T20:06:28+00:00",
-      "score": 61.98,
+      "score": 59.04,
       "corroborating_sources": [
         "Revista Oeste"
       ],
@@ -71,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUt0bDIyTjhSY1U2UXAwdGNsbmIyQ3h2eWlab1VXOERqRE5YWm5CUGRsd0I0SDB5cl9Od1ZFYmZnWG9DVWNOZ1BucjVsajhLTDhXdS1lRzVFdl9EMF9ydURNWlgxUHp6TW9vNDliemRJUWktYVJ3bGJHZHBKMzBzcnJTZ19SZWM4a2x2cFBmamFQOUFCWl9SX3RzbG9kU0Q4a082dEgtbHpBMDZV0gGyAUFVX3lxTE1CeDBRenVoOWZEazBGS1JxWTJQb1JnWWUwb3pPeWhEeUVkSEZKVkJtcTUtNXAza2JoRkExeXE3SzVueUlwbVBCMm41Ui1LV2JQMzA3V3pNZUEzZU0xbktKTExJcFVibHcyVno2eFdWUW8wUUY3dEdLQ2QwaUdoeXlidGp1NEhva3JsX2ltZDlnSF9WZ0RfaHI1ZHpZTHNSaEZUNUp6TXUwc1M0Z0ZpT19lYkE?oc=5",
       "source": "ABC",
       "published_at": "2026-09-05T23:40:50+00:00",
-      "score": 61.96,
+      "score": 58.7,
       "corroborating_sources": [
         "ABC"
       ],
@@ -86,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaURRbEV4a1JPMDNOdmVTcXVMaW9LV2s4WHZrazRXcnBQbzI5Z1Etek0xTVAwTjd4OWw1R04yME8ySUpDcjZBeEd3bnBDek1oLUhzTWJQbW9rb0JONWxWX2Z5a013QUlSNkZ4MHhqUVZpLTQxbnY5UlA3eWo4aUpaeXA3LWt2aFBzZ1VGNXRHZnhLYlUyNEpYODdqMGszMzRNbGVzeXpZODlWM29PQlZlZkZzbUZlcGEyMlN1Y2RVa1dsM3dqSEFDVnBfNXV0bW1nelhqc2ZyUXFONWxMNFNvV0JKbzZkN1JXUjN3?oc=5",
       "source": "Universidad de Chile",
       "published_at": "2026-09-05T21:31:23+00:00",
-      "score": 60.12,
+      "score": 57.06,
       "corroborating_sources": [
         "Universidad de Chile"
       ],
@@ -101,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkE4NXN4VE5qTnJyRXBsbDIwdWVVS1A5dzhrSVYycXo0d0FMRU1PWEg5d1V1TV9oX2diR0lhUXBDbmdzelB1aFk5WnFJTnRwM0YtR0V6VGNBbWQ2cHZFa3ExNEJfVnJIak1NRTJ1bzV5cjRsRDE3N1lrVEpBRmRsdWlaaC0zdThlNGUxYnJSbzRpbHh5RjZKSktsVkxlTnhJN2RZQ3JOVnNiUmo5MjR1MDhlS0pnUUgtUldjbtIBwgFBVV95cUxPeUV2dHlZVG5iN25STzFIWklxWDk4bEdxU1FUWFRLNWJZME5pSWJyb1F5bTlKSGpwakJKWnN4THYzRzluYnR2b2hJVHdjUzh1dkxkM3A1VTJGbGRHb2lCdmpnVUdXNWtRQ3BOaFdicUJRUzVZLTlBNWllQmlfeVY4UDVDTVZQWG1YT2kwekFSeEhjMlFYa19EUUh4NlFkbExBbWYya0J3UWM1blpqcTg0Um5IaERsZE9BWlpzaWVrSVVMUQ?oc=5",
       "source": "Elplural.com",
       "published_at": "2026-09-06T05:54:14+00:00",
-      "score": 59.9,
+      "score": 56.03,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -111,12 +231,12 @@
       }
     },
     {
-      "id": "5462b667c806ecf6",
-      "title": "Opinião | O cenário internacional piora novamente e pressiona a política monetária americana - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVXEzRmJtRDZheWJNSGp5RTU1TTV5QVYxUWpSd3l0b01vajdKZ3BvTWp5MVk0M3M1VEgzRlRSRFM0amtFcE1rWUZqeV93Nk1uNXRBdHdxZEs0cHNHYldVa1g3RUtweTRqSmhlTUZfQWI1VG5WXzB1ZU81V2l1c0FpcHJmYlg5SzNnUWgwZzBXc3FNWnlZQlBDVFNtRmpxdEFpR29ZNkoyY1F6d2wtVElHZXQ2LTNLNmNnWm9KMU5SZ0VzRlA5SjZKSlRqUmVJc0dBeF91TFhaeFVnSTJjRk95Yi1veU45bkJ2ckZJRHFGRXc?oc=5",
+      "id": "e9a5a811a883aba2",
+      "title": "O cenário internacional piora novamente e pressiona a política monetária americana - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMi13dmI3OTBZYjhEZUJpWTVaTWFzYkw3eDZONkNwUElKTEF1VENSQ1pXbDBlcG5WSUZUY1E4ZzI0bWpvbXVEZzJlVFQ1Y1pUQ2NBMEN4cWJ4M0dlcUtNZUdKTlEtTmNqaUh2SlFtSFUtMnlWQzZ0by1tU0k1djlpVUZKQjdOb0g3ZDEyOF9UU3JJa0lGc2Z0dHluMkRIQ3VNczJDUVV2WGtycUJ6RkxMR3d6elEtaEQ2ZVpmUDdUUkZSMWVRNUlCbHF2X1ZSNHFMSmJpSU9XbFBkRWJjOWJWUkVRSmZ3UdIB6wFBVV95cUxNNzVLSEVoWXBsd2o4V3V0OUFkcTY4NUp5RTl1UUpLWjJnaUpockF3UUd2d3N6YXh3eFZGV0RfcHN6Z1hZa0h2Tm5Xdk56UFU4SFRVLVRyckFBYS1YUGJGVXctczRGQTNBdnJJS2UwTThTQTVwa1AtVS1SeXhyU1FkOXRnQTlLTjBxMVAyb0htSUJLeDB1dEhFUDBlbEJodmtnQnZwUE5qdVNCZ0pkUGFOLUwzZFFRbTlsTW81SXNFOEE3SGJra1NpMzVpd1Jab2xsc0hsTHQ4OVctT3BnRllKaEg0R0lOaGdxNGtz?oc=5",
       "source": "Estadão",
-      "published_at": "2026-09-05T20:10:38+00:00",
-      "score": 59.04,
+      "published_at": "2026-09-05T20:00:00+00:00",
+      "score": 55.96,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -126,14 +246,14 @@
       }
     },
     {
-      "id": "edcaf4eb292c563a",
-      "title": "Conversas de Putin com enviados de Trump foram ‘altamente úteis’ e incluíram ‘questões econômicas’ - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY0ZwNUNZY1lDanYwVGxtV3pndmgwQWpUcFRBa010dG9YT2k5aVRqMU4wR212eklweFJVSzNZUTkwNkJTOHhPOHR6QWFKUTRpVmp4MVE4YXdzczhONTBWX2xlR0J2UXpiSGxJWWlvbVpzb2xRcUMyeWprcDd2b1R2ZjlRcDVyMHFpMWEyVmR2OXZGM0J6NEZuTm9VMHVUREtMRkV2bDF0cjhmZDlRazNIY21hVDJRVWprd1BOY2cyNDJ0YUVrY21tYVJiSEExaTZZOU1MUlpQSzBNVVlo?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-06T01:17:11+00:00",
-      "score": 58.39,
+      "id": "a01f35485193c8fb",
+      "title": "Política externa ganha centralidade na eleição e desafia próximo presidente - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGxxLU9yQjJOWGlOTDY0bjdVQXRiQkxsQS1TMmU3UTBHYnEyNmIxeHUzQzk5ZWRDbUU3NDN3dzRWR3VYeGlIS1M4c0VIQk5oazJlZ2ZvZTF3eFp4Wnpxc25fNjhIMHgyNm5CMWh6WjRHZEhhNUpReGFGS1pfYXl2NUNsdmpMcUNPVU9sZFNIWFNCeXdSbHNuMEM3MWkzdzdNVHRQSmNmYS10N1E1OUE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-09-04T07:30:00+00:00",
+      "score": 55.72,
       "corroborating_sources": [
-        "Estadão"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -146,22 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXB0N1dFR2ZVdVZlUWxMeE5HWkxobGZTc0pMS2t2SzVFYjlyTUhoaTBLczJHSFhUck9UdFpsTHh5VXE2WmFyU18zeDR3QWkyRnU4bTdOM1BQb3lTb0M5QUNKdkV4SERVT2NraDFnWk1uSkU5Tjh5d0Q4Tl9reGo3Zk9CZEZYcThWMkU3NWY1eWNidld0bnhwRUVVZ3hTbzFFbWpqN1RvT1lqTVowbDFGYVZvM2Q2Zw?oc=5",
       "source": "poder360.com.br",
       "published_at": "2026-09-05T23:46:01+00:00",
-      "score": 57.03,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "75b40fcb2391ea64",
-      "title": "Crise no STF: leia o que os candidatos a presidente propõem para o Judiciário - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWNGQ2J6MUthYmJsdldJYWQwT25TeXN2UGJqSk5HcUdOc0x6ZWwzektLX01RMnYzZUVLNlpKRmd4STIxenNSSkF1QVlrMGtZeWp1TU9zejd1ZXVFUGhSYW9XNUZ1dGlLd2M4ZFNUVDBTWm1GbVNYOTRPSFduM0JCSC1JYjN6RmVPWk1RbFBfekZ1a0pjQWFZNDY5eTZTejhOcEtSQ1pSa1o4a3dVZlJJSGg3aTNGcXNFV2JPSUpTaWhRSVk?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-05T08:34:40+00:00",
-      "score": 54.17,
+      "score": 53.77,
       "corroborating_sources": [
         "poder360.com.br"
       ],
@@ -176,9 +281,24 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVNubkhiR1BfeXNCUUt3X1hjX0pkNmpzQUl1dmY1VTFPdi02NlVkT0hGWDFqWnRWUjJaOGN2V21BUko2QmtQc29UcnBRZmRPZ3lxN28yc0hzdDBxdHh1Rkg3VlQ0OVlVUUJZdEJvQV9WeEpTWGoyT3Z1NzRPTTVVV0NnVFp4VGJHNUNiZmI5bzhSMkV5LVNrUTJzbGhJdw?oc=5",
       "source": "GUB.UY",
       "published_at": "2026-09-04T22:18:39+00:00",
-      "score": 54.03,
+      "score": 52.43,
       "corroborating_sources": [
         "GUB.UY"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "75b40fcb2391ea64",
+      "title": "Crise no STF: leia o que os candidatos a presidente propõem para o Judiciário - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWNGQ2J6MUthYmJsdldJYWQwT25TeXN2UGJqSk5HcUdOc0x6ZWwzektLX01RMnYzZUVLNlpKRmd4STIxenNSSkF1QVlrMGtZeWp1TU9zejd1ZXVFUGhSYW9XNUZ1dGlLd2M4ZFNUVDBTWm1GbVNYOTRPSFduM0JCSC1JYjN6RmVPWk1RbFBfekZ1a0pjQWFZNDY5eTZTejhOcEtSQ1pSa1o4a3dVZlJJSGg3aTNGcXNFV2JPSUpTaWhRSVk?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-05T08:34:40+00:00",
+      "score": 52.03,
+      "corroborating_sources": [
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -190,55 +310,10 @@
       "title": "Putin dijo a emisarios de Trump que el Ejército ruso logrará sus objetivos en Ucrania; califican reunión de \"muy franca\" - El Universal",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmZ4UEtmT1pxRG81eWZWcXlwaWlTODZsNWpOMURLRjVSUl9TREJOa3N1UGROc1MzY241VlpmdlJ3bnVyeGhudDAyTFBJRzVVY0E4THdwSjZXZnFNRFlsVFJPRFVqWmVQckJVZklSOGNXWWVsZzFKRGhFVDlKOWE5ZTROeEpES3NnUGlvcGpTXzRCcW1yMmtpTWZLbFJCMFRfZWpDZ09zZVJ6S2xIY3g2aWdBcmZXVmduUnlOeUNuMmZ1aVR4ZmNLcWxIYlluZTBHSzJxTllKRDV5cE0wZGNpRmtibC1ZZFVSQ0k00gH_AUFVX3lxTE9VdnA1ZGtoQ3F3VkhmQ0RQc0w5WTNvMlE2QlB5TzZXUG1RZm5CdnZ2Vm1xVS1MU014SjR1UEtCLUtYa0kwcERWbUxFZTU4YnVKcnNwMzZzM01va2tUclFBSVVuMGh3SHExdHNPVkpDbmt6MHZtRjNaRUtzRkFlWG9kclA1cERwVzFJVVM4ZGFHSlRDN011aExYY0E1QUp0bzRvQXNFc2NpU3FmdlBORTUwa1FnQ2VOV3BMbDJOM0VjZUoxZUt1dTRlY1VUNFB5T3dqU0o3ZWE4aUxuZnlZNkVzYkZ0TWhQbEZNZ2ZRbkt5Z2psbXdocWRNTkR1T2xOMA?oc=5",
       "source": "El Universal",
-      "published_at": "2026-09-05T22:52:00+00:00",
-      "score": 53.25,
+      "published_at": "2026-09-06T01:12:00+00:00",
+      "score": 51.92,
       "corroborating_sources": [
         "El Universal"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d9dc792978a7cf9c",
-      "title": "Chile: boliviano recibe condena de 10 años por tráfico de droga - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbEk5RWswbC1QRkNRSFNTOUg2TWhGelZCZWtEazJwLS1jQ1dZbzFxNXZKN2RtSGRiYmk5NTFtYUVMYVlOWlNIZG1TQ0hnTnhYWW00TGhtMUR5elZIUk92RFJaQTJHZW1jLXdtem1tYml3RkxSQU1iWnZrM1FldjNiU3Y0dFU0UndVb2ZNbG9MSFBaUmc0b25Ld2FXRi1pYmE3OEE?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-09-05T20:44:41+00:00",
-      "score": 51.49,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2c01cb316ac7eeaa",
-      "title": "Opinião - Gustavo Alonso: Extremismo é legitimado nas universidades do país e vira virtude - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1JUY0FzRDktaWFoWV8tQUtxTVE3MzlOUFQ2MEp2YXl3SkhMM2EwY0dUUUdhZkVUbFBJY3JwN0VDc2VHRjRoSUNRUGJjNEk0eGxBSFNXX2tiYWhxMTdsY0p1RGtQN0ZMVUZuSE10V2t6R0xvWFpJLTc1QTRTUm4tX0N1ZDJBM2dxS0ktNzBNb3dORTJYSlNRNlFzUjItRkwyT3pQUnZCb0lFeWRMbDNiV0NEa3ZVbnBYdEhHd1h5WW01SDVXWnVKQ1hOaw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-05T16:37:00+00:00",
-      "score": 51.35,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "422850675be43610",
-      "title": "A ordem mundial construída após 1945 começa a perder força e especialistas veem uma transição mais imprevisível - O POVO",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZE8tN2xUQUVhOU1fcmlvQzdJM0FueDl3YXRJSUNJaEFvdkJIaHN5a29FOENUa0otQ2VZWjhOWXNHWFd1VHJOTVJ3eHdRU0s0T19ORVdBTE0xQ18zX1Y0YURTMjlFUlhKUVVidE91b1hhZFk4dThvX3Z3YTRwNEkyRzhmZTJUOTloTVg1U2RoS1lHSVY5ZGFOQkNJWkdjb0dMU29wY2xkM3U4em9SMkZjRkllaVpROWUxVHg2VGJ5MFV6VEdrWi1LXzU0d2dvcFV6ZzdjclRUaw?oc=5",
-      "source": "O POVO",
-      "published_at": "2026-09-05T20:07:00+00:00",
-      "score": 50.99,
-      "corroborating_sources": [
-        "O POVO"
       ],
       "signals": {
         "source_count": 1,
@@ -251,9 +326,54 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYkNTekRoVEtVZkQ0dVJkOEpYTU8tSFI3RTduQ2JmS0ZPdnpaVmNLWUZVUjcwcUttVXgyMTRVb3QtcVpXUjU2ejczZVZsUGRVMkRLaVJ1alozQVpTRG9VUHdLTUk3T0o2TWREdnFRWF9fUjlwUC1UXzJJelltTWd6T2VzczBFYVJuZV9ZOXhXWEdLaGtkSDduVmxhbnRuZ095WDVmZEVPU1JkSHhqUmM1d1NOcVRwVWVta1I2Z3owUnhzZTRjTmhsYTIzTjV0a2U5ZXVJbU1aUWZQaGlnTk9mZWtkQzhQVlRBcUx6NS0xZGE4YUNVdGVXaUNGdjVZY3JTM2hxM1k4QXpBZ9IBjwJBVV95cUxQd29hZTM2THNvaU5yTTZVV3FVbjgtNUdkbnR4d1gyN0c2R1BrSDVTZ2w5ZHoyUElPT3B2VzVkZS1qSFVDU2ZEYndpdlF1Tmg1bGRaZWNoZTJxMURYWVFzZVlITF9DLXZlRkZfcnVqY0N2Z1AyTGhhXzF0NkxhQnJiUWJuYm5kTDBlZi04Q1I1UVBpUnFTeHk4LXM4eTkyU1g2U2c4WmpwWUlHcDhCQkdOdVFyTWVUNUwyMmdXUXhkYXJBZWhzWTl2THM5YXI5TXZydEJzbE40U1psbzZDQnpxTXM2TW9JMldDMS1EdVY0aEdxLXBBdzlhMUJiMG5rZlk5MjhHeDd4ZDFzeDZQUklZ?oc=5",
       "source": "Futuro Chile",
       "published_at": "2026-09-04T12:47:28+00:00",
-      "score": 50.42,
+      "score": 49.19,
       "corroborating_sources": [
         "Futuro Chile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2c01cb316ac7eeaa",
+      "title": "Opinião - Gustavo Alonso: Extremismo é legitimado nas universidades do país e vira virtude - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1JUY0FzRDktaWFoWV8tQUtxTVE3MzlOUFQ2MEp2YXl3SkhMM2EwY0dUUUdhZkVUbFBJY3JwN0VDc2VHRjRoSUNRUGJjNEk0eGxBSFNXX2tiYWhxMTdsY0p1RGtQN0ZMVUZuSE10V2t6R0xvWFpJLTc1QTRTUm4tX0N1ZDJBM2dxS0ktNzBNb3dORTJYSlNRNlFzUjItRkwyT3pQUnZCb0lFeWRMbDNiV0NEa3ZVbnBYdEhHd1h5WW01SDVXWnVKQ1hOaw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-05T16:37:00+00:00",
+      "score": 48.67,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d9dc792978a7cf9c",
+      "title": "Chile: boliviano recibe condena de 10 años por tráfico de droga - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbEk5RWswbC1QRkNRSFNTOUg2TWhGelZCZWtEazJwLS1jQ1dZbzFxNXZKN2RtSGRiYmk5NTFtYUVMYVlOWlNIZG1TQ0hnTnhYWW00TGhtMUR5elZIUk92RFJaQTJHZW1jLXdtem1tYml3RkxSQU1iWnZrM1FldjNiU3Y0dFU0UndVb2ZNbG9MSFBaUmc0b25Ld2FXRi1pYmE3OEE?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-05T20:26:37+00:00",
+      "score": 48.28,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "422850675be43610",
+      "title": "A ordem mundial construída após 1945 começa a perder força e especialistas veem uma transição mais imprevisível - O POVO",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZE8tN2xUQUVhOU1fcmlvQzdJM0FueDl3YXRJSUNJaEFvdkJIaHN5a29FOENUa0otQ2VZWjhOWXNHWFd1VHJOTVJ3eHdRU0s0T19ORVdBTE0xQ18zX1Y0YURTMjlFUlhKUVVidE91b1hhZFk4dThvX3Z3YTRwNEkyRzhmZTJUOTloTVg1U2RoS1lHSVY5ZGFOQkNJWkdjb0dMU29wY2xkM3U4em9SMkZjRkllaVpROWUxVHg2VGJ5MFV6VEdrWi1LXzU0d2dvcFV6ZzdjclRUaw?oc=5",
+      "source": "O POVO",
+      "published_at": "2026-09-05T20:07:00+00:00",
+      "score": 48.04,
+      "corroborating_sources": [
+        "O POVO"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUtneWFqbE50TFZxaUgtclVua19janBWREJoUkppc2dSRjUyYno4eE5tN0p1VkFGZ25GQnNSUF9EOTRmR05hNThNcHF4T2tkQ0VrMmE2Q2JRSWhOZDc0TnQzQThNM3N0b1FfQzRNVFRsNlJYcGk1bWEwN0c2OEt0QW5MZU02cVRiVXVzaDFHb0ctclVwdXl6elVfWXhsV0hyakY0eWthRnRCNlE?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-05T15:04:00+00:00",
-      "score": 50.26,
+      "score": 47.7,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -281,22 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTm1JbGFReXZEYVd2ckVJLXB5V0k1MkRwZEZZeGI2Ti1QVm5qTFJwV3RXSHJIT3hFYThLNzE4V1JGNklLT3kxQWRrRl8yWUdENWtSYWFWbEVEazE3WVNEQ2J1UVEtQnZKZzJxV3VrRFpTX25ZazZiYmRmclZBLUpyd2FBOVNvZlozT2tFSFdDbDR1anVKa0pmWnBmcnlWd2NlMzNYM05uVWJzcGQ4dlZYOHZWT0trY3FCb2lMdnRQUl82Vm9tYmtIek9XdklyZkXSAdQBQVVfeXFMTWxiNWZHalB0Xy1oR3hEaWZtR1VCYndGQmlfeUszT05ENVVpYUUxZWhBZ3pjTC1XMFpKM3VROTVjUkp3VDZ3VVlyV1Y0S2hfaUZiQjVSM3Q1SU5Ub1BFU05FXzNVeWlLREhVRTNXVHVhd1gwVkoxRTNCZ05iUk9LQ2JsODRRNEFqTG4zUnFFYjl3TTYwenNIZFJPazlpMXJGeERzQ2dTMHFsVkhvb0pGTXpLMk1pdHE1c3dTOGE0Y2g2MkwxRE9MdGNUUnc1T0xVVVVUOFM?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-05T13:59:00+00:00",
-      "score": 49.52,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4257be90acd5b743",
-      "title": "Rodrigo Pacheco, presidente do Senado, anuncia data para deixar a política - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmZHVlNQcV9neDlkZHoyTHZnbS04RWRQREpoWFJjalNqZEV3cUt1ZTZUZld3dU1pdk5CZFQySjVZVjB3RWNnSlN4dU5KSFBqNUpQTUFfQ1lGc2pLZVRxczZnSzVXclVNM2dYM3J6N2VuRlFRZVk4RUpWamtfMlFjeXVVVDQ4dmprNDBxckFPU1RlVkVSYkgyNmV4WjJoMURVZG9FRXF3X29kT0VfNHhIdTJqSHNpeXR1ajhMZG95dXp5dFdWOFVfQnBRdkVfRERTTkhXelhyd1RkZVhRWnYzS3I4N2ZkOTNIMmU00gHwAUFVX3lxTFBFZWNPeHpiVXdJMzZiT1luWWhJNTY5c1QwT05yOHZwRC1sOXE3RDVoQUFJc1R3Y3hfbW9ROUNNdEtuam00VWNBcHJ5QlJjRGVtVHZrOHFyRXY3NjZQdU9EaXp0a1dSWHZ6dXBkV2xoNHh6NXFnOFhlMHVoekJzaGpKUmVvVXpLOTBxdTBDY0hEcUdGNWtTMTNvZFlSMkl6ZlVMd3JkSWYtWTlQMXdSYlZKNzM2VkF3S2ZrM0tqdm5WZzJ6MWNBamk0Z2hrN3FpUGNMaTBpOUxhS25hUW5Hc0ktTnBkNkQ1Wkotd0JaZ2Rnbg?oc=5",
-      "source": "Estadão",
-      "published_at": "2024-05-08T07:00:00+00:00",
-      "score": 49.48,
+      "score": 47.04,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -311,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTh2T052Y0FVd0ZQQm0yWXlCcXNHYVYzV0dBQ1kyMGs0OVlaRWF3QjZTQWZnX2tyQTZ4YXBFc0ZfVzY3WUxYcUw0ZlIxaVRmUlNEUGdJM0xwNmVmcGlBMTFiSHBnUUVFQnhYdmpRMVhtcnFCTXBFeGJLV3J2MTVJSldtVHdmMUNjbzdxWDUwSzEtS2s3aG1FLWFyTXhrLWtOZ01pa1RveGFGOHQzb3dyUg?oc=5",
       "source": "poder360.com.br",
       "published_at": "2026-09-04T21:11:30+00:00",
-      "score": 48.56,
+      "score": 47.0,
       "corroborating_sources": [
         "poder360.com.br"
       ],
@@ -321,29 +426,14 @@
       }
     },
     {
-      "id": "0391b24bd42c49d8",
-      "title": "Caiado quer mudar regras do STF e criar quarentena política para ministros - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWkswTGxRdW5qNXR4dVF3YU9MY1k0SVRmdC1ZTVRjd0dmdXpjOGtFZ0djQWZhdzVtaXZHNDJuSXZ1WXI1c2FkelhmY3dubGtHTERDNlZ6OE5qOXQ1ZXZWb2o4MzNHQzBxVEpqNk11UXF1VWh3R0xabG11UHEzbW1JZE1KV1MwclNzR01WY0x6VFo5RE84MlZpX0d0TnR5WW8zOUUyZkFUeVZmRDF2LXZCYg?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-09-04T20:54:00+00:00",
-      "score": 48.44,
+      "id": "ff27aa4b73638678",
+      "title": "La política exterior de Colombia – Parte 2: Diplomacia en Latinoamérica - Universidad Distrital Francisco José de Caldas",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNLRWJkT3o2ZHZxaU5oTE03bWcxY01JMzAydVh3UEFlYThicnBSV29hTm5YSmF6VE5JSjJOdTNQUDh3OWdXbEl2WjhXRnp0ZUpaQXdRVlR6RFNhRGpSeTFxMkpaYVFERUNyREhIVlhzVjdYdXg2el9yRDI3RGdJLUsya2lWRHpKTDZqakRFVU8xQXpGa0ZhU3JjcU4ydlJKdk12QjNXZDctblVZOENwR29odWpwUUtKM0E?oc=5",
+      "source": "Universidad Distrital Francisco José de Caldas",
+      "published_at": "2026-09-03T16:38:57+00:00",
+      "score": 44.6,
       "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e247e779756e161e",
-      "title": "Geopolítica y diplomacia de las lenguas española y portuguesa - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXlDTzU2Qjh1M3ZnZDB3SkFzTnR6ODQtNjN6TlNvaUg1QjYxa2lVVk0zUE9zeDg5anBGNzN6MHUtVkRwZ2lIcDQyRkIzZ2NqRG1nWFJCOERXeUFfd1h5aHNReU1FZVJrLUJ6ZFBpQy0zcExfZ0dyMkNlbTc3dUJhWVE1azJJUFk2V2V3Z3l3RXNoaHNRMlpzcmFtbnBybVJPODVYRGozcw?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-09-01T11:59:59+00:00",
-      "score": 48.06,
-      "corroborating_sources": [
-        "Política Exterior"
+        "Universidad Distrital Francisco José de Caldas"
       ],
       "signals": {
         "source_count": 1,
@@ -356,99 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLURJYlUwZkZEX2txOFd6UGh5QXZaZF85ckJXSzI4cTVjdUIxVU1XS0dsQVNpOGQ5bXZDaGRBVkNtNU1SQ1BwbVRCR3hVUmF3Z280TTNwUkZYV1ZpNldPSlI0VjdaU3ZIMldoeFdtU3hDYU1zRlY1RGxOdDJncnM1VFY1dHlVeWh4Ul9FeW9zQjVlelRHNnZoYU1IeFlPOVpJam56NDVIUmRUSGp0WDdHb0RjS1JEdFE?oc=5",
       "source": "Radio Polar",
       "published_at": "2026-09-04T22:15:00+00:00",
-      "score": 46.01,
+      "score": 44.4,
       "corroborating_sources": [
         "Radio Polar"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fc8df61ef3f470bf",
-      "title": "José Octavio Bordón: “Argentina no puede tener una subordinación absoluta a un solo país” - 617 News",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JeGlnSFAxNEx4OXN1U1dGN0k2clMtRHRFc3g2Vlh0TDVlYUpWdjl6OTVvelZBbmtsa0MwRVc5TDhHZmZvRXdfdjVjSUNYZzNnR2RtY0daM19HbTRsRjdCWmZ2X2JQUGJPZE0w?oc=5",
-      "source": "617 News",
-      "published_at": "2026-09-05T12:46:27+00:00",
-      "score": 45.73,
-      "corroborating_sources": [
-        "617 News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8c6330bd85cc68c7",
-      "title": "Von der Leyen presiona para controlar la política exterior de la UE y desmantelar el servicio diplomático - elDiario.es",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZXk5SzZTZ1J1S1d4bE5ZcC05WXdnWEdUa19nOUJNc19kRkd2THBmTVo2M3Y2Z3RzRVVSTjY5TmJGZXh1bzZ4QmpLU1hLaWtabGFyR1hCbUpHeWUybDJFdjlrd1Vpd19tdU0wd3VaWTJzd2pfZkZiMmhlcXdPNnhCSFpkXzk5QW1xb2pVUDZ0T2xWUWdQTjk2UVZPcEh5SHNmZmF4b2FhYV81X0lTNGFodVI4VmxjZTF2Q0RpVndkVDJ0NTRaLUJCS2FLbF9GNjZDU2RmdHVsMNIB3AFBVV95cUxPcW5vaFZqY1I4XzBCUmc1UEtkMjRfR21zX3RwV2d4T2JhMzg5X3pZMmJGRTVrcHliV2pTbHg1SERRVHZHcXNhR2szN1R6T2ZiQnUycnFia2p0NW1NU3R6eWx1UEE1MFh3VDFYNHBkOEZRWjRjRGw4UXpUTFVxTjQ5aXVNaWJLYzh5a3RJRTlITTR4b2owSVhDaEtZVEVsMmowLW5QcU1wS252VVJDVEJXYkUyNVprTDRzSFJyY2pJaG1iclFBX014Z0RDRVU5VENKeFU4a2xDRlI0XzA2?oc=5",
-      "source": "elDiario.es",
-      "published_at": "2026-09-04T20:45:31+00:00",
-      "score": 45.38,
-      "corroborating_sources": [
-        "elDiario.es"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9f8dee9d5bb48823",
-      "title": "Opinião - Mauro Calliari: Tarifa Zero deixa de ser tabu e se torna política pública - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0NSaVNieGE3LU52UHJMbUlybTlJTnRtd2cyekhialBYMEhoNjdEcWJyNzlYalg2VkZXdjFweVNGSUZjWTJqMW1qMXFMMHJtN2FOSjI4SUJEOWVpdktkVWUxVmM0NWV0Y3FqNzZ4aVpSUkhqX2VFMG02aC1Ca2FMbFpkY0d6QkJqVkpmd2FJM3o3R2xyNkRhM1FadTFnTkkzakw5Z1pZM1RWLVdxQ21laGNXN1lIYTRlcGl3NWRIUS05QQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-04T12:38:00+00:00",
-      "score": 45.37,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9061aca4d5bba021",
-      "title": "La política exterior de Colombia – Parte 2: Diplomacia en Latinoamérica - laud.udistrital.edu.co",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNLRWJkT3o2ZHZxaU5oTE03bWcxY01JMzAydVh3UEFlYThicnBSV29hTm5YSmF6VE5JSjJOdTNQUDh3OWdXbEl2WjhXRnp0ZUpaQXdRVlR6RFNhRGpSeTFxMkpaYVFERUNyREhIVlhzVjdYdXg2el9yRDI3RGdJLUsya2lWRHpKTDZqakRFVU8xQXpGa0ZhU3JjcU4ydlJKdk12QjNXZDctblVZOENwR29odWpwUUtKM0E?oc=5",
-      "source": "laud.udistrital.edu.co",
-      "published_at": "2026-09-03T16:38:57+00:00",
-      "score": 45.3,
-      "corroborating_sources": [
-        "laud.udistrital.edu.co"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "58022ffa5d81baa2",
-      "title": "“En política internacional no funciona el término ganar-perder”, Justin Trudeau durante su visita en México - vanguardia.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdTZ4c0lXMjdMZ3IxYWk5c2RMb05qanZTLTdzV1RFV1VkT1NYRThZeTUzamFlNW1kWkR6QUJSOElUM0pCUHpiR0RrSnBVbWpDZ3lzWndFX3B0LThiLVlaVEZ2U1JQbzc5dFA3UmU2bUVPcUJ2azhJNndsX05EbURIMnVVTGFYOXM4SG0tYlJ5ZGpyVVJzdzFUSTBONkhGdVZjU3FvR3l1eGR4a1k4R1VYa3EzWFZESERDWEZmTWNSMGJDb2VLaVQ3RV84Vmt3MkFPVUJFcFMybEJwcmxYd0lIajlFZzF5U2VkT2M4U1Bn?oc=5",
-      "source": "vanguardia.com.mx",
-      "published_at": "2026-09-04T17:28:41+00:00",
-      "score": 44.08,
-      "corroborating_sources": [
-        "vanguardia.com.mx"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8f0d0abf91255935",
-      "title": "Saiba quem são os 7 governadores que podem ser eleitos no 1º turno - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDBneHljR1h4enBjdGRFLTJnelRoMm1OYXVwSGxUalFqejNxbWFfQnE1R1h3M3Bhc1BqZ2dDTHVLQzQ0TmFPSzBpdWZIaEV4emJ5VjQ2aHVxTENRbnQ0MlczOHlNVlJLcy1vcEVESHd0T01VWm5zdVVkNjNtaVZMcTVfVDRsb0JGZUxfWldlTUxxV1g1S0wxVHRCc3FZUVk1VzFudS1LQmpZbUtSdDV0REU2OGdBQQ?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-05T02:35:26+00:00",
-      "score": 43.0,
-      "corroborating_sources": [
-        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
