@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-09-08T19:26:34.462814+00:00",
-  "next_update_expected_at": "2026-09-08T23:26:34.462814+00:00",
+  "generated_at": "2026-09-08T22:43:05.399194+00:00",
+  "next_update_expected_at": "2026-09-09T02:43:05.399194+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "cd98899bc1c26cbc",
-      "title": "The Saudis and Houthis Inch Closer to War - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNXFJMXdhazlFOFBMM1N6M1F4MXRkbTlKZUhhUVpuYU56aC1WdTZDcUtxZHEtR0ZzNGNXUEdabU1sNVdYS1JnWGYzek5QVmlNT0V2aWFLcW04T21RU0EyXzFmZm04S0tXcGVDNzJ6dzIyUkU5SWZuTA?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-09-08T18:21:26+00:00",
-      "score": 74.14,
+      "id": "ced28e6569e634ad",
+      "title": "RN tacha de \"irresponsable\" interpelación a canciller Pérez y acusa riesgo para la política exterior - BioBioChile",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTjdFYk8wa3pSUnNULXlXdmJ6X2tEUlVaei1PemhBZldnN0VZcFYwclVNSjlCQTJVbGdiMGREYlVkdlg5LVFzSWFvdHpjZXBRS0ExaHhjVlZ4RDNQMmFXN28xVmxiaXYzY250Z1hkM1lmM2FvUGpJZ00yMFRyR3dvcHd1Rlo1Mmd4NWprWHkySDd5Zl94NndvQjFJbk1fNjdTSGJTNWdGTzdkWlhZaEhjM2JmTHZHTzJtMDRrbDhGbnBEbVFENHdfTFlHUUZtWXdUYklybFhwT3BTaXRFc3lhQ1M3S21GZVlxa0gycUJHWFJNRE1vOVBWTEln?oc=5",
+      "source": "BioBioChile",
+      "published_at": "2026-09-08T22:06:43+00:00",
+      "score": 74.73,
       "corroborating_sources": [
-        "worldpoliticsreview.com"
+        "BioBioChile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b19d5752cbb12202",
+      "title": "¿Legítimo o irresponsable? Oposición interpelará \"giros inéditos\" de la política exterior a cargo de Pérez Mackenna - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLW11UUdBLVZyUnp3dURyTkc0c2NlSWZJVGh0YUtaNDF2WDgybEk3WGtEMTh3TTdDd0RJbTdyMWlRcnozWlpjVVBuTW5KemlULTBkbjhNM0N2cktSSnZHcnN1OHZXSjQ0QUMzUVluWjR6dGVyN2dfZ3dhZTBDTmtUQ3RfbzA3TEZoUF9mNktSUjVFVEFieHN1eGQ1ZS01S3NNYW1URWY4d2pkU000UVkwSnM5NWgtX29VZkRKa2ZCMUxxMWptYm42NV9zUElYWlhMT1hZRVFVQnprZE1iM19CLQ?oc=5",
+      "source": "Universidad de Chile",
+      "published_at": "2026-09-08T21:27:44+00:00",
+      "score": 73.93,
+      "corroborating_sources": [
+        "Universidad de Chile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "472515810f642a57",
+      "title": "Canciller califica interpelación como “un oportunidad para detallar los avances de la política exterior” - El Periodista",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbE55ZzU2cXFjS0ZZb3lHR01xX2U4YzZXQnlwOGNEcm9sMjVPZXRNZGQ0SUEzNTA3djlMTnhGVDl4TnI0VWlBeG5oN2tSdnY0SzlNUUw4QlQ4VzhfQVgyVnZ4TUdvR2pIUTBhMFhfU0RyakEwUWFkYm1XZU53eTIxLUVqOWR5WXNCN0pUNjBrTm5aOWdUZkUxOW9mcHEtWEtvZ0tCYXhYd0NDN1FicHhpVk4tLU1CZ2s3Ylh5QUxoVk81NXNlTzdtaFNtMGI5cVZlRkk5RmRn?oc=5",
+      "source": "El Periodista",
+      "published_at": "2026-09-08T19:42:45+00:00",
+      "score": 71.87,
+      "corroborating_sources": [
+        "El Periodista"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDFHRE5KeV9TdGxJYUZYTkRYYmt4M2EwZzViOUFuZFpWMERRZzVBNnNUNTFvV2ltZGNlaFRzczNsRTZ4ZTJVajYxeVpOQy1jYkNpX0dkSWZSZmdRSDFuS0hYVi0xMWZvRXZZS0lUQ2djR0t1ZmlTTklZbzVaY21xMmJibXlGUEdwQ3c?oc=5",
       "source": "Partido Por la Democracia (PPD)",
       "published_at": "2026-09-08T00:53:51+00:00",
-      "score": 73.36,
+      "score": 71.02,
       "corroborating_sources": [
         "Partido Por la Democracia (PPD)"
       ],
@@ -36,14 +66,14 @@
       }
     },
     {
-      "id": "2b3c055a725be4ec",
-      "title": "Internacional Crise política na Alemanha: a AfD tem votação massiva nas eleições da Saxônia-Anhalt - Esquerda Diário",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVNaS1VJZ3ZWaktXbktuSFZQMzdpNEUxRUxRQkpEYnBhal9KUGNmSWI0UGVSejJBdUNCOTR1S29GWDZ4NVdMYm41N1hTOWFaWnpQT1FENEFORDhWeUNKNXNVcGI5SXY1cE9BelRPSlBjUTg0djdXeVJNajE5bTNpaHdRREVMY2tSclJKcC1QSm9aUUhaWEtZS0JyclFFMElMSWNYdjFzcDA1RkIteDZiZG9qWjZwR0kw?oc=5",
-      "source": "Esquerda Diário",
-      "published_at": "2026-09-08T15:47:19+00:00",
-      "score": 71.13,
+      "id": "cd98899bc1c26cbc",
+      "title": "The Saudis and Houthis Inch Closer to War - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNXFJMXdhazlFOFBMM1N6M1F4MXRkbTlKZUhhUVpuYU56aC1WdTZDcUtxZHEtR0ZzNGNXUEdabU1sNVdYS1JnWGYzek5QVmlNT0V2aWFLcW04T21RU0EyXzFmZm04S0tXcGVDNzJ6dzIyUkU5SWZuTA?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-09-08T18:21:26+00:00",
+      "score": 70.34,
       "corroborating_sources": [
-        "Esquerda Diário"
+        "worldpoliticsreview.com"
       ],
       "signals": {
         "source_count": 1,
@@ -51,14 +81,29 @@
       }
     },
     {
-      "id": "52da9a4b2e13d782",
-      "title": "Postagem engana ao listar políticas públicas adotadas no governo de Jair Bolsonaro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2lLRDNZX19PaXdXcGFYMWp6ZDhkYkFGTWx1YUtpZVdSWW14OGhLV1FWQUlQVmRfV0tkbnVGUkc3S29aRUlnRTdDOU5EbHNXaDlIWkRxV2QtV0YxV3BTUGR4ckg2LWQ5QzZ1UXZFZGlxcG1WVk4zZkNuZnJIVjE5eDNHNDFMZm93ZDRWdjRZOXZ3WHAyc2tMTXA4dEdJRTRDQmhkZdIBqgFBVV95cUxPSjlBTkl0OG5lT1poeFNyNHpDUFlLYzlEa1BuUmROdE82Q2NHdnZfSHM0Sm5NV3I2X0FCRjNVQ0tadk41Qk8ySWg3QTVOR3IzU1pQSGJyMThrckp6WDhyWHltdV9pWFJVckN3ajY1TDhBdnVEeDRsVFlDbDNzTzFkSjlrZmFPdW5KNXU0T0FBLUhjRklXbm1qQ2RNWTVOYkV2cTJYSDdHb2JrZw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-08T12:11:40+00:00",
-      "score": 70.27,
+      "id": "6638c9234a8cbf7e",
+      "title": "Guerra en Ucrania: ¿Qué se dijo en la llamada entre Donald Trump y Vladimir Putin? - Reporte Indigo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZjNWZVFlNzRZM1E3RzI4Q2lTLUl2U19YcXJNV0o2d1lJOUp3Vnp0V1BtT3hpRWRhYnZiaHdjb1NUem1oVklVbXF2Vk5jYk4yM1A0VXRJR190Q2JzXzRoLU9yaEFTUGhTaXdfY0FqSmlJNUhaS2E3Qk1CRDlNV1NscjhiSDhnNE9XZEczME5JaFU2R0FCcExjazZiZ3JKOUhtUllPWVRXRzRldjlZVE5SSFdPRzlwUTdFN21BVGh2Ny00Ml9aNFlsOWxzRTBBeFBCeGc5aUJVdWc5QQ?oc=5",
+      "source": "Reporte Indigo",
+      "published_at": "2026-09-08T18:11:00+00:00",
+      "score": 70.15,
       "corroborating_sources": [
-        "Estadão"
+        "Reporte Indigo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "95578d7c5d25c4e7",
+      "title": "Conjuntura Política Internacional e os conflitos no continente Americano - 14h - sinesp.org.br",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV21NNGNrbUI2X3Vwdzg3UmxjdXZyMFloQmNUb2VYOE54TC1VbncxQm1BMDBfdHFMbmJZUHpURTF2bFFTYnA0SG5vdkFfdkQwbWJNNmpZTGs0Zjlib2l1WG1rTmc3a1I3ZElmY3N4UUVFZ0hkVlBobnh2clRQYnZzZ2g1bnR3cEhVS0tEQVo4SHNiV0JXTFZNSHdid080dmpvVF9kTEF3bmhGTTZqbDJid0ZTc0Y3b2w3YWNXVW9iQVUwaU5qNGZmVFdUeEJvU3M4ZWRpZ0QwLUcxVlpNNkJkOGZtRzg2Y2lGMVl3d0hzdWRKWDVBbXc?oc=5",
+      "source": "sinesp.org.br",
+      "published_at": "2026-09-08T15:00:00+00:00",
+      "score": 66.79,
+      "corroborating_sources": [
+        "sinesp.org.br"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +116,39 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOblNVSzFsSU5rZnA0UGFRVWt5TmNaOUJ6aUhJZXJrMGxHZTl4SGdiTG1pbzlUaVpKcG5FVVJSeV9XSkNEazBYME44UDJxd19SQzNwbFR4dGpJanU0UzRDTVFPRGNTNU9BNVg5eEhOeU9ldm5ZUXVzX2hZdGxTOWhLTEhYRVlJR1RzendzcHB0eTNGX2RPSk5EYW1MUlRHbENnSHVTMWs0NGtEZTN2M1Nlcl9Eck5TMTYySkxsWUtB?oc=5",
       "source": "La Silla Rota",
       "published_at": "2026-09-08T14:59:00+00:00",
-      "score": 70.23,
+      "score": 66.78,
       "corroborating_sources": [
         "La Silla Rota"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a0a5901c4d3bbfc9",
+      "title": "Paz coordina estrategias con la Unodc para combatir el narcotráfico - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFd1MkNJdVNUdG1mUmZpTFdYdlhKaUNpUTF2dS03QWdoSWJEMkQ0T1EzdWRrV2JNMW1LNDI2dlJGX2dCM3Z0WjFOME5jcGxnVGw3amFQcGRtYXllTW5sekdrZHo5amFCdWFPTkVPR3IybkJydGl0eHZYVmxtU2JYUVJYQ0w0d2ppSWpLaFVRejB4ak0?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-08T21:23:05+00:00",
+      "score": 65.84,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6ece756a35617c22",
+      "title": "Visita ao Poder360: Olga Rudenko - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIRmRUb25zTWRXelJ5Uzl6X0N4NjkxN3JnamlpbGFkWHczUHFPOWRZbkR0b2JzOVpPb3FSWVNZQnlESVphNDRpYUZVLVpNRGEteWZBZzB4SmpMN2ZHZUlid0lNVmlDdnptNHZQOTJ2OTVHSnA3Nm44cEpJZnNfbU0?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-08T18:30:24+00:00",
+      "score": 65.51,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQndGam5Fd3YxQXFrQWllaXJHVTN4VFNVZk9wTWRsazFQRWdsZW9lNFMxRlBXMTRwTnVNOExtVnZ6eWp5MXdpZ1YzRktjWWFKRWpaSTVWa1JWX3pOdVNFLXlPZm9aSXR5MjNwaFhOdVVib0piQjJYNjRXdF9TTy1vOQ?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-08T13:25:45+00:00",
-      "score": 68.55,
+      "score": 65.24,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -96,14 +171,14 @@
       }
     },
     {
-      "id": "2415b199d0fa0554",
-      "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkxFS2tTMjEzUi1kVjdzQ05UY3hIMmNUd3VVVExRSWVZT2dzdDUyOWtMd3FYUnhqeDdEcnRkRk9jazI0REdzSGgxOThsaHotbTh4djlXUVlKQVNmMUZ4QmFxMDhNYnlpOXdJMzVhcnl1NEVlaVY1bzZNc2lVR3JBX1JLTWFnZTdNUVRiQk4tTEtTdldBekxYeFVKLURCQWUwTmFsTm1tRE5vb2JCMmV6c1EtcHJOdnVWbC1aRzhB?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-09-08T12:43:00+00:00",
-      "score": 67.81,
+      "id": "39e22657889ad01c",
+      "title": "Penélope Cruz Says It Would Be ‘Very Contradictory’ to Star in ‘Bunker’ and Refuse to Talk About Politics: It ‘Involves So Many Aspects of Where the World Is Right Now’ - Variety",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3BPNmV4N082cHpKcXhzRlc3WUtjTWZ6SlF1WjBwMWRZQ0tMaFR1emtvTmxKUmNYSk5XOHJJbzh5bXhFNEg1QmwyZnRHcTVrbXl5bkNPMnppRVR6TmI3WWtrYkhnNGlieWloM2xKMHppRTdhR01oMTR1cmZEV1lEamxiNXR3UnZnZjFLamVtdjZZQ250WXhweG13UjN2aHRZUnQybXNWSW9BbkVY?oc=5",
+      "source": "Variety",
+      "published_at": "2026-09-08T13:17:00+00:00",
+      "score": 65.1,
       "corroborating_sources": [
-        "The Guardian"
+        "Variety"
       ],
       "signals": {
         "source_count": 1,
@@ -111,14 +186,14 @@
       }
     },
     {
-      "id": "95578d7c5d25c4e7",
-      "title": "Conjuntura Política Internacional e os conflitos no continente Americano - 14h - sinesp.org.br",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV21NNGNrbUI2X3Vwdzg3UmxjdXZyMFloQmNUb2VYOE54TC1VbncxQm1BMDBfdHFMbmJZUHpURTF2bFFTYnA0SG5vdkFfdkQwbWJNNmpZTGs0Zjlib2l1WG1rTmc3a1I3ZElmY3N4UUVFZ0hkVlBobnh2clRQYnZzZ2g1bnR3cEhVS0tEQVo4SHNiV0JXTFZNSHdid080dmpvVF9kTEF3bmhGTTZqbDJid0ZTc0Y3b2w3YWNXVW9iQVUwaU5qNGZmVFdUeEJvU3M4ZWRpZ0QwLUcxVlpNNkJkOGZtRzg2Y2lGMVl3d0hzdWRKWDVBbXc?oc=5",
-      "source": "sinesp.org.br",
-      "published_at": "2026-09-08T11:20:57+00:00",
-      "score": 66.42,
+      "id": "d9bf2f4bd866618d",
+      "title": "Saiba como está a disputa para governador e Senado no Amapá pela pesquisa Real Time Big Data - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQME5JcUNYTlM4VktSeURibjJqRnE0RURzMDZyMXl3VEpWb25DeV9FOTBDNjdCVnFKcElDUVJTVlpOTE1HWGh2Y1hKa21sekZmdmp2ZFpQUVJ1SC1SSnByY3Y3QkMwNmVZVW95clBoVVcwQlJQTjF2WXJSR2VqZnIwZ3AxVi1XOHFvMWZFYWxUUFdfMVNrMWtRQlhnVE9mbUlQZUhNMzZuNnJpU0VtOS1Zd0U5TV9IM1V2WTJ0b0dvdjFxd2pTbFFF?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "score": 65.08,
       "corroborating_sources": [
-        "sinesp.org.br"
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -126,14 +201,29 @@
       }
     },
     {
-      "id": "20a253090cf164ea",
-      "title": "Alex Gibney calificó a Elon Musk de peligroso para las democracias y cuestiona su poder político - Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcERjd04wRU5wZEdLT0VEMnMwc1FCN0V5a01lcjVQcEFSQVBJS29Dd0I5RV9mczBha0YwZ2l6NDdKbGhER0RWZk1QdXN5NEkteEZBUEw1NlZjby1SMlBiVnpiSW0tNVFBZFZiZkNVSkRfUG9uTVprakVGQXJaRG50LUpMTVduQ0FMZWZVNkY3V1dCXzhGMzhPWVFkYUtzQVVqakxZbUJWRlpwbGtkeXNmdDV6aVh1Y3lRWlJmZDBPWmRIcXRvNVE2QnZKMNIB3wFBVV95cUxObmMwMTl5YlZSUXYtLVVnT1pCTUZPQzFOeXZ4bFZRdWJrSktpeHJIRS1temd1VHYtV1NuNVRJYUgtRHg4by0xZklLTmFSb290TXdvMGpZb0hnMDFMZ1YyeERJUXhzVHVOUFhXdlF1eWk4VE15c0pDVEozRmhJTklQbGpzTUlocHVyOXQ4UTRmNlVPWWRBb0EtSVV3ajZFMGhDZVozTmR6YkUzWTQwMWkxbFM0WTZLMThrZWVOVmVBTHoyNGhENzF6Y0FlSDZ3bTdMUGl3NXh5U3FnZjAzYkZV?oc=5",
-      "source": "Caracol Radio",
-      "published_at": "2026-09-08T18:33:03+00:00",
-      "score": 66.38,
+      "id": "57e61ef0a01e2c95",
+      "title": "Rubio viaja à América Latina para encontrar presidentes de direita - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTgxSUk5aE9EV1V2WWtYV1hhaVRwQ2dXMldFakJsSkZBNzM4S08xUFZSMlN6b2c3T29fZHRFa2thODgtVzAyNVFXMUs1b2JRRVVDWTNXUDdDMWkybTN5al9oQ2R0VGphUGF2V25XeWVIMDhCRGxqNGlDZzNyQ2ZJU2drRVBPbTdpMU9CWlNwRHpSRWNoQy1hOVNtZ0ZFR3VQd2M0dDdHZHhUaG1Lck1acTUxdVpoLWRnaTVN?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-08T20:24:00+00:00",
+      "score": 64.67,
       "corroborating_sources": [
-        "Caracol Radio"
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "22d110b0503ba602",
+      "title": "Mendonça diz ter sido monitorado pela PF, mas decisão não aponta vigilância nem espionagem; leia íntegra - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZzhoOG8xbXJ4R2hTcmRKbVNlWDNkSFJwQ2dYS2xqSG5NLV84T1RId2s3cUs0S0ZLbl9CeU13QUFYbXhFZC1jdHduYzNKY05idFppUWptT2RuX2pUVWg1bDRMZ2pYWERnUm1DdDlYLWpXSTk2Zk5Dal9sbUMwN000SHhiWDhsX0JsdU5HMm5FbmlQYWoxNjNNN1BDNVBHUTZWbVhVWS1XcHlDSEFSRDBSMXJxQ0x0a01qdkhyUmh4bEo1dHI3T0VKcjZGeTROMHdhakVaSnc2TU9QVEY0a3c?oc=5",
+      "source": "folha.uol.com.br",
+      "published_at": "2026-09-08T16:27:00+00:00",
+      "score": 63.29,
+      "corroborating_sources": [
+        "folha.uol.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbDBFVVBlTnNrSkRMb29KT0NrOW5jY1J4YU1EUVAwVUJyZTlZOVFDQVZxczd0c05oN1VJR2EyZUpGYVAwWlN1UXhnaFFzTThab0dvY1QwQ3F4cWQzblB5VFZraWdDUTdDYWRLQXY4eGs4eGlUSVNfUXl4Rk5KZzBpT3lsOEhYUVlwVU5kYVdfal9qVmlOUEtrNk8zb3NhT0RqN2gyazJWQjFnYVZiYmw1N0ZvODlIWkJsMWtEdks0a0R2RVBwX2VpUUZxazk0eTRVdGdz?oc=5",
       "source": "The Times",
       "published_at": "2026-09-08T10:45:48+00:00",
-      "score": 65.84,
+      "score": 62.76,
       "corroborating_sources": [
         "The Times"
       ],
@@ -156,14 +246,14 @@
       }
     },
     {
-      "id": "24629d5610598c11",
-      "title": "Orsi recibió al presidente del FA y avanza en el trazado de estrategias de política exterior - noticias.vtv.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazlWQTdSRnBWclFlaUtNVDlMaUM5bEk2dnc5N3hXN0VJNnhqS2wxR1lwejZvRFFrRDR1OUl6SV9BcXdDWllCRERtX3BKVG4wUm9Kek5Gdmh2SHAtTEJMWlI3c1ZQWnZmbVV3UDU5VGFoam5BQjV1Sm1NeTNxamd2elBNbWZPQU9fMTZuR3BiMWJBcGV0aEZmdVRHTDFmelNsNGZHR09yYnA2dVVqSGtUb29tUzJSc1J1N1liZnNB?oc=5",
-      "source": "noticias.vtv.com.uy",
-      "published_at": "2026-09-07T22:18:16+00:00",
-      "score": 63.49,
+      "id": "20a253090cf164ea",
+      "title": "Alex Gibney calificó a Elon Musk de peligroso para las democracias y cuestiona su poder político - Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcERjd04wRU5wZEdLT0VEMnMwc1FCN0V5a01lcjVQcEFSQVBJS29Dd0I5RV9mczBha0YwZ2l6NDdKbGhER0RWZk1QdXN5NEkteEZBUEw1NlZjby1SMlBiVnpiSW0tNVFBZFZiZkNVSkRfUG9uTVprakVGQXJaRG50LUpMTVduQ0FMZWZVNkY3V1dCXzhGMzhPWVFkYUtzQVVqakxZbUJWRlpwbGtkeXNmdDV6aVh1Y3lRWlJmZDBPWmRIcXRvNVE2QnZKMNIB3wFBVV95cUxObmMwMTl5YlZSUXYtLVVnT1pCTUZPQzFOeXZ4bFZRdWJrSktpeHJIRS1temd1VHYtV1NuNVRJYUgtRHg4by0xZklLTmFSb290TXdvMGpZb0hnMDFMZ1YyeERJUXhzVHVOUFhXdlF1eWk4VE15c0pDVEozRmhJTklQbGpzTUlocHVyOXQ4UTRmNlVPWWRBb0EtSVV3ajZFMGhDZVozTmR6YkUzWTQwMWkxbFM0WTZLMThrZWVOVmVBTHoyNGhENzF6Y0FlSDZ3bTdMUGl3NXh5U3FnZjAzYkZV?oc=5",
+      "source": "Caracol Radio",
+      "published_at": "2026-09-08T18:33:03+00:00",
+      "score": 62.56,
       "corroborating_sources": [
-        "noticias.vtv.com.uy"
+        "Caracol Radio"
       ],
       "signals": {
         "source_count": 1,
@@ -171,14 +261,14 @@
       }
     },
     {
-      "id": "cc1b798f253449b8",
-      "title": "Infantino é alvo de nova denúncia na Fifa por relação com Trump - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnJNaThiNGNUaVZPNm1NbkpiaVRDVnluemJvdDg1cl9LQ1hhQUFGYVpHelhEZl9PV21UeXZzQ2N1WmJBeHphUTJMQ08xYms4eHc3U2djQTRhQWpoQ2U4SGdiZnBNUUtXUEtUMllkamwza3Niay1PVHIycFFZVVdHVkNJOVhiYUxSTmYyand3MXYtWlNEZFNwZ2dUQ0NCNUI1dVNzSDJncWpIVHNo?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-08T11:51:32+00:00",
-      "score": 61.93,
+      "id": "6a631254f6c5b1b7",
+      "title": "Lula é desaprovado por 57% e aprovado por 40% em SP, diz pesquisa - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY29jZ1ZIVXlJU0hUVTZRTjZTRGJDam1OR1ZYS2hZSnIyS18tQUFYUzJTQkJFQmptRDR4Yjh3ZS1Fc0ZSZS1tR1FEUnRLX1lZMFJqc25wSk5SMHBzdFBGakJTMWVPRG9ackMtb2JYYnhXWW1Nb1A2R2RzNm9nTEYxbHc3XzIxTlcxVmJlaDBIa3pDWFB5VG03MzJNNnVYbFNxQVhrcmxLYTV4SUNXY01SSQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-08T15:45:11+00:00",
+      "score": 62.56,
       "corroborating_sources": [
-        "poder360.com.br"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +281,54 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2lPTmI5UlVJWHB5R29sZjBmN2taOW1zTFNYRUVTdDF3c2tOZThYS3J0Tk5IbWdMNzJoY09qTVI1UXBpS21HTkswZEc2dkpma1pjSzhiQlRqYlBYc2x4Tm54eTFna0pyeFpjaGxYaC1nX1ZYZVNpUFY0ZnhkZzA2TTJjUUNNZEUwZTRWRjhtalNWYncwN0RCR2ZWY1o5UmRKd01MWHBFRlhUd01YdU9ySkFB?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-08T02:10:00+00:00",
-      "score": 61.32,
+      "score": 58.9,
       "corroborating_sources": [
         "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "20e27def075c0d26",
+      "title": "Infantino é alvo de nova denúncia na Fifa por relação com Trump - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnJNaThiNGNUaVZPNm1NbkpiaVRDVnluemJvdDg1cl9LQ1hhQUFGYVpHelhEZl9PV21UeXZzQ2N1WmJBeHphUTJMQ08xYms4eHc3U2djQTRhQWpoQ2U4SGdiZnBNUUtXUEtUMllkamwza3Niay1PVHIycFFZVVdHVkNJOVhiYUxSTmYyand3MXYtWlNEZFNwZ2dUQ0NCNUI1dVNzSDJncWpIVHNo?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-08T11:51:32+00:00",
+      "score": 58.76,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3fb73cb8d994df2e",
+      "title": "Orsi recibió a Pereira para dialogar sobre política internacional y el FA cuestionó la ausencia del Partido Nacional - El Debate - Uruguay",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMElmUmo2MkFpV0tCX2h1eHFHOTV1VUhfaEJuSEpFY2U5QjFrTFJMc1NWdjZYYWQ0ZUd3ZUhVajM2N0VlNkphQnlfRlgxamFuWFAtRHlkSEtnYlYySGxjXzJGY2p0eGxVdkdGNUg0RXVYRWhwR1ZTRlM1Rmh2N29WM0liNGRqRzdrWDh2WkFnU2Nwem1PRVhYczJpTmhDQmxvd2FMdWRsT0k1N3hibks5Q1NPVWVqamFlaHl5c1hQTU84NkZKdm1TYnlzOEpmbGVla2VZc0NsUTdIbGp2VkRNQkpCZG9zakpyVjhrZjZ0RFlISkhaX2VkQ3FYSmhFazQ?oc=5",
+      "source": "El Debate - Uruguay",
+      "published_at": "2026-09-07T16:01:00+00:00",
+      "score": 57.66,
+      "corroborating_sources": [
+        "El Debate - Uruguay"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "796fe645a3db1d46",
+      "title": "Japão já fornece armas ao Sudeste Asiático, afirma analista - Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JOZlpOcG8tRlZkTmxHNDRRYmRHV2tza1ZJSVNwT1Z2OEx6YWZjU2tITHIzVm9PRUN3eXpOZnB3TDlpZWowWC1ERVBfM0stR2s0dTRCM1Juell3RTA0MFQyTHdsTGVWSDg0R2ZkT0VCby1Obks5WXAxQ3dHU2oxMnNQaE9rYV9Dc0hfMWc5ZGplVkZnSy1aRUtSNlpjOXRmY3MxOHEwaEpiMlB2Z2hqWjQ4c3JfT2t5dWc?oc=5",
+      "source": "Tribuna do Agreste",
+      "published_at": "2026-09-08T13:41:00+00:00",
+      "score": 57.49,
+      "corroborating_sources": [
+        "Tribuna do Agreste"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWC11LThoM3FrQi05N3E1Y2xpT09FNWh5WGhNSnFBbGxNZ1pWYXp1NlExMmUydVhzZi1BRWd1TXZ2c2UxclVqRUsxUkRSOF9WX0c5ZmN3ZERwMm12OGdYVl9zbm9QMHFncHFOelphWEhyLVBmeUVIaFNBM2hXQXBwbFluVzBPWmJyREswT0x4Qk9kNmhKLXY1NjFjVFlaNWhQdjFmNEZxbjItQjlZZ0NKSWRqYXBPbVdpcTZqeUpDQWdWVGZYM18zUTRuOHR0cmVuSWtj0gHYAUFVX3lxTE1GTEFLZ1hoXzdzZFN6ajFIWDU5cmxRejk4RlNTVFFTazh5ZUcwRWF1WFktTjlqTERJMGc4TXNhLVVycU5rcTRGQVhTR3B5RTVlS1dnUWVOMEdOOEFmWFdlLWJhYUswYlBUX2V5WWo1dnMtSm9uS0V3Wmx4aXRTbE8za1lGSTBtOXN3Zmx5dWZ0dkFEVmg3ZHdtRlNtR2JySkJDTFp2R2ZNUW52V1ZwZ3FqN19JcnVHSFB5ZFlmX0k1YV9fNVdHSDZhT1BHZWt6S1NhVlhzVTEyeg?oc=5",
       "source": "Elplural.com",
       "published_at": "2026-09-08T13:20:00+00:00",
-      "score": 60.45,
+      "score": 57.15,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -216,14 +351,14 @@
       }
     },
     {
-      "id": "6667932de93239fe",
-      "title": "Saiba quais pesquisas eleitorais podem sair nesta 3ª feira - poder360.com.br",
+      "id": "5ba0aa8318e053f5",
+      "title": "Saiba quais pesquisas eleitorais podem sair nesta 3ª feira - Poder360",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS252Y3B5RDV1eXYyOEM1ekhKVS1hVlpyWGVVaHRLRGIwbTdKb2NEUS1BV2Y4LTAwa09KWlU5dTh1OFBOV3Jxd3dWRWVOR1JraXZqenU1TURoRDh4dDExeVZ5VW5IamNMRGxhMDZTc3B0R1l0blBmTi0tTDF3dHZtRW5tNV9tVkFtemdNLTdmcjNKN2pjSzdFUXZ6X0ZWUjdNLUZrNEJMOU5MZFRVQkE?oc=5",
-      "source": "poder360.com.br",
+      "source": "Poder360",
       "published_at": "2026-09-08T10:03:05+00:00",
-      "score": 60.14,
+      "score": 57.13,
       "corroborating_sources": [
-        "poder360.com.br"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -231,14 +366,29 @@
       }
     },
     {
-      "id": "086d945bf75cfbc5",
-      "title": "Real Time Big Data divulga pesquisa para governador do Amapá - gazetadopovo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQME5JcUNYTlM4VktSeURibjJqRnE0RURzMDZyMXl3VEpWb25DeV9FOTBDNjdCVnFKcElDUVJTVlpOTE1HWGh2Y1hKa21sekZmdmp2ZFpQUVJ1SC1SSnByY3Y3QkMwNmVZVW95clBoVVcwQlJQTjF2WXJSR2VqZnIwZ3AxVi1XOHFvMWZFYWxUUFdfMVNrMWtRQlhnVE9mbUlQZUhNMzZuNnJpU0VtOS1Zd0U5TV9IM1V2WTJ0b0dvdjFxd2pTbFFF?oc=5",
-      "source": "gazetadopovo.com.br",
-      "published_at": "2026-09-08T10:00:00+00:00",
-      "score": 60.09,
+      "id": "846bd9b5d2bd90c2",
+      "title": "Orsi recibió a Pereira para hablar de política internacional; el presidente del FA cuestionó rechazo de los blancos a reunión conjunta - Teledoce.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZHdjdGVtenJrcTdjcjEzMURQa3RDVURoXzRRaWctUGVxRzlNaTI4MTQ1UGZybmpaTVBHUEZMdVR3cG9abjhINm9UbUxRQXhUbnAwOC1Ldm9fa3RMZTMwdngxV2JlWUkwOGRJMFJvRlh5UTJVb0tVbWVKanBtRG0yUU9ZaHNkVGRTSXZudDJXNjBxbUdEdXhlM1BxMkVMY2VNQ3JLSEJKM2lVaGc4LUhFR29PcGF5ZmlpZGxNQWFRVTFyTXhRWUhVeDRZU1gzMVFaQVZ6Q3k2YVp2WXdWWVAtWEhyYWtSRFQ5MVotem1XYnRoWERncWROWTgtZ3FjU21Yb0x1TzM2MUZ0STEz0gGSAkFVX3lxTE9pNHpjbHRwN000QnZnR0JoMktiUGR3Z3BhWjY3bFV5OFVNWkgyOFZpRmJVZ2J4V2pqelJORkpvekVKbjJwR0x0bXV3ZlZPa2I0OVhpdFFtVFowRm9RZEI0eDJXV0ZLRk1VbHRMVWVEdkpFbWpHeGlxZFQ2Q19kZFpJSUxPcHFpMmRZcHpLOVprYTlEQmpyS0plSFZoUHJsWEFUOTlBbTdjcGR2NUdLelNYaHdhZ3FNSjF4aEs5YlNYYzRNRHRPeW5XZ2ZmdVpZNHRYVmpnQTRXSGw1aUpvaE0teWJPQ296bC1lOVZuSlBkTGpzVzVabXFPc0VhOGtZbGF4RVdZelpYUnlXRXdYRjJKcHc?oc=5",
+      "source": "Teledoce.com",
+      "published_at": "2026-09-07T14:47:28+00:00",
+      "score": 57.01,
       "corroborating_sources": [
-        "gazetadopovo.com.br"
+        "Teledoce.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a77ceef568afb95c",
+      "title": "La ministra de Estado para la Cooperación Internacional destaca que el diálogo, la mediación y la diplomacia humanitaria son pilares fundamentales de la política exterior de Qatar - Qatar news agency",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNS2xfblBFTU1YS0ZiX19IUEtIN1dRbXhEWTJZeGdmM3MyWm95V2pvN1JXaTVUTVpURzltU1hUdHBuRjBoYUtFejdkd1VocGF5U0c4V3hrcFdxUGNiVXFSbE9wREFaMDBNd0JVVHZXTDlMaVBhUmpnVU53NkIxQzNIY3VrcVQ1YVkyV1lNalFnU2p0c2M0YzhjWVY3RC1iM3BnRnpQUjFYYXZDV0lLVWt1T3I4M1k1LWlvZExTaWVXd0Y5dFExQXAxRTB5c0lnckVlamk5eWhTaUtmZy1pQ19xTlJjemRHaDF0VURLdm1FZWo1U0hldTVPWmVNQjMtcDZuNGx0RThiVGc4UTlTcndUbUVoSGFUdVJlaXBPSWkzaFJNeG5ibG1BSWNCMWtQTVBOTjZLMm9sQVUySjVDbUFJVC1oaEthSmh6eVNB?oc=5",
+      "source": "Qatar news agency",
+      "published_at": "2026-09-07T14:28:38+00:00",
+      "score": 56.85,
+      "corroborating_sources": [
+        "Qatar news agency"
       ],
       "signals": {
         "source_count": 1,
@@ -251,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORzNMcDZhZWU3WEstTVQyeHdGcmZ6c0NreFVGekVHTXltT2tyUkc4OEJwTGg0TnRFaEZQeVlJQVVrekRrdHFDV3V2ZFpSS3ROWTRsb1RRUTNQQVk0ZDFkVXZRdEdjdGtaal9vaGpaNllhbHVWUS1oWUNQZVBnMTQ1UFE5XzJQQy1nZmFYTW1GQ20xb3h0UldPS1RoOV9KSjYxN3BaZ1VvSG5NUnliZ2xR?oc=5",
       "source": "Brasília in Foco",
       "published_at": "2026-09-08T12:41:01+00:00",
-      "score": 59.77,
+      "score": 56.53,
       "corroborating_sources": [
         "Brasília in Foco"
       ],
@@ -266,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGlWWEZLU0JyNmZDMlZLd2hsS3liVmFQWVFYOWhDVjZWRl9wUXdqQlVzek5mal9nc3VpajBPZHB3RUJ5eW0zQTZySXZiR3VWMkUwNld5Sk9VaEhwdmlrZzdsRmp0b0x5aGVTZVUwRGRTb2NBOFl6ZmFEcFdWRXc2QzdMYU1LTGF3Rjl5OWFMRm4wd21RWTZoTzgyYTZQMnNTZVR0NHpwNjA2N2RJanFVOW5QVEM3Y000VndEVkVSRQ?oc=5",
       "source": "O Mundo Diplomático",
       "published_at": "2026-09-08T12:30:24+00:00",
-      "score": 59.59,
+      "score": 56.36,
       "corroborating_sources": [
         "O Mundo Diplomático"
       ],
@@ -281,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzJGUEkwYkx1eHFrekZ2Q3ZObVNZNEp5RGxhZ1AwMXZNQ2dSb1VXNUJ6bUJQLUlHeWhncTZfSlRvUjFMLXF0U19MX0pyeW9aNVBNazRPTVBtekZRM2dCN1RqRkkzT1pMUWwxRE9QS2lJdU43a3dCRDBKZGo1MjBHbXVfUmIyZ1FJcTV4TTBtaGdveTliLVBHSC1SU3dKU09hVzF5NlJQRDNkamk5QjB5WGtR?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-08T12:23:51+00:00",
-      "score": 59.48,
+      "score": 56.26,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -291,164 +441,14 @@
       }
     },
     {
-      "id": "3fb73cb8d994df2e",
-      "title": "Orsi recibió a Pereira para dialogar sobre política internacional y el FA cuestionó la ausencia del Partido Nacional - El Debate - Uruguay",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMElmUmo2MkFpV0tCX2h1eHFHOTV1VUhfaEJuSEpFY2U5QjFrTFJMc1NWdjZYYWQ0ZUd3ZUhVajM2N0VlNkphQnlfRlgxamFuWFAtRHlkSEtnYlYySGxjXzJGY2p0eGxVdkdGNUg0RXVYRWhwR1ZTRlM1Rmh2N29WM0liNGRqRzdrWDh2WkFnU2Nwem1PRVhYczJpTmhDQmxvd2FMdWRsT0k1N3hibks5Q1NPVWVqamFlaHl5c1hQTU84NkZKdm1TYnlzOEpmbGVla2VZc0NsUTdIbGp2VkRNQkpCZG9zakpyVjhrZjZ0RFlISkhaX2VkQ3FYSmhFazQ?oc=5",
-      "source": "El Debate - Uruguay",
-      "published_at": "2026-09-07T16:01:00+00:00",
-      "score": 59.48,
-      "corroborating_sources": [
-        "El Debate - Uruguay"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6d0943cca4729da6",
-      "title": "Lula fará giro por 3 Estados do Sul onde Flávio lidera pesquisas - poder360.com.br",
+      "id": "bad75ca147c3f4d0",
+      "title": "Lula fará giro por 3 Estados do Sul onde Flávio lidera pesquisas - Poder360",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjllUnl5MmZZMU1qUHpCYlZxYklmRmFnUE9NeWNmNVVrWlFVLXM5aGVEbGR2djlpZlktbnpfLURQanRTMmxuR1lqVmdtd1VpZFhKOHlmUDUxNnJlRGxObUtxWXJIYWowQXRhRUFja3lfWEoxeU50eG9sUlNrUjB5WjdDcGlwcjZrVnk3djg0dmpoR3lQeU1ubV9ybGxPTl9VT1RvMnN4UU1vQQ?oc=5",
-      "source": "poder360.com.br",
+      "source": "Poder360",
       "published_at": "2026-09-08T08:58:05+00:00",
-      "score": 59.12,
+      "score": 56.19,
       "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "846bd9b5d2bd90c2",
-      "title": "Orsi recibió a Pereira para hablar de política internacional; el presidente del FA cuestionó rechazo de los blancos a reunión conjunta - Teledoce.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZHdjdGVtenJrcTdjcjEzMURQa3RDVURoXzRRaWctUGVxRzlNaTI4MTQ1UGZybmpaTVBHUEZMdVR3cG9abjhINm9UbUxRQXhUbnAwOC1Ldm9fa3RMZTMwdngxV2JlWUkwOGRJMFJvRlh5UTJVb0tVbWVKanBtRG0yUU9ZaHNkVGRTSXZudDJXNjBxbUdEdXhlM1BxMkVMY2VNQ3JLSEJKM2lVaGc4LUhFR29PcGF5ZmlpZGxNQWFRVTFyTXhRWUhVeDRZU1gzMVFaQVZ6Q3k2YVp2WXdWWVAtWEhyYWtSRFQ5MVotem1XYnRoWERncWROWTgtZ3FjU21Yb0x1TzM2MUZ0STEz0gGSAkFVX3lxTE9pNHpjbHRwN000QnZnR0JoMktiUGR3Z3BhWjY3bFV5OFVNWkgyOFZpRmJVZ2J4V2pqelJORkpvekVKbjJwR0x0bXV3ZlZPa2I0OVhpdFFtVFowRm9RZEI0eDJXV0ZLRk1VbHRMVWVEdkpFbWpHeGlxZFQ2Q19kZFpJSUxPcHFpMmRZcHpLOVprYTlEQmpyS0plSFZoUHJsWEFUOTlBbTdjcGR2NUdLelNYaHdhZ3FNSjF4aEs5YlNYYzRNRHRPeW5XZ2ZmdVpZNHRYVmpnQTRXSGw1aUpvaE0teWJPQ296bC1lOVZuSlBkTGpzVzVabXFPc0VhOGtZbGF4RVdZelpYUnlXRXdYRjJKcHc?oc=5",
-      "source": "Teledoce.com",
-      "published_at": "2026-09-07T14:47:28+00:00",
-      "score": 58.78,
-      "corroborating_sources": [
-        "Teledoce.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7fc6bf3319a0303e",
-      "title": "‘Estadão’ publica série de entrevistas com CEOs do mercado financeiro sobre eleições - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjR4OEFKUHkyRnhLWkZ1LXVtdkV0djNESFRFV3ZOQ1I3dUtQMjJNMDdUZ241MW8wdXdsSHBUb3B0Ync1MEVMZFJwN3JOVjdrVEktQVJDR2d0bVBtWFBFRjVEYmFHcUwwZXZiSGVSYkFJbVRncFQyYTdyZVNJRlJqTE5sMVFxYXgw0gGOAUFVX3lxTE5MWkZvcm9YdGZDQWJvR0RCQTF5YXliWU0wbUJUNG5YRVRSTzVGX0J2YWd5VWFlU092bjJrbGc3WFFkQ183Uk9SWEU5Skw1cHhfeV80aVc1emN4Zm55c1Awc2hyYmRab0VUdGNJcnVlN1ZpaDlOWGd2UU1OT1A5amdhTWNTcXVqZ0lHcjEwVWc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-08T08:30:00+00:00",
-      "score": 58.68,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a77ceef568afb95c",
-      "title": "La ministra de Estado para la Cooperación Internacional destaca que el diálogo, la mediación y la diplomacia humanitaria son pilares fundamentales de la política exterior de Qatar - Qatar news agency",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNS2xfblBFTU1YS0ZiX19IUEtIN1dRbXhEWTJZeGdmM3MyWm95V2pvN1JXaTVUTVpURzltU1hUdHBuRjBoYUtFejdkd1VocGF5U0c4V3hrcFdxUGNiVXFSbE9wREFaMDBNd0JVVHZXTDlMaVBhUmpnVU53NkIxQzNIY3VrcVQ1YVkyV1lNalFnU2p0c2M0YzhjWVY3RC1iM3BnRnpQUjFYYXZDV0lLVWt1T3I4M1k1LWlvZExTaWVXd0Y5dFExQXAxRTB5c0lnckVlamk5eWhTaUtmZy1pQ19xTlJjemRHaDF0VURLdm1FZWo1U0hldTVPWmVNQjMtcDZuNGx0RThiVGc4UTlTcndUbUVoSGFUdVJlaXBPSWkzaFJNeG5ibG1BSWNCMWtQTVBOTjZLMm9sQVUySjVDbUFJVC1oaEthSmh6eVNB?oc=5",
-      "source": "Qatar news agency",
-      "published_at": "2026-09-07T14:28:38+00:00",
-      "score": 58.6,
-      "corroborating_sources": [
-        "Qatar news agency"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2a7f1e7806709973",
-      "title": "Why a far-right party's victory in Germany is a 'serious moment in Europe' - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUJ4VW53dEJBbzE4TGMtSGF6WnJTQXJrYVBsdUpDbGZDaFJ5OFd5ZGIyT3BYV2VHVUpldENFMXp5SlZsUTN4NFNvX05KLUhDc3FQQjB6RFZ2YlIxRmRSaXFpU21CcndYTmRJWGdRUVMzVGFvakwyUEpySGQ3R08xbFV2TzdlektrSXFtbTRGN3ludU56TlpDMGJuWGZFakVVZFJFS0Z0LV9ZMS14VFNydw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-09-08T02:05:42+00:00",
-      "score": 58.27,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9daf31f87608a9b2",
-      "title": "Extrema direita avança na Alemanha: por que o fenômeno preocupa a Europa - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYllONFlpaFdaU2lzTVVDOGdiYmlsdjBjWU5QQ1Z5b2o2LUlJM1lQVEd2N25CMXZTcTk0aFBiOThJaGtXSXhwX2I1OWVqcVVMLTVuUDI0QlFuRWdKejlnN0lvcXhtdnBQZE5RcWIza3RjTlJ5dFV4elI1T3JaLXpBREJ2dVduMlZzYVV3Rndyank1bk11NjF1a0JicEVLZjI4d1hTbnJjQUhjdnlh?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-09-08T01:55:00+00:00",
-      "score": 58.13,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ae9783b95853bffb",
-      "title": "Jared Kushner Is Now One of World’s Most Powerful Diplomats - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFJndjJucXM5ZlE5NWVkaVlMdlBCU2tjQWJORE03N2RfVnhqUlQydHFSdWpUWHhyYmpNQTFhaV9feC14TFVZdE5CVFVKNHJIeEFyYkptYW01aTJKMmtnckd2MzRCQmMzZjYxYnl5al9OTDh1dWxSVzhLbDYxaEFrOFZKcmZRazlUUWwxWWhiQWIxMUl6STNiOG5FSUtpYzd6YmVldHdB?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-09-08T11:03:00+00:00",
-      "score": 58.12,
-      "corroborating_sources": [
-        "WSJ"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f651a0b8c70832b6",
-      "title": "¿Cuáles son los alcances de la victoria del AfD, el partido de extrema derecha en Alemania? - Reporte Indigo",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHRUQkhUMzgyMUEtS0htakNNU3dJQjZlMmJ6QmdiTjBNb084NzZOcTRDMzAwejdReTNlLTdLaG81M0ZHT0NHLW5CZ0dWMTc0UXFJMmRjWkxoSEZ2QUM4YTJPU3k5TGRYWGRhWHcteVd6Mk9pRTJqUXBVTG1kRDdCMmxKa3ltbGdaNkpRYzRBM1o3aTBmT3l4YXVSVVlRM1F0djk0VEltV0dHWWJhTXdHNWRTMGpPYmZ5TTRfbU40R2Z5b2Z6MWJDVG54SDRUcHR4a3JKZGRDNnc3NXdwZjU3ZkpTS09Fd9IB6wFBVV95cUxPbDZFc19IbXhtVnR6QzJlWnRaWC1Pamw4dDlVTkpvdzFUNFVoRGZ3el96d0g2c1RLenZjc0g3ZzA3dzVvTzlTOVY4S3NGT0tCVl9kRk94b3pVelJiUkhSV0k3OFVWcmg1akFQUHMtdlp0Vlo3SHFaR0o1clQzOWp4dUdPcmp4VHV4VHB5b1dMcGpKaDNna2p2aXBqR193cHFJNWNabmMtYk5vcG5DRkxrMmhaR1g3ajhGQ2NxYzhnNFFab201STlXZkN5S0xoWUhlZDJtMjRBUlhLcWhZSC1pVlRTYlhwNFB6cVZJ?oc=5",
-      "source": "Reporte Indigo",
-      "published_at": "2026-09-08T01:27:27+00:00",
-      "score": 57.78,
-      "corroborating_sources": [
-        "Reporte Indigo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "83c7735961e09161",
-      "title": "Reino Unido prohibirá productos de asentamientos israelíes en Cisjordania para proteger el proceso de paz - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSkJRcVRRaW1NNlRaZkNkLUZPZ2x0NXNnQ0YxRG5ZZHhsbXRZX1luR2t1UW9lX0NsUjA4R2pMeEZVblFUSV9qVHlXb0k1Rkw2b21WODNRRkRJbHRfQUU3YzFpMm1NTEtUc2pybWxGX2liVkNabnhGd0R2X0RESVhqM2RGWmhaSnZ6THNpNVN2bHNhNE9FclJGdjh6MWV4MGNIX1N3OHNSODBOWXBQV3I1UjlWck9EcEk0a3V5UUVDSEY3TFZFQU4tVEp6YXF0bTh6dU9DZS1FLW1hQmZSYTV5c1lsYmrSAeoBQVVfeXFMT3F5dU5RQ1JtY2IwUWFySHZQTURPWDc2dmk5eWNINHJLeFVPRUFRUnA2Rm1jWkZqeG9HdHNndHBVdnpnejJKUWdNZmFSSThZZmpnMEJRdExXTTJUWk00SUJ3V1BTOGYtOEFBN1M0MnJjVXFFbE9udWh2Z1h3cm8tWFdfTVVid18yY3NGbEYwQkxJNmRuMzNaNy04bjduU0hJeU9JWEx0ZHA3dEl2STg3WVA5NzFnM3B6WVdqaWUzZVd4SGxhdnZ6MkZqRmNWRXp3TEZXSDJNcHBaS1RuMDd2bHVHOFlBRVVxS0VR?oc=5",
-      "source": "Cadena 3 Argentina",
-      "published_at": "2026-09-08T10:28:48+00:00",
-      "score": 57.56,
-      "corroborating_sources": [
-        "Cadena 3 Argentina"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f63309840b32e2bc",
-      "title": "Highest paid world leader to get salary increase of $1 million - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JZTJzVVhESzhHZzFtdGFCXzVxNkp2eGJPN0x0VVRJSnZKd3pQVUlHYnVmQVBZQ1RYbWZXWXZVQXhyVTlWYi1qM0xWaHVTTkxtX0d4VmxSaGE4UQ?oc=5",
-      "source": "BBC",
-      "published_at": "2026-09-08T09:20:05+00:00",
-      "score": 56.46,
-      "corroborating_sources": [
-        "BBC"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
