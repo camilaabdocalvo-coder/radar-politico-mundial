@@ -1,19 +1,109 @@
 {
-  "generated_at": "2026-09-07T22:51:44.377393+00:00",
-  "next_update_expected_at": "2026-09-08T02:51:44.377393+00:00",
+  "generated_at": "2026-09-08T04:43:18.126299+00:00",
+  "next_update_expected_at": "2026-09-08T08:43:18.126299+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "caf7568de994e0c5",
+      "title": "Urgencia en la Política Exterior: Un Llamado a la Acción - Partido Por la Democracia (PPD)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDFHRE5KeV9TdGxJYUZYTkRYYmt4M2EwZzViOUFuZFpWMERRZzVBNnNUNTFvV2ltZGNlaFRzczNsRTZ4ZTJVajYxeVpOQy1jYkNpX0dkSWZSZmdRSDFuS0hYVi0xMWZvRXZZS0lUQ2djR0t1ZmlTTklZbzVaY21xMmJibXlGUEdwQ3c?oc=5",
+      "source": "Partido Por la Democracia (PPD)",
+      "published_at": "2026-09-08T00:53:51+00:00",
+      "score": 86.94,
+      "corroborating_sources": [
+        "Partido Por la Democracia (PPD)"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "24629d5610598c11",
       "title": "Orsi recibió al presidente del FA y avanza en el trazado de estrategias de política exterior - noticias.vtv.com.uy",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazlWQTdSRnBWclFlaUtNVDlMaUM5bEk2dnc5N3hXN0VJNnhqS2wxR1lwejZvRFFrRDR1OUl6SV9BcXdDWllCRERtX3BKVG4wUm9Kek5Gdmh2SHAtTEJMWlI3c1ZQWnZmbVV3UDU5VGFoam5BQjV1Sm1NeTNxamd2elBNbWZPQU9fMTZuR3BiMWJBcGV0aEZmdVRHTDFmelNsNGZHR09yYnA2dVVqSGtUb29tUzJSc1J1N1liZnNB?oc=5",
       "source": "noticias.vtv.com.uy",
       "published_at": "2026-09-07T22:18:16+00:00",
-      "score": 82.78,
+      "score": 76.13,
       "corroborating_sources": [
         "noticias.vtv.com.uy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c470e961a36b8af6",
+      "title": "Cury reforça críticas ao STF em sabatina e diz não querer carreira política - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2lPTmI5UlVJWHB5R29sZjBmN2taOW1zTFNYRUVTdDF3c2tOZThYS3J0Tk5IbWdMNzJoY09qTVI1UXBpS21HTkswZEc2dkpma1pjSzhiQlRqYlBYc2x4Tm54eTFna0pyeFpjaGxYaC1nX1ZYZVNpUFY0ZnhkZzA2TTJjUUNNZEUwZTRWRjhtalNWYncwN0RCR2ZWY1o5UmRKd01MWHBFRlhUd01YdU9ySkFB?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-09-08T02:10:00+00:00",
+      "score": 75.39,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "243b196887079d86",
+      "title": "Deputados e pastor Silas Malafaia se encontram para manifestação do 7 de setembro 📲Leia mais na #Folha: folha.com/politica 🎦Anna Virginia Balloussier/Folhapress #politica #videosdafolha #reportagem - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tTVdFQ1JqOWppcUh1TlEzTlYxcTdnR0hHTlUtbGZSRUNrY0h1a1l5N1JrejB5c1E5cExQMlNkR0YyOWRTYTRmVkFCOWl1a3AyXzdWR0ZR?oc=5",
+      "source": "instagram.com",
+      "published_at": "2026-09-08T01:15:32+00:00",
+      "score": 74.35,
+      "corroborating_sources": [
+        "instagram.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2a7f1e7806709973",
+      "title": "Why a far-right party's victory in Germany is a 'serious moment in Europe' - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUJ4VW53dEJBbzE4TGMtSGF6WnJTQXJrYVBsdUpDbGZDaFJ5OFd5ZGIyT3BYV2VHVUpldENFMXp5SlZsUTN4NFNvX05KLUhDc3FQQjB6RFZ2YlIxRmRSaXFpU21CcndYTmRJWGdRUVMzVGFvakwyUEpySGQ3R08xbFV2TzdlektrSXFtbTRGN3ludU56TlpDMGJuWGZFakVVZFJFS0Z0LV9ZMS14VFNydw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-09-08T02:05:42+00:00",
+      "score": 72.31,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9daf31f87608a9b2",
+      "title": "Extrema direita avança na Alemanha: por que o fenômeno preocupa a Europa - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYllONFlpaFdaU2lzTVVDOGdiYmlsdjBjWU5QQ1Z5b2o2LUlJM1lQVEd2N25CMXZTcTk0aFBiOThJaGtXSXhwX2I1OWVqcVVMLTVuUDI0QlFuRWdKejlnN0lvcXhtdnBQZE5RcWIza3RjTlJ5dFV4elI1T3JaLXpBREJ2dVduMlZzYVV3Rndyank1bk11NjF1a0JicEVLZjI4d1hTbnJjQUhjdnlh?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-09-08T01:55:00+00:00",
+      "score": 72.1,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f651a0b8c70832b6",
+      "title": "¿Cuáles son los alcances de la victoria del AfD, el partido de extrema derecha en Alemania? - Reporte Indigo",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHRUQkhUMzgyMUEtS0htakNNU3dJQjZlMmJ6QmdiTjBNb084NzZOcTRDMzAwejdReTNlLTdLaG81M0ZHT0NHLW5CZ0dWMTc0UXFJMmRjWkxoSEZ2QUM4YTJPU3k5TGRYWGRhWHcteVd6Mk9pRTJqUXBVTG1kRDdCMmxKa3ltbGdaNkpRYzRBM1o3aTBmT3l4YXVSVVlRM1F0djk0VEltV0dHWWJhTXdHNWRTMGpPYmZ5TTRfbU40R2Z5b2Z6MWJDVG54SDRUcHR4a3JKZGRDNnc3NXdwZjU3ZkpTS09Fd9IB6wFBVV95cUxPbDZFc19IbXhtVnR6QzJlWnRaWC1Pamw4dDlVTkpvdzFUNFVoRGZ3el96d0g2c1RLenZjc0g3ZzA3dzVvTzlTOVY4S3NGT0tCVl9kRk94b3pVelJiUkhSV0k3OFVWcmg1akFQUHMtdlp0Vlo3SHFaR0o1clQzOWp4dUdPcmp4VHV4VHB5b1dMcGpKaDNna2p2aXBqR193cHFJNWNabmMtYk5vcG5DRkxrMmhaR1g3ajhGQ2NxYzhnNFFab201STlXZkN5S0xoWUhlZDJtMjRBUlhLcWhZSC1pVlRTYlhwNFB6cVZJ?oc=5",
+      "source": "Reporte Indigo",
+      "published_at": "2026-09-08T01:27:27+00:00",
+      "score": 71.58,
+      "corroborating_sources": [
+        "Reporte Indigo"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMElmUmo2MkFpV0tCX2h1eHFHOTV1VUhfaEJuSEpFY2U5QjFrTFJMc1NWdjZYYWQ0ZUd3ZUhVajM2N0VlNkphQnlfRlgxamFuWFAtRHlkSEtnYlYySGxjXzJGY2p0eGxVdkdGNUg0RXVYRWhwR1ZTRlM1Rmh2N29WM0liNGRqRzdrWDh2WkFnU2Nwem1PRVhYczJpTmhDQmxvd2FMdWRsT0k1N3hibks5Q1NPVWVqamFlaHl5c1hQTU84NkZKdm1TYnlzOEpmbGVla2VZc0NsUTdIbGp2VkRNQkpCZG9zakpyVjhrZjZ0RFlISkhaX2VkQ3FYSmhFazQ?oc=5",
       "source": "El Debate - Uruguay",
       "published_at": "2026-09-07T16:01:00+00:00",
-      "score": 75.68,
+      "score": 70.1,
       "corroborating_sources": [
         "El Debate - Uruguay"
       ],
@@ -41,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZHdjdGVtenJrcTdjcjEzMURQa3RDVURoXzRRaWctUGVxRzlNaTI4MTQ1UGZybmpaTVBHUEZMdVR3cG9abjhINm9UbUxRQXhUbnAwOC1Ldm9fa3RMZTMwdngxV2JlWUkwOGRJMFJvRlh5UTJVb0tVbWVKanBtRG0yUU9ZaHNkVGRTSXZudDJXNjBxbUdEdXhlM1BxMkVMY2VNQ3JLSEJKM2lVaGc4LUhFR29PcGF5ZmlpZGxNQWFRVTFyTXhRWUhVeDRZU1gzMVFaQVZ6Q3k2YVp2WXdWWVAtWEhyYWtSRFQ5MVotem1XYnRoWERncWROWTgtZ3FjU21Yb0x1TzM2MUZ0STEz0gGSAkFVX3lxTE9pNHpjbHRwN000QnZnR0JoMktiUGR3Z3BhWjY3bFV5OFVNWkgyOFZpRmJVZ2J4V2pqelJORkpvekVKbjJwR0x0bXV3ZlZPa2I0OVhpdFFtVFowRm9RZEI0eDJXV0ZLRk1VbHRMVWVEdkpFbWpHeGlxZFQ2Q19kZFpJSUxPcHFpMmRZcHpLOVprYTlEQmpyS0plSFZoUHJsWEFUOTlBbTdjcGR2NUdLelNYaHdhZ3FNSjF4aEs5YlNYYzRNRHRPeW5XZ2ZmdVpZNHRYVmpnQTRXSGw1aUpvaE0teWJPQ296bC1lOVZuSlBkTGpzVzVabXFPc0VhOGtZbGF4RVdZelpYUnlXRXdYRjJKcHc?oc=5",
       "source": "Teledoce.com",
       "published_at": "2026-09-07T14:47:28+00:00",
-      "score": 74.44,
+      "score": 69.04,
       "corroborating_sources": [
         "Teledoce.com"
       ],
@@ -56,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNS2xfblBFTU1YS0ZiX19IUEtIN1dRbXhEWTJZeGdmM3MyWm95V2pvN1JXaTVUTVpURzltU1hUdHBuRjBoYUtFejdkd1VocGF5U0c4V3hrcFdxUGNiVXFSbE9wREFaMDBNd0JVVHZXTDlMaVBhUmpnVU53NkIxQzNIY3VrcVQ1YVkyV1lNalFnU2p0c2M0YzhjWVY3RC1iM3BnRnpQUjFYYXZDV0lLVWt1T3I4M1k1LWlvZExTaWVXd0Y5dFExQXAxRTB5c0lnckVlamk5eWhTaUtmZy1pQ19xTlJjemRHaDF0VURLdm1FZWo1U0hldTVPWmVNQjMtcDZuNGx0RThiVGc4UTlTcndUbUVoSGFUdVJlaXBPSWkzaFJNeG5ibG1BSWNCMWtQTVBOTjZLMm9sQVUySjVDbUFJVC1oaEthSmh6eVNB?oc=5",
       "source": "Qatar news agency",
       "published_at": "2026-09-07T14:28:38+00:00",
-      "score": 74.13,
+      "score": 68.77,
       "corroborating_sources": [
         "Qatar news agency"
       ],
@@ -66,14 +156,14 @@
       }
     },
     {
-      "id": "243b196887079d86",
-      "title": "Deputados e pastor Silas Malafaia se encontram para manifestação do 7 de setembro 📲Leia mais na #Folha: folha.com/politica 🎦Anna Virginia Balloussier/Folhapress #politica #videosdafolha #reportagem - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tTVdFQ1JqOWppcUh1TlEzTlYxcTdnR0hHTlUtbGZSRUNrY0h1a1l5N1JrejB5c1E5cExQMlNkR0YyOWRTYTRmVkFCOWl1a3AyXzdWR0ZR?oc=5",
-      "source": "instagram.com",
-      "published_at": "2026-09-07T19:11:20+00:00",
-      "score": 74.11,
+      "id": "a416ef9a5de40457",
+      "title": "Yamandú Orsi recibió a Fernando Pereira para dialogar sobre política exterior de cara a la Asamblea General de la ONU - frenteamplio.uy",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSHZlQ2Z0NEhsZmNmRkd2ekR0LUsyWW83a2QwclBDQkNWTzVHMTFTVGc5VDUtdXhrQ0x3QkIySlFFVFZWa0pOLTFPY1J0VU81QmhZWmV6TGZkTExBNjNWUW56eGV5Z3lSeEdLTUdkblNldl9DdEN6RXdvOVNSZXhUc0I3amI4M0IyY3VPM2JpanlPazR2eWdYRjdwLTlUc3laV1lFckZ0OXdVdTVUYTlXTEpfa2I0YVZrSExLWkpWcno2b09NT040bjNFZkp1eWo3dDhTbm1KOUViOC1tSURv?oc=5",
+      "source": "frenteamplio.uy",
+      "published_at": "2026-09-07T19:24:22+00:00",
+      "score": 65.22,
       "corroborating_sources": [
-        "instagram.com"
+        "frenteamplio.uy"
       ],
       "signals": {
         "source_count": 1,
@@ -81,14 +171,14 @@
       }
     },
     {
-      "id": "3816a4943462918d",
-      "title": "Why is the far-right AfD’s state victory significant and what might happen next in German politics? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjBsdmNTY2sxMkdjbkJ2QzlHUV9FSm10bEZXOHNYUlp0X3R6SV9NR3h5ekVWTERKcl9zY0RyUk1jOFBJNTNNRDhiZVAwNW9Da0dnc3lVQ1pVcW1UaTNqd3dLanNKdVFscVNUVFE4UmR1RU1MeFUzczVjcXp3UXFKelJZTTBZU09kQ1d3Q2xIUVMxR0ctUzBobTFGUFg5Q0NxNktaS2w0UzFuaW4xWWIwZndwTkRpUFVYMXpVVXdhOGM?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-09-07T18:18:00+00:00",
-      "score": 70.12,
+      "id": "d598c98f8001aff2",
+      "title": "Buscar Lulinha na Espanha é “imparcialidade parcial” da Folha, diz pesquisador da Universidade de Liverpool - Revista Fórum",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQVpFV1U5NzhTc0lFRE1HMG5SVlgycjF2U0JvS2g5ZXd2UkxPQUltdmVnX1ByeXpNTTluZ1JPMnY5RWRnSHpweVhSdXNyLV95S0VnUi1BeWtKcjRFMjhCVGhhd1FQVXVEMXdjV1BDTFRGaGVyajlYcXBReFRmS3FUNnZwTG4wNVdzdlVPSGNVUWZia2d1NFE?oc=5",
+      "source": "Revista Fórum",
+      "published_at": "2026-09-07T23:56:22+00:00",
+      "score": 64.88,
       "corroborating_sources": [
-        "The Guardian"
+        "Revista Fórum"
       ],
       "signals": {
         "source_count": 1,
@@ -96,29 +186,14 @@
       }
     },
     {
-      "id": "8a1c2b0b8d95e60a",
-      "title": "Opinião - Carolina de Paula: O que os brasileiros realmente querem da democracia? - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1dKSlpGUDhtNFJDdmtBSVp6QzNpellzRm5uQTRWTEUxSUxEUHZJVHNmV2lyYjE0aDdZcksyQklZSDU4akFydl92UnRXemZ2VDVPQjFtOG4zcVBNaUpVam9aS2k4OFB6N2ZvdTNVUmxuQ2Z1X2FzR2ZJZDdxS1dZZWJsRGk3Y3RxZkpOTzhiUnRhRUs1UmVBb1VGUENVMXdfN0lF?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-07T15:00:00+00:00",
-      "score": 69.65,
+      "id": "8079c2cadb2fed16",
+      "title": "Grito dos Excluídos cobra combate ao feminicídio no 7 de Setembro - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0FKUlRybzhVbUdiU0hJWXNvSkVkdlBYalJaRkhPNVJ6cktDQmFpc0ZmSWxUcDNXN0Vpbl94azFJcDFpNldNTTNWZzAzYlFzQVRZOFF3YWN0ZFJ4VkIwVmg1cEtGTm52THVOOThGM29wQWJkeVR5NHFiUkdKVE1BM2wzRHBWZmhBTU02b05Md2p4dHdjQlZFV0stNi00VUFfZnlLQnUxZU52Mk0?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-07T23:32:49+00:00",
+      "score": 64.45,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b7e45ef6f9135fd9",
-      "title": "Orsi recibió a Fernando Pereira: política internacional y críticas a la oposición por “amenazas” - noticias.vtv.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVpmY2JGZ3ZEZVpva3g0cUdZUDBvQzFRMGpDdUNIRU5DZGhnMEp1R214RThzbEIyQXdtVFY1ZTgxZFpBZ0REQm5TLWx6WDlLRWYzNG43dHpnRnJsRTFaN0FMajNOSHk0WG9Ca3NtTk5MQTJZUFJ2WTVzRDhOdThKTlU5dFVFanRBMlMwSVBkSUtZRkhfb3JmWXpoOTNvd2VacUFoMm05d1NyOVh3czdsSmVhb3Nhak5pY0phdTJlVQ?oc=5",
-      "source": "noticias.vtv.com.uy",
-      "published_at": "2026-09-07T17:47:21+00:00",
-      "score": 69.56,
-      "corroborating_sources": [
-        "noticias.vtv.com.uy"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -131,9 +206,54 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDdQOW13am9qN2t6eVZkb3dvQlpSSU5LU0RvbTZKaWJIRzlRSTF5N1ZfTnJfaW5Ka1QzbUpBS09HYVhxZnZ5NDRfT1BtMW96dzNlVlQ1Rjhzd1lteGVvTThiOThtVm1qbDN4cC05QmFoSEFKNVRVQjV0SGxiYkE2WV93azdnOVZmeThXVF83VUpwSzZhZEVvY2xRZw?oc=5",
       "source": "AFR",
       "published_at": "2026-09-07T08:46:00+00:00",
-      "score": 68.9,
+      "score": 64.33,
       "corroborating_sources": [
         "AFR"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8a1c2b0b8d95e60a",
+      "title": "Opinião - Carolina de Paula: O que os brasileiros realmente querem da democracia? - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1dKSlpGUDhtNFJDdmtBSVp6QzNpellzRm5uQTRWTEUxSUxEUHZJVHNmV2lyYjE0aDdZcksyQklZSDU4akFydl92UnRXemZ2VDVPQjFtOG4zcVBNaUpVam9aS2k4OFB6N2ZvdTNVUmxuQ2Z1X2FzR2ZJZDdxS1dZZWJsRGk3Y3RxZkpOTzhiUnRhRUs1UmVBb1VGUENVMXdfN0lF?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-07T15:00:00+00:00",
+      "score": 64.21,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "86bf2445292b163c",
+      "title": "Why is the far-right AfD’s state victory significant and what might happen next in German politics? - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjBsdmNTY2sxMkdjbkJ2QzlHUV9FSm10bEZXOHNYUlp0X3R6SV9NR3h5ekVWTERKcl9zY0RyUk1jOFBJNTNNRDhiZVAwNW9Da0dnc3lVQ1pVcW1UaTNqd3dLanNKdVFscVNUVFE4UmR1RU1MeFUzczVjcXp3UXFKelJZTTBZU09kQ1d3Q2xIUVMxR0ctUzBobTFGUFg5Q0NxNktaS2w0UzFuaW4xWWIwZndwTkRpUFVYMXpVVXdhOGM?oc=5",
+      "source": "theguardian.com",
+      "published_at": "2026-09-07T18:18:00+00:00",
+      "score": 64.17,
+      "corroborating_sources": [
+        "theguardian.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b7e45ef6f9135fd9",
+      "title": "Orsi recibió a Fernando Pereira: política internacional y críticas a la oposición por “amenazas” - noticias.vtv.com.uy",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVpmY2JGZ3ZEZVpva3g0cUdZUDBvQzFRMGpDdUNIRU5DZGhnMEp1R214RThzbEIyQXdtVFY1ZTgxZFpBZ0REQm5TLWx6WDlLRWYzNG43dHpnRnJsRTFaN0FMajNOSHk0WG9Ca3NtTk5MQTJZUFJ2WTVzRDhOdThKTlU5dFVFanRBMlMwSVBkSUtZRkhfb3JmWXpoOTNvd2VacUFoMm05d1NyOVh3czdsSmVhb3Nhak5pY0phdTJlVQ?oc=5",
+      "source": "noticias.vtv.com.uy",
+      "published_at": "2026-09-07T17:47:21+00:00",
+      "score": 63.69,
+      "corroborating_sources": [
+        "noticias.vtv.com.uy"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +266,24 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMXZLMHpOcjhENkZkOW5yVjU2WU1LQ08wUVU0MWlJeEJEdklqWndtQUwxdE5kN2ZQLU5COGVFR1Q5M1A1Z29oSEk5ekdKYl9fNGhWaWsxYjNIalFMOVM2UllCTnhsbmQ3cDliVTZ6dGxYRXdXLWpLbzlCUzU4ZVZBTDRzelhuNF9Vc3JmMnJ0bmlsdDk5RTRUa0RKV0xMOHZCa2U5NGwzMFVoZU9GMWtiOU12NDgzYW41bHhfN1Fvb1c4dXlWM3Y3RXVBMW9Hcy04ZWhZUVY3UVRuX2gxR1Fxdld5WXJWblpDY0x4V08za0JZNk9idllCMA?oc=5",
       "source": "facebook.com",
       "published_at": "2026-09-07T17:05:18+00:00",
-      "score": 68.81,
+      "score": 63.05,
       "corroborating_sources": [
         "facebook.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c6b71b88abfb391c",
+      "title": "Vitória regional da AfD na Alemanha pressiona Merz e coloca radicais no centro da política alemã - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQjFRckdhVVRKZUhkb0ZMeTlzZ1otQVUzaHBjN09XVG5mRzdseS1ub3Z6d0p5aldFNkpvNHRhUXd1MC04WmstWkdhNE53Tjd2WjlOZmZFcDlVWFJtdjYzR2FxRDdfUF9ycWw0UF9Cak84NkFTNF8wNDJ6TEtJRTZNTmRmZ0J4RnRvSHlhTFpIX3RqN2JwX0ZsSWtLdUlkQlBiaHpLV2VUWE1OSWRfb2VWUXFHWlRQVER4Slp5WDBSRWhUaUF6OXBOdFpyMmVYUm56QzNMODJ6RkY0TUV0MVIzYVMxcjI?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-07T13:22:03+00:00",
+      "score": 62.85,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa21ocXJzcm5YQ1d5bnZ3eU5nRDNNbkpvakhSTWVkV1VWTFRCNFJHSmx2SEJqWHNyRmxEaFJkU3RrbUVuQ08taklsdHgxQXNXNWtrMzNSdXBqOURrNkdVdlpYMWFXRDl3RWVLVTlwdzZGbExWbmwyTzlBLU1selBoX1hRT1ZiNVJnSlVvYTh4czN0UUk0RmtUT1lXU0xKaGJ0OC1vdzk3RTQyM0czY2JVNm8xUS1KeTFheEE?oc=5",
       "source": "GUB.UY",
       "published_at": "2026-09-07T16:40:15+00:00",
-      "score": 68.37,
+      "score": 62.68,
       "corroborating_sources": [
         "GUB.UY"
       ],
@@ -176,39 +311,9 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhVdS1XQldtMkZXOVBCcENyQkpTOEhmZTlJUHk2dmdjdkZfNXlTLVZPWHY5TFVoVFd1SkFnWGpTS2lTa09TWHdwZ09oTEZIaXFtU0hyVzd2c0VPaHQyZDZhNmNwdTU5dFRHTWF0OGU0WEpWVjZyc21NTmRMQklrMlRjVnhsaktzcEpRMDhqeE1Rc1U4c0J0dTNDdkpENXhsWllTT0t3X2d5R25oN2JadnAxVXJvNnRfWFFEc0d6VFhMYllRWGU3enpLaVBPVE1ZY1F5aNIB2gFBVV95cUxPcmdEVHpQa1JZU1lqd2o5R3VuaThhMVRlRzJUUjV0cEhJT0xhSWd6bnppcTdNZWpRWUZzQjNZSC01NnRCcncyelBOWUhmWlgxdGd1MDh3eHlOLV92ODI4ci0zamVXVXQtcGtnazhBdDhraUR6cm9fMXNNZ1ExdEpSektpV09DbmdXajdTX3BST09jRUd6cS1kWWpFTnVKNVRDUS14ZE5ES3A2d0RZZFNORmZfTV9qTktLSGFkS2swZGVKYkcwRlBNWU0waU5Ma1htbUdRRUV0R0dLZw?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-07T21:06:00+00:00",
-      "score": 68.33,
+      "score": 61.89,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c6b71b88abfb391c",
-      "title": "Vitória regional da AfD na Alemanha pressiona Merz e coloca radicais no centro da política alemã - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQjFRckdhVVRKZUhkb0ZMeTlzZ1otQVUzaHBjN09XVG5mRzdseS1ub3Z6d0p5aldFNkpvNHRhUXd1MC04WmstWkdhNE53Tjd2WjlOZmZFcDlVWFJtdjYzR2FxRDdfUF9ycWw0UF9Cak84NkFTNF8wNDJ6TEtJRTZNTmRmZ0J4RnRvSHlhTFpIX3RqN2JwX0ZsSWtLdUlkQlBiaHpLV2VUWE1OSWRfb2VWUXFHWlRQVER4Slp5WDBSRWhUaUF6OXBOdFpyMmVYUm56QzNMODJ6RkY0TUV0MVIzYVMxcjI?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-07T13:22:03+00:00",
-      "score": 68.04,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2b89e43733068623",
-      "title": "Verde e amarelo e camisas de Neymar marcam 7 de Setembro de Lula - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEVDWmJrUlBRcEFaMjVUekJ4RTdBZVVnWUtieDNGaFA0LXZGTU01Y2VEeFBKWk14ZG1WM0lRcTEzTGN0amtmMUtaQVNacGFHanNMQ0lsY1lzRG11OGRGY1hoaTlDSFVWM2d4VExxREdxcnV5Ukd4UkdsYlRDOGZNTDI3X0FOV1g0X3dxUUJZR3ZKV2piZ1F6bFlDeDNaRDVxX0s1cG5WQ3FzZw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-07T19:42:25+00:00",
-      "score": 66.7,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDJWaVp0TzBLSHBsNEs2eG5KdnFDM2NybkxWMXF2M1gyOElmdUJHaGhlSWdneThaN1pFX01wb3VmNU5ZeHBQb2tJOTRrQ1NFdTNCbkdFZ19ZNXhyYTF6bTBlSnhmLXJEZDNOd0I0XzFEbTREYXg3dHNhbElEaEg3WFhINzBYcU83M2NYZDlDMURCd1YxUUl4OE1mandEaGx4cUhvbTVfYmFlaGtDbWhnRHB30gG_AUFVX3lxTFBSMm1sbXM2VlVZSDh0ZnlsQWlnTmFITEtHaTExS3liMEh6eG41amVOeWtSR0FvUmRkel9Vd25MTkpkSFVHRzJKYk83NzZSWkl3TmpXbGYxcjRXb0xTMDZVSHpYVDVtUGdxUFppVXk4VEMySUN4TFJKb0RrZFhmdXpsSG1fMEZRdkxBTnVoT0FoVnpoNjQzeHlnTENzTHhscXV3UHRoQXBHcW00TDNRTG5BYVJkbU5SXzBDQzRVWEpz?oc=5",
       "source": "The New Indian Express",
       "published_at": "2026-09-07T15:00:37+00:00",
-      "score": 66.66,
+      "score": 61.22,
       "corroborating_sources": [
         "The New Indian Express"
       ],
@@ -236,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpeEwyYnZ3dWh0aUdMVFlqelBrSFd5MFRraGplRUp5T0hGYS1UZ05QSzFTTUNKQWhJTU5pN1hxQUdvOFlPNGhOZnRNZUdvOTA0aUxGVFRRNXZhMEYyTTFyN3dRQmk4dE53Q1BOZ1dqbDZma2VNTzhMWHZR?oc=5",
       "source": "Claudio Dantas",
       "published_at": "2026-09-07T14:43:00+00:00",
-      "score": 66.36,
+      "score": 60.97,
       "corroborating_sources": [
         "Claudio Dantas"
       ],
@@ -246,14 +351,44 @@
       }
     },
     {
-      "id": "4448dd66b873d801",
-      "title": "Violência contra mulher é mote do Grito dos Excluídos, que reúne movimentos sociais em São Paulo - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnZUWlhaTHE0NVU2RklKNTlCaXJCYkFaZjdaekZmSndNR2FhdHJmTC11elRqRWVCdkVCUVdjNzJPQ29HandQZWZfaVBVR3F5SGNDWDlhUzZQQWlMZWJ5U0x6UTBEMjFSYWVvYTlVSktTQ2k0cHhGbTBEWkcxRVB6d291NFJiTlpXS2ZFbmxNVzI0LUVHZzB0RkhrcDVBMTgycHVpTFZwTTNkOWZvenh1R1JyZ19RSE5kc0tmeU95WmxGNGk1RHFydmZfenJzVnkwZWVsUkc5QTh6YVdZMkE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-07T18:21:00+00:00",
-      "score": 65.18,
+      "id": "6156a58a1b2c2781",
+      "title": "La Universidad Nacional de Moreno prepara un gran debate «internacional» - desalambrar.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWRqeEZjSTF2cFB4bEpMTmk2MF9VbVJ5TEZUSnhnOUVTUm1CTnFQT1hIR25SMzhVOC1rTnlfMGs1RGNkZ2w0T0VFWG1hU3NLQ3VMT0l2UGtLSGpKejM4T2NJRWJiRllaMHJPNzkzOGJCMEZJT1h6Vl9fczBYcWdLcnJ5dENlWHhEcXpSeGVRRVlIY2wwVjAzdlhkNWMyUQ?oc=5",
+      "source": "desalambrar.com.ar",
+      "published_at": "2026-09-07T23:01:17+00:00",
+      "score": 60.89,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "desalambrar.com.ar"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2b89e43733068623",
+      "title": "Verde e amarelo e camisas de Neymar marcam 7 de Setembro de Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEVDWmJrUlBRcEFaMjVUekJ4RTdBZVVnWUtieDNGaFA0LXZGTU01Y2VEeFBKWk14ZG1WM0lRcTEzTGN0amtmMUtaQVNacGFHanNMQ0lsY1lzRG11OGRGY1hoaTlDSFVWM2d4VExxREdxcnV5Ukd4UkdsYlRDOGZNTDI3X0FOV1g0X3dxUUJZR3ZKV2piZ1F6bFlDeDNaRDVxX0s1cG5WQ3FzZw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-07T19:42:25+00:00",
+      "score": 60.51,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7ada0175939f39c4",
+      "title": "Em Goiânia, Caiado diz que Lula \"não tem moral\" para falar de soberania - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjh1YnpNc2RyYWZVbm1QeVFVR25GVEtfYWs1WlJLdVA1VmFZQ0JSVklZTHZIRTJOSk5zdmdVLURIdzhkVlFmczZ1ZldXT3kyd2lLVnFkMlVKcUV6WmpBbzlJQlJ0NTB1NVlGOVNOYUFTUFRSeUZfZS1jSWd6aTJjclZGd0dCQjVuRzZfOWlWUWtFWEZzS2tmQWNwWWJta2t4cjM5SXRyQ1hTcHZOc3hMdHFPUkU?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-07T19:36:10+00:00",
+      "score": 60.41,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -266,24 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3k4dTdlTnVoMkNqeGpvY0FGeTJqTTBaWmJjUEhVb1Q2QXdXdDhQTjNrZUlEeTl6OTlseTMwRl9ES2x2LWt0aUFFa0JXamJPYVZ1LVljNW94MTZjUTJWUzd1TVJHaERFNXNqU2JkbFF5SDZDbm5meTNUR1pVRHBHVE5WS3I3bW9DUmh3ME1wLTA4bVVuRmw1TXdQY3d6RHlmUUE0ZE9KYjBRdw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-07T10:10:55+00:00",
-      "score": 65.12,
+      "score": 60.36,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "37a6ccbdbcfb5494",
-      "title": "Yamandú Orsi destacó el diálogo con los líderes de la oposición y adelantó una menor confrontación política - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPel9BNUNQWU9JbXRYOFVqN0VJQ0RBQWwzZmJkVzJJVXZOTkZQYVh5cWhsTkx1clJBUm5jcXRhRDNGSU56Q01Lc040RWVSek1idXFMNTRUekdsNFJSWGJ5SHp4TmUtVWJ3VlcxOXpSU0pmZk16NERLRG9aN3djajI1b1ZFdFBKaGlKSl9TT0g3aUEzdG5ZNHI5RVBzUUdMQ1ZOV0swOHU5WWNDTVlMb09lSUNZR1lHUDgxeUtUOUNpYVZ4MEk4QmRVWkQzSU9UdXNIcXNPUC1GUdIB3AFBVV95cUxNUEdCaG1Kd3BKNlJQQU5XMDhLVEEyM0hfSXd2NGozTUY4WThKc1VRejg0NkhLR0ZmeWRCU1J6M3puLTdaR0R5d1JpUUUzeVFPU1dvQ18zLXFPTEp4ZW14bHFRVTZvVHk5RXp5eklUZEh1X3dwOEg1aTdsX0ZsU1FoUUZKakw5UnlIeld2anRULWJCNTBsZmtTVFhvWW1iekk4VklITkpkeW5HS2k0OTlyUDktcFViN3E4SkNRNjY5U1FJck5yU0FlQ1NINEs2WnlzSGtzWHBfcFBTZ2hR?oc=5",
-      "source": "Ambito",
-      "published_at": "2026-09-07T13:18:00+00:00",
-      "score": 64.98,
-      "corroborating_sources": [
-        "Ambito"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd09sWjVuOXlwbW5CUFNaQUZvU1FkTjBfY0JnYmRyRHV1cURPYVpvUkJjWVRrMnN0c194ZlJsRXBqZ3Q0MzNuOFJqcExkd1ktdENWWWh1T0czMlh1VnQtOWpxMVA5ZG1NYkRqSlhnNkV5aWptb3B1QUNHNHVwd3dCU2I5NmltZjhydDFGVmxQbklLZnpnTGd3U255QTFYWnNKRF9EQXNkQzlPTWdOV0IydlFmQW5mR1l6elpJ0gHAAUFVX3lxTE9henZQLS1kWjJpTklfRDluOUFLRm1kdUl4U1A1Tm10Ym01aXBoUmRGTjRaY0lfU25XYjNVckZaQW9rUnVqcVVUaWlvVkU0MFo4czBxY3VQeUJKZndoREFzTVB0ZFgwRVNvbmtjRTZVOHd2NXQ0amtZOVpIV080ZlZFUUJ4emZyd0FTVGppV2s5eFZaalNEQ2g5b0VhQmlCYVY3dnlEWVJ0aFpJbVJRelFkaVgtZnRCY3VQNXBaRXZucA?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-07T10:00:00+00:00",
-      "score": 64.96,
+      "score": 60.23,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -311,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lOWNLcS1FSTl6QUduOW1BNmltbkZkd0R4X1AxV3ZwV211LVpKb2pPaFpiSlVjX3BPMkxrY0dvaFlXU1VHcVo1b2ZSR2EyT21VakxISTBaclhWSW1ON3RCMTNmT21MbTVKbzNiWFdjYW1Kdw?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-09-07T12:47:34+00:00",
-      "score": 64.5,
+      "score": 59.39,
       "corroborating_sources": [
         "Política Exterior"
       ],
@@ -321,134 +441,14 @@
       }
     },
     {
-      "id": "d3c5376504c065f1",
-      "title": "Kaja Kallas cancela su grupo de expertos para agilizar la política exterior de la UE por falta de apoyo - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR1JRWml0TXdwZzB6VWhfelVlRGZxOFprS0R2dlduRElnQ0pfc1BSN2tINTg1YlhvWEZkdXBqNUxmTGdWelNXWXU3REVjamlMZmc3M1c4aEo0TkFCTG9SS0I2ZWpGRE5WeWdRb3pjZGh6Z2cwazhtRjVPRWJJWkZPV2dyM09yUWJCeC1TNzRtWmcwMG9JYWpGUW1sSHVMTTF6XzVvTmhhbGJLS3dlRzB0OHl5bG8yTGp2T1gzOHFDWEtUNXIzYWdndGN2ZEFFWXRRQVB0MnByUXJZUdIB3wFBVV95cUxOd0dXOTQweFRDWlFfNUVnRXZUekJueElCUmtjME16VWE0OXJWa28wS2ZHbTNDTGZKd29Bck82Z1B6VnRjWTI2ZWpaU2xOVE5xRUZrSExTaXFIRDhBeWk2YzlMQ0lHOUVLY3hXLUN0TlY5VWI0RXlFV2djRGZBbFlZZDcwbE43NFk2MW96T0UwN0VVbzljM2dVemwxd2pVUWlyV3NybUJVRXZBdTYxSmFYV3JWeVdYZXRDVlZPT1ZocXNleUUxbnJ0eGNndXFPVzRvQmQ3NWNxYk9UQ1VPUTc4?oc=5",
-      "source": "La Vanguardia",
-      "published_at": "2026-09-07T12:23:37+00:00",
-      "score": 64.12,
+      "id": "4448dd66b873d801",
+      "title": "Violência contra mulher é mote do Grito dos Excluídos, que reúne movimentos sociais em São Paulo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnZUWlhaTHE0NVU2RklKNTlCaXJCYkFaZjdaekZmSndNR2FhdHJmTC11elRqRWVCdkVCUVdjNzJPQ29HandQZWZfaVBVR3F5SGNDWDlhUzZQQWlMZWJ5U0x6UTBEMjFSYWVvYTlVSktTQ2k0cHhGbTBEWkcxRVB6d291NFJiTlpXS2ZFbmxNVzI0LUVHZzB0RkhrcDVBMTgycHVpTFZwTTNkOWZvenh1R1JyZ19RSE5kc0tmeU95WmxGNGk1RHFydmZfenJzVnkwZWVsUkc5QTh6YVdZMkE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-07T18:21:00+00:00",
+      "score": 59.21,
       "corroborating_sources": [
-        "La Vanguardia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "11f5f90d1e3fc7db",
-      "title": "Diputado Alessandri: \"El canciller ha recorrido el planeta abriendo mercados, pero tiene que fijar una política internacional\" - Tele13 Radio",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSDQyNGJMMDlzaUZ5VndRc2d0ZXBONDZINDEwMTdENDJKYXRaaGlKQ25sOVJlZWg1X3hqbU5UQTFSSjlXQ2VRa1NXUzQ0ZzZoRTV4RjkydGNVcEd4NDJEZ3M4SDdlNFpVZkxVLThnbl9PZnBRdGNVNjkzaXNwNk9NTk0wNHZOT2VWWkpEeHBJSDN6VHFqRzRtSS0wM1E4YU1uWUpPaHlheFVqalhzM2FPYzR1eGh1b2FSc3RDOEVRa0d2cFZuYUJDbm8way1qTDRpT3E1V3dPMmh0MnpzcG5qZWx2Y05iTTUz?oc=5",
-      "source": "Tele13 Radio",
-      "published_at": "2026-09-07T12:19:54+00:00",
-      "score": 64.06,
-      "corroborating_sources": [
-        "Tele13 Radio"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9ccc5da05162d237",
-      "title": "A Alemanha está alimentando a histeria anti-Rússia no mundo, diz político italiano à Sputnik - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZjl1ZmZrY1A4c3BuRFZjYVphcEViMDBiX1h2bVdjRjYyUEVxWU1ONEt5ZW1rbHQ0ZDdaNll4dnltd2dZaWoxN3JfX0xyTlpTRjNMNzh1dGFDQnN0NjNfRnNMUlBCMGhQRGFMdGgtUF9NNFhXUW1NRkJESGxWWVhGcTFhN3R6Z1lZdHNOT2ZKeXBDSEU3SVdPb1hZWlhNVVljemNiU01mNkliakVpV2kzXzJoUjdna1VRTXlJRWhBcFRWZEhaMFNjZlZZNHYyRllqM2JwbTBpbWpWU3FISkFEUnFWYXY?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-09-07T19:36:00+00:00",
-      "score": 63.58,
-      "corroborating_sources": [
-        "Tribuna do Sertão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7ae85b0bc88f3856",
-      "title": "Diputado Alessandri y rol del ministro Pérez Mackenna ante Argentina y EE.UU: “El canciller tiene varios flancos abiertos” - Teletrece",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZENNUFhEMHNWVlEwdEFXOVBpOUFaOHdIbTN3a1dCd2YwTEFtcURDOTJ1Q2sxOE1FaVJiS2hWR2RXal9HUXU0eEZLVVhQaV81ZnVEeVp5RXZGUEJzZXVZUk91R21VR0VfWGN4OHAyc3oyWXBnYU14RHhkX3BYUThvYUhjd0xiWUhtekp0Ym9WTFJDV3pOcVdObFJtV1Q3ZkQ5NFVEUHZkWTJYZDVROGp2QQ?oc=5",
-      "source": "Teletrece",
-      "published_at": "2026-09-07T11:40:00+00:00",
-      "score": 63.45,
-      "corroborating_sources": [
-        "Teletrece"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "21d3212df9b95b2c",
-      "title": "ESPECIAL Informat.ro / El ranking de los temas de política internacional de la última semana: El tema que generó la ola de interés más intensa - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOWFwNHdzT1hSXzNNbjA4cEtxYVl6Nmh1SnV6WUlzcW9CckxYYzBfai1PbHI5VmoyNGRueVBkdzFoSHZpYzFvcjB3WjY1Y1VXTldyUm5oRjZMcWhwT3c4c3BjdUk1YWZQUVEwWTZXaWY5MEtOVHY2ZEQzekFBbFFrSktxNURsdUJpcGx5b0F6d1puSkpLRlI4aG5TRl8xY2s4S1FqQWxaU213Ui1VWVRjdE1PNFZOc2U5b21xQ21sRjRVNHB1SzdUQUFUNUh0ZGZLRXY3WFFFRnNia05wTnNjSUtTWXd1Q21MUjdrSU5IOEhFVzVUeURqXzJndEd2QW0wdFJSWmo4LUY?oc=5",
-      "source": "Informat.ro",
-      "published_at": "2026-09-07T11:37:21+00:00",
-      "score": 63.41,
-      "corroborating_sources": [
-        "Informat.ro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ce7c144c0b065ba3",
-      "title": "De vender perfumes a liderar la ultraderecha: quién es Ulrich Siegmund, el nuevo fenómeno político de Alemania - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZlFsY3hLVlB2ZHdUdTB2Y1hxMDRxVkJRbTJ0MjNRR1B4REVDMUROR294bElxTnFMWkp1NDV6U3VYZDRSOFZUNERkQm11aEhvV2wzLXBVOVBrUWhRazlHckNhX3RpNXVOYU14YmJER25JSDJEaHJxTzhPT2JuNmZSLXBjNHdNYjdBQ2dQZjhEaGhnaTFDTmc4aWI0MDA2ZmZieUtsX2h5U2dfMG5WUklPMkZ5cTZVQVltZnlQOXEtUFBUY0tRY0REeGR2dHYzVFhpcC1wdXVPTzZHcUo5N2ZwcXA4OHZiVktIRURrbnFia9IBigJBVV95cUxOR2xNTnd6Zl9VWmdSLXkyTzlMNU1FVXJCcXhVSVdIV0VhS0NDNG04QlJ1aC0zNmpmYzFiU0JWVjdvQ2V2VUZDWHl6LXFuN3BBaUpYcWxRLUpNQ3A5aDU3NkJDY2dOVUZhSEwyOW02MmU0X0ZHZUZ2NVpOd0xLU1VMaW9Jc05ETnhsU3NoejZpLUhhQmtMUFdIN2hmcC13OXVYcHVVbmRGaF85TFk4cU1NYXlwMVRuUHVJY3QxRk5XcG04SGh2OXU2VTREblBJOV9WVElkcVM4cDBUTTJiN2tjemlzdUJtT0M5U1Z0aG5oNGF6dm1IQ3B0eGJveWRkZDNjT1loU1dZZGUxQQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-09-07T19:23:00+00:00",
-      "score": 63.33,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2432c368dab212af",
-      "title": "Fernando Pereira: “ convendría que la totalidad de los partidos políticos acordarán una forma de actuar en el mundo” - radiomontecarlo.com.uy",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVHZNbXlqZU1yWWhibmh1SUtTWU9YTzlxa0lYamFxNXdFWFhLQXpZOE5iNjNDbkgxS19hd1RBS3YxdzdKU3pITWtMVkZqcGNVaGFBT2JyS1dwMm4tZlFHeHhCWGs1S0FhTlptSVdzZGVVeTNPajJUQzl0Zm1qOW13TmczdGZSaG9pRTYyNk1mdi1qUjJ1cnZZVDN6Z2hvby1jMTZLS0FVN2xVTk9BSHhRYkNGd1BaaXZyZ0VLOTNZN0JXU1B2YVZtaXVTUDZJZXhULUs5X2ZUcFlxZ1BIUUk0eGJ6WkhWaUoyUGhraTNzdHZneWEyLU9NUXBIc0d0VTQ?oc=5",
-      "source": "radiomontecarlo.com.uy",
-      "published_at": "2026-09-07T18:51:25+00:00",
-      "score": 62.74,
-      "corroborating_sources": [
-        "radiomontecarlo.com.uy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cec23bdec9c6c262",
-      "title": "Malvinas: el valor de la coherencia - Diario Castellanos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmxPUUhWRjFNU3hhc3pkTFYzNE9wUUV6TUFiQ3Q0V2VFcGdqQ3RLVHlzM0FBa244M0dmajllYlFXcG16NzU3THVtZTVwX3dFWlVlNE1KXy0zaldOVTR1NXlNcXlfbS1PS1dYWkp2VGNWeXVEZzROclVsS2JWOGllWFZfYnViZ3J4cHd2RHdxVVJuOTU2?oc=5",
-      "source": "Diario Castellanos",
-      "published_at": "2026-09-07T18:36:15+00:00",
-      "score": 62.46,
-      "corroborating_sources": [
-        "Diario Castellanos"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "65d5083353c99348",
-      "title": "Las señales oscuras son claras - Caras y Caretas",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVTZqR3IxSTJxRk9MdXg5di1vV0FuQmsteTRfemx1SFJ4dVZFUS13YU40elpJRUVwTjdMZmlsSi1JVkY5WmtmdTNIVVRDZndKOUhIMXpUa3hsOGJpbFZHUWJ6b3d6RjQ0U05OZmRHYjZxUVFXVWJkajlNWlNKUmpBZ2ROdE1OR3B4Y3M2ZFZYeC1QUdIBlwFBVV95cUxOdm9JaG5FRVZjRlVSTl9zNjVKVWloNUZwRW5OWFNQY0FTdHlpWDFETnJ3VlRMT29KWEpIdXItOTYtV3FtMC1XNEk1azZoTUlVRG84cHBqMDI1OEpldjdlbVpOb0k3MGlPVEZ4S0tHeGVJUFkwdDNQdUVVc1NyVE0zQ2F6OWJRdnkxZF9XOVVKRzRjbkVZeklF?oc=5",
-      "source": "Caras y Caretas",
-      "published_at": "2026-09-07T18:36:00+00:00",
-      "score": 62.45,
-      "corroborating_sources": [
-        "Caras y Caretas"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
