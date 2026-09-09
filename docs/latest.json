@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:59:13.826286+00:00",
-  "next_update_expected_at": "2026-09-09T16:59:13.826286+00:00",
+  "generated_at": "2026-09-09T19:18:20.595600+00:00",
+  "next_update_expected_at": "2026-09-09T23:18:20.595600+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -10,10 +10,85 @@
       "title": "New world order: European football’s global politics are set to claim another Swiss victim - SVG Europe",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnFXUnlRWmc1QnFvNFpfY3drLVdtXzFTdUpLb1Rhb2ZsTWJCYkNzOWRfXzJFRVZjbS1XVVNIeXJLMEtXcG03djIyRGF6TWpUMmxESnRCZFF5aEs0WlNLdnZCLTQ3MWNhR0tMS3NmZkF2RThncmZ1NmtIdWFYcFpDVVdtdDBKVGhsODlEVHhpSnJwUGdjWVA3S0VuOEFvTzczYmF2blFJeUVtZTROZS1wemdzMzhKZ1dTX25vZkVMbTB2NWV1ZjROWWZn?oc=5",
       "source": "SVG Europe",
-      "published_at": "2026-09-09T12:41:39+00:00",
-      "score": 75.11,
+      "published_at": "2026-09-09T17:02:27+00:00",
+      "score": 72.73,
       "corroborating_sources": [
         "SVG Europe"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "de4b5f2c584af944",
+      "title": "Bessent dice que el objetivo de política exterior del Tesoro de EE.UU. «es crear aliados en las Américas» - El Debate",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVm83U2ExRTJYR0RrVVZpR0lSeWJ3QTdiVGZObkdxa3RhYWI0V1VWNnlRdlUwbUd6ZVY2Q196RzBkSVhhZnljdEJQSmtNaGRTZGxIdHJ2dWh5RUg5dWxqRHJoVlVLeEFWaHBwN3dUN0s4UFk3b3cxSEZrc1dFNEN2VTJfS2tqcENCdDRDRXpOTEJBSEFsQWRjVF91WDlJblpVWkRhU2RKRWNWZFU1clBDc3BRRjRtbmJwU2poX3pTYXBHdVhTdjI2NDU5X1dlc0nSAdQBQVVfeXFMTzRybVZkcExtMldBY202TnZVa2JsQVVhRFZsU3Rocl9Qd0NhbF9NZmlpRFhlS0N4LTFjVXpNU1hlOVFLbUxkVUVGN20yLUVHZ2N3UXV2a2tNZTVYVmpSQ0VmQWxoU0R4U29jc0NvRGRrYTVRaS1kOEt0R05FZFhtZU42LVZkZXQ1RDFlcnNPUEdra0VDNVB1Y2xHRl9qSWJrbTlNVDVIVTZSOFB4c0hXMk9QOUp1eGVmVjNUblRHQWIzRGhpWWsxeWptRHZBemFfS09uYVM?oc=5",
+      "source": "El Debate",
+      "published_at": "2026-09-09T16:35:02+00:00",
+      "score": 72.2,
+      "corroborating_sources": [
+        "El Debate"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3839abadc3e210e5",
+      "title": "POLÍTICA EXTERIOR-Hernández - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2xwczRuWHV5QVk2ci0tU0hWb0JMUnF6Njl0R3hQX1ZNc0w1NWJ6SmQ4bDNkQ1BwQW5FN3dtSGhkVEgxY2U3dEY0TUJBdzhfc19uak1kV2V6WjVyMndHcGZoR1c0cDU4Y1V4RTNRTFh2SDdGZGxsODdrY3gxdEk4QW0yTlF3OFd3?oc=5",
+      "source": "La Jornada",
+      "published_at": "2026-09-09T16:00:00+00:00",
+      "score": 71.53,
+      "corroborating_sources": [
+        "La Jornada"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7fc6bf3319a0303e",
+      "title": "‘Estadão’ publica série de entrevistas com CEOs do mercado financeiro sobre eleições - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjR4OEFKUHkyRnhLWkZ1LXVtdkV0djNESFRFV3ZOQ1I3dUtQMjJNMDdUZ241MW8wdXdsSHBUb3B0Ync1MEVMZFJwN3JOVjdrVEktQVJDR2d0bVBtWFBFRjVEYmFHcUwwZXZiSGVSYkFJbVRncFQyYTdyZVNJRlJqTE5sMVFxYXgw0gGOAUFVX3lxTE5MWkZvcm9YdGZDQWJvR0RCQTF5YXliWU0wbUJUNG5YRVRSTzVGX0J2YWd5VWFlU092bjJrbGc3WFFkQ183Uk9SWEU5Skw1cHhfeV80aVc1emN4Zm55c1Awc2hyYmRab0VUdGNJcnVlN1ZpaDlOWGd2UU1OT1A5amdhTWNTcXVqZ0lHcjEwVWc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-09T17:37:26+00:00",
+      "score": 68.42,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "10e423f90629e9f8",
+      "title": "In Memoriam: Professor Albert Santoli - The Institute of World Politics",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEVIcjNONFVDSnZnNkRiZXNRQkNpY1FacHR4SmlMZk9jYVNtOFVWTXYxeDhxY0dxVVR5ZFZvalVESEF4czR0VHhiLUZTSnliak5SRl9BclM1RzNZa1ctREJUWVk1bHhuR1o4Wmhaam5sa3A5VnQxeVp5ZHFSbkhfaHdnRjBvYjhoZDkw?oc=5",
+      "source": "The Institute of World Politics",
+      "published_at": "2026-09-09T13:04:10+00:00",
+      "score": 68.32,
+      "corroborating_sources": [
+        "The Institute of World Politics"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "28cbf9f5eced36d6",
+      "title": "Rubio visits Ecuador as Trump-friendly leader helps the US counterdrug push in the region - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX0J6eGdnamRwMnZFYmZCcnZ0eHFXREM4aC1wUjJrS2hKb3R0SWJ3bV91a1QtS2c5SUczU3JBSUlhc0NwbC1BeUdUakk5TjdFVGtVb3VPNWNzbGFXb1FjTk80YlJQb3hXTzZVWEZnazZSdmc1bm9qN010bTcxcWR0UGpVcVZfZ1RPU3QtOWFTZF9QVnByQ2pPTExxbjlWNDRGY2libTBzbW1FUXJVSV8tT2tBc25XY3lQZ1RoWnJxZHFyVTNDLVdqMmEwa2VNZUpmUU9LZ2hvMFJzemVDdHRaM1N3?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-09T18:57:19+00:00",
+      "score": 67.04,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUhMV1NGdmQ2MlNvamx4UmNIeENDNDQxLVI1R0JyZHlkQW53d2JpZEVVOS1LWV9pLW5aaE83UG9uZUxxeUNlc0NlMmFLZFc0X2R3YVJ6Qk55a3FxZkVqVzFBUk52ZExDVVhhZzkta01VV2EyZ2FwaXdIUUk5VmpiekZkam13QmItYVZ5Ry0zeGZuN1IwQ3BmTktSVUJtZEhvYUFrRzBTaGlZNUJuaUR2SQ?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-09T08:33:52+00:00",
-      "score": 73.27,
+      "score": 66.87,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -36,14 +111,104 @@
       }
     },
     {
-      "id": "4a8878cd80d532bd",
-      "title": "El pragmatismo de la nueva política exterior del Perú - expreso.com.pe",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFViaFl3clRKVmVCbVNFak9YVlA2N0dQWjd3Z1BtYmNDRDloMndMZzBOQk9YZXlMVGYzaTAwVmN0WjVsU1FWaG90Ul9LaWszWUhYTDQwYWdPX0Z1SThaTmpkR2FFeEo2Y1ZPbXVTcW1nYTJSekVlc2o4RzFNOTJqZHRKc3ktY196U0dnN2V4UGxsM0E?oc=5",
-      "source": "expreso.com.pe",
-      "published_at": "2026-09-09T07:52:44+00:00",
-      "score": 69.52,
+      "id": "5df352cd929349bf",
+      "title": "Rubio não descarta implantar base militar dos EUA na Colômbia - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVI3YWNVcHMxZzlGWDNtWVJucUo3MDN3eEY0WFZOaW50bTlKdm1nOTdPYVBxUDc3a1VRaDdhRkdmcU5yd1M5LUgzR0JSZGtPanBlNkN1dldjLS1nV1p2Nk9oWFlWRXQ2UEt6NUxnaEZycndqbktJcE9aTGg1eVpZMmZTZHlvekp1Si1vTTQyNVZWV3h4cmYxZnVaR0xyOGtiUWFSTV9JZXliOGtXNmpiME1mMkLSAbwBQVVfeXFMT3JlU3Bkbl9mQ0U2RUxmZndNQmI5Uk5KTDlJTlo3cGV6YnZJTW9hczByLVF2Y2pOc0ZOdUttdWdHVm5nT1JHZ3ZXOUdfR3dCQzlGQVFKeXJ4YlRWQ1pJalZLU2pURWIwYmcwNV80M3FSWTFya1UtWWV6X3RWeHU5WlA1V3FMZlhZUVVsMEF3VUUzVGdJckZMMGQ0M05BaVZ3MzlMTnFuWHQzelJJbjRUMTlwX1Bzd1VRMkhmNU4?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-09T18:38:00+00:00",
+      "score": 66.64,
       "corroborating_sources": [
-        "expreso.com.pe"
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1b6cbff2bf663a69",
+      "title": "Daniel Caggiani destacó el nuevo protagonismo internacional de Uruguay - mpp.org.uy",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWlITHM3T1FVdEc2SWVaOVhrOVhlbUNTOW1xaV9aaTJheEYzWENoUjlwWGhhTVNDaFFZcllabjFJa3RtejlIRmxZRGlfU3FyYmRieEJlcEN1TTZsYTM3a0xpQWtjOHNpMGpUbjRTYm05aFNqYmdLaDRIUzRkQjlha1otbWpBNWh0UXE4blFlaUZubEF6?oc=5",
+      "source": "mpp.org.uy",
+      "published_at": "2026-09-09T18:22:13+00:00",
+      "score": 66.32,
+      "corroborating_sources": [
+        "mpp.org.uy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9b8ce4ba8c7236fd",
+      "title": "Argentina solicita a Bolivia la declaración de Beller en un caso de corrupción - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFhDWFl1NUlid3Z2dS1IY0J0WkM1bjJiY2RSd3VXU3pjb2NHRHF5VEFxSTNZejdSNkJTTXZkVURpc2FBOGt5dW0yYlRWOTZkZnZkcEQwY1BVbnJqV2swYzJxN3Mwa0ZBWVJORlMzcVdHN0UwYU9KV3pNeFhxWDJoMmFudHUtQl9TcnczdXRLakpwUW5kUFFEZ09CazM?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-09T17:22:38+00:00",
+      "score": 65.13,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "525e5119653ee308",
+      "title": "Unlearned lessons of 9/11, a quarter-century later - Catholic World Report",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0NvOGFWNnlsZHBodXVXenJmQ1J6WEhKT09CZjJETUNsMW1TQ3VES1FOdURFZGpnLVI3QTZOSGRiLWZOUG9QNnRZaF90THU2dkxZNkxlaXlSWFc1cE5qNU1Bcl9mVnowQkg5YXhfeHdyOHQzTUJWQ2tmZTVUVHlyN0pUSVpVc3B2cEV1djRnSldmYnB2VkxoTDlWMTVGQQ?oc=5",
+      "source": "Catholic World Report",
+      "published_at": "2026-09-09T16:46:41+00:00",
+      "score": 64.43,
+      "corroborating_sources": [
+        "Catholic World Report"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2c0735b968288552",
+      "title": "Caiado critica Lula e Flávio por Vorcaro e propõe ‘debates paralelos’ com Renan, Zema e Cury - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTVjclVRNU1kb056eWRaaHRMMVZFcjQ5UC00YWNXN04xeHVHX3cxRm9nYXVLY3Q5Mmo1ZV9kbkM3aXBVODA0VUhUNS1naTJZbmhOOTZQRFFDU2U1bkxwY2pMMzJvQjNINV9uY3Vjc2VWNnRnc213aHhvUmFvakh3NWE0RFhqWlNiZUNHU1g4ZmYyTGVhaDB4ZVJZVExvd29VZTVfX0lHOGZqTDVPbUpRSGRzRUZ0dk4xbV9uLVBJb09fSWtNX19DWEN1X0l3al960gHWAUFVX3lxTE9FU2JlZ2FRTVNXdDZjVndXWXRTa3l5TGp1SVU0OFJBQ3NvdUNGUjZHZkZiNko4YmJWUXNkTFRMY3dpeDlCaWM4eFFBd1FvbmNhRy01MjdvNDhjd1IzdWR4b01zdU1iOXNZWDU4ZmNoNm1kM1pQX01mcGM0ZU9NbGp3STNOdzc4MFlFMkVEaGZubzJiWW9BcU9sbHprYmNYT2lDTy1GaE5kbk00YnplNUFJZnIzdFdHM1M2TE9BSWNvbFhIZk5NQllsUjFQM09iRzcwSXlfRnc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-09T13:31:00+00:00",
+      "score": 63.79,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e153303e394095ae",
+      "title": "El pragmatismo de la nueva política exterior del Perú - Expreso",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMZ0xnbVRBM0Y5aFRPcWFiaGZmdDlkS0paMnJBbExyUU0ySUhyNURldDBJWmVyb01sSlFWUFZRR3dSOC1pd1ZDSEFPak9TUUkydWVsV3ZGdm5MUDRFX3RTczJSMElsUQ?oc=5",
+      "source": "Expreso",
+      "published_at": "2026-09-09T07:52:44+00:00",
+      "score": 63.24,
+      "corroborating_sources": [
+        "Expreso"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a2b6b51264f11c82",
+      "title": "Jerônimo e ACM Neto empatam em pesquisa eleitoral na Bahia, diz pesquisa - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlppWF90YjVnVXpLY1hMaFU4MjJ0eG1WdXlWVXNKNjhuQnRNeFFHZjg0S2F2MVkyZEdxUWV3Sm1aMHdzUWVmZlB6QlN2aFBRM25KcldLMHRPN0c2a0p5dXMwZ19hUzFhYzc3RFBkMWh4VFV3Zkhzd0x1eDhkd1NGbVR3VWRKbXlEZ2tfQjQzMEZrSlFoUVo1b1VLWGE1c2Y0VDRmYWJDWV9FalZDUzlVT2V1U3I1dE1JRk4zYQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-09T12:32:11+00:00",
+      "score": 62.76,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXZxRGpzcGEtUlNEQW9KRVFUWGp6YVhmOUhQdzREbXBNTExoc0UxOXBrcHp2cExFVUVzbFo1LTRmNTQ4UUJGYTU1cVdPajM1MEZFZk5nNVQ0Mm44Q2FMQ1dZQ1ZtT293RDA4eTdxbC1wLWtXbVc1VzVpTVF1TG55WjhFaDJxUU5NaUM5cVp6akFsUTV6dzdYbnB2WmhZS2s?oc=5",
       "source": "El Clarin de Chile",
       "published_at": "2026-09-09T07:15:40+00:00",
-      "score": 68.86,
+      "score": 62.68,
       "corroborating_sources": [
         "El Clarin de Chile"
       ],
@@ -66,14 +231,59 @@
       }
     },
     {
-      "id": "0b70fcd18ec0f841",
+      "id": "aa91b56edfe40e61",
       "title": "Expertos jóvenes argentinos interesados en la política exterior y la integración de Vietnam - Thông tấn xã Việt Nam (TTXVN)",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFkyRGtkeUM4bmVKcTJ6Z21pYWZlSG9kbXEzaHVESmgyajdUR0o4dUNZRHFBMjZjc1NkVWJURzVvd0hUVjhmT043SVhsbVl0OU50SVBtbXRJdUgxZFB3d1dhOWpZdnRNWVNtdGkxRjNRamZrTDBJcDVHOVQyelh0SFZSU1BTUEVOY3dQWUZBTVdUaDVMMHd5Zl8tT0RIbUhwdV9MRXUxTGpuZTJVMUJncUY2WmxqUkxwdTFsaEl6WG5DdDItZzF3cGg0LVJZQll0THlBbGlfVVJJM1NVakE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWWNKR0pZZzFLUHl3RGE2Z2pseHJXQmNWbjlmWjA0MG1HWnVFVUdGdWFJa2swdHlHTXhPMkRubVJJVC0zcnB5T3owNTB3cUlEQXpXQ2hXNFdNNXVfV0xnV29zM1hBRGRGNVM1Z1ZnbXcwT0ZMcTZKd3pNZ3JuaG56eGl3V29ueWluM0Q4SFlIemVUT2VRQVZ6VWhhazlRbWllMGVMS2N2eFlNaHlOcFhLdEpfU1JqcVRWZUxLenNyOUowRVBHUGIxZ2QwRVVER3UyZTFreEdpU29nS2ZOTlE?oc=5",
       "source": "Thông tấn xã Việt Nam (TTXVN)",
       "published_at": "2026-09-09T05:46:12+00:00",
-      "score": 67.3,
+      "score": 61.37,
       "corroborating_sources": [
         "Thông tấn xã Việt Nam (TTXVN)"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "820419b735724376",
+      "title": "Ministro Pérez Mackenna se reúne con el expresidente Eduardo Frei para abordar temas de política exterior - minrel.gob.cl",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTI5RGJGbzBhYUpaRmVEQ1lyc3VqY3NORWxySlgzV0pOTW5Bd0F1ZVNsdEpGLWJMdGJKWUk5dmFoWVIyczdqb254LTdScDJxVmtKSkRGd3RCSnM1RmtySHQ2T2p6bTdnc0dZSDhHSXQtRzRMYVByazJGMDBrTjRPZ29pME5Td21BT2JRZXkzSl9JMENmTjBCR2s1M1ktUkFjLXI4UVdhcUVkRW51bmUzLQ?oc=5",
+      "source": "minrel.gob.cl",
+      "published_at": "2026-09-08T18:42:00+00:00",
+      "score": 61.19,
+      "corroborating_sources": [
+        "minrel.gob.cl"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bcfdd32799b08503",
+      "title": "Mendonça revoga tornozeleira de ex-presidente do INSS - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVVCU3FmLXp2dE41aW9jRXh6ZjhNYVNCa2NkUllkM3BWU2RDMXM4b093ckpvTGZQTDVYMGFjZEZ0VFFHcnc4cU90bDB6V2RSaFR2VmRwU1FtYW9YT3p4VEtyZWpLa1hHWF9nSVFrbVR4WWhITDY5bkxURXRqNGJzMzJabE83Nlk1RE9qdmQyejg5TkJRVUVISE5vX0I?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-09T01:35:00+00:00",
+      "score": 60.98,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "caf7568de994e0c5",
+      "title": "Urgencia en la Política Exterior: Un Llamado a la Acción - Partido Por la Democracia (PPD)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDFHRE5KeV9TdGxJYUZYTkRYYmt4M2EwZzViOUFuZFpWMERRZzVBNnNUNTFvV2ltZGNlaFRzczNsRTZ4ZTJVajYxeVpOQy1jYkNpX0dkSWZSZmdRSDFuS0hYVi0xMWZvRXZZS0lUQ2djR0t1ZmlTTklZbzVaY21xMmJibXlGUEdwQ3c?oc=5",
+      "source": "Partido Por la Democracia (PPD)",
+      "published_at": "2026-09-08T00:53:51+00:00",
+      "score": 60.33,
+      "corroborating_sources": [
+        "Partido Por la Democracia (PPD)"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWFHdndEaHFub24ySzZPRDh3ZDdxTlZKbHI5VlJMZ1JNT0ZmTDgxX3RBODh4ZnVNU0F4SHNJdGF0Y1FNdnZKZkJBUE9LNm1qeWI3RjFyaXBPbmZPenNUSlJucGlVUkM1SEswWmwwM1p3Y2E5Vl9nTDNDQlIyQjd3NGlrME5paWVTTFp0anNtM182SnNMXzhxeEFOUnc?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-09T12:14:20+00:00",
-      "score": 66.55,
+      "score": 59.46,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -101,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3lncXNZbTRfbUxlSXJXbFFSOHdOSUZPM2NvU1dBa3FqNEpTQ1VhYXNMZUtLQlhfQjROeElmNWw1WXFnNWFtdTI5LUFibzI3cnFoQUh3UW9BNXNOWG1vQUZnRE45MHZKNFJES0FocU1aUUhJNEowOHZuZFdDZFZLbmM5bw?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-09T12:07:37+00:00",
-      "score": 66.41,
+      "score": 59.34,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -111,14 +321,14 @@
       }
     },
     {
-      "id": "bcfdd32799b08503",
-      "title": "Mendonça revoga tornozeleira de ex-presidente do INSS - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVVCU3FmLXp2dE41aW9jRXh6ZjhNYVNCa2NkUllkM3BWU2RDMXM4b093ckpvTGZQTDVYMGFjZEZ0VFFHcnc4cU90bDB6V2RSaFR2VmRwU1FtYW9YT3p4VEtyZWpLa1hHWF9nSVFrbVR4WWhITDY5bkxURXRqNGJzMzJabE83Nlk1RE9qdmQyejg5TkJRVUVISE5vX0I?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-09T01:35:00+00:00",
-      "score": 66.26,
+      "id": "dfe146f506881806",
+      "title": "Republicans gather in Dallas for two-day midterm convention billed as a ‘Trump-a-Palooza’ - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcndpMG5fcXN3eWJkajdwSS13WndjUTRVQUZsVDVXdE83OVE0Q1JkRmdFbDJoMDdmTkgyX3REZmFORlVuS2dSYWV0LUQ2NFZXdjF5bktxempOTEF2M0FPOXJJWDR5bWVubE1qOVVKbk5mTzJVZWVMUHRKTlJvNVFIeGFCZjFUMUxVNlBENGNNVDJxaHZTdGRsTlF5YWF4MVNwTXplc0k5V0ZRY0l1WTRYTGZ5ZXBjaU1lOGtlZGJkYUhYelVrN3FzZ1BnYlk0dWFGcDU0VDlObXhMalFmZ2FxRnlqcFdLdw?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-09-09T12:07:16+00:00",
+      "score": 59.34,
       "corroborating_sources": [
-        "Poder360"
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -131,69 +341,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN24xZ2tPZFZsVVV4MVYyTWk3c1FuTDViaV9xTlpWRzdTSU1taEJDUExveUZWZ05LYmExWnVvX1o0cml0T0ZYTGlMNWZXc1NjbDNKT0VxMzdMTmQzeVlhMHZSXzZ0aWlERkJBVXhwSkphLUktZjBQZm5xb0xQeHRDbzVpOFR5VlFxd0Q1MThPOEtETGp3NVJGcm9pSzVjOHFJTFE?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-09T09:01:39+00:00",
-      "score": 65.79,
+      "score": 59.3,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "820419b735724376",
-      "title": "Ministro Pérez Mackenna se reúne con el expresidente Eduardo Frei para abordar temas de política exterior - minrel.gob.cl",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTI5RGJGbzBhYUpaRmVEQ1lyc3VqY3NORWxySlgzV0pOTW5Bd0F1ZVNsdEpGLWJMdGJKWUk5dmFoWVIyczdqb254LTdScDJxVmtKSkRGd3RCSnM1RmtySHQ2T2p6bTdnc0dZSDhHSXQtRzRMYVByazJGMDBrTjRPZ29pME5Td21BT2JRZXkzSl9JMENmTjBCR2s1M1ktUkFjLXI4UVdhcUVkRW51bmUzLQ?oc=5",
-      "source": "minrel.gob.cl",
-      "published_at": "2026-09-08T18:42:00+00:00",
-      "score": 65.55,
-      "corroborating_sources": [
-        "minrel.gob.cl"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a9a96535813a224a",
-      "title": "Netanyahu to sue over claim UAE leader warned of him of October 7 - The Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbDBFVVBlTnNrSkRMb29KT0NrOW5jY1J4YU1EUVAwVUJyZTlZOVFDQVZxczd0c05oN1VJR2EyZUpGYVAwWlN1UXhnaFFzTThab0dvY1QwQ3F4cWQzblB5VFZraWdDUTdDYWRLQXY4eGs4eGlUSVNfUXl4Rk5KZzBpT3lsOEhYUVlwVU5kYVdfal9qVmlOUEtrNk8zb3NhT0RqN2gyazJWQjFnYVZiYmw1N0ZvODlIWkJsMWtEdks0a0R2RVBwX2VpUUZxazk0eTRVdGdz?oc=5",
-      "source": "The Times",
-      "published_at": "2026-09-09T10:50:37+00:00",
-      "score": 64.88,
-      "corroborating_sources": [
-        "The Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f2fcad09f96c5292",
-      "title": "INTERVIEW | India's Presence In BRICS Ensures It Doesn't Become An Anti-West Platform, Says International Relations Expert Harsh Pant - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0dKVFlhenlUUlFTQy11MXhFRWNUendVMHg4Z1kzS2NINVZscl9ldGtfa2Z5ZmduSnVSem1Pak9FZUtGVTRlX2RZSkN1SWhJdFRFV21HVV9yZllpYXZxZEdrb1lfNXhNMUJzQ3BrcjNGYVR2NWtzUG0zTjBpd1BTSUxXaWh3RlVQVTJjalZJbmhzY0dOYWxBUWxwOUx2VUpKb29RY29qT0J0YTBtbVRFdjhaUlhOUlZBaGxPTnlIekF4MWVnOVF4YmR2VEw5eHZUYXZZeHdVX3NhWTViT1HSAeMBQVVfeXFMTmQxTEdvTDJuNTJqb2pSYk9FR3duMXFqVDZ4dEJNcjAteUd2RmZHcWp4bzBTZkNWXzN3T2Q2SzlaT2RxNE1GeDJnYnVBMXIxSVVvX0ZaUU95a2RqWTg0d1lQclFscnBWWjJTMnhlYU1WUGJWNmY4MTYtemxXNHktS2VHREptaXBWZHBjZnNvZ0xhU0J4SFdoMUxSTTRfZUVsTVJTRkRvandQQm1YeDd3eW8xbU10NWxnYXkzZjlHbGtLNXF5enNoQU9MZnIwbEl5SHozOFF1OHJPYkFUNThXQW5qV28?oc=5",
-      "source": "ETV Bharat",
-      "published_at": "2026-09-09T10:42:13+00:00",
-      "score": 64.71,
-      "corroborating_sources": [
-        "ETV Bharat"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "525e5119653ee308",
-      "title": "Unlearned lessons of 9/11, a quarter-century later - Catholic World Report",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0NvOGFWNnlsZHBodXVXenJmQ1J6WEhKT09CZjJETUNsMW1TQ3VES1FOdURFZGpnLVI3QTZOSGRiLWZOUG9QNnRZaF90THU2dkxZNkxlaXlSWFc1cE5qNU1Bcl9mVnowQkg5YXhfeHdyOHQzTUJWQ2tmZTVUVHlyN0pUSVpVc3B2cEV1djRnSldmYnB2VkxoTDlWMTVGQQ?oc=5",
-      "source": "Catholic World Report",
-      "published_at": "2026-09-09T10:41:15+00:00",
-      "score": 64.69,
-      "corroborating_sources": [
-        "Catholic World Report"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQnlwUHdhb044OGVNYk1kbk03UWRORkM1dVdISHBoWG5xVXBSWXU2M2gxQ25zZFRVRXo3dnRCU2V1alBNaEtnZkpnSnktZFZwS1J2YVZGaW5sbVhSdjR3ZkQwUnY5UjNTLW9NRFFsTkswVldvVndaUmQ5TldKNFZiSVVMSG5meDlnaGoxNFFiNW02R3lDcTlPSzJ1RFNKVmRCUnZmbUt0d2h6Y1FHRldSSS10VlVVVXc5MENNQ3VUYVNKU0FvX3YtQjRScnJLcV9mVTZn0gHYAUFVX3lxTE9qa1JDYjRnUjlWLS16d1lqeFM4bnp1bWJJa1kzanUyaUpHN2lKSDdiTW5WSVJ0Y3JNbi1DX3MwdnBGa3AtWmVCTUhTazJ6RllPNkJENUtueVZyQ1ZUNlJPS0ZVcmdDd0RQNVVYYUlrbWpnTU9jb2tuQk85NThxZ1Q5eC00ZjlQWlFESFFSYjhDM0VHUC1STHlhVzlWcWRkeXhkRDRxWFdlV2FPMWptVDk4VFBlbzhoMUxnWjNLMU9KMnpydDFzbF9kZEFRNUl2UFI1VV8tbEFlNw?oc=5",
       "source": "El Debate",
       "published_at": "2026-09-09T02:30:00+00:00",
-      "score": 64.1,
+      "score": 58.69,
       "corroborating_sources": [
         "El Debate"
       ],
@@ -216,74 +366,14 @@
       }
     },
     {
-      "id": "d3978bf25c5b5bf7",
-      "title": "El mundo en análisis desde Santa Fe, en el primer Congreso de Relaciones Internacionales del Litoral - lt9.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2ZVRDcza2dmcy1fbTNXMUEtNmt2akVwcGJFbDlhNG9BTG0td21xVlFoMVZkejdTNFpXaHpkOGZUZTNTWV81N19jUmFGY2V5Qi10QkRiZ3cwOTFqQjJBVU5MUFFjTm5XdWhjcGY1QTdFNjk1bnptaktpU21fM1pyVGQzUzl1MWxyakF1SVh5MkRwY1NDZHNLTXlaWU12VEdmZ3ZBVm90MVVTS1lDa2RJQTNwMWt3WS1wemNwbHBNUFU?oc=5",
-      "source": "lt9.com.ar",
-      "published_at": "2026-09-09T10:02:02+00:00",
-      "score": 63.93,
+      "id": "a9a96535813a224a",
+      "title": "Netanyahu to sue over claim UAE leader warned of him of October 7 - The Times",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbDBFVVBlTnNrSkRMb29KT0NrOW5jY1J4YU1EUVAwVUJyZTlZOVFDQVZxczd0c05oN1VJR2EyZUpGYVAwWlN1UXhnaFFzTThab0dvY1QwQ3F4cWQzblB5VFZraWdDUTdDYWRLQXY4eGs4eGlUSVNfUXl4Rk5KZzBpT3lsOEhYUVlwVU5kYVdfal9qVmlOUEtrNk8zb3NhT0RqN2gyazJWQjFnYVZiYmw1N0ZvODlIWkJsMWtEdks0a0R2RVBwX2VpUUZxazk0eTRVdGdz?oc=5",
+      "source": "The Times",
+      "published_at": "2026-09-09T10:50:37+00:00",
+      "score": 58.05,
       "corroborating_sources": [
-        "lt9.com.ar"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a5305f4a53743f99",
-      "title": "Reacciones y posibles efectos de la cadena nacional de Milei sobre Malvinas - El Litoral",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRHJuRWtyR185MG5CYVNZM0tYOU5TYW9ZTXVuMzR1SEM2N3JrYUI3RzlxZUQwbzE4Q29aT09NZ2U3ZG5TMElnVk9OVG1EY0ZJUFpia3BnRml2T1A1QXZLdkVTVU0xMGsyN0wtb011NXpoSWQ2XzhFaDk4RjRSSTdmaEx3YnVvYU1ULWsyZjRna2psUjRtR2hKRzRnaVRoMkZvT2syQ3JUd1JLQ1lFY0dtTlRFbHNuS0FYaEFhS0hpMmliOTYyRjM3ZXNFLVk4YWtqQ2hUU3Z4dkVKT0dDcUNla0NlaTE2TUhSdDV4VlU5WmVOTWt2a0I5bjVaREFBSG_SAYQCQVVfeXFMT2k4T09wVWdvMTQybllFYVMtc2ZzeU10MXdpQjROWDNVUjBMSmpOa3kyNGJkWF9jSGt3aS15azhzSk80RF9ZZWlPZmVLclN1aUlSalNRYTFyWmVNYjQwTzB2SlFwZWZ2djR5a21WTVN0NW5aTHFXSlhYM00xcjlyWVF0ejl3S2I1ZW9XOUdmTjB0emdqWkhCbG9QMHhuZTFvT1A5b3oySGZqb2lGUnl1cjA0R19tTXY2Y1g1bXNnNXg5N2RTLWl0MG03YW9WQzZ0Y3hGQjgxNFU0ck42UnQwY1AzWGhnbHNncmZIcTlXMTl5QmdqWUpqZDNVOUtCN00tU0Z4eEo?oc=5",
-      "source": "El Litoral",
-      "published_at": "2026-09-09T09:26:59+00:00",
-      "score": 63.27,
-      "corroborating_sources": [
-        "El Litoral"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e372a5ecd3ef62e3",
-      "title": "Associação Brasileira de Imprensa lança nota de apoio à reeleição de Lula - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1pWZktyaWVocTRVOWwyeHhzaHJIdzEyX1g2LTFHalV1bEZmZ21ndnhaYU5ZTl9GRnB0enZkOXRreFgxa2dCQnZiaFF4bFpMSUdhZXFNSkE0Qm1rdl9XWmFtTmE3MDZPX0Rib1NNei0yYk5naF9WU29tX2pTeDMweUgzQ0ZjYmJlcGt3MXl0ZTc5eWtFVnRtY0RtbHJFZ2RFOHRsdjVLbU5na3Q5dm5OZllMOTV0V0ctUTJSSHl2VQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-09T06:36:15+00:00",
-      "score": 63.17,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "db273a3d04e2fe16",
-      "title": "Sánchez se presenta como víctima de una conspiración internacional en el argumentario del Gobierno sobre la crisis de Ceuta - Ceuta Ahora",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeGt4eFMyMmhfVDl2bUh2bjQwV2hweW5ub2lvTGR1U1NGS2RLbjF6QzVTZXZ6M2gzcXVBRG5VSzdLVEpDdWRwTWgwTGdjN1QxT3BYMGpJcVljVWI2aUFrZFhoTGdVZnlnbXcteG5vOERiNGVOUnc5THBLczZWanVpdjFJNGRaUUdydFl3TFEwSjdjcnlJdTBIeDAtbXNjcFFLWjdIZnVWV1VtSXAzYkNQbDdWYm9CRDU5Ry1qNGp1Vm9aTjZfb2dtM3VXRFcyQjNtbXd0Yi11ZmRreFBmVENmcFBCQ2FxLWdFTm9kWA?oc=5",
-      "source": "Ceuta Ahora",
-      "published_at": "2026-09-09T09:21:40+00:00",
-      "score": 63.16,
-      "corroborating_sources": [
-        "Ceuta Ahora"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "caf7568de994e0c5",
-      "title": "Urgencia en la Política Exterior: Un Llamado a la Acción - Partido Por la Democracia (PPD)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDFHRE5KeV9TdGxJYUZYTkRYYmt4M2EwZzViOUFuZFpWMERRZzVBNnNUNTFvV2ltZGNlaFRzczNsRTZ4ZTJVajYxeVpOQy1jYkNpX0dkSWZSZmdRSDFuS0hYVi0xMWZvRXZZS0lUQ2djR0t1ZmlTTklZbzVaY21xMmJibXlGUEdwQ3c?oc=5",
-      "source": "Partido Por la Democracia (PPD)",
-      "published_at": "2026-09-08T00:53:51+00:00",
-      "score": 62.99,
-      "corroborating_sources": [
-        "Partido Por la Democracia (PPD)"
+        "The Times"
       ],
       "signals": {
         "source_count": 1,
@@ -296,9 +386,39 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTkzbDVaelVpY1Rta2d1LVRrcE9PTTYwUl9pNzlkUjV6dmpDcm9uVWIwaHNoWXFQRVU1SnU0UjVaVjVyY2VEalhGc0pCeV9DcXR6eEg0ZWVkVlVXZTU5ZVJFZGJIX25IMDlfNlZzUmFXZDhJc0NObGs4ZmxFbjFFSkRJeXR3NUZkTWlUOE0wRldtQWRDcGc4bUpqWE9LX0ZMcWg1Y2ZkUkpxSEMtb3lQX2Q1YnZTY2xCdW9aZ180aE0?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-08T21:26:00+00:00",
-      "score": 62.69,
+      "score": 57.99,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "72c7160bb72495dc",
+      "title": "El mundo en análisis desde Santa Fe, en el primer Congreso de Relaciones Internacionales del Litoral - lt9.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2ZVRDcza2dmcy1fbTNXMUEtNmt2akVwcGJFbDlhNG9BTG0td21xVlFoMVZkejdTNFpXaHpkOGZUZTNTWV81N19jUmFGY2V5Qi10QkRiZ3cwOTFqQjJBVU5MUFFjTm5XdWhjcGY1QTdFNjk1bnptaktpU21fM1pyVGQzUzl1MWxyakF1SVh5MkRwY1NDZHNLTXlaWU12VEdmZ3ZBVm90MVVTS1lDa2RJQTNwMWt3WS1wemNwbHBNUFXSAcYBQVVfeXFMT3RyeTdSb3V6TTVISm1qbTFSajRCenZXYzdPSDdYOWlGaVk2eGhsUko4b0Jfek5OTTh1NmlKTmNBcVV5T24tOUNzTHpTemN2VXFNWk1wQmRpRHhoUnExd2dLS0JPRlVQSTRxLUtMYmZteHcwekVEMUJsN29TZjhHZ3ZhNDB3Yl9UcEJCSzRWM2VTdnpTRDludGpfRF9Wbi1zMDEzY3pBVGFEalM1Zk9tYWdkMm1JakNuS2EtMVhkWTVhcnR4MGVB?oc=5",
+      "source": "lt9.com.ar",
+      "published_at": "2026-09-09T10:27:09+00:00",
+      "score": 57.67,
+      "corroborating_sources": [
+        "lt9.com.ar"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e28cf82a57b24eb0",
+      "title": "Expone Canciller incoherencia de EE.UU. con derecho internacional - Periódico Venceremos",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNREFucFVtdFZNdXBvd1otM09JYXVubzliU0t2Q1l0eThXN283SzJGZWZwZDNtMG5MNnF4RGtpSDAzZzluTGtkSURhRmZKZVQwYWN3UXRJTjBnLWM2anVzSElGd3dHRG4zaEFTYnlNSDVvYVJSd2Y1T0FmS3NNNG13UDRla01GbDVoV09rZXBIdHhESlpwc2lDeXV2QVh5UkJMRkRzY1NiNzNMYlJlLXR6SVpWVG5LYlhydmdXZ1pYM1J4WFhqOEczbnVSTWs?oc=5",
+      "source": "Periódico Venceremos",
+      "published_at": "2026-09-09T10:25:44+00:00",
+      "score": 57.64,
+      "corroborating_sources": [
+        "Periódico Venceremos"
       ],
       "signals": {
         "source_count": 1,
@@ -311,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZTFVZmh6a1ZiTWpCWUZGRG1SUkUxOVg4NHZLdmtCWUJzcGttV2t0UEpNdjVYUFFFbTFkdjJ6N0JkVVpIalJGMzdfSHZrOU9tUnBFMHFmbUl6NnRPRy1VZmZZczFHMjFndFMtTVRrQWFrQTJoQXljLWtpX095M2lzbmxkeXpSbnZRaVpMamQ1YXRpMllJN0NWWjRubDRBMV9SVkhkTHJ2QVFOQU43ZnduSG1Ma0xoWFhpR1ppZXVtRE5DdkswdlhjQ3NEZVVNSXc0T3BzWnUzbDdLYk0wcTBqTUlkb1FveGw0OEE?oc=5",
       "source": "facebook.com",
       "published_at": "2026-09-09T00:35:24+00:00",
-      "score": 62.37,
+      "score": 57.23,
       "corroborating_sources": [
         "facebook.com"
       ],
@@ -321,134 +441,14 @@
       }
     },
     {
-      "id": "ced28e6569e634ad",
-      "title": "RN tacha de \"irresponsable\" interpelación a canciller Pérez y acusa riesgo para la política exterior - BioBioChile",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTjdFYk8wa3pSUnNULXlXdmJ6X2tEUlVaei1PemhBZldnN0VZcFYwclVNSjlCQTJVbGdiMGREYlVkdlg5LVFzSWFvdHpjZXBRS0ExaHhjVlZ4RDNQMmFXN28xVmxiaXYzY250Z1hkM1lmM2FvUGpJZ00yMFRyR3dvcHd1Rlo1Mmd4NWprWHkySDd5Zl94NndvQjFJbk1fNjdTSGJTNWdGTzdkWlhZaEhjM2JmTHZHTzJtMDRrbDhGbnBEbVFENHdfTFlHUUZtWXdUYklybFhwT3BTaXRFc3lhQ1M3S21GZVlxa0gycUJHWFJNRE1vOVBWTEln?oc=5",
-      "source": "BioBioChile",
-      "published_at": "2026-09-08T22:06:43+00:00",
-      "score": 60.25,
-      "corroborating_sources": [
-        "BioBioChile"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9e55d823809fc65c",
-      "title": "¿Legítimo o irresponsable? Oposición interpelará \"giros inéditos\" de la política exterior a cargo de Pérez Mackenna - radio.uchile.cl",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLW11UUdBLVZyUnp3dURyTkc0c2NlSWZJVGh0YUtaNDF2WDgybEk3WGtEMTh3TTdDd0RJbTdyMWlRcnozWlpjVVBuTW5KemlULTBkbjhNM0N2cktSSnZHcnN1OHZXSjQ0QUMzUVluWjR6dGVyN2dfZ3dhZTBDTmtUQ3RfbzA3TEZoUF9mNktSUjVFVEFieHN1eGQ1ZS01S3NNYW1URWY4d2pkU000UVkwSnM5NWgtX29VZkRKa2ZCMUxxMWptYm42NV9zUElYWlhMT1hZRVFVQnprZE1iM19CLQ?oc=5",
-      "source": "radio.uchile.cl",
-      "published_at": "2026-09-08T21:27:44+00:00",
-      "score": 59.71,
-      "corroborating_sources": [
-        "radio.uchile.cl"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cd93f40b6ec7fa22",
-      "title": "Senadores analizaron prioridades de la política exterior y plantearon fortalecer la integración regional - comunicaciones.congreso.gob.pe",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWkVDSnAySm52M0d4TVctSGdOOXpDUjdfV3ROTWJFNkFhNlpMX3RTZWY2ZFpsbWRhT2NxNG9meXdPajAwU3hJOUpUVHpRV2hWdkpVTU9Td1E4MXotc3ZhVnM0TU5YSzFhdlBrT3Y2alFVMmYzbGtrM3J6LU9MZHY1ajZ4dm95R1c3R0lDZE1FU0FlNVJyZk1FcjJQb0YxYWViaGVuWmV4LVlsbnhzcXJabTNaS25HVTVkTFBhaHRxY0ZMbXp1cHkwYVlHVVozQ2hBWmFwMXg0Z0NXSlhaRGZYdUVreWJFc1RS?oc=5",
-      "source": "comunicaciones.congreso.gob.pe",
-      "published_at": "2026-09-08T20:29:19+00:00",
-      "score": 58.93,
-      "corroborating_sources": [
-        "comunicaciones.congreso.gob.pe"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "988713444a4fd95a",
-      "title": "Lula ignora crise na PF e exalta políticas ambientais no Planalto - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDl3S3J2U3VzaUJOcWw2NWkwcEd2T2U0ajNnV0FKZ0ZiOXVsSTJyZjhrMFA5ZDFQcElhSWNnNmVwTlFoT0hxUG5OdUJCWm91VUUxOE9GcVRxSnV1VjRQemNYS2RqZlYyUGZnX0ZvNFJNRG5iWUV3Tk52dkZzVTlfVjFxUmw2azMtcGIzU2JhZzlfcE5fdFNqWS1FUG5ZcHlONTY1dDZjaDJpSk5F?oc=5",
+      "id": "e372a5ecd3ef62e3",
+      "title": "Associação Brasileira de Imprensa lança nota de apoio à reeleição de Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1pWZktyaWVocTRVOWwyeHhzaHJIdzEyX1g2LTFHalV1bEZmZ21ndnhaYU5ZTl9GRnB0enZkOXRreFgxa2dCQnZiaFF4bFpMSUdhZXFNSkE0Qm1rdl9XWmFtTmE3MDZPX0Rib1NNei0yYk5naF9WU29tX2pTeDMweUgzQ0ZjYmJlcGt3MXl0ZTc5eWtFVnRtY0RtbHJFZ2RFOHRsdjVLbU5na3Q5dm5OZllMOTV0V0ctUTJSSHl2VQ?oc=5",
       "source": "Poder360",
-      "published_at": "2026-09-09T01:52:56+00:00",
-      "score": 58.53,
+      "published_at": "2026-09-09T06:36:15+00:00",
+      "score": 57.1,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0fc0991779c8c56e",
-      "title": "Canciller califica interpelación como “un oportunidad para detallar los avances de la política exterior” - elperiodista.cl",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbE55ZzU2cXFjS0ZZb3lHR01xX2U4YzZXQnlwOGNEcm9sMjVPZXRNZGQ0SUEzNTA3djlMTnhGVDl4TnI0VWlBeG5oN2tSdnY0SzlNUUw4QlQ4VzhfQVgyVnZ4TUdvR2pIUTBhMFhfU0RyakEwUWFkYm1XZU53eTIxLUVqOWR5WXNCN0pUNjBrTm5aOWdUZkUxOW9mcHEtWEtvZ0tCYXhYd0NDN1FicHhpVk4tLU1CZ2s3Ylh5QUxoVk81NXNlTzdtaFNtMGI5cVZlRkk5RmRn?oc=5",
-      "source": "elperiodista.cl",
-      "published_at": "2026-09-08T19:42:45+00:00",
-      "score": 58.33,
-      "corroborating_sources": [
-        "elperiodista.cl"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cd98899bc1c26cbc",
-      "title": "The Saudis and Houthis Inch Closer to War - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwNXFJMXdhazlFOFBMM1N6M1F4MXRkbTlKZUhhUVpuYU56aC1WdTZDcUtxZHEtR0ZzNGNXUEdabU1sNVdYS1JnWGYzek5QVmlNT0V2aWFLcW04T21RU0EyXzFmZm04S0tXcGVDNzJ6dzIyUkU5SWZuTA?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-09-08T18:21:26+00:00",
-      "score": 57.3,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6638c9234a8cbf7e",
-      "title": "Guerra en Ucrania: ¿Qué se dijo en la llamada entre Donald Trump y Vladimir Putin? - Reporte Indigo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZjNWZVFlNzRZM1E3RzI4Q2lTLUl2U19YcXJNV0o2d1lJOUp3Vnp0V1BtT3hpRWRhYnZiaHdjb1NUem1oVklVbXF2Vk5jYk4yM1A0VXRJR190Q2JzXzRoLU9yaEFTUGhTaXdfY0FqSmlJNUhaS2E3Qk1CRDlNV1NscjhiSDhnNE9XZEczME5JaFU2R0FCcExjazZiZ3JKOUhtUllPWVRXRzRldjlZVE5SSFdPRzlwUTdFN21BVGh2Ny00Ml9aNFlsOWxzRTBBeFBCeGc5aUJVdWc5QQ?oc=5",
-      "source": "Reporte Indigo",
-      "published_at": "2026-09-08T18:11:00+00:00",
-      "score": 57.17,
-      "corroborating_sources": [
-        "Reporte Indigo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "52da9a4b2e13d782",
-      "title": "Postagem engana ao listar políticas públicas adotadas no governo de Jair Bolsonaro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2lLRDNZX19PaXdXcGFYMWp6ZDhkYkFGTWx1YUtpZVdSWW14OGhLV1FWQUlQVmRfV0tkbnVGUkc3S29aRUlnRTdDOU5EbHNXaDlIWkRxV2QtV0YxV3BTUGR4ckg2LWQ5QzZ1UXZFZGlxcG1WVk4zZkNuZnJIVjE5eDNHNDFMZm93ZDRWdjRZOXZ3WHAyc2tMTXA4dEdJRTRDQmhkZdIBqgFBVV95cUxPSjlBTkl0OG5lT1poeFNyNHpDUFlLYzlEa1BuUmROdE82Q2NHdnZfSHM0Sm5NV3I2X0FCRjNVQ0tadk41Qk8ySWg3QTVOR3IzU1pQSGJyMThrckp6WDhyWHltdV9pWFJVckN3ajY1TDhBdnVEeDRsVFlDbDNzTzFkSjlrZmFPdW5KNXU0T0FBLUhjRklXbm1qQ2RNWTVOYkV2cTJYSDdHb2JrZw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-08T12:11:40+00:00",
-      "score": 56.08,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "21d3b61a70522d9b",
-      "title": "Peru passa a integrar coalizão dos EUA contra o crime organizado - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVFFODNIUG5NVll0M1RUZ0Y4NjZjbXZNSVY1bDFkTDlIclVlZlA3aG5Ic0ItOHM0SXVPM1JLTlB5Y2RBcHJoN3N0WVFHZW5rVEx4S0kyNklINlFIT2piWDVMSjh4aUFKNk9aVG45R1M3bXQwNGVLTWlDSUtOaDFlZ1prUDVuaGNJazBHdTNGa05tZGV4cXI3MXJad05NZ1NjM2RBcGtjZDNaZVB1TlRZ0gG0AUFVX3lxTE5rYUt4SVBmZlh4YWVQVmxhSDVlUFZsZDdWU2kxNG5QSXR1T2MyZElaYVZTVnNwNjJ4bzE3NHoxclRidXVIT180ZmMtNWN1am14TDdVaFRidkZMdTV6WXV2YW1aRzFqb05pSUtZVzUwa2YtQ0JYWDVFNzUwM2QyZ1RlakEzOXNKNnppak0xY1Z3S052MlB3TG1ybUpFRVByeEJWWkp1TzJ6WTR3Rl9LNjNPMWZoMQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-08T21:54:00+00:00",
-      "score": 55.07,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
