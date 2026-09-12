@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-09-12T15:35:00.131599+00:00",
-  "next_update_expected_at": "2026-09-12T19:35:00.131599+00:00",
+  "generated_at": "2026-09-12T18:26:33.416804+00:00",
+  "next_update_expected_at": "2026-09-12T22:26:33.416804+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "0b75ce50db4c46ca",
-      "title": "“Arte é política”, diz Julia Lemmertz sobre o papel da cultura no Brasil - metropoles.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmZSQnAtNkpzcnF3U0J6QVdPODktVkstc2R0b0NZTGZDYVVWelNYUFNMTkJRVVZLU0ItbF9zdkdTaG9HZjRZdkpSRWpuMXg5OUVFUGd0V2QxMElBUF9tN21RTFZDQWpTRG8wQVJTZlAzV1RRUXdXVlNSczJXYVBQQnZDcy1sU2xYTnJoWEhHdW5rV3N2YWlYSmdpZlRZMDhUNU5yOGxWbUYyZGJxVldqSA?oc=5",
-      "source": "metropoles.com",
-      "published_at": "2026-09-12T13:26:00+00:00",
-      "score": 75.87,
+      "id": "b7d5d1adb0aea084",
+      "title": "Governo do DF reforça policiamento e prepara drones para sessão de terça no STF - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2lCY3ozTzJBUHVQUFNrUkVyOGc3eDhjMlBzSFl0MWVwa1hBbFBOSnBvYkE5a1RscEdSM1Fsclg3bEgyZ19OZS1DeW1qWDVBbG94UEFhZzdiZWxiaFI5Y25YRUtZYW5NWVF3R0xaR1poWnpGQk04TzVVa3lnclpIeHBpb3dBVVI5MUtOTFBpM0xrVkZ3czB0emwzNUhQd3FsSjhpTEZXZm5SbzE5QWk1NUphTVhzNDh2THVMaUdCWWJISnpYU29DQQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-12T16:23:00+00:00",
+      "score": 75.97,
       "corroborating_sources": [
-        "metropoles.com"
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b2127baea3b4a6c9",
+      "title": "“Arte é política”, diz Julia Lemmertz sobre o papel da cultura no Brasil - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmZSQnAtNkpzcnF3U0J6QVdPODktVkstc2R0b0NZTGZDYVVWelNYUFNMTkJRVVZLU0ItbF9zdkdTaG9HZjRZdkpSRWpuMXg5OUVFUGd0V2QxMElBUF9tN21RTFZDQWpTRG8wQVJTZlAzV1RRUXdXVlNSczJXYVBQQnZDcy1sU2xYTnJoWEhHdW5rV3N2YWlYSmdpZlRZMDhUNU5yOGxWbUYyZGJxVldqSA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-09-12T13:26:00+00:00",
+      "score": 72.63,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a64a2db7dd7f1594",
+      "title": "Germany's election and the UK's sanctions signals political warfare - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkMxRkI2YUpWY0hZTkRWakJQaVRDcHJRWGdtbmNUR2Z5WEFVUTYxdWZfZngwTDk1X2VyaDJ3SmlxRFFFLVUxajhSQU9vRG9nU2tFNEQ5R0pNdDlhZVFtRDNzM2VBMG0tQm1QZkh6M2wtMWx3OFZZV0owaUFrSURhVFBkejItS2xCYlVIYlkwWUFGNTlwcEw2bzVHckVwV0Q2eHRPVkdrSnozZw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-09-11T19:00:00+00:00",
+      "score": 69.94,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lS0gwbl80UWg0QTk3LU9pZGpOWVl1Zzhrb0lNMzNNdkNWaHQwQ3N5VjF4cnI1eTd3YmlPbWhMVi00RG1IdDZBb1IzNVJjaVZ0ZmNPMVo5RlYzRGwzd25fUFlQN3VsT2g2cGlz?oc=5",
       "source": "AlMomento.net",
       "published_at": "2026-09-12T13:33:26+00:00",
-      "score": 73.01,
+      "score": 69.77,
       "corroborating_sources": [
         "AlMomento.net"
       ],
@@ -41,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2J1dE1GUVZsTnhmMWVlcjZoeXNNYVF2Mkd6N3pIU1lOS2Yya0dDTWFrM1lTVTk0czdCQmkyU3ZSUVA2eDg2SUM4LV9yRkktakphMU02QTg5MWd3b1REN3NtNzZFNFNtMVNUdDF6WVdzeDRHUmhNRExhRzI4WlNjSzMyZ0ZWcmQ2NlNwZFZ1WVVXTGpVWjNScnRyMUtCN1I4SVdubXBJMUwyenplNVItdGdLMHQ?oc=5",
       "source": "Huella del Sur",
       "published_at": "2026-09-12T13:21:31+00:00",
-      "score": 72.78,
+      "score": 69.55,
       "corroborating_sources": [
         "Huella del Sur"
       ],
@@ -51,14 +81,29 @@
       }
     },
     {
-      "id": "a64a2db7dd7f1594",
-      "title": "Germany's election and the UK's sanctions signals political warfare - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkMxRkI2YUpWY0hZTkRWakJQaVRDcHJRWGdtbmNUR2Z5WEFVUTYxdWZfZngwTDk1X2VyaDJ3SmlxRFFFLVUxajhSQU9vRG9nU2tFNEQ5R0pNdDlhZVFtRDNzM2VBMG0tQm1QZkh6M2wtMWx3OFZZV0owaUFrSURhVFBkejItS2xCYlVIYlkwWUFGNTlwcEw2bzVHckVwV0Q2eHRPVkdrSnozZw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-09-11T19:00:00+00:00",
-      "score": 71.88,
+      "id": "a4283c0474917dca",
+      "title": "The 9/11 terror attacks changed the world forever, but it didn’t have to be that way - Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYktiVzRjdmJ2WFh0aDhtcEtvWDdNc3ZjR0J6UzNOcEhfQWJsMEZuVTRZcmNKOG9uRGlYVEpwOFRaWGZFQ0xKQVl6Y3kyRUhUOTN4anBsMVctX2UycUJsamNLdTE3UVV2bEh1X3AwTmVkdXRBcGNSRTdYcEVkSHlORDA2RUhieThHa3RfUk9JUTZ1MTJpNWxuZkxvX1N0N3BPQTMzQWV6NGFBaTFsZ3dqVWxXeU1naEg3SHJla0dGdURZcFZo?oc=5",
+      "source": "Luxembourg Times",
+      "published_at": "2026-09-12T15:00:00+00:00",
+      "score": 63.37,
       "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
+        "Luxembourg Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c202c8a116ccb77e",
+      "title": "11 de Setembro completa 25 anos: Guerra ao Terror mudou a política externa dos EUA e ampliou disputas geopolíticas - jornalgrandebahia.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLTZkYm1DTEh1QWJTTWF2YlBsWEtTU1FBT0pMeGRwNFV2aUpYUkd3M1pqZjllTm1VWldnM2RsWXB3eUtwTGU1aHZKbGZybHlxQURIc1l1SW5naFp1YVBLQkRyajZobXd2ZklSV2U4bk03WF9wYkoxemZZU1ktZUJpX2RhRHhjcTQycnlJVkpkTWF6WmlzcEpsMzlWeGl1UjRyX1BlT1ByTDBjMmk1YU44WnB3TUZ4T1cwUGdrY3RJZHJyUzFsNFl2S0FvcF9xSjI1YjRaRjR2TXQ0S3dYYUY2MkQweHV4b1JnNlhr?oc=5",
+      "source": "jornalgrandebahia.com.br",
+      "published_at": "2026-09-11T20:00:02+00:00",
+      "score": 62.6,
+      "corroborating_sources": [
+        "jornalgrandebahia.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzVSTUdsRXQwdG9BWXBxWGY5aXgzcWtoWWpCZ2I3SEMyMEJJOFdwdHdJZDMtdjZhd085SWFUUkZGdWtrYWdIdHFwVzI1N1V1WVFvbWg4TFpudzBYM1QxakhSVjJRNS1tSFVSZkZkN2hlcUNsbEdhMXJweG5lSzdyU3gzUnhwbWpoT19aYnBsZUU2WFFreXFXTkhhcHlnaHBrM3FfRW5JRdIBrAFBVV95cUxOS0NwQVltQWJjNS1rVjlvUEpZT2twNDZDVUVITkN4U1B5Z3JoR0VoSDFuYnRkSFpHOW52d1JHYW81bmt4RVNuekVYLW45elRLRGVwZlNJMmEzX0JOVTFXRzYtS1haY0hjc1JXbjY0NEl5VDVvV2haaXg2aG9xejhVTGl5RXBISmJnUWp6MlI2TWRjWU9acU1MSUJNVHhvTjNKNU54WVRYMzBkdnZa?oc=5",
       "source": "Elplural.com",
       "published_at": "2026-09-12T06:04:48+00:00",
-      "score": 65.04,
+      "score": 62.4,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -81,14 +126,14 @@
       }
     },
     {
-      "id": "09436c5c66c6d946",
-      "title": "11 de Setembro completa 25 anos: Guerra ao Terror mudou a política externa dos EUA e ampliou disputas geopolíticas - Jornal Grande Bahia",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLTZkYm1DTEh1QWJTTWF2YlBsWEtTU1FBT0pMeGRwNFV2aUpYUkd3M1pqZjllTm1VWldnM2RsWXB3eUtwTGU1aHZKbGZybHlxQURIc1l1SW5naFp1YVBLQkRyajZobXd2ZklSV2U4bk03WF9wYkoxemZZU1ktZUJpX2RhRHhjcTQycnlJVkpkTWF6WmlzcEpsMzlWeGl1UjRyX1BlT1ByTDBjMmk1YU44WnB3TUZ4T1cwUGdrY3RJZHJyUzFsNFl2S0FvcF9xSjI1YjRaRjR2TXQ0S3dYYUY2MkQweHV4b1JnNlhr?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-09-11T20:00:02+00:00",
-      "score": 64.6,
+      "id": "8fbba695c8ac059d",
+      "title": "‘War on terror’: How 9/11 changed the language of conflict - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2ppTmJqUDB6S2M1ZHVRZkRUUEppNFdOT1dtUDJ5WTlWTXMyWXRrVWYwYXRyZjg3allKYzZabXhHSVoxVFh3YnhFVzVrX2ljR21TVXNiVzVaQ0dIQjhMcXZxTThxXy1jRGZvb2lZNVV6bXdQZjNEV0tlNTRNZmVLVHJWRE9VdWplRkQ1N2NTUl_SAZYBQVVfeXFMTi1zTTFlbjYxdjNta1hERmVreU9DU0RiUktzVTlGS2gwck5hSEdiNXkyMFlhTjUzLWJkNmdIbG1Xd0l1VWtxM2tpSFBzTXVOSk1LZEY1RXRiTy1IT2pDWFZ5SEl5NDdZQThUR0dwMDZRQzlmWFFQTTVVVmMwM0xKaU5GanEtYzA5bk00d3VEZkx2WWhJVG9B?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-12T05:30:44+00:00",
+      "score": 61.9,
       "corroborating_sources": [
-        "Jornal Grande Bahia"
+        "Al Jazeera"
       ],
       "signals": {
         "source_count": 1,
@@ -96,14 +141,14 @@
       }
     },
     {
-      "id": "a4283c0474917dca",
-      "title": "The 9/11 terror attacks changed the world forever, but it didn’t have to be that way - Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYktiVzRjdmJ2WFh0aDhtcEtvWDdNc3ZjR0J6UzNOcEhfQWJsMEZuVTRZcmNKOG9uRGlYVEpwOFRaWGZFQ0xKQVl6Y3kyRUhUOTN4anBsMVctX2UycUJsamNLdTE3UVV2bEh1X3AwTmVkdXRBcGNSRTdYcEVkSHlORDA2RUhieThHa3RfUk9JUTZ1MTJpNWxuZkxvX1N0N3BPQTMzQWV6NGFBaTFsZ3dqVWxXeU1naEg3SHJla0dGdURZcFZo?oc=5",
-      "source": "Luxembourg Times",
-      "published_at": "2026-09-12T12:49:56+00:00",
-      "score": 64.17,
+      "id": "8db60bf9e214ed0c",
+      "title": "Cripto bilionário doa R$ 250 milhões ao Reform UK - SpaceMoney",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlBoWjBsalhTODZ5TG9fbVZ2WjZDWmZST2IxYUZ1eFZjREpzeVBySy0tdEIyRWVaSkVZcF9raDZaLTcyUWZ4bFU5bUdhaDVCejZhZU90ZHVHdW52RkFqZ2hfYXpvSi1xN3ZWMmNNYS1KS2NMVDJRZ0pUcnNqMllTdnc5Qk1EbnZWeWc?oc=5",
+      "source": "SpaceMoney",
+      "published_at": "2026-09-12T12:21:41+00:00",
+      "score": 60.48,
       "corroborating_sources": [
-        "Luxembourg Times"
+        "SpaceMoney"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU05DbEpRci1BNDgyY3RVUTI1NTVnRWJaaDBjbDJTZUIwYURRN0hWLWRCb2J0U19VQ0NiaDFYZW1TNkJ0SE5OTS1iUEtUWHVRMnA5WGUwa0VHOVU4MXJ5aUh4bDlDSVlycldqNXFFTHltLUw5anFfd3NWM0hSbUdVLVcyZ0dJU3ZMOE0wWlV0SzF1NGtWNmk4RzhGVGvSAaIBQVVfeXFMUElfZ0VNQ0NoMFVJZThzMDdKRUZXYklxZjJOM1M0bVpKZ1VhQllTVnZyVzlTd3Q1c3VPbXFrNTNiRm5nNkZ0YV9VZ1o1Vk1CODB3WDlmUWpreXBJX0FrU2xRWkdxdlBvNF9FSTZ1RFdhVWJxNlItaDQ1UVRYSmNxcks4MXAwZHpGWGNKMHZTYnRJV0pyTlFxWWpwel8tWjZpUEZB?oc=5",
       "source": "Diario Hoy En la noticia",
       "published_at": "2026-09-12T03:16:18+00:00",
-      "score": 62.44,
+      "score": 60.0,
       "corroborating_sources": [
         "Diario Hoy En la noticia"
       ],
@@ -131,9 +176,24 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWF6RzlveWxQR1RWRGIyWGtEdm5PUmtpZS0xOWZnRDljQ1FTeUt3ZEczQ1pSY0NJNWZDY2djX3gtNEMwLUdRSkxUckFJR1AxN3h5ZVM3MU5LellOcjVvNGJjbzhRS2xwdS05b29CUWRIWVhUdWhCVFUydVNZMk9BaUlFUHlaT1FvUi0wMEhBZngwWVN0QzBNeWdyMUVYMnY5S1ZUUlc1V0o1Yk02MldzYjZPN0V4R1dhS2E0SW90bWl4Z29iM0Iwa3gzckM1YTYwTlE?oc=5",
       "source": "Reporte Indigo",
       "published_at": "2026-09-12T02:57:56+00:00",
-      "score": 62.17,
+      "score": 59.75,
       "corroborating_sources": [
         "Reporte Indigo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fff2372923f2b3f8",
+      "title": "Elected officials set aside politics to pay tribute at World Trade Center ceremony - NBC New York",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcm42T3FvU3Y3U0NpT0g4YnQyWl83NC0wT3VzdVFCbFJlWldlb3RNSFVzeFVOSEg2MDlpaHl6SVFPTW9NRGZvUzRvUVcwc2VyRFRxN2M2bFNVVEhQaEpBZVNDb1lnT0tKOUIzS3NxZmtOYWRiYTQzNjd5bkNwb2VfUmFjVURZMGpXNlA3eVVHUUhyRjJrTm5sRnpnRDY2d2JXSGdMUVNKZzFYMDFCbU9EdFZWR0J2bjlvcmNpNXdlM0VEYlQxcndqeUktQ1Z6TF9INWU2MDVaWGs1QdIB4gFBVV95cUxQaUlhMUhZZjNBWURBWTFVQUlZdjNzQUdZS3B6SnVkY2JTa05senhKemZTWUZTQlg4Z3kxbnY0UzIxcF9wR2llbG1yRldzTWlmNzBsSi0yc25ubkltZWpBYWdGbnB1S3I3MGlpYmRiWjJ2ekpCbHBQU3YzUjZHNWRoQ21NR2xUZnBUaHZYZXBLcERvS19uZnhGUG1zaFMyOGN5X3l1Q2FqdVR5dmcxNHcwRnIyNlVBdnJDZ2RobzNiNWEwQTBid2JnUkZBRUFZNXk2V3d5LWhCWVN2b2NFZ1l6bHVn?oc=5",
+      "source": "NBC New York",
+      "published_at": "2026-09-12T01:56:18+00:00",
+      "score": 58.93,
+      "corroborating_sources": [
+        "NBC New York"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +206,24 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVV0WElUVk9jZVRSNFd5cTNyWmJ5Y1NhX3FZV0d1ZWxkcmpoTzdBR1MwaHY2NmhzM1BnNl9LUFRXMnpPX2wybnl1S2tvMjJWWkwxRXh4cXhIUDIzRV9NME9HY1ZQd1BtZ045bGFBTmM5Z2wwckl3aG5teE8xSEVpUmdYVFBoZFZ0cEFnVWp1Q0J5Zk05TXlZYmtzd29CdU0?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-09-12T01:05:45+00:00",
-      "score": 60.57,
+      "score": 58.27,
       "corroborating_sources": [
         "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a20ae893de00dbd3",
+      "title": "Atentados terroristas que mudaram a história: impactos na segurança e política - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclAwTHFMblJUMFE0MHVhSUwtMnJxLUFFNnFfamNyOFhtY25xYTFPV0ZwUjNJM3prUUFRaVIxMVRMcjZKUXNCTW1tVzdxc2ZEOHdpMXBZVWY4MkZvcHVBbzVyZVdDYVlkS0J5bFRyRmRoWS1JU2FwWmFXdUItOTNQTmN1YkNESjdnUlB0eXNqdEMzamlmckxpU3JHa1hvX1ZFLU1YbEFyS012aGhPTGRfaUc1NA?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-09-11T21:34:00+00:00",
+      "score": 55.67,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -161,24 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWJtQnNVdmlNc0RqQ2wyQUt1NS1seEhsUW9GUzZpRzBMNUdRMjE5MlQtdEM3NWZSaWdNcUxwR1VOazZONFJIakhMMjNtU0h4bXJkNHBCX2FJODVGcnlnbThoX1VvWHlqcTVNamp3VGg1MDM0YVlmVkRDQTVaWXBncUVLT1FTRDhvVWdIRjJWUUdSY3RrcjZRdUN3cndBT2swYWREYmczVQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-12T03:48:57+00:00",
-      "score": 57.93,
+      "score": 55.45,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "76ecca880d606d90",
-      "title": "Atentados terroristas que mudaram a história: impactos na segurança e política - gazetadopovo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclAwTHFMblJUMFE0MHVhSUwtMnJxLUFFNnFfamNyOFhtY25xYTFPV0ZwUjNJM3prUUFRaVIxMVRMcjZKUXNCTW1tVzdxc2ZEOHdpMXBZVWY4MkZvcHVBbzVyZVdDYVlkS0J5bFRyRmRoWS1JU2FwWmFXdUItOTNQTmN1YkNESjdnUlB0eXNqdEMzamlmckxpU3JHa1hvX1ZFLU1YbEFyS012aGhPTGRfaUc1NA?oc=5",
-      "source": "gazetadopovo.com.br",
-      "published_at": "2026-09-11T21:34:00+00:00",
-      "score": 57.76,
-      "corroborating_sources": [
-        "gazetadopovo.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +251,24 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTDRnaVRHYzRYOXYzS19sMEZjcWxWNk9zS1dWQXdkZjFGRHVNVy1VRkpYWHJBRDZPdENJQmVDNDVIbFM1RGJyTGYwRVZxcmZYeDhMbGR0XzY5TDBOMmNuN0hoaUR1UDQ0aUVxY1JUOEZPbEVHSjRkZW5zM0YwbEtSNVpZdjF2cmJUX1Ffbm4xYlNkbUM1aVNQb2dxZ3U5TXVnQ0NmS3o2MzJwTjBMLVBxZThxai01QQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-11T16:34:29+00:00",
-      "score": 57.23,
+      "score": 55.41,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ab5edfc5902af57d",
+      "title": "25 años del 11-S: la política mundial cambió y arrancó la guerra contra el terrorismo - Teleamazonas",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkx2TmEyWlJCUTJiZGVMQ3J6SzhxSE1ZV1dyLUFYOFVTN2tmVGdydGF1QUs0SnkweTl2YWVxU1M5ck16djZ3VUh2ZndTdVl6alhGMnJYT3kxQzlURmR5THlpMHNzdUwzWm80VERfblp4djdSLUVfTUp1NWEtbW95Z3c3Nlh6Zm1OeDVhYkM3NHoxVnBMc081RG1QUVkteF9nQ0tvZ0diYlgwWi12LUhTVW5FZkhaYXdrc2FVQmEyU2hPM3VnSV9TdG5qblBuNk14?oc=5",
+      "source": "Teleamazonas",
+      "published_at": "2026-09-11T05:00:00+00:00",
+      "score": 54.38,
+      "corroborating_sources": [
+        "Teleamazonas"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFZibTJMWUdnVmhlbEZvQWRsMDBpMUZ4dllxX3l0d3htWnliaVRjQ1R1NVlYd28zZnhBeDZMNDcxYVJLZ0xZOTNoNVpXcmJKSzV3eHdra2w4dElnWGtpWWJpUVM2WElXa21DZS12Und1akpzYzZqa0Faa0tHQm42Y0FuWjBtT3ZmZFAtNmExaFZxYjBpZEx0M1VHNFphTG9jWmJPb2lrMThBWGM?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-12T02:25:52+00:00",
-      "score": 56.7,
+      "score": 54.32,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -221,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2c4eGZrQ3BrRkpVeV9DSG5qVmhnMVg3anZJb0VjM0JadENGVERBWUc3YndncXctVXlfQTFGb1ZFR2dpSWJvLU1PTmp3aWRodzhvelVZczZSeFFJNGg3aVRJVm9XTk5qVmlwc1FsTERyTGtKa1R4cGY4SFM4WC10ZmFoMjlVbDdRR1N1bWg3RVJqLU5xOG9GRXl2VkJGTXI3MEotM1RRcUtWSnZYMnJlcmpUak0?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-09-12T05:35:02+00:00",
-      "score": 56.56,
+      "score": 53.96,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -236,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkh3N1ZWOVdtbGZpRTlnQWxCcmFfTHZQRGx3c2k5WkRSRE1CTmVKVzZ2c2kwRWUxSFJIeHJJNVg0OWN0SGk1UjFaX1g2dVk5UjJiUFBFaFpva1lDU2FnSndNUkwyTVBvUWUtZ19xOEQ2M1dIdzljRnp1SmhHWENHaWVibkF5T0VvcVVmQ19wZFRSVHc2cVlHak9pVGVwTmpxd0M1cTNnWmpiNTlLSVNhbzRGYXRNVkFEMGNnd0ZhR3B4UQ?oc=5",
       "source": "BS9",
       "published_at": "2026-09-12T05:01:11+00:00",
-      "score": 56.03,
+      "score": 53.47,
       "corroborating_sources": [
         "BS9"
       ],
@@ -246,42 +321,27 @@
       }
     },
     {
-      "id": "9aebab83f628ebbe",
-      "title": "A arma política que Edson Fachin tirou de André Mendonça - metropoles.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGJfeEtXT0x3LUUtYzZKNTFWR2M4eDVld3BmWm1NZzlEMTE4bjMyMHJ0QlJ5OEdORUthWWlLVTJmR2dkNHpaOHNsWXJsT1REVkdQeW51WnVPNm1MaGlpNV9NMVY4bENIU1lPajVJRjNsbVZIajY5WWMxcldUOHotcEN0OThTRTY1aTVta3FURk1INDhnZjFfSUlZOGh6aUpSSURKUGVTb3pLUQ?oc=5",
-      "source": "metropoles.com",
-      "published_at": "2026-09-11T14:41:00+00:00",
-      "score": 56.01,
-      "corroborating_sources": [
-        "metropoles.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ab5edfc5902af57d",
-      "title": "25 años del 11-S: la política mundial cambió y arrancó la guerra contra el terrorismo - Teleamazonas",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkx2TmEyWlJCUTJiZGVMQ3J6SzhxSE1ZV1dyLUFYOFVTN2tmVGdydGF1QUs0SnkweTl2YWVxU1M5ck16djZ3VUh2ZndTdVl6alhGMnJYT3kxQzlURmR5THlpMHNzdUwzWm80VERfblp4djdSLUVfTUp1NWEtbW95Z3c3Nlh6Zm1OeDVhYkM3NHoxVnBMc081RG1QUVkteF9nQ0tvZ0diYlgwWi12LUhTVW5FZkhaYXdrc2FVQmEyU2hPM3VnSV9TdG5qblBuNk14?oc=5",
-      "source": "Teleamazonas",
-      "published_at": "2026-09-11T05:00:00+00:00",
-      "score": 55.7,
-      "corroborating_sources": [
-        "Teleamazonas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "adca224abc51540a",
-      "title": "Trump says he’d like to see a unified Ireland as he visits for golf at his Doonbeg course - The Seattle Times",
+      "id": "c11f71e907e689dd",
+      "title": "Trump touches a nerve while in Ireland by saying reunification would be ‘fantastic’ - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTXJHZXh6SVZQeHhoclhiWVhjV1p1bk15NklBb0QzYzVCdWg4NERkRWQwZkRjTUIzRXJTTlBiNU5tSU14N0ZwNXA5M09YVno2bDJveDVKaFFwRUh3ckNsSWxlZWx6VkVmbjBncExGNUlheGxub0dqQ2E0Y1ZiZXFHVnI2X1oya0JYSUV6REJ0dWZkakQ5SWRfUGEwczdBcFZHTnJrM1phWXhpRTVsVjNMRzNxRTFUN2lkZ2pkV0Vnc0I2R0NzcjlCS0VaZS14ZXM1UnlGVGZR?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-09-12T04:08:09+00:00",
-      "score": 55.22,
+      "score": 52.72,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "29adb26630d10afc",
+      "title": "After GOP convention, Trump heads to his Irish resort - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcldQWnc1TkpBSTBhajlDa013cm10amNJMmUxejR6OE1NSkxOdUtDeDNPcmdNMWZFTkZDTl9SQjh0T0F1eklMSHlOa1JYZ0NLRU1QV0JDeGQwclZzeHQ3c0JEMDBEYjNVaWtqR1FHM2d4NEE1RTROd3BDclBBOWdRRlBza1RYLVhFLXBOQ0p1STQ2N3hyczFkd2FnaW5vLUNJZk9HcnI2NGFhcWVVWWJ3dDNGcGhTVzVOd0MyUWdnNGZXbWJtUWtDWlRlOTI?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-12T03:16:01+00:00",
+      "score": 52.0,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -296,9 +356,24 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQTJkS1Z2OE1iLTBOOXdhLXcySWktZkZJd2dPTTFzRld0OXo3TkN3a0M2ekN5Zmh6VnlUTlpyYkNJS1J2Skc1V0JYZXoyT1ZtRzZXVVhYX280eXozcWFVZ2NqejRPajVCRlplNV9hS3JKdVdmSTQ4QUQ5UzNiMHZ2aGNLRDViN051UFJMeDJaQ2k3SnZvbjVuZElqQlBNZw?oc=5",
       "source": "Norte Exprés",
       "published_at": "2026-09-11T15:10:43+00:00",
-      "score": 53.32,
+      "score": 51.58,
       "corroborating_sources": [
         "Norte Exprés"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5b40ade8977cd1ea",
+      "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’ - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHRmYnFoV2x6WkdsMkZLQ0ZmUkdZSnozeE52RG5neGVmUk5UbmprU0pWSVF6TmtNTEZTMGQ2ZkNrRnVSRWdWS3I2Nm1laC1Hdi1Nc19xOUNobDZfRGdNWlNLZmFQb0QtZlRTWFRsNGhYM2dTZnd3MW82LWh1ZHJMczktdWR2YTh6aklQRnl5LVcya2N1T2Y5WUducVRUTXN5cXFhTVBadUdobHloWVE?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-11T12:42:39+00:00",
+      "score": 50.18,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -311,54 +386,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWlhLXVObUpLVElldk5HdWlNb3J3cTRfUGNBV1gzcXN3XzFjazBSTEJUUGpOdkFpMzlYQlUzLWJ0UDl5bTdMX05tc2ZWdGdnZW93NHFqcF9kbVpQR1hvcjhiZjRPc2FXQ0N6cnNfcVpFY0YzZllfcW9lckItakktekl1VzM1WXBsdVdZaEd6WFExN1kzRmI1RzJzMXcxYjR4TkQ5aHhMeVBPZkxLWDFsSW8zbVZTYnp0Smw3ZUREVU1lUQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-11T20:12:00+00:00",
-      "score": 51.74,
+      "score": 49.74,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0bd416ef3d21f6d0",
-      "title": "EUA: Vance diz que Democratas são “partido do ódio” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3RaZTJWY1pZT3BvQ1dOTzlmcjBSV0xMelJWa2hUcGowWF9BYm1LR3ZQSi1UZTNaZkpxZ1Z5eXpiNGh3SS04N3Z2VjlFVm13STlGZXNfdHJzSzNiUkkyLWJPTnZ1aFROdFgtSVFNWFpQb3RreGYweFdkbHlCVU5aaHIySFdGdHlldU1EcWdmeThfNFhNRVBhZWZRN3dlOU9UWDJR0gGrAUFVX3lxTFBPRXRFbHM1S3hqS0Y0cDRjQUcxc293MHdZLUVRMWEydXI0N1lpdzlxa1hhMGdjLXg2UUgxU0lmRExFMXhnWHFMSFAxLU5DWTNaNXd6dXJna05RQTFJOVR6RnI2VF8xTU1sMjY5RnlvWVF0NFdZbzY2MGx1TWFtR3NqM1NoQWJHS0lwNWl6Wi1keGhtSmR1UDM1V2NWVnZYR0NFWl9RbGdFVGpUSQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-11T11:03:00+00:00",
-      "score": 50.85,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4fd84c2bfd327daf",
-      "title": "How 9/11 Helped Shape Our Politics Today - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2xHN3J2SEhRMm9rZk43SlREWmNnX2ZXbHBBMnM4d2pESW1tWmdhTDlOb3RQU2lEeDdoU3NBUU1NSDN2ZUw1UWxSVTZMMGFlYXBBc0lxNWphakQzcFJPamhtOURYLWE1aHBpSmlib2ZDUExaYllnUUFGaHd6bDc4LWFERWF1bU1xOXhxaFlFX0F5YVJDUVdkRVBzYW1CRklOS3c?oc=5",
-      "source": "Time Magazine",
-      "published_at": "2026-09-11T11:00:00+00:00",
-      "score": 50.82,
-      "corroborating_sources": [
-        "Time Magazine"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1b6af3ac0e90df2d",
-      "title": "A 25 años del 11 de septiembre: la herida que rediseñó el poder, la guerra y la vigilancia mundial - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWTFaWU9vMDdLY08wNEM2c0lvNWZLdlhDMjZxODlqdGdSa29iOEtLLS16MW1FWmp6Sk01THNWYkl1MFdhVUh6bG5jNTluelRlTUo2NDJRakg2cUhkYVpSVmtQdEhUQlR0djhVZ216bFBfNXdzUDMwWDd1NE9CRnhKeEpHckNnM05ZMTBsa0N6NVZJcDNZSlplUVNJcGdRM1UxY3kxd2JHZUhIZjdUSy1nb01ja21iVEJ0cXZydzJYU0loc3FhdE9uY0pjamdyOWVreXBUQQ?oc=5",
-      "source": "El Cronista",
-      "published_at": "2026-09-11T09:39:06+00:00",
-      "score": 50.07,
-      "corroborating_sources": [
-        "El Cronista"
       ],
       "signals": {
         "source_count": 1,
@@ -381,14 +411,14 @@
       }
     },
     {
-      "id": "4e2f57bec1b79f15",
-      "title": "Del mundo del 11S al mundo de 2026: cómo cambió la geopolítica - rtve.es",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWotaUNDX2dTMlpfVklOZzVNaUVQQndxVDJDWG5mYVFqZEdsUUxCTlA4WHZDcE9odFR2Zk96N3dsQUlTSGptaS16TkdYeEN1OWliN0hqNkVUeVp5MWs2cjZWaHBrdDhJc1U1SHFMemduMUZJYzJkelJwVTQ0N0tPZ3dUOWlmQWdIT2pmT2RCQXMwbk0?oc=5",
-      "source": "rtve.es",
-      "published_at": "2026-09-11T05:18:00+00:00",
-      "score": 47.84,
+      "id": "0bd416ef3d21f6d0",
+      "title": "EUA: Vance diz que Democratas são “partido do ódio” - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3RaZTJWY1pZT3BvQ1dOTzlmcjBSV0xMelJWa2hUcGowWF9BYm1LR3ZQSi1UZTNaZkpxZ1Z5eXpiNGh3SS04N3Z2VjlFVm13STlGZXNfdHJzSzNiUkkyLWJPTnZ1aFROdFgtSVFNWFpQb3RreGYweFdkbHlCVU5aaHIySFdGdHlldU1EcWdmeThfNFhNRVBhZWZRN3dlOU9UWDJR0gGrAUFVX3lxTFBPRXRFbHM1S3hqS0Y0cDRjQUcxc293MHdZLUVRMWEydXI0N1lpdzlxa1hhMGdjLXg2UUgxU0lmRExFMXhnWHFMSFAxLU5DWTNaNXd6dXJna05RQTFJOVR6RnI2VF8xTU1sMjY5RnlvWVF0NFdZbzY2MGx1TWFtR3NqM1NoQWJHS0lwNWl6Wi1keGhtSmR1UDM1V2NWVnZYR0NFWl9RbGdFVGpUSQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-11T11:03:00+00:00",
+      "score": 49.29,
       "corroborating_sources": [
-        "rtve.es"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -396,14 +426,14 @@
       }
     },
     {
-      "id": "a900d1f0b07381a8",
-      "title": "Campanha de Lula comemora fim do sigilo do caso Master e mira Flávio na TV - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFI2aTB3VTdYRGZ6eWpfUXJkSmNnNVdSZmpqbmRyaHFHWm1qaGt4U3g5eGlkczU3UlBUY0N3OHlIYTQ1UmphOUJaeFRSMUJuYWFwRjZBNVNvZzRHQkp3bGJfLUJWTUVuRmtjR21VcnNNdl9hVkxGd1UzQUJHSTFrSHJVWjZqWERyRU1vcWM2TTVhVTBPWm9Jb1N3bjV2RU9NU2ZyTmNzWnpqbG9Ic1Z4QTRSd2k3dHZpelNKTdIBwgFBVV95cUxObzNRclA4NUpKc3M4aDI2X1lwMzliMHBJODdiWWpTSUJydHgxRk12Y1Y4UHNyTXBpa2VXSWl1M1FxSy1Yc2RQMmFyQ21OeTdmbWtjQVhKbTBKSXZpTnpoZU9iVXlpWjVUczNHU1FyOWhXSVMyUGdjQzRpSXI5X0FXNkt3LS1MUmlCU0E5TmVlNVFSbVZTMV9PRkRUcV9iZHZ1NkpsX1BQWFlaN1FRNEpheXZlTXhuaXdJaWRJYUVYWHpvdw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-11T14:10:00+00:00",
-      "score": 47.69,
+      "id": "4fd84c2bfd327daf",
+      "title": "How 9/11 Helped Shape Our Politics Today - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2xHN3J2SEhRMm9rZk43SlREWmNnX2ZXbHBBMnM4d2pESW1tWmdhTDlOb3RQU2lEeDdoU3NBUU1NSDN2ZUw1UWxSVTZMMGFlYXBBc0lxNWphakQzcFJPamhtOURYLWE1aHBpSmlib2ZDUExaYllnUUFGaHd6bDc4LWFERWF1bU1xOXhxaFlFX0F5YVJDUVdkRVBzYW1CRklOS3c?oc=5",
+      "source": "Time Magazine",
+      "published_at": "2026-09-11T11:00:00+00:00",
+      "score": 49.27,
       "corroborating_sources": [
-        "Estadão"
+        "Time Magazine"
       ],
       "signals": {
         "source_count": 1,
@@ -411,44 +441,14 @@
       }
     },
     {
-      "id": "312288ac48ae0772",
-      "title": "Algeria-UAE Diplomatic Ties Severed - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tOHhBSGtTcTU4WGFOLXlReHZJMVk2LXg2VkpyOWxiUG9McFdqQ09kTVRaaVJUNDNGSlZYV0FHUXpZRHBHdWJlNEs5SkxEaXNZNUhxZGtqdUVyN0EtZGM0dUVhdWJTdExSZGZhM0dnbGtvakoyTE9JZXVKXzY?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-09-11T18:29:46+00:00",
-      "score": 47.53,
+      "id": "1b6af3ac0e90df2d",
+      "title": "A 25 años del 11 de septiembre: la herida que rediseñó el poder, la guerra y la vigilancia mundial - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWTFaWU9vMDdLY08wNEM2c0lvNWZLdlhDMjZxODlqdGdSa29iOEtLLS16MW1FWmp6Sk01THNWYkl1MFdhVUh6bG5jNTluelRlTUo2NDJRakg2cUhkYVpSVmtQdEhUQlR0djhVZ216bFBfNXdzUDMwWDd1NE9CRnhKeEpHckNnM05ZMTBsa0N6NVZJcDNZSlplUVNJcGdRM1UxY3kxd2JHZUhIZjdUSy1nb01ja21iVEJ0cXZydzJYU0loc3FhdE9uY0pjamdyOWVreXBUQQ?oc=5",
+      "source": "El Cronista",
+      "published_at": "2026-09-11T09:39:06+00:00",
+      "score": 48.57,
       "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d7a754559b37bb33",
-      "title": "Estados Unidos rebaja el conflicto en Oriente Medio a «una cuestión política» con un mermado apoyo de la ciudadanía - El Debate",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVR2V3dubVBlWVZBQ2llMC1vYU12N3FTeFZxbUhubDJ4azl0ZUVHMDdnR0JkaE5nM0cySy1mM2F3WlBEOGFUWTVyQXRKaEU5aUJaNWJHTVRzLUVLX0x6Wmd6bThUR2hQN2FiQ2FFUFl0NDdUZ3R1aFh1b1RZckRhNG1vaDJDbE5JSXZUNE9PZERuNUNEeVZMSUNwMzNieG1nQzZSZ0hNUHB0em5pa211TzJuMUFLUjZtTXN5ajJMUGxBd1hyWW5UUkZzMENIYVZodkkwUmR3N0VuVXVadkhXd05R0gHnAUFVX3lxTFBHa1FLVzBXV2cySjhtOExPb0ZkWndDal9PTkw4WU5TVXVLc1Jza0l2M2hMMUtocFdnR0JGemVFN3Q5dk1DTGRDRzQ4c2pFOWF5MWloM1h5ME5lVkZ3TzRMTm1SMkZaY2xZREEwQlRybjhvcVcyVmhJSEVmUnlZY0hwbW5RdlI1eHkzRUJYRzhCNWVTRWR5cWxsS0VfQlkyb0pMLVctVlkyRUdJLXJnUnhpUWEyQmt5NGxFVkljcnJ1b0lQTV96aWdmVmNjZlpMdmdkWEh0MWhYQnJtT3BLcURzWHRoYVNqVQ?oc=5",
-      "source": "El Debate",
-      "published_at": "2026-09-11T04:34:14+00:00",
-      "score": 47.49,
-      "corroborating_sources": [
-        "El Debate"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f35bf3104be13ecf",
-      "title": "Del 11-S a Trump: 25 años que transformaron la política exterior de Estados Unidos - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNb2dpLW1Mak9uRGVEX2o1ZnNZNnZwU2pwZ3NleGJVQmVvd1o5RGd2S0JzX3pwZXB5dGtBWW9NS3F2RHNKU2ZHc2pFYmxNRFFBVnhJUk8tcVp0TDZPeFFMeTVEYkJjLTl2WEh6aHpVVDBEU2xKLVdqWG0yOHh3bFBzbnBUTVpaZkVHN0xXYjRHd1F5cnBoa3dSZ21VUlBPRHNfSTc4NmN5dllIbFctNEVPMU00ZG01anJMVVRsY1NsbmNfMWlkSHBQS2Vra2xkb1YzNkVJb1Rnd0pLbXhuXzY3RU1pM19OVUNkcHRzOdIB7AFBVV95cUxOMlg0RExmZHd5VjhVcEl2NzdfRm1yZDB4a3F3d2lIMEJQSHVWdE9BLTd2UDQ0UUZZZkJjcW1ORTVXWkxqdl95a0pGcm5aQkwtSG1ycUlSVmVmUTdpc3JkcHM1UGRMNm9NZHFjY2dFdTNYdFhLdk8zdlRFMEtnNFB1cmtnaVhOY3drTm9fME8wdFVEZ2ZSVUVHalpVVmNrOGRtVGFmRXRIWnZHWks1azY4V0VvUUhzWlE0cGh6eE05b1FMelFTR0NnaFdpUW5kMGJRU1VORGJ3UDFwbEZ1ZUxXM1IybFVPZFRPVHlRZw?oc=5",
-      "source": "El Periódico",
-      "published_at": "2026-09-11T04:01:31+00:00",
-      "score": 47.24,
-      "corroborating_sources": [
-        "El Periódico"
+        "El Cronista"
       ],
       "signals": {
         "source_count": 1,
