@@ -1,19 +1,109 @@
 {
-  "generated_at": "2026-09-13T04:53:42.997744+00:00",
-  "next_update_expected_at": "2026-09-13T08:53:42.997744+00:00",
+  "generated_at": "2026-09-13T13:19:47.379539+00:00",
+  "next_update_expected_at": "2026-09-13T17:19:47.379539+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "3b08691196835d2f",
+      "title": "Un embajador en Liubliana, pero no en Londres: la política exterior de Israel se aleja de sus aliados históricos - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2czVkQ3NzUwR3pCelV3T0JPNktSNTBVN3hwamx1NDhyT1I4VklfTlBZT1Q3RUg3a1NpRnZGaHUxRTFldHFpd3JNX3psOXJWN2ptRGoyRmlxOExtSFVVUlcwVnZRazFjWTZ1cTlPR0hhWUVtcjR6LUxsRWNBOG96WjUyWXlhTkdHRWhKelVFcy15Zw?oc=5",
+      "source": "CNN en Español",
+      "published_at": "2026-09-13T10:58:00+00:00",
+      "score": 72.62,
+      "corroborating_sources": [
+        "CNN en Español"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "bb6978fa068c8542",
       "title": "Política externa de novo governo passa por relações difíceis com Trump, big techs e minerais críticos - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZEVIa0loZmt2ZHlFY0tvTEYxUnJMeXFMVUJjWFdjc1pVVmRwLXZzMDg1YnBjblVTMjdfUVlTN19jaG1WWEVRZWd6VG1Sc3JncnRWc3AzZ241cTJ5MllUOTk3aTZ1QWpJUFQ4d2s4YVl5YkM0bTdUaWtQcHFsQlZoVUFXOWJKbGVnNEE0QzlLY0NONUJCcUJqWGFnbE1IZjAyVnNoOFpGREpDa0s1WHp0RGhWbHJmU3lnVGNreE41Um9NMU1kUXdSMUZyZU9BUDREd3dXMEp1R2hlcC1SR1VEdmNjZkc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-13T02:00:00+00:00",
-      "score": 80.0,
+      "score": 71.33,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "194aeca704b3a1ea",
+      "title": "“Vivo com as malas feitas”: Xavier Bettel fala sobre a parte difícil do seu cargo - contacto.lu",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTEljMjQtRXduN2UwRlhIdE14d0tJTm1BUzZCelRUN2hmaVRhU1NJTV93TWdFTkIzQVd3YWJYX3RiVF9SMGowTng0RXd1TWNna05rV0FTSzVNZ0poQVBPSDF4M0pUZmY1bjFyZ2tYN0VJRVNMT2xLSmQtakpkT0RDRElkS1NpWGRNcE16b1NMUXRWajg0eHdKODJzYWNwczdlT0g5a0hrTGdmbE9RQUdQN1hGQXJ2RmhVbzdBZGwtenE2ZzAzZk0w?oc=5",
+      "source": "contacto.lu",
+      "published_at": "2026-09-13T13:05:07+00:00",
+      "score": 67.17,
+      "corroborating_sources": [
+        "contacto.lu"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0355e594dacf9137",
+      "title": "UN Sec-Gen race: Africa’s missing candidate - New African Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2JldEpIUXRPUE1EeDJXTnllX0NtU3BIU0tUZ0pUUEFxY3dMRFZkdmNGTEtxS2dFdFk5eHhJMFNpMXpxc0ZIbmJnOEszNzVoUzNfbU1fc1FZUk9Rd2ZmaGRiSDNuNlhTdEl2MElXYkxrRHpsal9IajdhbmU1dkdJTnFITTdHWWM3UGc?oc=5",
+      "source": "New African Magazine",
+      "published_at": "2026-09-13T12:33:45+00:00",
+      "score": 66.53,
+      "corroborating_sources": [
+        "New African Magazine"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "157a023d2cc4417c",
+      "title": "El videojuego ambientado en Moscú que generó un fuerte conflicto político internacional en plena Guerra Fría - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbWxRWjBFZ2ttekZlRWR0R2NKalN2UVRvR0NMc25DUmZJdHVlV0kyallPT3hsTWVyVmJQckJxWUVybkUtMzhWV2F6dlNuUjEzY0U4OHFkZHNZOVVWcDFhTThTalVWTFZubHg0RTZxRnFuMWJxR2NFOTRxd3d0OGt4ZV9vZVNZNEwwamQwcElqQndSTExHZWhpWHc5dHl1cGxZNDRSLWZUeHRFdHFPLUhLaFlFSUItZEFJM0pXRW80UlJhTmhjME5wWWJFdDFCQVVoc1hKck5MeTlqbE9qbnh5TnRjd3JINndxWmEw0gH_AUFVX3lxTE1VVFdqUGRybmYxSzNfQkV3ZTVmQ1FuRVZ6eVdmdFR2VVZpMjVMWkxrbFJaaU50anF2bS1YZlpDU1hDRVVqN3J0QnVMYXlaU1c5V052ZUszZGlmN3BZQmZDZDR3bWYtRGZGeV82NGxvR3A3c1B6cGtHQ3c3enE5QU5aVHJPSWFrcnZPTmRWaFhldFlFNjBfQjg2SEFmSWtjakItbURYZEpOZmZpNGlpWkZzZnY0SE0wUjN2S2ZuczB6emlQaUgwSHpFdjZpREF2d0FJVkp5dkVEWkJLTnQ4NUNacFZCZDFLMmpuU2NjWDhqZTh4NjBRMW9DbWN6X0taQQ?oc=5",
+      "source": "Diario AS",
+      "published_at": "2026-09-13T05:14:57+00:00",
+      "score": 66.43,
+      "corroborating_sources": [
+        "Diario AS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7f952d05f23d67ac",
+      "title": "Aprueban norma para protección de bolivianos que retornan al país - El Diario - Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0t2aDZwLWpYRDFmTGE1MXo2TWI3S0d1bkR6WXlnbTg0U1o1QS1hZjNyWm54Q1lpUUZWWkRUVF9pc19PMlBvMXg2U0NObGhIUzIzbGw4SmViaE1kR19lSmF0bXpJeEFTMnNoYjJyWThoaVpiRVRRMWFhRzBVdmdWTmllUHQ0bk8yOVQ2XzBHZU1uUGd4eDJDSDJFdE5IYkVCeE9CZDI1WTFmMlNpR2c?oc=5",
+      "source": "El Diario - Bolivia",
+      "published_at": "2026-09-13T11:11:18+00:00",
+      "score": 64.88,
+      "corroborating_sources": [
+        "El Diario - Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d7903a5cc1a401e6",
+      "title": "BRICS in New Delhi: from expansion to practical cooperation - 1News.az",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUtIaVVJU3cwSTZhY2NyWHBHbXJDdktpQ0huYkctLW9uazdDelZGT25ENTVBRXZhSXBrNy1wRTI4aXZqcWJBSnRxZm01Zkw3VkR4UjJmQ19IaVlGT0t2RlJNUlkzUEtzMmtvS0xWTGhYQnQ4a1R6NFNYUXdZWng1SHhCY1JRYXB5YmNCZHBNSkhmeGxTRFpGRndBbG43THktTlVj?oc=5",
+      "source": "1News.az",
+      "published_at": "2026-09-13T10:07:15+00:00",
+      "score": 63.64,
+      "corroborating_sources": [
+        "1News.az"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVE9JSzNHbGctVFlvOWNCM290V25NSjhSSXpQbGd5TWRIZWpLT0R3aGdGWVN4bFpJSmxqamhxMGhKYTcxNnN0bzI0ZHdMM3U1ay1na1dXNWNEVzVOd0xtYjl2anE0a1V2Nmh0SHRJdmFBa1dHMWFweU9paEhNdHZBQUhTbVZtOHp2c2Y1eTZ5YlJLWFIwRzU0QUNCWVc5alVpWUlyUG1pNTdvUHhpZjBPVkFHNWEtSnBHVEpFNjRyaEZrVnNWSmlFZmRGT3FFYUY4emFfWVdXSk1MMWdKektuSDVuU2dSZ2s?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-13T02:00:00+00:00",
-      "score": 72.0,
+      "score": 63.33,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -36,45 +126,29 @@
       }
     },
     {
-      "id": "a8dadb96a5d980a1",
-      "title": "Flávio Bolsonaro tem 59,1% contra 35,2% de Lula no 2º turno no MT - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEpFdnRiUGZVSUpCN2NhempMd2pqRzZmd0IxMHVUSGx2RlRjcEFZRGlhdWdmcnloMDAwd1oxWndkSVgtVTVERzJ6dFhGSXB2NmhCTjMtdDhZbDBNbHRJSVhGb0pPeFZ0NEVlQ1plSHdaM2VFTjd3VWd5NVlnM1NfSzUtUDB3dVh1NmtZWmQ3Ny02cTZCTWNZM3pabkpoMUl4bDRfSzhzS1lBa3NjSzRZ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-12T21:43:38+00:00",
-      "score": 69.65,
-      "corroborating_sources": [
-        "G1",
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b659cc6a99eb8a3e",
-      "title": "Meet the voter the EFF wants to win - sundayworld.co.za",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNkxabWtOM0plWm9hdExBSFNQR21EdTQyOGh3NWUxOWFFeGtCMGFWXy1jZEtLZjA0VFdSQXlsTzhUVGQ0M0Jnd0x5SDZndUx4YlhQV0NHTWpXVG9GR0VWTXk5UVJTV3FnUzdaMWtmLURZMFVQdlc2UV9Cdw?oc=5",
-      "source": "sundayworld.co.za",
-      "published_at": "2026-09-13T03:10:10+00:00",
-      "score": 65.37,
-      "corroborating_sources": [
-        "sundayworld.co.za"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b7d5d1adb0aea084",
-      "title": "Governo do DF reforça policiamento e prepara drones para sessão de terça no STF - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2lCY3ozTzJBUHVQUFNrUkVyOGc3eDhjMlBzSFl0MWVwa1hBbFBOSnBvYkE5a1RscEdSM1Fsclg3bEgyZ19OZS1DeW1qWDVBbG94UEFhZzdiZWxiaFI5Y25YRUtZYW5NWVF3R0xaR1poWnpGQk04TzVVa3lnclpIeHBpb3dBVVI5MUtOTFBpM0xrVkZ3czB0emwzNUhQd3FsSjhpTEZXZm5SbzE5QWk1NUphTVhzNDh2THVMaUdCWWJISnpYU29DQQ?oc=5",
+      "id": "02888e40d6096ea3",
+      "title": "Análise: Política foi a grande estrela das premiações do Festival de Veneza - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHJscnZuNFRaZWRDRTBqekZTVWt3dXFUZW9GNE9zR1JHX3Jzd0htQldoMkFrOHFiTXA4OWRFWnVvUmNpN3VYcGU5LUZ2T3BYMlZlZWFUOVlSUXRaR05zZEZzZEFMSmdUS19ZdUhWT2lVTmR1VUU3ZzZXdHQ2T2VULWM0LW9kQ3d5Z0FldG9pemwwUXJFR09ITXRHYUNLNTg1V3FXaklVQ3pGdzdzYkxxajZ6eGlRVWZlZ2NCOA?oc=5",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-09-12T16:23:00+00:00",
-      "score": 65.27,
+      "published_at": "2026-09-12T21:22:00+00:00",
+      "score": 62.36,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f9f6529830bd0061",
+      "title": "Opinião | Inflação recua, mas ainda falta PIB mais dinâmico - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTFjZmFtLVBVejdTN1NBWGZnbmZrU2xfd0NNdTRvS2p1bVNtbjB0ZUxOTnRNclFyZW53UE1NcHE2NFdYbUxHVUctWWgzZTZvYXBPV2tuU3JwODB5c2Y4ejB6ai02aXFDR2dxUXpWSEJfQ2Uzdzh3WHRJaFUwNHU4bDNfb3U5dVcwYTY1TnVZVHRvU2JNSnUxZUh2aw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-13T06:00:00+00:00",
+      "score": 62.19,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -87,9 +161,69 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkMxRkI2YUpWY0hZTkRWakJQaVRDcHJRWGdtbmNUR2Z5WEFVUTYxdWZfZngwTDk1X2VyaDJ3SmlxRFFFLVUxajhSQU9vRG9nU2tFNEQ5R0pNdDlhZVFtRDNzM2VBMG0tQm1QZkh6M2wtMWx3OFZZV0owaUFrSURhVFBkejItS2xCYlVIYlkwWUFGNTlwcEw2bzVHckVwV0Q2eHRPVkdrSnozZw?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-09-11T19:00:00+00:00",
-      "score": 64.03,
+      "score": 60.36,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1cca8491c4eddda7",
+      "title": "Suecia decide hoy si cambia de Gobierno, pero la dura política migratoria ya es intocable - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQzU0ZGxDaEJJdXlRakVWREVxRGFmNF9tOGt0WWRMTmc4ZS1CcDlyLTkwVlJpWW5SV2tGSV9DZWtCRHFfdnZjQURJendib3ViUVU4Z2NSZUo0RTJzTWNrWktFbDVvMl85eVExdElHeU9HNEttQUJrdmlDRjJOMFU1YVdQb9IBgwFBVV95cUxORXBRVHR0WG9RbUd1aEQ5eW1MSG1nREtqaUpBdG1CcHRfQkFtTjY0ZzJKQnBadEJEcHpLQ1hUZkpMZ1R1dkFBc1haamZuMHAzbVpYbWdzNzh2Zi1RaXl6ZEtqc2xnMWdoYW8zdEVJdXNqdkc4STJHUVRTWGxGNkhqdF9UYw?oc=5",
+      "source": "El Mundo",
+      "published_at": "2026-09-12T20:52:58+00:00",
+      "score": 58.97,
+      "corroborating_sources": [
+        "El Mundo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "627d3dd996fa92a1",
+      "title": "BRICS Summit Highlights Shifting Global Power Dynamics and Nepal's Strategic Opportunities - Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDN2dUZtNlFTMXJvclhtOUJnNkJKV3V0X3pZaUhzZ2NoVG9CandPaFhjcC1vSnR0MldZZk1MWTVfTE5xUFpmQUJnakZNSTZOa2FTMU1wREVwWWNyN05RZTdHMTNCdUtKbEJueGl2ZmZjS01yZnc2UURoS3BqUUE3MVpIcm9oaFoxaG5kdURSQVE4Y0c2bGVRQlFoWDBmTTJJQ2ZHcnBoZ3RBNXhDa25sbVdqYw?oc=5",
+      "source": "Ratopati",
+      "published_at": "2026-09-13T05:29:47+00:00",
+      "score": 58.68,
+      "corroborating_sources": [
+        "Ratopati"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b7d5d1adb0aea084",
+      "title": "Governo do DF reforça policiamento e prepara drones para sessão de terça no STF - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2lCY3ozTzJBUHVQUFNrUkVyOGc3eDhjMlBzSFl0MWVwa1hBbFBOSnBvYkE5a1RscEdSM1Fsclg3bEgyZ19OZS1DeW1qWDVBbG94UEFhZzdiZWxiaFI5Y25YRUtZYW5NWVF3R0xaR1poWnpGQk04TzVVa3lnclpIeHBpb3dBVVI5MUtOTFBpM0xrVkZ3czB0emwzNUhQd3FsSjhpTEZXZm5SbzE5QWk1NUphTVhzNDh2THVMaUdCWWJISnpYU29DQQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-12T16:23:00+00:00",
+      "score": 58.63,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d3686f5719cf2ea8",
+      "title": "Advogado de Marçal alega “injustiça” por TSE barrar candidatura - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUFNODBlUTFFNkRiX2pZcmhraGJqdnk1cEtKeDQ5Y01VellEeXFhSEJMem03a1k4OHQtWWpGWGo4OV9pbUpfSFZnZklrVUo4TG1MaFM5ZXd0SnpUc0M1YnFkcGRVeE11R2NWVENNNndNLS1kaUJTQkdMWlVJcDBwZC1QaG1JelVoSzdfNTJCUmVhRm9CZ0kzZEE0NWRYQW91SEZKcVZvUlA5ZkxJUncw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-13T01:44:05+00:00",
+      "score": 58.09,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -102,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmZSQnAtNkpzcnF3U0J6QVdPODktVkstc2R0b0NZTGZDYVVWelNYUFNMTkJRVVZLU0ItbF9zdkdTaG9HZjRZdkpSRWpuMXg5OUVFUGd0V2QxMElBUF9tN21RTFZDQWpTRG8wQVJTZlAzV1RRUXdXVlNSczJXYVBQQnZDcy1sU2xYTnJoWEhHdW5rV3N2YWlYSmdpZlRZMDhUNU5yOGxWbUYyZGJxVldqSA?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-12T13:26:00+00:00",
-      "score": 62.76,
+      "score": 56.65,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -112,12 +246,72 @@
       }
     },
     {
-      "id": "a000391288c005a5",
-      "title": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFJPSUt5VlRYMHZhcjkzdEIxRVJ5elFIMjhaSG15RUVCOTR4eDJBaEVrSXFCckJEMWtWMlFpNk9Ja0thb2ZpQlNONjFJbC02bzdKN01wRk5FUGh2QzhsZlVjSTlkcHBmVnk4NE1aZ19xZnpiV1c1UXUwQkVCMFVHTDdWekdScklpWVVQYzB4QTEweFBCdVplZF9BOGtCUjNDVnBtYTRneDAtNzVHNG01SkVEZjZRMFlnNWxoMklqd05jbnpOR1lFbE5FX2o0TXg1TUxFYWJNdFBFcW10eVNSczhxNNIB6AFBVV95cUxON3JGal9SdE1qaFVwTFpER2pfWU5QVDV3MkN1eVZvc1VubW5NdXZBQVBsWVdmMDZ2YTVFMjNTcFloQll1UTF1M25vTXlmOXBoQzkwZFR3MGcySUkxcFFaS3J3RTk0bWIwZlJIZ2NVRDl4QVJMMklXV1JIOEF0dDJVeXU2YzJhdl8tTVVCMHlqZlgyYjhXTXEtSDU0UUdpTG1UOW8wNkMtZkxRRFZsUFZDMWY3emREdlk0dmdXLXQtLWFUQW1hWnJjOUZneGRaS2lXWmdaQjhhNmFyVkJmUktKRHZCY2g1MDhX?oc=5",
+      "id": "a8dadb96a5d980a1",
+      "title": "Flávio Bolsonaro tem 59,1% contra 35,2% de Lula no 2º turno no MT - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEpFdnRiUGZVSUpCN2NhempMd2pqRzZmd0IxMHVUSGx2RlRjcEFZRGlhdWdmcnloMDAwd1oxWndkSVgtVTVERzJ6dFhGSXB2NmhCTjMtdDhZbDBNbHRJSVhGb0pPeFZ0NEVlQ1plSHdaM2VFTjd3VWd5NVlnM1NfSzUtUDB3dVh1NmtZWmQ3Ny02cTZCTWNZM3pabkpoMUl4bDRfSzhzS1lBa3NjSzRZ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-12T21:43:38+00:00",
+      "score": 54.65,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "52a9c4104ebee4a9",
+      "title": "Avaliação positiva de Lula vai de 46% em PE a 25% em SP, mostra Datafolha - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNclc5MjlCQnpSdUFEOTBGQkl3YUpiMjJFUkN4VHJ4b0hERERuQW05SmpGcTBVMmFfZDFSWHdfVC00Nkx4OUU4aHE3NVhobWJYMDBrZlpqNEpOMmJ1WHFkOXJJUFB4VXhKZkZLaGxVOUJLb196ZWxzdWRYZ0Zad2FmZ0p5RXNqa1NTUXZBOUNaSVNZeFVnbC1EczZ1NXRfYlRiQ2NqdDdEYlJpNzB2SThkM05iUDF5TGdzU3hHQQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-12T21:14:00+00:00",
+      "score": 54.25,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9bcc6a0287f37b19",
+      "title": "Jugando ping pong con la geopolítica - almomento.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lS0gwbl80UWg0QTk3LU9pZGpOWVl1Zzhrb0lNMzNNdkNWaHQwQ3N5VjF4cnI1eTd3YmlPbWhMVi00RG1IdDZBb1IzNVJjaVZ0ZmNPMVo5RlYzRGwzd25fUFlQN3VsT2g2cGlz?oc=5",
+      "source": "almomento.net",
+      "published_at": "2026-09-12T13:33:26+00:00",
+      "score": 53.73,
+      "corroborating_sources": [
+        "almomento.net"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5c0dac087e4d22a0",
+      "title": "A 53 años del 11S. La política exterior de Salvador Allende y la Unidad Popular - Huella del Sur",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2J1dE1GUVZsTnhmMWVlcjZoeXNNYVF2Mkd6N3pIU1lOS2Yya0dDTWFrM1lTVTk0czdCQmkyU3ZSUVA2eDg2SUM4LV9yRkktakphMU02QTg5MWd3b1REN3NtNzZFNFNtMVNUdDF6WVdzeDRHUmhNRExhRzI4WlNjSzMyZ0ZWcmQ2NlNwZFZ1WVVXTGpVWjNScnRyMUtCN1I4SVdubXBJMUwyenplNVItdGdLMHQ?oc=5",
+      "source": "Huella del Sur",
+      "published_at": "2026-09-12T13:21:31+00:00",
+      "score": 53.6,
+      "corroborating_sources": [
+        "Huella del Sur"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8bb45481ce9fe40e",
+      "title": "Opinião | EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFJPSUt5VlRYMHZhcjkzdEIxRVJ5elFIMjhaSG15RUVCOTR4eDJBaEVrSXFCckJEMWtWMlFpNk9Ja0thb2ZpQlNONjFJbC02bzdKN01wRk5FUGh2QzhsZlVjSTlkcHBmVnk4NE1aZ19xZnpiV1c1UXUwQkVCMFVHTDdWekdScklpWVVQYzB4QTEweFBCdVplZF9BOGtCUjNDVnBtYTRneDAtNzVHNG01SkVEZjZRMFlnNWxoMklqd05jbnpOR1lFbE5FX2o0TXg1TUxFYWJNdFBFcW10eVNSczhxNA?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-12T20:00:00+00:00",
-      "score": 60.62,
+      "score": 53.28,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -132,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkFJRWtweEFYUl9MR29RcmNKNlF1ZG01cGxUa2ZCcjVENGgwTlBDdWpoS1VzZ25leE90OTg3VXlLOUxhN1c4Y3lPaWVrejZPTjRtWWw5bnJsbzFfaEUzYUFTLTEyVmZxLURWczRzZFFMek1PWUV1RHlXdnk2WENMTmhrdEdValN4MktvSVp0cHk0ak1HX0hwa3BvNzlDRVNHbm9YU0x1M3JOZGxLSmc?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-12T19:47:36+00:00",
-      "score": 60.42,
+      "score": 53.12,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -142,29 +336,14 @@
       }
     },
     {
-      "id": "c6f1685f516d6b16",
-      "title": "Jugando ping pong con la geopolítica - AlMomento.net",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lS0gwbl80UWg0QTk3LU9pZGpOWVl1Zzhrb0lNMzNNdkNWaHQwQ3N5VjF4cnI1eTd3YmlPbWhMVi00RG1IdDZBb1IzNVJjaVZ0ZmNPMVo5RlYzRGwzd25fUFlQN3VsT2g2cGlz?oc=5",
-      "source": "AlMomento.net",
-      "published_at": "2026-09-12T13:33:26+00:00",
-      "score": 59.87,
+      "id": "09436c5c66c6d946",
+      "title": "11 de Setembro completa 25 anos: Guerra ao Terror mudou a política externa dos EUA e ampliou disputas geopolíticas - Jornal Grande Bahia",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLTZkYm1DTEh1QWJTTWF2YlBsWEtTU1FBT0pMeGRwNFV2aUpYUkd3M1pqZjllTm1VWldnM2RsWXB3eUtwTGU1aHZKbGZybHlxQURIc1l1SW5naFp1YVBLQkRyajZobXd2ZklSV2U4bk03WF9wYkoxemZZU1ktZUJpX2RhRHhjcTQycnlJVkpkTWF6WmlzcEpsMzlWeGl1UjRyX1BlT1ByTDBjMmk1YU44WnB3TUZ4T1cwUGdrY3RJZHJyUzFsNFl2S0FvcF9xSjI1YjRaRjR2TXQ0S3dYYUY2MkQweHV4b1JnNlhr?oc=5",
+      "source": "Jornal Grande Bahia",
+      "published_at": "2026-09-11T20:00:02+00:00",
+      "score": 52.75,
       "corroborating_sources": [
-        "AlMomento.net"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5c0dac087e4d22a0",
-      "title": "A 53 años del 11S. La política exterior de Salvador Allende y la Unidad Popular - Huella del Sur",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2J1dE1GUVZsTnhmMWVlcjZoeXNNYVF2Mkd6N3pIU1lOS2Yya0dDTWFrM1lTVTk0czdCQmkyU3ZSUVA2eDg2SUM4LV9yRkktakphMU02QTg5MWd3b1REN3NtNzZFNFNtMVNUdDF6WVdzeDRHUmhNRExhRzI4WlNjSzMyZ0ZWcmQ2NlNwZFZ1WVVXTGpVWjNScnRyMUtCN1I4SVdubXBJMUwyenplNVItdGdLMHQ?oc=5",
-      "source": "Huella del Sur",
-      "published_at": "2026-09-12T13:21:31+00:00",
-      "score": 59.7,
-      "corroborating_sources": [
-        "Huella del Sur"
+        "Jornal Grande Bahia"
       ],
       "signals": {
         "source_count": 1,
@@ -177,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEZ3Xzd5MnNWdnVKaWx1VFBNYzc1X2JmNGFFR2J0TU5USjZsZEtYaktwVVhLTmZCV2VBN1VXQWRPenRYd2JXU3BiS182Y21SaEZCOFZueXVOVGpkMHBfWEYteDNNY29Sb0oxZEN5LWFpODh4TWpaWnpDdVZOemk2X0pqLW9DNjI2eHIxaTN5M1NadjdHU3Y3N3lBcmgxNlEzWF9ZTXRFbmtFLXRsVEZUUVAzQlM?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-12T18:23:33+00:00",
-      "score": 59.09,
+      "score": 52.07,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -192,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU05wSldoalE3MVZOUWdJSUZ3U3lubFJsQ0dQM3pGUjRaSU5nbzR5ek1DYjNod29kZlVfMUZickhCMVZQUWpsMDByaWlybnhHbXpPRUNZYm5kaXc5bUJfZm51MVRBV0k3Z3A1YU1jRTVhdmxTVXNhSmduSDZ1R3RWWWxyZUlWTDkyVkRNWS1pTm9ubnc0ZDZzQWZoODJxeEpUYTBRazNYRk8yb05KRWxYbw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-12T17:37:49+00:00",
-      "score": 58.39,
+      "score": 51.51,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -207,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXl6Nm9nYldaMDNYSXZpVXFWeElnb0w0M3N4VjdTWGVWczNuSFZjVVQwRWpEMFdram1JeDhraGE3SzZ5X1hleHpiQlZSdi1HbWNXVU5CZ204YlpDRjNtRlNIUWd3cHRSZFltdVM1cTRnUzRLYXBlUXdtT2RXT0g0Tno0SlQ0bDk0Q2xsUUlUaFd2LVdoeUx6U2RoZGhOVjJiUDZZbjliSmVwNEphTVhVQlJES0w2ZEo5SjVIMC14Z054d0x3b3ZQVWg5ZmtkT1B5bHhUejdQTk12VUtlVld6djlrejdTem45VmfSAe8BQVVfeXFMTTB4aUJoRTlsN005ckxfRVFSTWZTaU5fTHoxc3UzSlNoY3BEaWp0a2pGUGI4bDZFYmNtbkx0OUdDcXYxVGlZYlhDUGxacXVoUy03QW5tdzBCbFYxZVdCLU9DaTJ2RWdndHFWZzYzN19YRC00WkhOS0doT2FWeEs5YWZPQ1A0bjNKcjYzTjNlXzFDN0hUajk2UGZ5Q2E3aV9hU0ItTC1fWGdNeHdZXzZjRGs0dUtvalpFOWswTFQyaV9qY2c2VDN6NVRzazVEZzJYUW1GeVZDWVB3c0dSU2xTTGxIdkpSYnNFdWZwVFNPUjg?oc=5",
       "source": "El Informador",
       "published_at": "2026-09-12T19:28:52+00:00",
-      "score": 57.12,
+      "score": 49.89,
       "corroborating_sources": [
         "El Informador"
       ],
@@ -217,44 +396,14 @@
       }
     },
     {
-      "id": "09436c5c66c6d946",
-      "title": "11 de Setembro completa 25 anos: Guerra ao Terror mudou a política externa dos EUA e ampliou disputas geopolíticas - Jornal Grande Bahia",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLTZkYm1DTEh1QWJTTWF2YlBsWEtTU1FBT0pMeGRwNFV2aUpYUkd3M1pqZjllTm1VWldnM2RsWXB3eUtwTGU1aHZKbGZybHlxQURIc1l1SW5naFp1YVBLQkRyajZobXd2ZklSV2U4bk03WF9wYkoxemZZU1ktZUJpX2RhRHhjcTQycnlJVkpkTWF6WmlzcEpsMzlWeGl1UjRyX1BlT1ByTDBjMmk1YU44WnB3TUZ4T1cwUGdrY3RJZHJyUzFsNFl2S0FvcF9xSjI1YjRaRjR2TXQ0S3dYYUY2MkQweHV4b1JnNlhr?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-09-11T20:00:02+00:00",
-      "score": 56.52,
+      "id": "49f375bae3413857",
+      "title": "Relatório de órgão ligado ao Senado mostra que política econômica do governo Lula é “insustentável” - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHdzakVodkdsV3U3VkR5S2hoM19fa0Fod25hcndidHJKbzhYLTltcmVKV1RaX3h6U1NoVmRXSjdKRk1tTjNCWkFuV0JJTERLZlFxQ3JfdXlVd2dYa3R2RV9TRnVpNGhEMXRBczQwQlZtR1lIUWtORjc0Wk5SYTNZVEEwVU9FNWtqZWkxLWo5S0pFOHFJQm5weTdyN3hySjZVOEIxZmwxMXB5bklaR2kzck81YUxzczNkTGJWSF9pSHB5YmtaNVV4bGE5bUJtdkpYNjdMeDRn?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-01-02T08:00:00+00:00",
+      "score": 49.48,
       "corroborating_sources": [
-        "Jornal Grande Bahia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1d6bd5ced1b13e57",
-      "title": "Noticias de Israel y del mundo judío en español - Aurora Israel",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGRXelp1VnA3T3Z1TlhRVE1TUmNlVFFYVldOOXRGLWcyX1lzVkVnRDRvRFFXZU5fZUxvM3Y1Q1pTaTMxUUJXSHdGMzJXVzVJLVNSWVpDRHliQ3ZGUzFDSFZOREUyQ010eUJnTzlvcElkb1MyN0lIazdJUkVhTkwtSVVn?oc=5",
-      "source": "Aurora Israel",
-      "published_at": "2026-09-12T18:22:35+00:00",
-      "score": 56.07,
-      "corroborating_sources": [
-        "Aurora Israel"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "961b1e342afd84d5",
-      "title": "El nuevo desorden mundial: entre la fuerza y la democracia - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzVSTUdsRXQwdG9BWXBxWGY5aXgzcWtoWWpCZ2I3SEMyMEJJOFdwdHdJZDMtdjZhd085SWFUUkZGdWtrYWdIdHFwVzI1N1V1WVFvbWg4TFpudzBYM1QxakhSVjJRNS1tSFVSZkZkN2hlcUNsbEdhMXJweG5lSzdyU3gzUnhwbWpoT19aYnBsZUU2WFFreXFXTkhhcHlnaHBrM3FfRW5JRdIBrAFBVV95cUxOS0NwQVltQWJjNS1rVjlvUEpZT2twNDZDVUVITkN4U1B5Z3JoR0VoSDFuYnRkSFpHOW52d1JHYW81bmt4RVNuekVYLW45elRLRGVwZlNJMmEzX0JOVTFXRzYtS1haY0hjc1JXbjY0NEl5VDVvV2haaXg2aG9xejhVTGl5RXBISmJnUWp6MlI2TWRjWU9acU1MSUJNVHhvTjNKNU54WVRYMzBkdnZa?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-09-12T06:04:48+00:00",
-      "score": 54.35,
-      "corroborating_sources": [
-        "Elplural.com"
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -267,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2ppTmJqUDB6S2M1ZHVRZkRUUEppNFdOT1dtUDJ5WTlWTXMyWXRrVWYwYXRyZjg3allKYzZabXhHSVoxVFh3YnhFVzVrX2ljR21TVXNiVzVaQ0dIQjhMcXZxTThxXy1jRGZvb2lZNVV6bXdQZjNEV0tlNTRNZmVLVHJWRE9VdWplRkQ1N2NTUl_SAZYBQVVfeXFMTi1zTTFlbjYxdjNta1hERmVreU9DU0RiUktzVTlGS2gwck5hSEdiNXkyMFlhTjUzLWJkNmdIbG1Xd0l1VWtxM2tpSFBzTXVOSk1LZEY1RXRiTy1IT2pDWFZ5SEl5NDdZQThUR0dwMDZRQzlmWFFQTTVVVmMwM0xKaU5GanEtYzA5bk00d3VEZkx2WWhJVG9B?oc=5",
       "source": "Al Jazeera",
       "published_at": "2026-09-12T05:30:44+00:00",
-      "score": 53.98,
+      "score": 49.07,
       "corroborating_sources": [
         "Al Jazeera"
       ],
@@ -277,14 +426,14 @@
       }
     },
     {
-      "id": "a4283c0474917dca",
-      "title": "The 9/11 terror attacks changed the world forever, but it didn’t have to be that way - Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYktiVzRjdmJ2WFh0aDhtcEtvWDdNc3ZjR0J6UzNOcEhfQWJsMEZuVTRZcmNKOG9uRGlYVEpwOFRaWGZFQ0xKQVl6Y3kyRUhUOTN4anBsMVctX2UycUJsamNLdTE3UVV2bEh1X3AwTmVkdXRBcGNSRTdYcEVkSHlORDA2RUhieThHa3RfUk9JUTZ1MTJpNWxuZkxvX1N0N3BPQTMzQWV6NGFBaTFsZ3dqVWxXeU1naEg3SHJla0dGdURZcFZo?oc=5",
-      "source": "Luxembourg Times",
-      "published_at": "2026-09-12T15:00:00+00:00",
-      "score": 53.07,
+      "id": "1d6bd5ced1b13e57",
+      "title": "Noticias de Israel y del mundo judío en español - Aurora Israel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGRXelp1VnA3T3Z1TlhRVE1TUmNlVFFYVldOOXRGLWcyX1lzVkVnRDRvRFFXZU5fZUxvM3Y1Q1pTaTMxUUJXSHdGMzJXVzVJLVNSWVpDRHliQ3ZGUzFDSFZOREUyQ010eUJnTzlvcElkb1MyN0lIazdJUkVhTkwtSVVn?oc=5",
+      "source": "Aurora Israel",
+      "published_at": "2026-09-12T18:22:35+00:00",
+      "score": 49.06,
       "corroborating_sources": [
-        "Luxembourg Times"
+        "Aurora Israel"
       ],
       "signals": {
         "source_count": 1,
@@ -292,164 +441,14 @@
       }
     },
     {
-      "id": "5e6870fbc510408b",
-      "title": "El Partido Republicano busca mantener el poder de la mano de Donald Trump - reporteindigo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWF6RzlveWxQR1RWRGIyWGtEdm5PUmtpZS0xOWZnRDljQ1FTeUt3ZEczQ1pSY0NJNWZDY2djX3gtNEMwLUdRSkxUckFJR1AxN3h5ZVM3MU5LellOcjVvNGJjbzhRS2xwdS05b29CUWRIWVhUdWhCVFUydVNZMk9BaUlFUHlaT1FvUi0wMEhBZngwWVN0QzBNeWdyMUVYMnY5S1ZUUlc1V0o1Yk02MldzYjZPN0V4R1dhS2E0SW90bWl4Z29iM0Iwa3gzckM1YTYwTlE?oc=5",
-      "source": "reporteindigo.com",
-      "published_at": "2026-09-12T02:57:56+00:00",
-      "score": 52.37,
-      "corroborating_sources": [
-        "reporteindigo.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fff2372923f2b3f8",
-      "title": "Elected officials set aside politics to pay tribute at World Trade Center ceremony - NBC New York",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcm42T3FvU3Y3U0NpT0g4YnQyWl83NC0wT3VzdVFCbFJlWldlb3RNSFVzeFVOSEg2MDlpaHl6SVFPTW9NRGZvUzRvUVcwc2VyRFRxN2M2bFNVVEhQaEpBZVNDb1lnT0tKOUIzS3NxZmtOYWRiYTQzNjd5bkNwb2VfUmFjVURZMGpXNlA3eVVHUUhyRjJrTm5sRnpnRDY2d2JXSGdMUVNKZzFYMDFCbU9EdFZWR0J2bjlvcmNpNXdlM0VEYlQxcndqeUktQ1Z6TF9INWU2MDVaWGs1QdIB4gFBVV95cUxQaUlhMUhZZjNBWURBWTFVQUlZdjNzQUdZS3B6SnVkY2JTa05senhKemZTWUZTQlg4Z3kxbnY0UzIxcF9wR2llbG1yRldzTWlmNzBsSi0yc25ubkltZWpBYWdGbnB1S3I3MGlpYmRiWjJ2ekpCbHBQU3YzUjZHNWRoQ21NR2xUZnBUaHZYZXBLcERvS19uZnhGUG1zaFMyOGN5X3l1Q2FqdVR5dmcxNHcwRnIyNlVBdnJDZ2RobzNiNWEwQTBid2JnUkZBRUFZNXk2V3d5LWhCWVN2b2NFZ1l6bHVn?oc=5",
-      "source": "NBC New York",
-      "published_at": "2026-09-12T01:56:18+00:00",
-      "score": 51.76,
-      "corroborating_sources": [
-        "NBC New York"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e931f9ab296d8a4c",
-      "title": "Lula fica igual 2022 em SP, MG e RJ e frustra expectativa do PT - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW5yV3JXNENkR0JsN3FzOExoYm1CcEFuRXFPT0xwVW1DNWZvNDMwNl9xc2puaVJXTll0Z3Q3WS0wSGViT08yVXphNzZjd2FueWhZMER2eERrRlBWcmx0N3ZsQndndmhIX00zVkxiSjFTbjJEQWF1SWxCaGwtT2RrOVlLTXBXWk5OR0NFMTg5VXo3MGxLNzVjRHdlb1QtcGxJd18wUUVjNmRYUzZTR1hvVQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-12T09:06:45+00:00",
-      "score": 51.45,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b87d4b0bfcb17db5",
-      "title": "Lula está pior no Nordeste e melhor no Norte na comparação com 2022 - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmZPMTk0NVBoZThCWTB5UEkwNl9hamFlazFHS2lzQ1lXMlhUUjM2S2p4ZkZKakpRMzY3cHJrcU9xWWM5RDM2NDBzYUFtbkRvY1BjeGkxLWFPWV8xSmNBUEJxWms0UUVyajRQOEFFUlk5RklRMWlTNkhvUFdsSVljWmxCVDlIQ3JIUWxtczJZZ1c4LWUwM0d6b2w2Z1dDMXRPVVpIcmJOZ0pyVWJDNkg2X0VYd1dBN1U?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-12T09:05:52+00:00",
-      "score": 51.44,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d04b74bf543a96ec",
-      "title": "World changing with BRICS: What Bangladesh should do - Prothom Alo English",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41ZkxoVjFUdTRTbHZGRjBHTDVOdk5LUHdDUUwzU0ZNVG9SVnpnR3FBOEhPVXJrRmZGVFFlQzh4RklDZHAwWTFDOHhSa1p6TW5qTmRRTVFFcnRjQzhYa2dv0gFsQVVfeXFMUE1PaHd2c3ZQX2VrVExybld4b0FuYVZEal9KUGhsSDhYaGQ1UkJGQ29nTDNVX3dtLVB2c2VYcl9PUVlRUXZhLU5QUmJBRlRydzk4bDBsOTFQeFNYcDBCMlp1V2RPODM4aWV6amFp?oc=5",
-      "source": "Prothom Alo English",
-      "published_at": "2026-09-12T12:41:41+00:00",
-      "score": 51.17,
-      "corroborating_sources": [
-        "Prothom Alo English"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8db60bf9e214ed0c",
-      "title": "Cripto bilionário doa R$ 250 milhões ao Reform UK - SpaceMoney",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlBoWjBsalhTODZ5TG9fbVZ2WjZDWmZST2IxYUZ1eFZjREpzeVBySy0tdEIyRWVaSkVZcF9raDZaLTcyUWZ4bFU5bUdhaDVCejZhZU90ZHVHdW52RkFqZ2hfYXpvSi1xN3ZWMmNNYS1KS2NMVDJRZ0pUcnNqMllTdnc5Qk1EbnZWeWc?oc=5",
-      "source": "SpaceMoney",
-      "published_at": "2026-09-12T12:21:41+00:00",
-      "score": 50.91,
-      "corroborating_sources": [
-        "SpaceMoney"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "10aaf81b1b0768cb",
-      "title": "Christopher Harborne matches £36m Reform donation of Ben Delo - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNanVPcFdzVWl0enhRRmdtS2dCVGNlWE1pdWh3WTNNb0xzVGhWTVMyZ29FRk5UbGNqZm1KTVR3S3h4N2ppdXJ5Z3U0b1Zha1VlRFY3aFFpUjNYVy1seXRZTHNvT0txZmJxQXJ5cXVsT1NzMExlZTdxZTJhUVUwNVJnX1JYWUNYd1VCZWlCdF9wcjRSVHg3SVJVZWdsRzBhSmJicFlOUGFqd0t0QVFVR1E?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-09-12T12:01:00+00:00",
-      "score": 50.63,
-      "corroborating_sources": [
-        "The Guardian"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ab5edfc5902af57d",
-      "title": "25 años del 11-S: la política mundial cambió y arrancó la guerra contra el terrorismo - Teleamazonas",
+      "id": "410b4f16c0a69208",
+      "title": "25 años del 11-S: la política mundial cambió y arrancó la guerra contra el terrorismo - teleamazonas.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkx2TmEyWlJCUTJiZGVMQ3J6SzhxSE1ZV1dyLUFYOFVTN2tmVGdydGF1QUs0SnkweTl2YWVxU1M5ck16djZ3VUh2ZndTdVl6alhGMnJYT3kxQzlURmR5THlpMHNzdUwzWm80VERfblp4djdSLUVfTUp1NWEtbW95Z3c3Nlh6Zm1OeDVhYkM3NHoxVnBMc081RG1QUVkteF9nQ0tvZ0diYlgwWi12LUhTVW5FZkhaYXdrc2FVQmEyU2hPM3VnSV9TdG5qblBuNk14?oc=5",
-      "source": "Teleamazonas",
+      "source": "teleamazonas.com",
       "published_at": "2026-09-11T05:00:00+00:00",
-      "score": 50.37,
+      "score": 47.89,
       "corroborating_sources": [
-        "Teleamazonas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5bbeec1d0b2e5f13",
-      "title": "Rubio volta aos EUA com acordos e \"riquezas\" de aliados da América do Sul - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYThwVkRlNnhaNHlDTURwemw0Tk4waGt0MHpPTDhsSGRHbWo4VDJ3THp4eXI5NnVSVGVmTU0xQlhTX1NzUjk0b3IwX0t1ZEtiTjFhSGV6cDNWc0U2REl0WkcwbHZtdUU1bFMyMEEyTGZJOElmRlNZVF95X2lQVzRrWVpERmpzbWU2dFhRZFU2S0tKRXd1NVZ4SVRnMFhyT2lqZnMwMFpnaw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-09-12T07:30:00+00:00",
-      "score": 50.31,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1e2e74ea032fece9",
-      "title": "Deltan, Curi e Filipe Barros empatam ao Senado no PR, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTDRnaVRHYzRYOXYzS19sMEZjcWxWNk9zS1dWQXdkZjFGRHVNVy1VRkpYWHJBRDZPdENJQmVDNDVIbFM1RGJyTGYwRVZxcmZYeDhMbGR0XzY5TDBOMmNuN0hoaUR1UDQ0aUVxY1JUOEZPbEVHSjRkZW5zM0YwbEtSNVpZdjF2cmJUX1Ffbm4xYlNkbUM1aVNQb2dxZ3U5TXVnQ0NmS3o2MzJwTjBMLVBxZThxai01QQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-11T16:34:29+00:00",
-      "score": 49.88,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "76ecca880d606d90",
-      "title": "Atentados terroristas que mudaram a história: impactos na segurança e política - gazetadopovo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclAwTHFMblJUMFE0MHVhSUwtMnJxLUFFNnFfamNyOFhtY25xYTFPV0ZwUjNJM3prUUFRaVIxMVRMcjZKUXNCTW1tVzdxc2ZEOHdpMXBZVWY4MkZvcHVBbzVyZVdDYVlkS0J5bFRyRmRoWS1JU2FwWmFXdUItOTNQTmN1YkNESjdnUlB0eXNqdEMzamlmckxpU3JHa1hvX1ZFLU1YbEFyS012aGhPTGRfaUc1NA?oc=5",
-      "source": "gazetadopovo.com.br",
-      "published_at": "2026-09-11T21:34:00+00:00",
-      "score": 49.32,
-      "corroborating_sources": [
-        "gazetadopovo.com.br"
+        "teleamazonas.com"
       ],
       "signals": {
         "source_count": 1,
