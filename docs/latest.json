@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-09-15T04:58:35.249168+00:00",
-  "next_update_expected_at": "2026-09-15T08:58:35.249168+00:00",
+  "generated_at": "2026-09-15T13:36:51.295179+00:00",
+  "next_update_expected_at": "2026-09-15T17:36:51.295179+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "a4bc6d669e36d7bc",
-      "title": "Politics Insider: Carney hosts investment summit to show the world ‘what we can do, what we can build’ - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGhHT3BJaHNMSlhRby04ZWE4LS1JaDZSVU5zNjNhOTRaQ2ZuMTVwRWZuTFk5TEpfamdKSXVkNUVKekJncEdZWGxPLWVETnBZclA1ekZUeDN5SzNCaEgyUldPOVNJUkRoaVRMbk90cUZNM0s1dGotbTB1OTFJa2lENUVyNXc1Z3BjWThkRUlLNzRFcEdGSlVsdWdLRnlPU1F0NDg2YU1FcXpuU2s3TTlKN05QM3Rxbm0zUE1UWg?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "2026-09-14T23:34:15+00:00",
-      "score": 69.2,
+      "id": "6988cd04bfc7c91e",
+      "title": "Rápida proliferação da IA é uma grave ameaça, diz ministro chinês - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHhhei0tc1NEajRiaGhzWWJiOTRPYXY5MkR5TDVGMHhvZzdDdWFMMEE4aGp4WmpFbkc2YjhnanpCakhMRXZVeUROT1BTeFIxdnVKUUgxeWlGLUZkMGpTdmJyeWVHSHVqdE83RnA5a1U5VkVkNjlua2VIc2JnamRDa3pDV3BrXzhLNl92NkFjd0VzRVlnRnNobk1TMU5vZGZpWmlaYTdqdFA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-15T10:21:18+00:00",
+      "score": 74.58,
       "corroborating_sources": [
-        "The Globe and Mail"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9df0e0543beb00ab",
+      "title": "2 US government personnel were accidentally shot by soldiers in the African nation of Eswatini - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVpYcEVTRmFlZ0JrSzNENHczSzRIZmlHT3FZejgtcGxKaDdWN2k2UkZ0REhPQWxBdnotZTBNSEhzQXhzRXNUWkpIWmVEaE80TEVRTjhyMDlzZmhONGtILW9tTnZFb3liYjBUWVRHUDV0VkNLU1drbDVzVk5xTlp3QW96WlBidjBNMnRDNGhwSktFcDVnS3pmUXNnZ0Jqa19jMVdBVi1LZF9PRXlMdDVGOW92UmI?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-09-15T11:57:00+00:00",
+      "score": 73.44,
+      "corroborating_sources": [
+        "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "54210dbe55c1b1dc",
+      "title": "Opinião | Eleições 2026: a hora da verdade da democracia brasileira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnpzT1g5QkpuYnVwbGthbFNHMU1tajFzVjEwY1E5OWtpa3FfaGU1bFhSRUVLUU5VSTFfNkZ4R0tXem9xNUFVMVVPcnZENkt3NHY0bkkzM0ZVM0lILWR0ZHU3c3phazU2TG5tWUpJaDlLdmhJUFRvZ2ZMd0pSLVlTd2x3QjVPVFMtNlJZWTJUVVdaMDZhaTNjcw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-15T08:59:50+00:00",
+      "score": 73.06,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a2338102eeb3c6ed",
+      "title": "Copom: O que esperar da reunião que vai definir os novos rumos da taxa Selic - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5S0xuOHdoTUQtUW5OaXdyV1RXa2o5bGJXWjl1Q2dCRWxOZm5HMWVrUVlHS3dZSHlaZW9xTlZ2Y3NMei1Hd3pxYm16MmFYY2dUTHdUckFwTEdQS1hzODk2SVk5S0h0dTJpcnk3cVVPbWZRS0x3X1F2MnRDM0RYUdIBgwFBVV95cUxOTk5McFV6OWY1RFp0V0NJUk96bXAtYXB5WnNoWDJfR2wtdU1TWU41OTdWeEpQQXFFbHdyQl9BSm9jdUFXQlJ0c3djVFlZVW9hZ1l2M2w5TFUyUWFWNTRNVVNqZVk2WG93dlQxdHZOWnpzV0RSbXRrU2ZhU2pnWDhRRjhJZw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-15T08:30:00+00:00",
+      "score": 64.52,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f032371015491b7b",
+      "title": "Sweden’s political parties launch coalition talks as both blocs try to secure power - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGg3Xzd4UHFJNlRsOFBieFAycHpXUEZFWVN6YXdlQzluOVJCU1JpZlM0d1JMekxxWlFNcmNRQTBxTlNrdXdkWUIzb1hWVEpnTURCTnowdmRRUzJmY3MyWk5pdjdzT0VqVURhOHNRV3RuWHpCbkt4cDU2cjlTRlYxT05uMDZFVUF6TlU2MlJEa2Z3X1Qtb1FrRXlfMVdvREV4cmtKREtfenp6eThrcndjOVI5Q1NZTnZKSExpcmM3TjMtUQ?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-09-15T01:30:00+00:00",
+      "score": 62.62,
+      "corroborating_sources": [
+        "The Guardian"
       ],
       "signals": {
         "source_count": 1,
@@ -26,39 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVU8teDRJbURIbk9GWUNfVTF5VTVXTnNKMTRBbmFIV3VRdkdaTGxzb0dhYXRyYnMtRkt2R016bjA5OXgxeE9OV1prVzZHeUZ0V1R4ZnRodVh3T2xrTUYyazJ3eHM3NFpVNkhqWmZVaHlSNzNoMUcyX1AwWVYydm1TaENJZ290Z0YyOFVTaWU0Sks5RDc3V0Q4UlU5a2RoeGVoNDIxeU1mWXd2enZrVzV2WndHZERtUWFFLU1xN3V6RXlkOV93SlJkR3NRTVdfQW1MaTZsWEFB?oc=5",
       "source": "MVS Noticias",
       "published_at": "2026-09-14T23:33:00+00:00",
-      "score": 69.18,
+      "score": 60.92,
       "corroborating_sources": [
         "MVS Noticias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "03482b9f0205466a",
-      "title": "Ministro israelense pede investigação das fontes do documentário ‘NAZA’ - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObjJYUWVyYVpWaFBjRV9Ya2pVcG52RUdUX1I4alVOM1VXWVFxUDF3YUNYZS1fQVBrYWhLVTJFVm9IRUZ5TjNkS3FzVXZYRXh5MldyZDJfS2FjSWRfUUw1S0Y1R2J6TmJmYlhiWWg3RWw2RkZIZVBmakczal9tVXRGTjdUbVE1dFJadGVybUVGQmNnVUNXbHhQTnZoaVM4OE1sSWNjT1dkTXV5bHp2MDhCYzlZejRMeGpFY0RoVGRxOEpLYlJL?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-09-14T20:01:52+00:00",
-      "score": 68.58,
-      "corroborating_sources": [
-        "estadao.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b74e62da52922763",
-      "title": "Política económica del Gobierno de México fortalece confianza internacional y mantiene disciplina fiscal: Rivera Vivanco - Leviatan.mx",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb01wYkJJa08wTkVpTURBbnp6a3BoeHdFeHN2R0xVU3dlSXVTc25URHMtcVNVUzJ3cURSVTk5ZXVwNHlBWGZRT0piVHBQUjhXWjF1QVZqd1N4V1RfYjZ1X3p0b19veWtHSFR6TUE5aVI5cTFmdUh1ZkRNZnprZkNhQ3B1eTN4c2ktTkZramVETWM1Wl9mX09iem41MXVlT2NMLVVGMWlSRzlLYVZjbWlHenlqa29YQ1l5LXYxUTFPOVJVankzd2xiOVU0YndSX1N4b1VfYU5RX2lxYjFWMHRTRVdISXRZZw?oc=5",
-      "source": "Leviatan.mx",
-      "published_at": "2026-09-14T22:53:45+00:00",
-      "score": 68.48,
-      "corroborating_sources": [
-        "Leviatan.mx"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU003Ny0zdUFBM3BUQjkwcFNwdHdOckh4cUNnSXRlaHZ6MU9JNDhLNWRxN1daWmQ5MFdMMkVUQkJuRTdoZ1Qwb1N0T2FaRUV0aENHd3B6eDB1Rmh1cGZfcERfRnRIcno2NFQxWURlcDFGb2JHXzRzTVJOY3pJWUZSY3J4eGZXQllHTmN3Mg?oc=5",
       "source": "Jornal da USP",
       "published_at": "2026-09-14T22:08:00+00:00",
-      "score": 67.69,
+      "score": 59.75,
       "corroborating_sources": [
         "Jornal da USP"
       ],
@@ -81,14 +111,29 @@
       }
     },
     {
-      "id": "21b0d30bdcb21b67",
-      "title": "Petistas falam em Lula atrás de Flávio, ajustes e vitória no 2º turno - poder360.com.br",
+      "id": "ffeceac1d1139f4a",
+      "title": "Equipe de Lula discute resposta ao julgamento de Moraes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUFvTXFMSTgxR0dUNnkxZXA1eEhtVUtyQ3pyRS1zUWFsVXpYUlQybzlCTjFlRXNQV09vTzFoRENBV3pxRm5qZnMtekhGQ0ZJcWdxTlFkd2NJeDFnNnN4VXIwY1ExbGlkd3ZpOWlHOEV4OWZYSWMxOHFwc3kwbXlUVFE1aThzQXF5QTlNSzQxM2FUYUx4LXNzUGxuYXZMWEE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-15T02:11:25+00:00",
+      "score": 58.24,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "60809af75372c93a",
+      "title": "Petistas falam em Lula atrás de Flávio, ajustes e vitória no 2º turno - Poder360",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1NrXzBEWjktaFR3bkVkRWpKVkxBQ3V0Mi1RUm5qNGllTmVEQzFyX0t6SWE2azYwbXBkc2pvWjhrRmNfQTkzQ2pvckQwV3RPSE1jV1FyWTB1VTBMYXFlOWxxa2hnVjk2U3ZIYk5Yb1pOX2tfX2Z3c0NlWThycEZVaUlWaWo1YVhPM2ZJMnh4QmxFNHFjWUYyRi1zQ1d5d0p2aHd0ak41aS1TdXotX2tiNzhuTjgzQlM2?oc=5",
-      "source": "poder360.com.br",
+      "source": "Poder360",
       "published_at": "2026-09-15T02:04:35+00:00",
-      "score": 66.99,
+      "score": 58.14,
       "corroborating_sources": [
-        "poder360.com.br"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -96,14 +141,14 @@
       }
     },
     {
-      "id": "d6d82ee68b6cf553",
-      "title": "Nevada will again get early say on nominees - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLVYwR2lieXY3NWtrc2xZNnhsMWJ1YU90MWxnNi13LV9wRnI1cHpvNXNuQlJBRWgyYm1fOWxWYlBjakpUWHJkZnpVbEpiS0NMY1A0dzlXZGJvck1uMHViRk5ua0pFWDd6MXE2N2U3Vms4eG5JNW9xVTRfUW1MdjhXem1mN3A0eWZXMzItbWFseGx2VHlRQ2JIZ3k1RzJkSlF3c29CdUFIYnhNcG1xaFZZeGdFNE0wWGxXOS10RHc3MkhvVXowblZsNUNKVFJsMGFSZm93cUtIajJ1Zw?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-15T04:02:52+00:00",
-      "score": 66.33,
+      "id": "31833cd32509c3ee",
+      "title": "Em 18 meses, governo Flávio terá melhora econômica, diz Sachsida - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemxGRUpQQTVYQW9TeHlNUWpFQ1FJRDc1ZElVRkQzZDVHRElZaVpoYWJiUGc5cG9tM252QjBVcS1rYTlyVUtzNksxRlZBckc1RGFVcDRpd3NpcUlVc0xnR3JvTTFvUnlGOHl4OVY2dmhJMEY0aFYtVHM0cWtmbDZ0SWU0VTVKQk9KeC1vSmdRMTZOZ2VDNkU1elJMZUJHUGhHVWxvM1kyU2dMcmlxajVBcQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-14T15:09:13+00:00",
+      "score": 57.59,
       "corroborating_sources": [
-        "The Seattle Times"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -111,12 +156,27 @@
       }
     },
     {
-      "id": "8a872797f8da8b20",
-      "title": "Haddad sobre rejeição em São Paulo: \"Política está difícil para todo mundo\" - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWpqM2JRTTBJUVdFWTZtV3h4VzI2YmZYcU9aMEU0S0dXS3hodVJIcEJ1aTFKdnh5S1JTSEV3NWh4WUotT0pxNURTbG1kcW1WempwbURsY3h0OVJaelJ4SlB3RGdUajNaUXhWX3BSNFJBc0d4RTFzYzc0VVdDd3Nsb25pRy1aU25SMjAzR0g3d3JQTWFEMi1nVFNlY0xNckw0MmprWHQxYldHWEp2TVE?oc=5",
+      "id": "7363cca3d9c5e16b",
+      "title": "Desconfiança de eleitores no STF cresce e chega a 56%, diz Quaest - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3R5QXZHVVhvLXRJVTlIWHhxODEwNk1GZ3lBTWFzSnE1RHppY0U0SGJwbkQ4VDJXdGU3dlNVVHVsU3BHQ0M3OUpiVEN0Q2tqWXpXOENjWmJJZ0N4X01WVHpGQ0U4UHdQNW9iLWxQYzdqRldKUzFESXR4eTlRaXVpdEwxNGIzZENpRXVKcVZva0o2NUlhZlVEbHVVMGdUZmRnRUFuSldDTlIxUQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-15T00:49:44+00:00",
+      "score": 57.02,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0202cb7597422977",
+      "title": "Alagoas: vices têm dia decisivo; Justiça e negociação política afetam chapas - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDNfcGpwTUlsRVlXSTNSLUdBX3ppVnY1RE5OSGVDZ3dESjU0SWxSX2NYeWhMRUJLbHpfSXYtYmczcTNlaVQxc1J3YXlqenY2dlBlN2JibVVmdHhpZDNxbFl1amk1d3lyVloyVzRyS1V1TGJNRmhVbVV4R3BUdWg0VXpyVnVubzZqTER5YUJBU3hqT3BBQkt4Y3EwVjZqcG9CV0lDd3Zaak9ZZG9f?oc=5",
       "source": "Metrópoles",
-      "published_at": "2026-09-14T16:51:00+00:00",
-      "score": 65.61,
+      "published_at": "2026-09-14T13:01:00+00:00",
+      "score": 56.2,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -126,104 +186,14 @@
       }
     },
     {
-      "id": "c14d8b78a6ac72da",
-      "title": "Desconfiança de eleitores no STF cresce e chega a 56%, diz Quaest - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3R5QXZHVVhvLXRJVTlIWHhxODEwNk1GZ3lBTWFzSnE1RHppY0U0SGJwbkQ4VDJXdGU3dlNVVHVsU3BHQ0M3OUpiVEN0Q2tqWXpXOENjWmJJZ0N4X01WVHpGQ0U4UHdQNW9iLWxQYzdqRldKUzFESXR4eTlRaXVpdEwxNGIzZENpRXVKcVZva0o2NUlhZlVEbHVVMGdUZmRnRUFuSldDTlIxUQ?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-15T00:49:44+00:00",
-      "score": 65.58,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "377d6f7b5fdfbf2d",
-      "title": "Em 18 meses, governo Flávio terá melhora econômica, diz Sachsida - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemxGRUpQQTVYQW9TeHlNUWpFQ1FJRDc1ZElVRkQzZDVHRElZaVpoYWJiUGc5cG9tM252QjBVcS1rYTlyVUtzNksxRlZBckc1RGFVcDRpd3NpcUlVc0xnR3JvTTFvUnlGOHl4OVY2dmhJMEY0aFYtVHM0cWtmbDZ0SWU0VTVKQk9KeC1vSmdRMTZOZ2VDNkU1elJMZUJHUGhHVWxvM1kyU2dMcmlxajVBcQ?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-14T15:09:13+00:00",
-      "score": 64.13,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6c96cbece7b11a3d",
-      "title": "Oposição articula regra para destravar impeachment de ministros do STF - poder360.com.br",
+      "id": "6364f651879a01cd",
+      "title": "Oposição articula regra para destravar impeachment de ministros do STF - Poder360",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3JheklQdVAxZkJoeVpsdjlSYUE0SmJUZVFaMi1jYU9mdFNoNXh3NTdQeEZ3dm51cWRhcEdGdWJtdXo0cmhzc0lLTElPZUFqcDRXd3ltRkdOR09FYWhNNnA4VU1KUWRVRno4QlQ2UXhDZ3owS0JGQ0pOd3I2Y1pZc2FNTzVPMGMzVG5WRzU2Q2VKUE50SkZWd3B0WUlBVGlSS0g2Wm1lQVZjYng2ek4xVFNCOC1lZw?oc=5",
-      "source": "poder360.com.br",
+      "source": "Poder360",
       "published_at": "2026-09-14T23:29:01+00:00",
-      "score": 64.11,
+      "score": 55.87,
       "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f2a7eb09ce09cb04",
-      "title": "25 anos do 11 de setembro: a guerra que mudou o mundo - vermelho.org.br",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXBTMmgwVXl6Q2tjcjFMUEFaMjlKZzVBSEtNZWFtWVplV2owaEx5RFFSOXdHOGt2Njk2dWtxMmROdXZCSDA0dGl3NEVJd3liZmJGSW9HVndzd0hiOTA3dHhVcVVqTmZBWE81SE9wNmpBT2lrRW02VWtQc0RkczltU1oybU9SV0NPZHBTYw?oc=5",
-      "source": "vermelho.org.br",
-      "published_at": "2026-09-14T16:36:15+00:00",
-      "score": 62.39,
-      "corroborating_sources": [
-        "vermelho.org.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "365f9ad2b9223db7",
-      "title": "Relatório aponta uso de jaulas de aço para ‘acalmar’ presos em ‘Alcatraz dos Jacarés’, nos EUA - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTFyWmR1WG9JN0s4bkhFX01seUUwV2ZBdEdzeHBCN0hueEcyNnludWdGM2tOZWNxZjRtODRDZTJCdnVZQ3BZN1ozX2k4eU9tNl9ZbVFxNzNnc2NPZTdjbzk2aXZlaUlNSU9aSU8yaXc0X1RSdDYzT01VMkROR09CNmRUc3Y0M0dzQzNLc2hXZmp6emw3SDVPYWhsZUxSYUFlY3dHcHM4UnZidXM3MVZZMzNQcHNsUDlMQlVGbXo5aEJZakZSakFnWG0tOXJaTDgy0gHWAUFVX3lxTE9MZkNyVGMyaThmeHBPcU85Tk95SHRkZHZsR0lkVmFPakx5cGQyY0lsMG5TQUhlZjhZUkl6QkNBSURkQzFOQWMxbk1fUE5GUUxKRUt2RzNIWjRpaFhiTUxTOS0zRTBQZjNkVEtKRWFGMjJtblJRTWFSTVpLcUpkb3ZWVnpWZFAwWWxTcGpZT3l4OXVTNjZVbngzYUNUQS1kRndiY2NHeG83Mi1LWU9QaUtkWjZ5cjE3a25VMVNYZnUzWWkxX3pTSUVxdFowa1lhQmdlR0RMTGc?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-09-14T21:42:00+00:00",
-      "score": 62.24,
-      "corroborating_sources": [
-        "estadao.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e0188f479782ff17",
-      "title": "Federico Pinedo y la disputa por Malvinas: “Hay que sentarse a conversar, mirar para otro lado no da para más” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkR6bElrQ0ZIeVg1eWhyWkVvWmhtMndsTnZSRVpmbFg4QkpTSVZrYkJkZXRnSU94RDRneHhmN1lGQW4yRUpuZThfNDlxQS1tcmV3ZndvaTBmQk1GOXZTMkx1a0dmZGFoanRSMFctMklmQlJaQjU4akZNMWkxcUFWUFcyMWtYNVBabEptWENFMk9NRDZ0RmQzbWVsb3drMU1yWm5LSWRMUk5DM2dPQjRsQ0FmaVEtTjdyS1lYVk5JdDU2VG5QMkJkY3h6MllZSmprdFpmR0NuOUtQWHdnMHJQNnNrNWg3QdIBgAJBVV95cUxOOS0zNnExYzY4eF9IUU02QWVhdTYtc1B1LUdjcHJhb1lsV3phZ0lwU0xmVTFNVEV4S1FsVGVhbk9EZ1drSkJUeEl2UldEX2RENnlWdHVKY2hzdG11TzFwOENneU5wYWtPS2tGVkZHUThMcHZFTVF4Z3l3bUJoY21tZWZOQW8zUi05SXNNa01TanBUWFhDRFA5cEpDaEVONXFBaS16NFFIZUh1RWZ1blBqdDBjcDM4NEs0WjRDZ3ZfU09hQU1LUjJIc05nbXR5bEFSVmdzTmlPcW8xR3NiUUJOZU1mYTZva201dHJsMDlLREZGTlR6REdhOXlwckhMNkx1?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-09-15T00:19:00+00:00",
-      "score": 62.01,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f1f06961c99d9de3",
-      "title": "La política exterior brasileña afrontará desafíos con Trump, las big tech y los minerales críticos en la nueva legislatura - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOeU9wQ0RaZlhSY2JXV3lwN1ZUTHNjZ0w4dHZhdTNLblNGczBVZEhCTFQ0X09ScGRhSVJzaFp0WFVJeWthZEREeE1YeHppYW9lX0xoenM1ZHVZTGZpc2x3UldDSmVkZXNHUWY0azZXX0hvMC1IZUtSVEJiLWx4WVdiTW5XMUtpNGlFQTBROTRHNTJiUEpGU2dHSk8zREdKQS0zRkRFejNGWldjQ1JwYmRodUV5WkU0SnprVjZ6UmU3TnR2VnF5eVl3WE40STZTUVFkb0xHR21qQ2hselg3bUVpbjZUb3oxRnNxNVFfWFBsck1yZmYyTUZ3elcwaURWNTQ0cmJvalhwUWQ4OU1aRXVvYzVmNmNOUnc?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-14T16:09:00+00:00",
-      "score": 61.99,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGNVNzhWRjBpRFVnaUJ0dC1TRVR0WjV1TXVwVnMzOEJlX2taUzJUM0ZYN01qSUlWdG9SQkZ2WUxfZEpJZGw3WjRPSGtrc1MxZllSWjVzbDluWkxzZDRCZGhlN1BpY2xJV25OanZQdDRqTkdyck9MVFlyUi02LVNKN3pYMGY1cktpWk16bElxV05US0l1RktRMFFmSXExQ0hxdi1uaGd6VFJYakE?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-09-14T12:17:18+00:00",
-      "score": 61.78,
+      "score": 55.74,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -246,12 +216,42 @@
       }
     },
     {
-      "id": "05619694482225da",
-      "title": "Merz afirma que no tiene sentido desvincular la política exterior de los asuntos nacionales - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEpxdWdMQzhQblllZVNfMWJWTWlmSHFLNDZTT1Y0VXliTlhzQ0lLMDRUYzlsWFg1MzZSa1NjdjFVdlBQVjN1OGhjZGx4MmhwUXE4VV9IUVRjV0NNT0tqeVVNeWtTTnlmeEtpVW9IVC15YjBzWTlvZnNISllUdDdzeG1lUVVwNk5PeGtoSXBSMVFJZExrNDMza043czBrYTRORFctaUtGUFBhQ3Exa042bjRyVQ?oc=5",
+      "id": "f2a7eb09ce09cb04",
+      "title": "25 anos do 11 de setembro: a guerra que mudou o mundo - vermelho.org.br",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXBTMmgwVXl6Q2tjcjFMUEFaMjlKZzVBSEtNZWFtWVplV2owaEx5RFFSOXdHOGt2Njk2dWtxMmROdXZCSDA0dGl3NEVJd3liZmJGSW9HVndzd0hiOTA3dHhVcVVqTmZBWE81SE9wNmpBT2lrRW02VWtQc0RkczltU1oybU9SV0NPZHBTYw?oc=5",
+      "source": "vermelho.org.br",
+      "published_at": "2026-09-14T16:36:15+00:00",
+      "score": 55.58,
+      "corroborating_sources": [
+        "vermelho.org.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f1f06961c99d9de3",
+      "title": "La política exterior brasileña afrontará desafíos con Trump, las big tech y los minerales críticos en la nueva legislatura - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOeU9wQ0RaZlhSY2JXV3lwN1ZUTHNjZ0w4dHZhdTNLblNGczBVZEhCTFQ0X09ScGRhSVJzaFp0WFVJeWthZEREeE1YeHppYW9lX0xoenM1ZHVZTGZpc2x3UldDSmVkZXNHUWY0azZXX0hvMC1IZUtSVEJiLWx4WVdiTW5XMUtpNGlFQTBROTRHNTJiUEpGU2dHSk8zREdKQS0zRkRFejNGWldjQ1JwYmRodUV5WkU0SnprVjZ6UmU3TnR2VnF5eVl3WE40STZTUVFkb0xHR21qQ2hselg3bUVpbjZUb3oxRnNxNVFfWFBsck1yZmYyTUZ3elcwaURWNTQ0cmJvalhwUWQ4OU1aRXVvYzVmNmNOUnc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-14T16:09:00+00:00",
+      "score": 55.27,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "caeb80d82399795b",
+      "title": "Merz advierte en contra de desvincular la política exterior de asuntos nacionales - ABC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXlzb3h2TVpOVUJSRHY0MW02blVBWkJhNXhhZEJZaFBjaGxWdER3R0NlR3BkVVB5XzR0QXo4TjVwbTM2SkFneXZLQlFGcGtkOTViZHRHd29aaVZYMW9Rb3dJN0FrcEJFakxfUnp4MnBoVlFrY1B5S2V1N0lDM1dvRWFqbVF6NUdtbDljUUo2TjVCeGg2YjI5QjV5SThWd0p6dHR6UG90aFQ4M0h0eE1GSFBpZFBYT2R2dHc?oc=5",
       "source": "ABC",
-      "published_at": "2026-09-14T15:45:51+00:00",
-      "score": 61.65,
+      "published_at": "2026-09-14T15:50:46+00:00",
+      "score": 55.06,
       "corroborating_sources": [
         "ABC"
       ],
@@ -266,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFV5a3FnYUNzVk5yZ3RLWUREcjY4bk1JSFJQa0xOLS12RVgzeHZONnVBcE9QNlBhREI4UldzRGs4REI1Y0FYbi1YVVRtQ1JCd1VTTGdIbGtZWVhwNjFmSHN2QXZQYTNLaGxIekNQWmNoVWdZQW8zYm9BallGMjd1V2FRMGN6dUd6N1hWN3FoWFJWSHBIS1U5d0NMeUZCcDNqcE9zZEZtbkQxczZobHFoUWpKanZJeXlJM21wbjZrYw?oc=5",
       "source": "RTE.ie",
       "published_at": "2026-09-14T15:24:26+00:00",
-      "score": 61.35,
+      "score": 54.76,
       "corroborating_sources": [
         "RTE.ie"
       ],
@@ -276,14 +276,29 @@
       }
     },
     {
-      "id": "9ad306a4d064e011",
-      "title": "Sudeste deve decidir eleição presidencial, diz Jairo Nicolau - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGZHM3V5R2NJOFFkVlJRbGluQ1dNbDVvZ2MwTU9oNURrZUhieE90ZnhVQTdMLXlGQzVGT0Jud0dUN0NQSEtuVTlUMUlGVURrd29za3o1LWxfeV84MXozbzNZdC1NWjhGcXM3NTVCSkhweV80T0RsTWRZSEx4SkNNbWxiTkduRi04MVFZZUhrM3VDbnBqa2hmLXVqMWJ3bUk?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-14T09:19:12+00:00",
-      "score": 59.54,
+      "id": "8705da7e78d23db6",
+      "title": "Relatório aponta uso de jaulas de aço para ‘acalmar’ presos em ‘Alcatraz dos Jacarés’, nos EUA - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTFyWmR1WG9JN0s4bkhFX01seUUwV2ZBdEdzeHBCN0hueEcyNnludWdGM2tOZWNxZjRtODRDZTJCdnVZQ3BZN1ozX2k4eU9tNl9ZbVFxNzNnc2NPZTdjbzk2aXZlaUlNSU9aSU8yaXc0X1RSdDYzT01VMkROR09CNmRUc3Y0M0dzQzNLc2hXZmp6emw3SDVPYWhsZUxSYUFlY3dHcHM4UnZidXM3MVZZMzNQcHNsUDlMQlVGbXo5aEJZakZSakFnWG0tOXJaTDgy0gHWAUFVX3lxTE9MZkNyVGMyaThmeHBPcU85Tk95SHRkZHZsR0lkVmFPakx5cGQyY0lsMG5TQUhlZjhZUkl6QkNBSURkQzFOQWMxbk1fUE5GUUxKRUt2RzNIWjRpaFhiTUxTOS0zRTBQZjNkVEtKRWFGMjJtblJRTWFSTVpLcUpkb3ZWVnpWZFAwWWxTcGpZT3l4OXVTNjZVbngzYUNUQS1kRndiY2NHeG83Mi1LWU9QaUtkWjZ5cjE3a25VMVNYZnUzWWkxX3pTSUVxdFowa1lhQmdlR0RMTGc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-14T21:42:00+00:00",
+      "score": 54.4,
       "corroborating_sources": [
-        "poder360.com.br"
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "124ed09f89bd249e",
+      "title": "Sudeste deve decidir eleição presidencial, diz Jairo Nicolau - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGZHM3V5R2NJOFFkVlJRbGluQ1dNbDVvZ2MwTU9oNURrZUhieE90ZnhVQTdMLXlGQzVGT0Jud0dUN0NQSEtuVTlUMUlGVURrd29za3o1LWxfeV84MXozbzNZdC1NWjhGcXM3NTVCSkhweV80T0RsTWRZSEx4SkNNbWxiTkduRi04MVFZZUhrM3VDbnBqa2hmLXVqMWJ3bUk?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-14T09:19:12+00:00",
+      "score": 53.98,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -296,9 +311,39 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSkZmSzYyTV9CekFoRDVLOW1qNHN0QlhmUl9SUkVuekJ6S0RCOFlpbE5JaU1NcDJjNjJzTy1tSTI5ZHZhcy1wQXlDZm1iRnNOU2JVTndsWUlfUUY1M1MyYjZHSGdCMFBpZXhkUU9OTTZURXpnZ25ydllFM3EzekFkdHFiRVpma2k2SE1hbGMzUUU3NUM3aUZSM3hjMkIyMlZ2Y01wZ2paRTA4RkFOakw1UWV2MlhGV21ab3hZSGF2UHdDNmU2c2p2MDdvU21Pd1ZmZ1R0RWxVSVd4dFlUMWhHTmJ3?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-14T09:00:00+00:00",
-      "score": 59.31,
+      "score": 53.8,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e0188f479782ff17",
+      "title": "Federico Pinedo y la disputa por Malvinas: “Hay que sentarse a conversar, mirar para otro lado no da para más” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkR6bElrQ0ZIeVg1eWhyWkVvWmhtMndsTnZSRVpmbFg4QkpTSVZrYkJkZXRnSU94RDRneHhmN1lGQW4yRUpuZThfNDlxQS1tcmV3ZndvaTBmQk1GOXZTMkx1a0dmZGFoanRSMFctMklmQlJaQjU4akZNMWkxcUFWUFcyMWtYNVBabEptWENFMk9NRDZ0RmQzbWVsb3drMU1yWm5LSWRMUk5DM2dPQjRsQ0FmaVEtTjdyS1lYVk5JdDU2VG5QMkJkY3h6MllZSmprdFpmR0NuOUtQWHdnMHJQNnNrNWg3QdIBgAJBVV95cUxOOS0zNnExYzY4eF9IUU02QWVhdTYtc1B1LUdjcHJhb1lsV3phZ0lwU0xmVTFNVEV4S1FsVGVhbk9EZ1drSkJUeEl2UldEX2RENnlWdHVKY2hzdG11TzFwOENneU5wYWtPS2tGVkZHUThMcHZFTVF4Z3l3bUJoY21tZWZOQW8zUi05SXNNa01TanBUWFhDRFA5cEpDaEVONXFBaS16NFFIZUh1RWZ1blBqdDBjcDM4NEs0WjRDZ3ZfU09hQU1LUjJIc05nbXR5bEFSVmdzTmlPcW8xR3NiUUJOZU1mYTZva201dHJsMDlLREZGTlR6REdhOXlwckhMNkx1?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-09-15T00:19:00+00:00",
+      "score": 53.58,
+      "corroborating_sources": [
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7fe738a780f864bb",
+      "title": "Foram mal feitos, diz Haddad sobre contratos de Sabesp, \"free flow\" e CPTM - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlgtSFdER3ZXdlJvMTh1UlJJRWJXcTlfcmpMQjVoSzdjdlg1QkoyX2lRUzVqZDEyTDZUcW51ZmRybUwydXh4U2kzcHhwUEJFZFVLWFQzSTAwUmlxdndpb2xoeXNyOXd6YlQ5a0N0dENSZ0VrNmVwMEhIeDl4ZVV4cE1PRzhBal9DbzJnYWl1S0RLb1NGYTVBenpWTmNtWnhWTGlKLVZWYy1RTnlZOE16X1BDSURhMXRCeGlj?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-14T20:05:38+00:00",
+      "score": 53.14,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -311,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGFaYm1yVXhIdkZ3SGVJTFdublVxSGRUUDh4STZPZk1NQzQtcmNvNUpGNFlqTjJxY0JGb0FUT2lKUERFM2dJTTZoTnJycVljelJZbGNTdF93aWVZcGlDTXB4Y0Z3QldvTmFWVi00NmFMZ0dSblFMcVhfQS1ucUd6RkJNb2hFNXJiSElpdkF3VU5XUQ?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-09-14T12:25:06+00:00",
-      "score": 58.89,
+      "score": 52.83,
       "corroborating_sources": [
         "Política Exterior"
       ],
@@ -321,14 +366,14 @@
       }
     },
     {
-      "id": "7619b4c9004993c0",
-      "title": "Los ataques hutíes sacuden Medio Oriente: ¿Qué significan los daños al Petroline? - Reporte Indigo",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd2FQZVRvMk43R082b0xzX194aVEtMVdxT1RyeG5ZdW1FYXhTczNpb3c2SnRZMEJ0UTExYlNzVjN5V1hwaWdtYzVfdWF0WE1FVkVGaVViVmFjTWpBeHRURk93cS0zSmNwWnBuV3haYi1wZ2RrVDl0RlRLQm1RRklyTUhwZTlEUWZ0LTE1STVXZUFzT0RJcUpyX09FSWRpU1JGUktIdHhnQWhpT2lKOFEzZVdwTmlWUF9faTY4V1ppTkE4QlozTnNNYXA1WkdiT3hWenljZmNmd3XSAd4BQVVfeXFMTVVxZXBqUHBtenloWkU0V1ItZ1pIYWEwYVN6dzJkeG5iSUFTeXcyNHhHMU04d1hpLXpGRVhlRS1nM1JVU2psR3dwZXFBSjY2QXlUSWVxNkRVZFVsandnOU5VREQteVFUaVVFelhaOTVWaFVuMkNFQV9ENzJKdGxBazdfX0hoYmZDSmR3SV9fX1RnQzJvNmZIYWd2N2ZXdC1aX3NwYmFWajh2UUpkWF9FSHZzM0hPajhiRk5SQ0tiSEtvZi1aMVQ0dmJUZkE5UnpBS3paUG8xSUZEY002TGJ3?oc=5",
-      "source": "Reporte Indigo",
-      "published_at": "2026-09-14T21:03:00+00:00",
-      "score": 58.58,
+      "id": "315a96e42e22bd7f",
+      "title": "Quais serão os rumos do BRICS após a cúpula na Índia? - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjVOaVF6WWhVLUZQV3R3TXFmLTFQX0JROEh0U3RBcTkyQlFtaHkyVGd6ME40Qy1QSmtyLXk1c1NBZWgzdkc0R01YVWF3c25hQy1Sc2EtOW10cTZFY21mdnRXMmEwS1hPdjJHV1VKVjZVdVMxSm4yVE9xMFB3M0VRWWpqSFl3bFNpa2czYmVmajRKcFRianNWRUZka0JmRnVZeEJrbGpUT2Z4MU9ETFE1dDljVUk?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-09-14T21:01:00+00:00",
+      "score": 50.85,
       "corroborating_sources": [
-        "Reporte Indigo"
+        "Tribuna do Sertão"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZk84ejZEbWJncHdmbDRUdkEzNnh2V08tNFZoVXNwQkJOTENBOFNmSWhYa0s3SC1aazE0dS1BRi1LRDVWeC1aUlY1MVpRTTBnTy1ydkdxcFg1dlJzT3I3OVpKUGZsMzc5dWduUjl1ZWItOFZReDRvS2RyRGJua0tIa2pUNXJyY1g2RUU3OWppWGo5OU1TWVNZZmFRSQ?oc=5",
       "source": "agendarweb.com.ar",
       "published_at": "2026-09-14T08:45:00+00:00",
-      "score": 56.13,
+      "score": 50.66,
       "corroborating_sources": [
         "agendarweb.com.ar"
       ],
@@ -351,14 +396,14 @@
       }
     },
     {
-      "id": "54c4bd3872b65d1e",
-      "title": "Brasil chega tarde na corrida dos data centers, mas com vantagens competitivas - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUJiVnp6WGNRZmlSQW9wNURHY1pnMHdBNVliM280b0RaSFlIVnlfXzF6UXZFYnNaNDNwSGZVems0bmt0Z3cyZXBycVlLX3F0dm1yTDNWUmNpSHIzQWZYSHRYcVJKQnhzNEZFSW9RMHY1WlFtNTF5NmsyUjBWVWRKNDJLazhnYXY1M1lXNmhsT05sREnSAZgBQVVfeXFMTVpZenVva05KOW85ZzlJQ2owS29EMkJ2UW5CdzBDOWlGOS15d1U3ek9UeFlPdi1sSnVfMTh2clpRQ3dfQXdNVGJwZ0lxZ0FxbG5SeXhGN25uWXZFUmNKVUl3WEc1T3NZOFhySkFJZFZsMFpfNTVPa281RmludUhZOGpOM256NmVURnNpTXJlYTRfdDBjcXVpTEE?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-09-14T14:00:00+00:00",
-      "score": 55.16,
+      "id": "17c4bb929671c1c7",
+      "title": "Lago América o golfo de América, la estrategia de Donald Trump para remarcar la hegemonía - expreso.ec",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1B0NF9EOWZIT1FWSjYyWTNhVFZYVWpkMWNsUW85TXd1QjY3VlF3NmxxZ0pILVNzbGtjczZZLUxhX1BlaEpzUTFjZi1TOF9fMWtzNEY5UWNIN0MwMUtpLVV0VGgzWlprQWRHMldQSnctV3dxVkZyWGgwZktPamJ3T1NhLVVkWDg0OHFURnRrdEE3RW5WYmE1aXhmNGVlX3pWV2t6U0ZUeWM0Y1dKbXhPLWNTdmdNVHh0WlE?oc=5",
+      "source": "expreso.ec",
+      "published_at": "2026-09-14T20:29:19+00:00",
+      "score": 50.44,
       "corroborating_sources": [
-        "estadao.com.br"
+        "expreso.ec"
       ],
       "signals": {
         "source_count": 1,
@@ -371,9 +416,24 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmREOVpsTE9jVEdjVFpTQXotSVliWXUzekpuUC1jbmtMXzJvSDdlN000VUlXSy1Wd1dUUm0xVEVWTjYycGZrRHJVUVBuNU1PR2hjZndFZjF1RzN2Q1Fuc3BKdEVpZnhWNkRJU1FpYzhrc0dNVmNiOWVtcV81WDBjWkM1V3RzeXZvN3hURlBuYw?oc=5",
       "source": "Diario Financiero",
       "published_at": "2026-09-14T07:00:00+00:00",
-      "score": 54.92,
+      "score": 49.7,
       "corroborating_sources": [
         "Diario Financiero"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "49f375bae3413857",
+      "title": "Relatório de órgão ligado ao Senado mostra que política econômica do governo Lula é “insustentável” - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHdzakVodkdsV3U3VkR5S2hoM19fa0Fod25hcndidHJKbzhYLTltcmVKV1RaX3h6U1NoVmRXSjdKRk1tTjNCWkFuV0JJTERLZlFxQ3JfdXlVd2dYa3R2RV9TRnVpNGhEMXRBczQwQlZtR1lIUWtORjc0Wk5SYTNZVEEwVU9FNWtqZWkxLWo5S0pFOHFJQm5weTdyN3hySjZVOEIxZmwxMXB5bklaR2kzck81YUxzczNkTGJWSF9pSHB5YmtaNVV4bGE5bUJtdkpYNjdMeDRn?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-01-02T08:00:00+00:00",
+      "score": 49.48,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -386,69 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTlQb0xxTmk1ZVlYUGV4UFNReGE0RFpDWHlwaGJxRllyd2VQeUFlT2pnTGREQ3BPZTJvZTVBWmo1SF9Ta1Z3RjlWV0NKVmhuT2dfV0x2dDJIdDhBT3EyNDdmbzV5WmgtRWxDWUEtZUNHUUZjYUNGZzRuNkxFTC1VMEsyTUtkWlktdUthNDJ4dE51VGxNeXlZUg?oc=5",
       "source": "Gaceta UNAM",
       "published_at": "2026-09-14T06:24:07+00:00",
-      "score": 54.51,
+      "score": 49.39,
       "corroborating_sources": [
         "Gaceta UNAM"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d25e0cd2fc3b9d97",
-      "title": "Trump rejeita novas barreiras para inteligência artificial - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHZnRWhNc0QwSkFVQ1l3dWY3WTV2Q2hlMmZydGp3Sk9wN0NMTDh2S1VoYlg3UlNmNGRYQVRxVHZEQWcxZUp6QUM3bHV6V3RwNnltSU1sMVFMbl9ZZ3NVQmM3NDRwdThaSmtRWEZjZnZZa1ZLSm9xLVc5c21qREhRXzVjel82LThiSUFwTVpNMXhhM1RLMGRXajVERnJNd3h2eGNpS000c0UtZ0xFSDZLWQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-14T15:11:00+00:00",
-      "score": 53.15,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "771fbec440a66531",
-      "title": "Swedish election in dead heat as voters question liberal traditions - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzN4dVVueUFZZmc2V1NOUVdBT1FfQjBqN2ZYT3RmVVFuX3lfRktoN0tFSUNDMG9UaW9RVUhSNGZFMVJ1WVNZMkNtRnk0Z2FGNVNJYVNIaTlXYy00eHotbXBsOGJfcW5HRlRJcjdrb2lFeDhOOXZxcDBfbk9HbE8zcXRYdjFMVkFUMTFJaTI5VjFRM3F4UVhLSkp1TVk?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-09-14T01:41:00+00:00",
-      "score": 51.56,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "afc4424dbdca88c8",
-      "title": "Juros: o Copom ainda tem de lidar com uma política fiscal expansionista que alimenta a inflação - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYVRLM0hsS2xTNEM5emR6eVZUeHlmNVQ1VUtNUDFZbVMydjl3TWFpSFRDVV9TYmJvQlo2UlVwSmlYOWFMVDlPanNRWU5Ic2tMM2pTREZJUC1GMl9xWDZTQlNQVm1lSDk1c1RyYWdVUFphbEdWVmlLc3ZmLThBbjlDcktSRlh6aV9LR3hVRGhmNWpGaVlZTmJuamlFSjk1YzgtQ2ZST1lCd2hhXzc0OHc4YmdFV1l4RE9VUHhXM1ZzdURuSjRvV0p5dWpRTmYwc1RYX2haYjZQaVNhYUFLeHRJUDNYZVbSAeoBQVVfeXFMT252ZnVGb0FDMFlOc3ZqWUhSUVhIMWlveFJlbW02cTdmOFRpdGRsUDRlOEVJSDdoVmRhZnVNX3B5M1hNd1RXbUNKaUszUlRQbjJBaklveC1tZ2JmaDExSE9BUlhSU2xLV0FNcXg4RVRHdXRFaFpYSi0tM0VHckNhcThmbWZ2R1VZZl9CZ2lRWjRTQXF2Q0pwZzI1dXIyVUNiYmpMbll0SXNuQmNpUjAwaGl1UG9BWWRFU0xCMmxuQlh5U2xPdE9hTnYxMmlqYmdiSnBJZTBFMWppeE4teVA1THA1MlNuTXJzd1RB?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-09-13T20:00:00+00:00",
-      "score": 51.48,
-      "corroborating_sources": [
-        "estadao.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fe01bb1554a8abf3",
-      "title": "Edgardo Riveros, exsubsecretario de Relaciones Exteriores: \"Hay que resguardar los tratados internacionales\" - 24horas",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUZhTVF3YktwdXBvbDdENExiV0JGZHU0cU5PbV9ZWkxGcHMza0dSSlZuNUpZT1I0MHJISnI4cGJoTDJDaW1WeUlqbWFqdjhLc3NpaDFXZTNOSldXeE1TX2dlMUFoUDVzQ2I5MElucG9LdzEzbUV5bmdhOUYtS1VUNUlwbktUNWxIUUJ6WjdKTW5EaTJCLUd0WVRTV2xRZVgxNjJSZklUVVBJdE9L?oc=5",
-      "source": "24horas",
-      "published_at": "2026-09-14T13:06:00+00:00",
-      "score": 51.43,
-      "corroborating_sources": [
-        "24horas"
       ],
       "signals": {
         "source_count": 1,
