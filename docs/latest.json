@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T19:34:45.531230+00:00",
-  "next_update_expected_at": "2026-09-16T23:34:45.531230+00:00",
+  "generated_at": "2026-09-16T22:58:47.327982+00:00",
+  "next_update_expected_at": "2026-09-17T02:58:47.327982+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,9 +11,99 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ONE1RRnUxdkhSSkRURHAtZjVIOHExcjFrd3pZMGt5NW9RRnVvekNtd1ItOVpKemoycThFUGJ2SVNydEtLdHVSZTdWcDF3cnlpam5nRzRMMkY0WXVDUWZrQ0N1amotOVFYaFNiZkJvX25RcUF5bWdhcjVBWXJVbkk?oc=5",
       "source": "El Diario Venezuela",
       "published_at": "2026-09-16T18:13:48+00:00",
-      "score": 81.82,
+      "score": 77.91,
       "corroborating_sources": [
         "El Diario Venezuela"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5f7f4795610e58b5",
+      "title": "Canciller expuso motivación política para incorporación del Perú al «Escudo de las Américas - Congreso",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN0xmSklJQmdEY3B1cjk4N21IVjNJeFh5UDUtREJqNF9NazdROUhrODhqTU5lLUJhRVR0X3NaSkRVV3Q5Q2E3SXVrY1l4ZHI0ZmJXVXRPTGwtS3BVdUI0bXVOOXlsdEItN0dJLUhSRjNuNHFUQlB2Y2VNUWUyQXVKcFdQNERZQnNUcWhmX3g4aGNsSXktTVVrTktSSnJaRk5LOWNYd3BiS2FZRTNLS25JZm5hdzBOVnh1SC1QRFh4d09pZjlTbmgzdHdwdWRLNVpPWXlpMFFn?oc=5",
+      "source": "Congreso",
+      "published_at": "2026-09-16T21:40:45+00:00",
+      "score": 73.88,
+      "corroborating_sources": [
+        "Congreso"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c373d8bb8f0468ae",
+      "title": "Senado autoriza viaje de Keiko Fujimori a Estados Unidos para participar en la Asamblea de la ONU - latinanoticias.pe",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd004SF9DekNaOFRHazgxRjdhUnpDSlg2YkhDajI1VGtJVGFlanVRV0VpaHRmUzlXQmdxUlIzZW8yOWVuNTcxaDd2UTlIMVp2MFZfQmlRYUlCUFA0SmFrelNVSEdmdHJXelJRbWZRejQyR19IWmNvek9YTW04aWFsQkp2alNwNU1ESG1uNzE4RGd5MVJoQ3RWbm1jSlNQa2tOVmVsc3VpbDNrX1N5ZlNwR3d3V2p3UTF6SmN3Vkh3V05LM2R3enRIR2FlSTlyQU1BM21MRzQ5TDlqdw?oc=5",
+      "source": "latinanoticias.pe",
+      "published_at": "2026-09-16T21:25:24+00:00",
+      "score": 73.57,
+      "corroborating_sources": [
+        "latinanoticias.pe"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cc633d2ee3793e57",
+      "title": "Colombia presenta hoja de ruta para una política exterior moderna, soberana y orientada al desarrollo nacional - cancilleria.gov.co",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZHdSX1VSZmlpZGVVNGwxZFpsVFoyazBpc1VmdnBTVDdaWjV1MTNzTDdQNFh3aUZEa0duUFdJNkVtZVI3M1hGMGlrTmJ3NkFLS2pIUnNuenRRRUhZMkFueEk3bmljWldEb3o2VjZ6SXBoZUE3WHhpYllTeVZueU5uTThIdDBGR3hPRnJEQkJnQTBxczRRWm5aMy01X3pVWkY4akw5VGV0UDdvZDRJUlBiUE5mdTNxSF81aVZ1MFY1M0RIRldGdkc4NWxvSHVRbndYOTJodWJiMEZBNWRfZTNjbTFtLVZiUXJpdV90NmhhVzIwR2JwckJj?oc=5",
+      "source": "cancilleria.gov.co",
+      "published_at": "2026-09-16T21:19:26+00:00",
+      "score": 73.45,
+      "corroborating_sources": [
+        "cancilleria.gov.co"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1964349c6c3e2adb",
+      "title": "Diputados pide explicaciones a Cancillería sobre participación indígena en la política exterior - La Razón Digital Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjdCcG5WTU85eXM2TjhtRUFYWDNRNjQ3ak8wRVhlVXU4SU1UdXRLQzV5Mkl5Zk9lZ0VTNUFlZGdObzNCUFdMSVB5T1pqWUlJbTdIbFNxbERuTGtuX1lQRUFucTI4LTVSX0VCSmppYTF6a1NPemV6cGFHSUI5RG13bVd4T0RlbFBTOTUyMW85NXhGVmY3eE5NTmtxYVNRLUlELTJLSUxEaE5uclZOXy12ck1uRHFlUEE4WlhYY3NKRHc3S0NZUFNsc25ESUhzSlFr?oc=5",
+      "source": "La Razón Digital Bolivia",
+      "published_at": "2026-09-16T20:12:53+00:00",
+      "score": 72.15,
+      "corroborating_sources": [
+        "La Razón Digital Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "06bb98d4471aaaa0",
+      "title": "Governo Trump diz que Brasil falha contra o PCC e o CV - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXc0dGhKSzNpWEJ0WFpFMTVjRXh5UTZJaGgxR1FuLUpnYTNQeXRyS2lTZmt5bG5SaTY1RUtEREJta0Vlelc4WElyd1ppNDA0YXhlMHJXUHdkQmZ1bUhDSmFtSGM3R2xYWWNWSVUyY1RadGQ4ZUdXU0lEZEJZMThreDVjYW1JLU83MzJVRGZJY0NXdEdwQnd5RVVleGUyc1AzNnBBX2ZfcndyOUXSAbMBQVVfeXFMUGEwVmpfYjdlWDFlVFItenItMHZYOXdVYk14MW5tVjRWZmJFX1NpTHBwaDVGTkplaS1RUXMxQWI2TVpERVNrSFdNMmJrZUEteGY5Wl9UYjNSQjEwcWx0YUJQZ1pFMmYtN1pLSU5MdTBKNVI3aTItX00tVTh2TTF1MzRFNEs3T2ZFWW5UMkFrZHdkQjN5bm90SWZ1aTlxZkdHU0ZhNGhxTDNVYW0wVEVhT1E3c2M?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-16T20:00:00+00:00",
+      "score": 71.9,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "48948c75fe33026a",
+      "title": "Comisión de Política Internacional recibió informe oral del Canciller respecto a la participación de pueblos indígenas en la política exterior - diputados.gob.bo",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOd1plWVotd3MzZUJQVm4yRTRPU1RXZFJMTUhHcjF1Tm5jb3ZiX2hWYV91d21pblJtVHRDeUhaUjVoTTVneG1UVVhiSDFNVkVVd3hyRndYd2JmSHppTERIUk5rODNkMllCQTliMnc4REp6cl9YZGl6bEVJdVB2REM5MHpXazZuejNWOURqdDB5SGtuM2lGeE8yWGVUOVZhVk5YbGExRnAtNXZxakZhLWNUY3VIdkdUcURKa2J3ek94U21OMkRUalpNc1lpaHd6VXlWRGVudGxQUnFCaFkxb3V2UXZ2MDBaVl9xbUk2d3dvTjZMSzE2dWFWNk96cm81Q2hHeFJfRDViVEs?oc=5",
+      "source": "diputados.gob.bo",
+      "published_at": "2026-09-16T19:04:25+00:00",
+      "score": 70.85,
+      "corroborating_sources": [
+        "diputados.gob.bo"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +116,39 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjNSeU9vZzFYaWJZMVJjYzJ6QVNFRFVsYXEtVm9BM1l1QUZaZVNuQXR3M0lXVUdaSUgxbEk1U0dxd3ZLbnh3WndvdlVuMkZyaE43TkRaamM1Sm04VXQxWXczdzFQX3lQRklvRTg4Y1BUemlDdFV6Y3ZfcHhmU0lpejZFNy1uMU5sQzRPLVZPNjliSEU?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-09-16T18:39:59+00:00",
-      "score": 74.35,
+      "score": 70.4,
       "corroborating_sources": [
         "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3eec1b119e7416a7",
+      "title": "Lula centraliza no Planalto decisões sobre minerais críticos - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnA0OEwzaFZXNDUzaUE3SUt4RUFpbVBZTlRhRDNsdVVwUzRSc1huZzlUUzRROEJkMXZya3FhRHNtTzgzMTNfaG40ODctTEhIOW14cHk2MVJsUlNpZThqOG1KS1NFY1NiWnU3RUtxb1ZiMnRJNW16eU9YcHUzVnMycFZuaWlVQTg5Z2I4YS1QVi04azBQMVBBZC05Q1lBZzhsWURUVFRR?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-16T21:35:47+00:00",
+      "score": 68.78,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5c0da4d41f7e66bb",
+      "title": "Opinião | Não há mais espaço para mágicas políticas emanadas do STF - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEw0ZVZfdEFXMjRaM1BvQzE2bS1VWTFyWWZETC1wWHhSOExvbE9lOVVRTlVNMlNtY3lDWjN2aFBLUEF0NlpKcFpaNDdGVFEzY3hRQUFwbGZveS11ckNMdGtBMjMxV1ZFOFBmTHZleHJsTm5heENZZ0R6a1dhVkdDZ3phV1Qzdlc1YTlXMV9fYkljT25mWnJrV1M5dzJ2QnZMZFR6X0RwbnNEZ204c2pNS1AwcF9JNWM?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-16T21:22:28+00:00",
+      "score": 68.51,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +161,39 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUU1FVlI4aVVmTTEtNGVCTDNNb1ZVaTJEOHJWbHV1anUwSHJzMVpTeVhMWkZkVDh5YV91OU43dHRJTVhpczJOOUQ1ZnpfeXBxb1pxSXhwQ3NpZGkzVk9Wd2l5Q2M4bmViMXUzcWZ3VHFuMmhGUzlKOTlJcXFtS2lZZ2xlR1U2WVRaYUVDaldLelJ0VVYtenhKVEVqQ3Y3Z3Y3RzI2Q3N3bG8yYU9kUnZvZDlnQ2tRQTlOV2hocDhHeFRIS19zaGk0WUQ5cTFTbDlfbnJlT1BJZlh2Sjhlc3pab3VKR0tiY2gxb1d0U3hjMHVhdGJpVmQyVA?oc=5",
       "source": "Política y Medios",
       "published_at": "2026-09-16T15:32:14+00:00",
-      "score": 70.7,
+      "score": 67.07,
       "corroborating_sources": [
         "Política y Medios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "517146d426a438e7",
+      "title": "Park Service quietly awards contracts to work on Trump’s takeover of East Potomac golf course - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYmR1Qm9uem1HMWU2cTFNcWxreE9IWmRITEtlQnFzMW5BeDJQZXhhQnl2YVRFa3hRSFhJN0dKSXdRY3ZfTVRfUGZSS0oxUnNTNjhCS1k3TWFuNU1VdkxBQ1hVam1kZFI0Zkt2U3BJOFdGRjJPREpHd1N3ZnBUaTBNRXFtUGIzZ1FoUXp0V2g3MFVISUJ5YUpMaDJMNTlLY1EzRkx6S1lCN28zVVF0UVhYTUpZWVNQQXpDVjRZRVVNTVd3SUc0NE10UE1xc0trdHRPWDhKRnJKbkRtM09QNFFLMERvVmdSdw?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-16T22:30:05+00:00",
+      "score": 66.88,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8896a9ad6c2744af",
+      "title": "La modernización de la política de competencia en la agenda internacional - telefonica.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnhrTWRIZmEydTRtQmVRblFJTlAwSms1djRnR0pqU09HMmZOSHlra05JMFRJOGN5NEVkSW5PLTR2TGZaUkE2VlRSczRQeEc4SkRNN2FOLVhlSlJydXpWRlE4TEV3anh0RVgwZGx0eG9SQV9pcG5GYnRCcDFKcmVCT3RrMFVwU3JtVlVtM1FqREdoSkRkdkp1Yi1KUGxFMWFjQzJRX09PYzJSaElOWlE?oc=5",
+      "source": "telefonica.com",
+      "published_at": "2026-09-16T15:02:44+00:00",
+      "score": 66.58,
+      "corroborating_sources": [
+        "telefonica.com"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WmMzMTU1Qm40WTlCdTdVMFhPeWVPX3pabGNPMnBpZDhGaFBwYUhidmtyMEl2QXkwWnZaWlA1Rk1WbUFlUXZjQXkzckEtek4tVnMySWdNZVN1MnVaS1dLV2NORDF5Yk9uaDhkN2RRS0wzODJuMmhDM0ln?oc=5",
       "source": "Modern Diplomacy",
       "published_at": "2026-09-16T04:00:00+00:00",
-      "score": 67.67,
+      "score": 65.04,
       "corroborating_sources": [
         "Modern Diplomacy"
       ],
@@ -71,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ1VmdmFUc21aT1Y0dG5NVlZoNGtLT2ctVG9KUHlwMy15QU5CcEZ1R0p3NTN4aHZ0Sy0zSUI2UEFuSjhUSUdjbUlFSzh1OXFNMnlKdUdQcTNaYVlUWUN4WGEyZmVMZ1F3aHdRWVh5VGNybHBuUUVEWjk1RnJCS245N1RrNFVIV0ROQzFtM01DeTBHYml1N2tzcjA1LVZ6eEljTmJxdFVyRHBiZkhjS1cxRUxidVVuSUFZR0t6cnktcw?oc=5",
       "source": "Brasil 247",
       "published_at": "2026-09-16T07:29:00+00:00",
-      "score": 65.63,
+      "score": 62.74,
       "corroborating_sources": [
         "Brasil 247"
       ],
@@ -86,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbGptc3ZVNkxTRnlHZzdlbXRBUW9hWGZJY2kyMTJNQzlfdV9FMkhDazExSTJQYkRVdUNOQ2hWZWtBVzZ4TVNvcmNtMV9WSFc4eDNUNjNsemxWdU8wTnBuZzJyb3QzRHZCSUhYN190d295eEtaR0JBMjZ0TEFzc0NNREwwVi0zSXBLOTl4WmR6QnA0TWktMEE4dTVDZHFNZ3ZmVWxPNGZqT2dWQXdNcDVRcUZJT3I1RDUwTVpyWld5WjFvSmRZZHZnNmkzemZaOUVZODl5cVFhNA?oc=5",
       "source": "Radio Pauta 100.5",
       "published_at": "2026-09-16T10:30:48+00:00",
-      "score": 65.46,
+      "score": 62.31,
       "corroborating_sources": [
         "Radio Pauta 100.5"
       ],
@@ -101,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdm9kQ25UamhuajVYTUx4N3dPTUtLdVhTMXlmZ0dPSy1PbkFWOHA3RHQxQ2Q5dGdqOF93aEoyd0xfX2w5WTY1MU5Zc0xpMU05ekx6MVNsaTZhM1hnVm1fTkZEbjJ2eUxaek5TTEZzMUdQSFlIdFR3NXNLUjhaTk5CRnpOOUk3dnBFamRyeVVUbjhZb01FRTlSM0Q5b2t3aElDMi1udGJmSFlwWXZi?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-16T15:06:17+00:00",
-      "score": 65.22,
+      "score": 61.64,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -116,9 +266,55 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTlxNVFVZnE5SlhwUUJKOW1TckJ6amt5Q3NDY25pQWFST19KUEhzU1FWUzhCSDcwUWNJRmw0Q2xfMTFaS1MzREh4UnE3MmVNOG9zLVFMbGRUQVpiRkd2NjVUMTZ5UjAtUDFFQXp6MmpKLVJIUS16Qi1lMkFHTWpUVk9VVExtQjRsRVc5M2pvVzIyemk2dnFtTzZwRW1kOFhHeDc0?oc=5",
       "source": "NOVO Notícias",
       "published_at": "2026-09-16T14:52:00+00:00",
-      "score": 64.96,
+      "score": 61.4,
       "corroborating_sources": [
         "NOVO Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1c73d78a8ea31a51",
+      "title": "Burnham and Trump expected to meet for first time next week as PM steps up presence on world stage - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUprLUkwZ0FrWmxOMTAzWEtHckg4dERDdVp5dThlTWdHSVVSb0RiNkpSM29qNm41TEd1aU5zS05mUW02VTFTZ05NMm44LVAybVpCc09wYy1rWk9NSE14WUVkNWljeGZmcXE1WjVmUVFzdzAzOFVTYmxhRUI4VFNrb2FZQ3E5YVcxSlpaWlhpemE2WXRiZWUxLXBn?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-09-16T17:05:00+00:00",
+      "score": 60.68,
+      "corroborating_sources": [
+        "The Guardian"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0a590a979f3a3e0c",
+      "title": "China projecting image of 'stabilising force in world politics', expert says - modernghana.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZbEk3UzhaVGVZNlZOUURJMVJ2VlBQUmdrSXg2dWxDZnVjTHFhbUhJUzZFQVFwUkdHUmE3M0JYTk5vSngwOHRvV254Rjg5bVdrVXJPYXZoX0F2X3dvQ2xmdWhMMHRLZ9IBXEFVX3lxTE1pVlAwU2NOSmdOQXhrMGxWVk05emxsUnVNWDM4M1dNTEdEWmJiMm5XYXUwcDFwZ3IwTmtReEhRWjQ5Y000MWdSZWdPNWxiZ2RRZ0pNNS1uemlGTWR2?oc=5",
+      "source": "modernghana.com",
+      "published_at": "2026-09-15T22:10:00+00:00",
+      "score": 60.36,
+      "corroborating_sources": [
+        "France 24",
+        "modernghana.com"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "01baffbb260139bf",
+      "title": "Diputada Tovias impulsa la formación profesional virtual para bolivianos en el exterior - diputados.gob.bo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUs0TUc2QVM3VVdVQklKNDBpZVJfX1hjYXQyOUdycUlEZUE2MkI2a1Z5VnJhYUttMU85dUc0SGZTN28yVGZWeDBKQ3NXX1hDOWpMMVNPTmlyd1RiMjNwM185dV9aMXB4WVNhRmYwaUUxN3BGVmJ4QXdmdmtseWlFeU92X2NERU5PYmN3MS1RQURvM1hnUklITXUwc3MtS0dWSlFHWjlGTmFGc0swdUtfTzRfS2RNVFdqbTBtUWZpNA?oc=5",
+      "source": "diputados.gob.bo",
+      "published_at": "2026-09-16T16:34:08+00:00",
+      "score": 60.14,
+      "corroborating_sources": [
+        "diputados.gob.bo"
       ],
       "signals": {
         "source_count": 1,
@@ -131,9 +327,24 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTVZnMFpIb2FaVDgwalBtRk55eE5aQTVKNXVVQUpXOG55MWpNOTB3bFF2cGd5UDhaWlRuMlZQdm5PaktIa1Iyb0JNdWFGSHdYRXpZQV92TTJUb1hfN2ZMQ0VoYWFyZ0pBZWtRZG5VYVAxWHBUU0R1VnJXXzJjWmxKNzdLUFBmVXVxUHFPMnBTbXNaNFdPcjA1YXZRU1lvSnBTSVgxTGVFUnlKdHpyWndDNGNHdXNYaFlSTXQ5dFMxLURKYTNnN1VCWU9ZYlRMTUFYSmtyTEF2WDhZOTRJVEtJQg?oc=5",
       "source": "EL PAÍS Uruguay",
       "published_at": "2026-09-16T14:52:26+00:00",
-      "score": 61.96,
+      "score": 58.4,
       "corroborating_sources": [
         "EL PAÍS Uruguay"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "02095eb0002ba0c6",
+      "title": "Real Time Big Data divulga pesquisa de intenção de voto para governo e Senado no Pará - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVklXdmRLLTlxNFNmdFRPNU1zXzRKWHJvRUZSUkdRTXpjaEcyZHdoOXlwM1pZdGdhVHNLaVpmb2ItVmtRVzNXeXZXQ2JtUEpRSUNWWS1CcG9FU0hCMkhWb2xtdndrQjJ4ZGJ6YTIxTURqQXdFcTROT3B4V015bnhnVEtOa2RnWXNOQnpSaDc5UEVpM0ZHTTIzYm8tZlIycnVhUDgxa2tnaWZhakVRZWRHa3d1aG5TbFBySWN1MVdqbzE?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "score": 57.59,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +357,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHo0ajNIelRQUHFwMjU1ejRiTHYzUzhfbjZVQ1lwU2k4QUx3QlFkYXM4WjlBbG1OT05yUjFiYjRoa0psaWpRMTM5NlotcTlYM05tNVhIRHJGeEJoRTNZeUs0TV9wTldSd0R3VzktMWdsNjhPX3ZNMm5fYko2bkljUTZFSnh3YUtKcHhQUjNldEFXRmpUSWtFdEQtbEtybmdVZ2FXTTJvZnJGVmY5MUZXV3lTM1o5UGNDU3ZGTVRnRHZtZ2hJQ21nSDV3?oc=5",
       "source": "A Tribuna MT",
       "published_at": "2026-09-16T04:11:33+00:00",
-      "score": 59.83,
+      "score": 57.18,
       "corroborating_sources": [
         "A Tribuna MT"
       ],
@@ -161,7 +372,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHJGNWZ6amZuWnVqTlFVTldlbjNiZDdXX25EQUhuZWY2OEVreVhUbjM2aDdRbXZybFlxZEVfaHJLelMzUUhudE9IM0xSWHV2MmtySnZkdXN4UWpIcFIyLTZNWGFWTHhHRXUxdWgzMGVROHVuTjlGX3A4cHltdmhRTWNCRUFBX0dGTWlNX2ZfSVBmUkFFY2F0LVJYb2t2UGhfelhaZzRMdXM5TmZGSEE?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-16T09:16:09+00:00",
-      "score": 59.27,
+      "score": 56.22,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -171,44 +382,14 @@
       }
     },
     {
-      "id": "02095eb0002ba0c6",
-      "title": "Real Time Big Data divulga pesquisa de intenção de voto para governo e Senado no Pará - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVklXdmRLLTlxNFNmdFRPNU1zXzRKWHJvRUZSUkdRTXpjaEcyZHdoOXlwM1pZdGdhVHNLaVpmb2ItVmtRVzNXeXZXQ2JtUEpRSUNWWS1CcG9FU0hCMkhWb2xtdndrQjJ4ZGJ6YTIxTURqQXdFcTROT3B4V015bnhnVEtOa2RnWXNOQnpSaDc5UEVpM0ZHTTIzYm8tZlIycnVhUDgxa2tnaWZhakVRZWRHa3d1aG5TbFBySWN1MVdqbzE?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-09-15T10:00:00+00:00",
-      "score": 59.18,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e3f80440277a5405",
-      "title": "Pablo Jofré Leal: “Los BRICS necesitan convertirse en el epicentro desde el cual se rediseñe la arquitectura económica y política del siglo XXI” - Revista De Frente",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVURNeWlWSS14bk1uclY1ZW5uNDUxRDMzRFJ4b0ZBS0RKX1NXdGZJdnpFdS1EUnhfRUpUZ3J6RFF5WVFlNlZldjdnRHNlbzdGLUpqZktTNXBrYXpET3h5dUtGMTUycnRVV09vb0ZuTmwyVnBmXzV1QWh4bnJpaVpaQkhwZDNsallJLUwzRWxSTS1tV1NUbEZtYng4RXRPUmZwbzZQQ0c0YmdiN1R5bTdZQ0NFX1RNRjVJaTRzWDZfVkR5SmIySlJzOEU1czhUWkRRRzRLTlFZZW9MS1RvQ0tYM2tGV2RZYUpKcHdMNmN1ZzJ6cW5Ua0dPUEJ4aE5TNmVoN25r?oc=5",
-      "source": "Revista De Frente",
-      "published_at": "2026-09-16T02:37:08+00:00",
-      "score": 58.57,
-      "corroborating_sources": [
-        "Revista De Frente"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "df0aa1b1a908fda4",
-      "title": "¿Cuándo es exitosa una política exterior? - Clarin.com",
+      "id": "f412ccc9466c31e5",
+      "title": "¿Cuándo es exitosa una política exterior? - clarin.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mUERpd2lva3gwOUFqNVduMzdpZWhjLTFmWFpGQkNQMGU2Y2hoRHBJbkN4bElNS1NSWlp4cTJ6OGJJQ3E1akc0czB4SDMtZ1B2dU1HeUhNZEp1MjBveGRmaDFSbXRDNTJlTDlMM1BocUo2ajg2b0hCalZGVDllNlE?oc=5",
-      "source": "Clarin.com",
+      "source": "clarin.com",
       "published_at": "2026-09-15T23:01:38+00:00",
-      "score": 55.9,
+      "score": 53.61,
       "corroborating_sources": [
-        "Clarin.com"
+        "clarin.com"
       ],
       "signals": {
         "source_count": 1,
@@ -221,9 +402,24 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEp0Zkd4VXY4VTV6R1c3RVBIYlVTUUtDN1FrQ0tHV0FhOWdLTGVjdzZ3V1RhOGM3ejNReTRpX0NaSWVZR29qVTYxMmthSHlYMkFiT1pJZFdaWnJLVk4zbXp4bHQ2c1dFU0IwblJYc2hsM1EzV3FHaXFLSlVtQnE2Yzk0U3drQkRfLXhickpxQ0JWNEVvOFlqek5QcFZMMmpkZFNhRllPeFZkeDhzdjdoaWh4aw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-15T17:25:11+00:00",
-      "score": 55.24,
+      "score": 53.27,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "20227ca7fcd570c6",
+      "title": "Trump prepara una venta de 2.800 millones de dólares en bombas de gran potencia a Israel - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFJqTWJxMUxqODZNUm5KZEY3cUpBbHJtUUNrdWVfZWZCZGRINWY1UlhkRWZaOFduOWlGbU11RkFIWG1UTVdKdmNFcTNpODd6TWE5RndMejFpYzlxMlpqMmZpd1QxcGd0OUZHeGJxQzNQNm83VHNQZFl0M1h1QlFPTHAxV2k0bDAteWluM1VfZ3VkRnNHNEJkSmVXb2J2N09SSDQzWS01M3ctd283VFVGMXFjcllDN0hlb1lTWTZfbU5laFhtOEHSAcsBQVVfeXFMTnQ5R2tlSm1IRThNY1NMTzhrQTNRRDctaHhzV2syWEpqOUM1RTV2SVA2OHoxYzhEZ2pSRll1ci1aWEdJbmdtSU82Ym9Eb2ZROEo0dm10RFNrcUx6YWs3VWUtT29vSk9qTEJQby1ndXNTQXdXMVNSdVhGNEhxQ0xjaDY5RzVmN2dTN0hpZnB3dlRjSDhrejR4d21BUVZxc3dMNExSaXBkU0stOTllUmR2bVd5WHBSM2o1VHFyOGhiUU9ObXNtZTl3OUhqT0U?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-09-16T09:00:03+00:00",
+      "score": 53.0,
+      "corroborating_sources": [
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -236,24 +432,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUtVNTUzcl91ZkVsOVN1djJqUWg3amhDN2dESzhfNVViS1AyX2xyZDhPUGV2YmxTZ0N2OGdxYnNLNHVlRnBhVWwtSmwxZFJYdGRqTkJhVzVGbkVrbU1kb1dYelNJRUNwNmZoS3Nuc1MxNlhwRlN5Skl5YnFMbXJfODZCbzItaEp5TXZ0UVRjVnNBUTFWUUFfRHl1dEFvOGVJaEE?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-15T16:27:57+00:00",
-      "score": 54.67,
+      "score": 52.76,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4e79382a2671d90f",
-      "title": "A propos - China projecting image of 'stabilising force in world politics', expert says - France 24",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRE8wMGxSdUVOQmJPLVNHUG14OGJIczhEdkxRQ0d6b2VDeWZTTWc5bmZHclkzakNTUWF5a3M2cmNrcFFUS1hjYjYyTTNXY3YyMjYyNEo4ZVhMTENaN2JacGFlbE1rTmxPbGYwYU1GLU92VlVOdlFxMTI5bWdqS2licExaeGxESGdTcFRQMjgwUTB6WkQ5LWlhcmRfZWdlVVp4Z29kWm1zY2RLbWJ3R0VzUC1OdmwzbXA5OVFLSS1lRHNaQ19fcks4?oc=5",
-      "source": "France 24",
-      "published_at": "2026-09-15T21:06:59+00:00",
-      "score": 54.59,
-      "corroborating_sources": [
-        "France 24"
       ],
       "signals": {
         "source_count": 1,
@@ -266,189 +447,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1Z6amNTNGlFZjkxU0VnS0I3b3U4emNkSUNRRmYzLU5iTW5idVZPSXlWRFhIRE9hemlCVkpmbnRWSmRCaEJYUVp6ZU0zYkU4Tkktc0pjVmVmNl95TWZYUVdYbVVyUTVieEpWa1puWUNJaDNua3pjcENEMEdlTlVDS3BwMkdLTklLUjB6cHlLR3pLbUNxdWhYNm5PS1VjNlpmc3Y0?oc=5",
       "source": "tmc.com.br",
       "published_at": "2026-09-15T20:42:55+00:00",
-      "score": 54.32,
+      "score": 52.17,
       "corroborating_sources": [
         "tmc.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3abc54c7774ec3b4",
-      "title": "Bishkek 2026 y la consolidación del nuevo orden internacional - Rebelión",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjlhZm5Tc3llQng5a3RpN1NocWs0N21LdENhSGNHa1pNVnFwTXJGdU54TUVtYTVTTEZXZHVDYy0xN1g3LTY3ZUp6V2hMYldFLTN2RmtQai1FSXhETlA3b2pQc2FDb0o0aWRmR0FZVXlXc3V6aURCMkNqb3lneEYzYnpicjZ2YUZUeW9R?oc=5",
-      "source": "Rebelión",
-      "published_at": "2026-09-16T06:40:22+00:00",
-      "score": 53.92,
-      "corroborating_sources": [
-        "Rebelión"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "967e661b8e48268d",
-      "title": "When worldbuilding impulses merge with real world politics - The National Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0tqYUZwdHpUVkZodHJiQnBrdDhFUjdqYnA1Nm5JcWNGQXRTVmdodzd1VndyWnNzXzRoQjBsNTEyRlc2VnU3TVAzaGFSRDhuWWVwblRpU3U1ckVzejhyUnNJMS1XcVlFaWFDS2RXWnExNlNCQmFzajJqZFY0N0R1VFpENHRaOS1CUXNMNl9Xclg2bkdtakVtRmd3?oc=5",
-      "source": "The National Tribune",
-      "published_at": "2026-09-15T19:18:23+00:00",
-      "score": 53.41,
-      "corroborating_sources": [
-        "The National Tribune"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "16ac67d2f36eee1a",
-      "title": "El paraguas nuclear francés gana peso en una Europa que ya no se fía de Washington - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVBjU2ozTThrNDBVdVZGbHU2cVNNNVFleFlDWGhzUDZzcVI0VWNMX1F2U3JuTEp0aEprTUp1N2lBX3Bqd3lRdGE1VVkzaWRKbkk3T2J2b0JweWdpVnU1ZGtuODFJQjNnSkhJa3QtbFREWkIyS0xOVHdYMUVxcFZPNUUzc1I3Wl9PSFpfNG40WEdoOU01Y09qY2hsTFdMb3pUODBrd0NyakIzTHJzaWdLRDFoejJucGdi0gG-AUFVX3lxTE5MQnpSUHUyTWRYUEs4ZzhZRlFTU0tuYi10bThhbWw5MGZ4aTNuOWFYc2s0V0JpUVhQbnAzTGJjTHZOZUxsT1I3bGlTcGhqdWVXaVpJMC1jdEZ5eVlmcHRWZDNBQXU0RkY4a3pIcE83NDlhdTFGckUtZXpvYmUwNDVBdUVwLXhjZUJCTTVHUzRSN3Z0b2kyOXN6ckhscm03N0FsOUZ6R1hzWDh2ajQzbU9oYkd6UDRYbUhGaHZSMmc?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-09-16T05:14:00+00:00",
-      "score": 52.69,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6dae70e6e99d458e",
-      "title": "Contas públicas: como fazer uma transição para a sustentabilidade fiscal? - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVZPUjVXSnZVenRnQkQtUF92dlhhYkM4TWVOUl8wc0FZZnVRRkxqTXUtUHU3cDktTTI4d3E3TEFHVjdYUkxaTVVoYzVWbVJocERjcFZIZk9NMTZmYUp6YkszVG5wTHhQMWt5UlFPam9XcW1CRXlocTFsQmdhcm5LNGN3X0NXNFpuNmFpQ1NERWRqTXV4R1hTbktwR2JfanByMHh1aHF4aFE2SExj0gGyAUFVX3lxTFBpTzZkWVppTzQ1Q0pjOVNCTUNvb2E0Tlc2Mnc1djRWbEhHUllOdGsxVERTUnluazNsTW9fYUtZejNITF8tMUFhcHM3ak9zLTIyTHJ0MERyREJwVlhVODhwcXgzdTd0bWUxU18yem54UzVETVRCRzZhd0t4d2p6Zy1WVnMtRmtDWklMcUdUZWNiNHdSeXRiM0RpdW9KTkNkSG9iRlhiblB5anp4bkpuemhPZnc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-16T01:00:00+00:00",
-      "score": 52.33,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a0486cbc87f7535c",
-      "title": "Internautas citam revolta no Nepal em protesto contra Moraes - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGZ4OWJoTjEzMk1ZRnI4S3RUeVN3bVh5R3VOMXpIa19JeDBHS242QmRhcWhGbkFzakNQd3FzTVhkbGhGM3QwM1VCVldTaFFiZmpOYnVBdzdjc2tFdDV3cWF0M05YcDdja0J3QnNqTGpMZDZvSHRBcXlqeWFiUmR0RG4xR2NJdmpjN1NzR1gwbi05Mk9QNVRVUVRaZFE2STE0T2xaV2lR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-16T00:05:31+00:00",
-      "score": 51.67,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "12130897b70a8fbb",
-      "title": "Federal employees were paid $9.5 billion not to work in 2025 under DOGE effort - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2ZnQzU4dGktTlFyX3BFc0lob2pERUtoLWFtWFlpeDc2TXB3Q1pBLVIwMmVicXhqNDdhbjVKT1RqbW5qTlMxUFFDQURIYVF0ZUFpeWpoOUZvQmxwSFAweEI2UUdsdUZVRzRqZHo0bTAzMk5wb19lRi1LRENKRWNtZGI0T2RMU2NrenpfOUlfcDZKRUlFNGY3WjJVM2dwVHl1NXpJQS1JazBYdFhVRl9jWnQ3MXVEX1hQdU5wRXdnend4RkVORkEzSndxODZqeVBXZnc?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-16T03:06:01+00:00",
-      "score": 50.95,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "13ee71cc1a022ed3",
-      "title": "Europa entra no inverno com estoques de gás em baixa - Diário Causa Operária",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2RsRFM3Q3hiaU5pdm5lZ1NMVzMtZGNUMlY1ZVE1YkhBYVllYzluNnFNa3prVUpyVnJtSms4VDRFa1BYTFJsUGh3SWFvTXJzOE4wNGpBMUUzVEVvSjR1aFhHVEhiRUEzWWk1X0VzQk56N3pFalh2Z1BoRzJlVW53Q3hqM3poT2VLaDlJMkYyRDA?oc=5",
-      "source": "Diário Causa Operária",
-      "published_at": "2026-09-16T03:00:01+00:00",
-      "score": 50.87,
-      "corroborating_sources": [
-        "Diário Causa Operária"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "450d019e654c8f45",
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEE5d0hnaVRTRDl5WWE5aHdoZ2UyZXpqQzJuMDkzTmplZHZFdmF2a2dydjRDMmZSeWlyMGhlelprX1FjZTZHWkVLMHF6amZBSGZTbG5DeVNYRG10Z3VHYklRWjl0RkJCTUhUaHJqNkgzTjNGUjZESEh6RTAwd1JmaGhHRlpYU3loSUNXQ3g2UUhFVEVmSFd0cEgyNkhTSjhDQWp5bGFIZnFUNE9hTVZF?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-15T09:21:18+00:00",
-      "score": 50.87,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "54210dbe55c1b1dc",
-      "title": "Opinião | Eleições 2026: a hora da verdade da democracia brasileira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnpzT1g5QkpuYnVwbGthbFNHMU1tajFzVjEwY1E5OWtpa3FfaGU1bFhSRUVLUU5VSTFfNkZ4R0tXem9xNUFVMVVPcnZENkt3NHY0bkkzM0ZVM0lILWR0ZHU3c3phazU2TG5tWUpJaDlLdmhJUFRvZ2ZMd0pSLVlTd2x3QjVPVFMtNlJZWTJUVVdaMDZhaTNjcw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-15T08:59:50+00:00",
-      "score": 50.7,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "549deec31907d486",
-      "title": "Rodrigo Pacheco, presidente do Senado, anuncia data para deixar a política - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmZHVlNQcV9neDlkZHoyTHZnbS04RWRQREpoWFJjalNqZEV3cUt1ZTZUZld3dU1pdk5CZFQySjVZVjB3RWNnSlN4dU5KSFBqNUpQTUFfQ1lGc2pLZVRxczZnSzVXclVNM2dYM3J6N2VuRlFRZVk4RUpWamtfMlFjeXVVVDQ4dmprNDBxckFPU1RlVkVSYkgyNmV4WjJoMURVZG9FRXF3X29kT0VfNHhIdTJqSHNpeXR1ajhMZG95dXp5dFdWOFVfQnBRdkVfRERTTkhXelhyd1RkZVhRWnYzS3I4N2ZkOTNIMmU0?oc=5",
-      "source": "Estadão",
-      "published_at": "2024-05-08T07:00:00+00:00",
-      "score": 49.48,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "37bcaa16756208a9",
-      "title": "Steve Bannon and Bernie Sanders demand tighter controls on AI - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnFKSEVhS0RnczFkWFo4WTNCd2dEdUNXYTRvNlhUanVSZVloTXFfNU8ySmhzWkFLcGVmMWlNNHpleXlrYkNlcmZxUWt4WDk4N2xGZWkzMFFlclhUQlpONnFzVjh0TEE2V0R1cHR1ZzU0dU5rS1VrTHBjaHlZTG5Qc2ZYaWtvVjRMeXlDbEhYNEo4U1c5Mi14YlBtZDFUVm1VaW02M2VZbXQ2bEkzd3BjeE1yTDhLclNDaWZDUg?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-16T00:32:23+00:00",
-      "score": 48.99,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8506aad1e862803e",
-      "title": "“Pessoas decentes não fazem isso”: Gilmar Mendes e Mendonça batem boca em julgamento sobre Moraes - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGJ6bkZyWVk1aEQ0Q210My10RUQ0T0xYci1QVVh1LUVJb203N2N2UnBtM2FzVmhDZkdYbUlGUnFzM0g4dnpXY0o2dEZIeEtmRWRhWnlMUWRCVjBodmVHMlZ2cWtVbFRiOE8xU01kWnNqeGJaNmxnSkJmWDZIRHRCSXhXMDhEVmM1d1VSRWdIM3BUSHh6QlE5V2tUYlJxNHM?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-09-15T16:22:28+00:00",
-      "score": 46.61,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
