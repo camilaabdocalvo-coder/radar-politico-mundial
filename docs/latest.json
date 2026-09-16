@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-16T13:32:29.416426+00:00",
-  "next_update_expected_at": "2026-09-16T17:32:29.416426+00:00",
+  "generated_at": "2026-09-16T19:34:45.531230+00:00",
+  "next_update_expected_at": "2026-09-16T23:34:45.531230+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "65f6a6856e8ddba9",
-      "title": "Global Political and Economic Events: A Diary - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzFNUk8zQ0ZIM0ZXcjluOWpfTm55TlNKeFVEdGUySGExM0F0cnk1cElwMU9POXRFTEVaWFRteEgwT0xtbDl6MFFrZ1pkeV9HWF9veUJlbEdyR2hzcFdZc0ZTUnc5TXE2WVlFXzU5TElNQ2dUcl9KcUhGRkM1RlItYlZybXRyaHFHS1VYbE12ZGN1NHpibUtuXzFoQThKUGvSAaQBQVVfeXFMTTNrckduNHZYbDliV0NkUDRfdHplVUlwVVhXanU2YUZ4cm03REE5Q3RSNnMzMVR3QkFNb2pFQkMwMGpFWGNIRmE5S2VzcFB6ZGlrYTdYV1VFMHNaUUVSY1Fmbno3MWE1MV9oNkhEaUdYU1BqMFdCWkNnZnJPNWtRVjZGMF9aaWFhTk9NMWVTVTFwc2FkNmM0MU9QVHZQSWo5al8xOGI?oc=5",
-      "source": "Devdiscourse",
-      "published_at": "2026-09-16T13:06:25+00:00",
-      "score": 74.94,
+      "id": "ebd2104295b219fd",
+      "title": "La importancia de la seguridad política en la democracia - El Diario Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ONE1RRnUxdkhSSkRURHAtZjVIOHExcjFrd3pZMGt5NW9RRnVvekNtd1ItOVpKemoycThFUGJ2SVNydEtLdHVSZTdWcDF3cnlpam5nRzRMMkY0WXVDUWZrQ0N1amotOVFYaFNiZkJvX25RcUF5bWdhcjVBWXJVbkk?oc=5",
+      "source": "El Diario Venezuela",
+      "published_at": "2026-09-16T18:13:48+00:00",
+      "score": 81.82,
       "corroborating_sources": [
-        "Devdiscourse"
+        "El Diario Venezuela"
       ],
       "signals": {
         "source_count": 1,
@@ -21,14 +21,29 @@
       }
     },
     {
-      "id": "a5408c8f7a053dba",
-      "title": "Antonio de la Cruz: La diplomacia de los hechos consumados - Confirmado",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVpBclBXR3lvUWtBNkhST3J6N2g3eUlMdGpOWnJ1cUtTSFJNMjB4QnRfU1FldlFQR3l5cG02NGtSSTRnZW1oeVNMN2N4TEhXMEtha05DWHFWZGs1Y0c0aHU1VDY4d2w2cmhFSVJMYnNwaVY4cmNKWjNZMW12WXJPNm1heVBmZm1kUHQwWg?oc=5",
-      "source": "Confirmado",
-      "published_at": "2026-09-16T12:22:44+00:00",
-      "score": 74.05,
+      "id": "32bd5fe67fe90046",
+      "title": "El presidente Rodrigo Paz confirma su primera participación en la Asamblea General de la ONU - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjNSeU9vZzFYaWJZMVJjYzJ6QVNFRFVsYXEtVm9BM1l1QUZaZVNuQXR3M0lXVUdaSUgxbEk1U0dxd3ZLbnh3WndvdlVuMkZyaE43TkRaamM1Sm04VXQxWXczdzFQX3lQRklvRTg4Y1BUemlDdFV6Y3ZfcHhmU0lpejZFNy1uMU5sQzRPLVZPNjliSEU?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-16T18:39:59+00:00",
+      "score": 74.35,
       "corroborating_sources": [
-        "Confirmado"
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ec0fc662d3b4890f",
+      "title": "Grupos de presión y política exterior: el impacto del alineamiento estratégico en las gestiones de Washington y Buenos Aires - Política y Medios",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUU1FVlI4aVVmTTEtNGVCTDNNb1ZVaTJEOHJWbHV1anUwSHJzMVpTeVhMWkZkVDh5YV91OU43dHRJTVhpczJOOUQ1ZnpfeXBxb1pxSXhwQ3NpZGkzVk9Wd2l5Q2M4bmViMXUzcWZ3VHFuMmhGUzlKOTlJcXFtS2lZZ2xlR1U2WVRaYUVDaldLelJ0VVYtenhKVEVqQ3Y3Z3Y3RzI2Q3N3bG8yYU9kUnZvZDlnQ2tRQTlOV2hocDhHeFRIS19zaGk0WUQ5cTFTbDlfbnJlT1BJZlh2Sjhlc3pab3VKR0tiY2gxb1d0U3hjMHVhdGJpVmQyVA?oc=5",
+      "source": "Política y Medios",
+      "published_at": "2026-09-16T15:32:14+00:00",
+      "score": 70.7,
+      "corroborating_sources": [
+        "Política y Medios"
       ],
       "signals": {
         "source_count": 1,
@@ -41,24 +56,9 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WmMzMTU1Qm40WTlCdTdVMFhPeWVPX3pabGNPMnBpZDhGaFBwYUhidmtyMEl2QXkwWnZaWlA1Rk1WbUFlUXZjQXkzckEtek4tVnMySWdNZVN1MnVaS1dLV2NORDF5Yk9uaDhkN2RRS0wzODJuMmhDM0ln?oc=5",
       "source": "Modern Diplomacy",
       "published_at": "2026-09-16T04:00:00+00:00",
-      "score": 73.0,
+      "score": 67.67,
       "corroborating_sources": [
         "Modern Diplomacy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4a990525334e03a8",
-      "title": "Pérez Mackenna reúne a diez excancilleres y llama a defender una política exterior de Estado - Radio Pauta 100.5",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbGptc3ZVNkxTRnlHZzdlbXRBUW9hWGZJY2kyMTJNQzlfdV9FMkhDazExSTJQYkRVdUNOQ2hWZWtBVzZ4TVNvcmNtMV9WSFc4eDNUNjNsemxWdU8wTnBuZzJyb3QzRHZCSUhYN190d295eEtaR0JBMjZ0TEFzc0NNREwwVi0zSXBLOTl4WmR6QnA0TWktMEE4dTVDZHFNZ3ZmVWxPNGZqT2dWQXdNcDVRcUZJT3I1RDUwTVpyWld5WjFvSmRZZHZnNmkzemZaOUVZODl5cVFhNA?oc=5",
-      "source": "Radio Pauta 100.5",
-      "published_at": "2026-09-16T10:30:48+00:00",
-      "score": 71.85,
-      "corroborating_sources": [
-        "Radio Pauta 100.5"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ1VmdmFUc21aT1Y0dG5NVlZoNGtLT2ctVG9KUHlwMy15QU5CcEZ1R0p3NTN4aHZ0Sy0zSUI2UEFuSjhUSUdjbUlFSzh1OXFNMnlKdUdQcTNaYVlUWUN4WGEyZmVMZ1F3aHdRWVh5VGNybHBuUUVEWjk1RnJCS245N1RrNFVIV0ROQzFtM01DeTBHYml1N2tzcjA1LVZ6eEljTmJxdFVyRHBiZkhjS1cxRUxidVVuSUFZR0t6cnktcw?oc=5",
       "source": "Brasil 247",
       "published_at": "2026-09-16T07:29:00+00:00",
-      "score": 71.51,
+      "score": 65.63,
       "corroborating_sources": [
         "Brasil 247"
       ],
@@ -81,30 +81,59 @@
       }
     },
     {
-      "id": "e5d2b536e1d7e4fc",
-      "title": "China projecting image of 'stabilising force in world politics', expert says - Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZbEk3UzhaVGVZNlZOUURJMVJ2VlBQUmdrSXg2dWxDZnVjTHFhbUhJUzZFQVFwUkdHUmE3M0JYTk5vSngwOHRvV254Rjg5bVdrVXJPYXZoX0F2X3dvQ2xmdWhMMHRLZ9IBXEFVX3lxTE1pVlAwU2NOSmdOQXhrMGxWVk05emxsUnVNWDM4M1dNTEdEWmJiMm5XYXUwcDFwZ3IwTmtReEhRWjQ5Y000MWdSZWdPNWxiZ2RRZ0pNNS1uemlGTWR2?oc=5",
-      "source": "Modern Ghana",
-      "published_at": "2026-09-15T22:10:00+00:00",
-      "score": 67.13,
+      "id": "4a990525334e03a8",
+      "title": "Pérez Mackenna reúne a diez excancilleres y llama a defender una política exterior de Estado - Radio Pauta 100.5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbGptc3ZVNkxTRnlHZzdlbXRBUW9hWGZJY2kyMTJNQzlfdV9FMkhDazExSTJQYkRVdUNOQ2hWZWtBVzZ4TVNvcmNtMV9WSFc4eDNUNjNsemxWdU8wTnBuZzJyb3QzRHZCSUhYN190d295eEtaR0JBMjZ0TEFzc0NNREwwVi0zSXBLOTl4WmR6QnA0TWktMEE4dTVDZHFNZ3ZmVWxPNGZqT2dWQXdNcDVRcUZJT3I1RDUwTVpyWld5WjFvSmRZZHZnNmkzemZaOUVZODl5cVFhNA?oc=5",
+      "source": "Radio Pauta 100.5",
+      "published_at": "2026-09-16T10:30:48+00:00",
+      "score": 65.46,
       "corroborating_sources": [
-        "France 24",
-        "Modern Ghana"
+        "Radio Pauta 100.5"
       ],
       "signals": {
-        "source_count": 2,
+        "source_count": 1,
         "social_metrics_available": false
       }
     },
     {
-      "id": "dcc65e5c767f23c8",
-      "title": "Saiba quais pesquisas eleitorais podem sair nesta 4ª feira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHJGNWZ6amZuWnVqTlFVTldlbjNiZDdXX25EQUhuZWY2OEVreVhUbjM2aDdRbXZybFlxZEVfaHJLelMzUUhudE9IM0xSWHV2MmtySnZkdXN4UWpIcFIyLTZNWGFWTHhHRXUxdWgzMGVROHVuTjlGX3A4cHltdmhRTWNCRUFBX0dGTWlNX2ZfSVBmUkFFY2F0LVJYb2t2UGhfelhaZzRMdXM5TmZGSEE?oc=5",
+      "id": "6b48e9e6685844b7",
+      "title": "Campanha de Lula resgata histórico de Moraes para afastá-lo - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdm9kQ25UamhuajVYTUx4N3dPTUtLdVhTMXlmZ0dPSy1PbkFWOHA3RHQxQ2Q5dGdqOF93aEoyd0xfX2w5WTY1MU5Zc0xpMU05ekx6MVNsaTZhM1hnVm1fTkZEbjJ2eUxaek5TTEZzMUdQSFlIdFR3NXNLUjhaTk5CRnpOOUk3dnBFamRyeVVUbjhZb01FRTlSM0Q5b2t3aElDMi1udGJmSFlwWXZi?oc=5",
       "source": "Poder360",
-      "published_at": "2026-09-16T09:16:09+00:00",
-      "score": 65.44,
+      "published_at": "2026-09-16T15:06:17+00:00",
+      "score": 65.22,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "253ef28b835591cf",
+      "title": "ELEIÇÕES 2026 Flávio Bolsonaro é “inexperiente” e herdeiro de “visão golpista”, diz a Folha - NOVO Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTlxNVFVZnE5SlhwUUJKOW1TckJ6amt5Q3NDY25pQWFST19KUEhzU1FWUzhCSDcwUWNJRmw0Q2xfMTFaS1MzREh4UnE3MmVNOG9zLVFMbGRUQVpiRkd2NjVUMTZ5UjAtUDFFQXp6MmpKLVJIUS16Qi1lMkFHTWpUVk9VVExtQjRsRVc5M2pvVzIyemk2dnFtTzZwRW1kOFhHeDc0?oc=5",
+      "source": "NOVO Notícias",
+      "published_at": "2026-09-16T14:52:00+00:00",
+      "score": 64.96,
+      "corroborating_sources": [
+        "NOVO Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1f8e1e0ea326f28d",
+      "title": "Read \"muy crítico\" con Cancillería: \"El 1° de mayo cantás La Internacional y el 2 estás en un portaviones\" - EL PAÍS Uruguay",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTVZnMFpIb2FaVDgwalBtRk55eE5aQTVKNXVVQUpXOG55MWpNOTB3bFF2cGd5UDhaWlRuMlZQdm5PaktIa1Iyb0JNdWFGSHdYRXpZQV92TTJUb1hfN2ZMQ0VoYWFyZ0pBZWtRZG5VYVAxWHBUU0R1VnJXXzJjWmxKNzdLUFBmVXVxUHFPMnBTbXNaNFdPcjA1YXZRU1lvSnBTSVgxTGVFUnlKdHpyWndDNGNHdXNYaFlSTXQ5dFMxLURKYTNnN1VCWU9ZYlRMTUFYSmtyTEF2WDhZOTRJVEtJQg?oc=5",
+      "source": "EL PAÍS Uruguay",
+      "published_at": "2026-09-16T14:52:26+00:00",
+      "score": 61.96,
+      "corroborating_sources": [
+        "EL PAÍS Uruguay"
       ],
       "signals": {
         "source_count": 1,
@@ -117,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHo0ajNIelRQUHFwMjU1ejRiTHYzUzhfbjZVQ1lwU2k4QUx3QlFkYXM4WjlBbG1OT05yUjFiYjRoa0psaWpRMTM5NlotcTlYM05tNVhIRHJGeEJoRTNZeUs0TV9wTldSd0R3VzktMWdsNjhPX3ZNMm5fYko2bkljUTZFSnh3YUtKcHhQUjNldEFXRmpUSWtFdEQtbEtybmdVZ2FXTTJvZnJGVmY5MUZXV3lTM1o5UGNDU3ZGTVRnRHZtZ2hJQ21nSDV3?oc=5",
       "source": "A Tribuna MT",
       "published_at": "2026-09-16T04:11:33+00:00",
-      "score": 65.18,
+      "score": 59.83,
       "corroborating_sources": [
         "A Tribuna MT"
       ],
@@ -127,14 +156,29 @@
       }
     },
     {
-      "id": "22cc13613c3726d3",
-      "title": "VOX POPULI: The inescapable border politics of U.N.’s world map rescale decision - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjSEl2bHFCS3ZtMXVaelNGZTVQQ0MxYm1CRUtCOUwyeVliOVQ1ZlU3UDE4d0VZRVZ4ajJyY2ZjWURmbVI5WG83dFNENUJXMzdHaVdlX19n?oc=5",
-      "source": "朝日新聞",
-      "published_at": "2026-09-16T03:57:00+00:00",
-      "score": 64.95,
+      "id": "dcc65e5c767f23c8",
+      "title": "Saiba quais pesquisas eleitorais podem sair nesta 4ª feira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHJGNWZ6amZuWnVqTlFVTldlbjNiZDdXX25EQUhuZWY2OEVreVhUbjM2aDdRbXZybFlxZEVfaHJLelMzUUhudE9IM0xSWHV2MmtySnZkdXN4UWpIcFIyLTZNWGFWTHhHRXUxdWgzMGVROHVuTjlGX3A4cHltdmhRTWNCRUFBX0dGTWlNX2ZfSVBmUkFFY2F0LVJYb2t2UGhfelhaZzRMdXM5TmZGSEE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-16T09:16:09+00:00",
+      "score": 59.27,
       "corroborating_sources": [
-        "朝日新聞"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "02095eb0002ba0c6",
+      "title": "Real Time Big Data divulga pesquisa de intenção de voto para governo e Senado no Pará - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVklXdmRLLTlxNFNmdFRPNU1zXzRKWHJvRUZSUkdRTXpjaEcyZHdoOXlwM1pZdGdhVHNLaVpmb2ItVmtRVzNXeXZXQ2JtUEpRSUNWWS1CcG9FU0hCMkhWb2xtdndrQjJ4ZGJ6YTIxTURqQXdFcTROT3B4V015bnhnVEtOa2RnWXNOQnpSaDc5UEVpM0ZHTTIzYm8tZlIycnVhUDgxa2tnaWZhakVRZWRHa3d1aG5TbFBySWN1MVdqbzE?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "score": 59.18,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -147,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVURNeWlWSS14bk1uclY1ZW5uNDUxRDMzRFJ4b0ZBS0RKX1NXdGZJdnpFdS1EUnhfRUpUZ3J6RFF5WVFlNlZldjdnRHNlbzdGLUpqZktTNXBrYXpET3h5dUtGMTUycnRVV09vb0ZuTmwyVnBmXzV1QWh4bnJpaVpaQkhwZDNsallJLUwzRWxSTS1tV1NUbEZtYng4RXRPUmZwbzZQQ0c0YmdiN1R5bTdZQ0NFX1RNRjVJaTRzWDZfVkR5SmIySlJzOEU1czhUWkRRRzRLTlFZZW9MS1RvQ0tYM2tGV2RZYUpKcHdMNmN1ZzJ6cW5Ua0dPUEJ4aE5TNmVoN25r?oc=5",
       "source": "Revista De Frente",
       "published_at": "2026-09-16T02:37:08+00:00",
-      "score": 63.7,
+      "score": 58.57,
       "corroborating_sources": [
         "Revista De Frente"
       ],
@@ -157,59 +201,14 @@
       }
     },
     {
-      "id": "74ee0033b7c8e2e3",
-      "title": "Real Time Big Data divulga pesquisa de intenção de voto para governo e Senado no Pará - gazetadopovo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVklXdmRLLTlxNFNmdFRPNU1zXzRKWHJvRUZSUkdRTXpjaEcyZHdoOXlwM1pZdGdhVHNLaVpmb2ItVmtRVzNXeXZXQ2JtUEpRSUNWWS1CcG9FU0hCMkhWb2xtdndrQjJ4ZGJ6YTIxTURqQXdFcTROT3B4V015bnhnVEtOa2RnWXNOQnpSaDc5UEVpM0ZHTTIzYm8tZlIycnVhUDgxa2tnaWZhakVRZWRHa3d1aG5TbFBySWN1MVdqbzE?oc=5",
-      "source": "gazetadopovo.com.br",
-      "published_at": "2026-09-15T10:00:00+00:00",
-      "score": 62.42,
-      "corroborating_sources": [
-        "gazetadopovo.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f412ccc9466c31e5",
-      "title": "¿Cuándo es exitosa una política exterior? - clarin.com",
+      "id": "df0aa1b1a908fda4",
+      "title": "¿Cuándo es exitosa una política exterior? - Clarin.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mUERpd2lva3gwOUFqNVduMzdpZWhjLTFmWFpGQkNQMGU2Y2hoRHBJbkN4bElNS1NSWlp4cTJ6OGJJQ3E1akc0czB4SDMtZ1B2dU1HeUhNZEp1MjBveGRmaDFSbXRDNTJlTDlMM1BocUo2ajg2b0hCalZGVDllNlE?oc=5",
-      "source": "clarin.com",
+      "source": "Clarin.com",
       "published_at": "2026-09-15T23:01:38+00:00",
-      "score": 60.55,
+      "score": 55.9,
       "corroborating_sources": [
-        "clarin.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3abc54c7774ec3b4",
-      "title": "Bishkek 2026 y la consolidación del nuevo orden internacional - Rebelión",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjlhZm5Tc3llQng5a3RpN1NocWs0N21LdENhSGNHa1pNVnFwTXJGdU54TUVtYTVTTEZXZHVDYy0xN1g3LTY3ZUp6V2hMYldFLTN2RmtQai1FSXhETlA3b2pQc2FDb0o0aWRmR0FZVXlXc3V6aURCMkNqb3lneEYzYnpicjZ2YUZUeW9R?oc=5",
-      "source": "Rebelión",
-      "published_at": "2026-09-16T06:40:22+00:00",
-      "score": 59.66,
-      "corroborating_sources": [
-        "Rebelión"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7519b455d7677160",
-      "title": "Campanha de Lula resgata histórico de Moraes para afastá-lo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1BHcGtUMXkyZm1ndnlmYVlwcmxleEpQNGVuNEFKMVRiRnJsY2J5MHJhQ3RLbDAxLTZmZURGamNlaDlXZWVZZEZHbHFRa0JQOFp1LXFEaDJlRmhORzNXY3k5NFJKeHA1cnN4ckhqRGFCZjd4eERqdEV4OFByM1QwMzR6S1hjT2ZId1F0ZF9RcEFCYjR3NU5EX09VNA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-16T03:11:43+00:00",
-      "score": 59.24,
-      "corroborating_sources": [
-        "Poder360"
+        "Clarin.com"
       ],
       "signals": {
         "source_count": 1,
@@ -222,24 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEp0Zkd4VXY4VTV6R1c3RVBIYlVTUUtDN1FrQ0tHV0FhOWdLTGVjdzZ3V1RhOGM3ejNReTRpX0NaSWVZR29qVTYxMmthSHlYMkFiT1pJZFdaWnJLVk4zbXp4bHQ2c1dFU0IwblJYc2hsM1EzV3FHaXFLSlVtQnE2Yzk0U3drQkRfLXhickpxQ0JWNEVvOFlqek5QcFZMMmpkZFNhRllPeFZkeDhzdjdoaWh4aw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-15T17:25:11+00:00",
-      "score": 59.21,
+      "score": 55.24,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8f7bea18a2d24e8e",
-      "title": "Mídia internacional acompanha crise no STF de olho na Eleição brasileira - tmc.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1Z6amNTNGlFZjkxU0VnS0I3b3U4emNkSUNRRmYzLU5iTW5idVZPSXlWRFhIRE9hemlCVkpmbnRWSmRCaEJYUVp6ZU0zYkU4Tkktc0pjVmVmNl95TWZYUVdYbVVyUTVieEpWa1puWUNJaDNua3pjcENEMEdlTlVDS3BwMkdLTklLUjB6cHlLR3pLbUNxdWhYNm5PS1VjNlpmc3Y0?oc=5",
-      "source": "tmc.com.br",
-      "published_at": "2026-09-15T20:42:55+00:00",
-      "score": 58.68,
-      "corroborating_sources": [
-        "tmc.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -252,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUtVNTUzcl91ZkVsOVN1djJqUWg3amhDN2dESzhfNVViS1AyX2xyZDhPUGV2YmxTZ0N2OGdxYnNLNHVlRnBhVWwtSmwxZFJYdGRqTkJhVzVGbkVrbU1kb1dYelNJRUNwNmZoS3Nuc1MxNlhwRlN5Skl5YnFMbXJfODZCbzItaEp5TXZ0UVRjVnNBUTFWUUFfRHl1dEFvOGVJaEE?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-15T16:27:57+00:00",
-      "score": 58.54,
+      "score": 54.67,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -262,14 +246,14 @@
       }
     },
     {
-      "id": "16ac67d2f36eee1a",
-      "title": "El paraguas nuclear francés gana peso en una Europa que ya no se fía de Washington - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVBjU2ozTThrNDBVdVZGbHU2cVNNNVFleFlDWGhzUDZzcVI0VWNMX1F2U3JuTEp0aEprTUp1N2lBX3Bqd3lRdGE1VVkzaWRKbkk3T2J2b0JweWdpVnU1ZGtuODFJQjNnSkhJa3QtbFREWkIyS0xOVHdYMUVxcFZPNUUzc1I3Wl9PSFpfNG40WEdoOU01Y09qY2hsTFdMb3pUODBrd0NyakIzTHJzaWdLRDFoejJucGdi0gG-AUFVX3lxTE5MQnpSUHUyTWRYUEs4ZzhZRlFTU0tuYi10bThhbWw5MGZ4aTNuOWFYc2s0V0JpUVhQbnAzTGJjTHZOZUxsT1I3bGlTcGhqdWVXaVpJMC1jdEZ5eVlmcHRWZDNBQXU0RkY4a3pIcE83NDlhdTFGckUtZXpvYmUwNDVBdUVwLXhjZUJCTTVHUzRSN3Z0b2kyOXN6ckhscm03N0FsOUZ6R1hzWDh2ajQzbU9oYkd6UDRYbUhGaHZSMmc?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-09-16T05:14:00+00:00",
-      "score": 58.2,
+      "id": "4e79382a2671d90f",
+      "title": "A propos - China projecting image of 'stabilising force in world politics', expert says - France 24",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRE8wMGxSdUVOQmJPLVNHUG14OGJIczhEdkxRQ0d6b2VDeWZTTWc5bmZHclkzakNTUWF5a3M2cmNrcFFUS1hjYjYyTTNXY3YyMjYyNEo4ZVhMTENaN2JacGFlbE1rTmxPbGYwYU1GLU92VlVOdlFxMTI5bWdqS2licExaeGxESGdTcFRQMjgwUTB6WkQ5LWlhcmRfZWdlVVp4Z29kWm1zY2RLbWJ3R0VzUC1OdmwzbXA5OVFLSS1lRHNaQ19fcks4?oc=5",
+      "source": "France 24",
+      "published_at": "2026-09-15T21:06:59+00:00",
+      "score": 54.59,
       "corroborating_sources": [
-        "Elplural.com"
+        "France 24"
       ],
       "signals": {
         "source_count": 1,
@@ -277,14 +261,29 @@
       }
     },
     {
-      "id": "49cd8c3333aff6c4",
-      "title": "Moraes e Gilmar atacam Mendonça e alegam atuação política dele no caso Master - gazetadopovo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0F2RVF0V3lWZXdzbm9QTjFVaUZOdUtJam9oenp4bklIX3pVV1VZNEdGcmtLT25YcHNPd1kzREJDaXloaW9LNWgwZUhRS09FdGFkMmVfc3lVN3lpT3d3LTFIN29qT3BTRXpDdzNlempfdFR3QzRvSUVaVmRVN0NIYTI1VUxYSkRnQXkxOG03UmJGRmhZdUFLbjhuaWdQV19fUHZJOTNfXzVBS0ZEVmRqODVaX3Y?oc=5",
-      "source": "gazetadopovo.com.br",
-      "published_at": "2026-09-15T15:33:00+00:00",
-      "score": 57.91,
+      "id": "8f7bea18a2d24e8e",
+      "title": "Mídia internacional acompanha crise no STF de olho na Eleição brasileira - tmc.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1Z6amNTNGlFZjkxU0VnS0I3b3U4emNkSUNRRmYzLU5iTW5idVZPSXlWRFhIRE9hemlCVkpmbnRWSmRCaEJYUVp6ZU0zYkU4Tkktc0pjVmVmNl95TWZYUVdYbVVyUTVieEpWa1puWUNJaDNua3pjcENEMEdlTlVDS3BwMkdLTklLUjB6cHlLR3pLbUNxdWhYNm5PS1VjNlpmc3Y0?oc=5",
+      "source": "tmc.com.br",
+      "published_at": "2026-09-15T20:42:55+00:00",
+      "score": 54.32,
       "corroborating_sources": [
-        "gazetadopovo.com.br"
+        "tmc.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3abc54c7774ec3b4",
+      "title": "Bishkek 2026 y la consolidación del nuevo orden internacional - Rebelión",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjlhZm5Tc3llQng5a3RpN1NocWs0N21LdENhSGNHa1pNVnFwTXJGdU54TUVtYTVTTEZXZHVDYy0xN1g3LTY3ZUp6V2hMYldFLTN2RmtQai1FSXhETlA3b2pQc2FDb0o0aWRmR0FZVXlXc3V6aURCMkNqb3lneEYzYnpicjZ2YUZUeW9R?oc=5",
+      "source": "Rebelión",
+      "published_at": "2026-09-16T06:40:22+00:00",
+      "score": 53.92,
+      "corroborating_sources": [
+        "Rebelión"
       ],
       "signals": {
         "source_count": 1,
@@ -297,9 +296,24 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0tqYUZwdHpUVkZodHJiQnBrdDhFUjdqYnA1Nm5JcWNGQXRTVmdodzd1VndyWnNzXzRoQjBsNTEyRlc2VnU3TVAzaGFSRDhuWWVwblRpU3U1ckVzejhyUnNJMS1XcVlFaWFDS2RXWnExNlNCQmFzajJqZFY0N0R1VFpENHRaOS1CUXNMNl9Xclg2bkdtakVtRmd3?oc=5",
       "source": "The National Tribune",
       "published_at": "2026-09-15T19:18:23+00:00",
-      "score": 57.59,
+      "score": 53.41,
       "corroborating_sources": [
         "The National Tribune"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "16ac67d2f36eee1a",
+      "title": "El paraguas nuclear francés gana peso en una Europa que ya no se fía de Washington - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVBjU2ozTThrNDBVdVZGbHU2cVNNNVFleFlDWGhzUDZzcVI0VWNMX1F2U3JuTEp0aEprTUp1N2lBX3Bqd3lRdGE1VVkzaWRKbkk3T2J2b0JweWdpVnU1ZGtuODFJQjNnSkhJa3QtbFREWkIyS0xOVHdYMUVxcFZPNUUzc1I3Wl9PSFpfNG40WEdoOU01Y09qY2hsTFdMb3pUODBrd0NyakIzTHJzaWdLRDFoejJucGdi0gG-AUFVX3lxTE5MQnpSUHUyTWRYUEs4ZzhZRlFTU0tuYi10bThhbWw5MGZ4aTNuOWFYc2s0V0JpUVhQbnAzTGJjTHZOZUxsT1I3bGlTcGhqdWVXaVpJMC1jdEZ5eVlmcHRWZDNBQXU0RkY4a3pIcE83NDlhdTFGckUtZXpvYmUwNDVBdUVwLXhjZUJCTTVHUzRSN3Z0b2kyOXN6ckhscm03N0FsOUZ6R1hzWDh2ajQzbU9oYkd6UDRYbUhGaHZSMmc?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-09-16T05:14:00+00:00",
+      "score": 52.69,
+      "corroborating_sources": [
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -312,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVZPUjVXSnZVenRnQkQtUF92dlhhYkM4TWVOUl8wc0FZZnVRRkxqTXUtUHU3cDktTTI4d3E3TEFHVjdYUkxaTVVoYzVWbVJocERjcFZIZk9NMTZmYUp6YkszVG5wTHhQMWt5UlFPam9XcW1CRXlocTFsQmdhcm5LNGN3X0NXNFpuNmFpQ1NERWRqTXV4R1hTbktwR2JfanByMHh1aHF4aFE2SExj0gGyAUFVX3lxTFBpTzZkWVppTzQ1Q0pjOVNCTUNvb2E0Tlc2Mnc1djRWbEhHUllOdGsxVERTUnluazNsTW9fYUtZejNITF8tMUFhcHM3ak9zLTIyTHJ0MERyREJwVlhVODhwcXgzdTd0bWUxU18yem54UzVETVRCRzZhd0t4d2p6Zy1WVnMtRmtDWklMcUdUZWNiNHdSeXRiM0RpdW9KTkNkSG9iRlhiblB5anp4bkpuemhPZnc?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-16T01:00:00+00:00",
-      "score": 57.24,
+      "score": 52.33,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -327,9 +341,39 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGZ4OWJoTjEzMk1ZRnI4S3RUeVN3bVh5R3VOMXpIa19JeDBHS242QmRhcWhGbkFzakNQd3FzTVhkbGhGM3QwM1VCVldTaFFiZmpOYnVBdzdjc2tFdDV3cWF0M05YcDdja0J3QnNqTGpMZDZvSHRBcXlqeWFiUmR0RG4xR2NJdmpjN1NzR1gwbi05Mk9QNVRVUVRaZFE2STE0T2xaV2lR?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-16T00:05:31+00:00",
-      "score": 56.45,
+      "score": 51.67,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "12130897b70a8fbb",
+      "title": "Federal employees were paid $9.5 billion not to work in 2025 under DOGE effort - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2ZnQzU4dGktTlFyX3BFc0lob2pERUtoLWFtWFlpeDc2TXB3Q1pBLVIwMmVicXhqNDdhbjVKT1RqbW5qTlMxUFFDQURIYVF0ZUFpeWpoOUZvQmxwSFAweEI2UUdsdUZVRzRqZHo0bTAzMk5wb19lRi1LRENKRWNtZGI0T2RMU2NrenpfOUlfcDZKRUlFNGY3WjJVM2dwVHl1NXpJQS1JazBYdFhVRl9jWnQ3MXVEX1hQdU5wRXdnend4RkVORkEzSndxODZqeVBXZnc?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-16T03:06:01+00:00",
+      "score": 50.95,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "13ee71cc1a022ed3",
+      "title": "Europa entra no inverno com estoques de gás em baixa - Diário Causa Operária",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2RsRFM3Q3hiaU5pdm5lZ1NMVzMtZGNUMlY1ZVE1YkhBYVllYzluNnFNa3prVUpyVnJtSms4VDRFa1BYTFJsUGh3SWFvTXJzOE4wNGpBMUUzVEVvSjR1aFhHVEhiRUEzWWk1X0VzQk56N3pFalh2Z1BoRzJlVW53Q3hqM3poT2VLaDlJMkYyRDA?oc=5",
+      "source": "Diário Causa Operária",
+      "published_at": "2026-09-16T03:00:01+00:00",
+      "score": 50.87,
+      "corroborating_sources": [
+        "Diário Causa Operária"
       ],
       "signals": {
         "source_count": 1,
@@ -342,24 +386,9 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEE5d0hnaVRTRDl5WWE5aHdoZ2UyZXpqQzJuMDkzTmplZHZFdmF2a2dydjRDMmZSeWlyMGhlelprX1FjZTZHWkVLMHF6amZBSGZTbG5DeVNYRG10Z3VHYklRWjl0RkJCTUhUaHJqNkgzTjNGUjZESEh6RTAwd1JmaGhHRlpYU3loSUNXQ3g2UUhFVEVmSFd0cEgyNkhTSjhDQWp5bGFIZnFUNE9hTVZF?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-15T09:21:18+00:00",
-      "score": 54.04,
+      "score": 50.87,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "37bcaa16756208a9",
-      "title": "Steve Bannon and Bernie Sanders demand tighter controls on AI - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnFKSEVhS0RnczFkWFo4WTNCd2dEdUNXYTRvNlhUanVSZVloTXFfNU8ySmhzWkFLcGVmMWlNNHpleXlrYkNlcmZxUWt4WDk4N2xGZWkzMFFlclhUQlpONnFzVjh0TEE2V0R1cHR1ZzU0dU5rS1VrTHBjaHlZTG5Qc2ZYaWtvVjRMeXlDbEhYNEo4U1c5Mi14YlBtZDFUVm1VaW02M2VZbXQ2bEkzd3BjeE1yTDhLclNDaWZDUg?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-16T00:32:23+00:00",
-      "score": 53.84,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -372,69 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnpzT1g5QkpuYnVwbGthbFNHMU1tajFzVjEwY1E5OWtpa3FfaGU1bFhSRUVLUU5VSTFfNkZ4R0tXem9xNUFVMVVPcnZENkt3NHY0bkkzM0ZVM0lILWR0ZHU3c3phazU2TG5tWUpJaDlLdmhJUFRvZ2ZMd0pSLVlTd2x3QjVPVFMtNlJZWTJUVVdaMDZhaTNjcw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-15T08:59:50+00:00",
-      "score": 53.84,
+      "score": 50.7,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2e87a8f1f237c2c4",
-      "title": "Minerais críticos: nova lei protege riquezas do Brasil na disputa entre EUA e China - cartacapital.com.br",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXNaNU9ZeHlCWkdvQzhXazkyMzkxS1NGdGo3V21LYjFCdy12V05jekotVnNBSXBnSHpJVHdrYWJGdmRNV0plaHZLUV9vdzducU1fY3B2WC1xelc0ci1WRlNvMWFFRm84b25vYlJjaS1ndHc5YktQUmdQR1hFVV9hcmJ6NDVJYll3dVNiLW5PMEdBcVdSM0RwV1dZd0poVFV6M0pyN0g2eUtwSG5tUGZBTXJVNnhwR05ZTDBwWktpVQ?oc=5",
-      "source": "cartacapital.com.br",
-      "published_at": "2026-09-15T20:42:00+00:00",
-      "score": 50.66,
-      "corroborating_sources": [
-        "cartacapital.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8506aad1e862803e",
-      "title": "“Pessoas decentes não fazem isso”: Gilmar Mendes e Mendonça batem boca em julgamento sobre Moraes - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGJ6bkZyWVk1aEQ0Q210My10RUQ0T0xYci1QVVh1LUVJb203N2N2UnBtM2FzVmhDZkdYbUlGUnFzM0g4dnpXY0o2dEZIeEtmRWRhWnlMUWRCVjBodmVHMlZ2cWtVbFRiOE8xU01kWnNqeGJaNmxnSkJmWDZIRHRCSXhXMDhEVmM1d1VSRWdIM3BUSHh6QlE5V2tUYlJxNHM?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-09-15T16:22:28+00:00",
-      "score": 50.47,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7fa682cea7562171",
-      "title": "Ao vivo: Lula sanciona incentivo fiscal para data centers - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2xnaFlUZmlodkVvMzBqcVFxY0VBcWVnLUI2XzgzUzJ5ajEzNUZzNTF2NWVqTTNpbVhHZktHZDg4OFJHU0RjcGRhN25KcnpiMGtpWXQtamtKQUZkU3hxekF2RWdIa09EYWpZQ3k0ZE5hQ1lNMDVIN1dwZnNtNUN4Vnc1UVEyZl9qeHg2TGRrX3VkeGlzV0FfSFJxalNGTFhm?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-15T16:17:47+00:00",
-      "score": 50.42,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "71b9e14b27e1a2b7",
-      "title": "Relatório de órgão ligado ao Senado mostra que política econômica do governo Lula é “insustentável” - gazetadopovo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHdzakVodkdsV3U3VkR5S2hoM19fa0Fod25hcndidHJKbzhYLTltcmVKV1RaX3h6U1NoVmRXSjdKRk1tTjNCWkFuV0JJTERLZlFxQ3JfdXlVd2dYa3R2RV9TRnVpNGhEMXRBczQwQlZtR1lIUWtORjc0Wk5SYTNZVEEwVU9FNWtqZWkxLWo5S0pFOHFJQm5weTdyN3hySjZVOEIxZmwxMXB5bklaR2kzck81YUxzczNkTGJWSF9pSHB5YmtaNVV4bGE5bUJtdkpYNjdMeDRn?oc=5",
-      "source": "gazetadopovo.com.br",
-      "published_at": "2026-01-02T08:00:00+00:00",
-      "score": 49.48,
-      "corroborating_sources": [
-        "gazetadopovo.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -450,6 +419,36 @@
       "score": 49.48,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "37bcaa16756208a9",
+      "title": "Steve Bannon and Bernie Sanders demand tighter controls on AI - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnFKSEVhS0RnczFkWFo4WTNCd2dEdUNXYTRvNlhUanVSZVloTXFfNU8ySmhzWkFLcGVmMWlNNHpleXlrYkNlcmZxUWt4WDk4N2xGZWkzMFFlclhUQlpONnFzVjh0TEE2V0R1cHR1ZzU0dU5rS1VrTHBjaHlZTG5Qc2ZYaWtvVjRMeXlDbEhYNEo4U1c5Mi14YlBtZDFUVm1VaW02M2VZbXQ2bEkzd3BjeE1yTDhLclNDaWZDUg?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-16T00:32:23+00:00",
+      "score": 48.99,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8506aad1e862803e",
+      "title": "“Pessoas decentes não fazem isso”: Gilmar Mendes e Mendonça batem boca em julgamento sobre Moraes - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGJ6bkZyWVk1aEQ0Q210My10RUQ0T0xYci1QVVh1LUVJb203N2N2UnBtM2FzVmhDZkdYbUlGUnFzM0g4dnpXY0o2dEZIeEtmRWRhWnlMUWRCVjBodmVHMlZ2cWtVbFRiOE8xU01kWnNqeGJaNmxnSkJmWDZIRHRCSXhXMDhEVmM1d1VSRWdIM3BUSHh6QlE5V2tUYlJxNHM?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-09-15T16:22:28+00:00",
+      "score": 46.61,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
