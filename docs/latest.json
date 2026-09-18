@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-09-18T19:03:12.105645+00:00",
-  "next_update_expected_at": "2026-09-18T23:03:12.105645+00:00",
+  "generated_at": "2026-09-18T22:37:02.768765+00:00",
+  "next_update_expected_at": "2026-09-19T02:37:02.768765+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "5c056ddcd25517e5",
-      "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnVZc2h4dUU3NlhhOHlrM1lYQTdfT0RPZEZKeDFfTXdKTENUakx0S2didDlJaXVFaV9IbTZyU1JRV3p4SEJtX2szblpZRXBoQWtFNW0ydXpndHBuMkxPU3JWalJkc1BvME9wdmM1bF9pd1E2cWt5Z3lzY204VWlHd0FTN3FKVktONEVSN1RGV1JTU0s5c0ZFa2tqNll1UnpxZHlUU3NiRVlKbXBNNGI2SEFQaGhiQ3MzNXZuRDRUSDM1bkkwUXN2eEhHSUxJOVlUZnpBSTFJeE1sWHZ3WTdpQXluQjRFOHpz?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-09-18T15:04:56+00:00",
-      "score": 78.78,
+      "id": "cf61f9d1b38e8512",
+      "title": "Maioria da Geração Z acompanha política e prefere vídeos longos, aponta estudo - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHVuTDNaTEgxaDhoUmlCQ3UwbHNrQjQtOUxGRGdZY0Q2N3VmaGtVWFB1VURDTGJuendnQVVyRXlEN092Q2NoQ1pLWG43LXBBbW10MHFudGhpNVg0R0p0RmVnZVRTSkk1d0ROQzlCT2hIUTB0LXR5dWhZa1FIWjMwVzdzNDRIMl9vRi0yVXJ5YmJxMlR2VHJsb3dGbzZfZU5vdmtxdFA1OFZMbHkwNloxQ3hrQTlSMHJSUWhN0gHAAUFVX3lxTFB3SFU0ZmlLNnlRTW9kSUhXVTZZZ0trS2s0WFdlS2xpS29iMExza3FaT0pLMEJVUVdObEZrSEFPcTlEYkZvWEY3TGFYZjQ5cy16dkR2NEs2WUd0N2xhUFhXM051U3d2cXg0MmRVTVJFdXY5ejhQb1k0U0diLWFqWTczVzlIQjhNUEI4SkFHcFU1Uk9SMjlqTzNCVWpucWNiMDhBZ0NuaWx4UHh2bTBUOTZpTWJfdEUyYWFneGdueHFNcg?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-18T21:00:00+00:00",
+      "score": 76.5,
       "corroborating_sources": [
-        "Daily Herald"
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3064115d81b53a02",
+      "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began - dailyherald.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnVZc2h4dUU3NlhhOHlrM1lYQTdfT0RPZEZKeDFfTXdKTENUakx0S2didDlJaXVFaV9IbTZyU1JRV3p4SEJtX2szblpZRXBoQWtFNW0ydXpndHBuMkxPU3JWalJkc1BvME9wdmM1bF9pd1E2cWt5Z3lzY204VWlHd0FTN3FKVktONEVSN1RGV1JTU0s5c0ZFa2tqNll1UnpxZHlUU3NiRVlKbXBNNGI2SEFQaGhiQ3MzNXZuRDRUSDM1bkkwUXN2eEhHSUxJOVlUZnpBSTFJeE1sWHZ3WTdpQXluQjRFOHpz?oc=5",
+      "source": "dailyherald.com",
+      "published_at": "2026-09-18T15:04:56+00:00",
+      "score": 74.98,
+      "corroborating_sources": [
+        "dailyherald.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b6a11179ff392ca0",
+      "title": "O que Lula e Flávio prometem para a política externa - Instituto Humanitas Unisinos - IHU",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWlhcURObzlMRGZSUEttdGVhWFVSMmY4Vk42MzFhN1RhcTdfVkd0MDg4WmVsMXY1am5rdGZnSWw2d1NKcXB4dnJ1dFozZjJhRC1qWEVBc0FRWGJLYVh0ZFp2TFE3TV9icktPd09WekQyZktleEdnQ3BIVVBqaW5RcldTNV9PQ2JZRTU0bkpDYlE?oc=5",
+      "source": "Instituto Humanitas Unisinos - IHU",
+      "published_at": "2026-09-18T21:35:17+00:00",
+      "score": 74.21,
+      "corroborating_sources": [
+        "Instituto Humanitas Unisinos - IHU"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTVBT1FxMFZHWV8xTkR0YW51cHFpSVF1WGJrb1daNHVQb2ZMa3N4ZFB3cy1Oak1vN3Fqb1ZHMU1vZlNMLWFQOEJXQTBIeU5IOFgyRTFlQU1nbERaZkYtbjl5eDdZeUV6TjBKc3g2SWpWdlR6blFiOVJ5cjlGSzctcVBDYw?oc=5",
       "source": "La Voz del Interior",
       "published_at": "2026-09-18T19:00:19+00:00",
-      "score": 75.42,
+      "score": 71.18,
       "corroborating_sources": [
         "La Voz del Interior"
       ],
@@ -41,9 +71,24 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaUJGV29HeGJhblBIUGRLOGxQS3ZBSlBxQmhldklRZlVLaUN1ZEk0dF9lOFhCV3BnLXI2ckNfWUR2dzZvN08tdllURFZsbGFpY1dpbjVDdlFrU25UU1QyTFJtSDVWaUYyOExIcnQ4NmlRUnZqaGphSm5xMXBleTk1TG1hYWJuNHVJRG5sakgzRmFmV3U2NmFLOGxxd3VCT0J4NEYyeHhxQnptLUtNdlZDeGRYR0NranFRb1EtTGxnRjRBUHpwQzIweEdqN2l5TEtjc19aR1BEQzA2VXUxeXBBWHg4a20?oc=5",
       "source": "Política y Medios",
       "published_at": "2026-09-18T17:33:05+00:00",
-      "score": 73.64,
+      "score": 69.57,
       "corroborating_sources": [
         "Política y Medios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b1a178eea89a6baa",
+      "title": "Bolsonaro informa a Moraes data para exames de sangue em domiciliar - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEhKemRmN1RPOWJYRlFvOVNBNlJFZUU1ejFVVmNESnpHVWhoQjRBcS1qY2pPc0p4MVlLYXdab29PeEUtU3dLTEx4OEhhLWVWb3Fwa1NyMnl1MjhMNXlOdUZZYjZpSE53WHM5Y0pSMG9MazN1WkRBUW9mSE5MV0QtSm13a3lEVWg1OVFRMWM5NnRiQVc4SDJ1M0tPNjR2dkU1UHJ5bjFtR3FOTjFIRnpXSWVTeXJVZGdGSG9aMA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-09-18T20:02:00+00:00",
+      "score": 67.36,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -56,9 +101,39 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmg4NHQ3QjlVVE02amM4a2NsNjlZUlFpZ0dmb1N3aTlnZ3daRU9yUmNkMGcwU0Z1NlpsQ0JUMlRveE11WlZoNG5XbnZRX0cza3J5cFBDdjhDcmg5djEzU2hsN2U5cFljYzZCUXRiSDl2NTNCSTl4RmFTTk1vNkRzVEtPcnktOXVRVmxzbi14YVphLVAzM0gtVFV6OWRoaTl3VkJwak5aVE9lZ1k0T0tiNkJkQlh1S1ZjOWc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T02:00:00+00:00",
-      "score": 69.5,
+      "score": 66.86,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "98501905c1ce9ec7",
+      "title": "EUA devem enviar drones para deter facções na América do Sul - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2VHOTF6NDBDQV9JekhGQnpMTFF3em9xV3pYcDV6Zmk2V2JlZnNrRHYyNmpDcEhocDFYWWdLQ0RjSEtUQXM1by1QWmtpVHBNcmxjWHBndURfcm91QldQUUlHREVCLXlaZE14cFRpNHplUlFVUndBRjR0YVJsdlc4aHltZGpvZUItUXdPcjV3UjVOUFNuMjB1ZW1aR0w0UXVqeXJiMjBMZVJXSTd3NzFfall5bw?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-18T21:36:00+00:00",
+      "score": 66.22,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2845066965921f3c",
+      "title": "Demanda de Nicaragua a Alemania es una maniobra política, denuncian opositores - martinoticias.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWRpMmVwalMyb0lCdU9UNnEtNmhuMlZ3NFExN21XZUtRdVdMU2xycTliLTZqRTlNcHlpS0hPb3JSa3lqLTNkVkdXbWFwZjhzWU9LVTNmbGF5NHNFVVRhTEZPVEFFbWpHSkRVWUhWT3pnbUlUb1pzeUhtMzFvc3Z1bS1kZ0JHTTFXZXFzRU1OOFhNYm9CaDBlV3V3eUdqOFZHc2RURkVkMDJvaV8tT2VhUkpXeG1mTkRGX0hOYjVSdG5zU0w3UWJR0gHKAUFVX3lxTE11bUFlTFJyUHlJdnV3TVhuWGtFelh0SWhNblg3TUh3alpnQW9QVUh6djJLX1F1Z1hSdzNsT0ZqNXJGNzNFcWdCalpNU2JTWW9Ba3dYc1oxRkJ5a2RXTG5wMmtQYzZoNy1RVDFoYmVHODlMbnFEei03bWxHbzc1WWN3dWlIOEEzRHJMVU9WYVQxVWt5Mm9yWGRlUXdKZDBMR19lRzEybng1TERCTl9sSWtCY2gxVGEzOUJyTFoyZ1lwZDl0czRwX01YUEE?oc=5",
+      "source": "martinoticias.com",
+      "published_at": "2026-09-18T14:10:43+00:00",
+      "score": 66.07,
+      "corroborating_sources": [
+        "martinoticias.com"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +146,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTFBd3pOR1VkcGoyQjF4Yi1hdG1XRTd6eFJoX2s1UFVoaE95dTJKMXZHV29LS1ZOSFFsZEhGUXpONDB1andmV0JMcUl4dDFOSk9ZX2hSWkNMQmctMHVCTnZhdDRxNzNrRnB2Nk1TQ3FNajlHdEpOVlJGQ18ybHM3RFlWSnpFa0hyVURKTWRVODE1TVZxaDBCU0VWak5lWlBrSDNpcHdjbno3Rmd0TzJfdDRCd2g?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T11:00:00+00:00",
-      "score": 69.46,
+      "score": 66.07,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cc29cf61d9ac6d34",
+      "title": "Zema lança jingle com o “ABC dos Intocáveis” - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1jdGFmajRyZEUxcGMxU2JKTlZpYVNJZUZoMHdSbklQUldFVkhwUXNXTjAxUXVmQ3p6dk5rUTBMb3V1dVpjbEN1SDUyYndNZ2xibUE4TjFwWDZqQklRRkJGZmlhSHlUZnZSS0RFUldnb2xuTXVvV3hVSWdpMF9CTFNKazljVk5oTm1rYmVjWFp3bno5VUE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-18T18:52:35+00:00",
+      "score": 66.04,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFptNVIyVnhkd0E4SWIxUkRoVnlnU1dkZWlvX2xpOW16TXo3cldhZjUxZU0xZE1lMU14LTZfQXhSUVZqajE1aVNob3pHbG5UaUlLc2pudWc1QUNoczJLb3ZvTkg1dDFpRDVKOC14dmFHeEtrM0VoeE9pRkJSaDdvT2dnc2I5c1piU2hzc29QWjU5VlJsTVhlT1owVEw1OHRQdVl2X1ZvcE4tSFNJNDdKQjgtY0pyRHRBY1FGbkNGdzNINjZQRFU1SWx6T01jZ9IB0wFBVV95cUxNcEJlRTNfY043c0ZDV0w5NHM5T1Z5QlBCUExBRUlGbTQ0WXc1Z1BQRW5BQm4zZFlRTEZpRFVfQVFtTjQ2RzZYMTFpRjRCaE5vSnlNaVRWMmdBZ1Nqd3BsWEtMSkg5TGJoTTZ5NVlDREVoWWlTN09WVGxrZHFMcmR4T0s3ZXZ2UEJwNHBwdE9LazRSakloVF9RRkpuTTV3a2IyWlo1Q2xGZDZ2ajZMaGt3SXJlblRGbG1MekNkMlhrWFN4d2E1OF9GQXoxV2xQaXpOUElR?oc=5",
       "source": "Estado de Minas",
       "published_at": "2026-09-18T13:33:00+00:00",
-      "score": 69.1,
+      "score": 65.46,
       "corroborating_sources": [
         "Estado de Minas"
       ],
@@ -96,14 +186,14 @@
       }
     },
     {
-      "id": "c4df5eb122131e2f",
-      "title": "‘Os Safra’: livro narra saga de riqueza, poder e tradição marcada também por mistério e conflito - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc2NsMlVDLVhCYnFmdWhkNGlVcEFwZ2hRT1IxUk1tYWNMTnh5c2tkYmREU2FhV0doYm5iOVRId1pQR3c2MU1pODZxTk1VZWNvWGI3dDJtRjJPSEhKaTAwSDI0cnpvc3p2RG53UEdXb0E5c0JNZjhrLU9FNjJ1bXN3UDNaSURwb1hhWERnRGZJS3M2b2wwZ1lSWkhaWDRDb0lwZXIwVUFMOF9qVXJFMjRFNjFaTTBXa0xsVnYtTVNaRTVZajA5c3ZmblhESW9LcWNNZDBmbNIB2gFBVV95cUxQX3JRY2ZQdFdMTGZqNW1fdTNLN3pCQ3BQUG1jQzEyRWpXbEd1dnBzeUtqbHR1VHlnTW5XSlFIOWZqT3BQN1JjVVZZUEtxRkNaRUFKM1VpZzF5WkFfLVU2U1RQeG02WkppZlhiUnRrdjZSd3pmLTV5SUZLaWd6S05wNWs2TUJtWFdMbU9FSFJOWFFlT19FZWJ3MUM5VlYwSlBhclFrRlA4N3dIYWstS2NJemRRV1E5THZHb3VUaXA5YWJia25JTEFvcGFjcGtSUlFEVE9IR2ZjQjF6Zw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-18T17:27:31+00:00",
-      "score": 68.53,
+      "id": "6a0a490a359eea54",
+      "title": "RDC: Macron reunió a los líderes políticos de Francia y advirtió por las crisis de Ucrania y Medio Oriente - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSXZWUlNqUXJHYTZTamhRTkYtQzlhNkhSR0hUNEtLLUZJRlRxSHR1UE9TMWlZbFh5WlF4X0JMbDVueWxuUnF2MnhpLUg4X2VlNmx6ZkU2NGtUUGtxSzVkVTY0dDZjMnhmYXNOYTl3TEkxamdFbHJfUERDMUZibzdHeVlVOURsMDg2cHByLVd2YzdHZWRBTlFDZFBBNTZvVHlmV0Z5S3h1MWZhcEFYWDhmdjlkRzFndnh5MnpzTkRSd3kxSmNOTi1FdzhjTnpjbG1RN1E3MVhWUU1wU1V4ZGN1eDV2ONIB6AFBVV95cUxPaDN0Xy1rMnBGWExvNGh5UV9CZ3djdlNmdS05UXlJdUp4aXY0OWhCTms5NUQtSUhab0FTTnNUS1RpUDVTVUNhazJfeC1lNVc1RktxRnBnOE5GRGhIdjJfN1FBN3dzaVlweXNGSEtrWHZjTmkwUHVJTy0tZlJqdU9jOGZOSkpGZ3RkSjhGWTk4eGZkcTZfa1NDd3p1aVY1ZFlvWV91by1WUzVtZ19ZVzN3UHlVZk9jRVBZMkdHTmFPdkI3MkJpWXRlajZlZ0Fsb1d3NFM0ZmxWZUNvU3lmdDZDdmtONXEzdWpZ?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-09-18T20:26:42+00:00",
+      "score": 64.84,
       "corroborating_sources": [
-        "Estadão"
+        "Perfil"
       ],
       "signals": {
         "source_count": 1,
@@ -111,14 +201,14 @@
       }
     },
     {
-      "id": "2166e89855624c79",
-      "title": "Lula foi alvo de 1 em cada 4 conteúdos com IA publicados na pré-campanha, diz levantamento - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMElHSVpQRm9vMXhWY3ZJMlpVUnZNV3pvVW1YWXRxNlVmLUtBYVB2UWdpQVZKcGNlV3N5OTRJdGxDMlJZM25xUmRNZUdTdEszVGoyTEd0a0ZwRHZ3WkwwRXJoc1dxMDdyUkNmQ1ByeU5uRE5WdUdKdXRpOFNmcGw4aDljNDVDWkNNUmRsS3Y2YnhFQUY5N1RiRWhkNXNKMVMwb1FHdmd4RzlsNkFRZ0hJamppLUIzTnZjVGZHM2hQcEo5UjBTQ3ZSUlpsRFV3cUxNYnFwQ2N3?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-18T16:00:00+00:00",
-      "score": 66.82,
+      "id": "e76aa813d97e9470",
+      "title": "Irán carga contra la \"propaganda burda\" de Estados Unidos y reitera que \"no puede eludir su responsabilidad\" - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZjBDaERoYjZjSmpJMi1SRlpSdHc3NnFVUDczQ09vcU14aUQzd3Zmc2Qtc1FiRlJodG5IeHBZMmZLQ0xzbGxFblMyVzJ0M0JDeml2R1k4YUlyNTNpajd0bUlaWXVkdUlOWTZtUVJlZi1EZ3JHc1VreG1fWUdUVUlnTGtBNGJWQnJMOVB2Y29JSzhic3dtTnBqQl9SRFFENUF1b0ZVb2tqR29jeWFuNk5kR2x4OWdsSEoxYlROdmNZWm9qaDV0VXBjMEtTdGREc21TaWgyS3JvdTdTRGFVUTJuWdIB5gFBVV95cUxPMUJtZVNFc0kyZVk3Q0luMF91c29lelFWVG81THUyQnl4WXo4ZFFjQnk5NU1NejNWaE10eE9RbHREVVNIdVBMY0tsQ240S3VLdGpHVGtQQzhGVWU0ZENPX1gwYi1wODY3MWlva256TFZvYm9abjFXak51WWljN3BGd3NRdXpuQnV6d3BpQUVXQ1VOY2hvbjA2YWE0cWR0M2NpNThndTRBalR2ZDFZS2FoZnN5a2xuZHVGQ2JmcVhhbTFLM0p3VXRFME55TFA2LXU5WkZpeUtHSmd2THJWOUlwaWtyRUFfZw?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-09-18T19:27:31+00:00",
+      "score": 63.7,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnlaU0N0dnMyNnBwcjRDVG9HQVBjb2ItbzlGaTJzVEVHb2dRM2FWbExvOVVWRmdoUEJnNFV3RWlNQlBvcEc3Vjg5ZHp1RGtSS3ZPQmQxbmt5b0IzY2RkS3Iwa1JJU1Y3cnhXa1dCXzhYYmd4Z3Bwb3p5Ym5pcWN5MnNGVjRxMGd6aGxVQjk3c0VOWTl4bXJJYlluZkQ2WFdsdUtIVHc5QlFUQkcyRG5EWUwtRzhCcW5KRWFxdm9sS1UwWnVVUGtTQzlPV29WQQ?oc=5",
       "source": "The Guardian",
       "published_at": "2026-09-18T11:00:00+00:00",
-      "score": 66.46,
+      "score": 63.07,
       "corroborating_sources": [
         "The Guardian"
       ],
@@ -141,14 +231,14 @@
       }
     },
     {
-      "id": "d383e8e12b28f344",
-      "title": "It’s the End of the World as Chat Pile Knows It - Mother Jones",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzR2TjkwekxRUDdrVXB5LWtoY0NnTWtDWWp5NURfTHlsQnBPMGtnZ084dDhFX0FlYkRRQ1NMTHBpNkg5cmsyazBJblZGYkxxZWlvc0luc3drVDNWb0taREx5bkdYQ0VHcnZDdWpxOGNTb25WN2NpRDVic3V0RnQ4aVRlMDhoaWlabjBaWHlBR3I4dDdpUTdtWmxxU2VUaEp6MzBtNg?oc=5",
-      "source": "Mother Jones",
-      "published_at": "2026-09-18T17:35:01+00:00",
-      "score": 65.68,
+      "id": "2166e89855624c79",
+      "title": "Lula foi alvo de 1 em cada 4 conteúdos com IA publicados na pré-campanha, diz levantamento - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMElHSVpQRm9vMXhWY3ZJMlpVUnZNV3pvVW1YWXRxNlVmLUtBYVB2UWdpQVZKcGNlV3N5OTRJdGxDMlJZM25xUmRNZUdTdEszVGoyTEd0a0ZwRHZ3WkwwRXJoc1dxMDdyUkNmQ1ByeU5uRE5WdUdKdXRpOFNmcGw4aDljNDVDWkNNUmRsS3Y2YnhFQUY5N1RiRWhkNXNKMVMwb1FHdmd4RzlsNkFRZ0hJamppLUIzTnZjVGZHM2hQcEo5UjBTQ3ZSUlpsRFV3cUxNYnFwQ2N3?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-18T16:00:00+00:00",
+      "score": 62.92,
       "corroborating_sources": [
-        "Mother Jones"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -161,9 +251,24 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMV9JTndybVhRNHVRMTVyaXZoVnI4VUZtNG1vSG95TE1vZGM4aE9EZVBNbWthZ0lvMEg0N1RfMDdVWlhSUEU0X2JGazl2S2lrQVBTYVZjSUpBTjBtd0RtNW50a1lWaE00dGpNNllnRVRXMkczTklPRmpfZ3hkNXdxQjVBMC1xakJUSEpxNFVoOVFrWjRXWF9kWmU4RkgtbmlYQ3k0TUpES3NXNHNDc1FhdXJMcmNVZW9KbFpBUFhqQ3dPVnAxY3plcWdaZVA2aXh5emU4?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T15:00:00+00:00",
-      "score": 65.68,
+      "score": 61.89,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d383e8e12b28f344",
+      "title": "It’s the End of the World as Chat Pile Knows It - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzR2TjkwekxRUDdrVXB5LWtoY0NnTWtDWWp5NURfTHlsQnBPMGtnZ084dDhFX0FlYkRRQ1NMTHBpNkg5cmsyazBJblZGYkxxZWlvc0luc3drVDNWb0taREx5bkdYQ0VHcnZDdWpxOGNTb25WN2NpRDVic3V0RnQ4aVRlMDhoaWlabjBaWHlBR3I4dDdpUTdtWmxxU2VUaEp6MzBtNg?oc=5",
+      "source": "Mother Jones",
+      "published_at": "2026-09-18T17:41:34+00:00",
+      "score": 61.72,
+      "corroborating_sources": [
+        "Mother Jones"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaU9HUUZQMnZsam9Pb0RqN1BOejRFYUstSnZoaWtremU3R1VJeU8wT0FkaTJOY192QWVnYmQwVDdncERjdUFqYlc3ajVSRmxlTFJMajlMNlRCaDd3N3RVcGh2U01ZZkt3YnNKVzZubmN6cTF6WFRxa0ZGQ0JFU2doRng4VDkyNGxCbWRiZU5jY1ZLd3MxY0h6eS11VHdONTQ4aS14OVE1SUNzZw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-18T14:47:25+00:00",
-      "score": 65.45,
+      "score": 61.68,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -191,39 +296,9 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTDhOaVJVNndPeF90Q0xPQjZTbXBRVW1Ma3BROFY1Z01LRXFIR3VVcC1pdlpVdUdLRWVTeXNVY0dubkpBT1drYVNKdHQ2d1J1dVVycG1HVUNVY19Ma2tIR2ZoMG9GdmEyZnExZzZtekozek5CNldXZ3NKdkNvbEFxNFQ3Zmt2VEdxdGt6VFNZZURoM2pyWVQyVXNwRVdQYUwyaWJFY2ZaeXZNU2VSZjlWdTd3?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-18T14:03:08+00:00",
-      "score": 64.64,
+      "score": 60.95,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5a844f1be5e8dc24",
-      "title": "Uruguay y los BRICS: un paso del Gobierno en el sentido correcto - Caras y Caretas",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclNTQXV5UVhTZ1pic0JyTlFuckU5dENLZ3pHM3dlSkRrWUppbVZodENYb2p0Q0dRcjVnNDVhTHVRSzdkcDZjN1lPOXliSXRhM1ZWaTM0cjJ1eGM0NklnLXVkQ3lnMV9GckZXeWRjU284OXcwX0VmYnJFUlVMU1RtV3FnNEVKNnJsUUl4UFY1OUNjWVpVTUVNLVhFT0hkNGROdkl1QTB5eHd0VWFiVVHSAbMBQVVfeXFMTjNKVU5SS29PNmRkOEd4dTdmNk1xLU9qVGlmc0ZFRFAyRUVIX0JfZHBYa2UydUx1bVVYYmxiMUFCYzlqbFRrcmhoUk1RTHdxckxTTHZhazdnNVZrdEkwR0JlS1Y3SlY0M1NvaEhueFhtVVhpa0kzYS1PdktzX2h2QVJCa0owWFU1MFBCck5PLUJlaGpicGJ3am5DTVlIcjNrZ0dpZk5wN0dXNWFSdktfZkRlX1U?oc=5",
-      "source": "Caras y Caretas",
-      "published_at": "2026-09-18T16:08:56+00:00",
-      "score": 63.99,
-      "corroborating_sources": [
-        "Caras y Caretas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "40549d5f77abc964",
-      "title": "Can a New Map Change the World? - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWRRQzQxY29JaHNvdzk4TjZERnVvUmR1ak1rYmxua1NGenFuMXdHLTFac0ZwcU5GZmlPZ3ZvSEFUeURIZDh2NGh5TzdRck80MzJGbHl1N3ZVRUstbmYycFhxRWE2SGhXaWdGamdZcGRLVFpJWk85VTNMTXdWNFNJYnpEc0d4LUpH?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-09-18T13:01:14+00:00",
-      "score": 60.53,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzJZSWU3dUVaNVQxMWVmSUVTbVdCRXhSUktIX3ZyNHBkNjdaYy1xT1daS0s2bE5iYkxIVVBuTUtGWWVISUxwZWVZdXVnRU9nZ09jNll1VEZ2UDQ2OElWNjVWV0U5ZGliYzhGTGxZZEZ0ajVSRkhnYm44WjRyZFJjYU5sU05XYnlLd0JfNjNfbmV3V2VIYU9VSXhEWjNPYWxPODZXcktaQUhuZw?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-18T00:42:00+00:00",
-      "score": 60.5,
+      "score": 57.96,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -251,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmd0ajdsVlNWTUh6YWJva3pQRTJ1QTFBZGtKc1VBd0pGS2pHT05INXZMZjJuYlF2RkpqZVF1RlRZMDFXTWpFaFlmRXdhSDhRNHVxX2MzZHFKRXJzbmRkSVZlVVpVTm1fUW9FWWo0RHR0UkhURGNGOGx2SUMyUkVDMXBZN2tBVWlHWDBmZEFGYWU4Y3JJUG9JZi1vRUo4LVdhcFZJMXBB?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-18T10:00:00+00:00",
-      "score": 60.47,
+      "score": 57.17,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -266,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVTFoNGk3U3JRSENBcjFyNGttN3dZWndTQmIxREJTZFNRSHBrcFFTNVd1bElyc2RIQURkemI4cFpxMXd2bmxXOUlfZ2l2Z0dKOU01U0hoODdQSWZ4ZmgtSGJWNDQ2ZUdhRndWY0hEQ1dlZUg2UmRXRDBlellwR3VldzdIUVJhWF95b3phX3dheTJBR0NyaDZJMGlwLWlKSFRDSEY0a1VybkhsLWlGa1BYNWtaaEtzNF9mVElMTmx2dzFOODJSanBWUXBtTVhRLV9sb3c?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T10:00:00+00:00",
-      "score": 60.47,
+      "score": 57.17,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -276,14 +351,44 @@
       }
     },
     {
-      "id": "c04dc2dd4b563544",
-      "title": "Real Time Big Data divulga pesquisa para governador e senadores no Ceará - gazetadopovo.com.br",
+      "id": "c6d47510756c3ace",
+      "title": "Real Time Big Data divulga pesquisa para governador e senadores no Ceará - Gazeta do Povo",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYk9BNjBQMVZzN1oxVFlZbm1XTGQzb2ZXa1piYVFwVHpiM0hqSGh6VnE0OVh5YXRjemIxYXRKOFdHQlkwVERMdjdzWnhTNUNKMHpOM1dvNC0xUUtQcGtSZHREakhTV2xCSmlNTldSR3NTRjR3cE43MnRHSVFxZFUwM0pqVEtMdkJJdl9ibTh4S2ZoYkZtTmFXMW5fMnB4cWVuS3ZKZDZIbjRhZGJJemdpRGJRMjRkeHlYV1NhUWpOWDdEMGNXTldWTw?oc=5",
-      "source": "gazetadopovo.com.br",
+      "source": "Gazeta do Povo",
       "published_at": "2026-09-18T10:00:00+00:00",
-      "score": 60.47,
+      "score": 57.17,
       "corroborating_sources": [
-        "gazetadopovo.com.br"
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0f0a10d69b718919",
+      "title": "El 11S: los atentados que cambiaron el orden global - El Orden Mundial",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXJTOVYtd3hOUVM2VlBOQ09ZdmdYMVVRUzdDQXlUbkdiS0NtTkVaaUdQMnNHSllzaV9xNjFpbm1vaUI1WFBsQkhFTVZyWU1HZC1lUEhweUxCdG5BVGpjd3FmYUpBS25uclhRWU5KdGQ5VTd3RFJrYUJKUElJTXBWWnd3NEhiNmlNVFQyTGZseVpGd0NkdFBuWG9aZlRHanItcDdkV2JUMGw2YllUYnRZ?oc=5",
+      "source": "El Orden Mundial",
+      "published_at": "2026-09-18T13:11:48+00:00",
+      "score": 57.12,
+      "corroborating_sources": [
+        "El Orden Mundial"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "40549d5f77abc964",
+      "title": "Can a New Map Change the World? - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWRRQzQxY29JaHNvdzk4TjZERnVvUmR1ak1rYmxua1NGenFuMXdHLTFac0ZwcU5GZmlPZ3ZvSEFUeURIZDh2NGh5TzdRck80MzJGbHl1N3ZVRUstbmYycFhxRWE2SGhXaWdGamdZcGRLVFpJWk85VTNMTXdWNFNJYnpEc0d4LUpH?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-09-18T13:01:14+00:00",
+      "score": 56.95,
+      "corroborating_sources": [
+        "worldpoliticsreview.com"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hdHhwdWpTUmVLMW9WT3ExeHBQV0hGdFNlMThmeDJaWVBwUW80WTlsdjhOVS1HdThXYWQ4bG5jX1NLSm5xbGRFYV9rYndkc3lZYkFTRDZjNmpJWGFSTTIwVDVfTUMwNHlidGZIYXAyMEdhektDelM4ZGFBVUM?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-18T09:02:20+00:00",
-      "score": 59.55,
+      "score": 56.34,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -311,9 +416,24 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3c1dmI5VzV0bWJveS0xSExfUlBRSjl2c1dJVHFid3pUcHFFcnNVRXVRd2hZeV9Ma1VzekJjcmxqcmxnOUhPS0pDdjdxbzhIckZsN1VaZHVCYjlGcXAwVHdTcFJCY3FCME9vWHVzdTJyMWZNQmVfcXZxeGkteU1hZDNLUjEwWURNeWVEV1h6ZVg?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-18T12:00:00+00:00",
-      "score": 59.47,
+      "score": 55.98,
       "corroborating_sources": [
         "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5a844f1be5e8dc24",
+      "title": "Uruguay y los BRICS: un paso del Gobierno en el sentido correcto - Caras y Caretas",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclNTQXV5UVhTZ1pic0JyTlFuckU5dENLZ3pHM3dlSkRrWUppbVZodENYb2p0Q0dRcjVnNDVhTHVRSzdkcDZjN1lPOXliSXRhM1ZWaTM0cjJ1eGM0NklnLXVkQ3lnMV9GckZXeWRjU284OXcwX0VmYnJFUlVMU1RtV3FnNEVKNnJsUUl4UFY1OUNjWVpVTUVNLVhFT0hkNGROdkl1QTB5eHd0VWFiVVHSAbMBQVVfeXFMTjNKVU5SS29PNmRkOEd4dTdmNk1xLU9qVGlmc0ZFRFAyRUVIX0JfZHBYa2UydUx1bVVYYmxiMUFCYzlqbFRrcmhoUk1RTHdxckxTTHZhazdnNVZrdEkwR0JlS1Y3SlY0M1NvaEhueFhtVVhpa0kzYS1PdktzX2h2QVJCa0owWFU1MFBCck5PLUJlaGpicGJ3am5DTVlIcjNrZ0dpZk5wN0dXNWFSdktfZkRlX1U?oc=5",
+      "source": "Caras y Caretas",
+      "published_at": "2026-09-18T11:13:00+00:00",
+      "score": 55.26,
+      "corroborating_sources": [
+        "Caras y Caretas"
       ],
       "signals": {
         "source_count": 1,
@@ -326,129 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1pkQ2Y0eV9nMlBCWExTVlJJRUYwNTlPbkZQZ05iSHhzV3RXYWhzai1FQTBYNzdmbWlOVFRrR0JpNGVJUWxIRTdxVjBTajEtd2luM2pmanBjQU14bjZzN25YNVFXU09rblVuMlhiWHN5bEgzbnBTSktYSi1xaTIwc194QUVhX2J6elVmdE9LLUNKeXoxaG5KbEU4YnZSVzRIV1JLUmRjT19XaFo4SHNaUGNUSnBETlNJT2JFd2Q4UmFZZUVPQ2tfRzc4ZTZ0R3JneG5CemdSaV9kclYzYXNWZ1AyWdIB6AFBVV95cUxPTmFJdUhXbDllVGFtTk0zZ3RuVG9vWGNTNDhYcjcwUURsRDBEV3d1MEFodnZQVFMzem9SUkFGSklkbWoxWHh3SWFmU29nMGlXZkkxZWxIWnZjWjJLZW9DY0s1STJnbWlTZ3hFSWZQXzhRM3VoMkpCS2RSNnphclJoTGZNUFRCcEZNaXhKQ18yMGlMNjRJRUZHZGJJWTFTMVN1VDdQeldVNHE5NVBXOXc5RnFEV3NjcUNQcnJJa2hsODU4cmNqTVJOWTU3M0JreE9CMDNDcEpzSVY3aFl5c1FVSXRTYVdBc2hl?oc=5",
       "source": "Teleprensa",
       "published_at": "2026-09-18T10:57:29+00:00",
-      "score": 58.41,
+      "score": 55.03,
       "corroborating_sources": [
         "Teleprensa"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "da939767fcac13c6",
-      "title": "“Los hispanos se sienten traicionados”: republicana Salazar critica a Trump por política migratoria | El Colombiano - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWVV0alNmMnRqM0V6X01rRkRCYi1hUndsbDkwMk01MEFyV2JNOVN2M21meEpKODlzdW5BcGlNZklyLWRCQ3J5NUJlUzFLcHVhLXhxSWR3b0dKQTlxOUxmZXZyVC00TTFkdk1mdlVPWnJNUGJGNVRocDVFYlhoV0hDVEhaaHMtUWtTZjhuMnBpTERHVUtwNHJ4RWM4X3BrNEk4d1JEQS1fNGUzNTQtVWJCUXFZWXFQbnZSYTlIUkxJT0RNUExPaUprN2dhZ2NuZjZ4UTNSRHNB0gHbAUFVX3lxTE9rT3U4ak5PNk5QY2FxM2lTYnNWWWZZOGhoZ2VvQnlaQzgyQmVCVFozd21XOWhjZGxNTDBBLWJpNmZhaVJBTVFiU1RON1NVS3BHOEpwcEtuWE95M3J5VnJabzZUalpQMXYyY1RSbGlQUDM5cVhLOVFUQV9NbVA1MUs1ejB3c1BiNzZEQ3h1Ym1kRzE5V0xfdm80X3NvRWN5aVU5MjZSMlFFVW5rOUdycFVwMDNTZ1liMFBuZFhuTmhVMTY2WDQ3ckIyWWp1MXAwbmJYN2p3WElVMkhxdw?oc=5",
-      "source": "El Colombiano",
-      "published_at": "2026-09-17T22:52:05+00:00",
-      "score": 56.16,
-      "corroborating_sources": [
-        "El Colombiano"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0954239a5046cfac",
-      "title": "Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXN2MmxBaXBWWjhqU2pnSHdXdTgxVmI2SUhSYm5PeWM4T2ZCZ25kaHBLalJUSWc4am1Genh0TlpJVG5JVmdWVEhLSGJBZHQ4QXl3M2VMRFN6amMzaXFHUnVBLXBJTXo2MlpXUFEzaXdWTFhYNXJHbkdhaHQ2X0JuV01EelNBSzNOOFItZGlvNHlCRXZzYUd0NFprWGVaT3o1OUdHWkFGUkEyNmNjOFI4cDJnWUtjQmJIZ0E4LWVPYTFXMlFzYW5JUy1lQ24xOERLbUcyTzI2RzdkS1VralFj?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-09-17T21:16:00+00:00",
-      "score": 55.05,
-      "corroborating_sources": [
-        "The Guardian"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8310b5d3482afed6",
-      "title": "Datafolha: Rafael Fonteles (PT) lidera disputa pelo Governo do Piauí - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWZzbF8wTllEZ1l3U3YzM3FQREZRY18yQS0tMjBPdllVWjlfNEVkLWI5UTdjVmM1eFoyY2s4VVF1NnJQRmpUN3VqQW51emM0d0pPcVlkSS1ZWFQ4Z1hlT2NfM1NJWkQ0Wk9UbmYtRTlfV3ZnU3loQkgxSUZCUjhIS2QwMWdlTVNsb3ZmNlB6OVhRRGRWNFV0VUFkQTJUY2QwQ0hzNTRhMm5rLThVYXg0RGZGaG96dw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-17T16:03:00+00:00",
-      "score": 54.73,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "375b1e1040a907ff",
-      "title": "Brics, EUA, Mercosul: as propostas de Lula e Flávio Bolsonaro para política externa - Terra",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMU9tNENBR2gwd0dzNEhSUE9EZ2xPZXhmSko1dW9VWWlYR1UxSHdZYVJPUVpRT1pmZlk3cW8waWd6d050d1JEY1RHS0g1R3RKX2dIa3BlQUFrbGFxUUhOSmthRkFJQ0lnQWk5aG1zWks5TGhmbHRQUzl2dm91ZjlUcVp2bUowMmdCem5UN015MWxVSFdtaGFwRWJCU0JXYkVqWG5OaTVFQUE4R254WjcxOVJqcHJYZ1lrczdubnAySHRaVXVrWUQ3ckJZd0ZPRWFmRDEwdnNRaC1XT2NBNHBSaWVuT19meTRIMENYSW1CX0Nmdw?oc=5",
-      "source": "Terra",
-      "published_at": "2026-09-17T20:10:00+00:00",
-      "score": 54.31,
-      "corroborating_sources": [
-        "Terra"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5a63df825b21e22e",
-      "title": "Colômbia abandona coligação internacional para defesa dos direitos LGBT - RTP",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9KTFRkdDhncGFiUWxLY2FxTVEtcFQ4QTViMkhCOXR3QkJ3cUkxckJSZ2Etd0djM3VwWmhzSUhKV1NzNU9YZHA2ejJIYmJaZUlLeW9xNzFMcEFaMkdlM1BSRVJvQ0toeEZKdkdmTUdwMnhVQ0NCM0lycG1OaE1hc0FHeC0tMXhVenZkN2hvUlVlbWR5dVNzTVA1YzVwbGxmUkkwRl9Mclhjbi1oVHBBN3ZtWnA?oc=5",
-      "source": "RTP",
-      "published_at": "2026-09-18T06:05:59+00:00",
-      "score": 53.88,
-      "corroborating_sources": [
-        "RTP"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3666fecdbd483f7d",
-      "title": "Flávio Bolsonaro lidera em 5 das 10 UFs com menor pobreza extrema - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0ppMVgxUF95N1p6cG5PMkhTSlIzZ204VVl0X2ltU1haaXJJVERjbWV3UGJMLTNpWXV6UUNqeDJnUk1nQlVmQ2d2Ukh4MlZpR2RQLUZEMm91SXhTR2FaNkdTTGlaYWpjak9aSkhma0phUllleGliMzViRUNSQnloQTktblk0Y2NreWxoZzdrWXp4VWpJQlR5SVNPWE5oZ3UxSkRGYkF4OA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-18T02:02:58+00:00",
-      "score": 53.54,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b380e1440f7f199e",
-      "title": "Lula refuta “dobradinha” com Aécio e defende voto casado na esquerda - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjlDaTdvcENfUkNjejhwaHU0S2xYVjY3dUpWZ2RzbFBFUjA4b2RVWXBYVUlxSVJIMndBR093cjhqRUhyMlFobDdUc1J3V0UxSFBMMXpyUmUyeDVvVlA4OGFqNTdFYUdmNVgxdVhqNnBYQi1sVmhFMGd5RWJUYXRNNlJYSEtvUURZR1kzSUNBSXI2ZjdoS2dJNnpzbUx2TmVHRFZoMnVOMllvLURXLWxMU00zV2dqUQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-18T01:07:14+00:00",
-      "score": 52.82,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "12c161414aaecb2a",
-      "title": "Former Institute of Peace workers warn Trump may push to engrave name on building - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS3FTeHAxRFc0dV9uRERJSHNjS2xxVTk4UXJpS0NqaEJyT0FDeHJFeWpUeHAxOVZuc0lFZi1RZmZjWnd6bmo4SW1nOFo0R1ltbXZ2YTdOWklfaWtsbDZYYmJEdTBSMDVZYVEtUDJycDQyazMzMUJLUTlVTnlkc1pGQlo0U096V2RWZ013aDBqaFJlS1dmazV6aUEtOEYzdlNVT0stZFBxZ21ST0Q0NXpKWGc4bW0ycDNwRVllT2FFU0Y2SzlSQUJZSHhuTW42Qk9vYTBQa0dGOA?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-18T04:11:54+00:00",
-      "score": 52.26,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
