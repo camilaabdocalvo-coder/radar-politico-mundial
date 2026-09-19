@@ -1,19 +1,109 @@
 {
-  "generated_at": "2026-09-19T18:37:49.692479+00:00",
-  "next_update_expected_at": "2026-09-19T22:37:49.692479+00:00",
+  "generated_at": "2026-09-19T22:20:28.578962+00:00",
+  "next_update_expected_at": "2026-09-20T02:20:28.578962+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "0647bd2fa6b2c07c",
-      "title": "Agro “deveria não só votar, mas se ajoelhar pra mim” diz Lula - Poder360",
+      "id": "8596063ec8a368c8",
+      "title": "A ideia de Flávio é ganhar eleição para tirar o pai da cadeia; quero ganhar para mantê-lo, diz Lula - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcy1WdzR6Y3NWRGoyRkJBZF8tRndPYXpzMGw3cEREd1FhdUU4UjladVI5eXJKVmtiMTJ5dHJqSmNmOENxcG1qbGFZLTVwdEg2SlctQ1lHbUVWb1llal9MQV9IcVJJVjM4UHVvQjFEVm5icDFndGo5UFFvaDZqWWF4Wjh1YmtaQjRGck1BRlRQbDZGWlZVZkkwZ05kd2YtUkJEbWwtb2t4djFPN1FfUDBTY3RVUnVhaU1nS3E5S2JlckhBQk1jUmdmSmtFaHFRNEXSAdQBQVVfeXFMTTV2YWJXYm9ZMGFvVGdDd1RxeFI0YzZjOUFFdm54bkVwNFFuUmNYd3ZxUlBYVTQ3VXk1ckxCQ2g3T2FjVHB6aFBPcmlXQWVSVjkwNW9QTFlRRDAzbHlDZGNjQl9vMzVKTWNKMU9CUUZWR3ZQSF9tM3o0eUp5dGtoZGV6bzB4T0w4S2VxM1pnNnB4N3VkYWE2d3JaR0dfS29sT1JnUUp1bTNpaXRidDhsWmNWMDNjd2NwZF9kc0pEM201VmNKYk9DQjJmeTF5SDFYN2RVNm0?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-19T17:58:00+00:00",
+      "score": 73.33,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4c3fa191274d5a62",
+      "title": "Agro “deveria não só votar, mas se ajoelhar pra mim”, diz Lula - Poder360",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZEE1RzhubWNBdURUR2pQWGpEazhDVktRNkpUZDZEanVsVnVnYnlQUG44enRKNVNVTVh1dy1ZNnhTUlBEbzBUaW5tWGZsZHBLNFA5bE5mb0djLUFueVpuZVNLN0VIMEhJTWRuNkN1dWlLNlNkSC04UFVpcmV4cjVpMUJrNkJTMDBIV1hWdHdiUkJBVThQNzNTcUwyc2hvSk1EVnE4UDE4VHRoaW8?oc=5",
       "source": "Poder360",
-      "published_at": "2026-09-19T18:22:30+00:00",
-      "score": 70.16,
+      "published_at": "2026-09-19T21:39:17+00:00",
+      "score": 69.63,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dd5f94b50d7465b1",
+      "title": "Colombia definirá 4 prioridades de política exterior en la Asamblea General de la ONU: énfasis en alianzas, comercio e inversión - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMmtDWV8yMVh3aTg0NE9weEtsbVZUVG5SbXpzZXdVbzY5TFdQTl81VUVaT1F4MWkxbndKbU51QV9WZFdTazhPWXU3ckJCR2htdmNaN2pCZU9Lb2t2VENrVkVLenhxZXkwU3Z3WlBvWHBNRkh3NG9fNmhqTXI4amRuZHV1OW1YQWJUdE9OakNab2VmM2xwRzVyVUlJRUo3VDYtRGQ2Q2tTcUFqSXQ0NW9nT25TSjd6NWpkMDRPZGZRUmhZS2x5S3hHSGFwNFJUeXFIWUZielNHMzctM2JqNFV4c2hrT0RmcGx6Nm1DMmpYSGU3SEVnQzFUR2R4WFg5bGgx0gGbAkFVX3lxTFBka2Jrd3k4WFhYNHB6M19xcF83aEdCSDczZzJzVklmQlhtNWh4WVYxNHZnQmNlem9DbjJYY0RZWjdzbUhWUlFaRzlvZldwNFRDZGVreEhhZWF0LXBoQ2RlQ0V2V1pYQkdRMmJOUkY0YTl3enBsTTRtSkVzR2RPbFJxLTQ2dUJvckRWMndOcDEzeWhWTjQxTEJKWjZLR2txWHVVakZVblBCcXgzeV9YbWVPNHJoczR5WUlSc1dlU2NMOEF1WENtY2VBTEIyZTNCM3ptekxQQzVITS1SN2FlNVl4cmlmdmtBMWpFcnlldHR2OEh2cG5rM3FvOEREMTJ2ZGQyQmlYWGlNOWlSN1BMNFNqbGZVS3lnRjZRS2M?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-09-19T17:12:59+00:00",
+      "score": 69.51,
+      "corroborating_sources": [
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "33738d18c40c08c3",
+      "title": "Trump anuncia “czar da IA” e promete não frear setor - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWotcTJFMFRPdTY2YVRPTlFwbW9kVGdiRmhUQ2lIb3pnSjM5ZEtFNDJxRjFOZnB1YTAtTUFHQXdHTWgyejhuYWdPUWNjTXk0OFBVSGswd01WZVhsS29wU0o4ai0tTkpiRlRXbzR4ZVJ6SDA5aTdaODJfSnEwRHhaT0VVYXJnTEdhYnl0dFdxX1FXN182cHZ6SnNGYTQwMWd1?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-19T20:58:32+00:00",
+      "score": 68.8,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f8bd8411710a91cc",
+      "title": "Malvinas como salir de las falsas dicotomías y construir una arquitectura superior - El Litoral | Novedades de Corrientes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcEVFNkoyc3JhZnlaWHU3ZHpyVldiREZrbmQ5NmpWTERXWUdFMGxlTWlhdTMydWlPbTVoRGtfaTRaTHllLVNNTm1nRFdQazBiaDFVTFJSSEFpQkhjamhxaDVJVGwyWmNqNWlIVlM2M1hKQ1dvZXlOc1ZpZUx5VDBMcHRNc1BNSFNzSGpacjZhUUNheWhUUTNhM3k3M1QwcHIxMTZ5N2tiaVNkUFBYYkFrZmI4eHRlMmg2VEJDcUY2aTNxMFlSS2djVnNaZ2Z6dlJ3Ymc?oc=5",
+      "source": "El Litoral | Novedades de Corrientes",
+      "published_at": "2026-09-19T22:01:00+00:00",
+      "score": 67.07,
+      "corroborating_sources": [
+        "El Litoral | Novedades de Corrientes"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "64cbed04ce2ce099",
+      "title": "Avellaneda: Kicillof reivindicó la doctrina de Perón y apuntó contra el Gobierno - andigital.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHhNTkIybmRsNHlJNDRLUWtYbXN1VW1IQkd0MFFtTXNlZ0h2SEpRckRFd2ZpblpPS05SYlREdWFzRjh6UXU4TUtJZjB5VjBjQ1RvSWpaVGtqX0ZaRUFIWDhoM0RWcVZvSXdaUlY2ckQ1bWlnemxUZUlXZ1M4bWRvZkNORko1ZlRFZkNfQUc0Ukd1M0xGLTY2d2daeGZPQk9ELTlnOHlicExaVTVHMUdtUmRTN3dtYlM1?oc=5",
+      "source": "andigital.com.ar",
+      "published_at": "2026-09-19T20:22:35+00:00",
+      "score": 65.09,
+      "corroborating_sources": [
+        "andigital.com.ar"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "359896c4610478c8",
+      "title": "Sin mexicanos, Los Ángeles no se entiende - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzh6UThPVV9ybEVXRW1nWFdtUU1LSC1oeFBtWnJ3b253WHFJdnNpeDN1MVh6N0YySW1lZzdONUJqcnRtdDBkQ1FwU29UMS0yRktVSnFxOE95eFcxY1hnR0pMMG9CaG1SOFhtLXlGSjlEMGR0dGFHTmFHRWhJV1ZmMUhSR0dLaW4xaC1V0gGmAUFVX3lxTE14TURNczF1bjkyTjlPQVhpZEFiZDB0RS1sdkdvaU9CVDN0ZmhoSmlMNk1NY3VZdVJaRlM3UVg5WVVkVm9zNGx4ZERjbmxxcFZnN0JpQW5FbUNkd3NjX3VWZ3hDcEVPR0tzU3ZacmZDUGhaeTUzbk5sUW9wZFZyaTd4N3lhTXUyZ0l3aVBwYVV6emtSSU1OeXJoc2I0TTVud0EwbTRWNVE?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-09-19T20:19:57+00:00",
+      "score": 65.03,
+      "corroborating_sources": [
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEpVTlAzSHZYNXlaWXlMcGJXMXVENHA2SU1FNVBVS0kxdU5WOWhMWjc5MHBNamVmckR4N2QwcFI2RHNZalFMZ1dzRjYzazNLVVBXamZQbTY2WXpub2IyQ3pYZGdCOFR3MUdJNlFjOTg2bHA3dEc5NlpjTEJrbm5QUHJmX0c1ZHozTl9QRXRVNnJZQTJiZzZRbV9GeWs5eEpLTEE?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-19T09:18:02+00:00",
-      "score": 68.2,
+      "score": 64.8,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -36,14 +126,14 @@
       }
     },
     {
-      "id": "552b2585a0137487",
-      "title": "Abin alerta governo e TSE sobre nível 'crítico' de escalada de pressão dos EUA contra o Brasil nas eleições - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeDZvZGtXLWhYQTl4dkE4RDEtQVhWMmNJakh3MGNzVENRekZ6S0ItbzE2RnFhalJISjZMSXBhcDdPOF9CcUttaU1FSVJXTUxKeTdqbGJxSWU4MjNoWnNNX2N6LS0wZTREUGYzNDFBbDhqZUktZnpsVFV5V1JJcDhoRHpNUjNpakhFeW1GZ1RYOVdCc3ctbWxhaTRoSkdELTFJRHBxTlZxQmFENlhJdVRMMkJ1eDNjR0pwbWNWQXlWUEJGZE5MWnR0OUE4NE1RQW1UeGg0WndoZGdSZ3h0STlBQ2NmMjF4dU5xNEkxbkNyMnRROHc1aWlGTmFJMEZGNmdt?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-19T09:00:00+00:00",
-      "score": 67.91,
+      "id": "a3e16056a066c74d",
+      "title": "Dono de ONG bancada pelo governo mobiliza campanha paralela de Lula com aval de Janja - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmFWUTNqdC1QRjNRUmlxQ0VYTkszdFlROVlWWTVtZGJNdFhzVFNyeDFPRXlLTGk4RVNIM21xem0tWTQ1UnJwZl9pTGRiSnU3UWdJRmloN0t3N2Q0djBncjUtRGlCSDZqYkVuUVpLSi05UV9GNGJEbl9hdkcwZ003R1A5OHdPSVRyTnBSdURHelhCZ0pGLU9xZld5aHc0UGJxMWQ0SlVuRlNQVjc0M0pCM0xmaVhtYXlMZjBGSW8wRdIBxAFBVV95cUxPb2s2eDNXR1JjRlo5b0owa3pwV2JhZUk5V05renJWSzJDbVc5Mm5WNjFnUnZocU5jV3RsSDVvZkRmM25XRzVsQzhwaHp5UE1fMHgwYjhyaDM2dHdMNHpDVXczbGNsUmtyd2tsd0ZlMkxDWXh2TWl2QldwMFVETFVISkxteDE2bDJHVU1IU2pJb253eF9veUhKX3BvTDlHdkVMaFdNbE03bTNvX1c0Y28xd1dQTFY2WVRxQmdzOTRRNl9GalVF?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-19T08:46:32+00:00",
+      "score": 64.35,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGxWemRnRldXOHpuZnpSN2taMmg3UWxJaEdYVzdxWDRXSW84b091SG5iNVhsbm9rX013RElhSmJtNTh1X3JMRVpIaXBVUzhiYTRmUmtmSUZuVXN6WWVtczk5M2NPQ01oN1JOaUdPWmFzLWRFREJiNnNudnlFei1PaFUwWXBaRGpiRDlpYllVdmZ4eHlpVmdjOGpQWjBhQUEyZml1VQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-19T15:23:42+00:00",
-      "score": 66.61,
+      "score": 62.58,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -71,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2xPRlp4NjQ5aUlha1R4VzdDXzBSWk1RZ2MzSW93TnVIX2p3a25OZDNqWEIzS1VGTmQ1YnhJSmRJNHg3ZmN6a3ZCSTZaT09LS3RBdGYwb200cFQ5VzFFMjUyREZJV3NjeUNuakw3d0FJM0llY0x6Z1ZlOC1JT0poRDMxVWJBcFRIcEduSzFDckJZa1BaQzN2bU9oczNFVE0yUDVv?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-09-19T16:24:48+00:00",
-      "score": 64.79,
+      "score": 60.64,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -86,9 +176,24 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblJod1U4cUxMcndPdUlucUd5bDRZRjl5YWxUVjRUSERUdDNNWUl0Rl9RU08yZk15ejVGQnEwU0Z3cXJrcHNrU0dPTGJacGwxWmQtSWdoY3hBbVRROTVMVVRLanZVZy1CX3EzX0RHbjRPNGdSRi1Lc3ctaS1FYjJldk1HeDM4Z3BWOXBBb3VB?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-18T18:36:47+00:00",
-      "score": 61.57,
+      "score": 59.31,
       "corroborating_sources": [
         "worldpoliticsreview.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5c056ddcd25517e5",
+      "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnVZc2h4dUU3NlhhOHlrM1lYQTdfT0RPZEZKeDFfTXdKTENUakx0S2didDlJaXVFaV9IbTZyU1JRV3p4SEJtX2szblpZRXBoQWtFNW0ydXpndHBuMkxPU3JWalJkc1BvME9wdmM1bF9pd1E2cWt5Z3lzY204VWlHd0FTN3FKVktONEVSN1RGV1JTU0s5c0ZFa2tqNll1UnpxZHlUU3NiRVlKbXBNNGI2SEFQaGhiQ3MzNXZuRDRUSDM1bkkwUXN2eEhHSUxJOVlUZnpBSTFJeE1sWHZ3WTdpQXluQjRFOHpz?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-09-18T15:04:56+00:00",
+      "score": 57.36,
+      "corroborating_sources": [
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTZPZ2xGYUhwNEdxSXJta2lEOGMySk9EckFtV0RVZXhOakRPNURfYjRlaGlET2RQUE5IWDQ0cU1RWDNwZzI0X1RBbnZ5WTJpd2wxMXR0TGwzZ1NPR2xiSnc1TmpNX1JWUW0zMC1hRHo1anpiTHhGdzBOUG9NbW1HNFFtZllOU09LUkY3UFZ5VjV5b1JKTGJ6eks4YUtuSmFWejJaaHV5NlFkR3NmMjNyV3dKLW40dm4wRFVqYVlObm9iU0t3ZU90ZW1BcFhMZ2xVSXVIUFZHUFI4c05pWHfSAeMBQVVfeXFMTmU3VVNNd2VCSXQ1R0w2RW1DQ1dwRVBxcGh2N09uUkxsTUtxRWdtSUFNZ1Z3MjlGVnNjdjJNUmpMUHB4SHJndEhqMHJ6UThrWmEzaENXeUZFcjQ4S2tmdzBteWJYeU4tYjR2bG9rVlVUMjlOYjlqRU41ekpZejJMUUZBTDkyUmkxdTRmWGNSYnlQa09EVUdWdTVYb3VKU09Ja2dWLTktT0tvOHdmM2VvVElnNWF5S1RpNHYtTHVhdlFzZFZzOGwyLS1QQnBIanF1NFRxTWlqR1ZxX1ltaVF6VTJPc0k?oc=5",
       "source": "ellitoral.com",
       "published_at": "2026-09-19T12:37:27+00:00",
-      "score": 60.56,
+      "score": 56.83,
       "corroborating_sources": [
         "ellitoral.com"
       ],
@@ -116,24 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZVJMTVp3SGRKQV9hTUJuVFVnZHRmQmNPN3FTbDNzZjRhRnNWSDhpMDdHVzFfcGZKUXd0VVdHdS1zbE83dDBEb0xyU3VlejNpY3p4WHJQcnNDZVU3TmduV3JZbXdYM1FiV0JRNQ?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-09-19T11:38:45+00:00",
-      "score": 59.54,
+      "score": 55.91,
       "corroborating_sources": [
         "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5c056ddcd25517e5",
-      "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnVZc2h4dUU3NlhhOHlrM1lYQTdfT0RPZEZKeDFfTXdKTENUakx0S2didDlJaXVFaV9IbTZyU1JRV3p4SEJtX2szblpZRXBoQWtFNW0ydXpndHBuMkxPU3JWalJkc1BvME9wdmM1bF9pd1E2cWt5Z3lzY204VWlHd0FTN3FKVktONEVSN1RGV1JTU0s5c0ZFa2tqNll1UnpxZHlUU3NiRVlKbXBNNGI2SEFQaGhiQ3MzNXZuRDRUSDM1bkkwUXN2eEhHSUxJOVlUZnpBSTFJeE1sWHZ3WTdpQXluQjRFOHpz?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-09-18T15:04:56+00:00",
-      "score": 59.41,
-      "corroborating_sources": [
-        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXFKMW5OY1VpcVJCVWpacmNxclo4Qy1NNGpTRWdRWWZUNUZYNk1vTnN3YXcyLUJ2X0ZKVTlPSTMxTjhUTFpSTXI2T3RhVzFEN014ZkVERDVkVUlRZTd6bHljUDFuUVQwb1dJbnJXT0JaT3V1czBSOEQxOE9VeUh0ekxmcm9NbXJXYWdhMHE0aVlKM0VBNEJtMUVuR1pxSmZoakJrNDd6cW9WZEgwQkFVRHRTa3dya0l0d0xpMVJBWdIBxAFBVV95cUxPcXVfZ3FkYTYtN3lGdVRJLU5QUlRicHhTbnMzdDNxTzIyWDNNSk81b2p2a183aVVHdkM1UVBEbW4wSUx3cGJ4TGJtdnZCd0pqcEJtNWJLZXJBOEVwYXNtTDZDWm03b0hZQTZzTnZRWXBmdlZsUUZqVFhWdVNRV1I2dWZsY01VYy0wMUdWa1I1dXk4b0V0bWMwQV9LOWxkYVBPcVFJVS1CSGh5elNUSVdELTFLNHFFZkxhUVpHdGNTWFNGSVJ2?oc=5",
       "source": "lt9.com.ar",
       "published_at": "2026-09-19T11:22:55+00:00",
-      "score": 59.27,
+      "score": 55.67,
       "corroborating_sources": [
         "lt9.com.ar"
       ],
@@ -161,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeTl0VUlhVE5rdE5ZRC13OFY2enZ3eW52Tm9jaEJPRFRBZUc5TlJyWm5BVUZLTUlGQ0hVc2tsVmZhVW5GRXBUNmVucERGVmtJMWVLRkpqU1dPYTAyTTRLdFlNR1FQYmc2WTl3dDZDYmRCVXA4LWY2R1FOOGcwMkNmM2lQY05tcDVqa1ZTMTA0Nm5HWnJvMFJmb2dCQVNVUUl3Qm9ZM21LcWpfM0RybEFYNW1qcThkQWJOOFF3N3IydXhqcmtrbFlsTG14UThwT3Z4ZlpEUA?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-09-19T11:00:00+00:00",
-      "score": 58.88,
+      "score": 55.32,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -176,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd01jZjhRWnVUSE00MkUzaXlaRUhDU2ZPcncySzAwajFRTFlOQnYzR1hKbkNiN0gyamxhc2phT29CNlR5bnhWR2hlY253bUUtZFEzRXVuOUFwZGZfVkQzaFlDM2hsR2ZrbnVvN1B3eEtLdm5xeVVhcXVzT3pjNW5jMmNwRXpPRjR1WFpjcTZabTh4ZkFhTmU1elFKVzNrV1NBN0dsdGFkTzNJbmRtV3c?oc=5",
       "source": "Audacy",
       "published_at": "2026-09-19T10:47:00+00:00",
-      "score": 58.66,
+      "score": 55.12,
       "corroborating_sources": [
         "Audacy"
       ],
@@ -191,7 +281,22 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQklwS0ZjZi13M3MtM3RCb01YMncyYXhqRlNuQm5yZ3RXOFF4MkljTlotWU5jSG9vcjN3Q0tXNFd2Z2NyVGp1MWtjZnNMWFJpVGNhUTR3MVFVMWJJY2N4OFhsX21wMklWUm9wWnludzVoMFI5dkFSOTV4dlJkdnhVc3ozSGNiQ1dEVVloeUM0bExHWUVCdTl4N24tbGI4QVZKc3JYR3ZPT3BMRWhEOGg5UW9BMXlOZw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-19T07:00:00+00:00",
-      "score": 58.05,
+      "score": 54.86,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "55fb7ab0bb63c737",
+      "title": "Opinião - Thomas L. Friedman: Já é tarde demais para deter a ameaça da inteligência artificial - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdTYzLU1zZ2g4dUV5Zzh6cTBKejl5ZWRCVEE0MFUyMFlkc2R2NWFyNjVBWHdTcEE0b193SXRKRF9iUUNYTjNzUnJRRmU4NXBwRjVGZGdFTnQzMnlybnJFUGlTY0RSRmR2V2NEa3g0blhNby1Ld0drcGpYSGpYR2Ytc2lSUGhyZldhaDZMLXJjZDdfeExxTlJfVWNLTWZ1S1Q1R0tXZ290Q2xCdHJvTDc5LU91UmxLdEVYQmFiandjOU9UZUhudlBNc09IMDR6ZHc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-19T07:00:00+00:00",
+      "score": 54.86,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -206,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmg4NHQ3QjlVVE02amM4a2NsNjlZUlFpZ0dmb1N3aTlnZ3daRU9yUmNkMGcwU0Z1NlpsQ0JUMlRveE11WlZoNG5XbnZRX0cza3J5cFBDdjhDcmg5djEzU2hsN2U5cFljYzZCUXRiSDl2NTNCSTl4RmFTTk1vNkRzVEtPcnktOXVRVmxzbi14YVphLVAzM0gtVFV6OWRoaTl3VkJwak5aVE9lZ1k0T0tiNkJkQlh1S1ZjOWc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T02:00:00+00:00",
-      "score": 56.03,
+      "score": 54.61,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -221,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWlhcURObzlMRGZSUEttdGVhWFVSMmY4Vk42MzFhN1RhcTdfVkd0MDg4WmVsMXY1am5rdGZnSWw2d1NKcXB4dnJ1dFozZjJhRC1qWEVBc0FRWGJLYVh0ZFp2TFE3TV9icktPd09WekQyZktleEdnQ3BIVVBqaW5RcldTNV9PQ2JZRTU0bkpDYlE?oc=5",
       "source": "Instituto Humanitas Unisinos - IHU",
       "published_at": "2026-09-18T21:35:17+00:00",
-      "score": 55.56,
+      "score": 53.1,
       "corroborating_sources": [
         "Instituto Humanitas Unisinos - IHU"
       ],
@@ -236,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM1B6czZJaHZ0SUNlRzNlWmt5andNU1NKS3ZfQ1NFR2UwaEtzNDRyRjBIN1BjUllYdmpaRk93TzgySG9KQXFBU2ZzNUNHNW9pcldkVExWMWhZZTV6ZE9VYlc3YmxSdTJjMVhldWZBVDJhdUNQaE1sTjNrNEVnZnpNNjRqNkljaHlMTHdlcjViQnVtZklJdlJmb3NWUXFmY1cwRk01M2tqdHFwMkVNOFcxWUh3V1NNSzBTMWtpR0YweEJQXzNGNVBoSC14d1dwbDBtTXh30gHYAUFVX3lxTFBPU3ExY3pfT05PYlQzcC1ObzFCQ2cxLWN2ZExKRUx3QlJLMEg1SVJ5OWc1WThwMHlhbEVDZEhWVnY2U3NWTlpIU09jeFQ3eDFXbzNrOTJfUVVnaDd6VEFSLVo4Tm8wUjB3YXVieHg1Vmt0ZUlPYkFucmpqck5idHYzaF9YRDV1ZFVBZ3o5NkFPNENDeEYtM0xXeTM1Zy1UeHk1Z200WlVhci1UX1EzTWdiQ3p1eEZyY0VTc1c5STVXVFZsT3VyaHNGVVQ0SmY0cldfX3lJV3hHYw?oc=5",
       "source": "Elplural.com",
       "published_at": "2026-09-19T07:22:00+00:00",
-      "score": 55.39,
+      "score": 52.16,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -251,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51NjFGZDlycnVuNlg4ajZ3SEFKa21ZT0tvWmFhc0hPWlVmOVdIZ1pJd3IyakJhcnBGdVVLU0ZoUi0yaHVqSjFvaXR3MWpKRERqbFJEU0kxZUg2RlNQTzY1SVNaVzV3empGaktudDNOSdIBigFBVV95cUxQMFdzVFZhVDUzcWxYV3lESXhhNkpaejlneUVIbUs1YWJhbHNOdDIycERwaExISjFMQXBIWFNNLWstcE5wLThmdUZEWG1BMWhqTWRkdzJ4ZmhXLS1EdnRzaXdYQXdkcHQ3aDF4T2dYN2t4SjRsTHl0aFZHay1fQ3F2U1V4c19kc183ZFE?oc=5",
       "source": "Infobae",
       "published_at": "2026-09-19T07:09:00+00:00",
-      "score": 55.19,
+      "score": 51.99,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -266,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUHMtQm11TWVIcEVKOTE3cnpTcFVTd20wVDFkdF9POGFmaEpqOWdWcUM4LWdEcWJTOGxCWl9lX2lGZ2RMdXhqVVdwWHA4elQzRGJiU2RpYUk3c0xpcGNfd2c2eUZqSUJmdHF4QWdNajFNcnNxenJGMEZkdkF4QmtPSThoWHp4UEVOYWpiQ2xXLTdUS2k5ZjA5dGlrM1pNek5OZC1ncmRRR2psVHdUQnNaMHZyUDhLb21OTl9BamM5RVJtb003NVZQYzItQVZzYjJHdDQtU1M1aTI3UVRYR2czTlROMUhIUkstbFU2X2dQX3c1aHo5ckHSAZACQVVfeXFMT1IzYS0zYjFXVG14LVZSZ3N4MXZuQVFvcW5pRThNLVIyOGNwajJOdms3T3FxM3N0ZGV3clJuRnVxQVAyZEJZQi1oOTlfWEdZWVJQTEhfMXFDVThXUnhkcTJIR0diRDl2eW83UWlEOGppdVNnZWs4RHJqbTNXOTY0Umowb2loVTdlQlZkbW1RbEZqNkFzTVZBRlhPblBiT1dRSHM0TjhqRTNLaGhHVWNVSWJOYk1WbU1NUVRjY0ZCNkU4YVR5Um9oaldwZGNvQ2x1WTBxVnNjRlBPWFVRTGdlNnppTkdwRkR6SGVkWS1MY2tZTDJRZEY3RF9ubFg3ZGttQ3AyY2lmaFVFNlR2VjMtSEc?oc=5",
       "source": "Infobae",
       "published_at": "2026-09-19T07:03:17+00:00",
-      "score": 55.1,
+      "score": 51.91,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -281,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2Nwd3dXLUhtbk5yaVBBaVhoSGtGMURmNG05RmlSSDdfWEZtN2RhT1dYQm9sMTFEa0JpU2ZiQWpCaDlSU0VjaVhITHh5emlHLXA4QUhZWFVTYkNkSTFpLUNnWVBQRHRLTWJjWDB6TThQLXQwNTRRa2NJQXRPa1RleGozTGN6cE1vWklBMk1xWU9rVDB0ZjFFWFpqTGppRlMwNXc?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-19T03:03:23+00:00",
-      "score": 54.67,
+      "score": 51.81,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -296,39 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzI4RW1JV0lSMXFlZ1hDbkNLUXVGREJpYjFUYzNQSWhLTjZENXVibkdwMHo5VU93ZUhua2E2Y3Y5VEtWRmJHWExUazBadkxNVjYxSVYxNkFoMjRfUXZBTHEwVHZMLUFZSGNmZjZSUVJmQkxmeGpBUTZHeUh3VnJ1aWNfbGZmdjFEWHROY0dudDJsU3p6eFMwWWhOMDFHTlB0NHJFY3Z3?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-19T02:43:23+00:00",
-      "score": 54.4,
+      "score": 51.57,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c9b5e317f0fb057b",
-      "title": "Samara diz que “absurdo” é o “bolsa-banqueiro”, não o Bolsa Família - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObFpaWjJ1N1dhOXYyTVdFa3pDb3F3MnA0a0FNbzNXMjVxSXZpaHBwU0pJNzVsTnhTYTRtLWNmakZMWU0yaFhNLXhuck9XZHJUdlpCQUlsYzVwaTJJMnp4Ni05UFd1QTFkUlhxR3EwZlRwOFAxREZRRVlqTXlKOUI3VVR1R0xlRGhFRjdQSU5CeldkUl9sWG9yR1JZSDJ3bU51b3p0S0RXWXdHdW5ndnVmOA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-19T02:02:19+00:00",
-      "score": 53.86,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9848d642f05039d7",
-      "title": "Política internacional. Malvinas en la tempestad mundial - La Voz del Interior",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTVBT1FxMFZHWV8xTkR0YW51cHFpSVF1WGJrb1daNHVQb2ZMa3N4ZFB3cy1Oak1vN3Fqb1ZHMU1vZlNMLWFQOEJXQTBIeU5IOFgyRTFlQU1nbERaZkYtbjl5eDdZeUV6TjBKc3g2SWpWdlR6blFiOVJ5cjlGSzctcVBDYw?oc=5",
-      "source": "La Voz del Interior",
-      "published_at": "2026-09-18T19:00:19+00:00",
-      "score": 53.82,
-      "corroborating_sources": [
-        "La Voz del Interior"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEZRUm12UzVTUmJMYzV1ZjRteEpxSE5qT3FZSVRIZTd1eG1mU2tsVE1ZYmlzNVNldGlHWnEwd2dfMV9iblV3S0NFZ1dMUW5PbVFzb3BJZDdpdFpCSk1fSEUtNkhqbW5mamQ4M1NTQmpnOE5BWnBveVhDc1NBbnpySFFraFNReUdBYWtpbXBUcmMxdjBHMXdVX2tSODkyN1E1a0NkUkVlQzlIMnoxdnhWbFBn?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-19T01:58:23+00:00",
-      "score": 53.81,
+      "score": 51.03,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -351,29 +426,14 @@
       }
     },
     {
-      "id": "f2bf3a0d4ea8f0c1",
-      "title": "Opinião - Papo de Responsa: SUS cria Política de Saúde Quilombola, e agora? - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTFBd3pOR1VkcGoyQjF4Yi1hdG1XRTd6eFJoX2s1UFVoaE95dTJKMXZHV29LS1ZOSFFsZEhGUXpONDB1andmV0JMcUl4dDFOSk9ZX2hSWkNMQmctMHVCTnZhdDRxNzNrRnB2Nk1TQ3FNajlHdEpOVlJGQ18ybHM3RFlWSnpFa0hyVURKTWRVODE1TVZxaDBCU0VWak5lWlBrSDNpcHdjbno3Rmd0TzJfdDRCd2g?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-18T11:00:00+00:00",
-      "score": 52.17,
+      "id": "c3af4dca6a86788e",
+      "title": "Governo Trump exigiu que Brasil liberasse participação de ‘dissidentes políticos’ na eleição de 2026 - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdmtUMXlaa3RIYWgtVHd4MHVHSm83SkNqMXNVWW5DQ0JLR1NaTFBINlc3dU5Fa3pjUmxtZGVKeTRYRGhKeXYzYnJPZVNNSTJvNWZ5OUtJQ0RhdkxFU05wbHFDY1haYlE3RGdTalk0dXVCRTBIckl6WlFHbG1rOFVLZTBNenlCa2U3Q2FyZEhvSlZMbVM2RWFIX0NVVTd6c09DbnhZOUVjU0dEc0FTc0xWOE80T0thREdnbDVlQ0FUeEREdEZoSWNKTERnWmdKYlJW0gHWAUFVX3lxTE9pOERuZ0JiNVQyWGFZdGFWSXdhcGcxSkxGSDQ1VGJiMHFhOWdKOWJpLXdNc0NYMEIyTjRaOUM2YkdHVUR4VWxNZWhlZkdWNk9HNklablExbXpZZTZjVTI2bnRQMnB0cW9JZExlQWNDSlpxbzZDVFBwMVpMQ3RxZDFPY0F6b0stOXFDeUhTRm9oU1o1TzU1cVJDVFVocXhUanhLTGlZdFdpWGo5VEFJSlJxZDJaTlNoR2xqVTVYTEJXT2JzX1lvR05JUUN3VEtiU3FnZ3FmZXc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-17T08:37:30+00:00",
+      "score": 49.58,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "945d74058aed6b49",
-      "title": "Sexta e última temporada de Emily em Paris ganha data de estreia e fotos - estadao.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNajlzRVJVdEVER3c4RFROWS1xalFpTjgyZTFieGVoVU5CdlZPeS13dVZfWHRJZG5GbXF6M1BqZFFzQV83azFlX09WcFZWUVhGckpYaWJHUHFuZ1EtM2pldG9hRVlpT1NHYUJFSmh2aGx1Mi0yWEN0bXNQM2dZZ0VXdWc0aklOZHJhSmlzWENjYkdXalVfXzlnenBhNW95RXNwblB0d2VoTFhZU2JCQlhMY3FtZElaYm13alE?oc=5",
-      "source": "estadao.com.br",
-      "published_at": "2026-09-18T23:44:48+00:00",
-      "score": 52.11,
-      "corroborating_sources": [
-        "estadao.com.br"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -386,67 +446,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb05DUTNIdjhXWlplaTItTkZKWmNYMHY1Y21pYW1FUUxvXy03TTJCS3EyaU9SWEM1V245UVQtSDlvWGJsbWRwWHNGd2tDV1NYUmo2RDRKSVZVVjFGZVJKbWQ1MXFVc1JJZU10WXJ4YzJZdWtjQm1QRkRsNmNJUG9tdDRVNnNFR2cyX1FyUWVTOVRFMnNZWkdrenNpVTdNLUgzZFR1YndvLXFVTlhvNnowTnFSZXg3VlR4dUpVTjI1eHl6UExWMVk2U3dOSURDUzFTcTFWOEVR?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T23:37:00+00:00",
-      "score": 52.01,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1e94aea04aaf799f",
-      "title": "EUA planejam reforçar domínio militar sobre a América Latina - Diário Causa Operária",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHEyR0tzNE1CQ01HME93RnN1SmdoRUNNR1NBTkppRmNSOEdyM01wRTFMcXgxMlJxb1ZfNFBORXBLMUNsZ1FERnlVamdKeDVTNlpuUUVaTXBfR2dXU0l5RF9FMV94YnBHR0RTQTZRUzZnNDJDbmZaZFp1NE5mNXNtX283ZVdVZUh1Vkd3WUhZaWJTZFFONUJjZGZydw?oc=5",
-      "source": "Diário Causa Operária",
-      "published_at": "2026-09-19T03:00:57+00:00",
-      "score": 51.64,
-      "corroborating_sources": [
-        "Diário Causa Operária"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "91623c6f250ccede",
-      "title": "Gilmar valida reajuste do Bolsa Família por Lula em período eleitoral - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGpfZlFOUmpvaFlOYmFNRTVHSVZKV2E4M0ZyT2lRUHVJT1c2aTd1RGFFNEpNYWtrQ0JBTTY3U21tbGpvaFRoSDJlSWVicm4yX3p6U29wWFdXS1BoUmRPeHk3bjBZRU5ETHE4ZVR3OHhVNk9PSy01YlZTaW1HaklaRHpZMFJhaUVpSjZqMVFZN3RGSWo2eWkxQ1B1a2VVZUZ1Yi1odEZaT0pLbzI2WXQ2RUt3?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-18T23:03:21+00:00",
-      "score": 51.6,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7d69cd8db8882e44",
-      "title": "Trump anuncia acordo para controle permanente da Groenlândia - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalpudHEyS2tsbXRVYm5KYUh4OWpMcUJxcDRJLVBYb0VrVUtZdnk5cG5td0swbkN4Sm1hNkJnOFEtWmFHNmNPQzQ1TnA3UGNqQzdCOE9kTkZtTndmemlaOElaNjFIZVVMNzRnVnNtSG9BMGpOZTRaV0thQjNNNjl4UkNMRFJXcnAtYnVDVVlxNERaTVkxZmszMkNqaHl5blZ3eUVPQ0k1LTF2a3dkcVE?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-18T23:03:21+00:00",
-      "score": 51.6,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "982c9c8f5088ee34",
-      "title": "Datafolha: 34% dizem que maioria dos envolvidos no caso Master é de esquerda, e 27% citam direita - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk1XVUM2bS1QMlUtMDZIaERYTlVCbEJSQk9zbV9vbjV0YTNCRXViWjdKTURkLXdzR2o1c01XWkd2c3FocEhGQ1RSTnprVS1ucUtyN190dENtTmNFOFZIb2ZFU0tETTlpbGlRQ0JBZnNBSUxZaHF6djVwQW9sUTRMWjc3eExQNnJWOWhDVEwxZXpPNUZzamx4VTdsbXNVakFDX2Z4UkgwM2NLS1Z3TWQyWDZic2RIU3Rsb1FJMlNDVnM0ZWNaLUFuUVMxdDdiN09OSHNYSVJiVnY2czg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-18T22:42:00+00:00",
-      "score": 51.35,
+      "score": 49.41,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
