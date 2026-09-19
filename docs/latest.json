@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-09-18T22:37:02.768765+00:00",
-  "next_update_expected_at": "2026-09-19T02:37:02.768765+00:00",
+  "generated_at": "2026-09-19T04:41:51.926368+00:00",
+  "next_update_expected_at": "2026-09-19T08:41:51.926368+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "72c579f6ac14bc02",
+      "title": "El PP presiona al PSOE para volver a convertir la política exterior en un asunto de Estado - La Razón",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQndHTERkblN5MVBsWEJjLXd1RmsxQy1kNFZ1Z2l1bHVzSzZPellTVUtDbnVBSVlUM0NRNllydkxpZ1dnN2NHbkRLNVNfZC1JUnYyQUhTLS1pSmRCNG0ydHFWNDhWOS1GQXkwSnRxNkpLRG1TN2dwVHZJQTRLdUQ5SUFTZUE2WjBjQ29HbXlrWDh4NU1MUmhXZ2Rtb2tuR2ZDOWpZQ0NTV1BxT1VkNEM3cU11Uno4VEpuTU5wN3ZGdUdnLVREU3puUU5n0gHeAUFVX3lxTE1HMFY2RWRHOS1iRk5GTkV3d0RNOGJOcXRUSVV2UnN2Tko4aHlzeEx1RnRNX3AzZFZ5TUg2VUxWWWduaE95V0pNMW1rWW5rZC01Y3BvS2U2aHQ4NFZTMGhiVGFwdmQtY2RwQXRQRTJOQnZtUEhOVDZySnhEM1VaWGd5OWhsWGZtMVd1M3JKUi1KYjlhdk1oNnRNSHIwYTdQVGJNa1dGY2FxVjMtLXRYTjI1Mnp3RkhWeDR3UHZQanNrME5fNm55VWZ4Ym1Ga2hpVURmbWY2aE5JUHZsYmQ0Zw?oc=5",
+      "source": "La Razón",
+      "published_at": "2026-09-19T01:00:13+00:00",
+      "score": 71.09,
+      "corroborating_sources": [
+        "La Razón"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "cf61f9d1b38e8512",
       "title": "Maioria da Geração Z acompanha política e prefere vídeos longos, aponta estudo - Estadão",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHVuTDNaTEgxaDhoUmlCQ3UwbHNrQjQtOUxGRGdZY0Q2N3VmaGtVWFB1VURDTGJuendnQVVyRXlEN092Q2NoQ1pLWG43LXBBbW10MHFudGhpNVg0R0p0RmVnZVRTSkk1d0ROQzlCT2hIUTB0LXR5dWhZa1FIWjMwVzdzNDRIMl9vRi0yVXJ5YmJxMlR2VHJsb3dGbzZfZU5vdmtxdFA1OFZMbHkwNloxQ3hrQTlSMHJSUWhN0gHAAUFVX3lxTFB3SFU0ZmlLNnlRTW9kSUhXVTZZZ0trS2s0WFdlS2xpS29iMExza3FaT0pLMEJVUVdObEZrSEFPcTlEYkZvWEY3TGFYZjQ5cy16dkR2NEs2WUd0N2xhUFhXM051U3d2cXg0MmRVTVJFdXY5ejhQb1k0U0diLWFqWTczVzlIQjhNUEI4SkFHcFU1Uk9SMjlqTzNCVWpucWNiMDhBZ0NuaWx4UHh2bTBUOTZpTWJfdEUyYWFneGdueHFNcg?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-18T21:00:00+00:00",
-      "score": 76.5,
+      "score": 69.81,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -21,14 +36,14 @@
       }
     },
     {
-      "id": "3064115d81b53a02",
-      "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began - dailyherald.com",
+      "id": "5c056ddcd25517e5",
+      "title": "Hundreds of thousands attend Iran's biggest government-organized rally since the war began - Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObnVZc2h4dUU3NlhhOHlrM1lYQTdfT0RPZEZKeDFfTXdKTENUakx0S2didDlJaXVFaV9IbTZyU1JRV3p4SEJtX2szblpZRXBoQWtFNW0ydXpndHBuMkxPU3JWalJkc1BvME9wdmM1bF9pd1E2cWt5Z3lzY204VWlHd0FTN3FKVktONEVSN1RGV1JTU0s5c0ZFa2tqNll1UnpxZHlUU3NiRVlKbXBNNGI2SEFQaGhiQ3MzNXZuRDRUSDM1bkkwUXN2eEhHSUxJOVlUZnpBSTFJeE1sWHZ3WTdpQXluQjRFOHpz?oc=5",
-      "source": "dailyherald.com",
+      "source": "Daily Herald",
       "published_at": "2026-09-18T15:04:56+00:00",
-      "score": 74.98,
+      "score": 69.31,
       "corroborating_sources": [
-        "dailyherald.com"
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +56,39 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWlhcURObzlMRGZSUEttdGVhWFVSMmY4Vk42MzFhN1RhcTdfVkd0MDg4WmVsMXY1am5rdGZnSWw2d1NKcXB4dnJ1dFozZjJhRC1qWEVBc0FRWGJLYVh0ZFp2TFE3TV9icktPd09WekQyZktleEdnQ3BIVVBqaW5RcldTNV9PQ2JZRTU0bkpDYlE?oc=5",
       "source": "Instituto Humanitas Unisinos - IHU",
       "published_at": "2026-09-18T21:35:17+00:00",
-      "score": 74.21,
+      "score": 67.41,
       "corroborating_sources": [
         "Instituto Humanitas Unisinos - IHU"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7522c24b9b0b9e50",
+      "title": "Zema cita caso BRB-Master para defender privatizações de bancos - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEZRUm12UzVTUmJMYzV1ZjRteEpxSE5qT3FZSVRIZTd1eG1mU2tsVE1ZYmlzNVNldGlHWnEwd2dfMV9iblV3S0NFZ1dMUW5PbVFzb3BJZDdpdFpCSk1fSEUtNkhqbW5mamQ4M1NTQmpnOE5BWnBveVhDc1NBbnpySFFraFNReUdBYWtpbXBUcmMxdjBHMXdVX2tSODkyN1E1a0NkUkVlQzlIMnoxdnhWbFBn?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-19T01:58:23+00:00",
+      "score": 67.2,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b521fb7ba48743aa",
+      "title": "MP contra bets é de ala política do Planalto, afasta técnicos e tem verniz eleitoral; leia bastidor - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX25KVG5QeTgyVEZMVFRLTHlEeXhMMGZPUmFQLVRkUjNiMS05R1g5SlhwWm5FQlpKaUV5d1FxbGxTWWV4d3hXbjUtanFuOWhnX3dvUEZLUUJnTTI4UG14OGVKRVhQM3RWMGZvbF9OT1RhVUZIdjNLYUlqYTFpbUgzWUpDXzhmYzB3NXJCbkJTVktQTHlZQlZHbTNoX2NNaEFVekZJMnhWMVRBOW8tcGJ6WVRuNG9sVjJTNG52NG4yZW9VZ3B0UmlYYWhfa085V2pLbTF0Zlo5MnBFQQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-18T17:18:36+00:00",
+      "score": 66.27,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -56,9 +101,54 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTVBT1FxMFZHWV8xTkR0YW51cHFpSVF1WGJrb1daNHVQb2ZMa3N4ZFB3cy1Oak1vN3Fqb1ZHMU1vZlNMLWFQOEJXQTBIeU5IOFgyRTFlQU1nbERaZkYtbjl5eDdZeUV6TjBKc3g2SWpWdlR6blFiOVJ5cjlGSzctcVBDYw?oc=5",
       "source": "La Voz del Interior",
       "published_at": "2026-09-18T19:00:19+00:00",
-      "score": 71.18,
+      "score": 64.85,
       "corroborating_sources": [
         "La Voz del Interior"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1e4e8dab79f3c4d3",
+      "title": "1ª Turma do STF tem maioria para manter condenação de Eduardo Bolsonaro em caso de coação - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb05DUTNIdjhXWlplaTItTkZKWmNYMHY1Y21pYW1FUUxvXy03TTJCS3EyaU9SWEM1V245UVQtSDlvWGJsbWRwWHNGd2tDV1NYUmo2RDRKSVZVVjFGZVJKbWQ1MXFVc1JJZU10WXJ4YzJZdWtjQm1QRkRsNmNJUG9tdDRVNnNFR2cyX1FyUWVTOVRFMnNZWkdrenNpVTdNLUgzZFR1YndvLXFVTlhvNnowTnFSZXg3VlR4dUpVTjI1eHl6UExWMVk2U3dOSURDUzFTcTFWOEVR?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-18T23:37:00+00:00",
+      "score": 64.55,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7d69cd8db8882e44",
+      "title": "Trump anuncia acordo para controle permanente da Groenlândia - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalpudHEyS2tsbXRVYm5KYUh4OWpMcUJxcDRJLVBYb0VrVUtZdnk5cG5td0swbkN4Sm1hNkJnOFEtWmFHNmNPQzQ1TnA3UGNqQzdCOE9kTkZtTndmemlaOElaNjFIZVVMNzRnVnNtSG9BMGpOZTRaV0thQjNNNjl4UkNMRFJXcnAtYnVDVVlxNERaTVkxZmszMkNqaHl5blZ3eUVPQ0k1LTF2a3dkcVE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-18T23:03:21+00:00",
+      "score": 63.95,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "982c9c8f5088ee34",
+      "title": "Datafolha: 34% dizem que maioria dos envolvidos no caso Master é de esquerda, e 27% citam direita - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk1XVUM2bS1QMlUtMDZIaERYTlVCbEJSQk9zbV9vbjV0YTNCRXViWjdKTURkLXdzR2o1c01XWkd2c3FocEhGQ1RSTnprVS1ucUtyN190dENtTmNFOFZIb2ZFU0tETTlpbGlRQ0JBZnNBSUxZaHF6djVwQW9sUTRMWjc3eExQNnJWOWhDVEwxZXpPNUZzamx4VTdsbXNVakFDX2Z4UkgwM2NLS1Z3TWQyWDZic2RIU3Rsb1FJMlNDVnM0ZWNaLUFuUVMxdDdiN09OSHNYSVJiVnY2czg?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-18T22:42:00+00:00",
+      "score": 63.57,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -71,24 +161,9 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaUJGV29HeGJhblBIUGRLOGxQS3ZBSlBxQmhldklRZlVLaUN1ZEk0dF9lOFhCV3BnLXI2ckNfWUR2dzZvN08tdllURFZsbGFpY1dpbjVDdlFrU25UU1QyTFJtSDVWaUYyOExIcnQ4NmlRUnZqaGphSm5xMXBleTk1TG1hYWJuNHVJRG5sakgzRmFmV3U2NmFLOGxxd3VCT0J4NEYyeHhxQnptLUtNdlZDeGRYR0NranFRb1EtTGxnRjRBUHpwQzIweEdqN2l5TEtjc19aR1BEQzA2VXUxeXBBWHg4a20?oc=5",
       "source": "Política y Medios",
       "published_at": "2026-09-18T17:33:05+00:00",
-      "score": 69.57,
+      "score": 63.49,
       "corroborating_sources": [
         "Política y Medios"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b1a178eea89a6baa",
-      "title": "Bolsonaro informa a Moraes data para exames de sangue em domiciliar - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEhKemRmN1RPOWJYRlFvOVNBNlJFZUU1ejFVVmNESnpHVWhoQjRBcS1qY2pPc0p4MVlLYXdab29PeEUtU3dLTEx4OEhhLWVWb3Fwa1NyMnl1MjhMNXlOdUZZYjZpSE53WHM5Y0pSMG9MazN1WkRBUW9mSE5MV0QtSm13a3lEVWg1OVFRMWM5NnRiQVc4SDJ1M0tPNjR2dkU1UHJ5bjFtR3FOTjFIRnpXSWVTeXJVZGdGSG9aMA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-09-18T20:02:00+00:00",
-      "score": 67.36,
-      "corroborating_sources": [
-        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmg4NHQ3QjlVVE02amM4a2NsNjlZUlFpZ0dmb1N3aTlnZ3daRU9yUmNkMGcwU0Z1NlpsQ0JUMlRveE11WlZoNG5XbnZRX0cza3J5cFBDdjhDcmg5djEzU2hsN2U5cFljYzZCUXRiSDl2NTNCSTl4RmFTTk1vNkRzVEtPcnktOXVRVmxzbi14YVphLVAzM0gtVFV6OWRoaTl3VkJwak5aVE9lZ1k0T0tiNkJkQlh1S1ZjOWc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T02:00:00+00:00",
-      "score": 66.86,
+      "score": 62.91,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -111,14 +186,14 @@
       }
     },
     {
-      "id": "98501905c1ce9ec7",
-      "title": "EUA devem enviar drones para deter facções na América do Sul - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2VHOTF6NDBDQV9JekhGQnpMTFF3em9xV3pYcDV6Zmk2V2JlZnNrRHYyNmpDcEhocDFYWWdLQ0RjSEtUQXM1by1QWmtpVHBNcmxjWHBndURfcm91QldQUUlHREVCLXlaZE14cFRpNHplUlFVUndBRjR0YVJsdlc4aHltZGpvZUItUXdPcjV3UjVOUFNuMjB1ZW1aR0w0UXVqeXJiMjBMZVJXSTd3NzFfall5bw?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-18T21:36:00+00:00",
-      "score": 66.22,
+      "id": "fac80666c2724f24",
+      "title": "Critican abstención de Perú en ONU sobre participación palestina - Prensa Latina",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3dGTXpKYWZCelpmTTlxMk1walAtV1Zpa2syVG0tNjlnQkVfNXZmZkhtTXVGb0EzUlVPRDVzSmpkT09wWlhJcHA2YV9IcXNPakpZSkh3WkxoclJ4TktnbUpnTjhCRTVMalA4cEdtekNhWkxQS290N0ZjSlJuYUNFbEdxc2pSdlVXMFdaR3FRTFRzX3V1Tm5vbE9naDdwMG5mUXA2Tm1iNDk?oc=5",
+      "source": "Prensa Latina",
+      "published_at": "2026-09-19T00:06:00+00:00",
+      "score": 62.08,
       "corroborating_sources": [
-        "Pleno.News"
+        "Prensa Latina"
       ],
       "signals": {
         "source_count": 1,
@@ -126,14 +201,14 @@
       }
     },
     {
-      "id": "2845066965921f3c",
-      "title": "Demanda de Nicaragua a Alemania es una maniobra política, denuncian opositores - martinoticias.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWRpMmVwalMyb0lCdU9UNnEtNmhuMlZ3NFExN21XZUtRdVdMU2xycTliLTZqRTlNcHlpS0hPb3JSa3lqLTNkVkdXbWFwZjhzWU9LVTNmbGF5NHNFVVRhTEZPVEFFbWpHSkRVWUhWT3pnbUlUb1pzeUhtMzFvc3Z1bS1kZ0JHTTFXZXFzRU1OOFhNYm9CaDBlV3V3eUdqOFZHc2RURkVkMDJvaV8tT2VhUkpXeG1mTkRGX0hOYjVSdG5zU0w3UWJR0gHKAUFVX3lxTE11bUFlTFJyUHlJdnV3TVhuWGtFelh0SWhNblg3TUh3alpnQW9QVUh6djJLX1F1Z1hSdzNsT0ZqNXJGNzNFcWdCalpNU2JTWW9Ba3dYc1oxRkJ5a2RXTG5wMmtQYzZoNy1RVDFoYmVHODlMbnFEei03bWxHbzc1WWN3dWlIOEEzRHJMVU9WYVQxVWt5Mm9yWGRlUXdKZDBMR19lRzEybng1TERCTl9sSWtCY2gxVGEzOUJyTFoyZ1lwZDl0czRwX01YUEE?oc=5",
-      "source": "martinoticias.com",
-      "published_at": "2026-09-18T14:10:43+00:00",
-      "score": 66.07,
+      "id": "36b8b88036dc6a43",
+      "title": "Trump proíbe CNN, Politico e MS NOW de acessarem a Casa Branca - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPejJ3TmMxWGZGNS11MmJwWWNkRFJ1UTRMeHVkVmR4NEZPZ2RDWVBKbFZER2VXcWwwdVpncW50c3kxaUdaUkhoU3hxT2wtVXl5RXJpNTd5MWl2Yi0zeVNtWjZpbk82Qm5jUjhQYXliNWFqX1d1a3o1RV94ZnJEUTNTVXI0TEJNMUdrZlBOd1VUZGEtNmNYUFHSAZ4BQVVfeXFMT19pWWJGQ3Y4WlFnVGZBQjY4c21welIzTGJ1VFZGVTYzMkFNTU1BYkJfT1ZOS19xQmNtMFFPRzc5LWtxRUhEenZTUVhPZkFyclRaaTFSOTZFLUQ5YTY4NkZJNnVOc3ZKRjlNLWdTRzcyUGcwb3l0dVFWLWM4bFJCUHJkMG1Mc3loMU1uTTJPdWxkUnh4bWxZVDhHajVlRGc?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-18T23:23:00+00:00",
+      "score": 61.3,
       "corroborating_sources": [
-        "martinoticias.com"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTFBd3pOR1VkcGoyQjF4Yi1hdG1XRTd6eFJoX2s1UFVoaE95dTJKMXZHV29LS1ZOSFFsZEhGUXpONDB1andmV0JMcUl4dDFOSk9ZX2hSWkNMQmctMHVCTnZhdDRxNzNrRnB2Nk1TQ3FNajlHdEpOVlJGQ18ybHM3RFlWSnpFa0hyVURKTWRVODE1TVZxaDBCU0VWak5lWlBrSDNpcHdjbno3Rmd0TzJfdDRCd2g?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T11:00:00+00:00",
-      "score": 66.07,
+      "score": 61.0,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -156,14 +231,29 @@
       }
     },
     {
-      "id": "cc29cf61d9ac6d34",
-      "title": "Zema lança jingle com o “ABC dos Intocáveis” - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1jdGFmajRyZEUxcGMxU2JKTlZpYVNJZUZoMHdSbklQUldFVkhwUXNXTjAxUXVmQ3p6dk5rUTBMb3V1dVpjbEN1SDUyYndNZ2xibUE4TjFwWDZqQklRRkJGZmlhSHlUZnZSS0RFUldnb2xuTXVvV3hVSWdpMF9CTFNKazljVk5oTm1rYmVjWFp3bno5VUE?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-18T18:52:35+00:00",
-      "score": 66.04,
+      "id": "762916fa1f462ad1",
+      "title": "EUA preparam envio de drones contra cartéis na América do Sul - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTml3bUt6X2dJak1sSThxOElSYUhVcThlTlhwcEoyOGpib3JvTUthMEh0bUpjX3hpbVpFc3U4Y0R4VjJ6Tk1FYWVCR3JkY09tSXZxd240eXZVOVhhckxjamxOckowMmhaMDhCeWlrMWdzNVFpNXVJR29EeHhLQlpQVERlQjdLTUhMM3plLWw1SEotNXFDeS1BLS1UdUdLTjhIaHFXWEFOT0FuSnlEQXdMS214ZVrSAbwBQVVfeXFMUDUyS3pGUndacDZNM1hxT2VlS3ktdGFKQ0lpRVZCNVk3bzVEYXg2TVRja2wxNmZ3SE8wamhHTHUzYW5QejFycVJ5T2xsNUk0NFlaTXhWbHVXOFdJdmZqZjkzbDhxOU9ZTWpYbmw0eEF6eU9qalpINEY0blNXYjk0VVJMamZjMVZmZTdWOTVkSXMwV0hoUzd6RlJXejhUc3E2Z2ZpWU9UN296VGxFeUpCNUJFU281QVZDMkZoU0k?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-18T23:00:00+00:00",
+      "score": 60.89,
       "corroborating_sources": [
-        "Poder360"
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8e9df3099b0f9304",
+      "title": "Demanda de Nicaragua a Alemania es una maniobra política, denuncian opositores - Martí Noticias",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWRpMmVwalMyb0lCdU9UNnEtNmhuMlZ3NFExN21XZUtRdVdMU2xycTliLTZqRTlNcHlpS0hPb3JSa3lqLTNkVkdXbWFwZjhzWU9LVTNmbGF5NHNFVVRhTEZPVEFFbWpHSkRVWUhWT3pnbUlUb1pzeUhtMzFvc3Z1bS1kZ0JHTTFXZXFzRU1OOFhNYm9CaDBlV3V3eUdqOFZHc2RURkVkMDJvaV8tT2VhUkpXeG1mTkRGX0hOYjVSdG5zU0w3UWJR0gHKAUFVX3lxTE11bUFlTFJyUHlJdnV3TVhuWGtFelh0SWhNblg3TUh3alpnQW9QVUh6djJLX1F1Z1hSdzNsT0ZqNXJGNzNFcWdCalpNU2JTWW9Ba3dYc1oxRkJ5a2RXTG5wMmtQYzZoNy1RVDFoYmVHODlMbnFEei03bWxHbzc1WWN3dWlIOEEzRHJMVU9WYVQxVWt5Mm9yWGRlUXdKZDBMR19lRzEybng1TERCTl9sSWtCY2gxVGEzOUJyTFoyZ1lwZDl0czRwX01YUEE?oc=5",
+      "source": "Martí Noticias",
+      "published_at": "2026-09-18T14:10:43+00:00",
+      "score": 60.54,
+      "corroborating_sources": [
+        "Martí Noticias"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFptNVIyVnhkd0E4SWIxUkRoVnlnU1dkZWlvX2xpOW16TXo3cldhZjUxZU0xZE1lMU14LTZfQXhSUVZqajE1aVNob3pHbG5UaUlLc2pudWc1QUNoczJLb3ZvTkg1dDFpRDVKOC14dmFHeEtrM0VoeE9pRkJSaDdvT2dnc2I5c1piU2hzc29QWjU5VlJsTVhlT1owVEw1OHRQdVl2X1ZvcE4tSFNJNDdKQjgtY0pyRHRBY1FGbkNGdzNINjZQRFU1SWx6T01jZ9IB0wFBVV95cUxNcEJlRTNfY043c0ZDV0w5NHM5T1Z5QlBCUExBRUlGbTQ0WXc1Z1BQRW5BQm4zZFlRTEZpRFVfQVFtTjQ2RzZYMTFpRjRCaE5vSnlNaVRWMmdBZ1Nqd3BsWEtMSkg5TGJoTTZ5NVlDREVoWWlTN09WVGxrZHFMcmR4T0s3ZXZ2UEJwNHBwdE9LazRSakloVF9RRkpuTTV3a2IyWlo1Q2xGZDZ2ajZMaGt3SXJlblRGbG1MekNkMlhrWFN4d2E1OF9GQXoxV2xQaXpOUElR?oc=5",
       "source": "Estado de Minas",
       "published_at": "2026-09-18T13:33:00+00:00",
-      "score": 65.46,
+      "score": 60.02,
       "corroborating_sources": [
         "Estado de Minas"
       ],
@@ -186,14 +276,14 @@
       }
     },
     {
-      "id": "6a0a490a359eea54",
-      "title": "RDC: Macron reunió a los líderes políticos de Francia y advirtió por las crisis de Ucrania y Medio Oriente - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSXZWUlNqUXJHYTZTamhRTkYtQzlhNkhSR0hUNEtLLUZJRlRxSHR1UE9TMWlZbFh5WlF4X0JMbDVueWxuUnF2MnhpLUg4X2VlNmx6ZkU2NGtUUGtxSzVkVTY0dDZjMnhmYXNOYTl3TEkxamdFbHJfUERDMUZibzdHeVlVOURsMDg2cHByLVd2YzdHZWRBTlFDZFBBNTZvVHlmV0Z5S3h1MWZhcEFYWDhmdjlkRzFndnh5MnpzTkRSd3kxSmNOTi1FdzhjTnpjbG1RN1E3MVhWUU1wU1V4ZGN1eDV2ONIB6AFBVV95cUxPaDN0Xy1rMnBGWExvNGh5UV9CZ3djdlNmdS05UXlJdUp4aXY0OWhCTms5NUQtSUhab0FTTnNUS1RpUDVTVUNhazJfeC1lNVc1RktxRnBnOE5GRGhIdjJfN1FBN3dzaVlweXNGSEtrWHZjTmkwUHVJTy0tZlJqdU9jOGZOSkpGZ3RkSjhGWTk4eGZkcTZfa1NDd3p1aVY1ZFlvWV91by1WUzVtZ19ZVzN3UHlVZk9jRVBZMkdHTmFPdkI3MkJpWXRlajZlZ0Fsb1d3NFM0ZmxWZUNvU3lmdDZDdmtONXEzdWpZ?oc=5",
-      "source": "Perfil",
-      "published_at": "2026-09-18T20:26:42+00:00",
-      "score": 64.84,
+      "id": "cc29cf61d9ac6d34",
+      "title": "Zema lança jingle com o “ABC dos Intocáveis” - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1jdGFmajRyZEUxcGMxU2JKTlZpYVNJZUZoMHdSbklQUldFVkhwUXNXTjAxUXVmQ3p6dk5rUTBMb3V1dVpjbEN1SDUyYndNZ2xibUE4TjFwWDZqQklRRkJGZmlhSHlUZnZSS0RFUldnb2xuTXVvV3hVSWdpMF9CTFNKazljVk5oTm1rYmVjWFp3bno5VUE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-18T18:52:35+00:00",
+      "score": 59.73,
       "corroborating_sources": [
-        "Perfil"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -201,14 +291,29 @@
       }
     },
     {
-      "id": "e76aa813d97e9470",
-      "title": "Irán carga contra la \"propaganda burda\" de Estados Unidos y reitera que \"no puede eludir su responsabilidad\" - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZjBDaERoYjZjSmpJMi1SRlpSdHc3NnFVUDczQ09vcU14aUQzd3Zmc2Qtc1FiRlJodG5IeHBZMmZLQ0xzbGxFblMyVzJ0M0JDeml2R1k4YUlyNTNpajd0bUlaWXVkdUlOWTZtUVJlZi1EZ3JHc1VreG1fWUdUVUlnTGtBNGJWQnJMOVB2Y29JSzhic3dtTnBqQl9SRFFENUF1b0ZVb2tqR29jeWFuNk5kR2x4OWdsSEoxYlROdmNZWm9qaDV0VXBjMEtTdGREc21TaWgyS3JvdTdTRGFVUTJuWdIB5gFBVV95cUxPMUJtZVNFc0kyZVk3Q0luMF91c29lelFWVG81THUyQnl4WXo4ZFFjQnk5NU1NejNWaE10eE9RbHREVVNIdVBMY0tsQ240S3VLdGpHVGtQQzhGVWU0ZENPX1gwYi1wODY3MWlva256TFZvYm9abjFXak51WWljN3BGd3NRdXpuQnV6d3BpQUVXQ1VOY2hvbjA2YWE0cWR0M2NpNThndTRBalR2ZDFZS2FoZnN5a2xuZHVGQ2JmcVhhbTFLM0p3VXRFME55TFA2LXU5WkZpeUtHSmd2THJWOUlwaWtyRUFfZw?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-09-18T19:27:31+00:00",
-      "score": 63.7,
+      "id": "1732f1f1360371f6",
+      "title": "EUA devem enviar drones para deter facções na América do Sul - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2VHOTF6NDBDQV9JekhGQnpMTFF3em9xV3pYcDV6Zmk2V2JlZnNrRHYyNmpDcEhocDFYWWdLQ0RjSEtUQXM1by1QWmtpVHBNcmxjWHBndURfcm91QldQUUlHREVCLXlaZE14cFRpNHplUlFVUndBRjR0YVJsdlc4aHltZGpvZUItUXdPcjV3UjVOUFNuMjB1ZW1aR0w0UXVqeXJiMjBMZVJXSTd3NzFfall5b9IBuwFBVV95cUxQa1JWc205TmdlUFowV3dXcDRjYlM2M0tud0hNdXIwN1lTRlh2Yl9ybUhUbTBFWWcxLXFZUHRHamJCTnltQ1J4OEJxZkFTWVp1NzRrWE5LZ1dkYzhwcmZNVnVWRDRGeU16SVl1UW9FUkxTSzVzLWVVWk5URUFTcDc1N2dUSW0zZVVaUnlXMksybENIaVpqcl8xajJ5OUFEeGVDYU1Sb2pvdXJscjd3ZzhldUdlcWNqMHI2ZG93?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-18T21:36:00+00:00",
+      "score": 59.42,
       "corroborating_sources": [
-        "Elplural.com"
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9a792bd9036b289d",
+      "title": "RDC: Macron reunió a los líderes políticos de Francia y advirtió por las crisis de Ucrania y Medio Oriente - perfil.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSXZWUlNqUXJHYTZTamhRTkYtQzlhNkhSR0hUNEtLLUZJRlRxSHR1UE9TMWlZbFh5WlF4X0JMbDVueWxuUnF2MnhpLUg4X2VlNmx6ZkU2NGtUUGtxSzVkVTY0dDZjMnhmYXNOYTl3TEkxamdFbHJfUERDMUZibzdHeVlVOURsMDg2cHByLVd2YzdHZWRBTlFDZFBBNTZvVHlmV0Z5S3h1MWZhcEFYWDhmdjlkRzFndnh5MnpzTkRSd3kxSmNOTi1FdzhjTnpjbG1RN1E3MVhWUU1wU1V4ZGN1eDV2ONIB6AFBVV95cUxPaDN0Xy1rMnBGWExvNGh5UV9CZ3djdlNmdS05UXlJdUp4aXY0OWhCTms5NUQtSUhab0FTTnNUS1RpUDVTVUNhazJfeC1lNVc1RktxRnBnOE5GRGhIdjJfN1FBN3dzaVlweXNGSEtrWHZjTmkwUHVJTy0tZlJqdU9jOGZOSkpGZ3RkSjhGWTk4eGZkcTZfa1NDd3p1aVY1ZFlvWV91by1WUzVtZ19ZVzN3UHlVZk9jRVBZMkdHTmFPdkI3MkJpWXRlajZlZ0Fsb1d3NFM0ZmxWZUNvU3lmdDZDdmtONXEzdWpZ?oc=5",
+      "source": "perfil.com",
+      "published_at": "2026-09-18T20:26:42+00:00",
+      "score": 58.26,
+      "corroborating_sources": [
+        "perfil.com"
       ],
       "signals": {
         "source_count": 1,
@@ -221,9 +326,24 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnlaU0N0dnMyNnBwcjRDVG9HQVBjb2ItbzlGaTJzVEVHb2dRM2FWbExvOVVWRmdoUEJnNFV3RWlNQlBvcEc3Vjg5ZHp1RGtSS3ZPQmQxbmt5b0IzY2RkS3Iwa1JJU1Y3cnhXa1dCXzhYYmd4Z3Bwb3p5Ym5pcWN5MnNGVjRxMGd6aGxVQjk3c0VOWTl4bXJJYlluZkQ2WFdsdUtIVHc5QlFUQkcyRG5EWUwtRzhCcW5KRWFxdm9sS1UwWnVVUGtTQzlPV29WQQ?oc=5",
       "source": "The Guardian",
       "published_at": "2026-09-18T11:00:00+00:00",
-      "score": 63.07,
+      "score": 58.0,
       "corroborating_sources": [
         "The Guardian"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e76aa813d97e9470",
+      "title": "Irán carga contra la \"propaganda burda\" de Estados Unidos y reitera que \"no puede eludir su responsabilidad\" - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZjBDaERoYjZjSmpJMi1SRlpSdHc3NnFVUDczQ09vcU14aUQzd3Zmc2Qtc1FiRlJodG5IeHBZMmZLQ0xzbGxFblMyVzJ0M0JDeml2R1k4YUlyNTNpajd0bUlaWXVkdUlOWTZtUVJlZi1EZ3JHc1VreG1fWUdUVUlnTGtBNGJWQnJMOVB2Y29JSzhic3dtTnBqQl9SRFFENUF1b0ZVb2tqR29jeWFuNk5kR2x4OWdsSEoxYlROdmNZWm9qaDV0VXBjMEtTdGREc21TaWgyS3JvdTdTRGFVUTJuWdIB5gFBVV95cUxPMUJtZVNFc0kyZVk3Q0luMF91c29lelFWVG81THUyQnl4WXo4ZFFjQnk5NU1NejNWaE10eE9RbHREVVNIdVBMY0tsQ240S3VLdGpHVGtQQzhGVWU0ZENPX1gwYi1wODY3MWlva256TFZvYm9abjFXak51WWljN3BGd3NRdXpuQnV6d3BpQUVXQ1VOY2hvbjA2YWE0cWR0M2NpNThndTRBalR2ZDFZS2FoZnN5a2xuZHVGQ2JmcVhhbTFLM0p3VXRFME55TFA2LXU5WkZpeUtHSmd2THJWOUlwaWtyRUFfZw?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-09-18T19:27:31+00:00",
+      "score": 57.29,
+      "corroborating_sources": [
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMElHSVpQRm9vMXhWY3ZJMlpVUnZNV3pvVW1YWXRxNlVmLUtBYVB2UWdpQVZKcGNlV3N5OTRJdGxDMlJZM25xUmRNZUdTdEszVGoyTEd0a0ZwRHZ3WkwwRXJoc1dxMDdyUkNmQ1ByeU5uRE5WdUdKdXRpOFNmcGw4aDljNDVDWkNNUmRsS3Y2YnhFQUY5N1RiRWhkNXNKMVMwb1FHdmd4RzlsNkFRZ0hJamppLUIzTnZjVGZHM2hQcEo5UjBTQ3ZSUlpsRFV3cUxNYnFwQ2N3?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-18T16:00:00+00:00",
-      "score": 62.92,
+      "score": 57.1,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -246,29 +366,14 @@
       }
     },
     {
-      "id": "35ca31a271c1d7e4",
-      "title": "Mulheres são maioria entre eleitores indecisos e contam o que mobiliza seu voto em 2026 - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMV9JTndybVhRNHVRMTVyaXZoVnI4VUZtNG1vSG95TE1vZGM4aE9EZVBNbWthZ0lvMEg0N1RfMDdVWlhSUEU0X2JGazl2S2lrQVBTYVZjSUpBTjBtd0RtNW50a1lWaE00dGpNNllnRVRXMkczTklPRmpfZ3hkNXdxQjVBMC1xakJUSEpxNFVoOVFrWjRXWF9kWmU4RkgtbmlYQ3k0TUpES3NXNHNDc1FhdXJMcmNVZW9KbFpBUFhqQ3dPVnAxY3plcWdaZVA2aXh5emU4?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-18T15:00:00+00:00",
-      "score": 61.89,
+      "id": "f3ac3b430ef1a02d",
+      "title": "Milton Leite não se entrega após 24h e polícia vai até Sorocaba para tentar prender ex-vereador - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZmNIMDdyeW1RT3NQd3QxWEViSk5ESXJERzVuX0NVLUhocDQyRU91bkpIclhPQnlIdjdKcVNRNG02bV8yNXpaaTRfcWRtd2t5ZWpHTk9RV1ZYeVlKZG1zYWlJQXVTVTdCdFJOaENVODc1Y3I2enZsbTVnNzRzd1lGYlNoNElWdUZFWElfVGtsTE9RRzhxblZwUlMzWmp4QU1MYUZEdUh0VG9DRVJuVmRGNFVEdzZxX1ZUanJOMVR2S3hpeS1wM0J6Q0lLRHFtV250Nm9wMVNWLU80RmU3?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-18T15:41:10+00:00",
+      "score": 56.83,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d383e8e12b28f344",
-      "title": "It’s the End of the World as Chat Pile Knows It - Mother Jones",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzR2TjkwekxRUDdrVXB5LWtoY0NnTWtDWWp5NURfTHlsQnBPMGtnZ084dDhFX0FlYkRRQ1NMTHBpNkg5cmsyazBJblZGYkxxZWlvc0luc3drVDNWb0taREx5bkdYQ0VHcnZDdWpxOGNTb25WN2NpRDVic3V0RnQ4aVRlMDhoaWlabjBaWHlBR3I4dDdpUTdtWmxxU2VUaEp6MzBtNg?oc=5",
-      "source": "Mother Jones",
-      "published_at": "2026-09-18T17:41:34+00:00",
-      "score": 61.72,
-      "corroborating_sources": [
-        "Mother Jones"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -281,9 +386,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaU9HUUZQMnZsam9Pb0RqN1BOejRFYUstSnZoaWtremU3R1VJeU8wT0FkaTJOY192QWVnYmQwVDdncERjdUFqYlc3ajVSRmxlTFJMajlMNlRCaDd3N3RVcGh2U01ZZkt3YnNKVzZubmN6cTF6WFRxa0ZGQ0JFU2doRng4VDkyNGxCbWRiZU5jY1ZLd3MxY0h6eS11VHdONTQ4aS14OVE1SUNzZw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-18T14:47:25+00:00",
-      "score": 61.68,
+      "score": 56.06,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d383e8e12b28f344",
+      "title": "It’s the End of the World as Chat Pile Knows It - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzR2TjkwekxRUDdrVXB5LWtoY0NnTWtDWWp5NURfTHlsQnBPMGtnZ084dDhFX0FlYkRRQ1NMTHBpNkg5cmsyazBJblZGYkxxZWlvc0luc3drVDNWb0taREx5bkdYQ0VHcnZDdWpxOGNTb25WN2NpRDVic3V0RnQ4aVRlMDhoaWlabjBaWHlBR3I4dDdpUTdtWmxxU2VUaEp6MzBtNg?oc=5",
+      "source": "Mother Jones",
+      "published_at": "2026-09-18T17:44:02+00:00",
+      "score": 55.66,
+      "corroborating_sources": [
+        "Mother Jones"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTDhOaVJVNndPeF90Q0xPQjZTbXBRVW1Ma3BROFY1Z01LRXFIR3VVcC1pdlpVdUdLRWVTeXNVY0dubkpBT1drYVNKdHQ2d1J1dVVycG1HVUNVY19Ma2tIR2ZoMG9GdmEyZnExZzZtekozek5CNldXZ3NKdkNvbEFxNFQ3Zmt2VEdxdGt6VFNZZURoM2pyWVQyVXNwRVdQYUwyaWJFY2ZaeXZNU2VSZjlWdTd3?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-18T14:03:08+00:00",
-      "score": 60.95,
+      "score": 55.44,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -311,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzJZSWU3dUVaNVQxMWVmSUVTbVdCRXhSUktIX3ZyNHBkNjdaYy1xT1daS0s2bE5iYkxIVVBuTUtGWWVISUxwZWVZdXVnRU9nZ09jNll1VEZ2UDQ2OElWNjVWV0U5ZGliYzhGTGxZZEZ0ajVSRkhnYm44WjRyZFJjYU5sU05XYnlLd0JfNjNfbmV3V2VIYU9VSXhEWjNPYWxPODZXcktaQUhuZw?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-18T00:42:00+00:00",
-      "score": 57.96,
+      "score": 54.15,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -326,129 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmd0ajdsVlNWTUh6YWJva3pQRTJ1QTFBZGtKc1VBd0pGS2pHT05INXZMZjJuYlF2RkpqZVF1RlRZMDFXTWpFaFlmRXdhSDhRNHVxX2MzZHFKRXJzbmRkSVZlVVpVTm1fUW9FWWo0RHR0UkhURGNGOGx2SUMyUkVDMXBZN2tBVWlHWDBmZEFGYWU4Y3JJUG9JZi1vRUo4LVdhcFZJMXBB?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-18T10:00:00+00:00",
-      "score": 57.17,
+      "score": 52.25,
       "corroborating_sources": [
         "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0cbf747e0db46161",
-      "title": "Opinião - Políticas e Justiça: São Paulo não pode perder a oportunidade de revitalizar seu centro - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVTFoNGk3U3JRSENBcjFyNGttN3dZWndTQmIxREJTZFNRSHBrcFFTNVd1bElyc2RIQURkemI4cFpxMXd2bmxXOUlfZ2l2Z0dKOU01U0hoODdQSWZ4ZmgtSGJWNDQ2ZUdhRndWY0hEQ1dlZUg2UmRXRDBlellwR3VldzdIUVJhWF95b3phX3dheTJBR0NyaDZJMGlwLWlKSFRDSEY0a1VybkhsLWlGa1BYNWtaaEtzNF9mVElMTmx2dzFOODJSanBWUXBtTVhRLV9sb3c?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-18T10:00:00+00:00",
-      "score": 57.17,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c6d47510756c3ace",
-      "title": "Real Time Big Data divulga pesquisa para governador e senadores no Ceará - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYk9BNjBQMVZzN1oxVFlZbm1XTGQzb2ZXa1piYVFwVHpiM0hqSGh6VnE0OVh5YXRjemIxYXRKOFdHQlkwVERMdjdzWnhTNUNKMHpOM1dvNC0xUUtQcGtSZHREakhTV2xCSmlNTldSR3NTRjR3cE43MnRHSVFxZFUwM0pqVEtMdkJJdl9ibTh4S2ZoYkZtTmFXMW5fMnB4cWVuS3ZKZDZIbjRhZGJJemdpRGJRMjRkeHlYV1NhUWpOWDdEMGNXTldWTw?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-09-18T10:00:00+00:00",
-      "score": 57.17,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0f0a10d69b718919",
-      "title": "El 11S: los atentados que cambiaron el orden global - El Orden Mundial",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXJTOVYtd3hOUVM2VlBOQ09ZdmdYMVVRUzdDQXlUbkdiS0NtTkVaaUdQMnNHSllzaV9xNjFpbm1vaUI1WFBsQkhFTVZyWU1HZC1lUEhweUxCdG5BVGpjd3FmYUpBS25uclhRWU5KdGQ5VTd3RFJrYUJKUElJTXBWWnd3NEhiNmlNVFQyTGZseVpGd0NkdFBuWG9aZlRHanItcDdkV2JUMGw2YllUYnRZ?oc=5",
-      "source": "El Orden Mundial",
-      "published_at": "2026-09-18T13:11:48+00:00",
-      "score": 57.12,
-      "corroborating_sources": [
-        "El Orden Mundial"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "40549d5f77abc964",
-      "title": "Can a New Map Change the World? - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWRRQzQxY29JaHNvdzk4TjZERnVvUmR1ak1rYmxua1NGenFuMXdHLTFac0ZwcU5GZmlPZ3ZvSEFUeURIZDh2NGh5TzdRck80MzJGbHl1N3ZVRUstbmYycFhxRWE2SGhXaWdGamdZcGRLVFpJWk85VTNMTXdWNFNJYnpEc0d4LUpH?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-09-18T13:01:14+00:00",
-      "score": 56.95,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5ba7dbea26d5fbf0",
-      "title": "Pablo Quirno | Malvinas, a força de uma causa justa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hdHhwdWpTUmVLMW9WT3ExeHBQV0hGdFNlMThmeDJaWVBwUW80WTlsdjhOVS1HdThXYWQ4bG5jX1NLSm5xbGRFYV9rYndkc3lZYkFTRDZjNmpJWGFSTTIwVDVfTUMwNHlidGZIYXAyMEdhektDelM4ZGFBVUM?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-18T09:02:20+00:00",
-      "score": 56.34,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bafa93584acdeb72",
-      "title": "The Philippines Chose to Align with the U.S. Now It Regrets It - worldpoliticsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3c1dmI5VzV0bWJveS0xSExfUlBRSjl2c1dJVHFid3pUcHFFcnNVRXVRd2hZeV9Ma1VzekJjcmxqcmxnOUhPS0pDdjdxbzhIckZsN1VaZHVCYjlGcXAwVHdTcFJCY3FCME9vWHVzdTJyMWZNQmVfcXZxeGkteU1hZDNLUjEwWURNeWVEV1h6ZVg?oc=5",
-      "source": "worldpoliticsreview.com",
-      "published_at": "2026-09-18T12:00:00+00:00",
-      "score": 55.98,
-      "corroborating_sources": [
-        "worldpoliticsreview.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5a844f1be5e8dc24",
-      "title": "Uruguay y los BRICS: un paso del Gobierno en el sentido correcto - Caras y Caretas",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclNTQXV5UVhTZ1pic0JyTlFuckU5dENLZ3pHM3dlSkRrWUppbVZodENYb2p0Q0dRcjVnNDVhTHVRSzdkcDZjN1lPOXliSXRhM1ZWaTM0cjJ1eGM0NklnLXVkQ3lnMV9GckZXeWRjU284OXcwX0VmYnJFUlVMU1RtV3FnNEVKNnJsUUl4UFY1OUNjWVpVTUVNLVhFT0hkNGROdkl1QTB5eHd0VWFiVVHSAbMBQVVfeXFMTjNKVU5SS29PNmRkOEd4dTdmNk1xLU9qVGlmc0ZFRFAyRUVIX0JfZHBYa2UydUx1bVVYYmxiMUFCYzlqbFRrcmhoUk1RTHdxckxTTHZhazdnNVZrdEkwR0JlS1Y3SlY0M1NvaEhueFhtVVhpa0kzYS1PdktzX2h2QVJCa0owWFU1MFBCck5PLUJlaGpicGJ3am5DTVlIcjNrZ0dpZk5wN0dXNWFSdktfZkRlX1U?oc=5",
-      "source": "Caras y Caretas",
-      "published_at": "2026-09-18T11:13:00+00:00",
-      "score": 55.26,
-      "corroborating_sources": [
-        "Caras y Caretas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "11ded628afbf1438",
-      "title": "Redondo avisa que la igualdad \"está en una encrucijada\" y pide que sea \"transversal\" en agenda internacional - Teleprensa",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb1pkQ2Y0eV9nMlBCWExTVlJJRUYwNTlPbkZQZ05iSHhzV3RXYWhzai1FQTBYNzdmbWlOVFRrR0JpNGVJUWxIRTdxVjBTajEtd2luM2pmanBjQU14bjZzN25YNVFXU09rblVuMlhiWHN5bEgzbnBTSktYSi1xaTIwc194QUVhX2J6elVmdE9LLUNKeXoxaG5KbEU4YnZSVzRIV1JLUmRjT19XaFo4SHNaUGNUSnBETlNJT2JFd2Q4UmFZZUVPQ2tfRzc4ZTZ0R3JneG5CemdSaV9kclYzYXNWZ1AyWdIB6AFBVV95cUxPTmFJdUhXbDllVGFtTk0zZ3RuVG9vWGNTNDhYcjcwUURsRDBEV3d1MEFodnZQVFMzem9SUkFGSklkbWoxWHh3SWFmU29nMGlXZkkxZWxIWnZjWjJLZW9DY0s1STJnbWlTZ3hFSWZQXzhRM3VoMkpCS2RSNnphclJoTGZNUFRCcEZNaXhKQ18yMGlMNjRJRUZHZGJJWTFTMVN1VDdQeldVNHE5NVBXOXc5RnFEV3NjcUNQcnJJa2hsODU4cmNqTVJOWTU3M0JreE9CMDNDcEpzSVY3aFl5c1FVSXRTYVdBc2hl?oc=5",
-      "source": "Teleprensa",
-      "published_at": "2026-09-18T10:57:29+00:00",
-      "score": 55.03,
-      "corroborating_sources": [
-        "Teleprensa"
       ],
       "signals": {
         "source_count": 1,
