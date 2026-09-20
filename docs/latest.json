@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-09-20T13:04:14.782058+00:00",
-  "next_update_expected_at": "2026-09-20T17:04:14.782058+00:00",
+  "generated_at": "2026-09-20T18:50:46.863692+00:00",
+  "next_update_expected_at": "2026-09-20T22:50:46.863692+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "cf5e32dd21173847",
-      "title": "This truth emerges as political situations change fast: Maps show us our world, but not neutrally - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmpvU3pCUDJ0YTMzUUt6bUlQOVRhUjdzWUhLTjNiTzZGd2Q0Ty1kUnZJbnotTVh1QUN4ek9mX2FYc1NjdUo1QWlFa2YycjFWYURZUDBkRkE3TXQxeTJvZVRvbzBfYjd0RUVmZ0dmNndrM25wNTVHLW5tSDBXVFl2TFgzUzZ4UzVVR3hJZ3lNWkdXUmtmM1ZlaUlOcXVmWFZRNkE2bFNaYw?oc=5",
+      "id": "8ea66dbb7c4e7fca",
+      "title": "Durante la Semana de Alto Nivel de las Naciones Unidas, Colombia presentará ante la comunidad internacional los nuevos lineamientos de su política exterior - cancilleria.gov.co",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPUmwwblFYX0NYeGJ5X2pHTlYzSFg5aEc3UjlWR0ktaXp6N3JBcUZ2ZjVqc2xqVnV0QUtDXy01ZGNlbmpRY25fZENBWWtZUDVHd3NVdWoyU1lVbE5sY2JzSHpkRGlaazV5VTczNE53cHNwQngxdGoyMk5iTTBhZlZnWW1LbkpTeXlzUHpVbUN0NWtoWkRCOTFjb2lWVlNldlJsd1czOVpHQmdZZkxCVHFIcnNtdGNJbHJOS09IVWZZSEVBaE1UVFhNWTZpQjZZYlI3OUxmRzRiR01VWXkyLTdhWWpENnM2RXpNTUhBQU5fV19lRmlhcTZPUGdGUHByYXlneWJRRnBvdW9wVGtBOFVKM3RaVnJzdmc0X0tqRW01Zk5yUHpVY0pQU1poNzJobHJ1VUJB?oc=5",
+      "source": "cancilleria.gov.co",
+      "published_at": "2026-09-20T14:49:45+00:00",
+      "score": 70.73,
+      "corroborating_sources": [
+        "cancilleria.gov.co"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "03294fb53540aa42",
+      "title": "Sexta e última temporada de Emily em Paris ganha data de estreia e fotos - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNajlzRVJVdEVER3c4RFROWS1xalFpTjgyZTFieGVoVU5CdlZPeS13dVZfWHRJZG5GbXF6M1BqZFFzQV83azFlX09WcFZWUVhGckpYaWJHUHFuZ1EtM2pldG9hRVlpT1NHYUJFSmh2aGx1Mi0yWEN0bXNQM2dZZ0VXdWc0aklOZHJhSmlzWENjYkdXalVfXzlnenBhNW95RXNwblB0d2VoTFhZU2JCQlhMY3FtZElaYm13alE?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-20T18:41:22+00:00",
+      "score": 70.28,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3bf826890b36180a",
+      "title": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVlFOTN1M2FIeUxrY25HdDgxM0JKUUt6ZDh0NDIxbFN3cV8zLTRXMGpfSEtVTUxHWUpuSlBXNDdIRDRXdk1adndzZWVaaHJPbC1zd1ZRcTRuVENTTW9jb19uUF9HSjB6bzk2WGVoNDVWdTd0TnlESDdJYnRfMUVXeU8zcE9VbFJMSE1CM0dXNVB6eUF1ZDBOc1l2aEliVVVOMlVZbThmTURtandYaVdaWFYyTnNJRGdJM2J3ZQ?oc=5",
       "source": "Audacy",
-      "published_at": "2026-09-20T12:29:00+00:00",
-      "score": 74.75,
+      "published_at": "2026-09-20T13:47:00+00:00",
+      "score": 69.57,
       "corroborating_sources": [
         "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b933284e06d1198c",
+      "title": "This truth emerges as political situations change fast: Maps show us our world, but not neutrally - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeF9HQ0tuX3g3a2NTU1FfRFZ5X0VMSjN0VkRaRktLdVN4cXBTUndWY1JPOUJQelptaXAtVUc1TDdNbW83VVVSWU5jdGFmOV8xRXBfdEhzbjJGVG85WUhjYjl4RDRzZmdiRkVINVhaMV92bHFrU29tTHgzQTRwdlMweUIzYm9YYzhzRUdPZ29uOFhGZEsxR1loU0JSYWowNnZnOTNDdkxCX0FtQQ?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-09-20T12:29:00+00:00",
+      "score": 68.19,
+      "corroborating_sources": [
+        "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c48ef5e40b7f0f8b",
+      "title": "Eleição depende de cessar-fogo com a Rússia, diz jornalista ucraniana - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWQzelFvTXpCRDRNaVFhajRrc1gxcUxvcnVlOVlHSTVMV2VScDRMUl9VMVdVd2tMeGpfcF9CR1V6WVRUZGx3QzZIOXdFaXNSVS1vVlRFUmlnVHYyS3prYUhnWXJ2c0RDVHVYOFJxU3JyQldmWUcwV0xYZ0ZOU2xOMmpNLVB4cU0yOGpOdXZ3em1vSnZwZmhrMVRCOEhKa3M1QnpFZ0VoU2xxcV9sQXdmUFZjSldJR282?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-20T08:08:41+00:00",
+      "score": 66.9,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -26,54 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejNyTm5sUVg0cVdTbng5MW52NUlKd0gzdlBYeXdySnhHbWZvcGhRMGZwWGEtSlZFX3pnaHFhSFBKcFl2eXFQREV1M25CdHVSbHhZSEpOZ0tqUlkxck9uVlBXZmhqNWplajNrbWJETHNEcS1KUkdnbkJsSU95SmFfMFJBUzV3cW43RjE5N1pqYWNMSGoyc1V4SU43V1o1aW1PWWJtZTkxR0toMko2WHR4UDRybVdadHlQRVZ4X2tZbHVzTUFPQWfSAcsBQVVfeXFMTnBkXzZnR2p1QTVQaE01MmZyUkJRQTRjNTRNRFZWSTk2WG0wNHNuYTdrUFh3bnJPa2RxaUpCSGVnaGdtcFBMRDg1SkY0eEVtY3Mwb01HZHdFQzJ4dm1SOXF3bUQ0c3pKb1A1WHNINUtfVFRtOWRtQVNuZml1dEtrRmEwMzVnOHlrVXpvOThJWDJiZ0lsbnJIazFFcHpKWnBDRENud0pyRTNCU3RyU2ZRaHZLVEE5RjQtV3c3ZF9RNnUyMFdrWGU4b3YwS2c?oc=5",
       "source": "MUNDIARIO",
       "published_at": "2026-09-20T11:03:36+00:00",
-      "score": 73.03,
+      "score": 66.72,
       "corroborating_sources": [
         "MUNDIARIO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "01e4f4956638ccac",
-      "title": "TSE suspende campanha de Dallagnol ao Senado - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzNuQUhjZzRDcHJId0tUcDRLRkRSRVRNYlJ1bXlSSGZ2dGx4NFdYWkx4eWhJSWh0OHVzTTUtV2NzaG54T1pnMTlLcVc3ZnlyX2lCV0x1eTVjcG9qV0xTSVhnaVNpNUJzZC0wX1RmRkJ4UlBha0k0RzllMWgydWpyQnVDdm55RHJaV01VLXdzZ3YzaVEzU3FkZA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-20T08:04:29+00:00",
-      "score": 72.65,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "be0ac59315c2c83e",
-      "title": "Puigdemont reivindica el 1-O y carga contra Sánchez por su política internacional - The Objective",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXNsNkVyQWJiU3ZqaFBVMERJZlloaE1WOUFoLXdNT2hKOGdhRnZubXRaaG8tckRpeG5LcUtiaDIzR1E2Nl9mWUpfLUl6U3E1b3RMQVNheVFSbDl6eXBkaDRmMGgyZUh1cnVJNFp0a2JTWWU2TEpDVkd1WGo0dm44cFNRRDhVUl9seUk2YnNqN0htMGYwUFVmektfRWpMdmvSAaQBQVVfeXFMUEdhQXRrc0d2czFTMkVNV29nQzlSNG5hWE9iZjZyX2Q3RVVCRTZDSWlqVjBOUXl4MUZHMHlxUVNWS2VhdHZNT0pRQnlrRWZoN2NtTnFUSm8zMTN0aTZZbi12cGRmWDJwbkhWMnBlZEQwYXVycUhuNnBySWVla2p6UlMwUm1Ec1dhY1oxbjZVQjZJdVVLck9HeW1wQVU5T1JJUGZOOS0?oc=5",
-      "source": "The Objective",
-      "published_at": "2026-09-20T08:26:49+00:00",
-      "score": 70.05,
-      "corroborating_sources": [
-        "The Objective"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "03294fb53540aa42",
-      "title": "Sexta e última temporada de Emily em Paris ganha data de estreia e fotos - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNajlzRVJVdEVER3c4RFROWS1xalFpTjgyZTFieGVoVU5CdlZPeS13dVZfWHRJZG5GbXF6M1BqZFFzQV83azFlX09WcFZWUVhGckpYaWJHUHFuZ1EtM2pldG9hRVlpT1NHYUJFSmh2aGx1Mi0yWEN0bXNQM2dZZ0VXdWc0aklOZHJhSmlzWENjYkdXalVfXzlnenBhNW95RXNwblB0d2VoTFhZU2JCQlhMY3FtZElaYm13alE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-20T12:40:09+00:00",
-      "score": 69.98,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -85,8 +100,38 @@
       "title": "Lula volta a confundir Janja com Marisa durante evento em Guarulhos - Poder360",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmVUTFlxSERfei1GWUE4Wi1udkF3UHFfQUZtVHJJd1ZmLUFkZ2xQdnBkd1pjeTliM053d0NmU3ZPZktTcXZuU3ZhUlV1STh5VEpXWmh0bVF4VmNaUjZlSTMwQ0ZyMHBKbWNiTjZueUFWdllUaVktMkZxSk9MNVV5ZGFZRDUzRE8xckdhS3JHM1lmdEg0MnF6NlBGTHFyRmJRSGg0Y2tHSFpzS2lDTWlJ?oc=5",
       "source": "Poder360",
-      "published_at": "2026-09-20T11:24:29+00:00",
-      "score": 68.45,
+      "published_at": "2026-09-20T13:54:31+00:00",
+      "score": 64.71,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0cbb12f7abc3a82c",
+      "title": "Puigdemont reivindica el 1-O y carga contra Sánchez por su política internacional - theobjective.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXNsNkVyQWJiU3ZqaFBVMERJZlloaE1WOUFoLXdNT2hKOGdhRnZubXRaaG8tckRpeG5LcUtiaDIzR1E2Nl9mWUpfLUl6U3E1b3RMQVNheVFSbDl6eXBkaDRmMGgyZUh1cnVJNFp0a2JTWWU2TEpDVkd1WGo0dm44cFNRRDhVUl9seUk2YnNqN0htMGYwUFVmektfRWpMdmvSAaQBQVVfeXFMUEdhQXRrc0d2czFTMkVNV29nQzlSNG5hWE9iZjZyX2Q3RVVCRTZDSWlqVjBOUXl4MUZHMHlxUVNWS2VhdHZNT0pRQnlrRWZoN2NtTnFUSm8zMTN0aTZZbi12cGRmWDJwbkhWMnBlZEQwYXVycUhuNnBySWVla2p6UlMwUm1Ec1dhY1oxbjZVQjZJdVVLck9HeW1wQVU5T1JJUGZOOS0?oc=5",
+      "source": "theobjective.com",
+      "published_at": "2026-09-20T08:26:49+00:00",
+      "score": 64.19,
+      "corroborating_sources": [
+        "theobjective.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "01e4f4956638ccac",
+      "title": "TSE suspende campanha de Dallagnol ao Senado - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzNuQUhjZzRDcHJId0tUcDRLRkRSRVRNYlJ1bXlSSGZ2dGx4NFdYWkx4eWhJSWh0OHVzTTUtV2NzaG54T1pnMTlLcVc3ZnlyX2lCV0x1eTVjcG9qV0xTSVhnaVNpNUJzZC0wX1RmRkJ4UlBha0k0RzllMWgydWpyQnVDdm55RHJaV01VLXdzZ3YzaVEzU3FkZA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-20T05:03:55+00:00",
+      "score": 64.16,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -101,9 +146,24 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOGR3STFmMlBqZ3Nld2FaSVYxdmdxaTVBamFoR2lFWlV5bmEwS0JQRlVQSjBjMWRBSHdUNGl0ZWxoeGtVVEVpb2I3dDA0cjN2TUJWbjdtaFp6NFF3UER4NE92TVJqeXFMWTloV2RCMkN4UHV3bkdMRkFJWUFVWVp3MktETlpJSGkxZ1Rqd0dwYnBDT0R1eW9yT3UyeHdEZ3RGdVBzN3YtRDlodUVicDlzUzVlNG9yOHpqbDVvemNQS21IRVd3MlQtUWhBOUFZeWhXSFBrOTdfXzEzcjZ6X1ZEM0REdzk2ZElfQ2Fubmd3cmk1bjFGcmow0gH8AUFVX3lxTE54SFFiUkJnR29fRFctcUtGbFF3aURFeDhpOHY3REJHdkFFVGhSdTR0NEM3Q0p6ZHJ3SzhXcUhyRmFpUzBVZWZGd2pXYkFzNmloMnNiV0lMeUFEaGViYzBRY3d0RmhaTnVldkxhamE3M1ktMzJBQVRka1duY0VyRHViZjhBLUR4UTlneW91RmdtMzNnWi1jbUQ1b2ZQazRtNUJWNzRuVDJFVmNSUFJnX1VPSWZZeU43emhQZnNWN1ppZUlMdHVsOVBjYm8zN3FWYXBrVkpUNG42T1NreEt5a2hSQk5RaXp3NnhGT3dIaUh3UkRMbjZ4a3NqODNGcA?oc=5",
       "source": "Perfil",
       "published_at": "2026-09-20T06:08:35+00:00",
-      "score": 67.6,
+      "score": 62.1,
       "corroborating_sources": [
         "Perfil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "70ed2248754cc434",
+      "title": "Trump Is Dismantling the World America Built - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbV9ObWFpODZxV3h3RHhVcFFlNzM1MTM4c29yY2tIM0dSbHJENW41V0xsQjkwOUZYN3E2bUZETHRkQjBOckc0N19pVGFzV3JaQU42MDZkTjBfX2hsVVpYUjREdGFNSTJiZ3FzOTZHY29hZUZJSHdfeGZuanpjQS1yaWFaRVNiLUlMZFB5aWZpWENfRjNNUE1UR3REVlNMMDlLRldUei1VUQ?oc=5",
+      "source": "Rolling Stone",
+      "published_at": "2026-09-20T14:00:00+00:00",
+      "score": 61.81,
+      "corroborating_sources": [
+        "Rolling Stone"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVluV1RmclNZWE5SWHphemJ1YUhjSExNaVBEblNHMmFWdXRtbUxXR3gycFZhb0M5cTR4ZWMyZXQtTWhNRVdLVzBzSkx5dDlwTi1mbHg4cDk5RUppc1A5ZWhIRGNyb29wWmFjVzlxcm5ZU3Q1MHh0cjhvci1TclFQSi1veVpwdW1LUGVwYkI1aExjOFZVZENfY2x1LWY3eGNialVsYmpIdTNyRy1VNDlYOTdaekdFZUxTWGRXUThyWGhrSThZZ1BCUHR2Q3dSV0XSAdQBQVVfeXFMUEtTdkQ0aEJKem9YMU1LWktUWmgxSFlSZ0hHYXJuX3pwel9oWE1ReE1Nc3pFNW0tb004SWNnMU0tT2p0ZUN6SUtadi1fTHVrampPWW1sa1N6cDFjY1lSUTRIWnhYWEo5cUhZX2wyOWUweDJJNks0Qm9WSWFZcmdBNndCcTdITjJXS05lVXFsUUJtSnpPU2lLSjZPY09MU0tMX1JJSTBhbWNDMFpMZzVEWlJGV3p2TFZWN29qcnpUYzBuc1Z6ZzNTUGdvS29fUVRZTzJRaWM?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-20T10:00:00+00:00",
-      "score": 66.8,
+      "score": 60.67,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -131,24 +191,9 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNktMZ3ZsdTdwR3BvZnBrM1B2cExuNDl6b1pvNDJ3SkZUX2xOczZCTkFrcmNiSHJvYURKNmR6WmdpYjZveEp2bjlXa2FEcGlWUU4zV2hKYzhYejNfblNWVVU0eE5lNlZnTVBTYzZjNHFrMk5PVXoxWEFEd2o3Q2VadXNqLUJXeWFkaWhKd1ZhdTV5b1ZWRFNzZDJn?oc=5",
       "source": "bahia.ba",
       "published_at": "2026-09-20T12:30:09+00:00",
-      "score": 66.77,
+      "score": 60.21,
       "corroborating_sources": [
         "bahia.ba"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "09b5c7ec8713acd6",
-      "title": "La ONU abre su Asamblea anual ante un mundo en reordenamiento - Rosario3",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXd4V1kwN0VWUjN3cHdGbndfTXM5SmNWdjZITFZvOWJUbUtTVDRjMlh3ZWExS1hmSFppM1RGS2tjVGFhVTNXZWhoZ2M2RXNVVE9pZ0lTc1lOcnhuQXBJbVRSQldEeXFUOUxwZUhLNjBzNkdjbGVWV080aFBNZks2d2VWWW5UT2FzVmM2alNaeUtHVVlPY2RyVHZLd1NJUXZ3ZEhJakp1NWdLa210alY5dWUtS2HSAbQBQVVfeXFMTVl3eFdZMDdFVlIzd3B3Rm53X01zOUpjVnY2SExWbzliVG1LU1Q0YzJYd2VhMUtYZkhaaTNURktrY1RhYVUzV2VoaGdjNkVzVVRPaWdJU3NZTnJ4bkFwSW1UUkJXRHlxVDlMcGVISzYwczZHY2xlVldPNGhQTWZLNndlVlluVE9hc1ZjNmpTWnlLR1VZT2NkclR2S3dTSVF2d2RISWpKdTVnS2ttdGpWOXVlLUth?oc=5",
-      "source": "Rosario3",
-      "published_at": "2026-09-20T11:49:00+00:00",
-      "score": 65.94,
-      "corroborating_sources": [
-        "Rosario3"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMWJ2ckVWUjI0STF6YUVHVm1rMEM1d2g5ZXFsMXd2aThldl9kZnM1X0d3UllTX1JJa1pSZVhhZVoycjl0NkxnUTdsVFBYNmI3Q3FLcWZEU3RTWXVLcWpaZnEyTE9RWV9NMW5zLUhXaWZTOWtqRFdSYmdrTjNBY1VFWF9VVnhvQ1QzNS1XeElValhhT01Uc25JalRGOUZyVW0zT1JKUTNiRTlzRHR4TVJJSVpXNnd3R28xNzJFYmRSVWh1RnNrU3E0LWhNNEZrbGpBT0tVQ0J1b3Z2V28zUGJrN2Z4V09NX056RWpBb09EMUxoQlBOeDFkd1R4a1dyT3R3Smc?oc=5",
       "source": "Hispanidad",
       "published_at": "2026-09-20T03:55:00+00:00",
-      "score": 65.37,
+      "score": 60.2,
       "corroborating_sources": [
         "Hispanidad"
       ],
@@ -171,14 +216,29 @@
       }
     },
     {
-      "id": "4ea7d018cdbdb4d4",
-      "title": "The Company Trump Can’t Ignore - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
-      "source": "Politico",
-      "published_at": "2026-09-20T11:01:00+00:00",
-      "score": 64.98,
+      "id": "09b5c7ec8713acd6",
+      "title": "La ONU abre su Asamblea anual ante un mundo en reordenamiento - Rosario3",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXd4V1kwN0VWUjN3cHdGbndfTXM5SmNWdjZITFZvOWJUbUtTVDRjMlh3ZWExS1hmSFppM1RGS2tjVGFhVTNXZWhoZ2M2RXNVVE9pZ0lTc1lOcnhuQXBJbVRSQldEeXFUOUxwZUhLNjBzNkdjbGVWV080aFBNZks2d2VWWW5UT2FzVmM2alNaeUtHVVlPY2RyVHZLd1NJUXZ3ZEhJakp1NWdLa210alY5dWUtS2HSAbQBQVVfeXFMTVl3eFdZMDdFVlIzd3B3Rm53X01zOUpjVnY2SExWbzliVG1LU1Q0YzJYd2VhMUtYZkhaaTNURktrY1RhYVUzV2VoaGdjNkVzVVRPaWdJU3NZTnJ4bkFwSW1UUkJXRHlxVDlMcGVISzYwczZHY2xlVldPNGhQTWZLNndlVlluVE9hc1ZjNmpTWnlLR1VZT2NkclR2S3dTSVF2d2RISWpKdTVnS2ttdGpWOXVlLUth?oc=5",
+      "source": "Rosario3",
+      "published_at": "2026-09-20T11:49:00+00:00",
+      "score": 59.49,
       "corroborating_sources": [
-        "Politico"
+        "Rosario3"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5e535308249e1609",
+      "title": "Lula e Flávio apostam em figurinhas repetidas como conselheiros econômicos; veja quem é quem - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHFWbk16bEJ4aXB2U0xCOUNLbnhPSU9LXy04anQ5VUhZT2plcDFNRzJhdEpDMDBMQ3lzRko3dGk2U0xBeU5TS1NqeUZZQ2Q0QXN1bTMwdWtMcVcxMGU5N3VGLW1IaXlXaVV2cnRoc3JoVkNpRzZna1VOVjZFYlY5Rk9wQUl5Q0dmeHkta1puaXhSa0N3UFNvMmk4bWN5Z1U4bnFLXw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-20T08:30:00+00:00",
+      "score": 59.24,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmFCb2pUUFloeXlBdnZYcXZhcU02UHRVdmJfSm5vSE9TQ0Zmai1GbFVxekVwWUNmLVBVbjBUemctakJQS09qeTZJWUVIeGZFZXNIUTZUMnFPS0Z1SU4ycWtEdzJseHBhM21fcHlQSzBYaE1xVUwxMFRVMVpJTW12ZWFKRF83Wm1JRGhsRVRWcF9uUzYtTkdCbGtNZ29sV1cwOXZiUk9tNFA2Q0U?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-19T22:09:20+00:00",
-      "score": 63.21,
+      "score": 58.8,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -201,14 +261,14 @@
       }
     },
     {
-      "id": "ac202e36e52ef50a",
-      "title": "Opinião | O PCC não é uma anomalia. É um sintoma - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTFQZC0wWVRFb0NCVG5kUGlmVGlLUDdEdklublNkSjNRaWVMUkhxMmZ1R2syRzAtbmlLWWE2WlZMV3pLQTRlTjZTbmhqY1BiaU5nbWVyX2J6ZW9vUkJTNnZ1QTFYZmQwR0RfTGxHdERXS25UTDlCTWN3Z1IzaXJ4YWxYcm9mS3JsZVVlcWtRM1I?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-20T06:00:00+00:00",
-      "score": 62.45,
+      "id": "4ea7d018cdbdb4d4",
+      "title": "The Company Trump Can’t Ignore - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
+      "source": "Politico",
+      "published_at": "2026-09-20T11:01:00+00:00",
+      "score": 58.68,
       "corroborating_sources": [
-        "Estadão"
+        "Politico"
       ],
       "signals": {
         "source_count": 1,
@@ -221,9 +281,24 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0hvNUZoR1ktWUtxYktIejJnLWJVSVNzZEZxSTNBUkF3ellUZEhwSjJIeHg2cTgxdml0X0EzMjk2MW9WdW9yakFDWjkyRndMVnlPdlJYYTBKeUNFejN3ZWZRd1l5QkdzdnN2WXFCMGMwZkQtT2hMWnY3ZFItVzJlZGtjRmtDUHE5Z203Rl9TazFiVVNOTnVUUTRNWmVnM2xXYk5HR2NHQWpKMDJ3ZXfSAa4BQVVfeXFMT0djVFRkbzJaMnlqRDRXeVlHSElXaFVNVHZtSy1wdmtzMF9tMnNRajVDcEs4UmRXX1gteTV0OG96QURsaDdwdjllVmtWNkIyS1daUGZjbXpmci1yQ0hENld2NE0tMF9WNnpCdmdSUklfVnlqcjJrNnZCUnhxa3RIYkJ1cThXT2FJLUFTaTRZdEpqanZMUHlROUpkNzhQQ3BxbmVtN1M1YWltRm04cHZR?oc=5",
       "source": "South China Morning Post",
       "published_at": "2026-09-20T08:30:09+00:00",
-      "score": 62.11,
+      "score": 56.24,
       "corroborating_sources": [
         "South China Morning Post"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8596063ec8a368c8",
+      "title": "A ideia de Flávio é ganhar eleição para tirar o pai da cadeia; quero ganhar para mantê-lo, diz Lula - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcy1WdzR6Y3NWRGoyRkJBZF8tRndPYXpzMGw3cEREd1FhdUU4UjladVI5eXJKVmtiMTJ5dHJqSmNmOENxcG1qbGFZLTVwdEg2SlctQ1lHbUVWb1llal9MQV9IcVJJVjM4UHVvQjFEVm5icDFndGo5UFFvaDZqWWF4Wjh1YmtaQjRGck1BRlRQbDZGWlZVZkkwZ05kd2YtUkJEbWwtb2t4djFPN1FfUDBTY3RVUnVhaU1nS3E5S2JlckhBQk1jUmdmSmtFaHFRNEXSAdQBQVVfeXFMTTV2YWJXYm9ZMGFvVGdDd1RxeFI0YzZjOUFFdm54bkVwNFFuUmNYd3ZxUlBYVTQ3VXk1ckxCQ2g3T2FjVHB6aFBPcmlXQWVSVjkwNW9QTFlRRDAzbHlDZGNjQl9vMzVKTWNKMU9CUUZWR3ZQSF9tM3o0eUp5dGtoZGV6bzB4T0w4S2VxM1pnNnB4N3VkYWE2d3JaR0dfS29sT1JnUUp1bTNpaXRidDhsWmNWMDNjd2NwZF9kc0pEM201VmNKYk9DQjJmeTF5SDFYN2RVNm0?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-19T17:58:00+00:00",
+      "score": 56.02,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM29YandTQzhjR1J0M25hdTVIdmFFRjhvS19JeExSRmQtOWdoWGQyb050TTA2N2liWko2NGd0dWFrVEp2N1h6dE5INGZqMnQtS212RHJMM1VNak1SdGs5cU5Tck1vY3ZZVThHdlJNSEx4Z3VSRzh2Ny1QN0l3ZG9rUEZ3?oc=5",
       "source": "Diario La R",
       "published_at": "2026-09-20T06:20:10+00:00",
-      "score": 59.8,
+      "score": 54.27,
       "corroborating_sources": [
         "Diario La R"
       ],
@@ -251,24 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDVKY3RuWHdva0dCcF9EeWk4b2Vfc1A5VElDWDVqSVd2SWpSdEVKcW1yQmJBRzUwdENCckRteWk1ZVZlWlhvRmphMnFsb2NNdTVYcFpySmdrS3dJbW9JZlB5cVZCSjZpMngxUGpPMlRSRUw2c0o4VkZaOWhaclAtRDlKSVVBLXJHZ0RURUtvcDhuWU9MQmphVlJYQmZsbGZE?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-20T02:19:53+00:00",
-      "score": 58.87,
+      "score": 53.92,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2f2cefc6b3439aac",
-      "title": "Trump recupera la doctrina del “patio trasero” y mueve millones en ayuda militar hacia América Latina - elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNWwtaEIzbU9OQkx3WWNwT0pvVmtRdlh1YTF0TEViY3cxLUNWNFNVVEVlaXRSbEE2SjFPRlJqUTBzaV91ZmtjWmpYMTBKbm9FbXJxUmpWNXVaeTF4QU5tN3F2blZlRlVNMk9GSTllc2RzSnd6OTVKSGNhQVRyZHBMdk5RRlAtelRXNHdKdkJ3N2ZCc2lMc2lLbEk3b0NtM2FhbE9lNzJtSDBVTm9jcGFsSmJ5ZHdJRk41X25Sek15am1RS19WSW5hZGpHa29KVHp0T21wbHNXckJGLW5sa3fSAeMBQVVfeXFMTmlJSkZiejJPUkFKcEJrSXJfYXMyYi1rWjdBaEpPRTBHTTJvR3R0SUhvUVNndXFiaFlhcWk1ekZmSnkzX0t3Z2dTMUhUZmFtaklQeGhGQWRzYjk4ejI0SHhMd1FwRWJqSGgyNFZVTWw4RXpfeEU0X3p0VE9EUVZPUEswWGNLZXlZMlZFeW45Q3g4SlEzMklleVBrMl9uSEdCSnlyNHg3RkhITVZxek9CTk1fVFlTQlRDTzlGcl9NbkdVcEtIaTNhcU9reXNkbllFN3JIWFR0UDBkeXJieFFiUHNYeTA?oc=5",
-      "source": "elplural.com",
-      "published_at": "2026-09-20T05:21:24+00:00",
-      "score": 58.8,
-      "corroborating_sources": [
-        "elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkFWa0FUby15VGpDLTdrRU1lbEFxd2pWVk5QeFllaVFTVE4zdEFLSXBLTVV1X3JMM29oOGFZU05mdDFCY19mSlFJVWRaZzU3WXE5MExwNFNha2hNN0NHbXItd2ZWUDY1WXgwczl5Ukx0RF8wVmRfXzZFWEFqOXV6bVZqVUVoUGRUYXN2cE16SVMyWkNtNDVmV2NWZk9CczBjZE5tRTEyM0w4N2tuV2FnWnJyU3pjVzRBUi1hYzlPM0JFRjJnYkNJ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-20T02:00:00+00:00",
-      "score": 58.56,
+      "score": 53.66,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -291,29 +351,14 @@
       }
     },
     {
-      "id": "f015ec2319680180",
-      "title": "Líderes religiosos criticam fala de Lula sobre Igreja Católica - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaW1GMFhhUmNpNHRKVFZJQ0FEdjVlNVJEcHRxTEtLTHdHZm9FMkN2aVRaVXdYRjg0N3c0SW5qcE1CZEk5dTNnQ1V4cDVlMUdfdXVHakRVcHlhdFJpR3FkZHR4UHM3TFpWVXZ1UTczb0ZhUG0waGRPUHZoVHhmcXFyakJHNFZNQkFJR1FFc3YwSG9EV0pNMURucGl2LWl4SzhBM1J1M1JrQkJ2dnJzelpoRg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-20T00:48:25+00:00",
-      "score": 57.49,
+      "id": "6af2f85415bcd41e",
+      "title": "Trump recupera la doctrina del “patio trasero” y mueve millones en ayuda militar hacia América Latina - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNWwtaEIzbU9OQkx3WWNwT0pvVmtRdlh1YTF0TEViY3cxLUNWNFNVVEVlaXRSbEE2SjFPRlJqUTBzaV91ZmtjWmpYMTBKbm9FbXJxUmpWNXVaeTF4QU5tN3F2blZlRlVNMk9GSTllc2RzSnd6OTVKSGNhQVRyZHBMdk5RRlAtelRXNHdKdkJ3N2ZCc2lMc2lLbEk3b0NtM2FhbE9lNzJtSDBVTm9jcGFsSmJ5ZHdJRk41X25Sek15am1RS19WSW5hZGpHa29KVHp0T21wbHNXckJGLW5sa3fSAeMBQVVfeXFMTmlJSkZiejJPUkFKcEJrSXJfYXMyYi1rWjdBaEpPRTBHTTJvR3R0SUhvUVNndXFiaFlhcWk1ekZmSnkzX0t3Z2dTMUhUZmFtaklQeGhGQWRzYjk4ejI0SHhMd1FwRWJqSGgyNFZVTWw4RXpfeEU0X3p0VE9EUVZPUEswWGNLZXlZMlZFeW45Q3g4SlEzMklleVBrMl9uSEdCSnlyNHg3RkhITVZxek9CTk1fVFlTQlRDTzlGcl9NbkdVcEtIaTNhcU9reXNkbllFN3JIWFR0UDBkeXJieFFiUHNYeTA?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-09-20T05:21:24+00:00",
+      "score": 53.41,
       "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d2e387a45fbaa9b2",
-      "title": "México respalda a Michelle Bachelet tras retiro de su candidatura a Secretaria General en la ONU - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc1V1WnVBamRSdmhkVHRSeFF6LTJOTFdQVzlZT1huVFRxTE5VZVFqd2ZjYnJrSmhQNTJTY2dmU01QM1ZnREdpX01jcVB0eDFOWW1JclRmRWJfN0FGbjFpcDk1Qk1oSTBOZndNZ3Q5UWFNcHVFZkpxOUk4VVJpRnhRdVMyY0NLT3cxa2RpNW9RbllaVGhPeVZCQjEwOUltOVlIdEk5alBGQkNCY2wwM0UwUDhHcWlXdWxLOG90dlFUUDBocElhUVdWY1IyUXZUYWFpZDZZd1YzVXlvZ2JCTk5mcDNtdVduZXJoLUE?oc=5",
-      "source": "El Heraldo de México",
-      "published_at": "2026-09-20T03:26:00+00:00",
-      "score": 56.91,
-      "corroborating_sources": [
-        "El Heraldo de México"
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -326,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMmtDWV8yMVh3aTg0NE9weEtsbVZUVG5SbXpzZXdVbzY5TFdQTl81VUVaT1F4MWkxbndKbU51QV9WZFdTazhPWXU3ckJCR2htdmNaN2pCZU9Lb2t2VENrVkVLenhxZXkwU3Z3WlBvWHBNRkh3NG9fNmhqTXI4amRuZHV1OW1YQWJUdE9OakNab2VmM2xwRzVyVUlJRUo3VDYtRGQ2Q2tTcUFqSXQ0NW9nT25TSjd6NWpkMDRPZGZRUmhZS2x5S3hHSGFwNFJUeXFIWUZielNHMzctM2JqNFV4c2hrT0RmcGx6Nm1DMmpYSGU3SEVnQzFUR2R4WFg5bGgx0gGbAkFVX3lxTFBka2Jrd3k4WFhYNHB6M19xcF83aEdCSDczZzJzVklmQlhtNWh4WVYxNHZnQmNlem9DbjJYY0RZWjdzbUhWUlFaRzlvZldwNFRDZGVreEhhZWF0LXBoQ2RlQ0V2V1pYQkdRMmJOUkY0YTl3enBsTTRtSkVzR2RPbFJxLTQ2dUJvckRWMndOcDEzeWhWTjQxTEJKWjZLR2txWHVVakZVblBCcXgzeV9YbWVPNHJoczR5WUlSc1dlU2NMOEF1WENtY2VBTEIyZTNCM3ptekxQQzVITS1SN2FlNVl4cmlmdmtBMWpFcnlldHR2OEh2cG5rM3FvOEREMTJ2ZGQyQmlYWGlNOWlSN1BMNFNqbGZVS3lnRjZRS2M?oc=5",
       "source": "Infobae",
       "published_at": "2026-09-19T17:42:00+00:00",
-      "score": 56.75,
+      "score": 52.86,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -336,29 +381,14 @@
       }
     },
     {
-      "id": "5f5a05f58070431a",
-      "title": "Blowback en Oriente Medio - La Región",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME9JcV9LUjdQMUVFUEhDX3RTbGpMbW01ekJFSVpFT3RNRTg4bVhqSGJOSkNGZVY2dmkwaEFfV0sxRFM2UjNOWWdwaFBibmw1ckFBNjEtQVUxLUJ0Wlc4SDc1cGo2X0szRkI0YTYwTHh1eHdTcEUycTBPSlpFQjV3UlZnSkg?oc=5",
-      "source": "La Región",
-      "published_at": "2026-09-20T01:10:00+00:00",
-      "score": 54.81,
+      "id": "d2e387a45fbaa9b2",
+      "title": "México respalda a Michelle Bachelet tras retiro de su candidatura a Secretaria General en la ONU - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc1V1WnVBamRSdmhkVHRSeFF6LTJOTFdQVzlZT1huVFRxTE5VZVFqd2ZjYnJrSmhQNTJTY2dmU01QM1ZnREdpX01jcVB0eDFOWW1JclRmRWJfN0FGbjFpcDk1Qk1oSTBOZndNZ3Q5UWFNcHVFZkpxOUk4VVJpRnhRdVMyY0NLT3cxa2RpNW9RbllaVGhPeVZCQjEwOUltOVlIdEk5alBGQkNCY2wwM0UwUDhHcWlXdWxLOG90dlFUUDBocElhUVdWY1IyUXZUYWFpZDZZd1YzVXlvZ2JCTk5mcDNtdVduZXJoLUE?oc=5",
+      "source": "El Heraldo de México",
+      "published_at": "2026-09-20T03:26:00+00:00",
+      "score": 51.8,
       "corroborating_sources": [
-        "La Región"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4c3fa191274d5a62",
-      "title": "Agro “deveria não só votar, mas se ajoelhar pra mim”, diz Lula - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZEE1RzhubWNBdURUR2pQWGpEazhDVktRNkpUZDZEanVsVnVnYnlQUG44enRKNVNVTVh1dy1ZNnhTUlBEbzBUaW5tWGZsZHBLNFA5bE5mb0djLUFueVpuZVNLN0VIMEhJTWRuNkN1dWlLNlNkSC04UFVpcmV4cjVpMUJrNkJTMDBIV1hWdHdiUkJBVThQNzNTcUwyc2hvSk1EVnE4UDE4VHRoaW8?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-19T21:39:17+00:00",
-      "score": 54.8,
-      "corroborating_sources": [
-        "Poder360"
+        "El Heraldo de México"
       ],
       "signals": {
         "source_count": 1,
@@ -371,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEpVTlAzSHZYNXlaWXlMcGJXMXVENHA2SU1FNVBVS0kxdU5WOWhMWjc5MHBNamVmckR4N2QwcFI2RHNZalFMZ1dzRjYzazNLVVBXamZQbTY2WXpub2IyQ3pYZGdCOFR3MUdJNlFjOTg2bHA3dEc5NlpjTEJrbm5QUHJmX0c1ZHozTl9QRXRVNnJZQTJiZzZRbV9GeWs5eEpLTEE?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-19T09:18:02+00:00",
-      "score": 54.28,
+      "score": 51.2,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -381,44 +411,14 @@
       }
     },
     {
-      "id": "33738d18c40c08c3",
-      "title": "Trump anuncia “czar da IA” e promete não frear setor - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWotcTJFMFRPdTY2YVRPTlFwbW9kVGdiRmhUQ2lIb3pnSjM5ZEtFNDJxRjFOZnB1YTAtTUFHQXdHTWgyejhuYWdPUWNjTXk0OFBVSGswd01WZVhsS29wU0o4ai0tTkpiRlRXbzR4ZVJ6SDA5aTdaODJfSnEwRHhaT0VVYXJnTEdhYnl0dFdxX1FXN182cHZ6SnNGYTQwMWd1?oc=5",
+      "id": "4c3fa191274d5a62",
+      "title": "Agro “deveria não só votar, mas se ajoelhar pra mim”, diz Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZEE1RzhubWNBdURUR2pQWGpEazhDVktRNkpUZDZEanVsVnVnYnlQUG44enRKNVNVTVh1dy1ZNnhTUlBEbzBUaW5tWGZsZHBLNFA5bE5mb0djLUFueVpuZVNLN0VIMEhJTWRuNkN1dWlLNlNkSC04UFVpcmV4cjVpMUJrNkJTMDBIV1hWdHdiUkJBVThQNzNTcUwyc2hvSk1EVnE4UDE4VHRoaW8?oc=5",
       "source": "Poder360",
-      "published_at": "2026-09-19T20:58:32+00:00",
-      "score": 54.25,
+      "published_at": "2026-09-19T21:39:17+00:00",
+      "score": 50.45,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1a8969ec7c688d3e",
-      "title": "TSE reconhece admissibilidade de ação de Flávio contra Lula por desfile de escola de samba - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRmdKQXhHb053ZnhhdU1BYm9pblYya3FsR0VqYUhHZ01mN2VRYVV1dzFvdXNPQkFqYkpDVFBfRWlpN28tNXhvR0sxUDR2N2prdGQzd1N2dDJSMTNIVjhKS0lhSnNxNGQxVFYwVVZaMC1QaDVQYUhUcS1ZR01zalVBRExOeXp3a18tWGd0Tllldnlpc2R5T0Y0Y045V2MwZlhRS0JVNl9kNkVzbndzTy1teEJKOGVRVUNaSmhsaHZTX09FN3E0QmfSAcsBQVVfeXFMTmk4OV8yaVJ3WHFFV25EQ3FVODZ1SFJZYXNISzBxMXVhcV9zOE1vODIwNm5uNjlNckQ2QU1SY0FQM1kxYkJjSlhFNWttXzRkcV9zUVc2V0FmYWIwaEFXM1gzZE43dDhkbHo4eDRHZXdwOERsSlYyVFN3MGlNWjR5aGVEaXRSRWtwX0d4ZlJaQUZxSE85U2Y0UjVDZl9NTUEtMU9wRE9mUVNPV29ta3BkYW9xM2FDYXJTM1R6bDFlS2txTnFtOTgtMjhPNkU?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-19T20:09:47+00:00",
-      "score": 53.61,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3b02d2d8160af3c9",
-      "title": "Hormuz oil shipments hit six-month high, U.S. commander says - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTl5NUo2b0haOWFDYURyMWFxZjg3TWpORFJhODlsNmpBV3NicVVVYmkwdnhNVjJ3NmtVVDNrdXFkUkxtNlE5aTZXN0JXbXFWUFc1UktxcHdYbmpxUW9WbWZ2T3FTdFpLcDhsZ1E1UkJLMGhnU1JlZmlPRWNYT2dDaFRndVdLX2g1ZWo5Ulo2MW5ibFFWRVluRGlSMkU2dlNTUXlxSHN2WW9Bay1CdUFDU2NGbmhVR2Fx?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-19T23:23:51+00:00",
-      "score": 53.26,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -431,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblJod1U4cUxMcndPdUlucUd5bDRZRjl5YWxUVjRUSERUdDNNWUl0Rl9RU08yZk15ejVGQnEwU0Z3cXJrcHNrU0dPTGJacGwxWmQtSWdoY3hBbVRROTVMVVRLanZVZy1CX3EzX0RHbjRPNGdSRi1Lc3ctaS1FYjJldk1HeDM4Z3BWOXBBb3VB?oc=5",
       "source": "worldpoliticsreview.com",
       "published_at": "2026-09-18T18:36:47+00:00",
-      "score": 52.31,
+      "score": 50.26,
       "corroborating_sources": [
         "worldpoliticsreview.com"
       ],
@@ -441,14 +441,14 @@
       }
     },
     {
-      "id": "a796b8b46efcec42",
-      "title": "Enquanto Trump chama risco da IA de farsa, Casa Branca teme fim do boom, China e recessão econômica - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ3JsUG1NXzNsUjdPNXFsZjdPaW0tVk1kUFljVHl3TWZCbDJuYUFRNER5MlFnQm1nSkpBTUU0RGxURnRCQmJGczZqQmlwdUEtN09NVnBHOXVnWHZlTGdvT2tDVlppMVFFQWhHMzBpRlpQQnQwZUJ3Tm5PYTZQaS14RGFFU1c0NEttYjhjOWhySk8za25IVUZFYmthQWdtR25pLVFJQWtTQ0I1cnRQZnVxdlZGVUNRTVIxWGpsazRsSEJobTJuc2YyZUtpZkoxWTDSAdQBQVVfeXFMUHpsTXdmVWd2cmhFa3pTMERzV1BfaENjajA4aGtLZlVPRDdzeU8zR0o0dlBjQVJlV0prVjJiYUtQUy1CODRHb1VFeHFPMnFlUG90Nll2ck9pbXpySnFuUEw2UkJmT0d2UVJ4cVhGb2dSNkdYd1ptdEVwYXRuWTFRQW1xZElhMUJfbElCMTY3YnRvWkpsYjc0dF9QQ2xUM2VYU3piMTJTTEkyX3U3U1pvTWxmTzlhOWw1bjdpLWVsN24taG5RM1lSZk1COVIycjJrWVVXa3U?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-19T18:25:00+00:00",
-      "score": 52.28,
+      "id": "33738d18c40c08c3",
+      "title": "Trump anuncia “czar da IA” e promete não frear setor - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWotcTJFMFRPdTY2YVRPTlFwbW9kVGdiRmhUQ2lIb3pnSjM5ZEtFNDJxRjFOZnB1YTAtTUFHQXdHTWgyejhuYWdPUWNjTXk0OFBVSGswd01WZVhsS29wU0o4ai0tTkpiRlRXbzR4ZVJ6SDA5aTdaODJfSnEwRHhaT0VVYXJnTEdhYnl0dFdxX1FXN182cHZ6SnNGYTQwMWd1?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-19T20:58:32+00:00",
+      "score": 49.99,
       "corroborating_sources": [
-        "Estadão"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
