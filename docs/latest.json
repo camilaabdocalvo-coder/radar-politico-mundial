@@ -1,19 +1,139 @@
 {
-  "generated_at": "2026-09-20T22:29:22.073592+00:00",
-  "next_update_expected_at": "2026-09-21T02:29:22.073592+00:00",
+  "generated_at": "2026-09-21T05:02:08.643521+00:00",
+  "next_update_expected_at": "2026-09-21T09:02:08.643521+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "b3be665df630c05a",
+      "title": "Young people in Morocco split over whether politics can deliver change as election draws near - audacy.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RGbkpoZmpyWVh6bmNubDFZVUxVMGFiVk9ZeXJabU9pNlpMUGFmYV81WmZPU1ItUFY0Z1Bwcm8tUDZDTmJRQ0N3aFpKeFoyeVdPUjZ4SE5HM2RpREstR3ZUSjE3RHJONVBxQm5KbktjMTBVSFhuMEVldndlTXg0NzVEZzVPbW1ycWxBUGRNM1c4MlFsYUNJYzJ3?oc=5",
+      "source": "audacy.com",
+      "published_at": "2026-09-21T03:08:00+00:00",
+      "score": 81.16,
+      "corroborating_sources": [
+        "audacy.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ca3cfdbff8af784c",
+      "title": "Healing Amid Chaos: Listening to Reason at the Eleventh Hour - Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkIwQ1d3MGh2NlN4S09hN25LcFpwakVWa1c3dTJSY1g4akl6T0NQV0Y3YTM4azg0b2JHVHBDekNDaGlUcmNQTVhsZy1ZbF9vd1hsU3RwMHd4SndzSzJTTmdvTVh4SEloVjZIN2hXcXZkZ2lnQ2h4ZVd6R1ZWUVptaTlrNDEwMUh3MGVKRzRudlJUV3ZCYVBWaGFYTUlhdWc?oc=5",
+      "source": "Modern Diplomacy",
+      "published_at": "2026-09-21T02:00:30+00:00",
+      "score": 71.85,
+      "corroborating_sources": [
+        "Modern Diplomacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2ead95362533b1d6",
+      "title": "Deltan diz que ministro que o vetou no TSE é amigo de Moraes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2lPNF9iMUpuYnZRSFZUOUxlVl9ubGlGZm5JZS1QOUxOV1NpVDB6UUstOEdCbFFjSy10bW5xWHFGR2FISWtGMl9IWWFLSEt1d1FtTlZ3VnRjOVBURThodDk5ODlPa2NDRDNidG84OFBYTjZpZ3lNWFlzM3NOMmY5Y1ZEZElESWVTRDM2OVFrUVFOWTdRWjViZXNMZEM1TzB1UVJnUEhn?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-20T20:19:40+00:00",
+      "score": 68.81,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "27d25ecefa0a4204",
+      "title": "Cálculo de ranking da Folha revela quais estados entregam mais serviços à população com menos dinheiro - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHFWNWZ1dVJ3eEJ3RGsxZW1jTnVzSG1qY3h5RVdOTWxVRkRfNTBsN2RJbC1jcUQ3dHRZX2VJeVlTQTJ4TXJlYktrUmNJbE9MMTdrVktnNkR2NUdOVmRhbzRTaTRYQ24wby1WdktfRzNaX2twU1JBbU1KdUxnclo3LVMzNHVUeTRBSWpFOUF1TG1fMzhpVHRIY2RVNEoyd01hSGV0UkNldFFJcGViZUNqY1pvemF4WURpQmhneEVsN1BTSVpsQUxFZS1Odi1DX3RrQkQ3M0E2eGE2Q3lyUGlTLXZXNm9kdUk?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-21T02:00:00+00:00",
+      "score": 66.84,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "202dc07eb38a25a7",
+      "title": "Musk reage com \"wow\" à subida de Flávio na Polymarket - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGlGNjJnTnRtUTFkR1dBaDd2WGJodEphU0tCcGlab09ROTlHYTQxM3VnZ3NxRVBQYThhem9xbUFTZmwxV3dpSWZiLU03Nk9MV2kyZEF2ZmR0Ty1BaEk0eDJkOWkxa2FxM21Dc0RlbkcxTmVnVWtpQVlfZWhPX001OTVZd1dVQl9vUVNuRkxGMm50UlN5ZDlfYnNvWDRYZ3RoakE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-21T01:40:12+00:00",
+      "score": 66.46,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6230e9333547a110",
+      "title": "Veja como foi a Marcha da Maconha em Brasília - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXEyRFYzWHRXRFJLbDE4M2t5MVgwbmItUUlTWXNuTlg1dDZLdG5KN0xXVkdGdXBzRkFOeTNlekdnN3YyOE9naU5TV25BQ2tDSWpPTi1PVDFYZkg3WG1BcDJlcFpDTUZPTm40dzRTZnR6Z3YxNnZDZ1Z3aTZzamdqRGl3MkI0cWgxTW9PUm1fZV9Qamc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-20T22:44:58+00:00",
+      "score": 63.27,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ce0d124d73f82a80",
+      "title": "La extrema derecha continúa su avance en Alemania, AfD gana otras elecciones estatales - Reporte Indigo",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVc5TG04bWFYZGJBWHJua041cFFWVEhncm4tV05zalNUN0ZRdDMydXVWMXhPQkd5NzA2NW5MVklvUGdSU21fMXBIczJMM1BHalBZYUdIRE9UcFVQLVlDcEE1MjNlMVdOVHJYMXcwNm1VMjRGdUhMQkFaVU5WaWxqVk5aSEtDNlRBZmdhY1dXQkQwaTl2LUxtUkt6ek1LTnRySVotSFl0bmpWekhvMlpuUjkxU3lxbk9mV2hjWFpaZG94aXZmZlVSN3RuVGdkMllQclFjZUJkWUFIQkFQbG1Id0130gHnAUFVX3lxTE5CZk4yalNOUFBZSTE2dDZKanVPVWNzU3VpRjF5R3pDckxuOVdmR2lSVWFIUjJ0Q1JuOFF2eEhlWlF2Y2xJTGI1aC1Sa29oZFRJUVVYbl8zZTlwX08xbUIxX2dfdFVscURlQnZxN28tbTZ0WV9HTktKSVRUWWtfal9zamd0V2wzOGl5WVViV1FYZDIzelhHdFd0S2RoeHdtdnlhUjBxcUZLVEd4clctUllTb0hWTktuRl9WVUN2bkpYaWRmR0l1ZGxRaFUyOVhUR1lfeVdrMTZJOUQ0OTA2MU5MR2FmQWI0aw?oc=5",
+      "source": "Reporte Indigo",
+      "published_at": "2026-09-20T23:45:00+00:00",
+      "score": 61.33,
+      "corroborating_sources": [
+        "Reporte Indigo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "5478e41684f45739",
       "title": "Prop 40 would create a first-in-the world-tax on billionaires | CA Politics 360 - KCRA",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWW9VTWFtQWlXeHNreHJUcDBoMDhlMzV1NzdwVkVZaXpscW5IRFJLbHJxWVpkS2R6OE9oMmVSRjFldElHQkIzMThlb3NFUnpuWnVRM3ZmQlpTc25qVVJEWm52cjUwT1E2NHFRREhWSjA2dVFoTXVkUldCOG9lQ2t0U0ZZYllTM2xZYTY0X1hTN1JtRFlkTnBHUXJOTXNHeTBUdW9kbnRaTGlfdEY0MEFQc2VuOHpaQQ?oc=5",
       "source": "KCRA",
       "published_at": "2026-09-20T15:25:00+00:00",
-      "score": 67.45,
+      "score": 61.3,
       "corroborating_sources": [
         "KCRA"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5e51f548c43f3052",
+      "title": "Los comicios regionales dejaron a AfD al frente en un estado del este y a la izquierda como primera fuerza en Berlín. - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkxaLU8tUDA3dVJVUjZJeVpUV3B2UTFxdnZncEhLR2ZQdnZWdkNRaFRYelNBaHZEWDF5U2xyZmNNcFVsLXFtSnlMV04wQUlrMUxIaGQ1V1VadG1ldFpTelBjX0JpcDczV0tPeEc4ckxxc1BhMzRDbnA4alBJazI5blJsa1htWWRNSmJrbmJCcmM3dmJMaFAtMkFEd2ZrbWxvM2Q3aktIbmw5bmlOdVpTRWVyZXhFVmExSHFVTlh6SQ?oc=5",
+      "source": "El Cronista",
+      "published_at": "2026-09-20T23:27:57+00:00",
+      "score": 61.03,
+      "corroborating_sources": [
+        "El Cronista"
       ],
       "signals": {
         "source_count": 1,
@@ -26,39 +146,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPUmwwblFYX0NYeGJ5X2pHTlYzSFg5aEc3UjlWR0ktaXp6N3JBcUZ2ZjVqc2xqVnV0QUtDXy01ZGNlbmpRY25fZENBWWtZUDVHd3NVdWoyU1lVbE5sY2JzSHpkRGlaazV5VTczNE53cHNwQngxdGoyMk5iTTBhZlZnWW1LbkpTeXlzUHpVbUN0NWtoWkRCOTFjb2lWVlNldlJsd1czOVpHQmdZZkxCVHFIcnNtdGNJbHJOS09IVWZZSEVBaE1UVFhNWTZpQjZZYlI3OUxmRzRiR01VWXkyLTdhWWpENnM2RXpNTUhBQU5fV19lRmlhcTZPUGdGUHByYXlneWJRRnBvdW9wVGtBOFVKM3RaVnJzdmc0X0tqRW01Zk5yUHpVY0pQU1poNzJobHJ1VUJB?oc=5",
       "source": "Ministerio de Relaciones Exteriores de Colombia",
       "published_at": "2026-09-20T14:49:45+00:00",
-      "score": 66.85,
+      "score": 60.8,
       "corroborating_sources": [
         "Ministerio de Relaciones Exteriores de Colombia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a869dce02a7ac4e0",
-      "title": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured - audacy.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVlFOTN1M2FIeUxrY25HdDgxM0JKUUt6ZDh0NDIxbFN3cV8zLTRXMGpfSEtVTUxHWUpuSlBXNDdIRDRXdk1adndzZWVaaHJPbC1zd1ZRcTRuVENTTW9jb19uUF9HSjB6bzk2WGVoNDVWdTd0TnlESDdJYnRfMUVXeU8zcE9VbFJMSE1CM0dXNVB6eUF1ZDBOc1l2aEliVVVOMlVZbThmTURtandYaVdaWFYyTnNJRGdJM2J3ZQ?oc=5",
-      "source": "audacy.com",
-      "published_at": "2026-09-20T13:47:00+00:00",
-      "score": 65.81,
-      "corroborating_sources": [
-        "audacy.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "589322da8425fc10",
-      "title": "Delcy Rodríguez participará en Asamblea General de la ONU - Diario Primicia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcS1uLUZDUGc0dFMxNmRwMUNVam5OcmdxSHJGTzFyc1B3a1BpcDRRcm03Y1pNbTZ2R2RzTTF5ZmQwengtQjNSQVRwb2lPTU96VEI3WVU5cG9aSk9LLXp4ZUZzV3h5UlFYX3VXVHJmM2puMkx2QlVDeGpUVEpMSlQ0WWV6dlVqVi1rdFBkOVU3d0plZW8?oc=5",
-      "source": "Diario Primicia",
-      "published_at": "2026-09-20T20:15:00+00:00",
-      "score": 64.76,
-      "corroborating_sources": [
-        "Diario Primicia"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeF9HQ0tuX3g3a2NTU1FfRFZ5X0VMSjN0VkRaRktLdVN4cXBTUndWY1JPOUJQelptaXAtVUc1TDdNbW83VVVSWU5jdGFmOV8xRXBfdEhzbjJGVG85WUhjYjl4RDRzZmdiRkVINVhaMV92bHFrU29tTHgzQTRwdlMweUIzYm9YYzhzRUdPZ29uOFhGZEsxR1loU0JSYWowNnZnOTNDdkxCX0FtQQ?oc=5",
       "source": "audacy.com",
       "published_at": "2026-09-20T12:29:00+00:00",
-      "score": 64.56,
+      "score": 58.89,
       "corroborating_sources": [
         "audacy.com"
       ],
@@ -81,44 +171,14 @@
       }
     },
     {
-      "id": "ae722bd15aac89c5",
-      "title": "Eleição depende de cessar-fogo com a Rússia, diz jornalista ucraniana - poder360.com.br",
+      "id": "c48ef5e40b7f0f8b",
+      "title": "Eleição depende de cessar-fogo com a Rússia, diz jornalista ucraniana - Poder360",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWQzelFvTXpCRDRNaVFhajRrc1gxcUxvcnVlOVlHSTVMV2VScDRMUl9VMVdVd2tMeGpfcF9CR1V6WVRUZGx3QzZIOXdFaXNSVS1vVlRFUmlnVHYyS3prYUhnWXJ2c0RDVHVYOFJxU3JyQldmWUcwV0xYZ0ZOU2xOMmpNLVB4cU0yOGpOdXZ3em1vSnZwZmhrMVRCOEhKa3M1QnpFZ0VoU2xxcV9sQXdmUFZjSldJR282?oc=5",
-      "source": "poder360.com.br",
+      "source": "Poder360",
       "published_at": "2026-09-20T08:08:41+00:00",
-      "score": 63.69,
+      "score": 58.66,
       "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ea5bbc34d90a5ccb",
-      "title": "Trump cita chance de “eliminar o Irã”, mas não descarta acordo - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFlpNENvNVkxRXdjaEk3dFpWZ2pIYl9tNGVwanBxcHpkcVItLTJ2b2VETDc4UnVlNWNUMEFvVkZackM0LVVCMEx4eFN1dVV5OGtZQU5xUHlJZHdvMi02eWl4cExQNnpzMnpjQjF4NjFiSDY5aHRueTJyN1pnVmRZNjJJS3l6RjVrTGMwZ0lhekF0VnJQT1RwaE82STdLYU5uOEZrZjNkUnJDcWNvSUYxNS130gG6AUFVX3lxTE90MEdmd29Sd1NHSmxlemJZLXZSYl96YjFjUUtYdjRRSHcwZGR5REFqd3ZBbUxRaFYzVl9fZW1sSjFNbXBvRnV6cFZOUUZzVnRGR1M5Y1hfRklwb25xcFJ0aElsNVRORVI2TG5GMXRRTC1oNlotUDVfV3FkM1B6bnNJRmVIZi11WUxxanhaa3A2T2RVNTZ4aUxqbEZscTdxMnVGWllLVGZkNFc2dmQxSEdnN2l1ZGplS0JUQQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-20T19:05:00+00:00",
-      "score": 63.41,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "249e8c9aa2f051c8",
-      "title": "El tiempo no es neutral: Cisjordania y la política de hechos consumados - MUNDIARIO",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejNyTm5sUVg0cVdTbng5MW52NUlKd0gzdlBYeXdySnhHbWZvcGhRMGZwWGEtSlZFX3pnaHFhSFBKcFl2eXFQREV1M25CdHVSbHhZSEpOZ0tqUlkxck9uVlBXZmhqNWplajNrbWJETHNEcS1KUkdnbkJsSU95SmFfMFJBUzV3cW43RjE5N1pqYWNMSGoyc1V4SU43V1o1aW1PWWJtZTkxR0toMko2WHR4UDRybVdadHlQRVZ4X2tZbHVzTUFPQWfSAcsBQVVfeXFMTnBkXzZnR2p1QTVQaE01MmZyUkJRQTRjNTRNRFZWSTk2WG0wNHNuYTdrUFh3bnJPa2RxaUpCSGVnaGdtcFBMRDg1SkY0eEVtY3Mwb01HZHdFQzJ4dm1SOXF3bUQ0c3pKb1A1WHNINUtfVFRtOWRtQVNuZml1dEtrRmEwMzVnOHlrVXpvOThJWDJiZ0lsbnJIazFFcHpKWnBDRENud0pyRTNCU3RyU2ZRaHZLVEE5RjQtV3c3ZF9RNnUyMFdrWGU4b3YwS2c?oc=5",
-      "source": "MUNDIARIO",
-      "published_at": "2026-09-20T11:03:36+00:00",
-      "score": 63.24,
-      "corroborating_sources": [
-        "MUNDIARIO"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHpvUC1weE14VUZpT2J4ajJOTHptbEJ3YlM0bHFYSEJmQWdRdF9HdXhKc29oNHd4YVJPSUlINU1wU1VmR3M1eFg2cGV6elozSzdydnFadmlUU2h1MHd2dVlfYlVpY05iZVptQlhnLW9uRHZFOFQzUFJiVjFyeVA3VUhOeXNhSzN2RXRQdllyMnU4UGszRG8xN3ViS3NwWUxYckl5ZlJxX21HYUxnVFlDRE9rSDN0Ri1jWEQxd1BPbUV4NkMxR0hv?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-20T07:00:00+00:00",
-      "score": 62.74,
+      "score": 57.88,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -141,14 +201,74 @@
       }
     },
     {
-      "id": "b0cf3158edd601bd",
-      "title": "TSE suspende campanha de Dallagnol ao Senado - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzNuQUhjZzRDcHJId0tUcDRLRkRSRVRNYlJ1bXlSSGZ2dGx4NFdYWkx4eWhJSWh0OHVzTTUtV2NzaG54T1pnMTlLcVc3ZnlyX2lCV0x1eTVjcG9qV0xTSVhnaVNpNUJzZC0wX1RmRkJ4UlBha0k0RzllMWgydWpyQnVDdm55RHJaV01VLXdzZ3YzaVEzU3FkZA?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-20T05:03:55+00:00",
-      "score": 61.21,
+      "id": "589322da8425fc10",
+      "title": "Delcy Rodríguez participará en Asamblea General de la ONU - Diario Primicia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcS1uLUZDUGc0dFMxNmRwMUNVam5OcmdxSHJGTzFyc1B3a1BpcDRRcm03Y1pNbTZ2R2RzTTF5ZmQwengtQjNSQVRwb2lPTU96VEI3WVU5cG9aSk9LLXp4ZUZzV3h5UlFYX3VXVHJmM2puMkx2QlVDeGpUVEpMSlQ0WWV6dlVqVi1rdFBkOVU3d0plZW8?oc=5",
+      "source": "Diario Primicia",
+      "published_at": "2026-09-20T20:20:37+00:00",
+      "score": 57.82,
       "corroborating_sources": [
-        "poder360.com.br"
+        "Diario Primicia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "249e8c9aa2f051c8",
+      "title": "El tiempo no es neutral: Cisjordania y la política de hechos consumados - MUNDIARIO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejNyTm5sUVg0cVdTbng5MW52NUlKd0gzdlBYeXdySnhHbWZvcGhRMGZwWGEtSlZFX3pnaHFhSFBKcFl2eXFQREV1M25CdHVSbHhZSEpOZ0tqUlkxck9uVlBXZmhqNWplajNrbWJETHNEcS1KUkdnbkJsSU95SmFfMFJBUzV3cW43RjE5N1pqYWNMSGoyc1V4SU43V1o1aW1PWWJtZTkxR0toMko2WHR4UDRybVdadHlQRVZ4X2tZbHVzTUFPQWfSAcsBQVVfeXFMTnBkXzZnR2p1QTVQaE01MmZyUkJRQTRjNTRNRFZWSTk2WG0wNHNuYTdrUFh3bnJPa2RxaUpCSGVnaGdtcFBMRDg1SkY0eEVtY3Mwb01HZHdFQzJ4dm1SOXF3bUQ0c3pKb1A1WHNINUtfVFRtOWRtQVNuZml1dEtrRmEwMzVnOHlrVXpvOThJWDJiZ0lsbnJIazFFcHpKWnBDRENud0pyRTNCU3RyU2ZRaHZLVEE5RjQtV3c3ZF9RNnUyMFdrWGU4b3YwS2c?oc=5",
+      "source": "MUNDIARIO",
+      "published_at": "2026-09-20T11:03:36+00:00",
+      "score": 57.79,
+      "corroborating_sources": [
+        "MUNDIARIO"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "43f7695b8c93f407",
+      "title": "Dino dá 90 dias para Fazenda apresentar proposta de aprimoramento da CVM, após falhas no Master - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanRUTHAzNFZnbS10RUFjSFQ1VWpfSHdfYVdWZDV3MVpDdklheXFWRFZjbnBsdEhCbzJlU204cm9pa3BwSnN3cmlCQU1qMVk3ckVFOTQ4a1ZrdFJpRXNDYUNhaTVOWUMybk1QMDZ1LXhaQXc2bUxZM2lmU2pZQXNiZnN3eWY2QVhzeFVGeXhMZ2d4TFEzNWVtT2VveF95azF1bWVKV3RuTmV4SFltM3dUZktBU1QxRExYUlBVb0tVT2V0WEl0ZzRCNl9MY9IB0AFBVV95cUxQbThhdnNhd1lHeEJVZC1FbWdMM1lRRDJpakF3ZUlpc1UxU0ZtZzM1M0R0QmtsbzFaVTBQaGpCMm51N2hFZ1dxb1dya0VsemNMbkxyUmotalhmVnZBalRwLVFWNGw0c2hGMFJWUjVfY1dvNlJqQ0FXWTQtT2s0d2E2Ul9Sei1GenJmMlhGUmk0X0EzZzNNQTlQT3hNUUJCUS05QkRJajVzSXJGNzBUanVERlU3cTQxdWxjMkc3dEwyNE1VSFRRMnVIX3JxTWs1Z3NW?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-20T16:08:02+00:00",
+      "score": 56.92,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ea5bbc34d90a5ccb",
+      "title": "Trump cita chance de “eliminar o Irã”, mas não descarta acordo - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFlpNENvNVkxRXdjaEk3dFpWZ2pIYl9tNGVwanBxcHpkcVItLTJ2b2VETDc4UnVlNWNUMEFvVkZackM0LVVCMEx4eFN1dVV5OGtZQU5xUHlJZHdvMi02eWl4cExQNnpzMnpjQjF4NjFiSDY5aHRueTJyN1pnVmRZNjJJS3l6RjVrTGMwZ0lhekF0VnJQT1RwaE82STdLYU5uOEZrZjNkUnJDcWNvSUYxNS130gG6AUFVX3lxTE90MEdmd29Sd1NHSmxlemJZLXZSYl96YjFjUUtYdjRRSHcwZGR5REFqd3ZBbUxRaFYzVl9fZW1sSjFNbXBvRnV6cFZOUUZzVnRGR1M5Y1hfRklwb25xcFJ0aElsNVRORVI2TG5GMXRRTC1oNlotUDVfV3FkM1B6bnNJRmVIZi11WUxxanhaa3A2T2RVNTZ4aUxqbEZscTdxMnVGWllLVGZkNFc2dmQxSEdnN2l1ZGplS0JUQQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-20T19:05:00+00:00",
+      "score": 56.61,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "01e4f4956638ccac",
+      "title": "TSE suspende campanha de Dallagnol ao Senado - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzNuQUhjZzRDcHJId0tUcDRLRkRSRVRNYlJ1bXlSSGZ2dGx4NFdYWkx4eWhJSWh0OHVzTTUtV2NzaG54T1pnMTlLcVc3ZnlyX2lCV0x1eTVjcG9qV0xTSVhnaVNpNUJzZC0wX1RmRkJ4UlBha0k0RzllMWgydWpyQnVDdm55RHJaV01VLXdzZ3YzaVEzU3FkZA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-20T05:03:55+00:00",
+      "score": 56.6,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXNsNkVyQWJiU3ZqaFBVMERJZlloaE1WOUFoLXdNT2hKOGdhRnZubXRaaG8tckRpeG5LcUtiaDIzR1E2Nl9mWUpfLUl6U3E1b3RMQVNheVFSbDl6eXBkaDRmMGgyZUh1cnVJNFp0a2JTWWU2TEpDVkd1WGo0dm44cFNRRDhVUl9seUk2YnNqN0htMGYwUFVmektfRWpMdmvSAaQBQVVfeXFMUEdhQXRrc0d2czFTMkVNV29nQzlSNG5hWE9iZjZyX2Q3RVVCRTZDSWlqVjBOUXl4MUZHMHlxUVNWS2VhdHZNT0pRQnlrRWZoN2NtTnFUSm8zMTN0aTZZbi12cGRmWDJwbkhWMnBlZEQwYXVycUhuNnBySWVla2p6UlMwUm1Ec1dhY1oxbjZVQjZJdVVLck9HeW1wQVU5T1JJUGZOOS0?oc=5",
       "source": "The Objective",
       "published_at": "2026-09-20T08:26:49+00:00",
-      "score": 60.94,
+      "score": 55.88,
       "corroborating_sources": [
         "The Objective"
       ],
@@ -171,44 +291,14 @@
       }
     },
     {
-      "id": "d5e9e3ee2b2973a6",
-      "title": "Lula volta a confundir Janja com Marisa durante evento em Guarulhos - poder360.com.br",
+      "id": "79a50fda249eadf6",
+      "title": "Lula volta a confundir Janja com Marisa durante evento em Guarulhos - Poder360",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmVUTFlxSERfei1GWUE4Wi1udkF3UHFfQUZtVHJJd1ZmLUFkZ2xQdnBkd1pjeTliM053d0NmU3ZPZktTcXZuU3ZhUlV1STh5VEpXWmh0bVF4VmNaUjZlSTMwQ0ZyMHBKbWNiTjZueUFWdllUaVktMkZxSk9MNVV5ZGFZRDUzRE8xckdhS3JHM1lmdEg0MnF6NlBGTHFyRmJRSGg0Y2tHSFpzS2lDTWlJ?oc=5",
-      "source": "poder360.com.br",
+      "source": "Poder360",
       "published_at": "2026-09-20T13:54:31+00:00",
-      "score": 60.93,
+      "score": 55.04,
       "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "40de5cdbb4bcd99f",
-      "title": "Meloni plans to ban burqas and niqabs in Italian schools, and cap foreign students in classrooms - audacy.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2JNNjFZZnYzaUlfVFpSRVoybmhJbkd2SXdXYnRxLXNBNkxmNVpCclpYdWVWdkxWUVRRdkVBTFZQaE1VQ3ZLMXkzbnAzbHlxSXMySkFsTnRhZVlUeWFmZ3JKeWk4c2NnQTltUTVJWk9wQl93RllWTWNPeHNEQ3k1Y2FieDRqZFQ3QWQ5TFdTX0lfQ0RTaGV2ODhDNlBjbzBKcDlVX0dDZ1lGWm5kbFdNSk5qVQ?oc=5",
-      "source": "audacy.com",
-      "published_at": "2026-09-20T15:56:00+00:00",
-      "score": 59.98,
-      "corroborating_sources": [
-        "audacy.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "974257d2a5bc1c2a",
-      "title": "Entrada masiva a Ceuta \"es un asunto de soberanía\" - Diario Las Américas",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNenNwcktrUEFYb2ZKckhKMTAxckFQV1I3OGR5UVFlcEZBNTEwUGNTMkhmaU92bkhKelYtV3g1RURadXZ2SWM3MVpZVzZfZFhpZ0dIZDdqay1SMV9TdkY0aUdvMXJFRUJlMk92MnlyV01Nc3kzM0Ria1QwYlpaTUQ0aVFrb1IzOV9VZ21weFpMN1p1MmFXYWw2c3pB0gGfAUFVX3lxTFBMaXFLQTB1cHZ4bGZnbjJkZmNHUXpLV05JU3l1RHNhYjZoRWlfNEFxQzY3VzhLTVJiUEpPQlo0Z1JOVE81ZlU5bXByT3hpenVmdUJTNnkzbU5YRUtrS21maVZfc0ZYTENOSTlfajhTMm9FcXcwLWp6eWhHSEhjRS1pRVBieDJ3ZHlBYUFsVklVVDJtdFJ2YlJzMHZlZzAzSQ?oc=5",
-      "source": "Diario Las Américas",
-      "published_at": "2026-09-20T15:56:00+00:00",
-      "score": 59.98,
-      "corroborating_sources": [
-        "Diario Las Américas"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOGR3STFmMlBqZ3Nld2FaSVYxdmdxaTVBamFoR2lFWlV5bmEwS0JQRlVQSjBjMWRBSHdUNGl0ZWxoeGtVVEVpb2I3dDA0cjN2TUJWbjdtaFp6NFF3UER4NE92TVJqeXFMWTloV2RCMkN4UHV3bkdMRkFJWUFVWVp3MktETlpJSGkxZ1Rqd0dwYnBDT0R1eW9yT3UyeHdEZ3RGdVBzN3YtRDlodUVicDlzUzVlNG9yOHpqbDVvemNQS21IRVd3MlQtUWhBOUFZeWhXSFBrOTdfXzEzcjZ6X1ZEM0REdzk2ZElfQ2Fubmd3cmk1bjFGcmow0gH8AUFVX3lxTE54SFFiUkJnR29fRFctcUtGbFF3aURFeDhpOHY3REJHdkFFVGhSdTR0NEM3Q0p6ZHJ3SzhXcUhyRmFpUzBVZWZGd2pXYkFzNmloMnNiV0lMeUFEaGViYzBRY3d0RmhaTnVldkxhamE3M1ktMzJBQVRka1duY0VyRHViZjhBLUR4UTlneW91RmdtMzNnWi1jbUQ1b2ZQazRtNUJWNzRuVDJFVmNSUFJnX1VPSWZZeU43emhQZnNWN1ppZUlMdHVsOVBjYm8zN3FWYXBrVkpUNG42T1NreEt5a2hSQk5RaXp3NnhGT3dIaUh3UkRMbjZ4a3NqODNGcA?oc=5",
       "source": "Perfil",
       "published_at": "2026-09-20T06:08:35+00:00",
-      "score": 59.05,
+      "score": 54.3,
       "corroborating_sources": [
         "Perfil"
       ],
@@ -231,14 +321,14 @@
       }
     },
     {
-      "id": "70ed2248754cc434",
-      "title": "Trump Is Dismantling the World America Built - Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbV9ObWFpODZxV3h3RHhVcFFlNzM1MTM4c29yY2tIM0dSbHJENW41V0xsQjkwOUZYN3E2bUZETHRkQjBOckc0N19pVGFzV3JaQU42MDZkTjBfX2hsVVpYUjREdGFNSTJiZ3FzOTZHY29hZUZJSHdfeGZuanpjQS1yaWFaRVNiLUlMZFB5aWZpWENfRjNNUE1UR3REVlNMMDlLRldUei1VUQ?oc=5",
-      "source": "Rolling Stone",
-      "published_at": "2026-09-20T14:00:00+00:00",
-      "score": 58.02,
+      "id": "974257d2a5bc1c2a",
+      "title": "Entrada masiva a Ceuta \"es un asunto de soberanía\" - Diario Las Américas",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNenNwcktrUEFYb2ZKckhKMTAxckFQV1I3OGR5UVFlcEZBNTEwUGNTMkhmaU92bkhKelYtV3g1RURadXZ2SWM3MVpZVzZfZFhpZ0dIZDdqay1SMV9TdkY0aUdvMXJFRUJlMk92MnlyV01Nc3kzM0Ria1QwYlpaTUQ0aVFrb1IzOV9VZ21weFpMN1p1MmFXYWw2c3pB0gGfAUFVX3lxTFBMaXFLQTB1cHZ4bGZnbjJkZmNHUXpLV05JU3l1RHNhYjZoRWlfNEFxQzY3VzhLTVJiUEpPQlo0Z1JOVE81ZlU5bXByT3hpenVmdUJTNnkzbU5YRUtrS21maVZfc0ZYTENOSTlfajhTMm9FcXcwLWp6eWhHSEhjRS1pRVBieDJ3ZHlBYUFsVklVVDJtdFJ2YlJzMHZlZzAzSQ?oc=5",
+      "source": "Diario Las Américas",
+      "published_at": "2026-09-20T15:56:00+00:00",
+      "score": 53.75,
       "corroborating_sources": [
-        "Rolling Stone"
+        "Diario Las Américas"
       ],
       "signals": {
         "source_count": 1,
@@ -251,9 +341,39 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMWJ2ckVWUjI0STF6YUVHVm1rMEM1d2g5ZXFsMXd2aThldl9kZnM1X0d3UllTX1JJa1pSZVhhZVoycjl0NkxnUTdsVFBYNmI3Q3FLcWZEU3RTWXVLcWpaZnEyTE9RWV9NMW5zLUhXaWZTOWtqRFdSYmdrTjNBY1VFWF9VVnhvQ1QzNS1XeElValhhT01Uc25JalRGOUZyVW0zT1JKUTNiRTlzRHR4TVJJSVpXNnd3R28xNzJFYmRSVWh1RnNrU3E0LWhNNEZrbGpBT0tVQ0J1b3Z2V28zUGJrN2Z4V09NX056RWpBb09EMUxoQlBOeDFkd1R4a1dyT3R3Smc?oc=5",
       "source": "Hispanidad",
       "published_at": "2026-09-20T03:55:00+00:00",
-      "score": 57.34,
+      "score": 52.87,
       "corroborating_sources": [
         "Hispanidad"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "619aeeeee2f76cd0",
+      "title": "Candidato do PL ao governo de MG é internado com pneumonia - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmFCb2pUUFloeXlBdnZYcXZhcU02UHRVdmJfSm5vSE9TQ0Zmai1GbFVxekVwWUNmLVBVbjBUemctakJQS09qeTZJWUVIeGZFZXNIUTZUMnFPS0Z1SU4ycWtEdzJseHBhM21fcHlQSzBYaE1xVUwxMFRVMVpJTW12ZWFKRF83Wm1JRGhsRVRWcF9uUzYtTkdCbGtNZ29sV1cwOXZiUk9tNFA2Q0U?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-19T22:09:20+00:00",
+      "score": 52.56,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "70ed2248754cc434",
+      "title": "Trump Is Dismantling the World America Built - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbV9ObWFpODZxV3h3RHhVcFFlNzM1MTM4c29yY2tIM0dSbHJENW41V0xsQjkwOUZYN3E2bUZETHRkQjBOckc0N19pVGFzV3JaQU42MDZkTjBfX2hsVVpYUjREdGFNSTJiZ3FzOTZHY29hZUZJSHdfeGZuanpjQS1yaWFaRVNiLUlMZFB5aWZpWENfRjNNUE1UR3REVlNMMDlLRldUei1VUQ?oc=5",
+      "source": "Rolling Stone",
+      "published_at": "2026-09-20T14:00:00+00:00",
+      "score": 52.11,
+      "corroborating_sources": [
+        "Rolling Stone"
       ],
       "signals": {
         "source_count": 1,
@@ -266,69 +386,9 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVluV1RmclNZWE5SWHphemJ1YUhjSExNaVBEblNHMmFWdXRtbUxXR3gycFZhb0M5cTR4ZWMyZXQtTWhNRVdLVzBzSkx5dDlwTi1mbHg4cDk5RUppc1A5ZWhIRGNyb29wWmFjVzlxcm5ZU3Q1MHh0cjhvci1TclFQSi1veVpwdW1LUGVwYkI1aExjOFZVZENfY2x1LWY3eGNialVsYmpIdTNyRy1VNDlYOTdaekdFZUxTWGRXUThyWGhrSThZZ1BCUHR2Q3dSV0XSAdQBQVVfeXFMUEtTdkQ0aEJKem9YMU1LWktUWmgxSFlSZ0hHYXJuX3pwel9oWE1ReE1Nc3pFNW0tb004SWNnMU0tT2p0ZUN6SUtadi1fTHVrampPWW1sa1N6cDFjY1lSUTRIWnhYWEo5cUhZX2wyOWUweDJJNks0Qm9WSWFZcmdBNndCcTdITjJXS05lVXFsUUJtSnpPU2lLSjZPY09MU0tMX1JJSTBhbWNDMFpMZzVEWlJGV3p2TFZWN29qcnpUYzBuc1Z6ZzNTUGdvS29fUVRZTzJRaWM?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-20T10:00:00+00:00",
-      "score": 57.29,
+      "score": 52.0,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "060237f27e11213c",
-      "title": "Wagner critica Flávio por pedir medidas contra o Brasil no exterior - bahia.ba",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNktMZ3ZsdTdwR3BvZnBrM1B2cExuNDl6b1pvNDJ3SkZUX2xOczZCTkFrcmNiSHJvYURKNmR6WmdpYjZveEp2bjlXa2FEcGlWUU4zV2hKYzhYejNfblNWVVU0eE5lNlZnTVBTYzZjNHFrMk5PVXoxWEFEd2o3Q2VadXNqLUJXeWFkaWhKd1ZhdTV5b1ZWRFNzZDJn?oc=5",
-      "source": "bahia.ba",
-      "published_at": "2026-09-20T12:30:09+00:00",
-      "score": 56.57,
-      "corroborating_sources": [
-        "bahia.ba"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "71ed9d417db4f003",
-      "title": "Candidato do PL ao governo de MG é internado com pneumonia - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmFCb2pUUFloeXlBdnZYcXZhcU02UHRVdmJfSm5vSE9TQ0Zmai1GbFVxekVwWUNmLVBVbjBUemctakJQS09qeTZJWUVIeGZFZXNIUTZUMnFPS0Z1SU4ycWtEdzJseHBhM21fcHlQSzBYaE1xVUwxMFRVMVpJTW12ZWFKRF83Wm1JRGhsRVRWcF9uUzYtTkdCbGtNZ29sV1cwOXZiUk9tNFA2Q0U?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-19T22:09:20+00:00",
-      "score": 56.37,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5e535308249e1609",
-      "title": "Lula e Flávio apostam em figurinhas repetidas como conselheiros econômicos; veja quem é quem - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHFWbk16bEJ4aXB2U0xCOUNLbnhPSU9LXy04anQ5VUhZT2plcDFNRzJhdEpDMDBMQ3lzRko3dGk2U0xBeU5TS1NqeUZZQ2Q0QXN1bTMwdWtMcVcxMGU5N3VGLW1IaXlXaVV2cnRoc3JoVkNpRzZna1VOVjZFYlY5Rk9wQUl5Q0dmeHkta1puaXhSa0N3UFNvMmk4bWN5Z1U4bnFLXw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-20T08:30:00+00:00",
-      "score": 55.99,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "09b5c7ec8713acd6",
-      "title": "La ONU abre su Asamblea anual ante un mundo en reordenamiento - Rosario3",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXd4V1kwN0VWUjN3cHdGbndfTXM5SmNWdjZITFZvOWJUbUtTVDRjMlh3ZWExS1hmSFppM1RGS2tjVGFhVTNXZWhoZ2M2RXNVVE9pZ0lTc1lOcnhuQXBJbVRSQldEeXFUOUxwZUhLNjBzNkdjbGVWV080aFBNZks2d2VWWW5UT2FzVmM2alNaeUtHVVlPY2RyVHZLd1NJUXZ3ZEhJakp1NWdLa210alY5dWUtS2HSAbQBQVVfeXFMTVl3eFdZMDdFVlIzd3B3Rm53X01zOUpjVnY2SExWbzliVG1LU1Q0YzJYd2VhMUtYZkhaaTNURktrY1RhYVUzV2VoaGdjNkVzVVRPaWdJU3NZTnJ4bkFwSW1UUkJXRHlxVDlMcGVISzYwczZHY2xlVldPNGhQTWZLNndlVlluVE9hc1ZjNmpTWnlLR1VZT2NkclR2S3dTSVF2d2RISWpKdTVnS2ttdGpWOXVlLUth?oc=5",
-      "source": "Rosario3",
-      "published_at": "2026-09-20T11:49:00+00:00",
-      "score": 55.93,
-      "corroborating_sources": [
-        "Rosario3"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkgyVzJmSHp2OWFNU0xCc1RHQmxSSmV2aWtiRjFZakFmVVA3ZGs3Z3NaeGhUOWFibkx0TUV2MDJEYnUzcW1DWkRxdmhTelUyNHFwNkJOQTc2SDJnWHVldUhjdEFva0FGNW1SOGlPcTF5RHNOal9ZcnJtYVkyQ3JZTW1KQWhVZTFWaTVEWTVBLWJCRVVnNzJ1MWdVQkc4Z0tOQnd3OXdXSkd2Zw?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-19T20:56:00+00:00",
-      "score": 55.6,
+      "score": 51.92,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -351,14 +411,29 @@
       }
     },
     {
-      "id": "4ea7d018cdbdb4d4",
-      "title": "The Company Trump Can’t Ignore - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
-      "source": "Politico",
-      "published_at": "2026-09-20T11:01:00+00:00",
-      "score": 55.2,
+      "id": "060237f27e11213c",
+      "title": "Wagner critica Flávio por pedir medidas contra o Brasil no exterior - bahia.ba",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNktMZ3ZsdTdwR3BvZnBrM1B2cExuNDl6b1pvNDJ3SkZUX2xOczZCTkFrcmNiSHJvYURKNmR6WmdpYjZveEp2bjlXa2FEcGlWUU4zV2hKYzhYejNfblNWVVU0eE5lNlZnTVBTYzZjNHFrMk5PVXoxWEFEd2o3Q2VadXNqLUJXeWFkaWhKd1ZhdTV5b1ZWRFNzZDJn?oc=5",
+      "source": "bahia.ba",
+      "published_at": "2026-09-20T12:30:09+00:00",
+      "score": 50.91,
       "corroborating_sources": [
-        "Politico"
+        "bahia.ba"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5e535308249e1609",
+      "title": "Lula e Flávio apostam em figurinhas repetidas como conselheiros econômicos; veja quem é quem - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHFWbk16bEJ4aXB2U0xCOUNLbnhPSU9LXy04anQ5VUhZT2plcDFNRzJhdEpDMDBMQ3lzRko3dGk2U0xBeU5TS1NqeUZZQ2Q0QXN1bTMwdWtMcVcxMGU5N3VGLW1IaXlXaVV2cnRoc3JoVkNpRzZna1VOVjZFYlY5Rk9wQUl5Q0dmeHkta1puaXhSa0N3UFNvMmk4bWN5Z1U4bnFLXw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-20T08:30:00+00:00",
+      "score": 50.91,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -371,84 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcy1WdzR6Y3NWRGoyRkJBZF8tRndPYXpzMGw3cEREd1FhdUU4UjladVI5eXJKVmtiMTJ5dHJqSmNmOENxcG1qbGFZLTVwdEg2SlctQ1lHbUVWb1llal9MQV9IcVJJVjM4UHVvQjFEVm5icDFndGo5UFFvaDZqWWF4Wjh1YmtaQjRGck1BRlRQbDZGWlZVZkkwZ05kd2YtUkJEbWwtb2t4djFPN1FfUDBTY3RVUnVhaU1nS3E5S2JlckhBQk1jUmdmSmtFaHFRNEXSAdQBQVVfeXFMTTV2YWJXYm9ZMGFvVGdDd1RxeFI0YzZjOUFFdm54bkVwNFFuUmNYd3ZxUlBYVTQ3VXk1ckxCQ2g3T2FjVHB6aFBPcmlXQWVSVjkwNW9QTFlRRDAzbHlDZGNjQl9vMzVKTWNKMU9CUUZWR3ZQSF9tM3o0eUp5dGtoZGV6bzB4T0w4S2VxM1pnNnB4N3VkYWE2d3JaR0dfS29sT1JnUUp1bTNpaXRidDhsWmNWMDNjd2NwZF9kc0pEM201VmNKYk9DQjJmeTF5SDFYN2RVNm0?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-19T17:58:00+00:00",
-      "score": 53.85,
+      "score": 50.46,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f097e92dcb2b2f5a",
-      "title": "Merz faces key test as 2 German states hold elections with eyes on the far-right AfD - audacy.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXy1OSDQ2d0JnM29HTXhaeEpMUWJ1ZWU0SWU5N2dSd2xCYWkyR212dHVaSWgtTHBUMTdla1VfZUdlbkN5OGZaVDItcEExLW9jVU50bno1Y2toZEVVYXNyTXVqd1VEZlNhN1pQdTg4ejV2MFBEVUg1MjN3eUZYeHdvdmZCdzlmM1RCRFh3NE9UYXRfLUpKa0JjOGtOcU9OUWtQLTZCWGoteGt5M3NoS3llVDNzcHJWVzlSakVlRUlpSEg?oc=5",
-      "source": "audacy.com",
-      "published_at": "2026-09-20T06:52:00+00:00",
-      "score": 51.63,
-      "corroborating_sources": [
-        "audacy.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e52767ba181a4703",
-      "title": "La izquierda uruguaya frente al mundo - Diario La R",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM29YandTQzhjR1J0M25hdTVIdmFFRjhvS19JeExSRmQtOWdoWGQyb050TTA2N2liWko2NGd0dWFrVEp2N1h6dE5INGZqMnQtS212RHJMM1VNak1SdGs5cU5Tck1vY3ZZVThHdlJNSEx4Z3VSRzh2Ny1QN0l3ZG9rUEZ3?oc=5",
-      "source": "Diario La R",
-      "published_at": "2026-09-20T06:20:10+00:00",
-      "score": 51.21,
-      "corroborating_sources": [
-        "Diario La R"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2bb28c227d528555",
-      "title": "Gilmar sugere que integrantes do TSE devam ser afastados - poder360.com.br",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDVKY3RuWHdva0dCcF9EeWk4b2Vfc1A5VElDWDVqSVd2SWpSdEVKcW1yQmJBRzUwdENCckRteWk1ZVZlWlhvRmphMnFsb2NNdTVYcFpySmdrS3dJbW9JZlB5cVZCSjZpMngxUGpPMlRSRUw2c0o4VkZaOWhaclAtRDlKSVVBLXJHZ0RURUtvcDhuWU9MQmphVlJYQmZsbGZE?oc=5",
-      "source": "poder360.com.br",
-      "published_at": "2026-09-20T02:19:53+00:00",
-      "score": 51.18,
-      "corroborating_sources": [
-        "poder360.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "96f6d48138023e54",
-      "title": "Eleições têm 107 candidatos trans; 20 concorrem em partidos de centro e direita - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkFWa0FUby15VGpDLTdrRU1lbEFxd2pWVk5QeFllaVFTVE4zdEFLSXBLTVV1X3JMM29oOGFZU05mdDFCY19mSlFJVWRaZzU3WXE5MExwNFNha2hNN0NHbXItd2ZWUDY1WXgwczl5Ukx0RF8wVmRfXzZFWEFqOXV6bVZqVUVoUGRUYXN2cE16SVMyWkNtNDVmV2NWZk9CczBjZE5tRTEyM0w4N2tuV2FnWnJyU3pjVzRBUi1hYzlPM0JFRjJnYkNJ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-20T02:00:00+00:00",
-      "score": 50.95,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dd5f94b50d7465b1",
-      "title": "Colombia definirá 4 prioridades de política exterior en la Asamblea General de la ONU: énfasis en alianzas, comercio e inversión - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMmtDWV8yMVh3aTg0NE9weEtsbVZUVG5SbXpzZXdVbzY5TFdQTl81VUVaT1F4MWkxbndKbU51QV9WZFdTazhPWXU3ckJCR2htdmNaN2pCZU9Lb2t2VENrVkVLenhxZXkwU3Z3WlBvWHBNRkh3NG9fNmhqTXI4amRuZHV1OW1YQWJUdE9OakNab2VmM2xwRzVyVUlJRUo3VDYtRGQ2Q2tTcUFqSXQ0NW9nT25TSjd6NWpkMDRPZGZRUmhZS2x5S3hHSGFwNFJUeXFIWUZielNHMzctM2JqNFV4c2hrT0RmcGx6Nm1DMmpYSGU3SEVnQzFUR2R4WFg5bGgx0gGbAkFVX3lxTFBka2Jrd3k4WFhYNHB6M19xcF83aEdCSDczZzJzVklmQlhtNWh4WVYxNHZnQmNlem9DbjJYY0RZWjdzbUhWUlFaRzlvZldwNFRDZGVreEhhZWF0LXBoQ2RlQ0V2V1pYQkdRMmJOUkY0YTl3enBsTTRtSkVzR2RPbFJxLTQ2dUJvckRWMndOcDEzeWhWTjQxTEJKWjZLR2txWHVVakZVblBCcXgzeV9YbWVPNHJoczR5WUlSc1dlU2NMOEF1WENtY2VBTEIyZTNCM3ptekxQQzVITS1SN2FlNVl4cmlmdmtBMWpFcnlldHR2OEh2cG5rM3FvOEREMTJ2ZGQyQmlYWGlNOWlSN1BMNFNqbGZVS3lnRjZRS2M?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-09-19T17:42:00+00:00",
-      "score": 50.7,
-      "corroborating_sources": [
-        "Infobae"
       ],
       "signals": {
         "source_count": 1,
