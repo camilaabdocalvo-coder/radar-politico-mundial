@@ -1,17 +1,92 @@
 {
-  "generated_at": "2026-09-21T20:26:42.171350+00:00",
-  "next_update_expected_at": "2026-09-22T00:26:42.171350+00:00",
+  "generated_at": "2026-09-22T05:03:25.181078+00:00",
+  "next_update_expected_at": "2026-09-22T09:03:25.181078+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "8bb8ffaad860ffac",
+      "title": "The Netherlands is bracing for potentially devastating US sanctions against the ICC - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdzJCekFRMkFFd0RUYklKWmdwU0xDSk9TYjNxZDA1SVk0VXFldFJOYmR2c3RIVUExRkZuZXMxUXNPQ05wajZEOWhNdmRVRklDVlJZTW15RFZWYjJiR2pyMmxGUW0tOHpMXzlsakI1OW0wd0tkT2MzSmI4RzBpd0J5TGdoSWdaU2JBQk9JYWhPdXA0NTlnSkFMU3FMcldDT0dEeHNDME1XZDM2b1EyX0Q5a1ZnS1VGaHp6WUlhLTV6NWFvMnlYc0s3ZmhpZ1dzWU1XbmhDUlp5TGlSQQ?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-22T00:39:26+00:00",
+      "score": 70.3,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ebf3440d6ae91807",
+      "title": "Ecuador busca atraer inversión en agenda de Noboa en Nueva York - eltelegrafo.com.ec",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHJiZTRvbkZDWHdsd0x1VE1Va3FFWExIeG45Z2NnZGp5bWtkZjl4Ylc0cno2cXJZUy1IN0gxZzNJT3JVbDE4TW5IM016TzNiV29DWWFPNC1HY21BczhJdGNmSWhOV3ZqQ0VmNHl0ZGZDNTF6b29kNHpOaklaUWZ5TUZQV28zQkc0YTA5czF5TFNKY2EyVHl2SjFRV2IwT09VTjgwZElPWFRCTkJ0Y3FyWnFCekx2bWdhN1E?oc=5",
+      "source": "eltelegrafo.com.ec",
+      "published_at": "2026-09-22T04:30:00+00:00",
+      "score": 66.79,
+      "corroborating_sources": [
+        "eltelegrafo.com.ec"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9c7ae9341095fe2f",
+      "title": "VIDEO | Pico Sanzone en NOVA Stream: críticas a la política internacional y un análisis sobre Israel y Medio Oriente - Agencia NOVA",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibEJIQ1RBbDhrNm84Q3dXeDNjNzJQSEVHY3hHSnQtTDFYXy1lbng0RWxJbkdhQWVyV0NFcXVhSVd0NzFsU2hWV0J0N1FleWNkSkxOQjZTemRRcU93YzN2djlTVmhHOWd6cDdsY2o3aGMzQnN5VXM3SUluTXFrbWc?oc=5",
+      "source": "Agencia NOVA",
+      "published_at": "2026-09-21T21:04:19+00:00",
+      "score": 66.52,
+      "corroborating_sources": [
+        "Agencia NOVA"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "11f86e1335d16c8f",
+      "title": "Messy, troubled, unpredictable: Diplomats describe a world in turmoil as UN opens annual meeting - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWJhWnNqaktvTlZaTjJsd25rS1lPQ2hhbUhmSTdJdEJabFhqMFlrMTlpXzdLdlk2aTBmY3VXdldOeFR0cFJ2ZmNFbC1seWF0OWptbkJLYTdCZ2hZN0dEckQyZHdOWDFOSHdUQjZtcl9Ocm9vZ3hnYXRNLWxWVndCcXU4ejhBSjdsYmFETzd0dFA2MVB2WTlfZEh1b3RZSjQ0bWhVQWN0VE5pT2dpc21rZEVIbEtpWHAyajJ3?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-09-22T04:08:00+00:00",
+      "score": 66.34,
+      "corroborating_sources": [
+        "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d7da4348cf223532",
+      "title": "As leaders meet in New York, the fate of the world may rest on Trump and Xi - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnY2Uk1xckU4dk9SZEQ5dU5sZDdsTmY3UW5XZ2dPX21XNEV1Vl9GNWdTNnE2WFNuNDVFbzVsVEU3b0NHeUYyaTJ3NzZWTUJCOFA1ZzNaNDZSYTJaaEg2d1o2b29jc01SMVZQY3lneEsyclpSbWJaWVp4QVZ0S2Zaa3VnSHJfNDJKa1kyeVh3MGU4V3JyOE5sakJ4ZXpLMVRPaFg1RTRxbUdwLTNYQTY0Sg?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-09-22T03:47:59+00:00",
+      "score": 65.93,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "163ae2ebfc09a75e",
       "title": "Candidatos ao Senado escolhem suplentes milionários de olho no financiamento de campanha - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVk1UWU1vZnhyMlg5MmlGYmVJcWJUYzZzN1NPdGJ2cEk5Tjh2c3lpZDEzdzZ2Xy1WRzlYUWxjcWxfVlRZZ0hjb05UN3A2SmhQRnNvTmRvZnNZU05sUWh4QW04Q1FON2haSVR1NEYtcnFPbFlJSjYxSTA3Q3NXLXdQcjJRMzNJLWNQZUFPdEFlZE8yTXBfWmpCZW80bmlOaVNjMFdNQTdjMWdKMVJ5OUxmeDNpX29GZmdBakYzVXJycEpEcUhMc1Z2dEIwQXhhS3hmSWVWeA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-21T16:12:00+00:00",
-      "score": 73.47,
+      "score": 64.96,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -26,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRG02aG1yTGx2U3RQWE5GRnp0VWtJU2VxZm9IOGhfSHlONElrQnZUWThaQXlnYzkzb0c0eTFiV3hvc0lDRFBCc1JveVJlLUtSUWNhOE11RklMMWdYQ3NidkhXWjVFT0ZLMFdsVnItMUhlR2haMk1PQnE2ZmNJQm91VjNhU1ZSNVFiOHRYaC02Y3k5T1R1LXZMVGFjUVlleVpVRkpvTGozT3YyNTYwdG1tbzdqSnk5a1FFV181UFpJbk9ZRFpzMGhCQ3FNbWNrRGlmcFVTN0RaYWhJenc?oc=5",
       "source": "Revista Mercado",
       "published_at": "2026-09-21T18:34:49+00:00",
-      "score": 73.21,
+      "score": 64.11,
       "corroborating_sources": [
         "Revista Mercado"
       ],
@@ -41,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEVPcV8tRVV0Q2FfMmZTYTR3Y2FVSjlaVlBOR1JNUzlWd3hfaFJvYWtTWnR1NUw4VUlXZmJOY3ZEeDJHTVNSdjNyMXdxMEZXTlFlLWRnQ055TUIxbUhfQ0gwa3FucnpwZ2k2THo3X18xa3ZQbDVDcnpEWjFrUjhUTXIyTTRXRnlxQTBMa3pfU3lFS1ZUaVg4LUU1WEFEUWlnaXg2cHhudmNJaUdsTFpr0gG0AUFVX3lxTE93NlVSNmZwWFBfZFJtdGdoUnYzZ2pRYkcxQWV4OUxaaDg2anB3Y25VRUdvQ3FDNzVuU1lyOENLZDVhN2RoUU1ua082blhRb093a0k2MmFReVA0b29oaHZRajIwLTF3dUEzbkJlV3JwQTdpZlNIQXljdTltWjN3bThWSkNqbHRkb1JIbmtOU3ZNUFRZRXJMNHZMeVJVRjRESnNpMHR3QXBNcnBGTFFaVHIteng5OQ?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-21T15:05:57+00:00",
-      "score": 72.27,
+      "score": 64.01,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -51,14 +126,14 @@
       }
     },
     {
-      "id": "6482cf8e2e1d032b",
-      "title": "Debate da Folha/UOL ao Senado começa com embate entre Salles e André do Prado por vaga à direita - Santa Portal",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSkd5YXA5dnJQODdJdU1MbVIzYnRyZFVlbmNGMnhqSUkyNWtHV2pyTDU4cFZiV1ZVazh5UDZ0Y00tRWFHbE82Um5ETFNLNnJGVWFYc2ZSTDViYkRZNHh5VllUMFRUUGVtd29yd3o0X3pBUXJiYjdDYXZ1Tm0wQW5ObkgzWk5kRHF5Qy1YMzBpdFdTbGlzTnh0T1lQa1ZjcjN5dVRwYTM0cEVGTnBfNG5ZdUFCdDFpZFh4M00yMWJ0Zi0yV3dfNkJucU04M0w1dk9uQjY2MS03NU5odXIzbmdHdEQzWmZNX0dPUUZTN2Nna0x2bzNQOUZF?oc=5",
-      "source": "Santa Portal",
-      "published_at": "2026-09-21T13:49:42+00:00",
-      "score": 70.92,
+      "id": "4e1b251520914e2f",
+      "title": "Trump-Xi talks unlikely to meet a world in crisis - Independent Australia",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkZ2OWVBSzFJM085WjYybmc0VnRTRU1PZ0VOMXRsdGJFejlDSXl2dnllaUFmcEJwaHRKWU5MRVFtQm01a3p0WkdWZzJyam1KNm15NlNSOFBCak5PWEY4SGZ1YWYzR3ZEVjY2dFUyVEI0Zm04YmJOQ0NpYWpDRXBCbFZIUkVUbFZoaGJJZG9nNjQ0UWpaWlFaM2lRbTh0RFdLUThoeVNRQ0M2S01waTNiLXlSa2Q?oc=5",
+      "source": "Independent Australia",
+      "published_at": "2026-09-22T02:08:56+00:00",
+      "score": 63.98,
       "corroborating_sources": [
-        "Santa Portal"
+        "Independent Australia"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +146,24 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVBOZzJDZkNlWXc0VFEyWHlMcE5XZ1hpVTRjTlQ1RXV3TnJFazFGSFlHQ1BHTTRBd3VWSldrc0h0ekFBWVVoUmpmQmNTZmE4Q2dIcFhTTmM3N3FBLWx2NEtzbzFLMUNsTzFOck5TQkFabXk2LWxqSE1OeW5DWS1odlRsaWc1bV80ZVI0YWFzSXJ6MkNhS3J3Rjlnd1BCNml6QTJRbHBLam85c0tBTEFxeUo1LWdKQ2F1?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-21T12:47:24+00:00",
-      "score": 69.86,
+      "score": 62.12,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f379001bc20e6373",
+      "title": "With the world's leaders waiting, Trump meets with Mamdani - The Tribune-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcnNPbWczLXpoWTMzZlp5bGk3dlB4d29xakUzODA0azlCS05vZExDTjRwZjhMckdZS2hoU2tVQjkxNlVnQXJ1bjBUZEh1a0VfTEFZNER4aFNManhKWUplR084Z05GRWFYMGJTZ1hQN2llM2RMWEN2MDRhdFphX2ZsWHpha2xjZnFxSFZFT1piMExwU3ZVOUU5WUl5V095b3p5SE9iMjFtS080c2ZKWkRDVXRET0lGdElYMHlaeUZYTmtBVmQwS0VYQi05YnYyRFRPOHFkWGVia1hqeldO?oc=5",
+      "source": "The Tribune-Democrat",
+      "published_at": "2026-09-22T00:23:00+00:00",
+      "score": 62.0,
+      "corroborating_sources": [
+        "The Tribune-Democrat"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaGdlWk9rNC04YnlmUm9WWXhnNzBOZEZEalVnd2ZuUEItMUZJSkNPMnNGanBmYnY2VkFrSGY3clQ2N3R2MzluUGdoVklZOW42cDVMaDMzOEtOUFU3ZE1xdmRGdUQwbFQ3Uk1WZzhPbFNpaS1VOE1SbGJoazN3ZlVrU2hjQ210blFsX0NsX2dYSFlicms3NXpfWlVEcUkwdVpvZkZGeW1NUEctQWhsMXhHdHlXUW90ck1nc0M1Yi1aamdseFpWTW90RzdwU3E1bG8?oc=5",
       "source": "Colorado Mesa University",
       "published_at": "2026-09-21T15:13:57+00:00",
-      "score": 69.41,
+      "score": 61.13,
       "corroborating_sources": [
         "Colorado Mesa University"
       ],
@@ -96,14 +186,74 @@
       }
     },
     {
-      "id": "3d1e04a271986ef2",
-      "title": "Putin wins Duma election; EU does not recognise the vote in the occupied territories - eunews.it",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVnlKNTFqU3pOUlZHeDlnbVlJUWhBd0hCRUFuQ04teHdyR2tFRzU2RGhLZzUyd2FISmJqU2Q0WFdCTzJuT0c3US0zM2hnRnRMd3JrWUFSby1kV0FoZ0hsOUpETG5aRGJxZHdsM2tZZ0pEeTJ5aEdRQXBRSDY1UkRYSFZVVzVhUzQ3dTFJUlVCWE5Ud0hXbjdrOXlXeFpTTTZSc1FlOTFVT3hUcU9HeWgtejZVSTZ4NVVhc3YtcF9vZUxVNV9Ib3c?oc=5",
-      "source": "eunews.it",
-      "published_at": "2026-09-21T14:06:00+00:00",
-      "score": 68.2,
+      "id": "2abbcb695294e91e",
+      "title": "Bolivia y EE.UU. establecen agenda de trabajo en Nueva York - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1ExTnhHeGg2Nkl6WWltNEp4VHU0TGpUZGFXQVRTbGZLWlVKX1FCYllybThHTTRFYWFsbVNyQlNvSTFXaUJjNmdRWmQ5ay1GYVpaUUFpRVBrVlNlLUxhc012TTh3dGV2NTkwVGIxaVJfdkJnenZXRWlhdS1qRWF3ZHVyNGNQUXdlTmVKQTdZYnFUdnFCNkJzbERDUTVrNTdiRzVJ?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-21T23:20:41+00:00",
+      "score": 60.87,
       "corroborating_sources": [
-        "eunews.it"
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "014a40252211ccf0",
+      "title": "Amiga de Lulinha diz que foi a gabinete de Lula e viajou em avião da FAB - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1ltV1QzcjB2SFpkVGZJMUlzYVhKUXFwcUhLcmQ2V1g2aHZlQ1BMZVc1ZXh3V2ppaWlTSmNPcmNabG1pYVhuVmszMEZwMU9MR1NsWnhaeWQ1d2NiZnVSYnhacXRSaTNUZUpTVEZmRE5VTi0yZHZmdUhvYTN2OFBmQ0lHWFM0UlRPUDF0RlhKTjM5ZnI1eEVCNV9wMmdiRG9VeGsybDNkdUItSWdyR2fSAbMBQVVfeXFMT2NJQXlXaVZrMkk3RWhhMUlMOWhqUFhkbHJ4R21LQ3dTMDluTUJXZFoxR3BoRDJ3aURLV1hSbnFmbXdzTVpFeHJ4dGMzMzF6bjBKd3cxdVEyYnZPSENGXzdSQUtrMF8xZi0tREIyRlRZTXJheG9VbWxxRUgyeG5rM3lVR25GMDZRamY5a0J1dEFTckptR1l3YUdBNjNWcUt0VXNEd3BLSEtFTFFrdEduNlJhUkE?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-21T20:24:07+00:00",
+      "score": 60.86,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "facf661b2ad782f3",
+      "title": "Senators clash over Cantwell’s college sports bill - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUJJNlRfLXJSdXZ3X3Y5bEtwRTZ1TzJTdXNjSEUyOUpyczlySkNtZktzNEN2T1ZkaEtJdlpTMm5lazZjR0JTcWNxVjkxdE5GcGZLUlBINUdEQTBkN2JIMjQyXzJnVVFpNG5XQzdWMTRCb3U1N3haZ25qT3UxZUYtaGR0dDROX1VHOXAyUVg2eWFiMG5lM3d1aV9CTjNYamI1RzU5VFNPck5zN2tuRTVwR0tfQzJ2MlgtNHQ5QTFxZVA1b0hrNl8w?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-21T23:15:02+00:00",
+      "score": 60.77,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "284b23cac2c6a1e4",
+      "title": "Nova pesquisa Real Time Big Data mostra intenção de voto ao Senado no Paraná; veja o resultado - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEpTMU1BQVNHQUx5Z0ZFbUdXV3loOXVCbXpzUFFVSVZyUU0tcF9ucXRTa3FzU0w2N21SSFdzd0pQakNROGVPbXlBUHRXWTR0VTJTbDE0OWRhVkVJZi1FZFZwcjAtWXB1bG4xaU5DZTQwUGRIendGcGhnM3JGN2ZWaEh0ZV9CaTg3Y2JaYzczMHhqV2dETjRkRVoyV195LWNyYk9ZUXZsbjVXLXA5TXZCZ0dmcnV4dS1GV1dn?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-09-21T11:00:00+00:00",
+      "score": 60.73,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "349e1607b4f1f977",
+      "title": "Young people in Morocco split over whether politics can deliver change as election draws near - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RGbkpoZmpyWVh6bmNubDFZVUxVMGFiVk9ZeXJabU9pNlpMUGFmYV81WmZPU1ItUFY0Z1Bwcm8tUDZDTmJRQ0N3aFpKeFoyeVdPUjZ4SE5HM2RpREstR3ZUSjE3RHJONVBxQm5KbktjMTBVSFhuMEVldndlTXg0NzVEZzVPbW1ycWxBUGRNM1c4MlFsYUNJYzJ3?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-09-21T03:08:00+00:00",
+      "score": 60.38,
+      "corroborating_sources": [
+        "Audacy"
       ],
       "signals": {
         "source_count": 1,
@@ -116,9 +266,39 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGFtOG4zc1Z2Q1oyZW5Zb2V2aEVIYVU4Wk50YUpvcGlxRGFPbWxsMXpOYTlKcndQSzRmWVFsZE1XdkJPdTF4YlVja1dQYU5vUThGU0toVzRCaTkxM2hFYnN2elBaNkRnRlNHOS1sQk40b1V6VWdLbV91YTltTktUVjQya9IBiAFBVV95cUxNdmVyaDFNa3Y0MkdVUm9SMzhhUzlxZWVPUmpRYTUyMWl0MWF6SnZZekJiSHM4eVhQWV9DRHR1M0wzZGdXMXE2OWw5enB6Y25YZGRYQWpqZERncUI5R09sTjVfM2hmbmlwZkVINzJKMjFDOHh6NWpjQV9sX2dIdTlMbmdVQkpSX3NK?oc=5",
       "source": "Hoy Digital",
       "published_at": "2026-09-21T14:04:44+00:00",
-      "score": 68.18,
+      "score": 60.16,
       "corroborating_sources": [
         "Hoy Digital"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dad4bfd2c96b1374",
+      "title": "Daniel Noboa cumple agenda en Estados Unidos con conversatorio y una entrevista con Bloomberg TV - El Universo",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV3htaGlGT2FEUFF1R2VWNjV1cDg0aEZEeHBuOFFTM1JIYVlZZHpFS1hOa2d3ZVdYdk5XSWFRN3FmcVpEU2kwVmxoaWNEZjlIb3d3ZWJuTTl5b0VMVFhvM1JIMXo2ZXdWN1FSREFfb3U5Q085cGVSUkZuMEdXeF91R19JOWFxZHRHRHhRY1MtLXZ1bDZvVnR2dHlWcVVRNGx3Rmt5b2QxeEpVT1FoYms5aE85OFF5UUZKdHJRYTYwSF9QRHRzVkxYcGRLU240OWIxRS14djhldktBU24weFRRNtIB9AFBVV95cUxOdHRRM0REcnRrdmNWWWhib0tiNHFsX3JYeEdSTjVxREhIVVhmU1A4Qk5oaUxSN3A2WGxXeGJJZk1NMEo2UTB5Nm1UdmkyUk5mMjJZMWhTOS1RcVBMY3huczFBazJhWUVMcV9ISGRWZjdRU01zb3B0TmNRTi1QT29XY0czcHRSSmVuWkFHajdNVV9EVW5qUE0wQTBwUl9SMzExbm1SUVJpRWNpUVJVSnVUUlJMLURJSjJTTU15emlFcEJEaWpXSkI0LWgxQTlPWHplSVZwVWp0czEtT1RzMTQwTzdUbFo0WkZqQnRzMy1HY2dwVFl5?oc=5",
+      "source": "El Universo",
+      "published_at": "2026-09-21T22:09:55+00:00",
+      "score": 59.64,
+      "corroborating_sources": [
+        "El Universo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f67ec0d1d9f39289",
+      "title": "Lula: Conselho de Segurança da ONU mente e não resolve guerras - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkVRVFZCbE1xY0g1Y0x0ek1wWDM0cVkydi15NFF0RWZnRzY0djhxWjNZcm9PbWU3VFJidkRaZmJ6TUhkTEJ2RXNpajJ6SElzalYzTHRMQk1BU2pLMW0xS0QwNWVVMzhXeks2ZWhTMzN4d2VBTllkY29WVGJtWjRhaVFqelZhX1FGMWRTN0ZlS3N6MVFOaFBCWkdfckZlV0R6TkRuY1hVQUFfVWJEZEEzNUpZX0XSAbwBQVVfeXFMTzgwRWdPWTNmNkJ1LW1rbXU5dTMybWMxNjFSbHYzWlhHRm14SmpqTTlRNmJmd0NFTnZuTUJid2NjTlNoTV9fR1hSbTVDYXl3U2U1QXhKQXdnOFY1a3ZuTVhGbkxqVnlwSHR1WWNYVU5yZllxVXk5UWFzUWJyTWxLT2FvakVmLVVDNWMyUDVzejRmMDk4X1N1NlpsOEpyV2ZYOWhUWWl4N1YwYlJvZzR1OFdYeWFmY0lXTDFDVXc?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-21T21:17:00+00:00",
+      "score": 58.74,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnJzUDlPMjl0QmhEY1ZMc2hFWllnT1VlaHVILWxyb3UxMTVINEpGczdDbFRHZVBuaENmcDdPWFF3VXdiYW5fZTc2c3dQSFhyRV9KR1BTOHBaNXQ4R2R1eFY0MzJxX0VXcjBDdjM2cXhrWEVzNjNkbnlkaVdmZHBVbVhoRmZoYXlRcXB0TGt5NGQ?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-21T18:07:57+00:00",
-      "score": 67.68,
+      "score": 58.7,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -141,29 +321,14 @@
       }
     },
     {
-      "id": "8bb8ffaad860ffac",
-      "title": "The Netherlands is bracing for potentially devastating US sanctions against the ICC - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdzJCekFRMkFFd0RUYklKWmdwU0xDSk9TYjNxZDA1SVk0VXFldFJOYmR2c3RIVUExRkZuZXMxUXNPQ05wajZEOWhNdmRVRklDVlJZTW15RFZWYjJiR2pyMmxGUW0tOHpMXzlsakI1OW0wd0tkT2MzSmI4RzBpd0J5TGdoSWdaU2JBQk9JYWhPdXA0NTlnSkFMU3FMcldDT0dEeHNDME1XZDM2b1EyX0Q5a1ZnS1VGaHp6WUlhLTV6NWFvMnlYc0s3ZmhpZ1dzWU1XbmhDUlp5TGlSQQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-21T12:26:13+00:00",
-      "score": 66.5,
+      "id": "4476e51fd63e8491",
+      "title": "The Ed Sheeran Fiasco and Gaza’s Cultural Fallout - worldpoliticsreview.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkR2WU1vakh3ZFVDWkQ4NW1Da1BuZldESF9GdnJmUFMzcFRIVzFqRDJwVWNkMUlKcG10Wk1ETTFEdzJLcFYyZE9MTVRHV1dhdjFlOUpjTmZaYlhtZDF6MkJ0aGx0X1VWQkhUQ3duZW00NHl2X3UtOG5EajlRNUl4eA?oc=5",
+      "source": "worldpoliticsreview.com",
+      "published_at": "2026-09-21T20:05:19+00:00",
+      "score": 57.55,
       "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "75d38e9186b85e28",
-      "title": "Young people in Morocco split over whether politics can deliver change as election draws near - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXAtaVlwRVNCSXhvdDIyT3MxY2d1QXo4Ym5zYUJSWm1fSWtBQkMtQmVKX2dYb1VEalZQbndKcFRFS1h0d1JRMXpGZGdKRkVhT0Y3SGVZTVpyVE4xNFJVdW0zUkRXckdHOGhJSmNVaExYNlFVVGI5MFhWS3ByTHJoVlJLNEJSSXdoMzEtODlGXzFZVmR1NDJzOUNR?oc=5",
-      "source": "Audacy",
-      "published_at": "2026-09-21T03:08:00+00:00",
-      "score": 66.3,
-      "corroborating_sources": [
-        "Audacy"
+        "worldpoliticsreview.com"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaExhejBWZ1EySnJ0MWV1WFpMUmF5TERBcEd6MnhQVXhEZ0RyTU40d3haZnUyRzhnekxabnY2WDA4MVZIU1BmT3g3b0I1MV9qUE5QNWpYX2I5d2dlelpzeFI0eGtRTVFQOWFLZXhTS2NWTXJoRmRQU3YtZ1N5SVNWalVXTUhkOU12d2tyVFpSVU9TSHlkUUJkejN1Wkc4NDZzXzhqM2lYRF9NTDDSAbABQVVfeXFMTkUwM0xmVGhITEtJekJKd1RZSW9UaDJxNkJleWJsRE1tQ2pCeGVYcDlFblFUZDQ1TkRkRUhrYVlBT2NaT1FXQlBIeHhyY250dldkRzRNZFZlN1c2c1ZlN1NRTzZPalNuTUx6d19IQ1lkSnY1N0o4VlRoZURtck9SemttVUs4MVdseEw1aUFCU1QtcjhPMkN5QTNSWFVJWkpUSkgwSG50TWYtWDgwVWFZWGg?oc=5",
       "source": "Elplural.com",
       "published_at": "2026-09-21T10:25:59+00:00",
-      "score": 64.55,
+      "score": 57.3,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -186,14 +351,14 @@
       }
     },
     {
-      "id": "f4733a1e51a9112c",
-      "title": "La Ciudad de Buenos Aires participó de la cumbre de alcaldes del G20, en Nueva York - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblFfaWlWek5FVU90dnhPWTF5clBmYjNxSVJHMGRIXy1aQlM1VUgyQlFRTGdySlVENlEzbnFwODFTTUlwTTlPSWJaSFhhazNIeTJlNGFsTVl0QWdidkpYaXo4MllHay1ENHVtM0pvUnZRMHNfQUdwU3VkUlZIOXF1NGtCNWpjNmFmbmo0V2poZGVxVHhOMGhjMzFEOG9LRlhWSXN1X3pJbGItVHR1V3VoNkdhZlJYNHdZMjNmXzRsSklvSlQ0aEHSAeABQVVfeXFMUF9CYlN5Y3ZMQmxEUGxsUEM1SlNBYU9NTXZfUFJLWUljSU85TnpkSGRULXRWTXdCLVN0b2k3OTR4WkFXV1YzbUN6aEg0d202MlYyOElndTR3Z3g5M19rNEZzTjFIcDQ2ZFVsSHViT18yeWg3TkxKRUdjTl9zb2g2aW5NSk9pdnl6REVIZnZMcmEzVlU2RlgxWC0xdDlxU1ItUk9CazVwYWtXZU9kdG80RGFPSmIyYS1wUmsyRElUX2NOR3pPcEttRWZhQVZEQ1BMVWdsM1ZrZFJnRnN3OHY3dHk?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-09-21T17:08:00+00:00",
-      "score": 63.52,
+      "id": "903c38c02108a0a5",
+      "title": "Gobierno de Abelardo De La Espriella retiró candidatura de la exembajadora Carolina Olarte a la Corte Penal Internacional (CPI) - El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVzRfNUhWS3JaaVM2d19IT3JscUdTQU5QcFNGSlhqX2NqVV81YjRIQW1raVRrSm5LUzFCVGF5by05cG1Vam1MN0dRaUR3OHdMUlhvOFBVM1JKdHUxRTFKcVowQTFRaElSVE9BbHJPclNMdlFCaFBxNUNnRlNCdmVIRG1HODlfNDJja0NBRjIxQzZSSTVTYW83WXJnRWpiaGg0MFdHMkxLazNGVEdiM1VqdGIyZnhJOWY3eS1pMG1GdzBUOURURU9VMHFYbzVBTDB4SW5JOXJsZS1uV0NKRzkxY0hISXlUOG5rbVgwd3JwTHBNd9IB9wFBVV95cUxOSGNwejhUcDlVcDIyTVV3T2RFWWkyWThzYTNfSm5OMlZucGpOYW5wN0NGc3dnX3p3UzhCX2V3UHhMYWhBbXhneDFEZlZobzhQaU1VcTZVSVczbkpFMHYxUzFfNnJQNW40N3h2SXpOVWpQN1cxU1hCTXdLOFpZWE9XOEoyNGQtS2h0ZDZWc1k1TnRLRDRBeTNtUHF0UjBGY2hVcmM5MkhJdXlvUUdkVkJzcklaSGlwR2JWa3VCanV2bHdFV2h3WUFHUTZVLW1mYmlpTDVCN0thLTFBMURsaWxvajZla05jSmhEUllQZndqcUY2bV9kaTFZ?oc=5",
+      "source": "El Tiempo",
+      "published_at": "2026-09-21T18:27:16+00:00",
+      "score": 56.0,
       "corroborating_sources": [
-        "Infobae"
+        "El Tiempo"
       ],
       "signals": {
         "source_count": 1,
@@ -201,14 +366,14 @@
       }
     },
     {
-      "id": "5f576e7dafdb4af4",
-      "title": "Reunión de alto nivel entre Bolivia y EE.UU. - lapatria.bo",
+      "id": "b66ddcd7eafc195f",
+      "title": "Reunión de alto nivel entre Bolivia y EE.UU. - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVl9yaHp0NmZQajl6UF9acE9aZUtwd0drZnBfbktCZnY2VHNkTFg1MUxudGppLTdRWGY5ZUZRdmhXUG1VYUNhUXQwcE9aeXk3bWV6THVrUlJpLUk1WmlnczZhd1B5NFo4R3lZd2YxZUZzWm01bFpXbTFOalA5SFhMUkdMcVZZek5saXc?oc=5",
-      "source": "lapatria.bo",
-      "published_at": "2026-09-21T17:07:33+00:00",
-      "score": 63.51,
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-21T17:11:46+00:00",
+      "score": 54.85,
       "corroborating_sources": [
-        "lapatria.bo"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXE0aGFLUlBvVmx5UWRwRVI0eExpR2MxSHFrUVg2bDBhcjNmS3RmZldWR3NpUm40em9OMG1CdTAybHVadVVDc29fMHh6UTI5dnZNVmh6S0tqeEFVazVvZjQyWWhBLW5yMDNsTGxSU1djTGltbmVIT2FEM0pSOU5WdHNQMGY3OUIxSmhEVC00cllaQ2FIY2M0NjdOdjg1Yjg0TmdrWGVaeWxsRFFwZVlKSA?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-21T11:10:12+00:00",
-      "score": 60.26,
+      "score": 52.86,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -236,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOW4xOGdWZEVLVmpDMkYzdVJ4U2ttSHFObmNQZlh6RjhiS2Z3T05ibGJ0a1E2NUhoV05OOFN3RVhsd2xlLWJjYnlBNEx4M3lvdWN3R1ZUbS1jV0FCMVdWaDdQcHZDMmxMallYVzFYcTI0SjdPNmswcExWcEVPWEpVQlREdjFTLVlCdUxoZENQSDVvb0lJTUxIYWIyZHV2RVpjM192Vm5zenRXSjJTdmI1VkZmRVdlZ0E?oc=5",
       "source": "CartaCapital",
       "published_at": "2026-09-21T10:49:00+00:00",
-      "score": 59.92,
+      "score": 52.59,
       "corroborating_sources": [
         "CartaCapital"
       ],
@@ -246,119 +411,14 @@
       }
     },
     {
-      "id": "da6eebdf5c5435d9",
-      "title": "Néstor Bastidas ratifica el rol protagónico de Venezuela en la ONU - Yvke Mundial",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGdmY01ZbE5kYWk4NlVhY3VzR0gwZUVRajRtMWp0dWdBWUUzOVA2LTJOVXlzT193b0VfdmduLUEzV3Ata25GNVkyVGJUYlZxVzJBUk1kX1BvbjJqMGtKWGp5a2tlYi1Sc1hKbWJXZWt0bGZtRHdjc2NjNnFWbUh4RE0yX3BtQmw2cE8zNW1DY0FIRVpqbzVudEw2aw?oc=5",
-      "source": "Yvke Mundial",
-      "published_at": "2026-09-21T13:36:18+00:00",
-      "score": 59.69,
-      "corroborating_sources": [
-        "Yvke Mundial"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "699044d330aff730",
-      "title": "Escada rolante consertada e tensão diplomática marcam Assembleia Geral da ONU - Diário da Manhã",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXJJNW12eWI5OVdQV2I4Vl8ydkhwNWhFY3R3SU13a3cySDNoaG5fdWlkQXlZTjFnemVDb3NJQkRCV0h6QzA2SVVLbk1Sbl95aTlnR19YMGJLUExIdTZHNldSdXhWbTdidjFHV1IyRU1UZDNlUElPWUIxZG1RTzRlMWlmcjVQbXpSbDhCaU1GV2hlX19iMEtBWmJ4aEEyZlVMcVc3a0JYWmFKVmNaTTdOcHhnNEo?oc=5",
-      "source": "Diário da Manhã",
-      "published_at": "2026-09-21T13:15:00+00:00",
-      "score": 59.32,
-      "corroborating_sources": [
-        "Diário da Manhã"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0e7ed4d3fdb0fac1",
-      "title": "ONU celebra su Asamblea 81 en medio de fuertes cuestionamientos y tensiones - lafm.com.co",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWtldjNJUUZzLVVSX005QTE0V0VlRGoyTDQ2V3oxRVpGTld1ZEtUS084S1dnTDR3TmswNGtxODFqckZuT1RQS3pXQ2w4TDdIa01jQ1dZNXJENjhMdlNFOER2emFSVU0wZ01CWkJZbmNBd3FjX3ZWUWd2bFZpREZpMWlKUzRabUlMLWxHSy15REpJMTJTWHFGWVE4UzkzUk5Ua2t6cDZiV0NBWGJ0SEstTmJRRUNrRmx6cU9tYtIBvAFBVV95cUxPOEE0MjBTUllkUlhxV3JCSk93RlFrVXpLVlFVSnZrck5rSUVnb2dmUFBLcE9RRi1PX21fYk83dU1hTDJpOFFrR3A4R2FMS3JlNERQNVRxZmJDeFJ4RWtrSDJHMkJmVmticGQwYWJnNDhWcnBlSS0tWlN2RHR2TzVvUEpqX0lCcVRVS3RCZjZ3di1tby1vdFB5U0YyWFE4d0ZrRGJXaG54LTN2TkJZdHN1X0QzWko2LWFrUVlONQ?oc=5",
-      "source": "lafm.com.co",
-      "published_at": "2026-09-21T12:57:38+00:00",
-      "score": 59.03,
-      "corroborating_sources": [
-        "lafm.com.co"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "faef46e6fd594e01",
-      "title": "Britain’s Burnham is set to meet Trump for the first time at the UN in New York - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT0ZmSjctMHJSQ281dlZZa2NPeXk1R2lVRGxTVG9EWUc0SXNVV3Btd3FSX2k5LU5YX0I5UVdQcWhGQ3oyQzAyWndqdkJQSFE4ekdKRDBlTURNQmZsSHFMeGNqRmpNVXoxb2Ixdm5wX0FWQmd1NUgxQUpBWU5hV05JeloyazkyOUZHWFpJSHplSDQ5bVB3dHpLcDNpSFV5Wkl4TVZpLU8xLTFLRlpMenBrM29JYzUtX1NBTWpBZWJ3ZWZqajlzRGtmaVBmY3J3NU92bDNCQmxqV3NJZw?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-09-21T12:48:15+00:00",
-      "score": 58.87,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7dd4a6b97a6ed745",
-      "title": "Lula tem 46% contra 45% de Flávio no 2º turno, diz BTG/Nexus - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFFwdUFtWUVfam5FUWNKM25YZFliRHBSa29UWXpybjctTG9FQmpGR0JYQXo4RUM5TWEwNmNnM3lwZFA1aERWWENwRDNwd2hvUjE3YkRsSllJdi1abHlNZ3loZk1EamthaGdSamh2WTE5RFZhWk5BaWNyVmVXNy0tXzJ3M013aTI0R3BfUm5YYXJlNzNnUWEwTENDQ3ZRVWc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-21T09:24:19+00:00",
-      "score": 58.59,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4f6456b94a93d499",
-      "title": "Las elecciones de Marruecos no apuntan a cambios en la relación con España, según expertos - Melilla Hoy",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXRmUGl0SUJ2VlBxd3ZEcGlsRzdSTWpIczJXWG5KY3BmOFBUTUNaR2p1QkNCUE1rZzNpeDRsYXVVUW8wWWZxa3d2R1M5ZkM0cFV4bVRqckZLR19yLU5KWXhYTE8xa1o4eWwyTXM1Nm9wc2dPczEyeUtyZkRPek9zcVdkWTFWTTh0SUtXdmJ2MjZySkR4cHRaZktNblRTQVNwbE9YbEZXUkVyQURiZ2Q3cWRB0gG3AUFVX3lxTE5DWFRVRjQ0SHB0a3l1UHpJaWpFT3pLUTN3MS0td3dTVEwyWGpxY1YwcFRTcE9VdXRzSS15T3NBTGY3NUwwRmR6S3pDbzNnVUcxWWpJVk5hRlVyaVhpWThnLU9sWWp0OGJnNkF2YnRoY2VxVFNaVkViNUFDQWNIb0g3SE1CQy1XS1FoSGNiS3NVeEV5cWNnb3gwODhkRXRRSzFhRkhKUHUyQzMyeHFWOUk4Mno3eThmdw?oc=5",
-      "source": "Melilla Hoy",
-      "published_at": "2026-09-21T12:23:00+00:00",
-      "score": 58.45,
-      "corroborating_sources": [
-        "Melilla Hoy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "83f308cff88b6d55",
-      "title": "Flávio é rejeitado por 50% do eleitorado; Lula por 49%, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlJpd1BBS2ZodHEzR295VHNXZWFEVUxuZC1QMU9majIyd3JzSzkwNmRoejJmd1hmZm80VEZkV0xBM1hoZTVKUmJBMVZOWXgxX1hTTXlZaVlzS0NQRnkxcF9jUlZxU09ycDROWHk1eEdWbG0zbDRDQS1FS3VDMUk5WVNwYklPbk5iTGVDdmhoajFaLUZzRE1vY2daMVEyS1RBby1ESmpCR19QMGxFS0g3TFlLVENTUQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-21T09:10:12+00:00",
-      "score": 58.38,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0ecf9f494fc75820",
-      "title": "Política exterior de la República Argentina: se necesitan dos para el tango - lanacion.com.ar",
+      "id": "4ee3d54a6eb9ce2f",
+      "title": "Política exterior de la República Argentina: se necesitan dos para el tango - La Nación",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGVzZVV4MnJ5Ung2UkVGV0dUTktoRXBaRVVqRHV1MksyeXgyd1FsSzRXMzZJX2FZbG8wZWdONTNfWmVFYm9MLV9XVjd3ZkpQRlp3ZTBsN1NUMG1WMVpKaEZialVjX0VEaG91bldFcFZuRW16N3kyUFVrRGQxMUxEOE5CcTI4enNTeklOVDVPZVpaUEJvNFJwcFVHU0VZYVhHNFoxcjFWQlA1TDhpVEthcGNIZDJPZ0pMY1J0Vy1jTmI?oc=5",
-      "source": "lanacion.com.ar",
+      "source": "La Nación",
       "published_at": "2026-09-21T03:10:00+00:00",
-      "score": 58.32,
+      "score": 52.4,
       "corroborating_sources": [
-        "lanacion.com.ar"
+        "La Nación"
       ],
       "signals": {
         "source_count": 1,
@@ -366,14 +426,14 @@
       }
     },
     {
-      "id": "a2ebb83baba9b96f",
-      "title": "Venezuelano é baleado por agente de imigração no Texas - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlhOYmc0Q2hvZkJJTjRERk02MTRILTNsTU0xSkNCdXQydGVwTHpRZjRhQ3RFQzlqclNEYU9ETVRJRXY2NVhfSEhQMWZqa0hqRHBUU1BnckYwMmFmWHpvWWJtU0RjcUQ2QkZRc1l6c0RrS2I5SFdpYUZheXVBdEJBd3hmUVBtRmh1bEVyU0RtTjU5UnJFci00WG1MNTVodGlkdnfSAacBQVVfeXFMT3FjRmlRSzFCOE1iTTJOMGRNWHcwXzNXVnB2OVotRnFuamVxanhrUjk1eUdjTmxEUHdzQWl0aTRpZmY2djQyanNkcUlNYmJHV1RsMDJDSUtXQ1NmYmNKLWMxRjBFcTk3dFVCSDJjTVBobTA3WmQ4TU1yaTZnTm80VVpVU1Zjcmt0d2xoRTI3TzYtQXRwczZYRGFNMllVTms5OGVhQUpVbms?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-21T07:12:00+00:00",
-      "score": 56.62,
+      "id": "ca3cfdbff8af784c",
+      "title": "Healing Amid Chaos: Listening to Reason at the Eleventh Hour - Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkIwQ1d3MGh2NlN4S09hN25LcFpwakVWa1c3dTJSY1g4akl6T0NQV0Y3YTM4azg0b2JHVHBDekNDaGlUcmNQTVhsZy1ZbF9vd1hsU3RwMHd4SndzSzJTTmdvTVh4SEloVjZIN2hXcXZkZ2lnQ2h4ZVd6R1ZWUVptaTlrNDEwMUh3MGVKRzRudlJUV3ZCYVBWaGFYTUlhdWc?oc=5",
+      "source": "Modern Diplomacy",
+      "published_at": "2026-09-21T02:00:30+00:00",
+      "score": 51.7,
       "corroborating_sources": [
-        "Estadão"
+        "Modern Diplomacy"
       ],
       "signals": {
         "source_count": 1,
@@ -381,72 +441,12 @@
       }
     },
     {
-      "id": "a0c866d97b88d3da",
-      "title": "Foro de Política Exterior respalda a Bachelet tras retiro de carrera a la ONU y cuestiona decisión del gobierno de Kast - La Tercera",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT2hJUEFCWkhXdHpyNXRYa25BWFROeklsWWFtMkF6cndOeFZ1ejV6c1h1Z3hQcDVSU2xKU0xmdVlKN24ydlNqa1loOTM4dUpFRWNPVVk5RG80cTBCS1doaXlaeEJQOGlxX0ZEYjJDT2FESmVpZjNDZlJvVGYwbWNOeTNfcmxJdnBYVGJnMVhlN1VYODFSUHpaWWt4Z3VKQUNZcHR6S2RUazJxeVFWbE1XTWJxek50YmUzYmQ5SmxOVUExM015OUdnOXhDTUVTaTRBMFNWZm1tQ2JERU9jNlJybkRwdmM1S1pIeHhhUS1XdmJ6SUNBeUHSAZcCQVVfeXFMT1RMNTdTdTdkak10dmtlN3R3OXRWUWFscHFrVkctTWxIVWd4T2xNemkzSEhfXzhKVVRrM3RRZkN1R1hoX0RnSXlsX0lqOE91dGM4UXRoVW9Ja3RNZHE5T1RuVXJDWjNGbHdkSENIS1JrVnRkd3BpbXVjY1dmb25DbE9uaFJTWV9HWlpPRzk5Sk5xdld0NEdSUHFyVTBSWUJTR3Z3TTdreXNucmUzSmhtZ1F5dDhWTHhneHJ3dFN3TEJWejU1Z0RlZjNPUkhCUnBjbHJBN25sRnFMOTBIMVRBUWVOcEdpMkt3QXdKUUZ5Y3RzU1MtSkJZY2xFRHdLOUs0bEJvRmgtQ3hHcWFQNGdRUktxX1cwSVVR?oc=5",
-      "source": "La Tercera",
-      "published_at": "2026-09-20T22:07:55+00:00",
-      "score": 54.69,
-      "corroborating_sources": [
-        "La Tercera"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bbca6723ce8e771c",
-      "title": "Para além do dinheiro, eficiência depende de gestão e organização, dizem especialistas - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdFJCUXl5TUplYks1TDRydzVCRTJTeGVwNkNXQTlCSWFscjlkWThVNmVGVmVvLVRDNTAwZFBwbExieU9fb2NtN2Z4Mk41dGNtdE9iMEhmMHRsUU1oQk9ialYxT3hxakFRaEFvcTZSeVdoLVFZZURCRjF5OFcwczVMNnBZcXhrZFBLR08xUmtZRDV4LUswXzBFU0ozMkF5WDVPMi13cE9nNkhKZl9vdzgtbzF2aDBrTXZwQ0oxcndZV1l5eXhNeTlsR0NyUHdoVTA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-21T02:00:00+00:00",
-      "score": 52.44,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "27d25ecefa0a4204",
-      "title": "Cálculo de ranking da Folha revela quais estados entregam mais serviços à população com menos dinheiro - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHFWNWZ1dVJ3eEJ3RGsxZW1jTnVzSG1qY3h5RVdOTWxVRkRfNTBsN2RJbC1jcUQ3dHRZX2VJeVlTQTJ4TXJlYktrUmNJbE9MMTdrVktnNkR2NUdOVmRhbzRTaTRYQ24wby1WdktfRzNaX2twU1JBbU1KdUxnclo3LVMzNHVUeTRBSWpFOUF1TG1fMzhpVHRIY2RVNEoyd01hSGV0UkNldFFJcGViZUNqY1pvemF4WURpQmhneEVsN1BTSVpsQUxFZS1Odi1DX3RrQkQ3M0E2eGE2Q3lyUGlTLXZXNm9kdUk?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-21T02:00:00+00:00",
-      "score": 52.44,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "83295bd6f700bf1e",
-      "title": "Paraná e São Paulo alcançam o topo da eficiência com modelos opostos - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUnRLWDdpM3hTVlFYcEZBTUNXQ3dzU3VsUkE0ZkRLMUhMTnBNa005ZTFDU25YbXZQLVAwNWtLWW90RWstTmZxMjZxXzZVYVN1clpQVm1rd2p2NGU3blRqZnFnWGZyX3BtNGxFRkd1bmlmREJXWW5qcGhsandxRzhRdlVBdUZmSHFrTnhYMkZ2S2o4cmcxZHQyaldhaGFaU3o3eHZ1NGRua1JaTTg4bUx5dlRrelhKRW15a1E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-21T02:00:00+00:00",
-      "score": 52.44,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "202dc07eb38a25a7",
-      "title": "Musk reage com \"wow\" à subida de Flávio na Polymarket - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGlGNjJnTnRtUTFkR1dBaDd2WGJodEphU0tCcGlab09ROTlHYTQxM3VnZ3NxRVBQYThhem9xbUFTZmwxV3dpSWZiLU03Nk9MV2kyZEF2ZmR0Ty1BaEk0eDJkOWkxa2FxM21Dc0RlbkcxTmVnVWtpQVlfZWhPX001OTVZd1dVQl9vUVNuRkxGMm50UlN5ZDlfYnNvWDRYZ3RoakE?oc=5",
+      "id": "2ead95362533b1d6",
+      "title": "Deltan diz que ministro que o vetou no TSE é amigo de Moraes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2lPNF9iMUpuYnZRSFZUOUxlVl9ubGlGZm5JZS1QOUxOV1NpVDB6UUstOEdCbFFjSy10bW5xWHFGR2FISWtGMl9IWWFLSEt1d1FtTlZ3VnRjOVBURThodDk5ODlPa2NDRDNidG84OFBYTjZpZ3lNWFlzM3NOMmY5Y1ZEZElESWVTRDM2OVFrUVFOWTdRWjViZXNMZEM1TzB1UVJnUEhn?oc=5",
       "source": "Poder360",
-      "published_at": "2026-09-21T01:40:12+00:00",
-      "score": 52.19,
+      "published_at": "2026-09-20T20:19:40+00:00",
+      "score": 51.61,
       "corroborating_sources": [
         "Poder360"
       ],
