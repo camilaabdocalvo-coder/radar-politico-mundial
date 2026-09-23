@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-09-23T19:41:51.206165+00:00",
-  "next_update_expected_at": "2026-09-23T23:41:51.206165+00:00",
+  "generated_at": "2026-09-23T22:58:36.411839+00:00",
+  "next_update_expected_at": "2026-09-24T02:58:36.411839+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
+      "id": "111be56a2fe825c0",
+      "title": "Pesquisas ao Senado projetam PL turbinado, avanço tímido da esquerda e encolhimento do centro - estadao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFdsU0NHZll3MjlQc0pvTmhzX3gyVE9sWGFPRl9USmtDbzJaOGN4ZnZDWDhOZXpJZlRMbnRfaGZ5cmtLRHZNNGtJYlh0Y3NZel9xWVRpcXBVSmN1RmFmMzA2NTR5Z2VETkllQ2ljelM1dHpRMTlzdG5nUHBRNjJ6LVBIOG1fMTd6MEFQWFhCdTl1cjNqeDFsOXZuc1NJTFZSa083eVlwdmFYSzhPM0JtbHdQVUNWclRoaE5TWVM3Z1RZS09TRzBmONIBzgFBVV95cUxPV2cxNnc5d2xESWN0MGFuamRWcUFvaUNFXzRyQ1JLaXQzWV9OalVFUTZnUWxyYnFxNTRsakloZldWMlU5TUlKQXJIYzdoT0ViSXBXZ3hMR2JaNnVzdFo1RnVuRTM1TThUQlZvT1RNWTdTRGVSeHRvTXphcjgxTGdxeTRoUWM0MlhwdVVHbGRzRUNVeVNxMkg2cC1yaFFKTFB4LVpCVG5CdkwtYW1TUkNXbmNQSTRfLWhzUzg2S1oxZUZIbEg5ZndGOUxBRDB4QQ?oc=5",
+      "source": "estadao.com.br",
+      "published_at": "2026-09-23T22:20:52+00:00",
+      "score": 77.7,
+      "corroborating_sources": [
+        "estadao.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "345e18ea806741de",
       "title": "El presidente de Irán defiende que no iniciaron la guerra y acusa a Israel de tener armas nucleares: \"¿Son ellos los protectores de la paz?\" - Elplural.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2g1U2xOV0hHOTZ6ZFhVcWRnT2hMQldaSmtBRWkxX3V6anlfZVUyS05aVERMRHNMWkdERDhaUS1oSjluSXBRNFd6amFENmhGSEdyVVphRFM3WlNQNHVvYzEtWG1iMVlxX1ZOZnlBZFBGTmRPNWpINnJ2cGZyWkNDVWYydElOODVHT1p5aEd2QUY3cmY0M1JFMzJBU1U3YnJqZWlBZm15OVJzSFJHRmEwOVlVa3BBYmJ2VkpmSzM0am9iNWtGdklSVk84SdIB0AFBVV95cUxNc2c5aUREUFpLXzlSRE1MbFFSVDZRbkpab1hLR1lrTVZ0NHlxOWdRY0pQQlZvdmdESkpBbVZjcmZDZGdJQ2JFRjV2ejVzT2s3cFFOMnNDaWhZaWtXeXA0Yi0zaDBxV0tQMC1fbGpOb2NGSDZwcUc5WXpobmRmMjJ6aXFGNm16a1ZzRGQ1elYtYmJJQVRhMTFyNGRhSnR2MjI5bmNlQzBLdF9DdTZCR05NUU5faTJDMm1KUkpUQmdYV3JTVmZpbVliTnhQcGtydDJT?oc=5",
       "source": "Elplural.com",
-      "published_at": "2026-09-23T16:18:13+00:00",
-      "score": 79.43,
+      "published_at": "2026-09-23T16:18:00+00:00",
+      "score": 75.86,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -21,29 +36,14 @@
       }
     },
     {
-      "id": "bf86744e633c50e5",
-      "title": "Continúa la Tensión Diplomática: ¿Somos el Patio Trasero de USA? - Partido Por la Democracia (PPD)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3RKVmxDQ1dyV0NLYnNSanY1R0tRRl9lSmdYZFJaby1DTFZNbno2SUlxRTNMSnhyMzBfN3hvaGhBcVJ5R3NUdFdxWTg5NmJnbHcxN0VibnJSWEM0dHBDQW9xc1lUNFhndUxub29pZ09RdEd1SHVPUTZ3UUt3c3BBU3k4djBfSF9XZ1dLbTZKN043QQ?oc=5",
-      "source": "Partido Por la Democracia (PPD)",
-      "published_at": "2026-09-23T15:30:22+00:00",
-      "score": 78.53,
+      "id": "bb761768ecc3091a",
+      "title": "La Maestría en Asuntos Internacionales invita al ciclo de conferencias 'Conexión Global: seguridad, agenda global y política exterior colombiana' - Universidad Externado de Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPekJxZEVmZ0pPM29LZURhRmlNNm1MLVpCR293YTVKcDBaSGltZ0NrbkEtbFc3QnRwcWlvbVZLaUxVdW1VbGFndVFkNkdDdmdUOVlXRWlVXzRjNVh3MGUyU3kxdkxGRThsbjR4M0lrZ2FxeVI4OUlwU0YzYUlyZlh1WTNRckRyOXEtZ3BManlwMzF3ZDZEUElXa0FEa0x2d0JBT01jeHZTaEc0NXdVY25JZnBBNFBHRmlTX2xVTE9sTVZhLVM0ZzFvenIyZEx3bE16QS1zUmVrTjFsb1FpYzdReHhBY0xwT183MG1oUW91SVVtVmJOM1lVb2lEX2xIMWNKU3NWSFk5dGtIbWVhWnZzUFZOMXZFNTAxT200NmdLd1JNNllzM3E2YnNSUXFuVU1VcEF2VjU0MTg0bTRFV0RDVQ?oc=5",
+      "source": "Universidad Externado de Colombia",
+      "published_at": "2026-09-23T20:08:15+00:00",
+      "score": 72.06,
       "corroborating_sources": [
-        "Partido Por la Democracia (PPD)"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "50c8ae16ada64282",
-      "title": "Pesquisas ao Senado projetam PL turbinado, avanço tímido da esquerda e encolhimento do centro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFdsU0NHZll3MjlQc0pvTmhzX3gyVE9sWGFPRl9USmtDbzJaOGN4ZnZDWDhOZXpJZlRMbnRfaGZ5cmtLRHZNNGtJYlh0Y3NZel9xWVRpcXBVSmN1RmFmMzA2NTR5Z2VETkllQ2ljelM1dHpRMTlzdG5nUHBRNjJ6LVBIOG1fMTd6MEFQWFhCdTl1cjNqeDFsOXZuc1NJTFZSa083eVlwdmFYSzhPM0JtbHdQVUNWclRoaE5TWVM3Z1RZS09TRzBmONIBzgFBVV95cUxPV2cxNnc5d2xESWN0MGFuamRWcUFvaUNFXzRyQ1JLaXQzWV9OalVFUTZnUWxyYnFxNTRsakloZldWMlU5TUlKQXJIYzdoT0ViSXBXZ3hMR2JaNnVzdFo1RnVuRTM1TThUQlZvT1RNWTdTRGVSeHRvTXphcjgxTGdxeTRoUWM0MlhwdVVHbGRzRUNVeVNxMkg2cC1yaFFKTFB4LVpCVG5CdkwtYW1TUkNXbmNQSTRfLWhzUzg2S1oxZUZIbEg5ZndGOUxBRDB4QQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-23T18:26:46+00:00",
-      "score": 76.94,
-      "corroborating_sources": [
-        "Estadão"
+        "Universidad Externado de Colombia"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhWG5CeHQ1SEtGbnJjLXQ2RE1xT3QtQUdBbWdYSmE5cVJVbXR4VXlpWlFaTF9hS0NVaERsM19ISm5BRDl0SDJtRF9TNjRQalkwSVJKZGk1Si1kdm9UZHdhSTJfcTZGS1VZUTlEMA?oc=5",
       "source": "Línea Política",
       "published_at": "2026-09-23T18:00:27+00:00",
-      "score": 73.41,
+      "score": 69.67,
       "corroborating_sources": [
         "Línea Política"
       ],
@@ -71,24 +71,9 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSi1IM2prTEV3eGVLSnppYzRfcjJnWE5ReFdQazdMNkd4YkpiSkJKR21uWjUySmM4NFhWT1QtUDBNVW1fX2RpN3JlUTdQOVJHZEV2Rktaem5YSnZKRjFfWGlKUzhyaDdJZnlyS1puWTZzUFQ3RWhNLXFWcjV3LVRzcEx0WHJZMTZBemNKVEdIQWU1MlZZeGFGclZSTEloaE9ZcmNUVHRFUy1pd21IYzJXT1JWTUJXamE3SnRLN3NGZ0twNnNPT25Od0xReUtTRDVtd1A5RWxTQ1VyUkJQQlBXaHVWaWZaQ3k2ZExZeWVVR2NPUi14WC0teG5ObUMyR1ZVY0RPZlhFZw?oc=5",
       "source": "Sistema Mexiquense",
       "published_at": "2026-09-23T16:36:03+00:00",
-      "score": 71.77,
+      "score": 68.17,
       "corroborating_sources": [
         "Sistema Mexiquense"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0ce4a6a3e5ee86cb",
-      "title": "Este jueves habrá una charla sobre la guerra en Medio Oriente - Infoeme",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREJCbmJGMGU2d3AwRVM5cjR6eXIwUzFPeWx2VDdic0VJUW1lTlcxc0pXdFZXNXp6Y0VQcUIxcV93bTQ0S21iLTIwVTZrekliWFhxdGFROHU1ZWRjTTlneTk0eEtaRTdpTEIxT1F0c2RYNUVSX1loRWdHT29vR2lneGVHUHNMMkpYVFIwSDlFcFFySHdTSUctT1NnTHdFLWRNbXZHSWRvR0lyeVNKRVN4eU5TelozN3FqclQ5Y3RRZTI?oc=5",
-      "source": "Infoeme",
-      "published_at": "2026-09-23T15:13:36+00:00",
-      "score": 70.22,
-      "corroborating_sources": [
-        "Infoeme"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +86,54 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2RBYzE5UnhLM2tqZG5kR080elAwX1V6UHNUOHhwNW5rcGxCNjI3NnlOOE1sYzJ4SFBRN28zc2dmazVnN1k2Z1F1VU9zcmNIamFic015NFJmSWxCOGRDbjd4LUc3WVN1NGFlektRMFZKTDJHeDhMWlBMVXdFNzNST3V0bnMzX2RYOXV6d0szcHZuM2RlMmdqVHRYWWJueENESnVHR041NDh6Zw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-23T02:12:32+00:00",
-      "score": 69.16,
+      "score": 66.75,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a79fe7f3bb275f3c",
+      "title": "A Cúpula da ONU reúne líderes em meio a tensões globais - Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObDdhSFY1eGNLdUxNa0d2QzFGc0dRRk1RWU95QkNfNVg2NU9HSkRkZmt4cGJSSkgtNnpUbFhaNU1qWUxkWmZqNXNHYkxMUmlnY3NNOHRJR1VMNHBaZVJjOElwTzBFN1hGZXV6QjVJNXNuZ3pJd1dlYmM2N3NNa0I3NlZVc0tWblJnalJYRXJHRzhYNU9lR2xuNTNfWVFaTWVNVVlvRzEwYlNlZ0NYMHFJck5tYWduanVXeHZ1aQ?oc=5",
+      "source": "Tribuna do Agreste",
+      "published_at": "2026-09-23T21:39:00+00:00",
+      "score": 65.85,
+      "corroborating_sources": [
+        "Tribuna do Agreste"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "86f1b656958c8790",
+      "title": "Trump abre cinco frentes en la ONU: Ucrania, Irán y China - Negocios.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPai03dHRBV3hZVUtyd3Q3R0hrZ0thdTZpMGJoR1VSM0VYaTZQVDZLVHdjTEtMM1g5eHo1dmdhS0VsOEpLX1NFYlhjbEZDWlBNRFhFczFEOEIxMkZNNmxnMFBsQUllM255WE1lR3RMNXRSdk9DMVBiVGxNenI3bXAxU3pTTmtSamUwU0lVTGt4QkNsbWMxVjMtZjYtWWEyWE5TZnV1TVgzdEZ6WHlFNnVPM0d6VlFfQmh60gG-AUFVX3lxTE05UUxVT0dLWnRHXzA4VWN1N3NMSENwMzh3c2NUMWVSQmhPdTlmQ3FBdVowVk5sT3R2VFpPdmEtSjJfMGNIXzlMLWR2U295SWl5Z3NNSjhtN2YyUTFSTzMyMWVKWm82QVRkeEh3SEh4bjlzMWNEcWpDeTBYWnVWVzdZdjVnek1EWlpmMU5vdV84U0IwV19Camw0WnZ2aU1ENnhJaVF4dGtMdlBzSlFMcmVtQnZUMXJTMkphWHVLMUE?oc=5",
+      "source": "Negocios.com",
+      "published_at": "2026-09-23T21:09:20+00:00",
+      "score": 65.26,
+      "corroborating_sources": [
+        "Negocios.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d3d86d7595b6666d",
+      "title": "Kicillof se mostró con líderes internacionales en Nueva York y criticó el plan económico de Milei - Diputados Bonaerenses",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lRTlxeEJGNUZXR0pxUTNsWjNadFB5dUVlc1ZZM1lCSjdQekJQbkdMYzNodzR2dkk2VW96OGRhSUxJc2pNbmdRQmJ5ZlRrWjlTSnQ2QWhfWUNicGoxd0VDbTJhSnpJWEt0U2VyX0VlZDY5czM1bmRZQTB4YUtidw?oc=5",
+      "source": "Diputados Bonaerenses",
+      "published_at": "2026-09-23T20:30:00+00:00",
+      "score": 64.48,
+      "corroborating_sources": [
+        "Diputados Bonaerenses"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0J1VHZGaXJUSlZsUVU1RDVYQ1JGWkZseGtIOE5wb1MzMWFzSzR4cnFJTHN4WjhNNThBYVNzSEhSVmx4ZnJRM2M2UjFLWUcxR1MxblU0SGVURVhMamw5VF9RcWpsdmhNTDFtYi1mZXNHQWpodDZQRTNBTUoxWDVWSGRiSXBzTDZmaU5paGw5d1czdjlxakZmdTVoYlFQN2RF?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-09-23T19:16:37+00:00",
-      "score": 66.95,
+      "score": 63.08,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -126,29 +156,14 @@
       }
     },
     {
-      "id": "d2ea66129cbfe3c0",
-      "title": "Javier Milei en la ONU: cuestionamientos al organismo y pedido por la soberanía de Malvinas - DameNoticias",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaEw3M2Ewa2hrakRpQ0NHYVMtRnNVLVpNN0tHUEhrcHhMU1FlNGhJM0xHcXNveVFnQVNybkl2dzlJZ3ZycUw3M3RiZTgzVEZTdzR5djBEZGctdl9EVEQzb2xNNEZIQXBQblRJZlh4WGg1NzhlOWRIdEVqU09ZUFQ2dWd5ak83b2dOQUJGM2dicTJEV0hRRFVoYW5EVVJnUzJ3SnFwQ3VYUjBkcnEyTGdwd2dpTkxIVFQ1RXJwQ0RDcmJDbGx5WWpqSW1SZw?oc=5",
-      "source": "DameNoticias",
-      "published_at": "2026-09-23T19:05:42+00:00",
-      "score": 66.73,
-      "corroborating_sources": [
-        "DameNoticias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "85f052be2b5e47b0",
-      "title": "Análise: Trump impõe política externa da força nas Américas - cnnbrasil.com.br",
+      "id": "b3a1d21cce6e8f6e",
+      "title": "Análise: Trump impõe política externa da força nas Américas - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEJNNnZOdVBDY19NNG80MXZiQTNTOXZ2VXh6a2xKVHRhNlNoeEpjUzhxc3JmU0ozYk5nVnBrbGZPYTYzTUZzVXczdmxjbkR2Tm5aTmhfaS1xeXhjZUpCTF9KQzVsRGV0YlhvLWtROVI4MXlYeVZOOUpsdERJMzRwU2NSZWNubDkzWlBibEMzak5VRk1wUndERGFjMmptMGZDVXM0cQ?oc=5",
-      "source": "cnnbrasil.com.br",
+      "source": "CNN Brasil",
       "published_at": "2026-09-23T11:11:36+00:00",
-      "score": 66.01,
+      "score": 62.92,
       "corroborating_sources": [
-        "cnnbrasil.com.br"
+        "CNN Brasil"
       ],
       "signals": {
         "source_count": 1,
@@ -156,29 +171,29 @@
       }
     },
     {
-      "id": "71322bf0b3bfe9c4",
-      "title": "Atlas/Estadão: Cleitinho lidera com 39,3%; Patrus tem 31% em MG - Estado de Minas",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeURfanVUSnh5TDVVT0RWQlNSNmpxa0VsVVhOVVFFWkJQWFc5Y18yajA2UmFJSXdKR0dXTFB1X054UHdjQWZPdEJXWVhTcDhzSm4tY3ZHNnVmbW1CaVYzd3pFQTlWY25GN25GN2xobXRBcDhGUm9Hc2hzOE5PNEF1REo5TlVlNHcyOFdiODFLamxOZG1MRlRGNDd6M2hQODR0RzI5clRObmh4dFBoWTBJ0gG0AUFVX3lxTE02bFFlQUl3NGNBVW9rUHhuYUJlRHZBNWZiTm5GZUlxU2xTbUJtbkh4bThUX2dvOURaRHhNVGVZbGI5ZlJVY3RJX1BqWGVmQ2hiNlZVS1FERVJkNHlTY0VadGlZOGpDUHVCdFFzTEtYdEE3aDhXb3k0WS1wOEpWaEVYbWNLQU1mNTNBVVNzeUNqZXdDeVNxZ3RmZkNhQ19iNm5sQnBqWDdUdXo4OVhPcTItX1NCWQ?oc=5",
-      "source": "Estado de Minas",
-      "published_at": "2026-09-23T14:51:00+00:00",
-      "score": 64.81,
-      "corroborating_sources": [
-        "Estado de Minas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bf483816c19a586c",
-      "title": "49 dias após encontro no Planalto, advogado disse a Vorcaro que Lula agradeceu uísque - Brasil Paralelo",
+      "id": "3dc72aa43fba1b04",
+      "title": "Advogado disse que Lula agradeceu uísque de Vorcaro - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQU5yaDFYOWdlTE1Saklya0lZLXRmZE80cTk3RE9XcXVCdVJNWWJIVV8tVGhhTXNjbU1yUFlvaTFmR1JzQnVfcUpXMEdGS25CVWVxSElfMU8tZDlzYzhIUjBTN1llamZOMnozZFlCdlhiNmJwU01tMmtZOHlYV05SRHNBZk1PaUtrclJIc3FsZ1RuMjFmVkhFNjd3?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-09-23T14:45:13+00:00",
-      "score": 64.7,
+      "score": 61.29,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "21ad1edce0daaff6",
+      "title": "Hilary Duff anuncia show em São Paulo para 2027; saiba data, local e como garantir o seu ingresso - estadao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1E4OGtMNDNOVGJXMWlBU1kzNWVLQVNiZHhvbGhydHlTd25KcGQwemxHT2hWY2JsYzR5RElYaTczNElYbHhiVnVqWEdCcEd3UndGTi1yZXVzMXZjU05WX2UtcXZGU0UwdGJkeUlBWVZuT3VnMmFyaHNaNzRLVnFkdG9FQXBDNV9qYzNKZVBfaElyaWRfellKLVUzS21OQ0tMNkpWdkJ2RlBkQVdUcndjNjhaRVRiNUVLV2xwZURobWlJbWo1UEFBaUNnZ0thX1RZa05Kck1QaWxObmRHbjhlVEVsRjE4c0U?oc=5",
+      "source": "estadao.com.br",
+      "published_at": "2026-09-23T14:43:03+00:00",
+      "score": 61.25,
+      "corroborating_sources": [
+        "estadao.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUZZS3lyVHZDS3FXdG02Um0tdXZZZF95NTV3Z1JOOUpnWmxWcmg0NF9nOU9OSm9wT2tldUIwcldUMGhqS0RNYzRxekRaalNxMlRpYVdHRm9nYldBS056TzZXMzMzbm5wMmFKMU4yYzVzWWVmc093X29aZWpkMENZRGFCSWlETXhwYkdlRjVGaDRYNDlPM2lPOWQ0OGhyUEVjaURsOXdsQ1ZrYjluWDJwWVExT2Fwd9IBvgFBVV95cUxOUTZXSHU0RzBvOEx3OEh5TWdhQXZCNVVRellMSWQwOXJuR3R2ajlvNlZtRXJHaDJjYTNNaXFBaUhQV2ZWdGlueU5JU0t0ZDBnRzB5WTE4Z09JYmp4OVBEbGI3Um91aGltOWVaSnRaNWtMVlZmaHVzc1VXcXItajVVN3hyN092MHZTczNHRmc2YmlfQkhMMnhTVzFoRjNOQ2pkbWFjNFBQRG9oMExybVpKUEE2cWpuUUQtalpkbnF3?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-09-23T17:20:00+00:00",
-      "score": 64.62,
+      "score": 60.95,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -206,54 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRUNyNVZhQVdFOGNzaHNDYTgzalRzRktUZDBfaFhBY3Q4WUNqZV9EX1ItYXhlM2Qxc0pDYTBlZFhEdkVaYldidjdCU0dyY0dRa0p5a09WTDlfR0FVeW5DX3p4djRUdmNFcXNqODhRM2lrOEhsNFBSY21DbGlReTNKcGlGVVVUY1VRWGJ5a0JxTUdTV1h1X0hWeW5VeHJycW1wT0pBZFdIcXI4UXpKQ2ZiVjM5M3NBOFVfY0hSTTF1ZTB0OUxLVndicDFNRnpFcHJ6N2x2Tm9may14c1g2SVRVUUFR0gHiAUFVX3lxTE82R1BuQkFnQTNIVlp3dHVWTS1UUDFIaTNOc3ZPRmdkaHBuVTlYR3h1WW4xZ19nNlVSOUw4bE5ROTBDM24tcHRldEJzNGJZZzJJM3dLbGpsclpmU3ZDakZsUWRzZS1EZ2cxSzJQSDNpeGpJbEl2bXVuUDdTT1I0eDJnS2ZpeENRWDNJVU5iSzlSTGF2R1JaUktOeExPV2tENWZiWlBuVkRYRXRlUHB4RS1zZTBMLXozUmNsMUNwSnowQkRRRjNlbEpwNnBKN1hKVTFWb05LZ0tVdzZkbGxhTW5CelE?oc=5",
       "source": "La FM",
       "published_at": "2026-09-23T17:16:01+00:00",
-      "score": 64.54,
+      "score": 60.88,
       "corroborating_sources": [
         "La FM"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1f15a1cb646101f7",
-      "title": "Javier Milei habló con la prensa tras su discurso en la ONU: su relación con Netanyahu y el futuro de Malvinas - MDZ Online",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnNpYVdFQkdzd2t1aWpRODcyNkpZTG9NUkpYZ3ZSRTZpWElCUW9CdXB2UWxtNkJJQ1EweTRNeFdwNnlpZ1p4RWwyQklCZXNEYXNYckVUOHRLWG9xVTBFcFNidEt3cktfaHFfeGRYNy1uZVVQTnI5WjNfaHdWVTBRMEZqU21UQnloTHZiRzNMbjAwYnVPSWRyUVRYOXZwRHF1TnRQZWNubjgtQTFLeWFGeWc3ZXItRUZCQ1JEaF9BNmZrNjlVb2ZkVm1NNNIB0AFBVV95cUxNWWxyT2FTWGR4VlBhUTd0eWpORHBjMWp6X2hRS2tqVUo3VGtZeEpFUmhDM3hoZ3VZUV9WT2tjd29WTWJ5VWh0SE1DQksxWXlrMF96cHJ6RjRYOFJ0Q0lwYjV6YVpfSk5qMmhpRmptTkExakc3ekF6dnM1ZXprSzJNaVp1NTZVR0lSTjNITzNWNzJ0ZU9WV21uZHlsQl9qOFp4LWJSeFVXa3dTdzhrQkY3amtWc0NfeDh3bmN0SjJSS2JEVkFqM0s0aXl6NXVmV0dr?oc=5",
-      "source": "MDZ Online",
-      "published_at": "2026-09-23T16:33:00+00:00",
-      "score": 63.71,
-      "corroborating_sources": [
-        "MDZ Online"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fc2cb28f56847fa2",
-      "title": "Donald Trump y la doctrina del caos geopolítico - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTC1PNEFtMGNiNHdjemQwOXptQ0hZSGlGcDBQSElxMDU2TTM1dWFrdVB6cEY5YnRwaTRuaGJQekxrZUFPeTRhcndDOHhnYlJHanBlSmsxazkwT29FNEp4ZWJieXE3QUQ1ZHFmTjg4c1JERThvWFlMdXJyN09xLV9XUHhZWUFIZXBFcU1HSld3OXpLU2dJcFFmTGhFSE9HcFI2MUxEaVlfcw?oc=5",
-      "source": "El Heraldo de México",
-      "published_at": "2026-09-23T15:51:00+00:00",
-      "score": 62.92,
-      "corroborating_sources": [
-        "El Heraldo de México"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0c7965b51ecc75b6",
-      "title": "Amnistía Internacional advirtió que no observa un “cambio estructural” en la política de represión en Venezuela tras la captura de Maduro - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPekZxay1hRHpuUS1IQk9QWElVVVNNZE52ck9PV29sLVdERTFRTjFzNVpaNlFlQ0QzVlBBWTlXNkFrTUFMZC0ya2k0QW53LTBtcTZWM0dQQTNSS3p1czBVTE81amRnZzF3NWRzSklNcU1xNHBRX0M0NEFyVnNCY256eGtDSWhjaF94SlpMOFpmanpScmt6TGZUWVJ4RE1LYkRENFZaVHdOSzlrdkJ3eUROdi1CQ1RySVZNX2premI1dThwdjNXdENYT19KeS1nZ3JWN19QN1o1aWo1X3A1UGMzdU9mazktb3AxdnlqRlJ0RUFJbW10RDQ4Yjc2dV90akxVNmYwbXE2NkdKWUJfQXVjZGJJa9IBrgJBVV95cUxPdWNMN3dwMTRPTmZuOExMYnJaWmJjODJTTjRxOWZmd1ZWTVJxVGZEUUVZdjU2ZEQ1WjZvNl9MRVVuWTJIc3pBVzZMVzFtTUpSZmg1RVB4QmdPeFdSaWFiN3B4bjJhTjNiMnlTNE13Ul9IWWJ4T1E5VTJzT3dMU0tZNkp1dzI3Y3FQSWUtUUlDeXBibmVEcThWTVpBQmdhRmV6bW5LNHdJa1hrZmcwazZuS3hISE5FZDZPUWQxWng1MkhlLUhySmt5MHBkNVRqSUFuOFgxTmVyeHZiLUV2X1hWZkM0VXFHUkNMM2NXRjlyZUZOU2NDek1PelVHX3FjRUZ1XzVEN1hiY0NrVm1GZkJFTllTMDgwbEZqRU1PUVhtZlNmajNjd0VZbWlNMzBYUQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-09-23T07:52:00+00:00",
-      "score": 62.87,
-      "corroborating_sources": [
-        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVdjRWl1MUltN3FJM3ZvT1BlX3BkMnU2MGtiRXlYNFdLdXBmaVlBZVQyU3JiUnAtQlhwdEZ0T01MZFNFZFN6VVU0U0VRdGI3Zi1jNW9pZDJYeGh5Zm9vUUxoM3A3Uy1mTDNDeW5peEJUeDRmRWlQYm1OUmhfTzdwN1FMUnNXYVVKbDRMTTh3SGxrM0E5TmhaQmVtSTZ4MXZXanZ3N2pnWjRVd0xRc1M0dUJyc3JvTmVNQUJ3ZThxdFRGNnpqSnVwVjA5dm0?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-09-22T16:39:00+00:00",
-      "score": 62.71,
+      "score": 60.86,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -276,14 +246,14 @@
       }
     },
     {
-      "id": "bcdfe1671e524991",
-      "title": "PF encontra menção a contrato de amiga de Lulinha com empresa que tinha disputa contra a Petrobras - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcEkyM2ctTkhPbmQ5aGZBbTUxNEstM2dwSV9jeldkZTZxTW9uSGpkWFFkX0JmVW9xWGJKOFFCVW5TcU44MndFbU1ia2E4a3hFRk9iaUJNc3hYSnJkZjNuYUVxRWE5by1VZTIwNElaeWpOWHVaVWtuSEFUdk5uU1pjNjdKUFhqZUxWTEdpelV5blFsM0lvT2JoREJxU21MV05wcmJNSDhOb2R6VTA0a0ZJQW12NGhqcnlJSmNVMEZJRFFNT0dHSkUwQ1Nsei1La2Fq0gHWAUFVX3lxTFA1cm9Ub1czb3VrODRQc3V5V2VXVTMwTGZjYkdaa0ZONlgxUVlMTUZyMjZhZzMzS0MxRWYwUXlwMXhOMXUxYU1URlVILTgxNmU2R1NSa1JTZlZ5RmpOSW1MaDNuRlZQMEptT2FZRVRwMF80NFZTMVRGcWxxNENTdjVZU21pcDdkbmRybW40U0I2eEswMlAtdk40ay1wcmdHV19SSHJJS3VCMmU4dmRrQ2MxbUtmdGE5c294Z0IwLTVWYXY5Tmg0NnZfbVFSRUJ2Z3FUcHJCTHc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-23T11:12:08+00:00",
-      "score": 61.02,
+      "id": "c84281d50cdeb71d",
+      "title": "Javier Milei habló con la prensa tras su discurso en la ONU: su relación con Netanyahu y el futuro de Malvinas - mdzol.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjlSTXFaS3BPTFpYOXl1RUhqRXZlc3NRQ0M0bGMxOThwdldEc0k3eFdfU2xPMnRmTXlLMmRLSWZqOHY1MHZ3Qy05VTlrakFBbk5kWUt3QUV2cF9lRG9zNmxfTHVJYzFrY3JEcTNVeFhTajUxT1hLem1UR1FjWF9YLUhGcW9vS2ZPYnBrblpkNTU2RFBtQjZDb1Y1bnJqRE83bmFqY2VsVzk1Q3d5M2JuNEVBcDd6QmljMm9mcEF6YjM4X2tfMjM5WDd30gHPAUFVX3lxTE9TMVZHSGkxWUc4Rk9SeXhmZ2U0LU1LOS1mZzNBRV8zSkk5UWJ4azVYdmU1eVRLRlp6UEJ5Q2R3N2paZUlTdW12LUFvYk1xcGRsNHhyWS13QlczWm1sS0MzUlplQUtOYXQzSlp4a1VCTTJyNjVqZmFFY2djS0tFUXhsY201djhBSnB3U0hCcVE3ODZFQ1ZldlNxMWVLdTNzeGVXcDUxenY0SXMtdzZlSTZVZ0NGR0t6Rmt1NWZWNTZFVG0xWmpKTDFaWVpoMFNMaw?oc=5",
+      "source": "mdzol.com",
+      "published_at": "2026-09-23T16:33:00+00:00",
+      "score": 60.12,
       "corroborating_sources": [
-        "Estadão"
+        "mdzol.com"
       ],
       "signals": {
         "source_count": 1,
@@ -291,14 +261,14 @@
       }
     },
     {
-      "id": "40d25d4f2fe86416",
-      "title": "Javier Milei cambia el horario de su discurso en la ONU - LA17",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclVkam0zUDdEVV9KZlVHUVNNVU5KUGZkVmxZNUR5UlJLTmZiaWw4bDBVTkp6emtVOWV4eUREdm9JRHFQR1FPeDM0aXMxb1FQYXpnQmY2ZXZrQnBCcHFBWHlWUlhza0hRVXROaXd2al9FZVZBTXNGbTNpdlZ2NzA5WlZ4cW5zRFpXLVp3OHJSUFRCX3lmQS00MGttVGJpazgzdGZWTHJuQUhvaUJReGcwSTczdnBMZFk?oc=5",
-      "source": "LA17",
-      "published_at": "2026-09-23T14:05:00+00:00",
-      "score": 60.98,
+      "id": "0c7965b51ecc75b6",
+      "title": "Amnistía Internacional advirtió que no observa un “cambio estructural” en la política de represión en Venezuela tras la captura de Maduro - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPekZxay1hRHpuUS1IQk9QWElVVVNNZE52ck9PV29sLVdERTFRTjFzNVpaNlFlQ0QzVlBBWTlXNkFrTUFMZC0ya2k0QW53LTBtcTZWM0dQQTNSS3p1czBVTE81amRnZzF3NWRzSklNcU1xNHBRX0M0NEFyVnNCY256eGtDSWhjaF94SlpMOFpmanpScmt6TGZUWVJ4RE1LYkRENFZaVHdOSzlrdkJ3eUROdi1CQ1RySVZNX2premI1dThwdjNXdENYT19KeS1nZ3JWN19QN1o1aWo1X3A1UGMzdU9mazktb3AxdnlqRlJ0RUFJbW10RDQ4Yjc2dV90akxVNmYwbXE2NkdKWUJfQXVjZGJJa9IBrgJBVV95cUxPdWNMN3dwMTRPTmZuOExMYnJaWmJjODJTTjRxOWZmd1ZWTVJxVGZEUUVZdjU2ZEQ1WjZvNl9MRVVuWTJIc3pBVzZMVzFtTUpSZmg1RVB4QmdPeFdSaWFiN3B4bjJhTjNiMnlTNE13Ul9IWWJ4T1E5VTJzT3dMU0tZNkp1dzI3Y3FQSWUtUUlDeXBibmVEcThWTVpBQmdhRmV6bW5LNHdJa1hrZmcwazZuS3hISE5FZDZPUWQxWng1MkhlLUhySmt5MHBkNVRqSUFuOFgxTmVyeHZiLUV2X1hWZkM0VXFHUkNMM2NXRjlyZUZOU2NDek1PelVHX3FjRUZ1XzVEN1hiY0NrVm1GZkJFTllTMDgwbEZqRU1PUVhtZlNmajNjd0VZbWlNMzBYUQ?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-09-23T07:52:00+00:00",
+      "score": 60.05,
       "corroborating_sources": [
-        "LA17"
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -306,12 +276,27 @@
       }
     },
     {
-      "id": "17b665214ae99291",
-      "title": "Trump recibirá a Xi Jinping en EU: estos son los temas que abordarán en la visita - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHgwM0l3TVFmdkZ1TEJsMzBqQU5ZMXYwRE44VHotYjREU1oyeHd5ZG5wc3J3ZExJVGs3Z0YzTGt0akxDaVVpZmlxTlVFVFBQd3VyQmV0TEZ3Uy03Tm9aS3pJck9lb2ZhMkFZdjNIdTdPZ3V2QnNFZGhoNEhhbTVVZXBuUUFjcF9xU3FrV0VMbnRWZ1lWTzlURTlpcHdHTWNXNlZiRjFnOFIxWG9NWjJTZDQ4RnlCc0RuMGJ5LVFwb3FMZXViYlpDMWhCQ3pRSXBENHVZ?oc=5",
+      "id": "fe9e7a16712643ee",
+      "title": "In defiant speech, Pezeshkian calls out Trump and says Iran will fight 'until our last breath' - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWNTOVlMMFRteVM3NklMWmNUMU5rRWNmQlZ1bG5kcjVFTUpVUlo2R0Z6TEFTS1pST1YyTHpzekZBY1Nzek91SURCeXltTGd5XzUyTDlqWXE3cllMaUx0bG5ONmNHc3paMlFTOHZrdlNJZ1kyXzNDRl9DaHNnQjZ4Wkk0c255TUtlQllqeHdIdERlNUVRaTR6Vy1uU1Zxcng4RGNmTTZ3U0dWUQ?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-09-23T16:19:35+00:00",
+      "score": 59.89,
+      "corroborating_sources": [
+        "Daily Herald"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fc2cb28f56847fa2",
+      "title": "Donald Trump y la doctrina del caos geopolítico - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTC1PNEFtMGNiNHdjemQwOXptQ0hZSGlGcDBQSElxMDU2TTM1dWFrdVB6cEY5YnRwaTRuaGJQekxrZUFPeTRhcndDOHhnYlJHanBlSmsxazkwT29FNEp4ZWJieXE3QUQ1ZHFmTjg4c1JERThvWFlMdXJyN09xLV9XUHhZWUFIZXBFcU1HSld3OXpLU2dJcFFmTGhFSE9HcFI2MUxEaVlfcw?oc=5",
       "source": "El Heraldo de México",
-      "published_at": "2026-09-23T14:01:00+00:00",
-      "score": 60.91,
+      "published_at": "2026-09-23T15:51:00+00:00",
+      "score": 59.39,
       "corroborating_sources": [
         "El Heraldo de México"
       ],
@@ -321,14 +306,74 @@
       }
     },
     {
-      "id": "b0d32453ebd483ad",
-      "title": "El equipo de Venezolana de Televisión sigue comprometido para traerte el minuto a minuto del 81.° período de sesiones de la Asamblea General de las Naciones Unidas. Infórmate al instante y sigue cada avance de esta cita global por la señal del canal de - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LeWNLVGZNd09TYkVwOG1GQ21HNTFoaFBRcVVQZnpGYV94Y3BUSExuaURVR3FhT0hwVjY4ZHoxdU93aEp3d1ppaVkxR0hReGFHR2c?oc=5",
-      "source": "instagram.com",
-      "published_at": "2026-09-23T13:59:49+00:00",
-      "score": 60.89,
+      "id": "e19ce8a631abbe38",
+      "title": "Continúa la Tensión Diplomática: ¿Somos el Patio Trasero de USA? - ppd.cl",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3RKVmxDQ1dyV0NLYnNSanY1R0tRRl9lSmdYZFJaby1DTFZNbno2SUlxRTNMSnhyMzBfN3hvaGhBcVJ5R3NUdFdxWTg5NmJnbHcxN0VibnJSWEM0dHBDQW9xc1lUNFhndUxub29pZ09RdEd1SHVPUTZ3UUt3c3BBU3k4djBfSF9XZ1dLbTZKN043QQ?oc=5",
+      "source": "ppd.cl",
+      "published_at": "2026-09-23T15:30:22+00:00",
+      "score": 59.04,
       "corroborating_sources": [
-        "instagram.com"
+        "ppd.cl"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7a4786e45437a0e2",
+      "title": "Presidente Lula diz na ONU que diplomacia é única saída para crises globais, critica veto no Conselho de Segurança e cita recorde de 65 conflitos em 2025 - Jornal Grande Bahia",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQR1VVR09rVjNuUlZseURvc21pNVd2LWpfdGlLaHNiaVRmaEFlQnpkeFRmUTIxRGRidUx1WFhzeTdIYndhVkpmQ2cwYzEyUTZ5bDdOZ25reWNFMzR3UFJCLUdPeVpwdnBlOWZhblhNdDhlYzNkQWVPTWZIR3pfaGR2X0ZXNFc4R1JUX2NxS1JDdUphTmRVbzFoaUdZSmNZZXNjQ2ZmX1RzMHF5dDBScWlhNTRWUVlwaW5uUjBwV2g2ZmhzRWlLdHE5WGF4SkZGYzRfaDBwV25MVVF5eXNFenVtbktJOUl5Yk9wMUI1S3ZBVXNONHpTY2NqNlBFSldCQU9ZODlPUXlXTDRtTFptZXgzWlpwSnB4eW9rVzh4V2JqQQ?oc=5",
+      "source": "Jornal Grande Bahia",
+      "published_at": "2026-09-22T18:15:53+00:00",
+      "score": 58.75,
+      "corroborating_sources": [
+        "Jornal Grande Bahia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "71402c6e83543da6",
+      "title": "El PP logra, tras la invasión de Ceuta, que el Congreso inste al Gobierno a recuperar la política exterior como una política de Estado que defienda nuestra soberanía e integridad - Partido Popular",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNc1REdy1pakZtNThubW0wZlMyb2JNVGVQYXAwVFFXRnprTWNPQklveGprQWxSSjV4UkJlMmMxcjNzMTFwUEhrQ2ZpblU3NlpIV1h2WFJsMFdoTW9fdDhicWhNbW5ET05PNUcxSm84WFlPdEdnSkppSk9aTHJ6Ml9qWXVzaUh6NmZYOFVDSV9RNFNoNk1DVW1uVjBweWdWZVQ5cFJwdEloSjdBcmE3Mkp1TER3MGxaN244YWYyWnpPeFlVZ19DZm52cWc3WU91QzBINlNnanFhU1dlR09PQ0hqOTIyNzFjSl91SGc5M1JvdUU4d2FBQ0NrWVFQcF8yWncwNjVXeGN2MmdRSDR4ZUxoM1lPVGEtRzM3bWFZeW96Rnd2MUFoTlNhRjZmRWJDci1jNkNKX2NLUV9FYTRZ?oc=5",
+      "source": "Partido Popular",
+      "published_at": "2026-09-22T16:52:38+00:00",
+      "score": 57.98,
+      "corroborating_sources": [
+        "Partido Popular"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6e2cd26ae50a3b13",
+      "title": "PF encontra menção a contrato de amiga de Lulinha com empresa que tinha disputa contra a Petrobras - estadao.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcEkyM2ctTkhPbmQ5aGZBbTUxNEstM2dwSV9jeldkZTZxTW9uSGpkWFFkX0JmVW9xWGJKOFFCVW5TcU44MndFbU1ia2E4a3hFRk9iaUJNc3hYSnJkZjNuYUVxRWE5by1VZTIwNElaeWpOWHVaVWtuSEFUdk5uU1pjNjdKUFhqZUxWTEdpelV5blFsM0lvT2JoREJxU21MV05wcmJNSDhOb2R6VTA0a0ZJQW12NGhqcnlJSmNVMEZJRFFNT0dHSkUwQ1Nsei1La2Fq0gHWAUFVX3lxTFA1cm9Ub1czb3VrODRQc3V5V2VXVTMwTGZjYkdaa0ZONlgxUVlMTUZyMjZhZzMzS0MxRWYwUXlwMXhOMXUxYU1URlVILTgxNmU2R1NSa1JTZlZ5RmpOSW1MaDNuRlZQMEptT2FZRVRwMF80NFZTMVRGcWxxNENTdjVZU21pcDdkbmRybW40U0I2eEswMlAtdk40ay1wcmdHV19SSHJJS3VCMmU4dmRrQ2MxbUtmdGE5c294Z0IwLTVWYXY5Tmg0NnZfbVFSRUJ2Z3FUcHJCTHc?oc=5",
+      "source": "estadao.com.br",
+      "published_at": "2026-09-23T11:12:08+00:00",
+      "score": 57.92,
+      "corroborating_sources": [
+        "estadao.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d1bc735e76f3b1a5",
+      "title": "AI-generated political ads warp reality ahead of U.S. midterms - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHAza1F0R29fNnZKb0pxSEFFNXF1bDFoM2J2UUg1Vk0tMERxcDNDUzlUYWp6LWFBYTljUXI4OTZlcDNqeGxqeE1jLWNnUHlReURlLVRHVzkxbWdQNzRseVVmc1BaX2s0RWVmQkluVTA2X2VldGc3N0ZOQTlsTWZ4ZzBjMGFJVWttcmZUUkphalZuYXc?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-09-23T05:00:00+00:00",
+      "score": 57.79,
+      "corroborating_sources": [
+        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM3JZbW9qeG5ZamhTeTFGR2hESWk2RUxDTnZ3X1BmWWg5YmZJcklQb21xQ0xHekJ4bGloRVRGb2hyVWJlQkdxMnR6OTBQQUVMR041NmY4bmlkbWNnVkdpeUNLREp0NGhUclNRSGhINk9hblhhQmFTSzhIRDd4eVFVeXJ2N1pQQ0hWQ1kyVHVpSkppMnpCeGhCbDNwQ0ZTOHhvYlJ2S3ZxRkw3ZTZNYTg3UDctQ0dhNExRV2VMVGJTejBzQnJGdUM4VG9DR2R3Qi1NeXJZ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-23T11:00:00+00:00",
-      "score": 60.82,
+      "score": 57.74,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -356,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcW5qeU9oV09zSWFzLU5ZQ3lIb2oxUVRHeXMtcE5kMGw0bXNCR2poR3pZZXkyOHUyWHlRN0dOTkhsQTl3V0FJbVRoSjZ4d2hCRHk2RE9YckxRZEpkZ0tTWE0xUjFaN0x3SzJ4TFVvR0VGcUxTMHoyNHNYbF9odFNhT0loeGRLWGNveHNkZ0xnQ0JVeXpQOGtoY3NGX0s1Sk9MSjNsTE9GbjBiYXFfelRFYjhocw?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-23T10:58:37+00:00",
-      "score": 60.8,
+      "score": 57.72,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -366,14 +411,14 @@
       }
     },
     {
-      "id": "7a4786e45437a0e2",
-      "title": "Presidente Lula diz na ONU que diplomacia é única saída para crises globais, critica veto no Conselho de Segurança e cita recorde de 65 conflitos em 2025 - Jornal Grande Bahia",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQR1VVR09rVjNuUlZseURvc21pNVd2LWpfdGlLaHNiaVRmaEFlQnpkeFRmUTIxRGRidUx1WFhzeTdIYndhVkpmQ2cwYzEyUTZ5bDdOZ25reWNFMzR3UFJCLUdPeVpwdnBlOWZhblhNdDhlYzNkQWVPTWZIR3pfaGR2X0ZXNFc4R1JUX2NxS1JDdUphTmRVbzFoaUdZSmNZZXNjQ2ZmX1RzMHF5dDBScWlhNTRWUVlwaW5uUjBwV2g2ZmhzRWlLdHE5WGF4SkZGYzRfaDBwV25MVVF5eXNFenVtbktJOUl5Yk9wMUI1S3ZBVXNONHpTY2NqNlBFSldCQU9ZODlPUXlXTDRtTFptZXgzWlpwSnB4eW9rVzh4V2JqQQ?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-09-22T18:15:53+00:00",
-      "score": 60.68,
+      "id": "17b665214ae99291",
+      "title": "Trump recibirá a Xi Jinping en EU: estos son los temas que abordarán en la visita - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHgwM0l3TVFmdkZ1TEJsMzBqQU5ZMXYwRE44VHotYjREU1oyeHd5ZG5wc3J3ZExJVGs3Z0YzTGt0akxDaVVpZmlxTlVFVFBQd3VyQmV0TEZ3Uy03Tm9aS3pJck9lb2ZhMkFZdjNIdTdPZ3V2QnNFZGhoNEhhbTVVZXBuUUFjcF9xU3FrV0VMbnRWZ1lWTzlURTlpcHdHTWNXNlZiRjFnOFIxWG9NWjJTZDQ4RnlCc0RuMGJ5LVFwb3FMZXViYlpDMWhCQ3pRSXBENHVZ?oc=5",
+      "source": "El Heraldo de México",
+      "published_at": "2026-09-23T14:01:00+00:00",
+      "score": 57.56,
       "corroborating_sources": [
-        "Jornal Grande Bahia"
+        "El Heraldo de México"
       ],
       "signals": {
         "source_count": 1,
@@ -381,14 +426,14 @@
       }
     },
     {
-      "id": "d1bc735e76f3b1a5",
-      "title": "AI-generated political ads warp reality ahead of U.S. midterms - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHAza1F0R29fNnZKb0pxSEFFNXF1bDFoM2J2UUg1Vk0tMERxcDNDUzlUYWp6LWFBYTljUXI4OTZlcDNqeGxqeE1jLWNnUHlReURlLVRHVzkxbWdQNzRseVVmc1BaX2s0RWVmQkluVTA2X2VldGc3N0ZOQTlsTWZ4ZzBjMGFJVWttcmZUUkphalZuYXc?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-09-23T05:00:00+00:00",
-      "score": 60.39,
+      "id": "b0d32453ebd483ad",
+      "title": "El equipo de Venezolana de Televisión sigue comprometido para traerte el minuto a minuto del 81.° período de sesiones de la Asamblea General de las Naciones Unidas. Infórmate al instante y sigue cada avance de esta cita global por la señal del canal de - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LeWNLVGZNd09TYkVwOG1GQ21HNTFoaFBRcVVQZnpGYV94Y3BUSExuaURVR3FhT0hwVjY4ZHoxdU93aEp3d1ppaVkxR0hReGFHR2c?oc=5",
+      "source": "instagram.com",
+      "published_at": "2026-09-23T13:59:49+00:00",
+      "score": 57.54,
       "corroborating_sources": [
-        "The Japan Times"
+        "instagram.com"
       ],
       "signals": {
         "source_count": 1,
@@ -396,59 +441,14 @@
       }
     },
     {
-      "id": "a736312ecb3807fb",
-      "title": "Xi embarca rumo aos EUA para visita de Estado a Donald Trump - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWE3eDRZUEhTdHE5TFI4NXJNTzhSV3pDTWxHc09wb0loNVZZRGptS1Voam9mUFllbUFaZTZzQkl2a1YxSUdVQmwxNm45VUF6U0JncWE5OTg0NFVfTXN5N3I3Z1ZpTUNhLUxzcThUcEdzYlFDcUhXSURWQVZRek5mTG1FM0ExNkhadjZuZUlWN1dpZmlBYUNLS2ZQczhSQWFBNk1HM0dzcllYeWdJbnpHSmNtMNIBuwFBVV95cUxOemlFbUhkdElHY0t0d1pGRXRDeEZpNXI0emNyNFJTN1Q5Q3p4bWp4N29OUGRwNjdYdnIwUENtSFNhMjJuRTZhSTgxNmJsaGJJc2t3ODk3RVhwSm5ZbE5KLVltVjFYZ2RTV1pCaGFsMzAwV0s1VUNyUndwR1dtbGlSVmFTalRhUk9vaFZFTzhfR3Z5dkV2TThud0xQQTdYS2VQRnc4SG52c09hY2RJLUxnWmhHVVowTHFXXzJr?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-23T13:17:00+00:00",
-      "score": 60.13,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "455efdb6c51146de",
+      "id": "7aac2563135ac067",
       "title": "This year, with shifting political winds, Canada gets more of the spotlight on the UN's stage - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeTZWbXd6QUZXemNvVjlSRjlNWElYdE9MMXNaaXdWNmt3Q3NTSllzUWhaODBhOWFlT0p4dnA0TmJfT05VRHF3cTNFV1NEWHpFRlQ1RjRFMUpXNUVRTW1ZNFF3LW1Mdk9wcmVTaWZBY05GN2xobUFrVlFVamtPMWxzZFpwVUsyeDlvTTBkamItMWNWR0R0QzVQZmxRZlRPNVVfOWRTeTJoNkdEMFliMVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmhMZW14RzA3RnZ4N2xPV3dERWoxVlNhM3ZuUm9HRmdWMFVlOHlpcTR2eWlQb0ZkaXFuNFVEaG4tV1pWNG5nbkFUWVFCYVNEMm9ieDJtRzFEakJUbkRVY09hRFB1S3o5RVNUWUx6Sl9Da2U1N2R1akhPeVdCVnBFaFJkTFhpLUVJdTZ3bkNCZ1VmSVVSVDJmTER0MG8yRWEzS2VPZG9leDd0N3Z2aXRj?oc=5",
       "source": "Audacy",
       "published_at": "2026-09-23T04:27:00+00:00",
-      "score": 59.94,
+      "score": 57.37,
       "corroborating_sources": [
         "Audacy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "71402c6e83543da6",
-      "title": "El PP logra, tras la invasión de Ceuta, que el Congreso inste al Gobierno a recuperar la política exterior como una política de Estado que defienda nuestra soberanía e integridad - Partido Popular",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNc1REdy1pakZtNThubW0wZlMyb2JNVGVQYXAwVFFXRnprTWNPQklveGprQWxSSjV4UkJlMmMxcjNzMTFwUEhrQ2ZpblU3NlpIV1h2WFJsMFdoTW9fdDhicWhNbW5ET05PNUcxSm84WFlPdEdnSkppSk9aTHJ6Ml9qWXVzaUh6NmZYOFVDSV9RNFNoNk1DVW1uVjBweWdWZVQ5cFJwdEloSjdBcmE3Mkp1TER3MGxaN244YWYyWnpPeFlVZ19DZm52cWc3WU91QzBINlNnanFhU1dlR09PQ0hqOTIyNzFjSl91SGc5M1JvdUU4d2FBQ0NrWVFQcF8yWncwNjVXeGN2MmdRSDR4ZUxoM1lPVGEtRzM3bWFZeW96Rnd2MUFoTlNhRjZmRWJDci1jNkNKX2NLUV9FYTRZ?oc=5",
-      "source": "Partido Popular",
-      "published_at": "2026-09-22T16:52:38+00:00",
-      "score": 59.84,
-      "corroborating_sources": [
-        "Partido Popular"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "78cfffa2ff41a6b9",
-      "title": "Em Nova Iorque, Trump e Delcy Rodríguez se reúnem pela 1ª vez - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWZ3SjE5ald0S3UwWUV4VHFqSDhpUzQ4RlFJNDZmTkNNbUpzZHB3b3lpcDVVX0Nhb2M3THc4UG94Xzg0ZVRsYU1VUzg2UGJsdHlHZnNyQUppc3VfWnNpY1BxVzdPVjFlY1FtUDk1NGRPQm1sLTRrOG5fcml4bnRqbEw3RGxVYlRmNGJPNlFXMkNPOE91Rk9rekUwSDdocUJreDJDVGtDSGJYRkljdThWbjV2d9IBuwFBVV95cUxNM0NoaThiX1ZkMS1hd3V1emhuUVE4YkJZa1o2SVNjM1NYRFpjaDJYOTBPa1lrOUhOV3YyNTQxa29fcUdJZF9GY0NicktCVVJKdjRpenhtTTFfLV91c1hWdjNyNDd0Q21YQnNTWl9rX242RWhIS1lRZWg1UV90TFIwOHVkWjVIS0FoU0h1WWdyRmtVd21aeFJtdU5wWmJxM0h0XzBaSjhCSEJtTUpnckZER2EwWHJwcXlxOW5z?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-23T12:55:00+00:00",
-      "score": 59.75,
-      "corroborating_sources": [
-        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
