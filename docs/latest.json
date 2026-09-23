@@ -1,17 +1,77 @@
 {
-  "generated_at": "2026-09-22T22:59:15.920387+00:00",
-  "next_update_expected_at": "2026-09-23T02:59:15.920387+00:00",
+  "generated_at": "2026-09-23T04:49:51.424224+00:00",
+  "next_update_expected_at": "2026-09-23T08:49:51.424224+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "5b5229f0bc2f83b2",
+      "title": "Violência política de gênero é \"agressão\" à democracia, diz Kassio - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2RBYzE5UnhLM2tqZG5kR080elAwX1V6UHNUOHhwNW5rcGxCNjI3NnlOOE1sYzJ4SFBRN28zc2dmazVnN1k2Z1F1VU9zcmNIamFic015NFJmSWxCOGRDbjd4LUc3WVN1NGFlektRMFZKTDJHeDhMWlBMVXdFNzNST3V0bnMzX2RYOXV6d0szcHZuM2RlMmdqVHRYWWJueENESnVHR041NDh6Zw?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-23T02:12:32+00:00",
+      "score": 83.32,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "529d4ff1aba67bf1",
+      "title": "Trump, en su discurso en la ONU, amenaza con “aniquilar” a Irán y defiende su política internacional - ENREDACCIÓN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGdJTnV4M2N1TlRGQnFIaUc4ZzZUQ1FYSVRFM2RXeFJMUkg0dGNwV3NZQkt6clYwSWpOSHhTRTAzMm42THo4Rjd1bTBvcXlJMEZxaGJaWGpMWlloamdLRnpuSmp2R1FERkw0QnpYSUxQb01fSU4yTlJ4TDh2d2xRbkJXVTk4aXVhenFSckFsQmEyVlBWU19GV01VeGFsUzdKZDlXbWxUQ0JnVEVOUlhXTmFPczNhM2l2dWhDQjA5ZDZYQQ?oc=5",
+      "source": "ENREDACCIÓN",
+      "published_at": "2026-09-23T03:25:55+00:00",
+      "score": 73.76,
+      "corroborating_sources": [
+        "ENREDACCIÓN"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "83327a1f016e032e",
+      "title": "Líder vietnamita pronuncia discurso de política exterior en Estados Unidos - Thông tấn xã Việt Nam (TTXVN)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkJrWndHMEpQb3NQeW1QNmNma3ZrUG0wTFBLVDVqYVpPZ1ljcjNBYU5BcWhSa04zbU8yNWJBZ01CUlJNUWZOdWtwSE4xQlEtbzBnWEZjY3ZnR1czdURySkJPVk1VQklHY19sWWZCRlFCVVhoRjhSUVByVGxPLVJUdnozR2R5SVd1R2ZOcW5oR3ZRaF9uY0wtSjQyaXZmU0JZTmZ1SHBjN1pCMl9EZ3NBZFBBTnRRQWY3b1kxU1FRVVB6dl9Fbk9N?oc=5",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "published_at": "2026-09-23T02:10:30+00:00",
+      "score": 72.28,
+      "corroborating_sources": [
+        "Thông tấn xã Việt Nam (TTXVN)"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7a4786e45437a0e2",
+      "title": "Presidente Lula diz na ONU que diplomacia é única saída para crises globais, critica veto no Conselho de Segurança e cita recorde de 65 conflitos em 2025 - Jornal Grande Bahia",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQR1VVR09rVjNuUlZseURvc21pNVd2LWpfdGlLaHNiaVRmaEFlQnpkeFRmUTIxRGRidUx1WFhzeTdIYndhVkpmQ2cwYzEyUTZ5bDdOZ25reWNFMzR3UFJCLUdPeVpwdnBlOWZhblhNdDhlYzNkQWVPTWZIR3pfaGR2X0ZXNFc4R1JUX2NxS1JDdUphTmRVbzFoaUdZSmNZZXNjQ2ZmX1RzMHF5dDBScWlhNTRWUVlwaW5uUjBwV2g2ZmhzRWlLdHE5WGF4SkZGYzRfaDBwV25MVVF5eXNFenVtbktJOUl5Yk9wMUI1S3ZBVXNONHpTY2NqNlBFSldCQU9ZODlPUXlXTDRtTFptZXgzWlpwSnB4eW9rVzh4V2JqQQ?oc=5",
+      "source": "Jornal Grande Bahia",
+      "published_at": "2026-09-22T18:15:53+00:00",
+      "score": 72.03,
+      "corroborating_sources": [
+        "Jornal Grande Bahia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "dcc4a354fec57d3a",
       "title": "Países vizinhos do Brasil impõem sanções contra PCC e CV - Pleno.News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2xTRkx1a2hQX0hfZWZFNzIxOThTbEhJNmJfR0pDZ2pzYVBWWHUyNHRZVW1SeFZBMWRONmZVYk1idDhyNFNUc0Nhckc0clo0ZXB1c1AtOGpfLXl5NWJIR0lEZUthVVJ1VEdBaTQzazNSQmdrWGlIdGI1R21WdzZqTlZNbENBU29fVV8tSWh3NA?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-09-22T22:30:00+00:00",
-      "score": 74.87,
+      "score": 68.22,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -26,9 +86,39 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZGcyd2lVR2JpX3d0OEdtWk9BcnRIcERVT0hRQkgtVjh3NXVQaDBSaXhpSlE2X1AwTVBSdDZud2NmY1BXbGtYd3JUUGp3bUpMbDB6YW0xTDlhTjhWMWxpY3lyMmxqTDR5YkRsMzh3cEhDblUwYno2VTVoNTVkVHB5UC04bklEN1lRMGtTdlNMcnpCX0RRcWJGQlpldjN4c2c0eWlvTnlleGhMQm5zQWtDTk9KNzhtYTFDWjdlbHhjb0lwaDZkcmNBaEUwdTI5U2tHS2c?oc=5",
       "source": "CidadeVerde.com",
       "published_at": "2026-09-22T22:27:00+00:00",
-      "score": 74.81,
+      "score": 68.17,
       "corroborating_sources": [
         "CidadeVerde.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c8ac19d1e0846867",
+      "title": "Oruro recibe a representación de Embajada de EEUU en Bolivia - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenZJeUg0N21HcXZjMVpwT3pqcmFuX21Pc0ZJR2djSVhGRWplUTJmNGZtUkRzR1hKOGNpWDlaZzdmU2pMbVJHMVp0R1FLUnpKRUg5eldUVlU5amVFSWVXZjJweFZJN1lBcExnUWd3TUQwLUlTcUdCMFprRzNwUm1hSHVMMzBpYlVwUGFBVC1pTHdRTF9nVlpDdXJ0TEhQOGVOZm5XdF93?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-23T02:20:19+00:00",
+      "score": 64.47,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a7c8349aedc8a405",
+      "title": "Novo em Folha: Coda.Br oferece ingressos gratuitos a integrantes de minorias sociais - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTTFta1cwRzJCcXktUmhLR1NNbTVsWWpqZktPNVU3S09KcXREeGg0dlM4enhGODdGSFhMdVlfYjY5bEpoWFhsUGlSeFhOX2YxWTZUT3ZVYzB1SHVJTm8teDE4TkFrQzVtcWZiSkppZWtPRnFJR295c3NRU3hIYV9tWFRDSlU3NXVjVE9vUWlhUllqRm9WNkExcDdQbzZNS0xldm10RVNNa01wTnEzY1FYaGZlUWc1UHB0cmxua1V0WHFtejExQ0hueldaZ18?oc=5",
+      "source": "folha.uol.com.br",
+      "published_at": "2026-09-22T23:08:00+00:00",
+      "score": 63.89,
+      "corroborating_sources": [
+        "folha.uol.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +131,24 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYjFoVWh3MGtRYmhhaUVhQTNlZE9aeFc4dEJ5U2xveUVseWx4NnVUcDMtLTRFZzMzdVNtOFgwazJlZG5kOFpjVVNKdzYzaVVBNkE?oc=5",
       "source": "instagram.com",
       "published_at": "2026-09-22T17:35:32+00:00",
-      "score": 69.21,
+      "score": 63.41,
       "corroborating_sources": [
         "instagram.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "220d7c9052f8f35d",
+      "title": "Lula tem 60,5% contra 32,7% de Flávio no 2º turno em PE, diz pesquisa - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzlHUTNxZGVucGFqbmt1bS03eld3cDBCV21QVHFfZ2xSdHk3MTU4OG8yejFCeENlbi01VkxiTUllbk9Dd1hINTFVcEFOUVFrNHNtdEJUZUIyVTk2SjNLdHNaMDZVbmlKUVY5TEpXQWFacDkxeVZGVnBOcEJ2LXNyZE8xNHdnZ200Z0dXZXJnWHZQZ2VLR3BJRVh2T1E1TDNOMUw0LWg3Qi1wWkhLVmVSOHlVQQ?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-22T22:17:51+00:00",
+      "score": 63.01,
+      "corroborating_sources": [
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFFYbW1mbTdOWUNha05YbmhZbkVaWk1VaUNzaVhxRG5Ea0otMS1veVZUbll1TlljLXFaQnZmb29LQjM1N1BxNVhoOThFWHZCRjljcEdBRGRGQmdGMVZneWJOUElkYTB4NjJ1eDVRRjVKTVhuV2ZQZEtIck9aR3NQYllMZTJCbnlsMmduZkx0eWlGRWduUml1dUNjTXFpMFhUcmxkU1g5WDZBRDV2MUNlWGJaRTg0Z9IBtgFBVV95cUxOS3VZd3g3Zy0zVm9tRUFrbU5ySkFiejVrZHdHcXpsOE9iRWJoSWx5cV9qR2p5YXNjejh6NEozLXdjd0xsTjE0a01JVDA5YTVfZGpoM3VMSE1pcjZ4bXpwbXJ2NnF3cktrSnpzYmVhY3loSkRsc3JJQUw0Y2JCTTdDVUJUSDI0eHBMdy1CTHJra1VxMm53dGZScmVhd2tuM3UtUGRqN2lBdGpKb0xKSTJOSzYtQkJoUQ?oc=5",
       "source": "MILENIO",
       "published_at": "2026-09-22T16:12:49+00:00",
-      "score": 67.76,
+      "score": 62.17,
       "corroborating_sources": [
         "MILENIO"
       ],
@@ -66,14 +171,29 @@
       }
     },
     {
-      "id": "bc315b7609d05a62",
-      "title": "Partido aliado a Putin vence eleição parlamentar na Rússia com mais de 57% dos votos - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1ZrOW5zVFFHUHB2dzNGSWtFQktINlZyR2xIMGV2Rk9JUURDVTQ2ZDJQa0JFV1JHV0ZJcm9TMnpUZFRLY2ZCUHBsT1ZLX3Z2YWp6eWc0WHNzeUVPWHg3Z0FxRlV5T29lQ3RFQmRZZVFOSkJnYVVxM0g1b2tpazRMVHpWZEdfUlJDajlZRldvenNLUzVkTXpmeUxlOER2a01lUVVmY0VnYkwwaVBmZGcyNA?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-09-21T19:34:00+00:00",
-      "score": 67.49,
+      "id": "c8e5610518536417",
+      "title": "Kicillof abrió su gira en EEUU: se juntó con fondos de inversión para dar una señal a Wall Street - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcXhxVzZKbUVXaUZSTTRtWXlrSC1tZGZqdjUtSzJmbF9FeUdvZkJGc3BiR2xXOF85TW9RUHIzREw1MFk1dkRVVmZJUmwwV2xlUW4zM3N3M2VZVUpEUWtwQnZWYTRmenQ1ajF0NEZya1JiZEZNRlBqVkgwWlR1Y2ZSak1rbWJwNGpqZFJfOHV5WTBfOHAwNW9UVDNCY29hQkhicnJtMlU5RWtZcU84UE9YaUppaE1mRDhwblRUN1QxRDhRdFhhMUs4Wm1WQUswZFVRUVRHdlIxQWnSAfMBQVVfeXFMUDFVRFEwMmtaRXFFQUxCMEIwck1yeExTaDN1ZDhPVjFPZDdGZjVNc2NiclhjLWczMlJTOHg5WjYxMGphZlJYa1dNUDlkUWg1YWJYcnYyc0VyQktxNC1kVXp3OU5sTl9VaW9xNzJPd05YSjFlYVYwWHFmVUNJdTNQa1o1YWVzbmV6bDE1Q1FEQmV4bk5FODhvQTkzOThBZy03VHZaVEp2MDM1aVZEclZaS0JOSnh1QzVobHpJb041UDNZS3U5WF9uOG85Y0lnYTNWV0RxalBHTGFFMEwxdlBseng5UVlIUVFIbzA4SEVfY0lucm1N?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-09-23T00:18:00+00:00",
+      "score": 62.15,
       "corroborating_sources": [
-        "Transmissão Política"
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0dd03188e88485ad",
+      "title": "Milei en la ONU: paz, burocracia y la no regulación de IA - LA17",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPemg1SjJkay1CdFBBWlVRTURLdVd4SnJ2Ym41ell5cVZCOUlMLXpfQ1JSYW5MbjRiRlZtQndveUJ6eVYtT3RFS2tCWFViNGlqdGFPUHdVZzZVQjItSEhybWhxS1V2clNYc18tRXZveHZPcS1IWFJ6WWd5elgxOXI1c2tIRGdRbmJVUEZxb3BNdjhJSFJoX1h6dWVaQmZqNzE1YjZTb3ZKYXAzck93NkxvMmNVeTBaX3ZvTFZwSWRJNl9hZHZub1J1NnZsZlhmZw?oc=5",
+      "source": "LA17",
+      "published_at": "2026-09-22T23:56:00+00:00",
+      "score": 61.75,
+      "corroborating_sources": [
+        "LA17"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVTJCYlk5S0cyeVdscVJGNFZNdTF3S1RpOG1yMGhZNHRJcVB1OG56V3RoaFViT1NKVWRyc2RESFpQV01jQWJyVDFaNmxNcGk5SHJJaVVuZnJiM1ZreGxraXJtbW50ZjRER3lhYWxRWFhORWJ5RUlIWVVGQUtzME8zYzJtOTk1c2JRX19zN1c1U3pKbWpVUzA2RHBnVUxtSlVMZVZ0UHozMkxIekRSdWRDVGhjVHpkR2dFNTJuMWVMVENXSWJBNGtlUHZsc3ZTVWV4ZXdHNjJNRnVHQTBEZ0wtSV9FUzZEUDcza3liS3c1azBxQQ?oc=5",
       "source": "El Periodista",
       "published_at": "2026-09-22T15:41:38+00:00",
-      "score": 67.22,
+      "score": 61.72,
       "corroborating_sources": [
         "El Periodista"
       ],
@@ -96,14 +216,29 @@
       }
     },
     {
-      "id": "518083999b3e2ab3",
-      "title": "Chile y Perú piden en la ONU medidas contra el terrorismo - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenBOeDRoVlRmU0Q0N1B5MjZPa3VlQjJFbWw2WlpzYTFFeWpERGlyY0lrWXMwUDBoNnJPekdiQlo4SXVKdGFfOFNvYUkxRG5LOUlfcmZ0NDBSQWdiMU5oZWlsRXNtSks5UkNSTDc2SUUzSXBsN1JJTG9tUm8yYXpmdm5URWNKWEZWZmcwYXA4b0phRTNt?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-09-22T22:38:50+00:00",
-      "score": 67.05,
+      "id": "2cc767354d5954f3",
+      "title": "‘Pushback’: Protesters to converge on Medinah for Trump’s Presidents Cup visit - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZWpJZVJNbGNzdGlERDN3ZjBuWjFfMlpFbG01V0hGVmY3OVpnZ0ZsNUp5OVVvTEJpRWY5c3RJamg4SVdaemZuSkFTYmNaaGJBNDN4WW5vUmgyaGtlVlBudHUxNDEwV0VYZWlzNFRwdmxybXc3SkdWV1lldnBXTEltUG5MRjFoOFF1YmN2XzRpcHFDa2luVUsyYXdpdEU5bEZPcXg4X291eDVCU0xRLTVQVDRzMXo2VDhNUm9nT2xBZ1Rrdk9sb1JpZ1BfRTlEMGZRNEZWaQ?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-09-22T23:52:20+00:00",
+      "score": 61.69,
       "corroborating_sources": [
-        "La Patria Bolivia"
+        "Daily Herald"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "22bcee60becfc9ce",
+      "title": "Axel Kicillof desplegó en Nueva York una agenda con académicos, inversores y empresarios - La Gaceta",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlBOZWxWWVNHb1otNWlhcUozUHk0d0plX2FVRWlUVFIxVEVnZlBoRnI0N2ZRMWJVWmhRRHQ3Mlh5VkpLal9vZkt5OVdfWnBDeDJlUlM2YWdxWmRuZTM3em5aVllEZmNIYWNMTXBzbDE2VlBiT3hCVnN3di15Z1E4TU9jMTJXWnlMVF9RczVXY1FJZjk3ZS1EQzB6QzJTNkNmVjJXX0RWSW5tSGVLRUQyRGtqZ0ZoSEV0eDlTbkJ6c3JaNU5iOWlKRtIBzgFBVV95cUxQbGg1enZsS3RTQmkwTEtJTUUtUXlzTm9DY0VLWmZneVNNSGNKZzB6NlhrRkNtSy1EcVFmMkhyRDdEU3dJV2FmbmlEZGctQmJmNTlsRkw3RVBxRU9BeU56dHdkTHBrYnREcE5WS193UzFaUVJBdDBHRFF3bWxQRTRDOWFLQ0sweVR3SUlIZVI0OWUtamtic1pxLXNDWjVsZURLbWtYcUxiNXlLWWFMSTlldndHRkpKR19RYkwtakpKbFlzSGxVY1JTRHBjSEFZZw?oc=5",
+      "source": "La Gaceta",
+      "published_at": "2026-09-22T23:27:15+00:00",
+      "score": 61.23,
+      "corroborating_sources": [
+        "La Gaceta"
       ],
       "signals": {
         "source_count": 1,
@@ -116,9 +251,84 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR0I2RTUyNm1SbEsxRWw3cjI4QnBQVGQ2cGxiaEtfU3NNVVBiLVV6UzNsR0ZOSG9vcFZGUU04UkpOMF92WFJQR2dvWElGZzFIemxvVkpINmRoc0stVkRBTEJNY3FOVEpxSGxvVWF3NlZSRnpLNVJUZzdRWkJqaGxJdGRJZ2JNdHVJNGJ6ZTdRMWVzV1hudUNGSjBOM1lVMFF3aV85ckVkNTA4Z3pTOGN2WFNXUHc4N01BVVRqbnNFbTVjMUVkOUhIVkp4czZDbThVeWlYQy1WSdIB6wFBVV95cUxQTC12QTNoc1hPdlJnNmRCQm1HZ05wVThmczAxeTFaMFUwSFlUYzh3OHd4ZUl1OWo4T3ZDa0tHRFZST09UaF9xRWtlWFFjeEI5Tk91WDl5b2hWaDNWQVNRV2Q1dVNHWFREcUtKZllaQUdFYjhpTTNMR0xEUjJ3ODB0a0JmQXJEOWtCcGpsNFRDRzhQSTRvZ015ZXdycWtCdEdUQkRzR2pwX0xiZ0d5Y1B3SEVqNG10S3pkX3ZGbExYSTBqQTNiRUJOR2FST1BVTzAzMERuVkFwaGY3eWk3TEp6anM5Y0NkYmJZNWxB?oc=5",
       "source": "La Razón",
       "published_at": "2026-09-22T14:44:26+00:00",
-      "score": 66.26,
+      "score": 60.9,
       "corroborating_sources": [
         "La Razón"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b8262482127f416c",
+      "title": "Kicillof en Nueva York: participó de una charla sobre el futuro de América Latina y pidió avanzar en \"una verdadera integración regional\" - lanoticia1.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNi1KSi04QjBiZU9FR284c3ZoTklnQTF6UzJoS04zOXR5bkVocXNuWWdtVE5DN3lHR1B2STlPQ0ZaaGFKOTVHYzJoNFZDQ2hsQkJLMThFdXhITUxyeXhBS0VpOC1Za3VwM1BEcG0wbVlzTm50VkREMFAwS1hRWXh0SFZPckE4NDZwcWNJcldDdUloLXdPM3NuZ2NTdWY1NEFoTE1aZlJoWjdmemZzVkdfN1gzbG1EQndZNTc0aFFBbHpobkZZSEh0YVRHLU5OTG52bUZyR0VvaEwzQmVCbEJ2aTNVeDZ2eWEtOWtrTUE2bF9kcDZvam93b0gyV1pWdw?oc=5",
+      "source": "lanoticia1.com",
+      "published_at": "2026-09-22T22:52:18+00:00",
+      "score": 60.61,
+      "corroborating_sources": [
+        "lanoticia1.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "10aa89fc989cd1d8",
+      "title": "TSE mantém suspensão da campanha de Dallagnol ao Senado - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEI3bEpWNnB4VjNXbEJ2SlIzbHBRYjFyc1h5OHFacEEyVHpZVVdkampsTnRqYnFadjdleVdOQkZvNDBjTV85UGhNNjRWeEhkZUlzSWFIZHRqUVQ1Y1dTUGhqU0J3WDVYU1NySl95WlJtZV9fZDJPOEhrOHFJclM0ZVlDNkRuazlHenBKaDd5ZWMtZHlRMmR6bHRaUUJSbkxhczRMOV90UQ?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-22T10:28:10+00:00",
+      "score": 60.5,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "518083999b3e2ab3",
+      "title": "Chile y Perú piden en la ONU medidas contra el terrorismo - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenBOeDRoVlRmU0Q0N1B5MjZPa3VlQjJFbWw2WlpzYTFFeWpERGlyY0lrWXMwUDBoNnJPekdiQlo4SXVKdGFfOFNvYUkxRG5LOUlfcmZ0NDBSQWdiMU5oZWlsRXNtSks5UkNSTDc2SUUzSXBsN1JJTG9tUm8yYXpmdm5URWNKWEZWZmcwYXA4b0phRTNt?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-22T22:40:32+00:00",
+      "score": 60.4,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b0e4517f6067d222",
+      "title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY1ZnSlNSb0p2eXVVUUI1TzVKRjFoMjJYSk5Qd2lzR3gzVFRhWDlZMFQ4MVVEaUowQ3pXRkNOQUlfbm9uUnU1N3lraWRaeTRBblVsVU1BNDZlUDFwZWk4eklHWnlSVnY1b0xCeHR6M3o5OHQwTVB5bUIxTzg2eUwyQWFfMU1MNVgtc3RFNUQtZS1IWExSWm02b2tjMFRXamRmY3JMbmVWZHRER0lfMktOWUVYZS1EQWRxYjA4cVFNZW1MWDljMWk0VE1wN3BNbGZFeHZuN3MwWU96b0RFUS1YZDNqSF9IcTAwZEdnWg?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-09-22T12:42:24+00:00",
+      "score": 59.23,
+      "corroborating_sources": [
+        "Daily Herald"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6f0e57afab018541",
+      "title": "Trump in address to world leaders at the UN defends his decision to start the war against Iran - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOODZsbWhlZ1JqWHpFRFBLOHQ4VjNkUHhCSHFZWHhybGY0MC1jYnZvd0diM0J4dDJta2tHVkQ5V2pScm9TUWZnTUJDaUx4MFdJSHJtTGM1ekt1R1E1VlM4X0ZrTjNTMV8tYV9oc1J2cjdUTjRmXzJCdEZ4SG1yT1NsYUpmWmRpUlJxY0puckU4NkZwc2xFd0RpWXhjRnZ4MWdJY0pEbzNHNWQ2WmJzRUNlcl9aUk1lSmIwSjV5aXhYQWIxVXpLSW1WUTUzTzhxdlNqNEdBNXM0Sy1pMzdTRzlESzdORE5CV1pYTVJpUFR4bTdBQQ?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-09-22T12:34:13+00:00",
+      "score": 59.12,
+      "corroborating_sources": [
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGt1d0t3RGxQUENET1pjMlFXeDBWZVN2aE5OdHBydjgtSXBuRW5PUklLY2N2cWx1X1NoR2xVNjBDeG1IVzlwWmIwVmdxU21hQ1FwdjI4XzVYTWxxdGZqQTdlYXJvaFdqeE1UR2JyVnNFWGtJZDhFQWVyWUNnMHFPUUJQcldRNkxidlAxTUJNTUZ1RmJDaHozT1VVcGlfM213eC00R1J3cEQ4ZXBKZjdz?oc=5",
       "source": "Audacy",
       "published_at": "2026-09-22T21:18:00+00:00",
-      "score": 65.42,
+      "score": 58.98,
       "corroborating_sources": [
         "Audacy"
       ],
@@ -141,14 +351,14 @@
       }
     },
     {
-      "id": "eb54241145306a7d",
-      "title": "TSE mantém suspensão da campanha de Dallagnol ao Senado - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEI3bEpWNnB4VjNXbEJ2SlIzbHBRYjFyc1h5OHFacEEyVHpZVVdkampsTnRqYnFadjdleVdOQkZvNDBjTV85UGhNNjRWeEhkZUlzSWFIZHRqUVQ1Y1dTUGhqU0J3WDVYU1NySl95WlJtZV9fZDJPOEhrOHFJclM0ZVlDNkRuazlHenBKaDd5ZWMtZHlRMmR6bHRaUUJSbkxhczRMOV90UQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-22T10:28:10+00:00",
-      "score": 65.26,
+      "id": "6b137a0e13af326f",
+      "title": "Trump propõe \"Super Inteligência\" e ameaça uso militar na ONU - Muita Informação",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeEpYTlNtWGl2R2RwNTdHb1BncUhrM3BqTHc2LWN2VHp2Y2VENkFKQUo0aEFLOFNVd0lFZGRiQTBIdFZ3eEkxeS11N2x2UDJydGM3dV9jRVo0Ny1KVVRmc0x3WTBhY3FHUTE0V3Rud3pCYUduazZtTVhHSE1KQVN4a1UwMlBmUkFnTzdsZzVxR1JVX2FLcG9wa2JSZW13U3poazBKelFiSmROMnFaVDhpYjNDamY4bjdLcndNVjl0YlU4XzR3aGJpTEdHYzNFY0p1WDRiV2F5aTRNZw?oc=5",
+      "source": "Muita Informação",
+      "published_at": "2026-09-22T21:02:00+00:00",
+      "score": 58.71,
       "corroborating_sources": [
-        "Poder360"
+        "Muita Informação"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUY2a2h5aHhleTFoS09oRnZJLTFUNV9tQnV1Sl9ZMXUyZWdSRnN2RkhHRDdnOGZTd0RaUjE3LXU1ZmdNeUwxN2ZEbmNwWFNwM2VLYmszSTlQZFl5dTIwU2VSMDB0NGRObnYxb1FkLVdaaWl5XzZpSjY5RWNHUDB5T1d1WEIzT19DN0FqVy1aRElwTDlIOUlqSHlla3ZRVkI2VkUyaVRCR0dyNW1rMU9WQ1liczRXb3dkakJDVENKS1VYb0U?oc=5",
       "source": "La Voz del Interior",
       "published_at": "2026-09-22T20:48:30+00:00",
-      "score": 64.83,
+      "score": 58.49,
       "corroborating_sources": [
         "La Voz del Interior"
       ],
@@ -176,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNllqamtzSGNpMk5NQW5RTGNzenE5QzR2ODRLNlMwZ0pneDlVMHBlazJNM0VoZ2ozTXhUX0ktUGl2QUtVVzhMbnFrVURxbDkza2dGVWxwWndsU0t2Wl9ybGVkR1dBMEJXMHA0X3NQUHEzak9fYVMxc29RYmV6X09wcmNaODhCREhMZXdabjQ3dTljQkpRekI5bmtUYVQtMDJxSzVuOQ?oc=5",
       "source": "Grupo Animal",
       "published_at": "2026-09-22T20:46:41+00:00",
-      "score": 64.8,
+      "score": 58.46,
       "corroborating_sources": [
         "Grupo Animal"
       ],
@@ -186,29 +396,14 @@
       }
     },
     {
-      "id": "b0e4517f6067d222",
-      "title": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY1ZnSlNSb0p2eXVVUUI1TzVKRjFoMjJYSk5Qd2lzR3gzVFRhWDlZMFQ4MVVEaUowQ3pXRkNOQUlfbm9uUnU1N3lraWRaeTRBblVsVU1BNDZlUDFwZWk4eklHWnlSVnY1b0xCeHR6M3o5OHQwTVB5bUIxTzg2eUwyQWFfMU1MNVgtc3RFNUQtZS1IWExSWm02b2tjMFRXamRmY3JMbmVWZHRER0lfMktOWUVYZS1EQWRxYjA4cVFNZW1MWDljMWk0VE1wN3BNbGZFeHZuN3MwWU96b0RFUS1YZDNqSF9IcTAwZEdnWg?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-09-22T12:42:24+00:00",
-      "score": 64.3,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bfb78c9130349ff1",
-      "title": "Trump diz na ONU que regime de Cuba \"vai cair\" e delegação se retira - Poder360",
+      "id": "0c15971d1d800a87",
+      "title": "Trump diz na ONU que regime de Cuba \"vai cair\" e delegação se retira - poder360.com.br",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGNEdmxvaW5yd0ZrSnpPQWRybHhQOWF1Zl8xNFZEcnc5SFJtQ2FzS3lkcVVNdkplbTNFc1NEX250RWxxQVJwMU5nVEtUTzhqWDZmQlFnM1lKSEkydW9fbHpQUGhYdllKRmw4Y1hMdTdpd2o5MG1Ddldma25PV2hkWmFxeUFIUEpEbjY5NU13dldMZ0NNLXR2STVpOGphQjdNRlp1QlZmUGhLbWJYNkd2UFhSajdPUQ?oc=5",
-      "source": "Poder360",
+      "source": "poder360.com.br",
       "published_at": "2026-09-22T17:37:40+00:00",
-      "score": 64.25,
+      "score": 58.44,
       "corroborating_sources": [
-        "Poder360"
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -216,14 +411,14 @@
       }
     },
     {
-      "id": "6f0e57afab018541",
-      "title": "Trump in address to world leaders at the UN defends his decision to start the war against Iran - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOODZsbWhlZ1JqWHpFRFBLOHQ4VjNkUHhCSHFZWHhybGY0MC1jYnZvd0diM0J4dDJta2tHVkQ5V2pScm9TUWZnTUJDaUx4MFdJSHJtTGM1ekt1R1E1VlM4X0ZrTjNTMV8tYV9oc1J2cjdUTjRmXzJCdEZ4SG1yT1NsYUpmWmRpUlJxY0puckU4NkZwc2xFd0RpWXhjRnZ4MWdJY0pEbzNHNWQ2WmJzRUNlcl9aUk1lSmIwSjV5aXhYQWIxVXpLSW1WUTUzTzhxdlNqNEdBNXM0Sy1pMzdTRzlESzdORE5CV1pYTVJpUFR4bTdBQQ?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-09-22T12:34:13+00:00",
-      "score": 64.17,
+      "id": "90ae51294ce5b0d0",
+      "title": "Canciller Huanca articula nuevos aliados y cooperación en la ONU - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTFaZWxLRWJYVG81TEtDYlk1MVJJRUJIY0xzVUFnNmhzOUdvZzJwdGhUaVNJQmRydHpjWjNZQ0MtdU1pekRsNTZJZnEwYzZUWFZRTDdwSnhDLUFGcmIwdlgtQ1JkTEJFNFVreTFJbnNSN2lCRldnVG5la1B0a3JLYm1kMnhjUloxYnFZd0k0RG1YeGxIVDZldW81eUdrY0RPMWxlT0ZiTGE0dw?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-22T20:13:30+00:00",
+      "score": 57.91,
       "corroborating_sources": [
-        "Daily Herald"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -231,14 +426,14 @@
       }
     },
     {
-      "id": "50c8ae16ada64282",
-      "title": "Pesquisas ao Senado projetam PL turbinado, avanço tímido da esquerda e encolhimento do centro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFdsU0NHZll3MjlQc0pvTmhzX3gyVE9sWGFPRl9USmtDbzJaOGN4ZnZDWDhOZXpJZlRMbnRfaGZ5cmtLRHZNNGtJYlh0Y3NZel9xWVRpcXBVSmN1RmFmMzA2NTR5Z2VETkllQ2ljelM1dHpRMTlzdG5nUHBRNjJ6LVBIOG1fMTd6MEFQWFhCdTl1cjNqeDFsOXZuc1NJTFZSa083eVlwdmFYSzhPM0JtbHdQVUNWclRoaE5TWVM3Z1RZS09TRzBmONIBzgFBVV95cUxPV2cxNnc5d2xESWN0MGFuamRWcUFvaUNFXzRyQ1JLaXQzWV9OalVFUTZnUWxyYnFxNTRsakloZldWMlU5TUlKQXJIYzdoT0ViSXBXZ3hMR2JaNnVzdFo1RnVuRTM1TThUQlZvT1RNWTdTRGVSeHRvTXphcjgxTGdxeTRoUWM0MlhwdVVHbGRzRUNVeVNxMkg2cC1yaFFKTFB4LVpCVG5CdkwtYW1TUkNXbmNQSTRfLWhzUzg2S1oxZUZIbEg5ZndGOUxBRDB4QQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-22T08:45:06+00:00",
-      "score": 63.78,
+      "id": "ac929b1cbf18c1ae",
+      "title": "Real Time Big Data: Fábio Mitidieri lidera no 1º e 2º turnos em Sergipe - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUpSTVJncUR5Sm43UTRoLV9ZV3hOcDNTVEt2NFpSTnNWSzdJTjd1aC1RRThaR2d5YmVpQ3VQWVZQWWphSTlfUVhJWkZ1N0lERzFBQXRhOE9oczUwWkhrQ2hsWWcxRXA2VmpQcWpoWVlKblVpNkhJSmJoeVBKb18zWTZRLUZEcVlqZE8zaFdxQ1lFNlFlUUxocHZRc1VfQ2ZweUFmSGptcw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-09-22T16:53:00+00:00",
+      "score": 57.77,
       "corroborating_sources": [
-        "Estadão"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -251,204 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUpRaUpyUnNJUi1XYVRnVU05eVd6aXoxakJ3cXZwak1mZkNqNzI2MGJxSXp0ek9OMjkxLXFZRy1lbjlucnludkVfQ0xXZUkweVdzZGQ1LXk3bUl3cFlvSjV3OHgxdDN1cE5VT1BJYTFXY1h4WGpYb1NiUENOc3dBTVdQVVJXdkhRcFBETHVfeTRrNlJXbnlleEFRWHdsUmFra2F0ZU1EcEtkOXF6VEM3T9IBuAFBVV95cUxPNWw5MjJVa3NxeTJuQi0yM2NobmVJZThLa1VHc3RScXNxeURmbEZLZmtON05mNmpfSU43R0hyLURRam54UTlLR2JMTFVDSUgydElvMHFhUVBKT2NWbzcyWjVuU1lVdkRvbnNGbmU3eHo5VG5YZkxBNTI2dGlZZ01FbDUtUjBMZVVrX2I4R3lDSk1EMEk4aGt1b04wUjFwcjN3SFJuekpOd1RXMngwTHU5UWI5Z2RMak5z?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-09-22T19:53:00+00:00",
-      "score": 63.76,
+      "score": 57.57,
       "corroborating_sources": [
         "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2472b80ee6ed8e93",
-      "title": "Fontes: Ida de Delcy Rodríguez aos EUA constrange aliados no continente - cnnbrasil.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU3hmNXhzbFp5NmJwNHI3bEw0d3A0NVJzLWpYV0t1S2ZvMDN1VV84SGF2OEdVM29iQzVOcHU0VWhidExLNkd1d2NJNjhhY1lobDBhQ2pqbU5CSHJER2hzZ0M1aW03TW5ncmVocE9ndzRVZkdjdGRFMnJCazNKZU8wcUJtcXBsNGFCNFI0TlN6aURjenVTdXdJVExGcDM2M2lNLXg0UFROY0RCMkRTby14bHhTOXR6RUM0bVkzQks3Mk0wck9Yb2luaGstd0tRZkJkSEE?oc=5",
-      "source": "cnnbrasil.com.br",
-      "published_at": "2026-09-22T19:30:55+00:00",
-      "score": 63.34,
-      "corroborating_sources": [
-        "cnnbrasil.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c1bf46d2c24c38bf",
-      "title": "Conversas Cruzadas: Trump pode influenciar as eleições do Brasil?; assista ao vivo - GZH",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbjJYVkZ3Yl84dzdNQzM2TnczOGdRU2JMN2hvYjhJR3hvNy1ReWlkMTd5eUp1UjM2WWNINEcxdDJCaksyNmQzRUJjaEZCNXUtS2FIc2dncGVaTkk1R2NkRW9ZTGVFY2R4ZGZZZTJjaU9WTWM2d1E3eFVuZHp6TjFUWHF0UENMOURndjVWaV9FNGpFZFFXeTlRQ0gwVWxCRlNuRW0zaDVncURPR1MybHRFTkI5VmxHMzU5TE4tekl5c3FXcHE1ekdnZ3NWR0lTZjB2ZkdSZ245UENGOTNMV0tWejNKR2QyaUc3M05lSFpxNi1qMVFndlA4?oc=5",
-      "source": "GZH",
-      "published_at": "2026-09-22T19:25:52+00:00",
-      "score": 63.24,
-      "corroborating_sources": [
-        "GZH"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f597c30840d0be20",
-      "title": "Trump amenaza con usar la fuerza militar en Latinoamérica si ve amenazados sus intereses - expreso.ec",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1hjcU4wOEpWS1lLWmtqbjVhVlFkT29qVHlhVHptTm9QNzNuNmxDR2lsNDM0VTdyV2hQMmdCU2xuLVNCMHBHOXBrYjU1QjRIZnR4eHNCb0gxX18yUm4wOGkwRU1sQ1pWUl9FQXRJMF9EOUd4ZnZjcFFVeERCLXVCejdlWmFlM0F2emlNR19fVURiRWl0aGo4cnczU0o0VjVCZGZyZG01YkNsYlhYTE1mNlZ0SlNaZw?oc=5",
-      "source": "expreso.ec",
-      "published_at": "2026-09-22T19:02:15+00:00",
-      "score": 62.8,
-      "corroborating_sources": [
-        "expreso.ec"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "33aaf16d18804d48",
-      "title": "Kicillof participó de una charla sobre el futuro de América latina en The New School - Provincia de Buenos Aires |",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeFRORG81OTYtZDhQY2ZvX0ljT1Ywa21lNnFPb0ZPNEk0R1hLS2t1V21FZHhmaUdwSGM2VUo0b1otUGZtR2JlTW11Uzg3NEJLalFpNm1vT1ppcFkzajZ4dC1XeVV1aUZQQzU3M3hnYU94UlhTTmo1S08yY0NBTnM1NUZ5aGN3LTdZWEJ0T0tseEJVWXExNlE3YjA2Y1AwR0FDODQ0RUdoUlY5UHdqTVplMUJUeUlsTlU2cWhNLWpSb05SakFJWFl6MHZ6Yw?oc=5",
-      "source": "Provincia de Buenos Aires |",
-      "published_at": "2026-09-22T18:45:20+00:00",
-      "score": 62.49,
-      "corroborating_sources": [
-        "Provincia de Buenos Aires |"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3d1720bffa83ed05",
-      "title": "Trump compara cartéis ao Estado Islâmico e fala em eliminá-los - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUk5HR0pjVGs4Nk5ERDdvR0hZYTVhVWU2bXoxY1hYWGUySnVORk1KQ2JyclFITmE4aXZUN05BTmtTSXZYZWFVZVc5U2pnYlB4WFFydVVnNUxTdnB0WDlhRmtxazAyVHpYY19tZEpTZzFjdGg0cGFkNS1Qd3c2SDYyU0RUeWFweVhaMmt5bC1mREVfWFNtazEyNmpYd0pOSFhFZTZNc1BBeTJaMHc5RDZfZHpnSmluQQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-22T18:40:00+00:00",
-      "score": 62.39,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8b87d83b5d9413f6",
-      "title": "La irrelevancia internacional de España - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaU5QeDIyU2Q0YmVxMkl4Nm9zQXRGT1FCWmQyeV9CbWxiVlNqSFIyWEpoOGJhOHFmbkZDWnNlTkZKMG1XSnIwVWJRX0pOVTNIRGV1aDYwUU10OGdVS2NRNkVBYUxDd3JLNXhLakFHNU9wY3VPemdQdUE5Ukk4MjFKMzFCb1NyeTBrX0VhQnFWMnNoelk4Wjd0dnhFeWpkX0N5TnZ3UNIBuAFBVV95cUxOUGVvcExnRE1kV1dQNWdmRkdmQVo0d0dGZ0NFX0dyd252VXpYeVlNanVyem5PdE03aEJBS3QyeldFX0JKM0kyNnpUb09rWEFtbC1nR0R4Rmlsb0tNMnpMX1VULUk5MmE1ZWVUVDhObHFCR1hrS1dpQWR2U3NGc0NJUXhnY005cGpySkJNOGFKLWxBWWhfRm5pUC1HY3ZLUklTSURzVDlGQW9jUUJ2Sl95R0VUSVpLX1RW?oc=5",
-      "source": "La Razón",
-      "published_at": "2026-09-22T18:32:56+00:00",
-      "score": 62.26,
-      "corroborating_sources": [
-        "La Razón"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "77e553c744cecc78",
-      "title": "Sem citar EUA, Lula critica “protecionismo disfarçado de causa ambiental” - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmF6S1l3WVhCSzFSbWo3SDU0ZmNXVEc3dmlLMnc5RE5ta28tRjhiOUFkd1NXRXIyN3NEM3JkcXp1WHZhdVE0NHEtczhhUmRNZEdwaGFCS0w3elQ2YkJob0gwby1vaTN0bkJFcXBvMVl1dWlTODNqLXlCVU01TDlnT1VkeWVoTF8tYjRtUDl5aVotZmNDOVUyRWZxdjRSRWo5U21ra0JORkQyZEFCcV9nZ3pOQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-22T15:33:54+00:00",
-      "score": 62.09,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ebb01f41b2ce05fa",
-      "title": "Once líderes en un día: Trump aprovecha la cita de la ONU para avanzar en su política exterior - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVpiM0N1RWxkUGQ1RWpxOVdFQ2E5N1RnSHdNUHZTVjZDNFlPZ010ZTBIa0lfZlpITmhIbnhmSlZZSEFwdDNxdXhUUFdyb0g2bFdTM3MtZkRrOHB1NlB3QUktQ2pxS1prcG5TQkJ1MXoyanNzb3NqSUdYX2wxSmVISTFjQ3J3cmI5d0p5a0ltaVJkckl1cmwxa08tQjlFTFMyRzhkY2x4dXRZa3oxSF83LXc2MDZUQnFYbGY5a3QxNlF0QS1MWjhLdjhtSmVhUdIB0wFBVV95cUxPM3NYM3dNNmhNalU3Um5mQ3V0ZVRQNHVlTWpUWHNDcWp5QVJrWWZrUzc1OUZSYmtBd1VrYTJMVlhXRlhNZUNBUjJFNHpjMGd0cTk5UmlLZUVjdW80Snc4MkZNSU1yWVBzZXBTZEgyZHI5dmxyTDlKOGJxZXdzU0pZZ3FfdkNFbENGUzgyM3RfMU1uLTJXcDNjeTZvTFltTzNyU2FtLVRZRFpUeXhEZGlkSG4tQWYySVd5WFA5Tm1PRXBURVU2VjlvUnJDRy1JSUEyaG4w?oc=5",
-      "source": "La Vanguardia",
-      "published_at": "2026-09-22T09:51:16+00:00",
-      "score": 61.72,
-      "corroborating_sources": [
-        "La Vanguardia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bd340f787258d688",
-      "title": "Em Nova York, Delcy Rodríguez se reúne com António Guterres e marca fim do isolamento diplomático - brasildefato.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVBDTThhcUEwSGdjd0M5NlliTGw5ZG85cDlJaV9DdllUSnRRaEhXREpHZmdGSFNaNVpoZGlSOFhKd1FWUm41YjBEeVEzRjRlMnQ3bWc3UXRzVHh3amRBWkRaQ1NNM0FVbW04ZjctWHlneldpeVlBcVl6SG5adklTODB2NE95QzQ5a3FXeFdvbGU2Zm1pVjJxNFRnemFfVXR1NDVvbHhNR2RJTzl1WkhkcEEwUzlCTVM1ZzFueTVzUDRSQklFRUVNbHRjODFqMVFpYTNaNEdYVQ?oc=5",
-      "source": "brasildefato.com.br",
-      "published_at": "2026-09-22T17:20:00+00:00",
-      "score": 60.94,
-      "corroborating_sources": [
-        "brasildefato.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2b63ab5db49f35eb",
-      "title": "Assembleia Geral da ONU: «Guterres não nos traz nada de novo» - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjUtQmNXNjNfTVZyeENxVlA1SWxkX09CcHpvcmV5WmNRTHlpVkVvTW1fSDNlbTJaaHpHRlRldkt1NllKWGM4dld6c3NscVFYVG1NTzlreHk4SjZhVUJra2FObHd4YkowNTYyX2RDX2lLNlhsa3hNX0ZxdXNUQ3BPaFAwamRNcDRGeFdXZ2k1c1VhYUNsT0pOSmg2R2xabGM?oc=5",
-      "source": "Now Canal",
-      "published_at": "2026-09-22T17:06:00+00:00",
-      "score": 60.69,
-      "corroborating_sources": [
-        "Now Canal"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8743d70f8b741b22",
-      "title": "Defesa da soberania é destaque em planos de política externa - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVZqMXJmUmdHOHV2WDJKNm5aY1VwYW51eDdGazBnS2lyZERWTUZQN1BRU09NQUtGQmhfRFpESWl4YlVxNThZVktBalI2Nm1sVkI3c3BGR254Tko1Sk14UEY4Mi1DNzVJcTJPS2FmcU0xOFpKRm0wMlI5LUozc244MzZkRWluOFQ2YXpzRzB2Q2x4cTVpbFdwaENYWHl6Y1YxUHJHQ2xKcng1LTlmZndoS0xIcEtJSU0zM3BzUkFJdmRxTGJHYnd4ZnJsX2zSAdsBQVVfeXFMTXYzdGxjc1l2bjZSMXNoZllTS2Z3SVRHRU9nRDdBcXE2Tjl3TnFZd3hqLTQzcmhfbzYzSGdYTV9teUEwdVNnWmtpX2RIZ01kR0FVYmdPV3p5LV9qSVJUbTFSamxJcXBqcmE3X3pDeExOWm44aGFleUZhWV9BYzVZSGFHZDM0THdnTEZ0NHRvX1hqZUNxSy05clJsY3ZTQURxa2ZiSVpJWDJfMGRhMFZPUXJMWFF6aVZtN3I0X25ZeVpCdklzdGtnMXpHZWFKcXpLbi1abFByNVpFeGRn?oc=5",
-      "source": "Valor Econômico",
-      "published_at": "2026-09-22T08:00:00+00:00",
-      "score": 60.15,
-      "corroborating_sources": [
-        "Valor Econômico"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "35d8b6b85ea32c36",
-      "title": "Peters advierte de los riesgos económicos de errores en política exterior - Investing.com España",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbklQR0dmdGprSFU3aTlSZ3BZWWl1NXIyZTJfVGh5YUh1a0wxaFAzUHhoeFB0WklFSGRHdy1RX2MwUFdCWWRfLVhGYlAzbm9iMDdTVVAwVW5YdXV5SzZVb2hrNXJ2VzAtM1V5bVNONHJnSnlDeWNWa2U3NlZJSmNUMW4zRk5fd3cyMG9kZlBQOXJyRkg5bUV1RUhMaVdCakxiWWZNOTRlVmxLeFpBVndrVlVRZGZqamdFRmxoemxSVnpTRGt3alpoX1U0Y1lOVUE?oc=5",
-      "source": "Investing.com España",
-      "published_at": "2026-09-22T07:50:00+00:00",
-      "score": 60.02,
-      "corroborating_sources": [
-        "Investing.com España"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "58a453ac5baf1282",
-      "title": "Trump endurece su postura sobre Irán y reivindica su gestión internacional - Diario Época Corrientes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX05tdVVBUVB6Wi10aHEzSDRjVmotQnMtd1RyNTU3RmFoN2ljak8xaXk2c0Q1S1dLVURjU1h1U1BYWmZBQ2pYNWt5c2tHWm54SjFCcGRlLXl1WW52N3FDaWt3VWFoS3JwYjQtd1BOOFRySGwyekcyVDhPbTNYaE9QamVNMDJUX2FueVpNNDRnLVlqZkJIVG5nVlRsci1XdlRhZndtRnNaM3FZaGgtY19R?oc=5",
-      "source": "Diario Época Corrientes",
-      "published_at": "2026-09-22T16:21:32+00:00",
-      "score": 59.91,
-      "corroborating_sources": [
-        "Diario Época Corrientes"
       ],
       "signals": {
         "source_count": 1,
