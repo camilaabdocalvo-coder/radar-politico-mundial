@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-09-24T20:00:06.451900+00:00",
-  "next_update_expected_at": "2026-09-25T00:00:06.451900+00:00",
+  "generated_at": "2026-09-24T23:14:18.723304+00:00",
+  "next_update_expected_at": "2026-09-25T03:14:18.723304+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "64034866defc6853",
-      "title": "Pesquisa Real Time Big Data mostra como está a eleição para presidente; veja os números - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1dscHUzTXBLZzhIMzIzcXRwMEl1MTB3VEF3MU5YVEliTFVKVVBybjRfbWtCSVlFd18tZXBiZ1VCM095SkpUNFdabDF3NVNENlppbVVUamoza0M1bVQ1cGRTemdfSm15OVdjVlB5Q2FBU0xLN3pyN2Vyb2F6RWlvLVdCa2YzNjZOTlZualRKOEM4QnhiZUFsMVlYaE9KQUUxbVluLXNyQW9KSDZkcGdFeTRUWkRUcGs?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-09-24T10:00:00+00:00",
-      "score": 75.56,
+      "id": "5a9a5c67663138b2",
+      "title": "FORO ORGANIZADO POR LA UNIVERSIDAD DEL ALBA REUNIRÁ A FIGURAS DE LA POLÍTICA INTERNACIONAL EN TORNO A LA DEMOCRACIA - Radio Guayacan",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU01QjFiVkt3S1pGR1dEZ050elZ6ZThXcU9qZVp6VjZzZ1pjOXdFbzhhalQtWlhqeEZsVTJFeERGalR4Njl3SFhhLXBES29lcW5ZM1k0bXQzSkpyZWg2djZtNjVjWmRtLXRkdjB4ekpyTjVpbVY2UW1uT012b0RmaEVlUG1oVWVqUWxscGVlVUY4RS1rQWkzOGtoR0VRYVAtTjFvZGZhdEl0THJWOE42QlI2QzhsZXZGWUdwVzFwOTZJMFBwMW9UUnZNeGJSMHF2QVcyWDNTMV8?oc=5",
+      "source": "Radio Guayacan",
+      "published_at": "2026-09-24T22:10:58+00:00",
+      "score": 82.18,
       "corroborating_sources": [
-        "Gazeta do Povo"
+        "Radio Guayacan"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "828c34a731b5dd6c",
+      "title": "Michael Limongello (’25): Advanced Technology and Diplomacy - The Institute of World Politics",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmVVVlVsTE54NDlydkZLZWVxTmtDVWM0c3F0bURjYWNqcWdIZktfNVBZMnN5bGVsUVVSaGJEdUFjZ3NVaGI0MUdBa2NEbTBqeldfNktLTlg0NmJOYTU5MVVtUnZaOTlMM1VmNWllR1Nha0ZENFI5d3FmUXUzbU9FbzZIWUdWUjlqZUkwaWc4Vm1zaW5WSEo1VVJ6NGduSUF4ZUIwNGpUaHNBN1ZDdVRN?oc=5",
+      "source": "The Institute of World Politics",
+      "published_at": "2026-09-24T15:41:56+00:00",
+      "score": 74.97,
+      "corroborating_sources": [
+        "The Institute of World Politics"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "df6bde83ceb6f2a6",
+      "title": "Pesquisa Real Time Big Data mostra como está a eleição para presidente; veja os números - gazetadopovo.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1dscHUzTXBLZzhIMzIzcXRwMEl1MTB3VEF3MU5YVEliTFVKVVBybjRfbWtCSVlFd18tZXBiZ1VCM095SkpUNFdabDF3NVNENlppbVVUamoza0M1bVQ1cGRTemdfSm15OVdjVlB5Q2FBU0xLN3pyN2Vyb2F6RWlvLVdCa2YzNjZOTlZualRKOEM4QnhiZUFsMVlYaE9KQUUxbVluLXNyQW9KSDZkcGdFeTRUWkRUcGs?oc=5",
+      "source": "gazetadopovo.com.br",
+      "published_at": "2026-09-24T10:00:00+00:00",
+      "score": 72.63,
+      "corroborating_sources": [
+        "gazetadopovo.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGw0MnFLc0xmUnFrUHJkdkpMeHRPUkJVZzdYV0psX2hRSWhaUEhKa2lybDlvWk5ReXcyWWxucjk0clAtcVl6NnVBdFZkQjh1TmlkREtCLTEzYWhYWlNFMVRWNHBfd1AyU0V6dGhqTTV3aExnQkV4WmxLMk1DeUc4N0pSbG5PZDgtd19fVzAwYzFSOW9qaWRYWVlyMkZ0SW5oSWRpTTJtTXFneG5ycVdCVzdUazRYZXhQQW5SYm5pUQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-24T16:04:00+00:00",
-      "score": 73.82,
+      "score": 70.35,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -36,14 +66,14 @@
       }
     },
     {
-      "id": "0f2935cf1c12ab35",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack - bbc.co.uk",
+      "id": "c8019f76cd382dfa",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack - BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10QXJJNTdZQUhpQnNKbDF1d3Y2NjZ5eWdaYkhBTkhrSmg2VTJlOWlJZGt1RHVVVmdkN29WTXE2dlZXUUpoZWtodmJ1OHdBeG9kQkVYdEhxaWVnOWoxckE?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published_at": "2026-09-24T18:06:40+00:00",
-      "score": 73.17,
+      "score": 69.5,
       "corroborating_sources": [
-        "bbc.co.uk"
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +86,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd2FHMXVnTWlrcTE1dFNSOWpOQURid2wxTEEtRzJBOWpLNk51ZUxxT3h0Mk1ERHRXQmpldkdfT3VxWUl5MG1JOW5WaUhWTXBBM3FpQ3psZm1HZUN3MmxEbXRUbTBGbVh5OHRsNHMtTXVwaVJRN0JfWGhfQUthQXZTVmRVdlZrMnFrVXV1djlIZjZ5NG1HUHc4dmI1WlZibHoycGYya2Z0RmFOYkJiVFVybjI4SjhnR29peUQ3bTdSZ0NLTWc2VjZxNUtzQWZMU0l2NU9tM1o5UGtJUzVjR1HSAeMBQVVfeXFMUEVKODQzWjU3VVBXelFZZzVCSmFjbEN6ajFFNTdhQlcxdU9URXdoUUNrQ0ZXVl94QmN2RFBxcWEyMmlyd2VTZnhVR3dESHlLOG1BSkpYMXQzMWNyVGN1dm9kMmlZT1hSOW05V0ZRWGxfdS1oRU55NWVNaXlvcE5lUnpQc19sZThvWGNVclFWQ1R3cnZSOXNWM3habEF6QnF6Rk03N1ljYjhyUmRZcHliWjVlbGx5alhRcGNoVHZZbDNRZzdfOVZqOW5jdkJzOC1UQTJ3NlE5SDBET1l1Ni15MjdCQmc?oc=5",
       "source": "MUNDIARIO",
       "published_at": "2026-09-24T16:40:50+00:00",
-      "score": 71.51,
+      "score": 67.98,
       "corroborating_sources": [
         "MUNDIARIO"
       ],
@@ -66,14 +96,30 @@
       }
     },
     {
-      "id": "8213ff73c351789d",
-      "title": "El presidente de la Autoridad Palestina acusa a Israel de limpieza étnica y denuncia inacción de la Comunidad Internacional - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUTNlOHF4Mk05dUtxOHU4N001VGtTQjlJZ2liNl91Mi1EX0lTSHQ5cTJ5ci1YbUFVdWtwOGRHYTlBUTRRU2tZNW5vUEswNDktanZSaEVYZkFCcll4UVVJQ19BMkxiWGZkR1hZOXVsblBDenlhNWVmOTNfSHV0eXhvaUtsV0tXekdncVFxQk5ubVpWMnQ1aDU1aVE5N3JIRldOQ1RmWUhoMFZpYVZqMzBaUzF6TnZINnl6RnR1eGJGZURxLUZxVkV6UUFVWXowU2E0WnMwWnhoajJpOXNudkkxeVhTYWNFdnl2TzdIWGZmM0vSAfYBQVVfeXFMTVFVLWE1djZ5VzRCR0tNelM4WF83d3MwWElZV1M3Qmw5bEk4Y1p2YjhqRS1HWUhiUlF5dERGQ3p4Tkw2UVdxUUFUTHgwQ2RDdnVQT3B3SE15S0lxSGsyR0xzWVBJUGFYUWhlYlRhbWVzU3lVaTc0TkRiVU45RVlZakh6Mk1fVUl1dGdXekhKU05KczFIUW5WLW5vTHBNYTZUamZhQndVbjd5LW5nRmlfRmZwVUxfR0hHQnd2SzltcDFfMVIzQXEwLWlweU9iTU5rUHVteTRfWFNoZ1dvYU05NkhudDlyeDR4TlhaaEJpbkxfSXo5MXpn?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-09-24T16:23:28+00:00",
-      "score": 71.18,
+      "id": "08951a074559093b",
+      "title": "La UCLM da la bienvenida a 357 estudiantes internacionales de 33 países - El Digital de Albacete",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnVWSGg2SHNQUkVKbU9aUElTdWpuVThyVkhEMDRnZHY0VGs4SmhidUFVZXppdXZvWmw1cjNSWENzMkFxTUtfNS0ybjR5ejh6ZXlEWDRoYWlxd2pNYkNRMnBjZnU0dGViNnVicVZZamtyT0xnT0kyR0o2b3kzQWlZbVZyNjRnbXI5STlVanJSMFVfa2pkVWxHaTJWQUJVZy1CTHlXYnJDNjRVTWZtdWJ0TXloY3VINmVIRHM0?oc=5",
+      "source": "El Digital de Albacete",
+      "published_at": "2026-09-24T16:52:09+00:00",
+      "score": 67.48,
       "corroborating_sources": [
-        "Elplural.com"
+        "El Digital de Albacete",
+        "aulamagna.com.es"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8b20389300fe47c2",
+      "title": "EE.UU. busca invertir en minería e hidrocarburos en Bolivia - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEVjZmlEQU5VWVJrX0RGa1VsN01SRU8tUERWZC05WUZmSDVEc0NMbEtYUWh5Ni0zNEU4dDYzVWtJdFBiLUlnWUJQajN1Rm5TMzhmX0JCWFJ1dHdOaDB3MlNlek1qTGxjV2tobE9JRjNPTEhDN1o1MnIxNkt0OVJRV2Y3dG4zSDNHTmM1MWNjdVZ1Q1h3Zlc5REhxZTZHR2RsNVE?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-24T22:50:34+00:00",
+      "score": 66.98,
+      "corroborating_sources": [
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +132,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV90RFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5",
       "source": "BBC",
       "published_at": "2026-09-24T15:42:07+00:00",
-      "score": 70.41,
+      "score": 66.98,
       "corroborating_sources": [
         "BBC"
       ],
@@ -101,9 +147,39 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQXh2SWhUU29WRDhud1g2aGd0RmUtckRnTFBXOS02V3p6dkVabzNaMlBaNFpiYWpVOS1PN1hSWndXOHh1UWdDb1ZLTC0tNC1kS0prQXhNVUhTTzVtT1k3c3NMQXdlbnRhNHR4NGhha3VnY2NQTlRhb0FKeU9NazlMN2dhU1U3bllRZzUxVTR2Q0x6ZURfTko2X2Vyb2wzeWFNZUZVOVVwRUZxQklnMFVOdDk5ODVHYU5HN2sxTTBxZmpqbXd1OFdFN2VZcEtBOGl6ODVDX09hX2N4OVZQNWhSZTJ2b2NLdkhfaVJSRXlUYw?oc=5",
       "source": "facebook.com",
       "published_at": "2026-09-24T15:22:12+00:00",
-      "score": 70.04,
+      "score": 66.64,
       "corroborating_sources": [
         "facebook.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bca6a8776faa871c",
+      "title": "Colombia rompe relaciones diplomáticas con Irán, por vínculos con grupos terroristas - La FM",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTd2ZWlEcVBudjBzd2Jrb1NSTm51cGlVbXA3Y3NGOUNGem12R1lDVnBXeWNWQ2ZLajlDU1JhbWxFUGxKaFdldExDWk5wVzM2YW9WSHhwTXRhY3JrQTVDTzhLNFA0WG9YY0dRRDF4ZG1MQXo2c1NIbUl5RHQ4VWl4REpubUlEUjEzT014UUpJYzI2VV9pWkFVODlYMEFDYXRGbXFyczcydG5kd0wxYkVqc21B0gGyAUFVX3lxTE93TnpkZHhPaFdqOWs3MThuck9DUnprcHBhVXVJZkZyYUJuWS1vdi1qRUdDTUZIU1J1LXlEdmcxRmFNYmxQclpzYlZTNTkzeHBPZGM1NEZvRjRsT09JNi1XZklmQzJDSmNyTmtTcmVDR2JPZWM1XzMwUnI0WWVmRFZTR0Q5UndFbmhKZVFWbXJCNEZzSXJIdFQ3dEdOR1pNR3VfNURWakxrWHUtRXU4RWNiY2c?oc=5",
+      "source": "La FM",
+      "published_at": "2026-09-24T22:30:00+00:00",
+      "score": 66.56,
+      "corroborating_sources": [
+        "La FM"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bdeba0ee1430dff9",
+      "title": "There’s a global plan to save humans from AI. Can it actually work? - vox.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wNXVTWUFtVmJBWGRFeWFjaWd4eURuZUNXVHlBRF9TZ0V2bmJ1ZFo3UVV3YTRGUUpVQ0VHZU5mZHdNMk1uNXp4WGJwZkhPSmQxeUdpa2tMSGJzOHBPd0ZSRGNVN0J2eV9iTEE?oc=5",
+      "source": "vox.com",
+      "published_at": "2026-09-24T22:15:00+00:00",
+      "score": 66.26,
+      "corroborating_sources": [
+        "vox.com"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +192,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGh2bW15VWZNT2gxTXJPMnRBUWFweEpVa3BOdl9WREpidHBVd2RLS1ZZMTJxV21YdUpNN3daU0VLV1puVm9wR1BSYjhHeC13dWVPaGE1T0lxa1V0LVZwVFdtUHdFcWstdDNDX3pMMHhZUUdHNmJGWkYyX0o2dW1weHV5Yk5YLWlCQ1hjMjRvNm1wT3RtWlBMd1VDWWFFcTlkUHNCcklZakM5TDJZNUhONmtuMnFJZWV5TXJF?oc=5",
       "source": "nacion.com",
       "published_at": "2026-09-24T13:30:00+00:00",
-      "score": 68.04,
+      "score": 64.81,
       "corroborating_sources": [
         "nacion.com"
       ],
@@ -126,59 +202,14 @@
       }
     },
     {
-      "id": "6ea9375e818be20c",
-      "title": "Politics - The Economist",
+      "id": "154ec2b20d9f5d44",
+      "title": "Politics | Sep 26th 2026 Edition - The Economist",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OQndJT2Z3ZWRXd2QxZEh3TTE2WWsyMDM5eVVaQWVvczFBY3RqbG0zYnZBc3hoaTRDMlNYMkJQRTFYRDBSOC03OHRpZTM4aVhWX3F4b2VmaFA0QXcybmhrRXhOVWRrVTZmTUlSY1h3QWFodlE?oc=5",
       "source": "The Economist",
       "published_at": "2026-09-24T13:22:28+00:00",
-      "score": 67.91,
+      "score": 64.69,
       "corroborating_sources": [
         "The Economist"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0d6a32bce1ddecf2",
-      "title": "A reclusive GOP billionaire pulls back his money from Senate Republicans - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNThKOWlyY1hWN09ybnlzVDVrYXRDZGFrOHdaM1RDUFN5WE16MDI1aTNLNTgtR0tiT2pJS29jbENRcUptU0FDdnpVY0VCdnRKYTNQV2RKUFdFVm5mWEZPMFZnRnRZN2h5bEtSNGM2QXczUnFuZVpCTnAtOUN0VURLeDVVMmZSNjEyenQ4Qm9YaUJIV3ZhQ3ZRZS1LUnNpcF9kVkNCM0ZHd3c3Wk1peWc1X1Ezbk53WmwxaXYyZ0c2SmdCdGZTZTg3aEUxSQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-24T13:02:01+00:00",
-      "score": 67.56,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2eed62d8e908d156",
-      "title": "Lula sobre Trump: “Se ele meter a mão, vai perder as eleições” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamVLSEY3NnVPV3hCeENtbWhFSlVvTEtnYnV5Y3RZNHJsUllKeFNzNWR4akc3bF9Kdl9WaTJvMlJzRFludWhsd1lybUFrT1hLZHJXV1VaR01Tb3FjRXMxMTRWNXlqRmVUMjl6eHd2Vl92TERTZl93M0NfOUliVWhSa2ZVQ1VZWkVQenl1c1M3UndXTzRNZmh0amJVTHRJUjFXa2dpcEpmbW80OHPSAbMBQVVfeXFMUF9xdWxPR2hid0wyU2prMU1IZ21lWTV6VmhSWXo4QWU0eFpqTnc3SHYyTWFaRkpuRTE3bktDWnJYN3hiMnp1ai02Tkl5OEhzM1FxUl9rNFppWThXX2pUNFdEVVBwbTF2X1p0OUkxZTVNcjU5aXNmZnpKWENVaWhiYVhDRWNRQ1FmQlFGTE04RXF3dmxuRUh1VlRxTFQtQnZTdmJ3blNscDByWXJWU0Q1MHhHNVE?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-24T19:50:00+00:00",
-      "score": 67.27,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "12cc0eb412641a3f",
-      "title": "Gobierno ADLE cuestionó a la ONU: “¿Está cumpliendo los propósitos con la eficacia que requiere el mundo actual?” - La FM",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnFzSUFJaU5jcDY4cDJKQ3FjU1Nrb3REa3phdm52VzlrWFU3cXFLOHgwbGQwb0tnNExKYlBjMks5TExwaEp1N1NVX0xpUkplbmdRM3hJVWRaMU9Bb05oeUtyekJld2tiSWE4V1g0NkxXV3ExZnlVYi1rZGdRWFpkLXczZjFGZkZZTWo1bEF6NFNjVFgxWUduUGVfMkdEalhVc2N5RF9neDlFTEpPWmdsRWsxbXBUcDhEb0d0NTg4N2zSAcABQVVfeXFMTV95dHVxWUNXX3M5a0JTdWgyWTFseGt3cThGUXp1S2xUZzRucnAwb2NSek50aFp2dTFnS2Ixay1BZW5CeEFVQnJQRXF4SFgzelFWVU9meDFfcW9IbzlxQTItT3NuQWNtZm1ycS1FemF1T2x0dWpvRG1TRVJJUEZGNkxjUnhaWGFqMHJueDNkYVNFUUptV0Vha1M0TWlZaEp3SXlSSVRpVGV3dFF6UXhGUUpTWmJLejFzdVoyN2hwc2Ro?oc=5",
-      "source": "La FM",
-      "published_at": "2026-09-24T19:32:29+00:00",
-      "score": 66.9,
-      "corroborating_sources": [
-        "La FM"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +222,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOURsTVFobW1pTW1EQmZVaWpXSzdNbExtQjNYV1ZfSE4zQllBQl9CSVN3aEhISDhsNTIxc0J2dlhNaElvMmlTRkJkRTlEQVVOODI0M2t5dXV2Z1MxY3RFNVVQWnJ2STF6VjkxYXFrZWljbEtLY0RzXzZoTWJVbWluOHMyVFAzanQ0RUhwOW0tcktRTjhlQjVqZW5nMnZtWFpYeWJkaUZrOWQtVzVzU2c?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-24T09:17:10+00:00",
-      "score": 66.89,
+      "score": 64.02,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -201,15 +232,15 @@
       }
     },
     {
-      "id": "9fb485cb29cb0769",
-      "title": "Real Time Big Data: Lula tem 41% e Flávio Bolsonaro marca 37% no 1º turno - metropoles.com",
+      "id": "7cd85995f4b43b1b",
+      "title": "Real Time Big Data: Lula tem 41% e Flávio Bolsonaro marca 37% no 1º turno - Metrópoles",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVh1OXFUYkxLQVBnRXFhR2p4MndGX3hMd0V3em1seXZySHFRdzhpdDJad25FQWhhRW5HVHRrMG5zY3FSR19aVW5NbjB3TlNkNzVsdHFjYWE1ZFA5UldSX0lFR0R3eG1PSXNxTlRKdnFac2o4NFhKeURjT1lFSkxnbDJZa2FYSzkzanU4RGlnUlRuRHVFNUVDS2xPVUQ0R21sa3VWNHduZw?oc=5",
-      "source": "metropoles.com",
+      "source": "Metrópoles",
       "published_at": "2026-09-24T10:00:00+00:00",
-      "score": 66.86,
+      "score": 63.93,
       "corroborating_sources": [
         "CartaCapital",
-        "metropoles.com"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 2,
@@ -217,14 +248,14 @@
       }
     },
     {
-      "id": "50c8ae16ada64282",
-      "title": "Pesquisas ao Senado projetam PL turbinado, avanço tímido da esquerda e encolhimento do centro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFdsU0NHZll3MjlQc0pvTmhzX3gyVE9sWGFPRl9USmtDbzJaOGN4ZnZDWDhOZXpJZlRMbnRfaGZ5cmtLRHZNNGtJYlh0Y3NZel9xWVRpcXBVSmN1RmFmMzA2NTR5Z2VETkllQ2ljelM1dHpRMTlzdG5nUHBRNjJ6LVBIOG1fMTd6MEFQWFhCdTl1cjNqeDFsOXZuc1NJTFZSa083eVlwdmFYSzhPM0JtbHdQVUNWclRoaE5TWVM3Z1RZS09TRzBmONIBzgFBVV95cUxPV2cxNnc5d2xESWN0MGFuamRWcUFvaUNFXzRyQ1JLaXQzWV9OalVFUTZnUWxyYnFxNTRsakloZldWMlU5TUlKQXJIYzdoT0ViSXBXZ3hMR2JaNnVzdFo1RnVuRTM1TThUQlZvT1RNWTdTRGVSeHRvTXphcjgxTGdxeTRoUWM0MlhwdVVHbGRzRUNVeVNxMkg2cC1yaFFKTFB4LVpCVG5CdkwtYW1TUkNXbmNQSTRfLWhzUzg2S1oxZUZIbEg5ZndGOUxBRDB4QQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-24T08:34:04+00:00",
-      "score": 66.23,
+      "id": "2eed62d8e908d156",
+      "title": "Lula sobre Trump: “Se ele meter a mão, vai perder as eleições” - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamVLSEY3NnVPV3hCeENtbWhFSlVvTEtnYnV5Y3RZNHJsUllKeFNzNWR4akc3bF9Kdl9WaTJvMlJzRFludWhsd1lybUFrT1hLZHJXV1VaR01Tb3FjRXMxMTRWNXlqRmVUMjl6eHd2Vl92TERTZl93M0NfOUliVWhSa2ZVQ1VZWkVQenl1c1M3UndXTzRNZmh0amJVTHRJUjFXa2dpcEpmbW80OHPSAbMBQVVfeXFMUF9xdWxPR2hid0wyU2prMU1IZ21lWTV6VmhSWXo4QWU0eFpqTnc3SHYyTWFaRkpuRTE3bktDWnJYN3hiMnp1ai02Tkl5OEhzM1FxUl9rNFppWThXX2pUNFdEVVBwbTF2X1p0OUkxZTVNcjU5aXNmZnpKWENVaWhiYVhDRWNRQ1FmQlFGTE04RXF3dmxuRUh1VlRxTFQtQnZTdmJ3blNscDByWXJWU0Q1MHhHNVE?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-24T19:50:00+00:00",
+      "score": 63.42,
       "corroborating_sources": [
-        "Estadão"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -237,9 +268,24 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2dXMVlUZkhXRFBaVWZuUVcteVN3MnJ5SHR3WXhiaVh3WVRSOUQ0UjJid1c5My1hVVppRmFwRTZrb18yMGgtU1N2NUdoaUdINjlpWEdEcFg2RTVLN3RTZ0JzNlFQeHJqUHMzYkQxM3I1U1F4aEdyRVNWbFUwR0x2ZVd1ZnF0dmhzcnJCSzkxQlFoTnJiaDJRczRRbTZRem1oeW9V?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-09-24T18:56:07+00:00",
-      "score": 66.16,
+      "score": 62.41,
       "corroborating_sources": [
         "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "457446a179c3d115",
+      "title": "Benjamin Netanyahu niega las acusaciones de genocidio ante la Asamblea General de Naciones Unidas - Reporte Indigo",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNkNiMlJZTU9CbDh1YjlYNWhKWFRtZ2VKdlZVT19nU3RORVB0Sl9FbENacVRZTzB5VVR3WGRQdlo3ZHZSTlk1bE1LcFlPNG1hS0xJd1I4MERrbXB5eE42amtiQnJrTEtEYlFkTlFOU1dCbFVJVzlJSFVpQTNDQ1JNeTRRSjI0ekp6TFZuNWEyNmpUQnlYalhLYzRaVWQxVlZmQm5hOVdmWVJZeVRxVW9IUWZPQWRFMWYxQmN3dzVFNThnc2h3MWhkRHhnNnBKQUpzaThjMElXX0lnMGFwUXM2TnZxMS1RWFc0NU1nLTE0alhsZ9IB9wFBVV95cUxNcWtnX0lJLVo4bkc0WldpM1k5djFKeEFrYW5pR19Dd1NiY3lmNUxldkZoZkNZTVJSS2FYbnBOcmpmOFU0UWoyOXVBeEVUZ0dBYU5XOHlDdmY4RGQ0eWFWaVpJRnVON3IwV1E4WHNMMmpucDNpOW1qQWpqd3diUkY1akNEcmd5SFRPQkpjWW5VYS1uSDgxYUhMR2dGR2ZVdVktaE9kR3FKYi02YkxJMGFPQWQxZHVaaEx1MjlNRWh6M0htNTAxQWdpLUwzQWNrWDY0ME84TUVzNUlGRjhnc2EzMnRjUUlkZU8wdUZIWGppVFlzYXg4TDh3?oc=5",
+      "source": "Reporte Indigo",
+      "published_at": "2026-09-24T18:37:00+00:00",
+      "score": 62.05,
+      "corroborating_sources": [
+        "Reporte Indigo"
       ],
       "signals": {
         "source_count": 1,
@@ -252,7 +298,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVldKTEoweDAzQmxhaWx2MTB6MXBIV20xeDVKSkMwMWE2bERYZHBOazhlS2NSa1FLeFZ5Y01OM20tZEhNNEUtSTd1SUlubVRmNlFnaHdXT2tENzlfeFV6eGxxYmF4T1J6eWRfVG5nTElKRzlZRDYtaGxhYWRWN09KTXF0TEtLTm9SN19aWFpnaWJZZnBrSjRReFprUTJoQmE2aTJNams0aHR6Y1hUdlkzaDF4Y0NkZWhkU2lvRUVCY21CeGR5WTBWdXVhVmtqVmV6MktKWDF3cGlQRklJTVplatIB5gFBVV95cUxObWxjcFprRjRqZFdFUTFacl80d0dRWUl6V0llSmNvdUpFOXdGemR5Y2lNS3NPMmM5a3l0bUdjZGlDR1IzN2tRS3hlQ1VLT0Zqdks2eVBRNGJ4MEU0d1pDclRxVkl2d2RnNFVLaUQ2WjJ6YS10dzJzTnh3M1NUb2x4M19keVBNSFJ2S2lUU1hwMlU3N0FBSDJjcS1lUks2bEZXWGo1azhkX3dJV3ZpNzlqVDcxcVA1UkJRM3p5RzAxYWpLOVZyNEE3cWh3bnFXOUE2R3ZRSk1ncGVBM3JPbmVMVXNDaEFGdw?oc=5",
       "source": "Elplural.com",
       "published_at": "2026-09-24T18:16:00+00:00",
-      "score": 65.36,
+      "score": 61.67,
       "corroborating_sources": [
         "Elplural.com"
       ],
@@ -267,9 +313,24 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkRZX0FKU094QzdSaE5JLWpEal8tYUp0MEE4QnBFSFc0a1g4WTdIV3JqU0RwakJQc1hwNFVTTkhEdlpHVUNpVTZjYmZXczFNYTdmTWZUOTN4b010cUxTaXRid0NROWpaWWZKV2xmNFRRQjN3dFpiZEs3SGpPdDNrekNtVmdZUm40dHFzZ0lKcE8ydmlKNnkxSlI4TTM?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-09-24T18:07:20+00:00",
-      "score": 65.19,
+      "score": 61.51,
       "corroborating_sources": [
         "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8571dbebc64aaf3d",
+      "title": "Transición en Venezuela, lucha contra el terrorismo, ajustes a la ONU e inversión en Colombia: claves del discurso que leyó Restrepo en Nueva York - El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbm5FbGpyYVdxQ0RiQWdoZWk0bHFOelMzdnFGQmhBZ3N0Sl9mb2VKcE1FZ2VKdVdZc3BkQ0pVakpjeTJmem1FNV9iMGNlUkZUUlA2OXVPQ3JGM3lVNklwOXVaNC15VXdmOFd2MjZlOHR1aVo5bXNPUTZRNXNRWEdQTTd1ZjNYVjZ2b21hU0UwWDBkdFk4TndSRTh5Ul9YeEs2VGhuS0lFYzJmUHMxWGgwT0ZPSmlfNnRQeTI0RzJ6M3p6OXZ6a3Q2cU4zNTBlX1BXN3JFTFZXd2NlZEcwaVZkVnVlVzRGX3hH0gHuAUFVX3lxTFBJRTF1RnhaMk5CY0tob2tPLUdTMi0yYzZqMDVtTzRUUDdZLThPWG8yQTFPR3VvcnhFZzZzMkZYVlJla3FXZExvN1dvSVMxY3hPZ2JaOUxSdXdBTFZFQTY0RW1zZkNzYXVmb0tMa3F2dGx4VGp1d1kyLXRLSTJ3NG1sQkR0Y2pXWmQxUnpzajVta3JCbWc2N3ZrTG90RUZvS203Y2ZWaUp4bWpLZ1dOWEw1NVNKWXktRm95TGVtLTdUSk13WDlES2ZhMzBrdE1Ndlp3VEY2NWNpcWJEMkdlYUxIZDNvR1ZiZ0NDTjFkVVE?oc=5",
+      "source": "El Tiempo",
+      "published_at": "2026-09-24T17:30:21+00:00",
+      "score": 60.85,
+      "corroborating_sources": [
+        "El Tiempo"
       ],
       "signals": {
         "source_count": 1,
@@ -282,9 +343,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUE42T2NyNXo5U2t6WWV4VTRnM0V1OTNJY0h2QjFjV0VNdXNUZWVXbldpTzhHUFZwUzFkc01kdHJKd3VyaTNhby1pTXJuc1JILTBVU1lIeFJmaVVYbTU3eXlaRmtfVzA3bEY0Z0Exd3kxTjFOdG55TkE0UThmOUhueDVFUjdxamJ3WDY0czBRaUw5aUY3OC1KYU9fWjRtNENXSERFVTFvbXRfWW8?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-24T14:17:49+00:00",
-      "score": 63.88,
+      "score": 60.58,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7b84f804ae2e6c1e",
+      "title": "Cristiano Ronaldo busca se aproximar do gol 1000 na Data Fifa - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS1lBdXlNWGp3ZGladEJqQlVGZ2ExeXhpeXQ2TFhhN2JKVnA3MGNZUEZtZUVWV1lFMDlZM0JQd1BINEhaY3k0d0ZzdmhJZVdTUHBZdnlCVUFJZVVERTZwejRZeTI1NjN2SzZKOEpwVGRLdWdDUThfaXlpeEdTZGhSclFNbWxfa3g2bE03Wl9lOTA1Z0o2N2RPZFM1MWY4UXlySFNOZ1J1RmwxVzdWVlFJaHFMRWRTaWRmeDItbQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-24T12:58:40+00:00",
+      "score": 59.32,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -297,7 +373,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWpYbVFHNEo5czE2Rm1hSDdfQU1OTEZwT05ORk1jdlRDazluX0RCd2N3Y1pGem1BZ0xEa0F6RWdyUnBrQjY4SGVwZU5SMS1wRmExSU1fUjhRMUJWbmpiMlJ6VkoyUkJPenI4d2lGaE5abTlhbjltS3RwWm9EaTNBb0pQaXpPZzdINFFyR0xaYnbSAZYBQVVfeXFMTW9pWnhzYU1zazJ2cFpybVJOUGF3d3R2WENabXRDSjhBeHMyUzJZZ09qeW5idUk1Z2JMbWFtWGw3clRtVWpXLWkzenlKTWdUXzVreXpwLURhYWtVcE1tRGZ4MzFaOE1XZ21TTTBEdDFtMzBLdHdLQkxMSTBtU1FnX1J0d2IySThPaF9RRTY0aldvSE9hZ0F3?oc=5",
       "source": "El Economista",
       "published_at": "2026-09-24T06:29:46+00:00",
-      "score": 61.4,
+      "score": 58.74,
       "corroborating_sources": [
         "El Economista"
       ],
@@ -307,14 +383,14 @@
       }
     },
     {
-      "id": "c2847abaddf26879",
-      "title": "Investigação sobre Lulinha envolve ao menos 4 integrantes do governo Lula; saiba quem são - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHV6eGh2b2lVOURUMm5BLVpnbTNWVE5fQURlSks2dG56ekROQTJoLTduVUJWRmVSbWFFd2hCSzMxbnZuOWhFM2Y3M2cwQ25RaWx6RlloNVhtSzI5SFd2V2w3ZEFCSC0xN3BhdFZWTndCSkZRckNzTURPVlRPN2xoYlBhOU1jMlJZVWpQSnVQRC1VTk9wYjJ6eEdSZGdnQWptR1kwWXRHcVlaLVlfcmdDR2pWS05Dd3UzWW1WemtoTVJOVzdvMFhYRE1pTnlWd3RmWFpkeg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-24T02:00:00+00:00",
-      "score": 60.77,
+      "id": "0203b89487dac534",
+      "title": "Chagos deal is dead after Trump opposition, ministers believe - The Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblc0dDFKaVpmbVQ5Ykh5QVZHUE80MTNNTE92RXJMYW52anEwTGg4elFfSl9Xd3Uydmdtalo5UmxTOHhhazkzZ1hRazlYTUpFQ0pEVTVLcjRQTWo0WXUxSHF5eTQyM3dYLWlpUTY0Y09LLW0zb3BCTzRNV1cxbG13VHVFYzJPamRVSkp4dlBmeEQxZmtTUE1j?oc=5",
+      "source": "The Times",
+      "published_at": "2026-09-24T14:52:29+00:00",
+      "score": 58.15,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "The Times"
       ],
       "signals": {
         "source_count": 1,
@@ -327,24 +403,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXlDdzk1UzNTS2ZvdF96bktGVEl0YkRqVm0tRGVGVEU1VnlTak5TZlVIOUYyMFZiOHFtYUFIVElXTUc4Qjh4V0RqS1FRRG1Lc2Y5MDVYak5oTHdNZGJ1TWZORlluRkFBaUpma0t6dmFhYnNoei1vRkp0dTRjRk01Q0dobXhsckllWjY5d0pLRndmVGoyb21vY0VSTW1oalJZZzVUMGsxcVhhclQxTk9tem1RVDRkVVBYNGdMVWptc2l0S1dYV3FlTkNrNlMyWl9UVGFr0gHnAUFVX3lxTFBzYnF3dW42S1hnLWFYekxfNDlBWmkzWEx0cjhIRzVBOUFYelpMN3E5Sktva0MxVlhrMDhScmYzcFl5c1VWdEJvZGZLMWxjZ0hDWDJ0anJ5Nnl4SXU5MTRabTRNNEdlOTBtNThoUGNuNHF4OEw2Y3g0Wk5RdnAtcVRrMVpYdTNSYkdNdUVjRVl5NkZSOTdRbFBVODc3UGFvNTFkVGNKU05femhwQ1lHQXFZNTVKdmZIM21yZVU5S3Q5N2h5aTFNSG1HRnRGREdVOTZNRWl4NU85ekx5dWdZdmNUUG1HTnYzYw?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-09-24T05:42:04+00:00",
-      "score": 60.72,
+      "score": 58.12,
       "corroborating_sources": [
         "EL PAÍS"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "27c39d7edf5ee1eb",
-      "title": "Última jornada de Milei en Estados Unidos - TV Pública",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2FrUTViWm9EQllvd1FpdjhHNF84MVktcTIxY29DQkhGTjZpNFdhcU1qN2g3WldHTTFtYzdMZXBFQjVQa3hiMlFfRnQzcVdJa0hVbmNLcGw0UWlhOWFvX3hJVGRJRl9DNGZoTlFuWUtFNm9UdkpiQUtmX2xQQnlBaA?oc=5",
-      "source": "TV Pública",
-      "published_at": "2026-09-24T13:51:46+00:00",
-      "score": 60.42,
-      "corroborating_sources": [
-        "TV Pública"
       ],
       "signals": {
         "source_count": 1,
@@ -357,7 +418,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObDNoeC1TaUFkMjBaTWhuaXg1QmZfUTBMRmtveFBpS1FEQzUwcWVrT0dPOGlaSXpKUkxaZkVFVGdodjVHUldLVEdUODFndE8zOFA1ZURLNzBxR3ZwT3hQQ2VuVjBZS2hYbDhrcElpamNZMFVLU1VIbkQ3aVo4Nkp1WWNrTUhoQzBzX3FQeU9McVdUOWFVbW50UEg2bk1DT1YyWk9WSDJVN1N6ZFlOREhkQ3Vpc0o2dHFGOTZxNFhDelZaeE9C?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-24T01:14:13+00:00",
-      "score": 60.2,
+      "score": 57.9,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -372,54 +433,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFFRTjliM255cGdVX1Y2akhpUGxIOVZ6YjBycjU4a2lveWtDZVFpWUdkNVRXRWxSR08tNUFSTjJSaVZiMjY4TDY3dEh3MXNTb0VzS0pybHdNSEstSnZxamtXREtVVlRtTURNT183SVVjV2dxTkJ2LVNhcDEtWDd2a2FobE1CcDVxMlJNZll5M2xoVWZzZWdtWi1BSGtyUlFNRkMtYjFjZVdsams3emfSAbYBQVVfeXFMTnowbnRrWWJoSTdNVkJVWU85MXlnQjVOandKbE4xYkp5MC1KWTNrYzE2djZmOWlXZTByNGZBbnNqWUZaelVVRTBBUi1CbFYyaFlESGJORDY2eTctQ05adkxMT2JlWDVxQ1RwdDJ3enc5c3BiZ0hiMkQ3YkxhRkJPOE1zY2xUYzlHNnhFVEd3Wmt2RjVDbFlwUlFRRFUzSzFtRk5SbkxXYnJXeTIxMXFsbTdWWnVVUlE?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-09-24T13:04:00+00:00",
-      "score": 59.59,
+      "score": 56.4,
       "corroborating_sources": [
         "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a69f8356aa03d685",
-      "title": "UCLM da la bienvenida a 357 estudiantes internacionales - Albaceteabierto",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBaVBsaHNpWGpYWks3SzNucGgyOUE5TmpBWFYyNGhVa2ktXzEzWV91UnJhMkktNGRyM1FBeGJvUmxRUEE1SWJnUUVSVzBxYThwUG0zVVM0Zl8?oc=5",
-      "source": "Albaceteabierto",
-      "published_at": "2026-09-24T13:00:00+00:00",
-      "score": 59.52,
-      "corroborating_sources": [
-        "Albaceteabierto"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6861bc433f4b16cf",
-      "title": "Saiba quais pesquisas eleitorais podem sair nesta 5ª feira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaG4tcWRVVlhhSllUaFQybkpyM1k5VThZX0gwSFNpOUhlMG5kM1BVX0Zjd1d1NFlyaUJGOWxWMlpaTGszU29EVmZQM1pYdDVZQ1RfSnc1SWUxaWppcHFxWkRxR2phckJIUmhDazFVRElMSVZib0pXZ2FjdGF3dVhDeHczSFJ1UEVBMklvS0hZWUljWEFKaEJtRXZtX2xHcWRrZDdXSXRXdFgwTExGaWc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-24T09:02:10+00:00",
-      "score": 58.66,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "85f6487ac16c67a7",
-      "title": "ONU - El Universo",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zNlJBQXBvb0RDcHp0S0pCVFE2MGtiMDBsUW9GTi1qbm9uMnUtY3BSYTlyYjlDMEdyV0NpTERXelF5TnFTcEdlLS1iZzI1Rmd1c29ZWE54eUtBaDNMQjRqaTRRa1dacVnSAXtBVV95cUxOT3g4NVlXQlBKN1BxS1BuTnVmRzdsVzU0WHpYeEl4N3BVUmZzcTU2emRhbG0tWGt6dmQzdjduVVB5OVM1NnF2dHZnWmFCc1FDVl9rUlQxWXU3b2pSRVBNUUZoc0xJeUdUbGs1VDVjNC1VNFVVS25Uck40emM?oc=5",
-      "source": "El Universo",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "score": 58.51,
-      "corroborating_sources": [
-        "El Universo"
       ],
       "signals": {
         "source_count": 1,
@@ -432,24 +448,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVV4TjdRMG0xWW81Z2gtblBpck5KT1VGZFozSU92ZVprT21EU1FpWXJ0MTFPQWJlLWUxS2djTGhoRFk1V0JNVmJELS14NUlYS3FhbTBRazJVLS1tQjBJWVNYYmptLTFWZW0zWmpYQ2pkSFFSTHo5Q3FwWFREWVIwaHFQaUtvcThNQnVobFc0Z1U2dWg5dzBySDh5YnRGdEJUX2hrUGxwU3RGUDZvVjZIZEZTb2lrRThXRzF4X0pvOUs0QdIBxwFBVV95cUxONHFOcFJQMGpkdVJlZW1ZUjVkV2l0TC1WVkhFQkhhUmV5QzZ3V0VuZWhZeW5qMXJXLWVMUUxWbzZkbUs1Vk1ialpteWtGYjFULVdKUmlsRnFralMzMXVnYzA5OGthRXk1VnJWR01KQVBod2FVTldBV2tJUktOVkJpdFZNZmxaTG1DT3FyUlhYQVBBQlY4WmJDWE9wVkE0MzA5OENmV01nTVc2UDhwYVgwMjItcmZpcVVXQU5QZDY3OVZ1ZTBHMmVr?oc=5",
       "source": "Estadão",
       "published_at": "2026-09-23T22:45:00+00:00",
-      "score": 58.41,
+      "score": 56.27,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "56a1185a7d9972a2",
-      "title": "Angry outbursts, slurs and firings: Tumult rocks a key Senate campaign - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXJHOUlyODdIUkVCRXR2aFMwRzBvSVBEam5MVnhJZG5nYXpqX0wyNXhJeU1fZVc3c3ptYlkxWEFBdXFsdXMxRi1mbVQ3YzBnakkzclVZa1dyMzVya19GNHNPUExWRURyYzdkMV8zblpTQ1VCVG0teUxpQURvUHp1V1pZamlpSnpvVUtYWE13ZjlGTHlobk94aFJsQUpLVFF4azlONDcyMkFqdGtMWjJNV2EtS0lwX1Jwdl9pbi0tMmZXZnNJTUE?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-24T02:43:57+00:00",
-      "score": 58.33,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
