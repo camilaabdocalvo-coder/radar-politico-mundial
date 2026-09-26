@@ -1,19 +1,94 @@
 {
-  "generated_at": "2026-09-25T23:19:22.467354+00:00",
-  "next_update_expected_at": "2026-09-26T03:19:22.467354+00:00",
+  "generated_at": "2026-09-26T05:05:05.156058+00:00",
+  "next_update_expected_at": "2026-09-26T09:05:05.156058+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "f5e35697ec6a07ae",
+      "title": "Suiza votará en referéndum si endurece su política de neutralidad - larazon.es",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1JPUXFrVWpKQkZ1RGRNd2xUNDlXcFZqWWRVRF8yOGxETl81c1UtQXUyM2VwYVo4RW1UWHVjc0NPYlpIN0tOamRPUVJqNXBuV3M1LUtFcmxiVFVlOXpyWUVOVVVEdFZoemhxUXhONmhDMzlQOWN5UnRfY3hzcHI1UmpFUjVYWXN0OTZMeG5hQUZuUk12ZFhXbVhaQ1c3aEtyRGc2ZjgyODBCT1lwYjYtRGl5dExhQkZwTmFBYXdKeUNRSW5VMEY00gHbAUFVX3lxTFAzUFVTLWFYM1R0MHF6T0oyNl9GSUZPdEVsZHdxdHowY0t3LXJkUjhBZnlKQlJtdWMwNXRuRGN5N1NyVGZMUVJ6d2NLU1pFX1Z1U3FWNkdhTDFXdTA3c3NRaTc2Ni16d05fZ0N1ZzhVREdZNEdxTGc2LURwWndkVW9ITG8taDJleXFfQ1lBdG9wLVEyZER0em5HODFCVlQtWExnTFZrTjY1cld3V05kZ3h6YUdZQ3RINkM0NVpTd041Si1sVUNDR1RPQ0Vnc2hLVXhBVWJNTnB4dkI3WQ?oc=5",
+      "source": "larazon.es",
+      "published_at": "2026-09-26T04:00:45+00:00",
+      "score": 74.16,
+      "corroborating_sources": [
+        "larazon.es"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ff69412b26abd9d6",
+      "title": "Cuando la política no es ajena a la economía: Sánchez y el desplome de la inversión USA en España - economiadigital.es",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEJfYS1pTVNGcUY0Qmc5WjhxZTFsSG52bWR6eF9fc2xWQjBJWndWN3BaaDluZjMtdjZIdWVZVExlcmJ0WVV0VUtrLWhrN21QU1FIeFJISGh5REFIa3c4YnhSRlc5SXhZM2o2VTg1QjNwY3VLajFoa0lhTXBtdU10SnpsNlNaN29OQUhPRkZ3LXhjMTZnMUxQOHRORUpoVWU4NW5iZWdFZjEtd9IBrwFBVV95cUxNWkdSa1BVb2ROTVRNTG9udEpEQ1RtTC0ta3FaNXVyYjdVTF8wWmROMURhRTF4aUZVSUpKbjVNMl92WmxRUXAwZjNheGpNWWdxTWV3anAyTlV2dFlrTE93U3NlR0ZIVC1wbUc1SkNjTjdFSjcwZmFoQURaMTlOeWpEOU9XanFBenNRMjBqWFA5WWFHcHR5dWRRMGZEWHVKUHZMQTdEckwxWFFoakNXR21N?oc=5",
+      "source": "economiadigital.es",
+      "published_at": "2026-09-26T02:55:00+00:00",
+      "score": 72.85,
+      "corroborating_sources": [
+        "economiadigital.es"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c97d2190bfedb178",
+      "title": "Ideología y alineamiento; Trump y Netanyahu: algunas claves para entender la actual política exterior boliviana - eju.tv",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2htT0xtY3hMOWNvSnJaTmluUDJRN0xMLTlaWVBwUy0zb1RvbTVCaUpCeXplaWFDTzl6TTF1ZnoxQ0hFbjhwa1BvcG9tMGtiSGFab2p4dUNZQjVOZExVekNDN1licllhQjI4QXFBTW53TDVRX2ZkdWVmdWJZQ1F3a1hjUlFldGxNRko2RHRGNVpuci1CRGNvM3NoNTRxaXZEcDRtam1FZ1RKb1I0LU9aYVR6TjdIY3ZSaFRPajc3eWozQkozSzFOWHlJSWtwUQ?oc=5",
+      "source": "eju.tv",
+      "published_at": "2026-09-26T02:35:00+00:00",
+      "score": 72.46,
+      "corroborating_sources": [
+        "eju.tv"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8f105008c9e251d9",
+      "title": "Israeli Prime Minister Benjamin Netanyahu used his UN address to defend Israel's military campaign, as delegates staged a walkout and protesters gathered outside UN headquarters. #dwnews - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmRyTExPNnlpM0tCbXBmY2NaOHpXVGpVUzNMUjVZaG16TUo1RnJEM0xKUjJTQWR2Y0k3endmMHNtc1dHVnlaWlBRM3VFUUl1aE9FV3lHZVV1dE90WUJtc0U0TTU4cjA3cTRDT1dMTXZPZFc5Y1FpeVloM1k0Ry1oR1RnVDZXMHlzcWt5RjR5ak9ua2pNV0VldzBuNHYxRlF2R2dhYUFKdHV4MlpWQkNuVkxTRVRKT1l5SGlJRFFBSk9yaXZIcGd5dVZ3RFRfTUJwTXJ4eXlMTXNHT0FSRWlwaw?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-26T02:03:31+00:00",
+      "score": 71.85,
+      "corroborating_sources": [
+        "facebook.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "3a2b93df87239702",
       "title": "O jovem não desistiu da política, apenas mudou de canal - Metrópoles",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDF4bE04OTF6VjNTZV9KclhHbzN3MDBuWTRmVEx0dDZfMmV2anJxZkszYktzNXlxanQ3Tjk1SWRwSmhtNFF6bEtlUlZYZWQ4MnhYeWlUMjVRendCR0VhaVdmRlMxcGRhVkhBazFGOVk1Q3I1NksxOVR1bmpVODUzQm5DVlNfUkRlQWdHTjFiUjJFeDg2SjhUSXZGaWY?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-09-25T22:02:00+00:00",
-      "score": 76.89,
+      "score": 70.47,
       "corroborating_sources": [
         "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "da1e12faed9f34ec",
+      "title": "Susan Sarandon é presa em protesto contra Netanyahu em Nova York - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXo4NGV0cVJaRG9pMGlOQlVHZlAxRHFaSl8zQUhyYnFaZVJHWWFVQ3N3SmlMd1JBTzd1dldqNkZ1c1pSaTRTSWQzRUdRUm5XQWpKV2xMUXlWYXc2ZEc5Z3JmUlluSDNEUVFDLU1aTXI2V0JZYUVHSGg3RTBtS1NnR2czYXN0VElqekVNZmltR1J6XzlVbGY1Z2tmanFLLWRNVWNrRTFOcVNfZHFicGc?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-09-26T00:01:00+00:00",
+      "score": 69.57,
+      "corroborating_sources": [
+        "Transmissão Política"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +101,24 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeG9IbzJZU3Fya2REZVFOOHUxc1dlU3Jrb1B6T3E4SHVITUszSTVCd3FPUHJBZlI4RkFDSlJlaDNWdG51UE9hU2w0bkhGd0ZDbEt0VTZxVjZ2VUNKMS1WNzNVbzdJYmtqOU13cVlqMmxTOW9vM3JyRy1wZVk4Z0FSVFFnazJVMTVXbXYycnBBaC1rR0duVjFzbDM2NDVCU3BweEM0?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-09-25T19:57:50+00:00",
-      "score": 74.47,
+      "score": 68.41,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "83b9b460cc0e9ba7",
+      "title": "Trump aposta que vai ser \"dono da América Latina\", diz Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGlWUmRGSEQzM0FIaUFIREozS05JZmdjRDFhODJQQnNuaTVvS0FEdmc3NHBZX1BzQUY3ai1qWV85OWpHYjJ0RV9kbFhReW9kUmxuM3dqZi1jM2lOLXJ0c1dBdVZ0X0tET3N4dHprYjRBeGJISzlsRXp6RzV5QmVRV1FldDNzbTFKbEstX3dGR3VsVVVHZjBDWTMwaDFreDBwbjF2M2ViR0o?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-26T03:02:03+00:00",
+      "score": 67.99,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +131,39 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0hYeC1VM3JFVjNoSGFoRUstcDZ6STRUNWpWamw3SUNPSmw1aV91bF93di1yekx0eENDNEJNVndyWExwTmFzWWxIWm9MLVFBeDRzdHNkN3dQaG5mOXpoenVFTmlFZ3E4d24yOFpxSkFOMV9NS3F6NGNwLTctOExXUm1GMXJ0YlFnY0ZCYkhqek8yWlN0NEZVWHJ6V2dBcnJXaWNOendYR2pGVEVNQXNlRUNBTUdvWlJPVjZqV2JmZ0psdGdPN01wcG1Xc3g?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-09-25T10:01:00+00:00",
-      "score": 72.57,
+      "score": 67.97,
       "corroborating_sources": [
         "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bfb18b67c925d326",
+      "title": "O que é a Rockbridge Network, grupo conservador dos EUA que alimenta polêmica eleitoral no Brasil - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYmprVkNUTTBYS2hrVk95SVcwTkxzY2hNTUpuTEVSZ1YyNVlSNVl2alNMLWpxYWZmTkktYl92dnIyQnZvSUZ4a3Z5c21kcDVSX3AtS3FTVWhoZFdTLXBJSWYxdGVhWl9icXpZYmdFRnlqY1p0R0JQejhrakt3MmgxcTJKRVkzM0pRRVY5bm5SZXl1UmU1cXhHUFdjUDQzTmhabm1rT0hGWTF3TDdzSVRTNVY4Y3FiVmdsMlBzcUpHZWxKWGVYUlFvc0pDbVBBeWllR3JRcUdmRm1MRXZXNTRF?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-26T02:00:00+00:00",
+      "score": 66.78,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "98fca80682c5ca27",
+      "title": "La política, la geopolítica y el terrorismo fronterizo - El Informador",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWh5WEZidkt3a2REZXlZMGJOcFNlV3ZSOXI0WEhIUnI3REdYTjVhM012Q2J1aVhUQW13WEhNRTMwUUI3Yno4bHIwX2JRd3M2ZHlLdERnN0FVYWhBS2lCNTBvNXNZbXVvNkNQb3NDRGRRY1QwT19FS0hQNFdBb1FLdXBOZGU1dXR6UkVneGRQMUpnbmQyaUY1T21RTkkxcUFBUll4X2JCY9IBrAFBVV95cUxNU2c5RnI0emhiUlMyQTZEMkxrbUNXQzl1RlF6NnpNUmEwZUVBZ3pYUzAwMFhhS2VKLTM2WDhHQ3BoWmMyTkhzV1czYXZJeURKbzQxZEpjcjFmb0w4bHFJVDdNMjJDRFp0Q1dYWFpoZWl0Vi1wUnpIVDZ3b25LZXZDdUNYM3VmZ25pZExfTzh5bWVFcV9LdFRFV2pFOExWOEI4OFZqbVVwbjduemI5?oc=5",
+      "source": "El Informador",
+      "published_at": "2026-09-25T10:30:00+00:00",
+      "score": 65.33,
+      "corroborating_sources": [
+        "El Informador"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmY5Zzk4WllHRWtZVHZ5eEFVaHZtc0l4enBZY0MxWHV0R3ZDdFpEYVI5bkFETG81TnhGdzNEZ1VPNUpXbE1GTmJRSzBtVnZ2SFc1QXM4bEZoRmhtT3ZiczIxdURDMXlCUThNT1J0bTdpdlJSM0l5LWdaYmxxam1qTkxMeGd1ekEwUG5VUFFKVGlJU0NSMlJhSnprdmVrMHhaN09DeG1UdFl4elVfWllWUDJ3?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-09-25T18:59:00+00:00",
-      "score": 70.37,
+      "score": 64.47,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -71,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpjaGtiay03MFRaRU54QVF3cldOcnk3QjhnRlEtMHFwRzVKd0ZLaU8yendfUWc1OVRkeFlaVTI5LVRLX2laR1c0LXVnV2NkRGxQaHFlR1hsM3k2WXlnRVpyVVZfRjcwcGxQZnNKc1hzOFlqcDBLYXlQUEJkMl9jQU9XSmFVV3ZTQUlFTFhKbVVsNGN5S2c?oc=5",
       "source": "Yahoo",
       "published_at": "2026-09-25T18:49:38+00:00",
-      "score": 70.19,
+      "score": 64.32,
       "corroborating_sources": [
         "Yahoo"
       ],
@@ -81,14 +201,14 @@
       }
     },
     {
-      "id": "98fca80682c5ca27",
-      "title": "La política, la geopolítica y el terrorismo fronterizo - El Informador",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWh5WEZidkt3a2REZXlZMGJOcFNlV3ZSOXI0WEhIUnI3REdYTjVhM012Q2J1aVhUQW13WEhNRTMwUUI3Yno4bHIwX2JRd3M2ZHlLdERnN0FVYWhBS2lCNTBvNXNZbXVvNkNQb3NDRGRRY1QwT19FS0hQNFdBb1FLdXBOZGU1dXR6UkVneGRQMUpnbmQyaUY1T21RTkkxcUFBUll4X2JCY9IBrAFBVV95cUxNU2c5RnI0emhiUlMyQTZEMkxrbUNXQzl1RlF6NnpNUmEwZUVBZ3pYUzAwMFhhS2VKLTM2WDhHQ3BoWmMyTkhzV1czYXZJeURKbzQxZEpjcjFmb0w4bHFJVDdNMjJDRFp0Q1dYWFpoZWl0Vi1wUnpIVDZ3b25LZXZDdUNYM3VmZ25pZExfTzh5bWVFcV9LdFRFV2pFOExWOEI4OFZqbVVwbjduemI5?oc=5",
-      "source": "El Informador",
-      "published_at": "2026-09-25T10:30:00+00:00",
-      "score": 69.99,
+      "id": "fc28883b4822dd9d",
+      "title": "México promueve la cooperación internacional para el desarrollo: Roberto Velasco - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3p3TUlwWXVYZExJczV2bkpBZ2Y4V0p5dWVmRy1sOHVrb0lrQzVZUkNZelBQWi0zc0NkU2NZUWVkN2ZDTkQ5dGRoSzN6bk9sa1k4YjRzdXd1ZHhVdnZyYmpka0p6YWtIVWljVVhubWIwd09fRWtObGZzb09fcUpXNWNVMTVVVFROa3RWYnU0a0NmSEN6ZC00UGwyMEtQcE9TeVg3S2ZhaVJyZkVYOUZrOGhWcDY1TFI3WlFXdUNfSFpmZ05uc1VzU2hZWmxPV1VLc2pHdlZDUVY?oc=5",
+      "source": "El Heraldo de México",
+      "published_at": "2026-09-26T02:13:00+00:00",
+      "score": 64.03,
       "corroborating_sources": [
-        "El Informador"
+        "El Heraldo de México"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmhWZzlkaVhPREkwMGZqdE9zOHpzYmk2VFVHbWN5REJlUGR3UTdvQkhOMUs0NUhYUXFUZ1lMc2hKdnpsOG5SbWsxcFVjVnRVVE9FX3BiNFdwS2w0UW55VFh0Zl8tRzRzc1oxZ01vekNyWUs3ZmVzeG54T1ZBa1NIR0xyRTNfMnkyb2xxb3FOUWFqMDFrU3hYUXctTkNYZU9mYU1pVzQ1TmdUM2pyYVpv?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-25T13:51:22+00:00",
-      "score": 68.07,
+      "score": 62.95,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -111,14 +231,29 @@
       }
     },
     {
-      "id": "561b44688966263b",
-      "title": "‘Terminator,’ annihilation and more from the U.N. meetings - seattletimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUW1rd1RuX2FvWXhxRHNrT3RtV3ItUFh3NDZvel9udjhrcUlNVEJTaW1sRWZyNkNDeHV2c2Vzd0xnaU5hU3VRMlFlNW9ybTdIaWN5cWU4NHFUR3AyZHVQelQ4TVVCV1VRQTdQSFJ1UldzMFF6MXdxV09sNnFKQW9OOWVQbUV4bTdoYUNHcGZHN0ZXYmRrb3VuS0JPYU9mcXc1eXpYZkF2QnQ5N3d1NEJxUjZyMUZ5VjZnYWItendVanFzUTBBNDNuTF9ZRTBfSzREUV9nVEJZR0E3UQ?oc=5",
-      "source": "seattletimes.com",
-      "published_at": "2026-09-25T22:58:29+00:00",
-      "score": 67.04,
+      "id": "45941d4cefb64f8b",
+      "title": "Vorcaro chamou Lewandowski de ‘amigo’ e marcou para beber vinho e conversar, indicam mensagens - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkdqZUx5OVZIMHFaS3hnNlNSQ202SjA3Xzlhdy1aM1JyN0pzeUdZUU5SbndpSzRsUUtFOHh2WW9LVGVZX28wV1RscGJnNzRqNnNyYUQ5d2pQUC1BMFZZWTVTNXdVaVZBaXZWTnpUMGJ1RlF2WWxhNlAyQjFPT0ZDaE1WanNxN0w0MTVpUmFNRHB6cmwxSjFiSWc0ZXlkWl9rVV9WWXp1NTNWeHlrSXROVkFlSWNiRDZ3cmNJdEZESTM5Z0NHLTZN0gHMAUFVX3lxTE5WZnktUHdLSmVkYWFGNWJma2NBU0pTYlktUU1GeURmZ1RUc21DczB5Qk5mV3R5UkJQTkN6a0U1MXllMEhZUWUzc3p4ak91dm1EOWZfbDV1Y29KblVSemQ5b2UwMHJWaFpxb0NjOFB4S1NwcTRhRno3SnNROF9EOEJEazEzQV94YTRDakRFQzNyRDU3RVRoWE04WmFmT3ZTbkxhYTNTd3NnNFZjWThBcWpOUE4zelEyNWJYRTRWVHZKV1RUdmRMMWZVNHRRWA?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-25T22:28:53+00:00",
+      "score": 62.94,
       "corroborating_sources": [
-        "seattletimes.com"
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "01ecbff291f2672f",
+      "title": "“Se puede cooperar y respetar la soberanía”: canciller Velasco destaca logros de la 4T ante la ONU - Grupo Animal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTk0THpCd1hfd3RKcFEtb2IydjMzVWd5WHR3aVJyek15TXhoUXBBaWNqT3k1a245a09fMkJ4eDJTN0NJTGg5MTUtRkdRWE1CSFEyY2NhdGJtZlZ3U0xtZ2NXMjJjTVRhUW5kREVWc1MzUS1kb1htaXlTLVJZc2FkcXBLbWgyYWVFcE1rMVJteHNRQQ?oc=5",
+      "source": "Grupo Animal",
+      "published_at": "2026-09-26T01:04:53+00:00",
+      "score": 62.74,
+      "corroborating_sources": [
+        "Grupo Animal"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFp5ZDFYUTZ4RzIydHkzVGsyVVgzSldsb1NjdFcyY1ljVmJWZm9ZX1hKcnFPYUhJVi1tZlNQMjYzQWJNZG1zNUlxZS1lVnUwU1NqeFBOQU1qaFJiQjZqMXZKREZaaTdHQWpGSDdlQ2xDRmd3ZVZaMW1LZEMyZVY2WXR5N096ZkNRVm12dVczLUhYZzFtRXUwTUZyZUxTZURwLURXY3VQSDN6Rm8?oc=5",
       "source": "Poder360",
       "published_at": "2026-09-25T12:42:20+00:00",
-      "score": 66.98,
+      "score": 62.03,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -141,29 +276,14 @@
       }
     },
     {
-      "id": "953e45c160c744a3",
-      "title": "Kennedy Center shelved repairs now cited for closure, whistleblowers say - seattletimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVdTUHBUMWJPd21qNGpWeE9CNnZwX1QzOXVCNXRhSTJHNm1hdUxmQ0F2NjctTVdEcVNtUjRZdnBEancyZl9wWnR4TXdQSF85VGlCOG9icTc5QVhzeFRVTTFLWW00Z3UydlluN2pjQVphbnVhS1dqMHdzazQ4SUxVZUx3V2QwNVRrMzhka1ViV1VpZjdzSG50THBxM1gyQUx1clBQTzIzX3I1ek1XcGNoV0ExR0dqSW1JZDV0Z1ExdVRiV0RTbTc3b3R3?oc=5",
-      "source": "seattletimes.com",
-      "published_at": "2026-09-25T22:40:10+00:00",
-      "score": 66.67,
+      "id": "e7c5ced8ee96f2ea",
+      "title": "Trump at UN: Power, Narrative and Changing Global Order - daily-sun.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mOW5sbUdWd2VYU094bVFiNjdpU19hTjA1WTYzVDZQOVZQeHVCUHF0S21qMTFaak9ma0taODU1bzdieU9qUnBfRHQxamRPRHpTVlE?oc=5",
+      "source": "daily-sun.com",
+      "published_at": "2026-09-25T23:46:59+00:00",
+      "score": 61.31,
       "corroborating_sources": [
-        "seattletimes.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a36fc6654112a400",
-      "title": "Participa IEE en congreso internacional de Ciencia Política - LJA.MX",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakVlRTM4T2tUSVRLLThxQWd6R2w4VXc2dmEtbEYzRW1zZlROVF9UeXdJS002RGhZTEhESUNFd3FsbHM2RXpDVGxLWTl4VGp0RUxEQTNLOGpJMHR4MTRibGZsRHRxbTV6aktRcVhzUEIxZjJySW5kSFRqZnFRSUJxcUJKZmdyVWEzZnNJcDVVSnI?oc=5",
-      "source": "LJA.MX",
-      "published_at": "2026-09-25T15:27:16+00:00",
-      "score": 66.64,
-      "corroborating_sources": [
-        "LJA.MX"
+        "daily-sun.com"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbThRQlQ5OFdmQTNzU3V6QjdKNzVaUDRFeklGa3VGbXBwN3VmSkRUeldFYk1zNGZ5MmZ0WTB1amZjX3RQcXJMZzVoZlJraktObTJmSGl4eE5ndXJ1aFAwOVBCUlhMSTh0MHlDeVVsNjVrQWloSmQ4RmkwNE1TVDZvQ1pMZ0VIc1NRTFR2cElaSExVV0VEQkhvWXR3clRNdEllcm5ZaG0tZVZMdmIxRVlJNUNvYlhBQXM3Uk9pNE9FVlJqN1E1dHdudENCakl1akdfZWFXaXNjWXJmOHhsT1RGUG1ZZTZMTjYwX3VUNXlMdzZhTU5UbVZ2ZUN5anctX05DdDBJa3piVlprVGhsQUlr0gGjAkFVX3lxTE9ZUkwzMVhJZWlwOFlhNUpmejl4TXBsUXUxVlk5bGhOSXUzQlliNWlVN0RIQjlDR0dGdmtuWkdqcmlSUVJnajFVVTMteWF6eU5yWXI2VVdKMzFITUxMcGpSMjRhN3EzY2VjdjZzbjFBajJvTUE2aUYxZThZUFFRNHpzSHEtUzcyYkpxdVpTLWVuTDdSQV8xU0dPQkQtSS04RVgzRHlDeTlLSVhvSkloQXlRSWVETGJTejF2b2VSTU4zeEI2emZCU3YwN2t4Sk14NWJsak9XczI2S0ktb21SQTBzQWcwN1VzbVVGRmNfOVRQWWZ6TVVucXBTcjVZT1ViWTFWeTZmaElwOEdwazZtZUEzZ253cHY4YnJvdTB3dHhINXhJWQ?oc=5",
       "source": "Cadena SER",
       "published_at": "2026-09-25T15:25:46+00:00",
-      "score": 66.62,
+      "score": 61.27,
       "corroborating_sources": [
         "Cadena SER"
       ],
@@ -191,9 +311,24 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXdacERzUlFxM2ZGalpEcnVkdmVXV0NocE9WN1hIODQ4cEZYUXp3Z2k0MFV6WEJFSUdXRk9WTUtNOGQ2R0RzaFZYMHlBVWo0Q0Nzb085NHNmUmpMN2hqWUdIVl9RR0dpSFRaZmhqTk5tMHg1Q3JFTEJtZ1VKZVE0QnJIQi1hREVZSnRuU2hXQkt2Zk9oT0FDcHpCR3JTZGNpQWFZQUEzMVlTZUF3a01xTUVB?oc=5",
       "source": "expreso.ec",
       "published_at": "2026-09-25T14:55:11+00:00",
-      "score": 66.11,
+      "score": 60.84,
       "corroborating_sources": [
         "expreso.ec"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "878b8ea114586356",
+      "title": "Kennedy Center shelved repairs now cited for closure, whistleblowers say - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVdTUHBUMWJPd21qNGpWeE9CNnZwX1QzOXVCNXRhSTJHNm1hdUxmQ0F2NjctTVdEcVNtUjRZdnBEancyZl9wWnR4TXdQSF85VGlCOG9icTc5QVhzeFRVTTFLWW00Z3UydlluN2pjQVphbnVhS1dqMHdzazQ4SUxVZUx3V2QwNVRrMzhka1ViV1VpZjdzSG50THBxM1gyQUx1clBQTzIzX3I1ek1XcGNoV0ExR0dqSW1JZDV0Z1ExdVRiV0RTbTc3b3R3?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-09-25T22:40:10+00:00",
+      "score": 60.13,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnR5VDlHb0VocDNMRkZsS2RpUWhoR1dGUWx1OEdmUk40bGoxRVplck5uYUMxZlg4SmNuWTg3WUhyb2NHUEhwRFdMdC1CT1hZcFhianloMHFJdlNSYm1MQkh4NXNMN0pyQ2xSeXFlM0lVaXJZRkFBc2hKU2gwNk1uUUt2eUFINnlSYlQ5WHE2U3dDM0JmSFViREFRN05od0RKWjlOazE3c3NOT2gyYVgyUG1B?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-09-25T18:57:50+00:00",
-      "score": 65.34,
+      "score": 59.45,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -216,29 +351,14 @@
       }
     },
     {
-      "id": "ff647224cc34d2bf",
-      "title": "Leão XIV em França. \"O Papa vai poder marcar a agenda política internacional\" - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2NIb1MxUTJOM0pXSkE5N1p3YzhBSUdSUlpYMUVUbUppa3hJakMtaUhOem4wT3J2NjdDWU5WZmlQN1p2dHN2dEFEOTh6MUluT2h1clFJQnN0VVhxenBqSjhVeURqQXMwcXFfaVNwRUFBNDhKMHZXUnJyZ1kyLUxBU1VhbUxLaTdMbUFWal9OcmdwV1JCWTAzWnNRR3NQRGRuOEtOeTNXWmJkS05lOWFiVlJMZ1Jib3d0LVU3cXZqRndQc3ZqTndWY2NESzJ6UQ?oc=5",
-      "source": "CNN Portugal",
-      "published_at": "2026-09-25T12:32:00+00:00",
-      "score": 63.82,
+      "id": "fb2309d8d44c6fa7",
+      "title": "Macron pidió crear una organización internacional para regular la inteligencia artificial: en RDC analizaron s... - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTnFhZjlfOGJVQ2hLVWsybTNONmw4ZFdtb01vSUFSMWtFMFNyeE9EbDhhUnVGTUFCR0lKY1YzTUFVN2VhYU1LZ21zUkRzMV9hWUVhN3N5VjF5OTlqNFc2X0YtdVhNT3BKZzNiWXlxNTJrZUJaWENFODZKVW9SQzluRnBMSFdjZ2F0WndUYWl6clQ0ODBlUHgyVVprTFBmNF9JSHVDZWtSYVNnSXRFNFp4M245NVhRS2RySF9nSl9yOWlMMzA2SWltZDY3WUJhUWpJdDVtMGNiS3FHeDdGRTJhMm9xMXphQk9BZlVxN0xFZ3ZDZ0haUmJuNnFuQm9telpzb3ZNUdIBigJBVV95cUxQMF9jS3JJZmotSkdLek5JdUhUVXlxa1czdzZSQS1KSlJldkk1bFh3NmNlekxEQkhWWlNpWG9LdGhIUUlrb2R5RVAwSXR6R2M5NF94WFNWX1VtVXo5RkxCUEJrTzJUUGxTQkd6cEktUWdCSmJFVGN1UlRrN0RDTWo5cEV3MVdDUkN2eXItYkF2OHJMZFA4cjlpaDFqMEYwUExkX1Z0amtkWC1FaGdWRW5zUnVGUEEtOUhJLVNSUk13ekNhVW4tWHVfNlhRV0VGdDZxSkUtZmpBV0NubUdNSDVlQmczcml6dTdXX0x3WHZ6X0RDUGZ6UmZyeUNiTm5NdTRTT0JSLV9GLTV1QQ?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-09-25T21:42:21+00:00",
+      "score": 59.14,
       "corroborating_sources": [
-        "CNN Portugal"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "25314e078ae9aca4",
-      "title": "Elecciones 2027 en México: una débil oposición intenta unificarse frente a Claudia Sheinbaum - expreso.ec",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGlDQWpQNzRZcGIydDRfM3VKQXJIOEJJR2l6dGU4VGM4MUc4QTBJc1JHcnJyRlhaVVlIS3lPd3otdk44S211NHlFV2pZVDlibDdtVG05d0h1VmNZOXg1Sk9mODZsZHIyX045VnJHQWxFNTRZUDJDbEQtN3E5RFdGZnFBRENGNTVmRHYya2pqUGljV3Vka283RnFTdGdjeEZERzJHcGpCVjJJZlJ4U2FKT0kxRC16clZkR3UydXlLLTM1VWc?oc=5",
-      "source": "expreso.ec",
-      "published_at": "2026-09-25T20:10:56+00:00",
-      "score": 63.72,
-      "corroborating_sources": [
-        "expreso.ec"
+        "Perfil"
       ],
       "signals": {
         "source_count": 1,
@@ -251,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFkzeHdIZ3M0NHk3aGNsVTh1R0h2X2tsU1A5cWd0Z29Ka0xHNjJFZmpQd1VFcVlCYXRjcW5CSjZXdGgwYU5uVy1HV2huR2hWS1ExdUswaW1qN3RzVHpBWjhPLWpjUlhma05vOERTZnd4Y0ZCNzlSZlBFNnBSOTUzSzN1d1JmYWJVNENsSC1VS3dNVEtPVXNiNXNB?oc=5",
       "source": "The Conversation",
       "published_at": "2026-09-25T12:22:33+00:00",
-      "score": 63.68,
+      "score": 58.77,
       "corroborating_sources": [
         "The Conversation"
       ],
@@ -261,30 +381,14 @@
       }
     },
     {
-      "id": "a1491702d540182d",
-      "title": "Colombia rompe relaciones diplomáticas con Irán - Teletica",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnp1cGtscm5wMW9laTBoaWhjUlhoXzI0VVBBaWlteGlsb1l1cGVTVFVkalhoRkV3dmZsaXJaMHRMRDMyVjJzNUVSbG8xRW5EVWptM2RxZ3JsU1g2bHd4WmItRHFrbEtrejIxbGxCU2p6UVBDT2pBV3VxV2lhN193a1pXM2kzTEx1eTVvRTBJcy1aVTFxWDdGdw?oc=5",
-      "source": "Teletica",
-      "published_at": "2026-09-25T12:52:02+00:00",
-      "score": 63.43,
-      "corroborating_sources": [
-        "El Informador",
-        "Teletica"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "819432cabfa3f211",
-      "title": "Que política externa a sociedade brasileira quer para a África?, por Vanessa Africani - jornalggn.com.br",
+      "id": "7a2732e32004d6fc",
+      "title": "Que política externa a sociedade brasileira quer para a África?, por Vanessa Africani - Jornal GGN",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTRGUUZmOEMwSURWN1JKOEZVdHRLajdNUzZ3am9zSjVrSmFkOHNZOWxsUm9xTHJ0LU9BbGQ1TExqdDE0TmlTMWtSZ0IxT3gwY0cyMDR2M1V3NFN3eEM5OEVoVlZuX2FDYmhBcDhYTGJlTjlqYzJpdnpKd0dtTGVtS0huaFhvZ1psR00xUkJzbGlFdE5oblNRSC1KUUFIV1RT?oc=5",
-      "source": "jornalggn.com.br",
+      "source": "Jornal GGN",
       "published_at": "2026-09-25T11:51:00+00:00",
-      "score": 63.2,
+      "score": 58.36,
       "corroborating_sources": [
-        "jornalggn.com.br"
+        "Jornal GGN"
       ],
       "signals": {
         "source_count": 1,
@@ -292,74 +396,14 @@
       }
     },
     {
-      "id": "d3b8a16390fe5424",
-      "title": "“La campaña terminó” Lara critican discurso de Paz ante la ONU - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHpzN2JCSkNBZFg4akZsM29icUEtOU1jSmRiMEczSjV5Sm5ldTJWSVlhSnYwY242LW1MTWttby1SMjNmWjlOOHNmcDdweFFHd2xfODhLWnp4eHpyS2E4QU9rMTR0WFBuMVJOQnhmeEMyN3FtdnB6UVpuUjlKOElxekJnS1pMS0xMVC1tZ3JGMVZ0QkRvR2tkS0FpMzBSZw?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-09-25T19:40:31+00:00",
-      "score": 63.14,
+      "id": "25314e078ae9aca4",
+      "title": "Elecciones 2027 en México: una débil oposición intenta unificarse frente a Claudia Sheinbaum - expreso.ec",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGlDQWpQNzRZcGIydDRfM3VKQXJIOEJJR2l6dGU4VGM4MUc4QTBJc1JHcnJyRlhaVVlIS3lPd3otdk44S211NHlFV2pZVDlibDdtVG05d0h1VmNZOXg1Sk9mODZsZHIyX045VnJHQWxFNTRZUDJDbEQtN3E5RFdGZnFBRENGNTVmRHYya2pqUGljV3Vka283RnFTdGdjeEZERzJHcGpCVjJJZlJ4U2FKT0kxRC16clZkR3UydXlLLTM1VWc?oc=5",
+      "source": "expreso.ec",
+      "published_at": "2026-09-25T20:10:56+00:00",
+      "score": 57.62,
       "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ce65d0b6aa2c6023",
-      "title": "After Tough Primaries, Democrats in Key States Feel Unified, New Polls Find - seattletimes.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1BJU0tTQjJ6OFd2RmFDQ1oxalhicW5xdThiUDY4cWVITzFqWkFjTFVrREtyRDFiUEpOZE9oVWVmYUtQSlRNdVZhR1hEeVdQUzdCeThjb3VVeVNPSEpGN0hMaXpSNDI2SU9LbS1zWW9PZG03bXVwRVkxYlgwOTdFb01rWEd3cnBkYXpNOU9kSGs2MTBSeF81aWtta1hBaGlyZ0JaTkRkRFAxYkJKMlNUUGVFVkR2c0FUaHdaRmhJR3hpUl9qWG8zZGkzZ0o?oc=5",
-      "source": "seattletimes.com",
-      "published_at": "2026-09-25T19:34:26+00:00",
-      "score": 63.03,
-      "corroborating_sources": [
-        "seattletimes.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "34434d553f953e53",
-      "title": "Flamengo reage a Lula e diz que proibir bets fortalece o mercado ilegal - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ29nWjlfcFR5U0FxTEJnaFV0ODZuaWhfeWJhREJnU1lVYlFkdC1JVkJqaTU2M3ZXRVd3X3lla19oWGNRQjZXZFFpVXJ2Y3JoazdKb3VrVUxBWFVvQzFONnJxVlZvMG9ldmJQQlRraldCSDlIa0hCZjJLRDNOQWtXNEp5V0oxWklNUDVUNjhPZUMtMkltWThNZm91SXI5S19mZWdtSUdVZGtTVG5JcFAyb2tnbWpWVEE?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-25T16:31:24+00:00",
-      "score": 62.73,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bd15908a1844cd8a",
-      "title": "Estadão - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXV3YTVZckFERTZjWUY3U1RtMERRdnlOLTlFRGxfb0JhQmpVd1hqMmxoaXdzcHJFVkJSZzAwbUp6MVNmSHJGRzE5ODRMVVFVSTltdzR1M0hMb0pqWC1tMGZRdkd2ZHlGVU1IWF81RndKUGp6TF9OMW9ETk1vRGlDMEl5S3JEY1lBdEV5N0V5VUV5Rkk1SHRITUgtVlV6eXRtanI4N01WbllpWjJjOFlrSU1tQmhrVXM?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-25T16:13:45+00:00",
-      "score": 62.43,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "61127273cab83009",
-      "title": "Um em cada três candidatos à Câmara se declara preto ou pardo, mas é considerado branco, diz estudo - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMkZrMGJTZWdHWjRVOXFFUHpCQ2VJd2NKamFmcDd4RmxJQWg5aVNjb3dXQVdUSGpYRk5kU2NvQUdvMUxhSV85OVJxNU0zVko5RWZDT0FkV3JPb0tYZWFHaDQ3djl0dFRQMXlhTmlLZzAtc3VQUUJFamhaU3FvZ3d3MEFnUEVqaVUyMmUyUUpMS2VPWnpYUmU5MWhLb3lkUVotUVpZcThUeHg1bzNzZFpoVnRlZkZZZnBJX3FBdTRaZ1ByMXg5blc2VU1ncmlzeElMeW41QXlTbGpFN200Z1ZtVA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-25T15:37:00+00:00",
-      "score": 61.81,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
+        "expreso.ec"
       ],
       "signals": {
         "source_count": 1,
@@ -372,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU01QjFiVkt3S1pGR1dEZ050elZ6ZThXcU9qZVp6VjZzZ1pjOXdFbzhhalQtWlhqeEZsVTJFeERGalR4Njl3SFhhLXBES29lcW5ZM1k0bXQzSkpyZWg2djZtNjVjWmRtLXRkdjB4ekpyTjVpbVY2UW1uT012b0RmaEVlUG1oVWVqUWxscGVlVUY4RS1rQWkzOGtoR0VRYVAtTjFvZGZhdEl0THJWOE42QlI2QzhsZXZGWUdwVzFwOTZJMFBwMW9UUnZNeGJSMHF2QVcyWDNTMV8?oc=5",
       "source": "Radio Guayacan",
       "published_at": "2026-09-24T22:10:58+00:00",
-      "score": 60.86,
+      "score": 57.55,
       "corroborating_sources": [
         "Radio Guayacan"
       ],
@@ -382,14 +426,14 @@
       }
     },
     {
-      "id": "7eab377bd1e1a821",
-      "title": "Robert Keohane analiza la cooperación internacional en la BUAP - Poblanerías",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aMFZVb2l3SE9sMzFTYmc3Tno1WWZOU0h2Z3dDemhkY29GT3ZrSWx3SnhpbjgwclpzQzJTclFxa3hyUUxCWS16UWFiMm5IQXp5OVhLQWp6YmFQQW5hVVRXdnY1ei1oUC1WMEFzcU8zeW1NSEdISzY0?oc=5",
-      "source": "Poblanerías",
-      "published_at": "2026-09-25T17:01:20+00:00",
-      "score": 60.25,
+      "id": "34434d553f953e53",
+      "title": "Flamengo reage a Lula e diz que proibir bets fortalece o mercado ilegal - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ29nWjlfcFR5U0FxTEJnaFV0ODZuaWhfeWJhREJnU1lVYlFkdC1JVkJqaTU2M3ZXRVd3X3lla19oWGNRQjZXZFFpVXJ2Y3JoazdKb3VrVUxBWFVvQzFONnJxVlZvMG9ldmJQQlRraldCSDlIa0hCZjJLRDNOQWtXNEp5V0oxWklNUDVUNjhPZUMtMkltWThNZm91SXI5S19mZWdtSUdVZGtTVG5JcFAyb2tnbWpWVEE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-25T16:31:24+00:00",
+      "score": 57.22,
       "corroborating_sources": [
-        "Poblanerías"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -397,59 +441,14 @@
       }
     },
     {
-      "id": "3d16f680a581faf9",
-      "title": "Senate rejects resolution to halt the Iran war as gas prices upend midterms - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclViUUZvZ0xxQzZVbHBOYmZVS19nY0hWZGpPbXM0eFR4TDAxTWQ4Z1hoR3JCSlhyUzZnSlRLcEV5VTVZNWdac2J2MW5iemUtWnhYVTBvRGVWX0JCaVZqT29GbERWcVJBWDBsNHh3N0V1QS1fSVBZQkhwS1Y5Wk5WV2NRYzctQTF3N2ZtdTRYam93UlZMem5lc3BvYjBQTFFoczJnZnJ3Q09lMndHVEJ1SjVYLXJoVUFyZXppbmNXYzFMdTJVTnVCSmQwdkpqNldOM3RmcE1B?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-09-24T19:08:41+00:00",
-      "score": 59.05,
+      "id": "d3b8a16390fe5424",
+      "title": "“La campaña terminó” Lara critican discurso de Paz ante la ONU - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHpzN2JCSkNBZFg4akZsM29icUEtOU1jSmRiMEczSjV5Sm5ldTJWSVlhSnYwY242LW1MTWttby1SMjNmWjlOOHNmcDdweFFHd2xfODhLWnp4eHpyS2E4QU9rMTR0WFBuMVJOQnhmeEMyN3FtdnB6UVpuUjlKOElxekJnS1pMS0xMVC1tZ3JGMVZ0QkRvR2tkS0FpMzBSZw?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-25T19:40:31+00:00",
+      "score": 57.13,
       "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2ee13f0c7914fc19",
-      "title": "\"Nicaragua y Venezuela no aparecieron, y de Cuba eligió hablar del bloqueo\": Delgado criticó discurso de Orsi en la ONU - Teledoce.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT2VyNl8tbHN4anBHVXlxZXJoeTlsckJhQUVIOTQ5U2dUWU5raU5DRkNHMDlzRDlYRTVIZ2ZRNHZrN18tNXNvRk5NQ1NkVTQ4X1RhT25tTXNNcjNKRmNKNE9qdWxCYkZNOHB1N1ZqNWZLcTk0SERzbU1mVWFZdzlxLXVXRkVCbTV6R3J2TnJsNTZXZEpmcFV3OUhrOGREeDZiTnQtMUt0dDJudWFsSnA4WGdkVE00QkJfM3BNZmt5NmVITGdwU254ZWo3cGRkd19Qam05N2RyTElnLWZlYjNjV3l0czN3empkN1ptVWQ2V0w3R2100gH6AUFVX3lxTE0wMlZNbFphNm9IdEN6eGMtUEdBU0xRRGhveDZMV1pEX3lvaVRXczN1ZnFNcl8xUm1HSWhLZUVWWFlObEZpTkVYOHlLMHA3LXR0SlNyRGoxYVhPdV9jdDNwQWExSE01NVJ6VWNxMC1oa2R6LVQ1aHk4anZ3VUhIdlRrVzNuVVM5eDFPLXVMNzBtSjBDS1VXUlZjMHVCZkpOXzVhTTNla3cyYzlKX1V1OXcwVEZ5QmZmOThyVlNQN01qTTJ3SmFzRXgxeWxkU0RSQThDcjhDM0RKMGtpM0tSVjVKY0QxZFpYcFRTaDdGMEhRcGVRTnBDNnRpcGc?oc=5",
-      "source": "Teledoce.com",
-      "published_at": "2026-09-25T15:17:21+00:00",
-      "score": 58.48,
-      "corroborating_sources": [
-        "Teledoce.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "64034866defc6853",
-      "title": "Pesquisa Real Time Big Data mostra como está a eleição para presidente; veja os números - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1dscHUzTXBLZzhIMzIzcXRwMEl1MTB3VEF3MU5YVEliTFVKVVBybjRfbWtCSVlFd18tZXBiZ1VCM095SkpUNFdabDF3NVNENlppbVVUamoza0M1bVQ1cGRTemdfSm15OVdjVlB5Q2FBU0xLN3pyN2Vyb2F6RWlvLVdCa2YzNjZOTlZualRKOEM4QnhiZUFsMVlYaE9KQUUxbVluLXNyQW9KSDZkcGdFeTRUWkRUcGs?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-09-24T10:04:26+00:00",
-      "score": 57.47,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "02150b2da20b44a2",
-      "title": "Palestina y la crisis del orden internacional: el desafío de la política exterior de Lula - Kaos en la red",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3NscE03alpWcjhHbThHR2pMSWdjR1FSLWctNWVRN2xmaE0yclAtanp6dXFXaWdSeDFBS21RMnJZREN1R0E0cmNyOEZsdUFSdW9hRUJBaVBHMEI4Z2ROakVWajZEanRGcnlhYkN0M01vaHBWb1dPbGtJOUdjT04wYmM5eDZaQ2d1NHBOSXNTVzhJWVB4UHI4eHRJNmhzTEt0ZEFGVUN0cmM4N3p0TGhOWmNZYw?oc=5",
-      "source": "Kaos en la red",
-      "published_at": "2026-09-25T04:51:41+00:00",
-      "score": 57.42,
-      "corroborating_sources": [
-        "Kaos en la red"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
