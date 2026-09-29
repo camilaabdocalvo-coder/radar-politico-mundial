@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-09-29T18:06:44.478424+00:00",
-  "next_update_expected_at": "2026-09-29T22:06:44.478424+00:00",
+  "generated_at": "2026-09-29T23:45:14.362486+00:00",
+  "next_update_expected_at": "2026-09-30T03:45:14.362486+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "ad967d97c2cfb306",
+      "title": "A política externa de um eventual governo Flávio Bolsonaro - ND Mais",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzJXZW56TDhoaDB0STdvSWRFNFNaQ2pUTXVsMy1ldDMyRGlIOGNrMDVxLS1VM3ZaT2QzVjRveGM1MXpHdTMycEJoRjBXd2xseW1JaVZ6UHBlcTVrSU45bUtIbHN5RWN1OHQ2WTZxMUthWDhHY2Y1NFFrbFZUaDFlaFdMY1JiMGJJZjZJWjBnbFM?oc=5",
+      "source": "ND Mais",
+      "published_at": "2026-09-29T20:00:47+00:00",
+      "score": 79.04,
+      "corroborating_sources": [
+        "ND Mais"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "5c0fbf4e47f3f012",
       "title": "Los cinco anuncios de Illa en el Debate de Política General: de comprar pisos para evitar desahucios a una alianza internacional por la democracia - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNakoyak1EQUdmMHg2bERJdklNRTQ3R3dOaVNqbTI4N3NpbDVraExQZGZsbWZtYWduc01aaG51enBuU2JGUVZUMFl0YV8tQ1FzWjg1SWtaSkE0aHdUblBOZjJsWVlNdGRSM1prM3NvWmp6RFBtUmltUDUwNGF4Q0N0TzhfR0lpc003N0ppbVNjU1dwTFRDUDVBTVNuUEw1X1hqZkkxOTVkS0dxY2dZMGhta2U0dTFYUnVtOWpDZEZxR3JqV19SM3BOeWxHX3VieXVyU0dTVFJINzZMcHZlaFRoT2xFVElvOWI4cGZoeUJvNHhwM3dTZ2VHUTRnR0k3N1h1NXd0c2VXazI3WFNFWUJGd2Iwc25xcDhXMDlzblVQUG9Pc1XSAbcCQVVfeXFMUEJLeVRrTG5rT1VueFdiOUVmNTdzQ01EVWVOeGdVc09wYXVseHVEdUkyQjZPcE1DZlJwbnlVMkdYYTJHTGNsR0doQ3FuYjNIcU4zdF9FbmtQcFhCOUUydlBJemk4RHJQcGstRnZMdF9LTkhOWC11ejFrb2RGSlVIRFpwYngtbllTcy1kc2NtZGlsYnN4Nkl3X2F4dTM3VFF0U3JKSll6MEh1ZmFqZW5RWUQwMERjZ3IxRzg2T3V0RllSOTJXZXdGc1VEenVDQVhlMGNxclZ3clJiRnhUdUxQVklQQ0diYUM1QmR6TnlxVWQ2cWxpekdiQVVCX3lfenY5ZkdGcnpmdzdtNjUwN0NoN3JMYUhEQ3NQWTF6S2lJakxDNTNKaGZ0UDZpUnU3Y2pmS3UwdWVSd1k?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-09-29T16:44:42+00:00",
-      "score": 81.8,
+      "score": 75.52,
       "corroborating_sources": [
         "EL PAÍS"
       ],
@@ -21,14 +36,59 @@
       }
     },
     {
-      "id": "262b935bd93b1d3e",
-      "title": "PEB NAS URNAS 2026: CLARIANA BARÃO (Democracia Cristã) - OPEB",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWdicUdxd1I3Vk90OGxUU3RMbTNHanhjemdBVkhzNlN1Y2xxbnh6blI0eFhhWm8zNGVxbWc1SzNob2xUZ0t5TlM0d2pSWDdSTjZGOUtsMzNpY1FGekVoeGZ4R0xYLWZDY2trX0ZqZGVkMG1rdDVQRl9LVktySGNaXzU4U0ViTXM?oc=5",
-      "source": "OPEB",
-      "published_at": "2026-09-29T17:13:59+00:00",
-      "score": 74.39,
+      "id": "bf4e12d4621709bb",
+      "title": "Derrite e André lideram disputa pelo Senado em SP a cinco dias do primeiro turno - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGxjTnJFaTZVUkpTaWRBdElmVTVkX2lwbnZUb1RRWm04c3JaLS01cU1vTXk1aXI0OUFYYjlDWlpMVkZuaXAxZGNET3hpR2c2Y21LamlvemZycTBxWXNHYUhmaXZEeDBQTG9CX1p6Ty1aVk5IaU5uUWg0V01NbkJzeTk3UzJwUmdFRF9sbEczU2JQLUVWdUsxZHRxYlhPUTNNYlNIVGdsbGo2VFk1cnJTanVwTnh4UXludDc5R1pvMEQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-09-29T19:50:05+00:00",
+      "score": 73.83,
       "corroborating_sources": [
-        "OPEB"
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1003707636ca773d",
+      "title": "Comisión de Política Internacional y representación diplomática de Chile fortalecen agenda de cooperación bilateral - diputados.gob.bo",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2poanR4eFlUR0JWRV8wc3duem5MVGxfZ1piOFMzSXVIUncyRVc2Z1g2Q1gwekQ1LUxWdldVRVNOVzZRNl8yMmY0S29pQTVUbzMwdjZkcUMwN2FweGloSTRNcG5OSEpfcEl6NF9qcUhXZEM5dkZNOUE4bGJfT0FycEZ3ckpPZ0JNcHBFcTB1Y0pIMzFfcTEydmtPcmhXUUVvck1XU3ZiZi0ybjhsQUhNeVNINF94NWlsaTFOQnFrYmFETUxjM2lENlRFVUZjRmhyTFQxNS10elFiZmtOTnFnY3pjTnU?oc=5",
+      "source": "diputados.gob.bo",
+      "published_at": "2026-09-29T20:28:09+00:00",
+      "score": 71.55,
+      "corroborating_sources": [
+        "diputados.gob.bo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bc327ac0aeaa84f0",
+      "title": "Coming to America - pandas and international politics at a zoo - Northeastern Global News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fZ2tla09ZV1lxTGlCSEpFM3VmR2tQSzVHMDlaOU1vUHVWMllaeTBOa1B4cF82Tl82M3VRdHoyY1VZajNaZ0tYM21QUVV3TlNmRkdXSzlHSFVkYjZPU25DZFVpOXBwRExyUkZSdnRaUDNVQ21xdkJOQXd3?oc=5",
+      "source": "Northeastern Global News",
+      "published_at": "2026-09-29T19:59:10+00:00",
+      "score": 71.0,
+      "corroborating_sources": [
+        "Northeastern Global News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "97559e40917e9019",
+      "title": "A World Without Secrets: International Politics in an Era of Eroding Secrecy - Middlebury",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUl9VVEJ3UFZwZVdROW96TnpiSWZWUjFnOXcyYmgyOGJaRmhsc0xSRTBIdklkc3hYQnVNMlB1bTh4V0kwaHk2VnlobVJfZ3ZEY1FFa1FaUmpJeFNtRnZ2RW5GZ1Z6ZDNiWmZJQ1ZWbU9NY2YzVTNkUnQzUExYS3g2R0Y0ckVackNBX2o4S2Z2NG9kb0lsR3NCNGRHNnUyWWU0ZzVYaWNHVQ?oc=5",
+      "source": "Middlebury",
+      "published_at": "2026-09-29T19:26:54+00:00",
+      "score": 70.4,
+      "corroborating_sources": [
+        "Middlebury"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +101,54 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaUhaem9ZYVM1cUNKQ3pKNURUYnY2ejRfWnR4V3F4eGctd1JfUl9CWWV4Skd5all5WTJnWUE4aXdWNlVYeng0cGI1d2c2SnROVkQ3amQtQ0RaVThhTTU5dTNiMTBqc1pvRndUYzBZSDR5c2xUekJ3RTBQTXppWi1yWWQxVl9VTEd0MVhVQzNMbkd0d2JKaEFjMjRzRlNsQVczanI4TmZWR3JLdEdObW1kWFVJUG5JQ0hqcTZUc19iNFFQZjNUdUlqcXkzVTkwb0k0Ynk5ZnRmZXd1V0wycjBTX2RRNTFFcUZXc2V2ZWt1ME10alljbHZUZV8xaFBybkJkMkV0TUNZc0k1c1pqNEdr?oc=5",
       "source": "Diario San Rafael",
       "published_at": "2026-09-29T09:06:00+00:00",
-      "score": 73.51,
+      "score": 68.43,
       "corroborating_sources": [
         "Diario San Rafael"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "262b935bd93b1d3e",
+      "title": "PEB NAS URNAS 2026: CLARIANA BARÃO (Democracia Cristã) - OPEB",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWdicUdxd1I3Vk90OGxUU3RMbTNHanhjemdBVkhzNlN1Y2xxbnh6blI0eFhhWm8zNGVxbWc1SzNob2xUZ0t5TlM0d2pSWDdSTjZGOUtsMzNpY1FGekVoeGZ4R0xYLWZDY2trX0ZqZGVkMG1rdDVQRl9LVktySGNaXzU4U0ViTXM?oc=5",
+      "source": "OPEB",
+      "published_at": "2026-09-29T17:13:59+00:00",
+      "score": 68.02,
+      "corroborating_sources": [
+        "OPEB"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dbfc06a264da768a",
+      "title": "Presos políticos saarauís retomam greve de fome; autoridades marroquinas retaliam – Leonardo Sobreira - brasil247.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDN0azJhS1B2M3g4c3B0REc1SVdZWDZ3RmZLRDZGMWpjOUY4LXZLOGt5NHZxWmU5bERiQXQzalN6MGdMV0tPeDZrVklhVHB1aTE0SmEyd05kYWpFTUNfMUM2ME9BdWhrMkdmUE1fSjNqZlpmak5yY2VScWVJYXZaeUQ1cXJXazR2QzZHejRJdzZKU3pla3F6cXk1ekdmNFZ3SHotRGVxdmkwd2xPS1pncWln?oc=5",
+      "source": "brasil247.com",
+      "published_at": "2026-09-29T22:46:00+00:00",
+      "score": 66.26,
+      "corroborating_sources": [
+        "brasil247.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e42655640cfee4f9",
+      "title": "Zema resiste à pressão para desistir e aposta em união da direita no segundo turno - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlJ5N0dsb3VBd3VTTnhEekNIZlJlZEpYSXBzVWdRWFhXcEtOdEZvNzJnUVc0T0E5X1Q3Mkl0MzdPVzZzaFZlR0Y2aHJsMkpPZFpDek5ETjVWZ2ppWEZ1dnNrMkVRRVFES3B5NW4xNDB2anBTSWh3cERqQ0JpRmxwRUdEc3cxdmJyeTNqdlZxYWZBdEdmVjVOV0VWdURfYlBuaXV5aDVaOUh5elhk?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-09-29T19:40:05+00:00",
+      "score": 65.65,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2dFcy1iSHllTzd0cW1DWTB0VklfakE0NjdSQmVBaTlEOG84dnB0RGYwbHBSU0toV01xY1ZPMllkWmgxejZrbzlaX1BHWEI5YVZ6VUxQTG9JVUFZOEtPcFV5MUo2LU5zRlRyczRpRTJteEgybDRSX1dQbHZKY29BN0JmOXVHdlNueGJFRDcyWjNhbjhNeFYxZ05xaUFwZDVKOHNlVUp3?oc=5",
       "source": "ABC",
       "published_at": "2026-09-29T14:48:58+00:00",
-      "score": 71.54,
+      "score": 65.58,
       "corroborating_sources": [
         "ABC"
       ],
@@ -66,14 +171,14 @@
       }
     },
     {
-      "id": "8f01c510ec67bb6f",
-      "title": "Brasil seguir nacionalismo de Trump seria ruim para o mundo, diz Piketty à BBC - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSklORzNwTnluTlJOQXoxTkQ1T2dPQ2d3amZ3ZVZIMW5VMFAwX2g4RS03d1NKalcydmEwYXE0QTU4N3F6T1pxZUJucjQtZUxwekplbzVqVk1lMlp4Z3lHT3haZnpMX3ItZ0RSekZicXA3YzA0N3UySEdxUEx5ZUcxUHZoSng1a0poVFV2ZEI5NG5USU0tOGg0YUNTMFBTODRUUzVFMUUyYXd5b1JGOFpnVUVBaUFaaEtSTGtkeU9HbkZyT292YXc?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-29T13:57:00+00:00",
+      "id": "a93cacbf209337c9",
+      "title": "Brasil precisa crescer mais de 3,5% ao ano, diz Roriz - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc016T1NKMGRSQ2tCbVV1bzJKOHlWcThtbFF2eXpiZmNLZ2dQbzN6Q0dKMzBVcVlzVm14bElWb3FzX21NcDMzWmpUYTZaUVJ5V1VLdnhndFdvUWxxSnZNTGxMdDNnbkRteW02MGRQSEc2TGtlTTcxT0EwbjEyYUF4TmszalY1TVF5VTc4bGVvM1RyMVczMWt3cGln?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-29T19:35:07+00:00",
       "score": 65.56,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -81,14 +186,14 @@
       }
     },
     {
-      "id": "417063cc9e24687e",
-      "title": "Se Flávio ganhar, Brasil poderá sair do BRICS sob exigência americana, diz analista do Clube Valdai - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORVI3azhCNURuQUpEVm5Ha3Ywd05oQ2daXzJqVjJ2Nk9MMDVtZ3MtYWJpYnZLR2FwZ2E5ems1SVJkSjRKU3lGZ2pObFUzVkRuVzExb05RMDVrZDZCanF2V1VBRGx5aHRzaWg2b0htelpJRXJyaXRmMmZqV0dOWlczaHE4T3BKaXZDRmxiTGtGS3hnb2JYUzhiT0ZkUkF2cDl5em04OWFuVkFTcnN2TWltczZUOE5CU1pZZF9YN3pqVUl5VVdYT2txei13akpFTGZrQXFfUkpLNklHbnduQVZ3cnR1VEtXX2tDYl9Bbw?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-09-29T14:48:00+00:00",
-      "score": 63.52,
+      "id": "1f6b5876bf1f12e9",
+      "title": "Um Choque de Amor: novo k-drama da Netflix ganha data de estreia e trailer - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQW84WERUSEVSMmVUSW5GbWZ4aFo3amtKMWRlZUtvLWZxeGxpZ3VzejNfZHJRSk9aOHBDdG9yNGxqWHlqd1JMZlg5ZGx1cXdCUkdsTk03UGZxRC1sY0x0dHppaWhhMl9ILXo5aUJHTno5OW83dmRlaUwzYWVDNUttRGdGbDVTWHloVTFRTlZ4eUgzbnFEOHVjYmQyaVpaa3VYS2ZrM2Y1RnhtaFk0ODhXSnpQekFoakdQUmVPZVdwelJrdS1l?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-09-29T19:23:06+00:00",
+      "score": 65.33,
       "corroborating_sources": [
-        "Tribuna do Sertão"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -96,14 +201,104 @@
       }
     },
     {
-      "id": "ba8eb37625776186",
-      "title": "Lula pede que aliados revejam candidatura tripla ao Senado no Pará - Poder360",
+      "id": "fee14ca8632307e9",
+      "title": "Tandil será sede del II Congreso Nacional y VI Congreso Regional de Relaciones Internacionales - Infoeme",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTUhmckhxYTVVUW5rNU5VaGdnTkpmeHB1RWYzUVFhS0J3a1JqajRhSV9MZFY1X041MzltRGVqV2lHcGJJaVZ0ejlkRE9pZW5LN2I5bzNLR2ZvVmxCVEF2TldNdDFCR0dFZTRId2xEa2FLYlBjNkw4ZnpoR29CU1V3QTRJSm5DWnZaWXNvUDh0VUt4ejNybEVyMXc4ME9kVXdMS2s5Q0JTUld5Ul9MUmJuVmc2aE5hX3k4TUZEeTZsak9FUVNpY0VYOWNaS2pKYXBSekFncVhuWTkzNmNZYlM3NWpPSTQ0SE9HUDNQc0J3?oc=5",
+      "source": "Infoeme",
+      "published_at": "2026-09-29T21:53:13+00:00",
+      "score": 65.2,
+      "corroborating_sources": [
+        "Infoeme"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ab2dc5ddddc22db0",
+      "title": "'Efecto Mariposa' vuelve con un programa sobre el ascenso de China y el fin del predominio de Occidente - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX0JmaTVOQmFWSkxSZEFHOHdTeXYtT3lPeWRSUE4wb2R3UkVOOFQtcmtXX3c1OTZ4SzdSMzJBdFJXb3M3b0QycWU1eTNINVUxZ1NCWF9tNl9yWlJGMVBpUzRlLXdYLWlMV0JMcUFmNTRjRDM1ZU53ck5xUEZ1dXZCS1gySzJPYXRyVWdacU1UOTBJci1oZUZBVVdBSjFwUm8wTzlUOXZDY0FBRGk0Z1BKVjhyanNWRXNOOE9Gc3JRX0pGU3gxNXFTSllEcmtVUy1xX0xHWUlKQTV6V0FHOVplam0yZ9IB6AFBVV95cUxNQ19OU2dsbkRlRHRRZHpNSFBxWUxtUUhlT2R1ZEtyWHo0UmdfaGQxdGR3QjZ3eG9wQkdSNUx4cTZwaXkyWl94QTRBQXJUZXNWQ01TX3dqSUVDY1k3RmVEREdpeGd4WHlkRFR3NG85aHNzWHc3OVZEQ3JiRnZQcjQxTHpBTVM3dFVnWVhvQnRrMUZPVldtZ2N5UHNPdnU0TjhodVNFNmFHTi0tZENWdlJkNGlhTGJFVnJtY3JJTnBBQmVtcFE2SUNnT1lvd05Fd21PRERPbEQtOFpfZThGRTJCSnFFUy0wZ0xX?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-09-29T20:55:52+00:00",
+      "score": 64.08,
+      "corroborating_sources": [
+        "Perfil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "99b97f993885a0f6",
+      "title": "Fiscalía de Chile frena la quema de madera boliviana - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkpKMUprbHlmTFNxTTN6OWRyNkhDYVNneXJmd2dRMERGXzZQWFg3bUxuWTlpOFFtZHJ4c0pGM3JmOXI4UWtxTVpTcXc3T3VEcko3N3BIVDlVbHRYa2NsWW9VdnVsRW9veVpmTFAyNDMzZFJ2LTdQeE1zSzhLY2R0OEJ4UC0xYWhiWDhjV2ZCNjltQ2lxc1NJcFNR?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-09-29T18:49:05+00:00",
+      "score": 61.71,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "da8501eae34fe34d",
+      "title": "PEB NAS URNAS 2026: LUIZ INÁCIO LULA DA SILVA (PT) - OPEB",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY2tQZVlaSVk1dVZ6cGc1SFBMVVNYSHlDcDBHWGxzam94Ul93Z0RlYnhhdk9KSmJDbk1kSlJDQm91T29ZeHFLNGdjZ2Nwd0VBS2Q0ZlZFUlNkN3U4MUdIQi11WGtfVDBUdGdpYkJxb0ltYkE2MHNESkIwRVQzWDBacDJB?oc=5",
+      "source": "OPEB",
+      "published_at": "2026-09-29T17:56:46+00:00",
+      "score": 60.77,
+      "corroborating_sources": [
+        "OPEB"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4815e7268da0918b",
+      "title": "Brasil seguir nacionalismo de Trump seria ruim para o mundo, diz Piketty à BBC - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSklORzNwTnluTlJOQXoxTkQ1T2dPQ2d3amZ3ZVZIMW5VMFAwX2g4RS03d1NKalcydmEwYXE0QTU4N3F6T1pxZUJucjQtZUxwekplbzVqVk1lMlp4Z3lHT3haZnpMX3ItZ0RSekZicXA3YzA0N3UySEdxUEx5ZUcxUHZoSng1a0poVFV2ZEI5NG5USU0tOGg0YUNTMFBTODRUUzVFMUUyYXd5b1JGOFpnVUVBaUFaaEtSTGtkeU9HbkZyT292YXc?oc=5",
+      "source": "folha.uol.com.br",
+      "published_at": "2026-09-29T13:57:00+00:00",
+      "score": 59.75,
+      "corroborating_sources": [
+        "folha.uol.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ee62c1835a38b47d",
+      "title": "Outro Canal: A Fazenda 18: Record culpa horário político e tática da Globo por baixa audiência - UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX25fSTN5dDM0Vk5qLWxXbWN0bE1MYUhSQjlyVUlhVXBCN3hHc0dQMVZ4cnNYOXZRWnAyeFVud3lGMnI5SUdDWjYxN1ItbGs3R2V3Nnl0TXZaT3QyMHhVa2tBVDBvR2poY1Y0SXRBajZFVDJhYTdZS3Y0WmJ2OGdkbEwyY3lCV0tpRW9vcXJlUUhESWJiVkVyVnZDNGdGOGhzcFBTN21tSHVUU1lKTFo4WTlKOU1wX0RQMDRwZnJDR3RWTmpvaDFrRnRMUEdaY1J2M3ZJX3lVOG03bGctVXc?oc=5",
+      "source": "UOL",
+      "published_at": "2026-09-29T13:06:52+00:00",
+      "score": 58.96,
+      "corroborating_sources": [
+        "UOL"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "af997bcf50a33780",
+      "title": "Lula pede que aliados revejam candidatura tripla ao Senado no Pará - poder360.com.br",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXBLZlNXOW91Z0V2WXBfOFRtb1VPbV9OSklSSl9fZWhRSng1cVJraUc2b2R0ZUpCTUdsTHdmaVBfOEdoY1FzTHJJY29FV0gzZ0pBdTd6ekF3MnhTWEtoOHVFTzR4STRNQXIzQjNGQkNxdGlwOG80cWhyYjkwWk5jb2JaOExDZDZnWVQ4X0dYb0pROUlBUXQ2VzhQbTFlSW1VYnJrS0dXU0w4aXlnZWV6WG0xUEpDUQ?oc=5",
-      "source": "Poder360",
+      "source": "poder360.com.br",
       "published_at": "2026-09-29T02:54:06+00:00",
-      "score": 62.97,
+      "score": 58.69,
       "corroborating_sources": [
-        "Poder360"
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -111,74 +306,14 @@
       }
     },
     {
-      "id": "de646a994b69d9c7",
-      "title": "A política externa de um eventual governo Augusto Cury - ND Mais",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNU1VT3hlRWFITXlyMDV2dDgzR2kydFRfcGFyeHEwdmItVmZFX0NFaWNQS3BPWWxsNGphTmVEYXVzaXlWd2ZsQjJrRjVLX293cTFOUnZ5SEt2VFB2dWY3SDNRMHR6eTZpOWVWSjIta1pGY2JfdEY2dE9kUXdrTjFJRVRoZXNDeEtJX09z?oc=5",
-      "source": "ND Mais",
-      "published_at": "2026-09-28T20:00:33+00:00",
-      "score": 62.83,
+      "id": "39169549411076ee",
+      "title": "El comercio mundial resiste a pesar de Trump, Irán y Ucrania - lagacetaonline.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFFjMmhKTncxQnVacWpPS2ZVaV9NQ1BGbk90eG82OTAwYktwZGNhVE1aM2JfVFNTaVJ3VTBpeXB2eW9VNWNjMnFUNVVoSjRBU3NpTWFzWk11LWZjYUlXczlQTEljWWFFejF5T2lRVDAtajRPRF9rVUZpaElpdlp1bXdLa2Npc0hxOXd4NEE0ZnN6UjhqblZJd1NVdmI2WTgzTXo3LW5RMmZBa1FQTFFlb3dDcmhBZXhNbDU4Mm9iWWpYcjA?oc=5",
+      "source": "lagacetaonline.com.ar",
+      "published_at": "2026-09-29T15:31:21+00:00",
+      "score": 58.28,
       "corroborating_sources": [
-        "ND Mais"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "94eeeccb0888a234",
-      "title": "EUA vetam vistos de autoridades de Bolívia, Colômbia e Peru - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnhWQjFhWnZJblVIVEpaeVZBakZkWlhfcVVGS0lJRUY5MFRLZElVblptVHdoMlRWNGtFbks3ZlNYdVJFZy1icEcyWTFLNjktSl9NZjg1U3Q4a2Myd1dHRWQ0TW04S1hnSS05b190RGNTdHJ6T2kxQlFHaklpTE5qQnE5SXNSOTZ5T2RvZHZiNFFPYmpUQ2l2NHJRV2Fkb2xGTWh6V2xvWF9RUExpd3Bia9IBuAFBVV95cUxPX05kSGZvem1EYjJzZ1JRTUlQWkYxcmZ3UWtxcE5XaGFSNDhyanNzQ0FkcHZ4Z1pQOGJxQXNqeW5MM3hVVmV4aGNOeWRFVVhpcC1HZ2o1WnAzYVkwTGhaOFV6NE9TTFBKclB4aGRFdFBvSDFVWVF0WWxZZUpDTzd1QWJSYzBSVXpadi1YSkF4X0xiUjA2OEZXUmx4WHlYekt2YlpBTW9HeGE0U3FHeTVDYTNZME1rVDZz?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-09-29T13:03:00+00:00",
-      "score": 61.57,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4688049f94b2adb5",
-      "title": "Túlio Fontes quer Estado comprando mais alimentos de pequenos produtores de Cáceres e região oeste - Folha 5",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWi1pQUhXdnp4VTJCckF3MXl5Szd6Q01fTDdKbUI4ckZnN0JLeERCeDVNZktWSVBFSXQzWV9MOGFWSVowanliS3BOT0tpUERlTUh0SEQwcXhTbGs3NmpyZ184ZGd4Qk5FeGhVVUtLdGEtOUdyNkxLYnhvQVY4QUpvRTRKajlURGFWTDZRb0xNLXJSOUxubUd6S1ByVnB5cC1UaE1pbjRQVGFTMzhVS0Vrc1lEaWNhVGJONHE4LS1NNVlkZFpKSTV0RjYtZFlYUWRDODA0ZXNR?oc=5",
-      "source": "Folha 5",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "score": 61.4,
-      "corroborating_sources": [
-        "Folha 5"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "527e9f68a8546ede",
-      "title": "Are International Relations Quantum Holographic? - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlQ0t3bVI2d1JaQWJ1dlJjVkxfaWVmQldvand6NmxPa3NaZ21sX0ZwSEJMQmwyTl9nS0xZbmExa05EdE5kRzQtNkM4MzdFZlhjRkNQVWNmemIxTFQ3YlU1eFJpdWlzeldlY2ttcDhoZVBaN050MVd6SGpn?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-09-29T12:27:20+00:00",
-      "score": 60.93,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "80a6aa7bbff7c121",
-      "title": "Saiba quais pesquisas eleitorais podem sair nesta 3ª feira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkZJd0JRWW5TWlVaZGc1cjNiMWZJMl9ESE9QVjl6emZCVnFfY19HV216VE45cGduYmd5Y0JpWkpiN0V0Uk1zZm9BZ1FYUWJEZU1pM3F4QmNiS2JjOU9hTndzMWxITjBUOTFyQUNwRWM4SW5SWExEcTBCRDdOQTNVWXNMV1dTMXo2ZEJtbE9BN3hKUXJEUzBGWUlaSUhXbVhJUXVWRk9zdTFLOTVXcHNF?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-29T09:19:27+00:00",
-      "score": 60.73,
-      "corroborating_sources": [
-        "Poder360"
+        "lagacetaonline.com.ar"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVXhsYVFBSEJxa3JaS3UxWWZVc3ZlZjU4dTFGZURTVEl3aFZOUE05bTJYSDA0YzRSUGNOX1h3S19vTDJEdmpYZjE0LVVOb2hkNDhhMGk1cVdLZlRiWDRTX0gwU2hMTDN4b2hRUjNwX19XcDRKbDItd2tkMzZ4ZEhCSHJaVl9wT1NnUEtjNmxCMTJicmVfRldTX1hySHZRUjZvc0drd3RZZGc1OUM0V1p3UzNsbno1SzVqTUM0ZGlLSjN6emY5OE45NA?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-09-28T10:48:00+00:00",
-      "score": 60.33,
+      "score": 57.6,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -201,44 +336,14 @@
       }
     },
     {
-      "id": "3dd9ccc97f970538",
-      "title": "Entenda disputa política sobre Nossa Senhora Aparecida após notícia falsa na campanha - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTBDRGFIcjRFWFZJQWhUNXZRbzFPYW9DVTkyMFZlRDJqNDdaWVFqeC04dDBnOVd5TzJvVDNfOGxSd3VjMkFCU2w5UF9yZEJUdWpPREpoMGdRVkV3akFjYm8tU2wxa3BuUmJpZ0t6T2dzYkp4bzhaZWFyT1BBbE1tNXlLdEcyUWR3b3pBTkp5MXMtazh0NlRQWjd6TnN1cGVpU3pQbE9CVG5TcXhLdG9LQkFIVTIzbnNCd0d0S2k4dzRaaV9fT3JNRmlEaGl4dVBR?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-28T23:02:00+00:00",
-      "score": 59.96,
+      "id": "417063cc9e24687e",
+      "title": "Se Flávio ganhar, Brasil poderá sair do BRICS sob exigência americana, diz analista do Clube Valdai - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORVI3azhCNURuQUpEVm5Ha3Ywd05oQ2daXzJqVjJ2Nk9MMDVtZ3MtYWJpYnZLR2FwZ2E5ems1SVJkSjRKU3lGZ2pObFUzVkRuVzExb05RMDVrZDZCanF2V1VBRGx5aHRzaWg2b0htelpJRXJyaXRmMmZqV0dOWlczaHE4T3BKaXZDRmxiTGtGS3hnb2JYUzhiT0ZkUkF2cDl5em04OWFuVkFTcnN2TWltczZUOE5CU1pZZF9YN3pqVUl5VVdYT2txei13akpFTGZrQXFfUkpLNklHbnduQVZ3cnR1VEtXX2tDYl9Bbw?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-09-29T14:48:00+00:00",
+      "score": 57.57,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6d7d5b9484db8186",
-      "title": "Euclides Acevedo: salir de la CPI convertiría a Paraguay en “un leproso internacional” - adndigital.com.py",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGNvXzNGUUM3S3ZpWkN1NXNTOUw0aEdZVEo1aTl4OF9GR1JDUGlUYk1NZkEyTmxnbE51bDZ2ZXc3YlpHd1Z2NjdrZjFQeHREN2F4enpMOEU3NlpzQXJyZUpxQXF4UmhSYWtqZVhSUDR0WDFkcHpWYmIwcEFTRkd4V2dicGRKZmpsVUhoSEdJSjlYbnh0T0JnTmVfMm4wcF9vNVhQRE9tN25kY1BKS2FmMXhIbjI?oc=5",
-      "source": "adndigital.com.py",
-      "published_at": "2026-09-29T11:21:16+00:00",
-      "score": 59.77,
-      "corroborating_sources": [
-        "adndigital.com.py"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ee11549a7854c372",
-      "title": "Dia Mundial do Jornalismo celebra importância da informação confiável para a democracia - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY0Q5NVVZczY4T083U3lRRzJGenVJOUhOSWVzSTJpNUZWeFNXVjUxWjlTcVhwSmx3ckRIX09feFBYSEZ3bHdtbHhERFo5cGNLYVRLXzgwM0NtNzhRWjBsLTFwZzJKOVNMdHhGTE5hZy1LLXRIeWo1Ylp6V2NMY1FOeGZ6MmtWQTNUZXlhWWp4MExZeHRvVWUxS1c5TE1WNDJjNjllWXVXTWYzblU0Y2VwQTF4dkpKUXZ3ZGp2djl5UUxmSk1wWVM4cDJIRk9GWXBueEZJ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-28T22:21:00+00:00",
-      "score": 59.47,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Tribuna do Sertão"
       ],
       "signals": {
         "source_count": 1,
@@ -251,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTZHanViSmJ5Sm5NZWFzaFhwNlFpREd0QWx0SjZ1dElOYzJUSmR5MmVPekloTktrQjByZmF6MDVaNGNZYWlIVC1XS2s0WVQzU2UzMWVaUk5fWkQzS0RrdnpJUWdnTjRPMmlTSzctaFFzc0RqWXpJOTlocVRka09TWDdvVQ?oc=5",
       "source": "Partido Por la Democracia (PPD)",
       "published_at": "2026-09-27T19:31:45+00:00",
-      "score": 58.81,
+      "score": 57.03,
       "corroborating_sources": [
         "Partido Por la Democracia (PPD)"
       ],
@@ -261,14 +366,14 @@
       }
     },
     {
-      "id": "8332f3b05d54422d",
-      "title": "Imprensa internacional vê eleição apertada no Brasil e resultado que pode mudar os rumos da América Latina - Fundação Perseu Abramo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1lqQzQyUHdwLTVpbnVFcWJtYkdtTTYwNnVCelUzRkxDU0gwV000cG9hZjU0Y1k5VGx6aEEtUDBid1Zjb2Z4R0FrWUJqcjh3M1ZKWXkwcnVOWXlxcmxVbG5IcUVWd3I1OGRuSURKYnJUamlBeTFKWmUwWlB4VGhnVnIyUlVVLXFwaVRWOFNIWnRJVkdSZGxNMXV4Wi1wMzdkbEFCTDd1c2lJTzY4b1laVDBVOWJvSHRDZnhCR1dsdVVJSlBvR29UWm4tSQ?oc=5",
-      "source": "Fundação Perseu Abramo",
-      "published_at": "2026-09-29T00:06:19+00:00",
-      "score": 57.77,
+      "id": "4688049f94b2adb5",
+      "title": "Túlio Fontes quer Estado comprando mais alimentos de pequenos produtores de Cáceres e região oeste - Folha 5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWi1pQUhXdnp4VTJCckF3MXl5Szd6Q01fTDdKbUI4ckZnN0JLeERCeDVNZktWSVBFSXQzWV9MOGFWSVowanliS3BOT0tpUERlTUh0SEQwcXhTbGs3NmpyZ184ZGd4Qk5FeGhVVUtLdGEtOUdyNkxLYnhvQVY4QUpvRTRKajlURGFWTDZRb0xNLXJSOUxubUd6S1ByVnB5cC1UaE1pbjRQVGFTMzhVS0Vrc1lEaWNhVGJONHE4LS1NNVlkZFpKSTV0RjYtZFlYUWRDODA0ZXNR?oc=5",
+      "source": "Folha 5",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "score": 56.19,
       "corroborating_sources": [
-        "Fundação Perseu Abramo"
+        "Folha 5"
       ],
       "signals": {
         "source_count": 1,
@@ -276,14 +381,14 @@
       }
     },
     {
-      "id": "54966b5548143c22",
-      "title": "Suprema Corte pode acabar com transição de sexo para presos nos EUA - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGtpeUpkc3ZzVjJBZ1ZLYWk0b3lGcHJza3N6MkxOcGFncURxdlFJYl9OdXhhS1VicWYybDh3aHVIM3FsdWt5aFZidVVzaVVZaWN2ODBnRkJZUDB5YkZVbjhlTVZtenlueHEtcUFnQ0Jnemh5YTVGZ2xNT2t5Xy15VW1VZy1aUERMWWJ0aksxOW5EaURjTTlVbkJzLWdmcklUajhZWQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-09-28T18:53:30+00:00",
-      "score": 57.09,
+      "id": "1f2175e66fa4e721",
+      "title": "Entenda disputa política sobre Nossa Senhora Aparecida após notícia falsa na campanha - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTBDRGFIcjRFWFZJQWhUNXZRbzFPYW9DVTkyMFZlRDJqNDdaWVFqeC04dDBnOVd5TzJvVDNfOGxSd3VjMkFCU2w5UF9yZEJUdWpPREpoMGdRVkV3akFjYm8tU2wxa3BuUmJpZ0t6T2dzYkp4bzhaZWFyT1BBbE1tNXlLdEcyUWR3b3pBTkp5MXMtazh0NlRQWjd6TnN1cGVpU3pQbE9CVG5TcXhLdG9LQkFIVTIzbnNCd0d0S2k4dzRaaV9fT3JNRmlEaGl4dVBR?oc=5",
+      "source": "folha.uol.com.br",
+      "published_at": "2026-09-28T23:02:00+00:00",
+      "score": 56.12,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "folha.uol.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -291,14 +396,14 @@
       }
     },
     {
-      "id": "5e3bb085500fb0a7",
-      "title": "A TV journalist is set to be crowned as king of a traditional monarchy in Uganda - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWV2cW5sdGFJZFB6bGszX2lZYzlKeGtTMFRjVFp5d2lhQXJ0Vl9GbWJYV3habWEzWTd0Tm1kWWxUREpCOHJEeDdVYm85QmZoYW5XUF92bFFLX3R4bVJwS0hUQ1lwSjFxWnNoUXdwUWNpYTJVSG54UnFLTEhWc0FhWmJHalpuS1VFNERrLUdrTm02bXM4anZjS25uMXNteW1jU0JLb3R5QS1yNFo0aWZFM0hFT0pLVC1lREhQYTdndw?oc=5",
-      "source": "Audacy",
-      "published_at": "2026-09-29T07:19:00+00:00",
-      "score": 55.82,
+      "id": "94eeeccb0888a234",
+      "title": "EUA vetam vistos de autoridades de Bolívia, Colômbia e Peru - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnhWQjFhWnZJblVIVEpaeVZBakZkWlhfcVVGS0lJRUY5MFRLZElVblptVHdoMlRWNGtFbks3ZlNYdVJFZy1icEcyWTFLNjktSl9NZjg1U3Q4a2Myd1dHRWQ0TW04S1hnSS05b190RGNTdHJ6T2kxQlFHaklpTE5qQnE5SXNSOTZ5T2RvZHZiNFFPYmpUQ2l2NHJRV2Fkb2xGTWh6V2xvWF9RUExpd3Bia9IBuAFBVV95cUxPX05kSGZvem1EYjJzZ1JRTUlQWkYxcmZ3UWtxcE5XaGFSNDhyanNzQ0FkcHZ4Z1pQOGJxQXNqeW5MM3hVVmV4aGNOeWRFVVhpcC1HZ2o1WnAzYVkwTGhaOFV6NE9TTFBKclB4aGRFdFBvSDFVWVF0WWxZZUpDTzd1QWJSYzBSVXpadi1YSkF4X0xiUjA2OEZXUmx4WHlYekt2YlpBTW9HeGE0U3FHeTVDYTNZME1rVDZz?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-09-29T13:03:00+00:00",
+      "score": 55.9,
       "corroborating_sources": [
-        "Audacy"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -306,14 +411,14 @@
       }
     },
     {
-      "id": "7cf84d287dfbe65c",
-      "title": "Mensagens indicam proximidade entre Vorcaro e Motta: 'Queria estar mesmo era em Mônaco com você' - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPenhQTnZXUktFN1gwYVZMNXRUM3RXdEx6cU0zNFBMNE5qOFphSndVZDJyeFdXSFBXd1lxYUpaMmc2SlMtNWNuLXVObm4zZFlhd1UwNFgwSk1VQkdmMHVtVWhwOEt0NW5sX1JJQlNQLW9yVjk0bkdfWUtlaHcwM2hxY3pGVHlMRHM1R2JKdkZoRmQ1SS04QVdsaTZyNm9zUEg1b1BYMk9KVHZUNjloMFdmZnFGa2hNbVRfSTFNRXJSMnRFVlZHQThib3plLWJuYjZCbVl3eDZqdWVxUTg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-29T03:43:00+00:00",
-      "score": 55.64,
+      "id": "8b8f5286a4eb2ba3",
+      "title": "Dia Mundial do Jornalismo celebra importância da informação confiável para a democracia - folha.uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY0Q5NVVZczY4T083U3lRRzJGenVJOUhOSWVzSTJpNUZWeFNXVjUxWjlTcVhwSmx3ckRIX09feFBYSEZ3bHdtbHhERFo5cGNLYVRLXzgwM0NtNzhRWjBsLTFwZzJKOVNMdHhGTE5hZy1LLXRIeWo1Ylp6V2NMY1FOeGZ6MmtWQTNUZXlhWWp4MExZeHRvVWUxS1c5TE1WNDJjNjllWXVXTWYzblU0Y2VwQTF4dkpKUXZ3ZGp2djl5UUxmSk1wWVM4cDJIRk9GWXBueEZJ?oc=5",
+      "source": "folha.uol.com.br",
+      "published_at": "2026-09-28T22:21:00+00:00",
+      "score": 55.7,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "folha.uol.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -321,14 +426,14 @@
       }
     },
     {
-      "id": "eef24d1abeee7b2b",
-      "title": "Lula declara apoio a Delúbio Soares, condenado no mensalão e na Lava Jato - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdmh6dmEySUVmaW4zUVFqVmh6WUxUNTlvOTNqZ3VpQjlMd2NSeUljaUt3MXA1OU04VFJvU3h4NG84ODM5Y05QZVJaQWJjbnRuX3lyTTdqbC1yT3BmWW5rQnQtc3dWVXpVZlF4NjROTmRGWkdCT0QtcTloY3YzaWVDWnVER3htNnNHYnU0Y1QxakpmTzdIUWJyZVZJb3NOMDdDWjJzelVVNmhnZEFWajRQdHlYSFZEUDhsNGwxcTF3?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-29T03:29:15+00:00",
-      "score": 55.45,
+      "id": "821588fe0b6789a2",
+      "title": "Saiba quais pesquisas eleitorais podem sair nesta 3ª feira - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkZJd0JRWW5TWlVaZGc1cjNiMWZJMl9ESE9QVjl6emZCVnFfY19HV216VE45cGduYmd5Y0JpWkpiN0V0Uk1zZm9BZ1FYUWJEZU1pM3F4QmNiS2JjOU9hTndzMWxITjBUOTFyQUNwRWM4SW5SWExEcTBCRDdOQTNVWXNMV1dTMXo2ZEJtbE9BN3hKUXJEUzBGWUlaSUhXbVhJUXVWRk9zdTFLOTVXcHNF?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-09-29T09:19:27+00:00",
+      "score": 55.62,
       "corroborating_sources": [
-        "Poder360"
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -336,119 +441,14 @@
       }
     },
     {
-      "id": "6b45783e192e0660",
-      "title": "TSE cobra mais detalhes de metodologia de pesquisas, e institutos criticam mudanças durante corrida - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEVVVDA5d1lQcEUwbW1Hcy1uY1ZkWFhqWXdxdzBvaDUyUkJIMEt5cmZacmFIY2N0ZEZ6akFRMEwwSVk2N3YwMmZyXy1qa0JYLUJXbm9pcVE4Y19RQl9DVjlsQlM4OG1iSHlaYklwT1JJYVoyanliMFZGdzNvVmZvZEFIVk85SmE0MFM1SWU4ODQzYjkwZ0dkT2d3clY4Vks4d2ZGTVl5VC0wSG5ZSTRiR3FITnNNWEJfYkxLVDZ0cVVWbTExSFcwSVVzOFBfYm5WOUF6NUZ2VVFEaEF1NEI3Nkt3?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-29T02:23:00+00:00",
-      "score": 54.55,
+      "id": "527e9f68a8546ede",
+      "title": "Are International Relations Quantum Holographic? - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlQ0t3bVI2d1JaQWJ1dlJjVkxfaWVmQldvand6NmxPa3NaZ21sX0ZwSEJMQmwyTl9nS0xZbmExa05EdE5kRzQtNkM4MzdFZlhjRkNQVWNmemIxTFQ3YlU1eFJpdWlzeldlY2ttcDhoZVBaN050MVd6SGpn?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-09-29T12:27:20+00:00",
+      "score": 55.36,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b769e76fecb87417",
-      "title": "Fake news sobre Nossa Senhora Aparecida é nova amostra de religião como arma eleitoral - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDFqaE9zNEpjbTIwZmlDREhlMEVkUlNTOGZQYkZsekVrbHlWRDdhZDZSVmlST2RPY0hpVllHelBEV0ljZ2x0VUpTNVFIVGRXS3B6YkpUMy1yOXhyVDR6anpCWl9HUl9pSnNtUjlBTmFDV09aSGJIUFlZZ3dPVUYza2lSNzBQY1QzTzg5eVF6UzlSaFRWVEtZSUF1aWc5RmdXRFFjOUwtQkZ4ekNOVDVxalNqYVZVak83TmNjUnFYbHZGdmNVV2lCZzNMTUZRTWwtcWc?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-29T02:00:00+00:00",
-      "score": 54.24,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7cc326c4c129b91f",
-      "title": "Ricardo Salles abandona candidatura ao Senado para apoiar André do Prado e Guilherme Derrite - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUtfSEJHTGJCR1k2bmRrb0xKR3B5N3prN0VyZjJndjhObXBlT19QclJDc1VGQ0JkbWZYa0pRVDFTNTl4N1ZpVGpzT2xIekJyRFBEazFZNTdoek9kd1hfakMydmh2c0ZILU1XWVlUeUxRSEdsbXJmUmNoNGhfTGY5Wnp2eWVKRTdxeV9jZ21QZTZfZw?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-09-28T14:03:29+00:00",
-      "score": 54.12,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ca4255ba0775a70d",
-      "title": "Quaest: Lula tem 39%, e Flávio Bolsonaro, 34% no 1º turno - 28/09/2026 - Política - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2c2NVNpSTVVaXlndXVSbFFGOU1JZUg2ZUJfMS01bFllTFlMVmI1TFF3aGNXTW1DYjJ6QnhjdlFWM3A3dWhRX3FUQVQ4Z2I4cVdvQklESjF1VnppYThid2hZNGVCTUZ5SlI4LTY2eVFsYVRKM2NBVUhhbGV2OXdXMHVpYkNIQVo2VlFXQVJfVC12SWtIYk9KVlZkdENZenNjYTFJLQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-28T13:54:00+00:00",
-      "score": 54.03,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3c8d383d5dc61864",
-      "title": "UN General Assembly and the Crisis of World Order: Power Politics Overshadows Shared Human Needs - 8AM Media",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xMmhkX3hYSWVab3dkLWZoQXE0SWdPMldWcHhiWFRwaGxNYnhBRlNCZjlXQlBCRzZSbjFYdlg4bUJhc01WSHJQeUEzQzEyUTlQNjBmTHRfMUFRbElIb2IxYU5KQ0NWRWFfQUlaQ3ZB?oc=5",
-      "source": "8AM Media",
-      "published_at": "2026-09-28T18:28:07+00:00",
-      "score": 53.81,
-      "corroborating_sources": [
-        "8AM Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2f247f28a01c2d97",
-      "title": "Raúl Soto por adhesión de Chile al Escudo de las Américas: “Estamos ante la peor conducción de la política exterior chilena desde el retorno a la democracia” - Tele13 Radio",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbFNsLWRvMlFvYWxSUXZzRG9BQTRXeUJMUVBCNnBwQURZcjQyRllnSGdoTWZyRG5sRFFZbE5GRTF2WnZXZnBJNGEzRE5NX0lKMGxCaERLclRmZVBxOG9mRmc2MUw1bk1NbWpPMklOTlVOTFJqcmo0QkViaC1TQlBlc1Exc2NILTd2SjFzc2JKcUZtS2RrNDJEMUNoWl84ME4wYUljeEFjOUFqZzZkMlMwbkR5bnA5akFEY2xjejJPMEdYcDFoZVdkN181U28zVlhJOWtMQllfWGV5SGprU1NVYWU3dmU1OHFxamVxM1VXQndXMlFDMEZQVHNuQXdsYzRKZ3VXRTdjNHM5TFlFeDJ0RG40QQ?oc=5",
-      "source": "Tele13 Radio",
-      "published_at": "2026-09-28T03:20:38+00:00",
-      "score": 53.81,
-      "corroborating_sources": [
-        "Tele13 Radio"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "93ab11b378f3e85b",
-      "title": "PF investiga estupro e ameaças para impedir mulher de falar de política - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFBlU3E3dWZrZmx3djlXb3dBRTVPM19JNGdVenN3ZGlkN2tDeGtBdVRqQm9URExNMG5vS2lhSE0zM0dJTDN0TTQ3UmxfWDdPVWRvNDlhZ0xjT3R5NFdoOVNnN0w4Y01jQldfNHl5SEg5c2lpUXdraG9rRXlZSjVtRVFhcW1qTzhLZzhLV25Gc2Z0VU4tVGJOWVNRRC11NHpMaFpKZDBYaXVjWUZVYkRlWE1UcHc1Y2c0RFNOWFM0Yk4?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-09-28T12:02:00+00:00",
-      "score": 52.99,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c1880b8330e2eadd",
-      "title": "Saiba como estão Lula e Flávio nas pesquisas a 6 dias da eleição - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0V2eWlOWjVQNmhCM0x5RjVTd3ZCWkhhd0tRNVFwZlV1aGYzMHJQX0M3TFFrTldXVWRNbmlHZ2xJN1dlX1gwT3VybmlRWFB5a2ZPaG0xc09obnVsWUJ0Y2dac0pISWdHbGEzSjVXa0tWZ0d4RUhCMjQxNzZRRHpQS05nLWhMNDdLLUhmeGNiVWZ3SFN2Q0lOeVJjUW9rZUotM1RWcUs4S1Y3SVBCcHlnUkYxaw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-28T11:10:10+00:00",
-      "score": 52.53,
-      "corroborating_sources": [
-        "Poder360"
+        "E-International Relations"
       ],
       "signals": {
         "source_count": 1,
