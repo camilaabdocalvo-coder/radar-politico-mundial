@@ -1,19 +1,79 @@
 {
-  "generated_at": "2026-10-01T15:29:00.161257+00:00",
-  "next_update_expected_at": "2026-10-01T19:29:00.161257+00:00",
+  "generated_at": "2026-10-01T21:03:10.262164+00:00",
+  "next_update_expected_at": "2026-10-02T01:03:10.262164+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "27ba6b871187757c",
+      "title": "Trump diz que acompanha eleição no Brasil “bem de perto” - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDdONzI0ajkzaTgta3FPTXk3Z2tIZVU1ODAyckROMGVxMldSY00yMTE1MWs5TDIzNXhoZjRNZnlBZjd0VXZnR2xlU3VvZnNQYjN4U0VteEtsOFYtMklRUVdmaFoySHB2XzlKMG10eXcwRHBobFNGUHBjMXM2cVlPN0g4VTR1MVBCXy12WTdLODBqMkdBU1phZkVyeVVOU0xMNWpiR3hR?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-10-01T18:12:00+00:00",
+      "score": 80.05,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "b729134ab2c1185c",
       "title": "Nova pesquisa Real Time Big Data mostra intenção de voto para presidente a três dias da eleição - Gazeta do Povo",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUi1wMENXYU1ncmF1UkMwYjdXVWxaSnhUVk9NN0g3WjdNZUpDTUg5bWZHRV81RDRWQ2R5c1FiLWFIM19taVl1X0dyczlwa2ZxNDlyU1VoeS1WbFRpdG9JbGozeGwyNkdWekF1NzF1Q21sY2lwVkxBYUJ3NTVsMHF3LU9WUWJFTGlmVTdpMUZDOEdlTjRMU2RnazB6UjhqSVZwcVFGdVhaSFItWWN1YzQ1UXBoQQ?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-10-01T10:00:00+00:00",
-      "score": 80.12,
+      "score": 74.58,
       "corroborating_sources": [
         "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d550a0aaf74423c1",
+      "title": "EE.UU. respalda al presidente Rodrigo Paz tras aprehensión del Fiscal General - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekFqcnI2bTJSUTNqSXJEUEx3alY5Mk93VFJrWUprMEV3MGh5cnlyaWF3UlMwT1pfbi04ZTZONUIyVWY0RnE1b3VYZndLT080Q0dBQnlmUWh1aV90aUFiZ01wNHZMVVJIUHZlQVNXWG94dURMX1VJbXVUSUdOQjFoaVFDcDNLZk03TjdheVJCSHlWdldETV9aRjNnRXV2T3Q3dGQwbEw3NGtqWlE?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-10-01T17:02:30+00:00",
+      "score": 70.73,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "80153cb20d5b2d0b",
+      "title": "Embaixador diz que ajudou Lulinha, mas nega uso de carro oficial - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLW9sWGVrRUhSTDk4Y0FpTDl0YklMV0syaE9TbWVub2JaTW1YVUVYTVFhb1RwMWsyT2RjSU5FSXB6S1pQWl9Xc2RudzlvR1p4UjhrLTMxWXJZNktCWUhrenBZSWVtRDRlSVhZaGo4SUlZelgtWHZWRTIyZzFEMWZWVlZFOWxXd3JySnpmY1BoRkVQSWl1SnRaUkwzNFhOYzF3Wmt2eURtVQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-01T19:37:25+00:00",
+      "score": 68.73,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "aa554486326c6d75",
+      "title": "‘Uncertain Empire’: Historian considers post-World War I shifts that shaped Jewish futures - Clark University",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEhYaEtEYVlicC16MjJtdG5TaFMzWmtlSE9vU0VNR3VVS1pwZTRTZnQ4Rmc2SGlHMjZobTNOUlU5dmxtWVhnZHVqSDRUTjdyMWprSkQ3eVBYQkg1TUM2RG1hREROUXBYX0VqdnVnZUlqTXlDRGZEaHF4VGVUWlBIWThQeDVsSUlfTkdSbUJNdnhLSk9JZzdjWnRyeUpNR2VBNkxOVllxdTA1WFJFcF9OeXhXZktMYS1YS2thMU5hZ01SQmxjNlE?oc=5",
+      "source": "Clark University",
+      "published_at": "2026-10-01T13:22:32+00:00",
+      "score": 66.83,
+      "corroborating_sources": [
+        "Clark University"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +86,24 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaHo1VnZib3lCeEcwN3BldkFabkZSTUdJaktOU2l3N21CX3kwMmxmbzJNVFVRei1ianVMOVdPWUs0RTlpWnA2Rm14RHZVRk9fOXlMMzM0bUlPOWpkMlQ5dnI5M1J2dHB0eWNCZGhROUxHQldCWG51YUxFVmU2UHpfRlh6SDNaLVJsTkw3bWo0SkJZa3BxdUJJLVlB0gG7AUFVX3lxTFBfNlllaVQ0RWdoU1B6N1hTMzF4LUExVmk3Z3VvOUotWmwwTVl5eUhnSFdfTC1xMlI4V0xqQmFnNTBkQ1RXR1U0OC0zclpXZ3Rsc3ViZlNzd3RvSHBTeU11MUpXYzM5d0FmZEI0YS1hV2JEODJFWlc2M24zemoxdjlDbVd6bEZfeTZtTXBqb2RjeVFHS3prS3dBTmdEeFctOXVza3NLa0lpWTFCNFZrNm1PMXU4bmpFSlF4XzQ?oc=5",
       "source": "La Tercera",
       "published_at": "2026-10-01T13:18:38+00:00",
-      "score": 72.84,
+      "score": 66.77,
       "corroborating_sources": [
         "La Tercera"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cb13d7699060ce7c",
+      "title": "Empresários ligados ao grupo Rockbridge ajudaram Flávio Bolsonaro com relatórios e consultoria, dizem aliados - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVXpBbk85NDVGQ1VyZkxnRFE3eGJkWVc1bWlJZjJNcnFjY0ZFMFk0UVhNbzRMRmgzNm85SHFraVBTcXFaMk9SZGcyRFJCRzVXamJucFVaWDd1UEZLZ2M3U3QxTGlMZWJuSjNjT04wbDZURllwejNqdGFFVV91bVAwakE5N1dvSGhjdjdWWjZuSW9sdDNiNUNTdkhiZW1zdzZ4YUxLMGJVLVp6YUxfNGV5SlV2RC1GUkRWTUhHbDk0TXdacXlydGdnenBZcklkOHBmQjRNa24tenpmZG1mVWZjUkhCN3haaTJOMm4wQXlGZw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-01T17:56:00+00:00",
+      "score": 66.74,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -40,8 +115,8 @@
       "title": "Sin brújula ni hoja de ruta: la política exterior de Chile a la deriva - - CIPER Chile",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmhTVnRYRnUtSmVhZmU5cnpoUFZBSVFqZ0VJU0ZIbjhhTXkzV05xaTZYb2doQlhpZEVTV29KR0lvZ0N0dDhaNTRheXRCSV83OGR0SnNLTlVUd1hZbjdJbm5PalB5UWoyTVdSYUZ2eUNOT0pmSDMwSFlDaDlWQklsRzVrMUtqaEl5d0ppcXZOR1YzZ21EMVRqZW90QTZGWG10aGlGYVZYeXp3bkk?oc=5",
       "source": "- CIPER Chile",
-      "published_at": "2026-10-01T13:04:36+00:00",
-      "score": 72.57,
+      "published_at": "2026-10-01T13:04:57+00:00",
+      "score": 66.54,
       "corroborating_sources": [
         "- CIPER Chile"
       ],
@@ -56,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mT2JQVTkwSUptSkF4NTgxLV9RbHZrRjRqS3UwenVGd2FLVXE1Q08waURPYVd2dHVuYVVrcFFoYTFRMjJDdkJYa2FJNHNyN0ZlOVViLU5saUROU2IzaDlMdlFwck5XOTZMd0tYeFR2aUNXXzQ?oc=5",
       "source": "The Economist",
       "published_at": "2026-10-01T12:45:03+00:00",
-      "score": 72.19,
+      "score": 66.21,
       "corroborating_sources": [
         "The Economist"
       ],
@@ -71,9 +146,24 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNajJVQ0J3eDU2dlJLU1dhcmI2UG1TU0p5ZkRuU0JPaGRWczA4SkxoQVc5R2VSQ1owc0VDSlFlelFySTZBa180dGgzQ2QzSHdEbHhpVHVWbnE2OVRMUGEzSkxCNGJmeVVTb0t4eld0UWhiR0hCZjQ5SDJvRU5JdUJlUjZhNFdHbVpUdlZGMkFpcnZuMENyakxkLVAwdTI0cE1BVHZlOGMxNXBIZ2pDMEJhMVB0aWlhdWNxbmxhN2U0SDgxOVViM1FaQjA5NUNmQTRBUWFnTVdqbktZTURsdTVVNkt2VmEyN3px?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-30T23:25:00+00:00",
-      "score": 70.28,
+      "score": 66.15,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ea342bb6688faf79",
+      "title": "Trump diz que acompanha ‘muito de perto’ as eleições brasileiras - pleno.news",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3dycjlLejhsOHVRNjNzVktoMzlneExPS09ESTc1Y2p4eVZGWnBhbWFFa2NONTFmRWxBQkxHeWNYTHhJTW81VXhGR0ZqemwzMm0tMm43UTJJS1NwclEwU1Bod2ZVeDUwS3hxdm9xS2I4STRDU0todnBnaHZJY1QzUDlOb09VdzJYS1FWSzdYdkRFOVhnNFg0WVpSUkxLdUdQcE5SRWtHbnU5YVJEOHBCc3JsMV92Z9IBvgFBVV95cUxNNmN5OTdydHUtVlBncGozZmlsWkx2NGJwNUZ6bVUwRVBNYnRWbkpHN1BnUmNoOEFraFpyd0p6b1daeGtPTmJhMUhHVXRGVFdCNGp5aG1iNWVJT05NbFBldkZ4ODVNMF9KeEhtMW9DX3YxSHN4OV9mT3dkb3Z6U1lZQTdFa0tJNG1qbkV6ME5YalRvYWxoN0tOZEVZbnJucTdlUmxXLUFMRVdiOGd2Vk9Td211aXY5X293THFBanNB?oc=5",
+      "source": "pleno.news",
+      "published_at": "2026-10-01T18:56:00+00:00",
+      "score": 64.9,
+      "corroborating_sources": [
+        "pleno.news"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +176,54 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWXJaZ21wV1pCNFdRMU45WGh1UUt6UV9VU3FEZUU1ZWZtb0Q5VkVqampYZ3FkMHI1WHYwTGVWMUJxcHdONG5EaWxyQndWOGZ1TWRCdkpvRjZrYmxEQ0lqbkJFUHpKWVdCZXhBRnd3TDMwQllYcW5kLXpoYzNaNWNDbF90djFZQ2NvSXhTdEZyc0YyelhrNWYybDR6T0pWZUdNV0ZVMEJrVy1aRnZHUlZuMDJZZVFsaXk4aFRDVUFHblk4RXN6WThkelFtWTZPYUpwTUtVZFE4SEN3ZHBKVG02RUZB?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-01T07:00:00+00:00",
-      "score": 69.03,
+      "score": 63.93,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b5bf04ef246e7b0e",
+      "title": "Putin critica influência ocidental e pede reforma na ONU - Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXZCcm9ibjVSclVITzRobXVaMmFvNjVjOHd5ZXZHd3RwN2NkUXc4VDZfZHhFMHpvcV9EUGxkaVZsVV9FcWtUcUVnYk1uNnIxR3lzcDdod1E1aTNZclVlaWY2TjNQYjNCQVpZMjBQQ3dBMlNNWW5Tb0wzUTdvTDN6WWQtaTlObllnRmpBVFBKREFhbUlPM2loOEpuVm03M1ZoSzRKZzFQc0NoMHFhYk9nc3drWmQ0RHM?oc=5",
+      "source": "Tribuna do Agreste",
+      "published_at": "2026-10-01T16:37:00+00:00",
+      "score": 62.26,
+      "corroborating_sources": [
+        "Tribuna do Agreste"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "af6e769e1f888dea",
+      "title": "Vladimir Putin inicia discurso no Clube Valdai de Discussões Internacionais - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1VodHRtdEhUUDdEUHlWbzU0dkZ3WHFrVTNFSllWTURsWDVJZXdCOTc3VkR1T005VzR5cV94aHlzaE9sSnRwUUY0SGx2eDJhZDZfSkdYWHU1MDNuZDdJZzVBUUNuaTZ4WVZtNGtOSGU3aFgzY1dDdmY3RHY5T0RRWHY3T1lvUHV2QlJEQnViaUQwYlg1dWhEdTJwTFdKQmJpS0pnbE1CWW1IelZtd1J0VHl6aVBVVkJYRVdkbTlhSDQxUlIwNTVlY0Jkc3dGdGM?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-10-01T15:12:00+00:00",
+      "score": 60.72,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cb1506e9d5584817",
+      "title": "Abin alerta europeus sobre suspeita de interferência de EUA e Rússia na eleição - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3p1VS00VEE4WnhPWFBMNUlDNU9tejd4WjJSSzJReWluSUxqZjBrNGFvN1NWaXI2b1RLMGV4TTV5TWFZVHdUeGtMT3BCbjM2by1oTWVib3ZFN0pESUtRblJIajllQ1AyZTI1OFktNEJBR2h1STM0NTkwRzZpOXJxdTVVQVByMHhWTl9IR2JBNUFERFhKTmMya0t0c2VncGtJcm91c1VoQTlRSFBGQjJqdkJR?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-09-30T18:08:00+00:00",
+      "score": 59.78,
+      "corroborating_sources": [
+        "Transmissão Política"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXV5YmlyYnU0X3M0VmIyTG5WTVh4YUdoYTRpN2pOOC1PMUF1dUc0VDRmMzNuMHZRY0psMjFQX2dwc1dySnNrd0NUOUljb0VtTnZsT0RLUWxqWE1vU2lLVk1Fc3ZtdUVMRHJYQ0ROS0o5R2xLUGVsRk9qVzE2M2hnNlRDb0MtUEdoaEtZbmZuWjU1OVlrdkFmX0t6VXJCMC16XzVaRE9IUXM?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-01T10:57:03+00:00",
-      "score": 65.15,
+      "score": 59.47,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -116,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdXdLVms1RWJydjk2dGgtWU92RTh1MjlRTG9FLTJUYm9SMnJxVXFUbHpKTEV4UW9BNDhDQUQwWjBRQXVrV2ZMdk0yclZCNy16anlKX2RhRFVHMVRObTdPNTFaVnRyY2p0NWhjcHQyZUl5SFhUdUhocWtESEljVEdCZFhBU0JCbl82WW9nNWtpZFg3NWp0SlBlT2F5dHZQamFadDRr?oc=5",
       "source": "Revista Mundo Diners",
       "published_at": "2026-10-01T05:00:00+00:00",
-      "score": 64.11,
+      "score": 59.29,
       "corroborating_sources": [
         "Revista Mundo Diners"
       ],
@@ -126,12 +261,57 @@
       }
     },
     {
-      "id": "cb1506e9d5584817",
-      "title": "Abin alerta europeus sobre suspeita de interferência de EUA e Rússia na eleição - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3p1VS00VEE4WnhPWFBMNUlDNU9tejd4WjJSSzJReWluSUxqZjBrNGFvN1NWaXI2b1RLMGV4TTV5TWFZVHdUeGtMT3BCbjM2by1oTWVib3ZFN0pESUtRblJIajllQ1AyZTI1OFktNEJBR2h1STM0NTkwRzZpOXJxdTVVQVByMHhWTl9IR2JBNUFERFhKTmMya0t0c2VncGtJcm91c1VoQTlRSFBGQjJqdkJR?oc=5",
+      "id": "dd68ede5696444da",
+      "title": "Britain in emergency diesel talks with Europe after Trump ultimatum - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTlDWjNDZlNVb1RPZHpUV2d0aHd5U1J6TGxiUi1pQlg5bTJvbXJhTHA3MWVvRUpfY1RUcENRRk5aYnJ3QWtyU092RFhmbUgxMXEzNGFKTURlYmcxbldJLUIzYUdxRXpuR0ZhNllOaFZBZzZ1WnRLaG5YaERSc1h3Q05NY3ViZ3VrLVdZTzY5Mm9fOVY1Qm55Njl0ZGxOenA0cVNN?oc=5",
+      "source": "The Times",
+      "published_at": "2026-10-01T13:32:28+00:00",
+      "score": 59.0,
+      "corroborating_sources": [
+        "The Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fb072b6a6403194a",
+      "title": "Bolsa Família: cresce a participação de beneficiários no mercado de emprego formal, aponta FGV - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQW5wMjFyTWxwZFpmdWFheXZ3M3FYY1A5NTBVcFZ5TnZ0SFhvX1Z0ZFdjOUd3UnYxalpFT0VkQmYzTmlEd1BUNWhyaTdOSGlvUXFzc2FSLWtfaHlvNTZoTWFlUGdUZ1RuUlp6LU03NkwxSmR5T3pxZ3RBMDNGUXUzSFdfWURELXFnVmxWc0s3UTBJc0JwbGZnMlhlZHdKSnJlYWwzRDNRaWVjSkZrYzZwOFJhR0I4UTNOSlVEX3RvYXB6VkF3WjhRWlJucGVtUlNLdnc4?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-01T10:00:46+00:00",
+      "score": 58.59,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "efb1c42f1260ebde",
+      "title": "Comícios terminam nesta 5ª; saiba o que ainda pode até sábado - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFVzaEhXcVRHc1pkMHA5VkhONWVqYndwR1hTSkpBU3J0SG5pdUFVU2dpTGozQUZWaTJ5Rm0ycDB6WTBVamV5cTZRNHo0STYyWTE3RXZlZnBzZmxjQndVWndYTEJtY2E5MGRQNmRrQXZFRDJBa3UyX19obTF4NGx3czBPaWNhOHFHVnVYb1daS3BzX1hFX2I5MkZyZVZaTGt5d0lKclR2dE01T2JScUE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-01T09:34:11+00:00",
+      "score": 58.19,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2cc37d58f76997f6",
+      "title": "Senadores democratas acusam governo Trump de interferência na eleição brasileira - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1I4S1docC1qQzV1Z2xmRHF3R1c1Y0JzQndqR0NscEZuZFJtYkJWek5jVjdsNWFCamNGSDNOTlZOM3d0WkJGZTBfNGRIRW1TS0pTNlE3TlpnSHlmY05yTGcwSWtHLU54WWEtUjJtaWhKeW9IUF8tQXpvRmhQS21scEhtQkx1cU9FSkJQZzRnd2x6X1FHRWVUN25maVBhVlFMVTE5M3NHZnlXcmZh?oc=5",
       "source": "Transmissão Política",
-      "published_at": "2026-09-30T18:08:00+00:00",
-      "score": 63.35,
+      "published_at": "2026-09-29T20:36:00+00:00",
+      "score": 58.19,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -146,7 +326,22 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nSXRVSExaMW80NERYeURQOU5fUS1LNjllRjdyOUNudHFSSGdrX2FJdTdScXA5aHFkU0NXVDh6bUFSRXJWNkR5MWR2MFlPUVNzdmRTWTJvUXg0OVNWN3ZaTkF3cFNlNTRpaEEzTjBJMF9Ueks4Znc?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-01T09:07:02+00:00",
-      "score": 63.18,
+      "score": 57.78,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e0a52ed52d081ae8",
+      "title": "Saiba como estão Lula e Flávio nas pesquisas a 3 dias do 1º turno - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXNMaWhUMExaX084bnRnTEZfMjg4aDFWZlo0aENhNk1JZUpCS1lzemxuUEdEOW5iazU3YnMxRFoyR2tVSVhtOTZGSktZSDBMSllCRTUwcVpkb3NXeXhuVjZnTXhvcjI3LVBDb0lVamJYcHJpeUVKUEt1RG5kd01IM1lqd1FzSmlKaEhiSHcwM2ZEZk5OcXV2NkV5ZWxlaVF5OUZ4TjBQTUh5aUttSEdJOVYwME4?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-01T09:04:10+00:00",
+      "score": 57.74,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -161,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV3RJQVdxRlJTSmVkSkhCdHZDT3ZkdHdrcGxuM0ctb0U5cVhlVUQ3bTZMZ0J6QktQbmhhMHNYOHBSVUg5a0NJcTd0MGhBdXZlV3lKaGNzb3Myd1Nqa2luTFVfcGxaNkdURkxaZ2gzWjBYZWZlbTJpams3aENtTl9fclVobWxZdnBoNlV3YmFxN2dwUU5wWWdicF9qS0NvVnIxWVA3ZnFnZklvQlNjS2hhMWFwck1ITVZsM2JqVExOOG56ZGZZV19VUU5xWVM2OVR6a2VHRQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-30T21:08:00+00:00",
-      "score": 60.51,
+      "score": 56.63,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -171,57 +366,12 @@
       }
     },
     {
-      "id": "2cc37d58f76997f6",
-      "title": "Senadores democratas acusam governo Trump de interferência na eleição brasileira - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1I4S1docC1qQzV1Z2xmRHF3R1c1Y0JzQndqR0NscEZuZFJtYkJWek5jVjdsNWFCamNGSDNOTlZOM3d0WkJGZTBfNGRIRW1TS0pTNlE3TlpnSHlmY05yTGcwSWtHLU54WWEtUjJtaWhKeW9IUF8tQXpvRmhQS21scEhtQkx1cU9FSkJQZzRnd2x6X1FHRWVUN25maVBhVlFMVTE5M3NHZnlXcmZh?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-09-29T20:36:00+00:00",
-      "score": 60.15,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8e1c21316747447e",
-      "title": "Inside Ken Paxton’s jet-setting lifestyle: California wineries, European hot spots and ski resorts - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNalpGTW8zREwzNmVTNjRvN0o4X2gtMHFUSWJ0bURianBGM01sc0w4SlNBb2I3cE9UNXpSUjZqOWJjOWdEZEZKZmdIeDI0VkRKTno2RHZnVHB4ZlRPT1M4R1F5ckpnSGkzaC0xcy0xa3ZRb19IekdLZ2gtX1gwQnp4Q0txTTZUVXkyci1ZMWZnLUZQTXBXaWNlN2dDLUtvZW1xa25UVmhsNnZRT0MzRG1RZE1BVkt3alAtSjBpSGMxOHlCYmpjQWZDak16YzRjMnNWaDFFTGlheUN1UWNvNU9IMktlRll5UnB1bGh5Tw?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-01T07:27:29+00:00",
-      "score": 58.48,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9fdea71252017323",
-      "title": "Bolivia, Naciones Unidas y cooperación internacional activan Mesa Sectorial para la Política Antidroga 2026-2030 - Agencia Boliviana de Información",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGdFcWNXdWlaek9xbjZiX0YteU5HMkZNWlVtSEVsb0xWVHZVek9QN29XT1hRTWs0dVY4M0U1dUNPWVVxUlozbGdVNmNZODNOLVA0em9DaTZsNWdVU2VZVFFSVUlkTEc2MUprdGJyWXpnZHFuZ3lTcVBURTVIUWI1c1ZORGdMejRHUTdvQ2YxcmVDbmM2RkxFN0FxM3d1MU5hNmdMWG5mQTc1ZElTVjJBMWJRMHdUNEJpUmxYX3dzZWU5bFRMZ1E?oc=5",
-      "source": "Agencia Boliviana de Información",
-      "published_at": "2026-09-30T22:22:49+00:00",
-      "score": 58.46,
-      "corroborating_sources": [
-        "Agencia Boliviana de Información"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b3f45294ef53c98a",
-      "title": "Si gana las elecciones, Flávio Bolsonaro quiere implantar el modelo de Marco Rubio en la política exterior de Brasil - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMUY3d1V3ZFlMZTJ4VnV4Qkp2VmxHQ3VFMTE2VWhkV1BuQlpXazZoZE51V1JhajlkcGVOSTJmT0FxbXdFcEl6TU1mUG4xQnVwSzNxVE1BcWpLSFFlWDhCWmp5dUM0THJfV0Etc0IyT0FBNGJGd053RXU2RVFyTEVCX09kbmxjN0I1dFM4T01hZXZyT2FOaXZtUnNqbnVXcFZoVFRmZU9mZHV1ZXcycFZtV2IyOTlrRHE0ZGNaYUtKUFh0bWdzNzdXSjBkZFF0N1FkS2xpYnRiak81ZUEtT0M4aDRVcTJGaWVRTlVyZXA5QWlocUdqZHdnWmlhd19CaU0zVzBzZ1piVlhzLWo3VzUw?oc=5",
+      "id": "10d2bdb9e0563e9f",
+      "title": "Opinião - Marcelo Rubens Paiva: Quem são os ratos que fizeram rachar toda a política brasileira atual - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVZlcjl0R2Y4aDl0cDd4SVR1YUF3cW5Ya1JHNmc2djhPMHFFWWw4X0RoQ1BkTXNkOGpLY2tpT3JVV083ZFYzS2xqbUNOaDdJc2xHMGJqV1RmdUZ2Nk94QkdFRUZFcnBmaWdyTEVuc0V6Rzc1eDRtZFYtUTVZd0ZNczB6eHppcTY5aV9xUDJjd2x6WHBJQUx0YkJiLTlzLUJhNl9wU3hLeHV2MUtYUWJtY2lDUQ?oc=5",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-09-30T21:11:00+00:00",
-      "score": 57.54,
+      "published_at": "2026-09-30T20:04:00+00:00",
+      "score": 55.96,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -236,9 +386,54 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2pWbWNJaDVWVkhYUk5MNjd4dTN3OXpwY015TkJJRWdiNG4xNzUzREs1Ylc5bFpmeDh4cE1TOFU5ZE1PYXlHOHVsMXZidzgzNTl4MG0tUGxjVmhtZEtVdGRVakJkai11Z0s4alRrTV9ROFFjcVBZd2dkSjUzX2c5QjdudGZzRVpvMXM0RGpXejkteFBGZ0kteVZJeXFOc0VTdmRXWEZxMA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-09-30T02:00:00+00:00",
-      "score": 57.36,
+      "score": 55.09,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9fdea71252017323",
+      "title": "Bolivia, Naciones Unidas y cooperación internacional activan Mesa Sectorial para la Política Antidroga 2026-2030 - Agencia Boliviana de Información",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGdFcWNXdWlaek9xbjZiX0YteU5HMkZNWlVtSEVsb0xWVHZVek9QN29XT1hRTWs0dVY4M0U1dUNPWVVxUlozbGdVNmNZODNOLVA0em9DaTZsNWdVU2VZVFFSVUlkTEc2MUprdGJyWXpnZHFuZ3lTcVBURTVIUWI1c1ZORGdMejRHUTdvQ2YxcmVDbmM2RkxFN0FxM3d1MU5hNmdMWG5mQTc1ZElTVjJBMWJRMHdUNEJpUmxYX3dzZWU5bFRMZ1E?oc=5",
+      "source": "Agencia Boliviana de Información",
+      "published_at": "2026-09-30T22:22:49+00:00",
+      "score": 54.45,
+      "corroborating_sources": [
+        "Agencia Boliviana de Información"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b3f45294ef53c98a",
+      "title": "Si gana las elecciones, Flávio Bolsonaro quiere implantar el modelo de Marco Rubio en la política exterior de Brasil - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMUY3d1V3ZFlMZTJ4VnV4Qkp2VmxHQ3VFMTE2VWhkV1BuQlpXazZoZE51V1JhajlkcGVOSTJmT0FxbXdFcEl6TU1mUG4xQnVwSzNxVE1BcWpLSFFlWDhCWmp5dUM0THJfV0Etc0IyT0FBNGJGd053RXU2RVFyTEVCX09kbmxjN0I1dFM4T01hZXZyT2FOaXZtUnNqbnVXcFZoVFRmZU9mZHV1ZXcycFZtV2IyOTlrRHE0ZGNaYUtKUFh0bWdzNzdXSjBkZFF0N1FkS2xpYnRiak81ZUEtT0M4aDRVcTJGaWVRTlVyZXA5QWlocUdqZHdnWmlhd19CaU0zVzBzZ1piVlhzLWo3VzUw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-09-30T21:11:00+00:00",
+      "score": 53.66,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8e1c21316747447e",
+      "title": "Inside Ken Paxton’s jet-setting lifestyle: California wineries, European hot spots and ski resorts - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNalpGTW8zREwzNmVTNjRvN0o4X2gtMHFUSWJ0bURianBGM01sc0w4SlNBb2I3cE9UNXpSUjZqOWJjOWdEZEZKZmdIeDI0VkRKTno2RHZnVHB4ZlRPT1M4R1F5ckpnSGkzaC0xcy0xa3ZRb19IekdLZ2gtX1gwQnp4Q0txTTZUVXkyci1ZMWZnLUZQTXBXaWNlN2dDLUtvZW1xa25UVmhsNnZRT0MzRG1RZE1BVkt3alAtSjBpSGMxOHlCYmpjQWZDak16YzRjMnNWaDFFTGlheUN1UWNvNU9IMktlRll5UnB1bGh5Tw?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-01T07:27:29+00:00",
+      "score": 53.32,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -251,204 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSURvakZxblBUd2RJVW10MjdrTzhhTzVOT1hoNGlDaVJWbWVESEdMMWU5a2g3VzFMS19wZUZrWFJaT29ja1JlZ3JiTUQwN1diNkJiR1VzUHY4SjFEQm0wQXRxckpNSGxoZ3R2eXdfUXJFd0RlU0l2Sk4zRS1WcTRPeWxQWkVnU2dLS3ZoOG9Yem1mT0tWZDBrNS0yd1h0X1RhNk4tMGkyQXBhUWhXeFdRRUtFOGU5WUlHTmdqMmFxQWphQThkelJ4TnQ1YnpCeS0tZUpaaTNlTXp4TXpnU3VobFBrMjhNQWg0Rmlzcg?oc=5",
       "source": "Mercado e Eventos",
       "published_at": "2026-09-30T20:16:49+00:00",
-      "score": 56.87,
+      "score": 53.09,
       "corroborating_sources": [
         "Mercado e Eventos"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f83264b0b3eadff0",
-      "title": "Jordy e Benedita lideram disputa pelo Senado no RJ, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzJ3YUF0RFpJajlfbGpCSm1faVMteE9XMFFHZnZLMFUyWi1YcEVZRjdyODdqdmNnSFJyb0NOU1pYdG0zSWE3SjA1ZVRvSXlUMm9jSzJnMExkazI1bVg3M3JINnpQSVREUENEcWVlNF9xODBiWEZjMHBNM3RJMzVBUU9MN2oxNFpxNDZwTEVNaEVqcTA2TXhodTdLeFNXeVdHSWVoN1ljRzd2TlB1c3dWNE53?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-30T13:56:33+00:00",
-      "score": 55.61,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "55145743aa759cf4",
-      "title": "EUA deixam o Iraque após 23 anos e saída abre novo capítulo no Oriente Médio - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWFyWWdtRWpBQkhVTGotaGxIX004OEFCVWFpNk8wN1h2WXFlcHlNMVJaNWtUR0laRUJBTERiZWl1TEI0WU1sY0ZoRFRlUElfbVBrUWQ0MVloTHU3NzJnWjlvdWotQ0hMV1NkVjRVNHBZeFRIQS1PMVI1UEdjcFJjc2s0Y2wwWGpJdU91S21LcE5JdF9fcVNmcUE2T0lZdw?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-09-30T15:47:00+00:00",
-      "score": 53.77,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3c5cd3becbbcc063",
-      "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzdlZUFBUVVCb3AyTDdoejY4Skp1ZHIxVUl6dUx2WjBnb1cyTS1JeWFwb2NOZjBPMFB0UXVQbGVpeHpQcVZRMi04WEYtODYyLTVISU5pSHpYSDVYNWhQUUNLLXRVYmduSHNqT0VGeXZFODN2YVgzbVVPOXpLazRWTjA0YmVXNVFNdGlDdWttTXU?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-01T01:11:00+00:00",
-      "score": 52.72,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7e441427f43bf25c",
-      "title": "Flávio critica ligação de Lula para Dino em evento do governo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUREalNCT2JVVjRFTDRFSGl2UGY0QTA4RTRrWHpGRjg1OFFNZ0x0Y2Y0YTg0S2ZaV3prekFyTl9qVkpfb1hIaUJjME5PcUFCbWNYSUE4eE9lbktkZ3EwU05vdXZXZk9XRzFXWXoxMnhkXzQwXzJ3ZlM1TGRIUjlUV1NaU05RazVzR084bUNIU2NNUE9kUS1Wbmp4dXRNb3BQRTM1dHl0eTNTVzJVMUFN?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-30T07:00:17+00:00",
-      "score": 51.73,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "095496edb96bd878",
-      "title": "Caso Nossa Senhora faz Lula levar santa ao palanque após criticar mistura de política com religião - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSF9TZkx4TnlRUmF6NnlUaHFLRm5GVjZkQkVzYzNMcnl1TkFLX19uRVhXVDRtZ3NWb3YxUkEtSnZoYnhUZnN0NlNUd3BsTUc1S2NtV3YxNHRnS2xKeWZIalpuUEdpTkNINmk0Qm1FUHQ3ajZob1dNUzhJMkpaV256c3VVNXhCMmloeUZIQmNqei1wVVQ5THB0dDJhZVJzUTRVOWVkLUhwRHYzZlpBOEZ2aFVCR2V6MGxLa3pERU1neGR0YWZTWHBwajdBeERRVWExTGw1U1dMT25DMTE1am9RWGd3?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-30T07:00:00+00:00",
-      "score": 51.73,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "713eaadb68a5af60",
-      "title": "GOP nominee in Texas privately said Trump’s convention hurt him - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb253dU1UTlVFdFN6MTZ1QlE0WjVpVE8zbFlSenRLX3RiOXY5OUlxa0tZSFMwWWZfZVc5V2VNTVJVaXVmZnluQm44d0tGT2NVU2k4c1dZdTg3NUgtcXNSTWwtODgzeWRxVDNjZDZHN29VVHBFc01wUTZpZVZGa24zTmQtOEFueEdrTnRjaGF1Rlp4QXlWQWlxMUdISXc3bEhsd09ZRnFmLVRSaW9TWE9LMzhtLV9fc1Q3R2JFdDFB?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-30T23:16:52+00:00",
-      "score": 51.17,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e30eef0cd76539bf",
-      "title": "HomePad: o ‘Echo Show da Apple’ ganha possível data de anúncio - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHp5Nm9UaXFwOUVERHhBQnlaVGFlRTE1MnMwamJDRW11LW5odXAyTFJQU2ZPdTBiMTcySVJlaGpZeGdtWVduSWV2WDVwa3RubUNyS0dMZF9XZkE0VHlKVGJvc0FQRm95QUN0NGRYRVRZOFhEdUg0YjhKTWNzZGZtZ0MtdnktaXZ5b2tYd1R5R3hVT2lnUGNUbUs0bmRvZjR0SzY3b1VYeVExa3oza2lIWWJaQzhGV1duVDg3S0pn?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-09-30T19:13:06+00:00",
-      "score": 51.11,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "925b36fcbb31e34d",
-      "title": "No domingo, Flávio acompanha resultado das urnas em Brasília - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHFPaG5LWExHYzY3Y1NNYjZqNWFaV212ZEstcTdTeVIzWTZJS1JVa1I3OW01THVTLTVXWm9NNGM1VmZsRDYzbGIzSjE0cDB5OU16TnZzM0JzUUNkLWFwd1pkbURTTi1md0RoUEtIZk9TUWttOUNQZGxta2Z5RGRUbWxrd1REb3RpZnJzWnZKQURvQTNTOVFhRjFKazhfQzYxLWNvN3oxMVNTWW5L?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-09-30T18:55:51+00:00",
-      "score": 50.9,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a958af0cf3e1e07e",
-      "title": "Entenda a metodologia e como são utilizados os dados do Match Eleitoral - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXJZMjBTNHRBcnpnclFINTJ0Vll4YWh2UXJ4N3dkbURJMFd4S080YjJYRmpfeHlfYm5SMnh6NHMyQ3ZPUDB6TENFRmdveE01bk5UMGJ1MHBtbXQyWUo2NGNlX1RLMFJLNW9XcXo1czc4dXFic1BYX2N5M1VtLXpQX0c3ckpSRnRaM1JQbnR3NmpTaHY0ZEVaSGhVeW1Ldk5TU25oQVc1MmRZUF8yQnp4ZjRBU0YxbDQwWmxvRzFB?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-09-30T15:30:00+00:00",
-      "score": 48.59,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2a2680d2dfdde21b",
-      "title": "Política internacional y geopolítica de Malvinas: el análisis sobre el discurso presidencial en la ONU, el rol de la OTAN y las tensiones en el Cono Sur - Diario San Rafael",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaUhaem9ZYVM1cUNKQ3pKNURUYnY2ejRfWnR4V3F4eGctd1JfUl9CWWV4Skd5all5WTJnWUE4aXdWNlVYeng0cGI1d2c2SnROVkQ3amQtQ0RaVThhTTU5dTNiMTBqc1pvRndUYzBZSDR5c2xUekJ3RTBQTXppWi1yWWQxVl9VTEd0MVhVQzNMbkd0d2JKaEFjMjRzRlNsQVczanI4TmZWR3JLdEdObW1kWFVJUG5JQ0hqcTZUc19iNFFQZjNUdUlqcXkzVTkwb0k0Ynk5ZnRmZXd1V0wycjBTX2RRNTFFcUZXc2V2ZWt1ME10alljbHZUZV8xaFBybkJkMkV0TUNZc0k1c1pqNEdr?oc=5",
-      "source": "Diario San Rafael",
-      "published_at": "2026-09-29T09:06:00+00:00",
-      "score": 48.41,
-      "corroborating_sources": [
-        "Diario San Rafael"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6682f1a39bba235e",
-      "title": "Disputa global por poder, tecnologia e soberania no Janela Internacional - Fundação Perseu Abramo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1Atcmo1M2p1SThVMzc2T21Ud3hBSldKZHpPVkxPUGNISVpRNUlLcy1Vc0k1NkV3ZElxMktQeXlTLVZVekxvRXB1QTJRT0dYSXlnbTdUMjVySVY5ZjNySl9oXy1NemxUb1VCNVNIb2YyRHNxblEwUmptWTFtd25fMThuMjhUdVdiOXpxQWZUZURwMGlKYU1uRDRPTEY?oc=5",
-      "source": "Fundação Perseu Abramo",
-      "published_at": "2026-09-30T19:11:02+00:00",
-      "score": 48.08,
-      "corroborating_sources": [
-        "Fundação Perseu Abramo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "12a8edda04d0e056",
-      "title": "La política exterior gana peso electoral y pierde consensos - Agenda Pública",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTJ2M3dmOFItdVg2VnJYOElwUTZnNzRDTE9fWjB6eURmVUhDdWxPOFB6aDZfYmo3bHJlVlJJdmtsMm5XQl9BbWU1YldxS19xdUxHMXRySTN6eGVfU3dXSXZWb0w2OW1NZ0VzMGRTeGk3MlZUZlJQWHVvdXhLTUtycHhhdzBUcTVmRHM4YmxDZlkzeTg0U2thSg?oc=5",
-      "source": "Agenda Pública",
-      "published_at": "2026-09-30T03:50:00+00:00",
-      "score": 47.19,
-      "corroborating_sources": [
-        "Agenda Pública"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bf4e12d4621709bb",
-      "title": "Derrite e André lideram disputa pelo Senado em SP a cinco dias do primeiro turno - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGxjTnJFaTZVUkpTaWRBdElmVTVkX2lwbnZUb1RRWm04c3JaLS01cU1vTXk1aXI0OUFYYjlDWlpMVkZuaXAxZGNET3hpR2c2Y21LamlvemZycTBxWXNHYUhmaXZEeDBQTG9CX1p6Ty1aVk5IaU5uUWg0V01NbkJzeTk3UzJwUmdFRF9sbEczU2JQLUVWdUsxZHRxYlhPUTNNYlNIVGdsbGo2VFk1cnJTanVwTnh4UXludDc5R1pvMEQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-09-29T19:50:05+00:00",
-      "score": 46.86,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
