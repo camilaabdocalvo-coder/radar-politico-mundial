@@ -1,19 +1,214 @@
 {
-  "generated_at": "2026-10-02T20:47:10.812508+00:00",
-  "next_update_expected_at": "2026-10-03T00:47:10.812508+00:00",
+  "generated_at": "2026-10-03T05:23:29.381815+00:00",
+  "next_update_expected_at": "2026-10-03T09:23:29.381815+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "5a9342eec0ebc5f2",
+      "title": "Eleições RN 2026: candidatos ao Senado - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0RYN25aUk1SY2NYWmFfVWR4d1NzZDJta24tN0VoYUtoR2htbjRMODllYUVQNklaaU9LVU5HVzdkalo3ZXl1YmFpdklMcDQ4TW4zajVSQU9LWjBuNzZLeVJyM0E0c1laWkYyN0F1YXJKUnIyVWJMX0M1RTlyMmUzUTZfSQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-03T03:15:22+00:00",
+      "score": 75.89,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "56f7a0f8217bf5ad",
+      "title": "A política externa de um eventual governo Ronaldo Caiado - ND Mais",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdno4SlkybVdyb1d6aHZINC1MRXhSdkt6ZlFDTXdVY056OGxvV0dLQkdCN2x3ZXJ6UGZzMjdVYzdMU1VHTFJiMG90aTRLY1lQb0NzRTNHdmFrbndSOHVSaTRYdE5zTERBOFVlNlIzeUxSNUFIN3R6WlM5R05LYk92cllRcFJGR1V0dTBVZ1Z3?oc=5",
+      "source": "ND Mais",
+      "published_at": "2026-10-02T20:00:37+00:00",
+      "score": 73.15,
+      "corroborating_sources": [
+        "ND Mais"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "014abe10ce2a1245",
       "title": "A dimensão geopolítica da eleição brasileira - vermelho.org.br",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZk9TSl9mVkROQUEtSzZnWkxXdkRQUXpZRkUxWl9qN21FYUFOS09oV2RyNldGcHpfU1BKcFRrMjJoa2l0S0lyY3dmdWdQZnFBdWg1Tk5laXhHM2JaX0wyd011S05BMkhseXByVHZoc0gyU1poQnZCYno0TlItbWhvVXVn?oc=5",
       "source": "vermelho.org.br",
       "published_at": "2026-10-02T18:52:00+00:00",
-      "score": 81.14,
+      "score": 72.07,
       "corroborating_sources": [
         "vermelho.org.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8fd7d88da99d531b",
+      "title": "Agency diverted $1.4 billion in science funds mandated by Congress - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDkxZnRWTUtQQUpBeUxJRDU2VFhSaUx3N1M0T1d5M3VsREtURDJsdkpuckNJaV9hSlQtZFJ0WWxScEc0SGJnTlZjSDByV3VLQ1k3U256X19BZTI4OWJMS3RVdGQ4MEgySFoxWXB2QU85a1RER3NJUmhkMUZWNHd2SHdWMFdyR2x3NE1TeVpwNnBOMzR4Y3JFNFJkUXV5OTVYYWxSYzUxM2JHT2FUbFVFa2dGMml1OEMtWnVna2RuX1JWUQ?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-02T23:58:58+00:00",
+      "score": 69.2,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81a31717e5aa229b",
+      "title": "Real Time Big Data divulga pesquisa para governo e Senado na Paraíba - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlNSU001OHZsVjNWTnZMcTV0T3o5dm1rY0ItMDV1UkFqWDJtU2dHTzBvcFI4REl3SjVTYVlZTTZiZjZsakRid0xVYi1NYlpTblNvVDlsaXh1eDZoT1BvX2dnMjV2djhtTzdVR3kxZjdqNjVCRDJFaXRMUkx0M1I5UDRZbkxnODV2WnZxaEJ3RVRGTXZINmhpOEhCMzFJN3FGQUNjUDktQm1sR29mb2c4ajZiSlQ5bVpteEhrUEN0WkxLNkFZZ3NGdg?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "score": 67.74,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "22380c1dd32563ae",
+      "title": "Nikolas Ferreira usa meme para ironizar crítica de Janja a ele - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2I4MGVzTVhIaGVBVDg3ZkJhNjdEUVJIYXBNN1VXV0JsMHl0eDVuSllUT055NWlOMkwtVTJXdWlvM0Z6aFh6THRpd2tzNU9qdmUtUUxEWGlmQ2ZpSGUzQktxUUMwVjVqVnJsVEpCa0xydHd1NDhQbUxkY2FKNXk1UW8xZWhLamZGNmNsbTlvaXNEWFBDMUtQbkhkX2w3QnZXWnc3T2l3bktIQW13RV82Ug?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-03T02:58:19+00:00",
+      "score": 67.55,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bf19b902c918b873",
+      "title": "Think Tank Director Reevaluates European Foreign Policy After US, China Threats - The Hoya",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbW9Hdk5LeV9ZcmdpZHFVMWQ5dFQ3YVBNZWpKcnd3dUJGbVZEYWdJcnFqNTdRZFlmZWZad0F0R2NEbWtscDRmTVlUa0pvZFBTazJQaUEtbzVZSWVNcFVxTElObEVQa1hnLURtcTY5ZFRhZlZXOGs2ZzFXVlF4TUs1Tkg4TW9TcTRRNy1Qc3pZbnh3MndQa1p6bVVCNU5zRWtnOHNwQWFuSQ?oc=5",
+      "source": "The Hoya",
+      "published_at": "2026-10-02T22:24:04+00:00",
+      "score": 67.53,
+      "corroborating_sources": [
+        "The Hoya"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a34e083af55b6699",
+      "title": "La paz más allá de la disuasión - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXRsRVZ4ODN1Zi1XVkRwUldETXFEQmRIcm5MY1I5bS1YWFQ2LWZBWDBFUVkyZGtQUmwwNkJGOHVVMi1WSmsyNENXdTVwZ1JyQmpXNVBTTnlPTndhbGwtUmV0ODNQV0Q3d3JXaWx2ekhuYTJtZUZwNUI5WXhqNW5yTU10VENkZDJ0QlFkZDhQbTRUQW5ISWk00gGcAUFVX3lxTFBmS3RFMnlMLXUzUXRxTlp6dTZFU3ZLWGYwbTdEMmtOMXdPUjA4R0J4aVlCZEdJMzFFclFhaUVfRlgxX3FnZmNCeUVNY3JzRWRyMkJVZ3ppRVY2di16UUVialFXZE56ME4yWGNlUElkclNpRFR2VkZGNnlzakJVQlVXMHBaemUycjVWQ2lEamRockhjNVk5Z2NXRVRpQw?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-10-03T04:45:06+00:00",
+      "score": 66.68,
+      "corroborating_sources": [
+        "Perfil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c992e91c2c3f10e5",
+      "title": "Trump plans sanctions against ‘evil’ International Criminal Court - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzJBdEdmQWNnT29HVWJTOU9LVVctekxDV0VWbjZvV0o1cFVTT3FyRFhPSzVCRjZFbTZOOXpERGh5bko5ek12dXcwMEpyb1pybUZFd0lYZVJpZV94TEpwX0FHTm5lYmtyTm1aU2lZekxrbURsTng3bzRseUt0Ym1MZGRMd3NqMXhrbVdPYUl3NGVzR3Y4aTVDR19NM05LR1NheDNHTFlJOERySGtFLWhWU2RoS0tpUWlOUlE?oc=5",
+      "source": "The Times",
+      "published_at": "2026-10-02T20:20:52+00:00",
+      "score": 65.48,
+      "corroborating_sources": [
+        "The Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9e2af931350ab44a",
+      "title": "Folha atribui fechamento de consulados dos EUA a ameaça - Blog do Esmael",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14UHpScW5Tcl9mZ0REckhTZC1fT04zTEFhMkNlc0tHSHcwYkRDYVZRODNNTG4xdGd0dTlxQmRDTzZXRUFEMWExYWpUMzM4NERWcDJmN1FJTHZfOHVMaTBuRWllSHJJbFdWTnRUUHlUTU9sV2xpc2M4c0FSRQ?oc=5",
+      "source": "Blog do Esmael",
+      "published_at": "2026-10-03T00:33:43+00:00",
+      "score": 64.83,
+      "corroborating_sources": [
+        "Blog do Esmael"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "14c07cdca660c11a",
+      "title": "Brent crude and politics of pump: Fuel prices take centre stage in US midterms - WION",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTU5eDRHVW91VUdnbVBsd0RFcldmdjVQSGJYdG1XejFtS19rUWFvMEV1VnB4ZDkwanFQekJTTlV5NDdEUlhlb0lWRVNORXgzcWxIaU9sdGFzeDFTbmhycjlNZno0SlNNdjVFeDVwQ2RPdy1mQXRQcHNYZ25UZlFqZ1JXUzZUcENyT0VZcGdiMWZVcTJOa2N6Y1pPOU1kOTBqdm42cWstWVpmc0hUdjRmZEFKYjl4eUVtSXVsTUdR0gHDAUFVX3lxTE52LUlvUHFGLVRyal9Dd18zM2p4VG5EUlh4aG53bVBlc295SFdEdnZ3bW41c0FGQXlRWW91OWhVZTJVbVdnN3I3N09sSWkxWnR4V2F5eHh5ZzVrZlFqZ3hzQXRjZlhWbXViVFpOamt5cU5RbTdGV0hyTlV0MF9DS3ZZeEYxcXgtYy1NRmVYcl9lQ0RBdjdqYkkzdDZZLUR4Sm9fMk9tWF9LdHN0V2dOUGtjRjUtYzFPeEJhX1R1OU9wQ3g4bw?oc=5",
+      "source": "WION",
+      "published_at": "2026-10-02T19:18:00+00:00",
+      "score": 64.48,
+      "corroborating_sources": [
+        "WION"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d2539da90de94cd8",
+      "title": "Ascanio Cavallo y la adhesión de Chile al Escudo de las Américas de Trump: “El presidente Kast y su canciller no entienden mucho de política mundial” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb1Q2SjB1bTdiNVhWR0E0S1JLOHpNTFMwdkFrWjFzOFkxdEQ0ajUwcnNud29RVVZ3ZG1Dd1puOF9HejA3bGRjNHpYTnNRNk1OOUNnbzZzRFMwXzMxanR4LTY0bXZmQ3Jpcm9mYWNVQ0R4dzdkWEhuY0pBbFBBczNQa3RXcHR6WG1UVnNOd1JMNzFadGo0aTRNcDBJdi1vVlM5TmdqZWZwY0REbjZJRXA0aEJpUEtubXAzaUJFUmxjUm1oMXFpdFpwY3NsWUZ2M0hNUi1vSlE2Q3JjUWtXUDVPTmU5UFF1RkdtSG1sN01melpLUDV0R21uVEpxQmdTNmhiSWY4b3RjQkNfREd0VElDc08wN3RuUdIBqgJBVV95cUxNa3JRSTFFMzV3UU5QNHo1bzFLeWVTZU0tRjE3NHp4X3E2b0xvcVhzWUJJbnJfekVEWGtvMEFIQ1IwRzV2MEdsYmZ1cHA0OWlnNG0td2ZpYzlVSG9ZX1FBNTdSRERYR3RSdV9uOWhVRFVQTm1xd3hmQko4MHVPOThpamFweDFuZXlydHRSd0V3cXlJSUlBNFZxSUR5a05qSk85d2xDYUJ4Nm4zQVZtdlFvOHRvcTNhMmFxVDM0SFBsNEpKbFdfbVlVOUxPNUI3MldzaGxINHk4VEl1MTJaT0J4Tm1Tb0ZrUFktRXFJQ0FLbTZZaDlKS1BmbTByQlZubHE2M19aUHdDc3RaYmhhX01oLV9zZHlrRnNVdUI1SThOX2VzMUJuSlpVM3Bn?oc=5",
+      "source": "EL PAÍS",
+      "published_at": "2026-10-02T09:30:00+00:00",
+      "score": 64.37,
+      "corroborating_sources": [
+        "EL PAÍS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "04f0d9d54b3cc4ca",
+      "title": "Países alertam cidadãos sobre \"riscos\" nas eleições do Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNblFrc3JIRjd4aVN6cGFJTEVnNkk0Y1RzU0pmczlmMldGZ19GNXl3dWI2VGhXbTZmMzZ6WEhBa2xqRHNVbVF2cWlacGpYNV81RHNMZDBENVFzQTN5MzdXb0lINmQ2T1RxYlVtRE1icGZoZVZvZHc1a1hWbkpldW81RlY0MmFVVGRPbDFydjB1ZU1KY0x0SXpkQUp1RFFsWFBSY1E?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-02T23:53:40+00:00",
+      "score": 64.1,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0d57dd66b39a50ff",
+      "title": "Presidente:”Debemos llevar a cabo nuestra política exterior de manera que nadie interfiera en nuestros asuntos” - azertag.az",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbjgxM0ZlUnBHa2oxSDJtV2ZCd0xqY3Btb0VXb2RNYlU3TDd0Z2dxY2duTUJOMmJUR0pVczJYSUhrZUdQd2JldllSaS01RzlGZG5YRktXZWRmS19HTHY2S29Jcm8yQTNaUTY3eVBPU3kzZjRHSHdRUmRGdDlnN1pwRURiNDV0Yi11cTRaU2pQbWY4Ni1RMFRsYmhueXV6NWp6VVBtMjZXNlpvOTNuRTZmY0ozdWxpcEd4UVJjVEVEM1pDLVdHZzRYYWRsX0dQV2ZxY3lDN0R0WmMtdFE?oc=5",
+      "source": "azertag.az",
+      "published_at": "2026-10-02T08:03:00+00:00",
+      "score": 63.35,
+      "corroborating_sources": [
+        "azertag.az"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdlo2c2NUZGZueFFnbjFZQVllYkplWWZjYmVLQ0VacFFyaDUzeXo5LWxhV29LWWxqakN2YUd6aFJSRVNPLUtJeWFlUnJOdXJCMm1aUUw2NVJyQTJGX0hZV2tMZnloc2ZSTThxYlktSkJPRHBrTFphZmhKaVpPTmppV3Fsc1J5aUVJMzZwWnlKTEc3NGt2c1RCQXo4WWRYVVZkRFVqM1ZfS3F2Q1pxUk1lUFRpeE9Wd1RmcEtxckU1VTF2cThlaDlZcWJORVZhcXUxa2ZSdUZWQkZlbFhSbHVwTnd4NTcwc2NxV0Fkd21COVE3Y05yMzFlN2xlbWNCQlRDbDVwMExzSDl6VXhOV1Nv?oc=5",
       "source": "El Nacional",
       "published_at": "2026-10-02T17:51:57+00:00",
-      "score": 71.97,
+      "score": 63.15,
       "corroborating_sources": [
         "El Nacional"
       ],
@@ -41,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVTI0SEZCTF9SdUlCQ2IxdFZ0VHhMRHI2SVhnRmhLQlowYTdKWXlzUF9jME1FYWxWRFYxRmNPQlgzeXZxQmd3MDdHM3NjVHNsNUo1MXM2ZFl3ejdkT1QtUDdpLUh6ZmxhTnFQcjM0N3V1M0JIaDVQOUV1OG9YZzVyOFRmVklPVlRQaXB4UTl3T1BXRkl4MVlFRlRkdzh4RXpyLWtBc2tOcGw2VHl1Y1ZmenpQUG9rZ0FtQTVVNjJER2ZwMWtpUWx0WVVKQWp4MkpUT09GalhMdw?oc=5",
       "source": "El Nacional",
       "published_at": "2026-10-02T17:51:57+00:00",
-      "score": 71.97,
+      "score": 63.15,
       "corroborating_sources": [
         "El Nacional"
       ],
@@ -51,14 +246,29 @@
       }
     },
     {
-      "id": "d2539da90de94cd8",
-      "title": "Ascanio Cavallo y la adhesión de Chile al Escudo de las Américas de Trump: “El presidente Kast y su canciller no entienden mucho de política mundial” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb1Q2SjB1bTdiNVhWR0E0S1JLOHpNTFMwdkFrWjFzOFkxdEQ0ajUwcnNud29RVVZ3ZG1Dd1puOF9HejA3bGRjNHpYTnNRNk1OOUNnbzZzRFMwXzMxanR4LTY0bXZmQ3Jpcm9mYWNVQ0R4dzdkWEhuY0pBbFBBczNQa3RXcHR6WG1UVnNOd1JMNzFadGo0aTRNcDBJdi1vVlM5TmdqZWZwY0REbjZJRXA0aEJpUEtubXAzaUJFUmxjUm1oMXFpdFpwY3NsWUZ2M0hNUi1vSlE2Q3JjUWtXUDVPTmU5UFF1RkdtSG1sN01melpLUDV0R21uVEpxQmdTNmhiSWY4b3RjQkNfREd0VElDc08wN3RuUdIBqgJBVV95cUxNa3JRSTFFMzV3UU5QNHo1bzFLeWVTZU0tRjE3NHp4X3E2b0xvcVhzWUJJbnJfekVEWGtvMEFIQ1IwRzV2MEdsYmZ1cHA0OWlnNG0td2ZpYzlVSG9ZX1FBNTdSRERYR3RSdV9uOWhVRFVQTm1xd3hmQko4MHVPOThpamFweDFuZXlydHRSd0V3cXlJSUlBNFZxSUR5a05qSk85d2xDYUJ4Nm4zQVZtdlFvOHRvcTNhMmFxVDM0SFBsNEpKbFdfbVlVOUxPNUI3MldzaGxINHk4VEl1MTJaT0J4Tm1Tb0ZrUFktRXFJQ0FLbTZZaDlKS1BmbTByQlZubHE2M19aUHdDc3RaYmhhX01oLV9zZHlrRnNVdUI1SThOX2VzMUJuSlpVM3Bn?oc=5",
-      "source": "EL PAÍS",
-      "published_at": "2026-10-02T09:30:00+00:00",
-      "score": 71.37,
+      "id": "09baf2226c1a8a94",
+      "title": "Lula anuncia “documentário” contra Flávio Bolsonaro - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWVd6YnhFaDJPVEpOdGJnQzRhMm8yT3kxRTJRSGNGcXcyYVRRQTU5MUxKeFQyQTBPQnNlVHJzaG5FQllPMXZXSVllY2x4S3VsMVpIU3hOekRpaEFmRE05Q3JPYXhBNVgtbk9KN0plZ1Rsb0NUN1F0OVhPaVZZZG5IRUxGSzdqX0RsYVo1UjZZZHJhQnRwNS1B?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-02T22:36:18+00:00",
+      "score": 62.75,
       "corroborating_sources": [
-        "EL PAÍS"
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2b3f52802939f1c4",
+      "title": "Conheça José do Patrocínio: o jornalista que lutou contra a escravidão - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlY2QkFiWENaV00zekd3UzJJby1SQzlfWHVrLWtVSU5ra2FXS050MWVyWUpqWGNMbGNrbHRkV1ZJWmdVV3BxOERaSTRGcVpjUzRYazBNVGtEMHZfTWw1dnFYYUdnZFFiVFVQUFpiVF91RGFDdktHOXM3dEZzVWw1b01fMFFWWUh1VDM3UU9pWDBTZXppMTNra1YzeG5FT0hyMU56ZDFFQUJIeXFndTZKVQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-02T22:11:06+00:00",
+      "score": 62.31,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFFVSFJFbFVra0MyeFJ5TWdXY0NFZWRVYXdVczctdHcwS3puQ0N0dFFSMllfbG9FQThuZDZhMGVTMTN2YzJlRFRXQUhtNjBhWFI2VktONzRsbVJKTXFKcmRHUVlscGdtNlhLMktBQWdHVE1aTGxSQWgtQzFGMVZwc3VXcVFsZXl6N2RIZEFnT2ROWDRJR2JrTk1PSU85eGNHZlhuRG1nMG84cVFxdGowdDhlNWpMT1BybFdMUW9HMlNIZmp6aUc2c3dwZTdTb1pscmxIMHF4aXl3N0Y4M1E?oc=5",
       "source": "El Eco",
       "published_at": "2026-10-02T16:51:33+00:00",
-      "score": 70.83,
+      "score": 62.25,
       "corroborating_sources": [
         "El Eco"
       ],
@@ -81,14 +291,14 @@
       }
     },
     {
-      "id": "d0d9a4c1516663e5",
-      "title": "Presidente:”Debemos llevar a cabo nuestra política exterior de manera que nadie interfiera en nuestros asuntos” - AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbjgxM0ZlUnBHa2oxSDJtV2ZCd0xqY3Btb0VXb2RNYlU3TDd0Z2dxY2duTUJOMmJUR0pVczJYSUhrZUdQd2JldllSaS01RzlGZG5YRktXZWRmS19HTHY2S29Jcm8yQTNaUTY3eVBPU3kzZjRHSHdRUmRGdDlnN1pwRURiNDV0Yi11cTRaU2pQbWY4Ni1RMFRsYmhueXV6NWp6VVBtMjZXNlpvOTNuRTZmY0ozdWxpcEd4UVJjVEVEM1pDLVdHZzRYYWRsX0dQV2ZxY3lDN0R0WmMtdFE?oc=5",
-      "source": "AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi",
-      "published_at": "2026-10-02T08:03:00+00:00",
-      "score": 70.07,
+      "id": "e17977b435b0b0f3",
+      "title": "FBI monitorou planos contra a embaixada dos EUA no Brasil, segundo jornal - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkFHNTdteDZTM1U1MV9uSG8yZkpHd3psZ0xYV3VzcEhCaDZHakt2bm85UjZteEJNT0N6NEh1TElnVkllSDRGdFpwX2R6M0pSNmlSQ2ZVYTdmTjd6TFdORHJpU3hOQ0RaR3JzUHptYXZpQXQ1a2tDTVRtU1Q4VlhxYXBrQy1XcEt6Q0QyLTdmQnBIUXpo?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-02T21:36:17+00:00",
+      "score": 61.72,
       "corroborating_sources": [
-        "AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -96,27 +306,42 @@
       }
     },
     {
-      "id": "8c9b949ad9e7b064",
-      "title": "Marruecos debe cambiar su actitud política y social a nivel nacional e internacional - Lancelot Digital",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWlpxbWJpY19jSzY3NV9YS1ZuaVNVWEdOaTBETkVFazhlbkZVSnBhb0RlOVVNcll3X1UxVURCcHJTc1ZpZHM5Z2l0M0NKdTU0TTA3d2FwMGFrcG4xaTc4cWRZX09LZE9ralVRcmFjN25oa0Z2Q1NBNmpLcEQ3M0tHU2VwWHNnRUZPV2laRG5oR3pnaHduOEM5WVRCQUpjV0JhOHI1UFZ0a0ctWFlkRk9NRWNubDE3Qm02UWdoOGwteDVCdw?oc=5",
-      "source": "Lancelot Digital",
-      "published_at": "2026-10-02T13:32:05+00:00",
-      "score": 67.27,
-      "corroborating_sources": [
-        "Lancelot Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "eda94d943a290346",
-      "title": "Saiba o que candidatos podem fazer até a véspera da eleição - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN0RmQnJINzZfMVJNdG1tUXVYRW4ydTZUbGtXSHBKWVZERGlBUHhKbExFVTFXdm9pSGRBdDhPRjQtZ3p0WjIxV1FZRV9SZkVEelRaQ2V6WWpTZkU1VjBMeXIxbWhCVEFLM3JYRkpFMmJzUmxmTmp4T2xjQmlnaG5zRzFwcGlReGZzYlQtLWU1ZkI3ZXo0WXJIMG96Z0x4MmZUSEUydVl2VGgzcmU3?oc=5",
+      "id": "ebb23bde3c197fff",
+      "title": "Marina JHC, Renan e Lira empatam na corrida ao Senado em AL - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON25faGlJWUtmMDVJMlNqY3VqRTZZbVh5QUNEVFlkNHVvVEExUmZ2RHhiLVA4RTA2QUFZQUNsc0h4MGRzdW9KWmlHNlBJR21jQ0FjMzEzbWJpRVJhVGpoZWRVZHdpYW51aDZlTGE2c2RZS1p0eUFPdE1wMGxLYl9SemktOEU1dHVwMDlPWE81T1JFUC10ajJzR1NaM1dLaGs0ZjkxZHZFekRlUFZCZ2c?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-02T09:22:27+00:00",
-      "score": 66.25,
+      "published_at": "2026-10-02T12:22:42+00:00",
+      "score": 61.53,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "161db9d64985e28a",
+      "title": "Lula recua sobre limitar número de cartões de crédito e fala em proibir envio sem solicitação - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVhpYWNGU21fbHR0ckhtMUltb1R4WHEyTFVkdlB0WUV5b2REaWVzblJMcnBhSi1sc2M0VlU1V2xIaGRFbzBLVE1TVXYzRnNvV3BETUthLUtSY2RMbVQ5SUFWTjVRRVBxQTluLTMzMjN2S1c3ZGZFdkJsenpsMkhubUpxQ2JoNG11czFBZmlUVGlvZDJzRTdSYlhtWEc0SWZoRWhlTkotZnZyd3JDSTU1eFhJTWpLcF9uVzR1WVdKSWVOTnlfdVB6R0ZR0gHPAUFVX3lxTE5qLWhKQngzM3EzMnBHV0pOQXF6cjBKcUZ0SFJtcEk3NTllVURHcFhwUWxsX1kxQ3pZZFdSU2FXbmlvd2ctSTRHZEgwV3RjSmdxR2ZEdWRwdzJocW1mb1RrZW45aHdjRlVCZzI3WlhfVTByVkRwaUhmMUEtX3kzZjJNdjJRU1d5VVE5ejJoNnZnN1lxNi1oRVBsWm8yMW9kZzY2Yzk4d3lrNUc1a1g0ZktZTGZFOUxjbWx5b0VLWXkyamlfMDhZWEtfUm9ZTnBzYw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-02T21:02:00+00:00",
+      "score": 61.15,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dfff29715f2b2b31",
+      "title": "Ao vivo: Flávio Bolsonaro participa de bloquinho de Nikolas em MG - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHhvaHd4LVFUcjRjdS1tUW0yQVNZZ2ZPTWZMdGhDTGlWb3ZBRDBQQnFScFFBeHZRMTlOTTkxakp6R2hzWnFZblFOZnFRVFFuVnZOdFJpWmxSN3R0NzVDWFBvLXRyamprbUJrczdyV3Bxa25wbVpkNWd4R2xkTDdiVFJyZ3ZOek5qUDNQNGdPUkRSbEx3Vk8wN2FGMm0yRTQ3QjV0Z0daNjNqNFdseXZiZ0hZWQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-02T20:52:47+00:00",
+      "score": 61.0,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -131,9 +356,39 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU2ZMSF9iLTd5dmVCLXhqTElEdlhXekh2UEhJYjZSSDYyWlVhbmw0cEtrSVZyRC1qNENNUGthbEJIWEJpUnp4Tm9pTWxpMHF6Wjc5ejBmbW50ZXQyWXZmQ01LNzBPNjVjY1VTN3JYZTFLakFQbkdNUUZ0OEZJMnlaZFprRDFxUTR0UENLSXpXT1Zma0R1UzdKa0toWExjcEd3VzFyem9uckxrYUVVMDZjNl9iNVBiSmpVTHpjaWc5ZkxfRU1xaFo1eXZISmxtVkN5Zzd30gHYAUFVX3lxTFBpR244dUhpUzM2U0x4WFduaGtOUGtZVVQ4a21VX2tFcnRKYzVybks3ck1pa2hPVXVfRlQ0Nm5JdUpvZVYtWndqV2RSekw1Vk1CS0V2V285eS1YQUFXQTl0ZDFGaDhKSDVrdDBuSmp2a1N0clZabXpYMExuMVNkajhPT1ZvMUZleXNXZUZydXJPa3ZGV19jaVpIbjNyWEMwSHo2Q1IxaHJoUGdKb3dGdE10N3pDZWVVMkNIUHcxUE5VMGd4OC1CX3hicnFKTlp1MWZ0cWtob1JJOA?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-01T22:17:00+00:00",
-      "score": 65.56,
+      "score": 60.44,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8c9b949ad9e7b064",
+      "title": "Marruecos debe cambiar su actitud política y social a nivel nacional e internacional - Lancelot Digital",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWlpxbWJpY19jSzY3NV9YS1ZuaVNVWEdOaTBETkVFazhlbkZVSnBhb0RlOVVNcll3X1UxVURCcHJTc1ZpZHM5Z2l0M0NKdTU0TTA3d2FwMGFrcG4xaTc4cWRZX09LZE9ralVRcmFjN25oa0Z2Q1NBNmpLcEQ3M0tHU2VwWHNnRUZPV2laRG5oR3pnaHduOEM5WVRCQUpjV0JhOHI1UFZ0a0ctWFlkRk9NRWNubDE3Qm02UWdoOGwteDVCdw?oc=5",
+      "source": "Lancelot Digital",
+      "published_at": "2026-10-02T13:32:05+00:00",
+      "score": 59.44,
+      "corroborating_sources": [
+        "Lancelot Digital"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "eda94d943a290346",
+      "title": "Saiba o que candidatos podem fazer até a véspera da eleição - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN0RmQnJINzZfMVJNdG1tUXVYRW4ydTZUbGtXSHBKWVZERGlBUHhKbExFVTFXdm9pSGRBdDhPRjQtZ3p0WjIxV1FZRV9SZkVEelRaQ2V6WWpTZkU1VjBMeXIxbWhCVEFLM3JYRkpFMmJzUmxmTmp4T2xjQmlnaG5zRzFwcGlReGZzYlQtLWU1ZkI3ZXo0WXJIMG96Z0x4MmZUSEUydVl2VGgzcmU3?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-02T09:22:27+00:00",
+      "score": 59.28,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -146,144 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdW5qX0NROUJuaFpUUU9PQUVISkhQellTMHZkZDVsWnVkdWhFNi1tZ1BnWnE3Y2VnZ19GUmlTYlRQN0N1NWlVQWJRWTFoY3B5elM5T3c1eGFqSmdfMVZFbl9oQm9QYzR0VnctVVVfZk9fMzQzemVkdXhKamtibXBzdlM0MUxkWVBmcGhtVm9tS21MSkU0NTEyTVc2MGlOU0I2UHlYMUVGV3JYdlR3ZllWMlVKTUhpWlNnTGxzbmRZdDdDVlFDWkx4UnhuTnNYbXJVbnZwNmN6Y2lVT184VExEWE9mbzhraE1XakNoMXpfWXJTenkweVVKN3lod1pTclVIdDRVODBR?oc=5",
       "source": "El Nacional",
       "published_at": "2026-10-02T11:36:06+00:00",
-      "score": 65.34,
+      "score": 57.93,
       "corroborating_sources": [
         "El Nacional"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a372fa822295cd3a",
-      "title": "Ingerência explícita dos EUA no Brasil reflete a erosão do poderio de Washington, apontam analistas - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTTBKOHlxbjl0bUhlS3NMWEgwM1RYMEd1WjRxNi1yNGRuelB0UnlTbkxsd1V3eUlIN1Z5Y3Q3WXVVMVNYZnJSX1AxSnF4X2gyY3hMRnFrZEFhVUxGNW85ejFhSkI2c1VTd0EzMmIyVWtyb2NsMkgzRmxuUjdMbWxkMzlmNFhvOHJ3M3VFZDhTMjJNVnNtcEx0dUgwMldvT1NNaTNZVWpfR1lYWndUWEREQXpJYkVhQWtvZVQ5a01CXzZ0UnU1UUxDcHNhenpYOTBBUzg3UXoxM0lSczRxS05YNzBKYk9JRF9FN1hpbzNR?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-10-02T19:00:00+00:00",
-      "score": 65.3,
-      "corroborating_sources": [
-        "Tribuna do Sertão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3b1b216812ee73d8",
-      "title": "Brasil investiga alerta de segurança envolvendo embaixadas de EUA e Austrália – Leonardo Sobreira - Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUYtb19YeVUtVTRMQXlCODU5LVlZSlVjZmEyYVM5OTZaSXNQRXc0QVVxWDJoWE1ZbXpTZkduVjRzQ01udUxhaUhZOHF5bXNkOVkxZ043dXN3Zk05Z3lnQlpqRTJDejRoVTVGR2dobmRiQnBNU0dwSTBoRTkxY3FxMVBJS0JXR3I0TUF1ZlVvZWtOT2U5ckRrREs4dGJ0UlVWMzBuWENWTXZWZXRrQ1E?oc=5",
-      "source": "Brasil 247",
-      "published_at": "2026-10-02T18:50:00+00:00",
-      "score": 65.1,
-      "corroborating_sources": [
-        "Brasil 247"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3c7429ed9a3eedf3",
-      "title": "OpenAI disclose another hack on government department in Australia - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-10-02T10:00:00+00:00",
-      "score": 63.83,
-      "corroborating_sources": [
-        "The Guardian"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8dabe141642c994a",
-      "title": "“Vamos proibir bancos de dar mais que 1 cartão\" por pessoa, diz Lula - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGMyVzhHcnFLZjZUazhSdVlyUmpSNGRpY1ZQVTdibUtaNXRSaV96NmxYMWlTQW1RWkRkZUpjYkV4ZkVlR20xVTl5RTZUYnFNcGdJOXlJM255YzhDeWlKSnhMUjlEOWpsb3JWUjFUeE11dUYxLXpmenNXdUdIenNaZ0RET1l1N1pFaDRHaUwxaXNhS01NWV82ZDRIczFZTVgwNWttRDhtWTFtblkwcXo3OVVjZE0?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-02T14:59:06+00:00",
-      "score": 63.78,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ca152baac373e630",
-      "title": "El chatbot de IA de Musk, Grok, supuestamente alentó a Trump a capturar al presidente de Venezuela - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzZYM1ZENkZHdV94MV80UmFPM2o4Q2QteUVDeEV0QzMxZEpFSGd3dFl2WDJoWkhGYkVHd05MYzY3T0hHbENuQzBJeGgwOUJ2QmtkR2R5V2l3LWEyOEdkVWZZcHVvbk5QNlk3dGR6NURuSF9VTWhXVllrZUU1ME9QdU9BaWJMblE5bDYycUdfaDJ2emZndmNwbUNIV0Jjbkp6SUVxTm90a2pDZ2dYaTlBMl9jWWJ4bHllMVFxeWIwUkVGbjVEVWJMYlZqSEdHbVVtT0dzaG1tdm43clRqbWd30gHkAUFVX3lxTFAxOWdlY2ZfQjVhc25janJFYkFyNXp1OHpYQkdKUHNhQzhpZFJHdVpmNldyYndrT1pReHU2Q3c1WVd2TW9Ga0t4TXpEZG0tejd1QUptVFdmUUJBSzd0U1FaZmdoOUxOYTR0dGhuVFUtU0dXT2tSRWdLTDZaTm9SQTZlc3BtQkVRZFZLeXpldTl5Uk5YTlhTcGFnYkVNOWlzQ0hQbE1Fa3JCcjQ1OXRvcjlDYnVXTXpyazIxS0M0NEYtOTBQcXJRdmZWYmZBZ3FaNFM0T3RTcTN4bUlXUWlyU2JWRGF2QQ?oc=5",
-      "source": "Cadena 3 Argentina",
-      "published_at": "2026-10-02T09:11:15+00:00",
-      "score": 63.08,
-      "corroborating_sources": [
-        "Cadena 3 Argentina"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fc588c5144f069b9",
-      "title": "When the Exception Becomes the Rule in World Politics - The Good Men Project",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanRQblBmQ1ZyVEl5bnJXcnlzVlB1WEN0QXJBOVdEX0d5MzNYdFRxTDVxZnY5dnJFcHptR3dMa3BHcjFudXVadGFkS2VkVDZ1aVhCYURQb3FqQmM3T1ZMbDloNEctZlNXSmk2aWJUTzRCc000Yzh5bFBIcE9qcGszUnpNOHRWS0VtZ05qVV9FbV9TcGVQUzZNc0xCSEprVXM?oc=5",
-      "source": "The Good Men Project",
-      "published_at": "2026-10-02T08:46:38+00:00",
-      "score": 62.71,
-      "corroborating_sources": [
-        "The Good Men Project"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "410712d7828f8d47",
-      "title": "¿A quién le interesa acabar con la ONU? - semanariovoz.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDZTBhM0FFU19YajdBeVJrTlFaNFBDZHN2c2tXWXV5MWJZZVdBM3B1Mi1NbGZWTFVReTFpbjl0MmN2aXB4N2dVaWtmdmNuQ21vU0U1SmpsVkoxVWN1cnVoMXotY2xaRUpFeXJhUlJVYTI?oc=5",
-      "source": "semanariovoz.com",
-      "published_at": "2026-10-02T16:41:15+00:00",
-      "score": 62.63,
-      "corroborating_sources": [
-        "semanariovoz.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "aa07285cb04edfca",
-      "title": "A dois dias das eleições, EUA e Austrália fecham embaixadas por questões de segurança - brasilparalelo.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGNackhFckp3MnBMQjRqckxQbm5qa0hFWkRNaE5HNGVHbHRhVXR2Z0c3R2kzaUhzaWFqQU5BRmJyMTRfZDhONmppSzJRWDBLaDY0dTNyQTgyQ0Y2bWkxOG1kVXhsVzlqREVXVElTYXZYVWRoTjBUcUZENnVWVlFUejlkZGpsajQxQVBjYnl4NDZwNXc5SlRVVmdGUDdFb2hGVzNkcw?oc=5",
-      "source": "brasilparalelo.com.br",
-      "published_at": "2026-10-02T13:36:14+00:00",
-      "score": 62.34,
-      "corroborating_sources": [
-        "brasilparalelo.com.br"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "474dd9dd0dfe81e1",
-      "title": "Reportagem do Estadão Verifica é finalista do Prêmio Cláudio Weber Abramo de Jornalismo de Dados - Terra",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWVVLMEdrTFJYRHo1OFBIcDdaaENlOUo5bldXTFRONmI5Y0RaY1FCOXNYbmgxU2RmY0lvTHdkcGJoS0JzalljdlVWQzdSdjFYNU95VWRXb3g3eS1RZ29yVjA2c05qXzZveWFjU1FZMkFjMm9fRG90YUpjZW1nRUcteE5yN1ltUi13N1JDRGF5NlRSZmVSTGRGM0ZqdFFjVlVJZGNXLVRwVDBtUDYxdVA4NUlwMVdOcUxpS2trZmFXVnFWMzFUSXcxMVNmZ3pQT3Y4Y1paM0RPMmlqUU1EcVJIRmc1dG1ZWlp1NGtiWHRwS3ZYeG9FVjh2SzRfOUVpYWJKOEZLQmNHbzRlUUJFZjhiTlkxV2lCekxtY0JhTg?oc=5",
-      "source": "Terra",
-      "published_at": "2026-10-02T13:27:00+00:00",
-      "score": 62.18,
-      "corroborating_sources": [
-        "Terra"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeFgyUUZaQTZjb3hkQnJNdXl1ZDMxeDNxN0FxNXBHZlZFc09hYUtKSnExRU9pdWpuTHNVQzBrWU13RzF4WUZVS09vN3dUcklKQXgxUG45TTdDNmlQYlZ4b3phRWlzMDdpWEpsZ1JVSkVJcDgyRXlRNXBYbHZhal9uX1N3cmF2WE1mSV9uWUVwSzdKV3ZmVkJIeEJCYzdmSktlR1F6c2VxbnJBU3RjZFUyMFh5aWV4bTRiYzNxT3dmU2k2Rm80c2hIcU5DMTM5UkZuZ0dsYk5oaldzSEJieGx4SHNn0gHnAUFVX3lxTE95R1A3Q1BfbUtYeldzSk5pVjhFYXR0S0xjQWFvT2NYam5VQk9ZWS10Ym5mUWVxdDNUbWV6a3hManZXRndjT2dtQkhDNVl6cE9FVGRsUDJNSlluV1BBeVhfZGJJdW5lYTAtSVctSUZHVnFaYUNyS18tOU9RMUE1cGNvdm5aMDZ2RXd4NzMxYWRQM0JTeVluQTZxc3pwZzAxZlJVWC16VURaVjVnMTZVLWZGTF9lSkJKSEFVVnRIeDR4dWQ4LXB1Z2t0VW9lU0xTY0Y5VENuLVlLWWVGTEhsOF8wRXJpdXpLNA?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-01T16:44:42+00:00",
-      "score": 62.13,
+      "score": 57.74,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -306,14 +426,14 @@
       }
     },
     {
-      "id": "a73af720b7159c5d",
-      "title": "Renan Filho tem 49% ante 46% de JHC no 2º turno em AL, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmx0VGRxQWZDRFg1Y01SRUQ0Y09KYldTZlFFUDd1S0ZZRWd6WWxJdE1pRFhTeFZFOXhRalMwaDJMOHE2VnE1WHctRHl2TkJTOG5VNUxUY3d3SjdQYUFHZVpZaEpDbWVTOGZfNFJWbE85WkZDaUc3ZTN4djl1UUdnbV8wRUk0VVI2UUJvMWdUYnRyZU9ZTUhhWGl4aEM1aERfaVg3YmV3eXUtNEk5VnpPdWozdw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-02T12:12:42+00:00",
-      "score": 60.94,
+      "id": "81a4c5f81c8c25bf",
+      "title": "OpenAI disclose another hack on government department in Australia - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWszNzZRNHE2MTNpMzYxNFJaeWNYUER0cGY5dGNsUjZicUxqUWEzNF8zZUgwaHJseC1scFhFWVplQnZqbjNhVWVrWDhnQnBiRnk0QmEzRzRpX3ZJdUNuZXJQX2pDN1VnR1BndXYwVFM2RFRYaWtkMjVBeWd1eEpBT1VRNUliX2FUWjNFMm1VQ3ZlckY0akxVRjlZREtRcXNQSlhLRlFyWURiYVdMTGpDZ3Z3aHVfc2c1?oc=5",
+      "source": "theguardian.com",
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "score": 56.74,
       "corroborating_sources": [
-        "Poder360"
+        "theguardian.com"
       ],
       "signals": {
         "source_count": 1,
@@ -321,134 +441,14 @@
       }
     },
     {
-      "id": "5d3880bd3dfe1658",
-      "title": "Escudo de las Américas expresa respaldo a Bolivia - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHA1dGctZXUwcFRtWmJRTnFXT1FrbE9ZM0luQkVTNmhocGI3MkxOYWc2U1ExTkk2ZFVLaHhUSWUxeVVXZGtUYWwtUEI1dS15UGprQ1FhU19KdDhfM09ueFZnRlVJMnc5NGRpMzZyTUJ3eHpCblJ1VXBkSi1PZ1FqRV9MaEI2X3U1MXhmT2l4Wml3SFJ6Qnc?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-02T15:01:33+00:00",
-      "score": 60.82,
+      "id": "a372fa822295cd3a",
+      "title": "Ingerência explícita dos EUA no Brasil reflete a erosão do poderio de Washington, apontam analistas - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTTBKOHlxbjl0bUhlS3NMWEgwM1RYMEd1WjRxNi1yNGRuelB0UnlTbkxsd1V3eUlIN1Z5Y3Q3WXVVMVNYZnJSX1AxSnF4X2gyY3hMRnFrZEFhVUxGNW85ejFhSkI2c1VTd0EzMmIyVWtyb2NsMkgzRmxuUjdMbWxkMzlmNFhvOHJ3M3VFZDhTMjJNVnNtcEx0dUgwMldvT1NNaTNZVWpfR1lYWndUWEREQXpJYkVhQWtvZVQ5a01CXzZ0UnU1UUxDcHNhenpYOTBBUzg3UXoxM0lSczRxS05YNzBKYk9JRF9FN1hpbzNR?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-10-02T19:00:00+00:00",
+      "score": 56.19,
       "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9b325afdfde9fc3c",
-      "title": "Greer não dá prazo para EUA enviarem proposta de acordo ao Brasil - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xTU2Rkek1fUkNYRS1YR05YQ0s2XzNUVXJRX1JldmoybTdfV2JTblRYdmhwYWlRbzA5aVNlc2djR29FZzlaRWdPQUVFNHpqUUlFSGo0NTZCaEsxZGF2QXh5VWtQMFItejVKYjBUdWM4UF9JZkw5c0I4N1lsemlXVnZfbGEyOVRneXFqVmtKdktfemZpRG5BTGxfSi13NEx0Q1lpM0pBX21VWW1RTGc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-02T12:01:34+00:00",
-      "score": 60.76,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9477c5879265412a",
-      "title": "Jorge Brito analiza presupuesto, política internacional y alivios al bolsillo - Radio Carnaval FM",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjVoZDZQRENjVWdnS3pXQ2lXMU45R0hJRVlLLVVDZTRFZS1sQUZFb1hSQ2pLTWtCdXdRdHVudDMtcXR2amIxZURHZU5XNUN2Z0htem5mb1lGNjFVRXFWWm9xc0hKeHpmRUp0TGt1SkZmTU9nTXZsWjk5VEJJZlVlUU04QkxXY2FBQnZ2eHJMWjVyODRlc3ZtTHhybnJrZEpheGNmTWk5MDRJUQ?oc=5",
-      "source": "Radio Carnaval FM",
-      "published_at": "2026-10-02T06:08:49+00:00",
-      "score": 60.44,
-      "corroborating_sources": [
-        "Radio Carnaval FM"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e9b27039c97b3aca",
-      "title": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjM0ZEpIZXduRE1WZm93NmdZMWtyRFRyQUNoU04zNTlVZkNIcS1WWHVTVzNsdWpBOVZsTk5kSVhxa1hiOW5oYVpsbEg5ZjZkTXJ4QTBMeFFHMGtRRzBWSWtjelRKZ2YzR1NtRHZIcXJFc0NzUWgyU2pqeElxeDV5d3gzR2RSTGtMZ1BVMGNmaFpuUGJfUjlqZnNRNVhvTVRPYzdWNGNZV3MyMFlqRTB3TmllOGN1QkRXRVJoWFR6WVhTQ1k2elhOZ0UxbVY1bWJwcFY3NzdaWDhkOUhjclQ1cUdR?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-02T00:07:00+00:00",
-      "score": 58.82,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "31feb2f25fa35a83",
-      "title": "Embaixada dos EUA suspende serviço no Brasil por “segurança” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWp4RkFYcU44cEctZlljcHJMTzExT2xiQ2lfV0VmSEItbHdwZFZuOEJlWDVITDlvcTVkZUljVFVvbTNOOXNMbmh3RXdHbkRIQWtXaVI2OVpQQ29oUTQ4WDZNQThiWmN2OVhiSFJHUGlKdjJjZWduT09OUzJjaVNEb3B6VUlqUnBYWWpUWUo0TF9pNGvSAZsBQVVfeXFMT3dLcERzdHA4ZG9SMXpmNS1SVmZDNVlrTVNtWUUzdjcydVhhN1lTV3BzSmhSVnVkWUl0TWY1ZHhZaVpZZGxIUWlLejd4eTRyWTZUSDFLbjFaTGVFLS12a1JEa3dqdW9FUzdsYU5UdEE0MVhJZFBOLU5obEZuMHkzSzNFQWNrTU1sdDAtbVgwQUoyLWVRR2dCc1BFRWM?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-02T12:57:00+00:00",
-      "score": 58.67,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b729134ab2c1185c",
-      "title": "Nova pesquisa Real Time Big Data mostra intenção de voto para presidente a três dias da eleição - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUi1wMENXYU1ncmF1UkMwYjdXVWxaSnhUVk9NN0g3WjdNZUpDTUg5bWZHRV81RDRWQ2R5c1FiLWFIM19taVl1X0dyczlwa2ZxNDlyU1VoeS1WbFRpdG9JbGozeGwyNkdWekF1NzF1Q21sY2lwVkxBYUJ3NTVsMHF3LU9WUWJFTGlmVTdpMUZDOEdlTjRMU2RnazB6UjhqSVZwcVFGdVhaSFItWWN1YzQ1UXBoQQ?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-10-01T10:00:00+00:00",
-      "score": 58.6,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fbdfdfd47391d701",
-      "title": "Congress leaves with a whimper, as the GOP braces for midterm pain - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXhMZ2JOb1RNQTJhcHNVS09yQ2dfWXltZjlHeTdscm9oMHFSbVpsZURIR2hlQmxxVmZZMkp4SEZtRk44TTFNYjFVMHRaeERWOHR6Smh4a1pzbDhnYk9vTFZYSGVXMVBZNGgxcnpjSks4cHc5RUJOcFp1QjZKSVNUWnQ0cFJxbXRaSVktNktDaXJWRjBfLUtFS3JRelZhZERXMGNPUnZJZThvT052LUdJT3RBcXV0NWl0T0laMjRBbjk0UQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-02T03:43:42+00:00",
-      "score": 58.49,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "009fe8c9735b1cf2",
-      "title": "'Caos no Brasil': imprensa internacional repercute cancelamento do debate da Globo antes do primeiro turno - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMHRWMHlRYlk5TjZxUExYWHZ2QXpZSFdocnRTU2JnbEhRdVgtVU1nLWJ3YnRraHpSaUkwa2VvNGZvOHRyN3pyaXhVVE9YMlJZR09yUTVzaEVVbUVYX3REWFdYVk5keVFQMHl2YXdUZXBldUdjRFRwX2RvcTluRjR3VUdaZV9GR1NPYzVReDc2MDUtN0pfbjUtSTN4Yjd2MWJBVzNLN3dGaGlJcUwzdGZRSEhwajQ5T0Jva1RTdlVVVU9hZlFYaTY5Mm5tazFPR2Y4X1ZOdk4wMzN3eUlfTjVJNTlrbG8tTmFCdE43REc1RjJjZmU5dWczeEZlMS0yenp3VnFQWU1XWdIBlgJBVV95cUxNQUVRSXp1N0JPeF8yMDhKRDRDbnYzVVV2YWpMRjhRRnZqRGpQY1RNUUd1NnIzQ1VDdTNtX0pxUDFkUUc1UTF6Q2tGZ0IzZ29FUlJvWTNEY0pYVnN5ZGwwM1d3bzh2Wi1pWlZxejlVOHluZkxmM3VlMjlPVXNvdjhlUE9vNndPNlZHZUtDUHNheVNzTGRYZzNqTlJZWkhsVFJMRUJWa1FoRWFDLTFVTW5iS0lQUmllYmVNTTJnbWtlYXNlOXJyYVIzT3dXWVNRbU1JNWxZOGk3X2x0T0h0YzQ0cHBEbV9IZHVyWlVtZkt5NFVKNnc5U0JjMGNZd05MSkNlYWZCM2s5SHNzbmIyOERPaEhnYlc3UQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-02T09:37:29+00:00",
-      "score": 55.48,
-      "corroborating_sources": [
-        "O GLOBO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "926d7400f3af9fb4",
-      "title": "\"Globo\" cancela debate presidencial por “insegurança jurídica” - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmVqR2czek1LWUl1d2hUU2xGSmgtSTdrelVmeWxxbTZiaVhxWEUzRmFlcUFpT29rcUtBZ3hjMU5PR21MenJ5SjM5WVoyclFsYkE5bE5jdXJZRHdwRUZCbVY5SXYydjZob0IzMElscTlaNzZ2Z3FoalNsVEF3WnFzdmZrTmJWRjA4LTNpellTcGNKVEZCZGl6aVRuZ3AzTGMxWmRSSHZrZ2d1NTg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-02T04:07:20+00:00",
-      "score": 53.8,
-      "corroborating_sources": [
-        "Poder360"
+        "Tribuna do Sertão"
       ],
       "signals": {
         "source_count": 1,
