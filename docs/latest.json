@@ -1,17 +1,107 @@
 {
-  "generated_at": "2026-10-03T23:06:48.762277+00:00",
-  "next_update_expected_at": "2026-10-04T03:06:48.762277+00:00",
+  "generated_at": "2026-10-04T05:59:01.453372+00:00",
+  "next_update_expected_at": "2026-10-04T09:59:01.453372+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "82ff18b77abb9672",
-      "title": "Cleitinho lidera todos os cenários para o governo de MG, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFRpOFBvSVN3a3E4S2ZwRU00YlM4alpWamYyNVBBMVRib3BXLVBaS1lSaUlaREZGejlpd0xDRVI2a2dPU3ZwejF3S3ZkUVpDbW1ZQlNWeFJXNFJCeE9pQzFjV2xiYjl5QS03NkNUU1NZOEtGX2g3M1BvQWFteHFpMFNaLXpsOXBlb2NJSnpmSy1yM0FvN3d2RVFLX1IxUzFEb3M4UEdobHdHZGxyUTRVeGxDWjNUcERR?oc=5",
+      "id": "629703be8b6d7ef1",
+      "title": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, participa da caminhada \"Brasil Pronto pra Mais\", na rua Augusta, na região central de São Paulo. 📲Leia mais na #Folha: folha.com/politica 🎦 Bruno Santos/Folhapress #politica #videosdafolh - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZcVd4eTg5RXgzdjZabUhKZjhmTm5XV0s1VUhJRVJZVWRnNllYQmxfdDRlYVVCZHNwMlhZRW10TFR1dW9LekIwZ3loMFpRRzdtdDF2NWNB?oc=5",
+      "source": "instagram.com",
+      "published_at": "2026-10-04T05:45:53+00:00",
+      "score": 86.2,
+      "corroborating_sources": [
+        "instagram.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9b16c1671d662d0d",
+      "title": "Crise no STF, nó fiscal e Trump: profusão de desafios aguarda próximo governo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGdWR3dNZnpiRVVSZXZxSkZLZUNRd2dlNjQyWUJjU0Z2eEhDMU1nejVGbTVLbFEwNVNJX0IxaHI0dDJxUy1yeGkzYU9YNnRuSWJ6RmU3emhyYUxkeUdtYi1hek5odzFjRXNIR1VrTzFBVy1MUmFkMXBPenFmN2tieVptRmFsb0NiWkRBbkdqUEV0dE9OWk0tQlJqZk81MFVPb2xyMmxVTU56N19Pam1ETjlEVzVZeG5fWkVOdTlLOTZNcFk?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-04T02:00:00+00:00",
+      "score": 73.76,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "757a0fb8e82eb0af",
+      "title": "El gran cuento de la guerra de Ucrania - Acento",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcW11em4ydFlObG5WOGNXVFowS1BpT0VQWU1zS2hvRHNpenFZMllEZWFYa2ZSVDZvTnBBVDREbkVzendkN3BueHdIVHZZTG5JcFVSTG5NU1RaalBLak14NVYxZGQtVHZ4MDFFTmE1VENkQVZxMTZOUlpGYVVlaWxPSDM3bzZWcnZu0gGIAUFVX3lxTFBxbXV6bjJ0WU5sblY4Y1dUWjBLUGlPRVBZTXNLaG9Ec2l6cVkyWURlYVhrZlJUNm9OcEFUNERuRXN6d2Q3cG54d0hUdllMbklwVVJMbk1TVFpqUEtqTXg1VjFkZC1UdngwMUVOYTVUQ2RBVnExNk5SWkZhVWVpbE9IMzdvNlZydm4?oc=5",
+      "source": "Acento",
+      "published_at": "2026-10-04T03:04:53+00:00",
+      "score": 71.99,
+      "corroborating_sources": [
+        "Acento"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bda8065fe975ecf7",
+      "title": "Paridade de gênero na política global é tema do 2º dia do Programa de Convidados Internacionais - Tribunal Superior Eleitoral",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUFBOdWUxbTNYVWZlU2o0RDg5bW8xemt4Z2t5YlJDaU9FdFFhcnFRS1pYMmVBZHlsdE9yMnJlYVFwMklZRjhfNHZXVi1zSXM0Y01vUGFTeUY0VHR1NXpYeHpBWWVJTUd1Y3dQWHE3RWxJYnp5X3FkRjk2elN6OUVWT0FSZTNkTjlGcTZRUWNwMXZZeHdwLXNqTGx4dnEzdEdObnJmbnFwZlNycUlUMUZoYWJCYUtDQTB3WnJvWW9QbG0xVHBkOGdNSXlnQnNkT0lUQUtTR2dER2RhWEJ5OUZUajRucmZtTWM?oc=5",
+      "source": "Tribunal Superior Eleitoral",
+      "published_at": "2026-10-03T23:08:00+00:00",
+      "score": 67.68,
+      "corroborating_sources": [
+        "Tribunal Superior Eleitoral"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3ff613d07c13f3ac",
+      "title": "Veja o que mostram as últimas pesquisas presidenciais antes do primeiro turno - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0oyd0pmQzZEX05xbjlEd0NTSHN2T0VnZ0lVSDdXUEtOX1ktcWpMZDkyaGVOcmdNTVJPaEk1OXdITWN6RTZ6LUNkSDhqbTgybmVCVFVLaXc1UWZBQWgwVW1jSDZIWVE3dWZzYmloUmY4NGtiLW14NjBKM3RPUl9qc29ja1ZmU18tUS1rd0ZFVlBxN3diaEJZSmI2NTE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-04T03:22:30+00:00",
+      "score": 67.33,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7f479167cd7d3b94",
+      "title": "Eleição de 2026 já começou no exterior; brasileiros na Nova Zelândia são os primeiros a votar - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOEdBYkoxMldXVVIyUmQ1a1NwZDZBNlVRaFZqUkpoODlicnNPV3U4MDc1MFNnaWZqTC1aYVJIMG5DME1fcXRXR3RVNUxYU0VqZlpXcDJTdFg2d0R2WDg5SWsycGQ2VUNHYlEwZERkQWc2ZjhidVFqRzQ1UGVscExuZ2R2MHo5S1lJcG9NdXBKMGFzUTVqdHR6d3l1ekdGVmpIU0MyLWMwa3FKZHFqc0FvMXJHRmRFLXpsVmFYTjJ4eE5SVGdGZEhnS2hZaVIwZFI3QWtWTtIB2gFBVV95cUxNb2I5RTBlWnAxYzRiT3FJSDV4eXhNc2Q0VDFzSXRfcWRvMjFZbUFwTjJBU3VsR3Izc0JFc0ZEUmIzejIxYkhoVjJpXzdKVWRQbVlBczhyRVIzM3NkSFJ2OUQ5SVpaQnd4SHlfVnhkS1dsNk8tOW45TGVGMnJ6anFicE1RbEhiRG9KZENmdlQtWDFCdmJETUdtRDJoZkpZcVZyY0pza2JoZnM4U0tYdnh2WEI0RzBDQ3FRZmR1S0puV001dFJXQmYxZ3ZVY19nWnh2U1ZsMHpvQ24xZw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-03T19:40:00+00:00",
+      "score": 67.26,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a044bdb38fd59b8a",
+      "title": "CACs não podem transportar armas a partir deste sábado - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSWp5WGJtVjlKRTVZelAyc0daaGI5V3Judk5GY080TGxmcjhpa1BrWkg5dDNlWHlWTFI0bk5qbTlXMF9XaHNyOFBJeWZoSGZmanF1OF9Vc1k0RDdFdUFlZ1hHUTBEZ2FZXzduX20wWVBQYlNxbU1zRlBGT3hVQUtKQkMyb2d3WUxPblVndDZwV1BST3ZQaHpkYWh2Q3BwTDRvakVNZERB?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-03T22:35:05+00:00",
-      "score": 77.82,
+      "published_at": "2026-10-04T02:07:43+00:00",
+      "score": 65.91,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -21,18 +111,92 @@
       }
     },
     {
-      "id": "de80ea5db6c6e32d",
-      "title": "ACM Neto tem 46,4% e Jerônimo 44,6% na Bahia, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1VXc0Q3OG5xRUJ3OUxWTXJiR1RfTW9ObVpLbm1kRHY1U3N4ZjE2Z0hmZVViLWpiUld5bzN2Z1pGYWVYdmxjX0s1SEhITEg3bXZhb2d3U0l0MlJoY20zRjRWelB1OHlUdkRvRDVFOG1mZTlCdjJSSEl4eF82NW9mSkpKd2RNeS04SHRDbTZQVEZlSEJVcExsaWZmQUZZTTA5OWhEQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-03T22:00:57+00:00",
-      "score": 76.42,
+      "id": "e8cff513af419776",
+      "title": "Ato de Lula na Paulista tem confusão entre manifestantes e policiais - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUERrTUlJY2RUeUVfWGpSR1RtYllQMk43dGhoX3VlZG5oZTRNUDNfSjVtVHdIbVc0YU9nNXdvOFZzY2RpN0kxcXVqMjkzdTNzTWtHb3Y1dHZ5R0xuRjNkRS15M1dZT1d5U0VERlFqSVNrSXp6QlBGUUt5a0Rva083TjdmUU5mZ2NLRHllZzhEQlBaWDRzUk0wNzNrVFc0WlVua2NldnN6U0VpUkM3?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-04T01:59:05+00:00",
+      "score": 65.75,
       "corroborating_sources": [
-        "Metrópoles",
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8684043ab41558f8",
+      "title": "Campanha nas ruas termina às 22h deste sábado; veja o que é permitido - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWdMTVdpT0xfcEdKYzVHYXZTNzA5TlpYRnptQmlOVGpfM2Nnd1liSHZQWHpLZVp6VmpXRkVhT19jemdOTUpKaF9xQWJOX0xlSlRtSi0xc3pIWDVCc3hFSjBWQWpXQWRDYTQzR1FEQnlJc0tzUHgwWkhaTkIweXdjYmRudldaYll2cHZXNWVWY0NaVVphY2ZvTkd6QzBySjQ1MHdaNFB6ejYtalN0aEpuMlRhQU5HWUc4?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-04T01:47:22+00:00",
+      "score": 65.53,
+      "corroborating_sources": [
         "Poder360"
       ],
       "signals": {
-        "source_count": 2,
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0d47c673a63acb27",
+      "title": "Bosnia votes as pro-Russian politician looms large over the race and ethnic tensions simmer - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2FfSFFveW9wenVrLVVQQ2xmR2d5WWVTTEc2a2dUcVd0dGlvelB1dFZaNk1tVGFMUkxFM2Y4RjFKV0U5a2puOWFGMmJTdVUwMFJnZm8yVmZyX21ZVkdiLUdPRW53SjdPU3BJMDZvV3pvTGFNVEZKcFpYeW0wXzg0TFdMZnhzdlhybExrcFFsSFdwRnBuT1ZBTERtYUZINVdjMUNQWjdUVG9oQ21WV0o4bUpjb1hLb3hrTXZUbHpB?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-10-04T04:07:00+00:00",
+      "score": 65.2,
+      "corroborating_sources": [
+        "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d6b8d6838376fa70",
+      "title": "Thousands pack arena in Belgrade as Serbia's leader Vucic launches prime minister bid - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmdmRFMyRHRvWUlnWkIwODc1VlJTMzNHRFVDeHhJOW51a2U1dkVkd2dienctcWxMWjVDN1lxZ0xBYWQwYXM5SXFqV015T043Y1luYnF5NWlQUXBPZ2o3NzQtSmRuU09NOXB4dTJMVHVnMXZ1N050ZkIyUEY1Z3V3RVI2RllSRXNYVlRjazBWVl8taWd6VDVZYjkwTTBUYldvcWZ0dnVUeEowYnZfdEJpSVAtY1ZYd2M?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-10-03T19:52:00+00:00",
+      "score": 64.45,
+      "corroborating_sources": [
+        "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7325becb35f601f4",
+      "title": "Veja quem lidera a pesquisa última pesquisa presidencial do PoderData antes do primeiro turno - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWdnSE5oaURRQWEtS2dua2dhTmdpUkZWMThXSDg1TkxhT3lIdmpHVWZHb21IV3BWTTNQMjJuakFteVhJOHhmaDFUWHBBcWVIYVl1YW85VXdXQjNEdVRrbnVMbW5mSV9wTkQ2M1B1cWlORzFUNkliRUxnS0liV1p4WFR5M25ENnI3NkhaaWdxWHByYTl1TzhhMDZLcnQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-04T00:46:25+00:00",
+      "score": 64.41,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "988d0c41911f27a7",
+      "title": "Explosão acontece na Paulista durante ato de Lula - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDJha19YcVQwZ1NMa1Z0ZHpTWDl5VHBYUVFqV2dUU2tZeUhRXzJSa3VZcDkwLTJZMVhTWU1oeWVzaGdzeXB4eTh0a2x1LUgzNHdlbzh6alAweXI3ckh3LXlrUG9iYVNxRkk5c1pCc3RQZ0lIeXBFTlFiczRrejdNTUhLRW1WbjhkVHBPMlR4S3JPZTJ4bmNn?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-03T23:01:25+00:00",
+      "score": 62.57,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
         "social_metrics_available": false
       }
     },
@@ -41,8 +205,23 @@
       "title": "Não interfiram em nossas eleições, dizem centrais sindicais aos EUA - Poder360",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmg1RGpZb2hJQng2V3lGLTJyelN3RnJFSmUwUklZNDZRRHdtcFlQckd0X0NBaFVqMGZac0hpWDl0RVFZRjllNFdSV18yRlRoVXVRWUVtQnFtR0piVmlwcHFEcWNELUtINGhoX3VNY1dYR2g1aHVORmZ3S1RVazh5aDhPOGNQZmV0N0x2NDVkRXRYVnV0YUplR045TmFBcS1wZ2lPQU5QX2JvX0Etd1ctN0cxVWRwQQ?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-03T22:35:05+00:00",
-      "score": 69.82,
+      "published_at": "2026-10-03T23:00:04+00:00",
+      "score": 62.54,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "82ff18b77abb9672",
+      "title": "Cleitinho lidera todos os cenários para o governo de MG, diz pesquisa - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFRpOFBvSVN3a3E4S2ZwRU00YlM4alpWamYyNVBBMVRib3BXLVBaS1lSaUlaREZGejlpd0xDRVI2a2dPU3ZwejF3S3ZkUVpDbW1ZQlNWeFJXNFJCeE9pQzFjV2xiYjl5QS03NkNUU1NZOEtGX2g3M1BvQWFteHFpMFNaLXpsOXBlb2NJSnpmSy1yM0FvN3d2RVFLX1IxUzFEb3M4UEdobHdHZGxyUTRVeGxDWjNUcERR?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-03T13:29:57+00:00",
+      "score": 61.94,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -57,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWxqNWdxaHRHZlJjSUJzTFQ5Tk1hNU1GTVNjT3JHNWxiVUQwbHF0UTZSYjRIbXgxRHVoS2VWa0d3dFI2c3laOUgtT2VqRERlbEJWaUNzWUNyWFV0VGhvVExoOER0SzJiRHY2N1NfVjVVZk5hSXd3OHBQU1dKSUx3ZVpTaGpqQ0xIRlc4MEtlODBSbzdZMjJleU5DUVV1YzBPZ3psY183OA?oc=5",
       "source": "Paçoca com Cebola",
       "published_at": "2026-10-03T21:53:51+00:00",
-      "score": 68.98,
+      "score": 61.42,
       "corroborating_sources": [
         "Paçoca com Cebola"
       ],
@@ -67,14 +246,14 @@
       }
     },
     {
-      "id": "7325becb35f601f4",
-      "title": "Veja quem lidera a pesquisa última pesquisa presidencial do PoderData antes do primeiro turno - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWdnSE5oaURRQWEtS2dua2dhTmdpUkZWMThXSDg1TkxhT3lIdmpHVWZHb21IV3BWTTNQMjJuakFteVhJOHhmaDFUWHBBcWVIYVl1YW85VXdXQjNEdVRrbnVMbW5mSV9wTkQ2M1B1cWlORzFUNkliRUxnS0liV1p4WFR5M25ENnI3NkhaaWdxWHByYTl1TzhhMDZLcnQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-03T21:25:57+00:00",
-      "score": 68.42,
+      "id": "43c25e9c4c888e4d",
+      "title": "Datafolha, 1º turno - votos válidos: Lula, 45%; Flávio Bolsonaro, 42%; Caiado, 4%; Renan, 3%; Cury, 3%; Zema, 1% - g1.globo.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1R5NnpSZktPaElsVFA2Y1lvdnEzOGxTRXFGTWJNRlozTnVxWHZuOTBDY1MycVl6RnpCN2pvbC1XQlVFeUVzbzJfVThkRENnQzVDUHBxN2s0R3RGTFpDc2NYbnA2OHdkS0k2TDhkaV9NSVJvclp5dVlzSWR4aTdiVXhPZy1lNWVJekJnNWk0bHkzeTNNUEhKTTNXUnR1dVk5X3RqVnEwaTNTajlJME1FX1R4S0NNX2hsRlHSAcgBQVVfeXFMTy1PS0FsOUV0S3Z3UWFMLTBrMDRNemE1T3phNmFMVTVBZFN3RE5nOGY3VkpxcW9ja1lKclZIQ1g3SUFnQ0lZQlR4bk9CS2hEYmpPNTliWXMyX1IwS0JlX2E2aThqU2tJeWYwR2VlWTdUTWtVNFhFXzZ6dmo1WEpac0Vuelk4YzZtcmpZTUZ0bkhVNDFEY055dUMyLW5qZXlPS2R5LTV1T3RIZXhWNzU0eFBlLXBHZjY1WUNVWFBSQVZ0LWNWc1R0Mjc?oc=5",
+      "source": "g1.globo.com",
+      "published_at": "2026-10-03T21:32:23+00:00",
+      "score": 61.07,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "g1.globo.com"
       ],
       "signals": {
         "source_count": 1,
@@ -82,14 +261,30 @@
       }
     },
     {
-      "id": "e8cff513af419776",
-      "title": "Ato de Lula na Paulista tem confusão entre manifestantes e policiais - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUERrTUlJY2RUeUVfWGpSR1RtYllQMk43dGhoX3VlZG5oZTRNUDNfSjVtVHdIbVc0YU9nNXdvOFZzY2RpN0kxcXVqMjkzdTNzTWtHb3Y1dHZ5R0xuRjNkRS15M1dZT1d5U0VERlFqSVNrSXp6QlBGUUt5a0Rva083TjdmUU5mZ2NLRHllZzhEQlBaWDRzUk0wNzNrVFc0WlVua2NldnN6U0VpUkM3?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-03T21:25:57+00:00",
-      "score": 68.42,
+      "id": "de80ea5db6c6e32d",
+      "title": "ACM Neto tem 46,4% e Jerônimo 44,6% na Bahia, diz pesquisa - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1VXc0Q3OG5xRUJ3OUxWTXJiR1RfTW9ObVpLbm1kRHY1U3N4ZjE2Z0hmZVViLWpiUld5bzN2Z1pGYWVYdmxjX0s1SEhITEg3bXZhb2d3U0l0MlJoY20zRjRWelB1OHlUdkRvRDVFOG1mZTlCdjJSSEl4eF82NW9mSkpKd2RNeS04SHRDbTZQVEZlSEJVcExsaWZmQUZZTTA5OWhEQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-03T13:10:29+00:00",
+      "score": 60.99,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "Metrópoles",
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c030ae216622fea8",
+      "title": "Brazil's big political rematch: What to know about the Brazilian election - NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVpLVS1aSUxZdXVCNHFOS0U5dWs1REd5S1RLRkttb2ZQa1RzaXZLRzFJMkR3TUNNeXp0TnVFLU9acUxqRW9ZZDVfdGZsQjN2R0pxREYyT05GeW4zaG5teThlRVBra2NmVm12eTV2Q2pTbGltVE1hZ0NWVlNaaHphX1ZhYkp4TE1EcWhTMmxHUlZpSmRaNk9F?oc=5",
+      "source": "NPR",
+      "published_at": "2026-10-03T02:57:07+00:00",
+      "score": 59.71,
+      "corroborating_sources": [
+        "NPR"
       ],
       "signals": {
         "source_count": 1,
@@ -97,42 +292,12 @@
       }
     },
     {
-      "id": "988d0c41911f27a7",
-      "title": "Explosão acontece na Paulista durante ato de Lula - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDJha19YcVQwZ1NMa1Z0ZHpTWDl5VHBYUVFqV2dUU2tZeUhRXzJSa3VZcDkwLTJZMVhTWU1oeWVzaGdzeXB4eTh0a2x1LUgzNHdlbzh6alAweXI3ckh3LXlrUG9iYVNxRkk5c1pCc3RQZ0lIeXBFTlFiczRrejdNTUhLRW1WbjhkVHBPMlR4S3JPZTJ4bmNn?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-03T21:25:57+00:00",
-      "score": 68.42,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3ff613d07c13f3ac",
-      "title": "Veja o que mostram as últimas pesquisas presidenciais antes do primeiro turno - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0oyd0pmQzZEX05xbjlEd0NTSHN2T0VnZ0lVSDdXUEtOX1ktcWpMZDkyaGVOcmdNTVJPaEk1OXdITWN6RTZ6LUNkSDhqbTgybmVCVFVLaXc1UWZBQWgwVW1jSDZIWVE3dWZzYmloUmY4NGtiLW14NjBKM3RPUl9qc29ja1ZmU18tUS1rd0ZFVlBxN3diaEJZSmI2NTE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-03T21:22:30+00:00",
-      "score": 68.36,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1c61712ed3f5abd1",
-      "title": "Trump told aide to use taxpayer money for TV ads praising him - The Seattle Times",
+      "id": "f7e3ce218f8edec3",
+      "title": "Trump told aide to use taxpayer money for ads praising him; $5.5M spent so far - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjNSdFBPN3JvWU5IbWlXMGdVVm5FcVFSRkQ5SE9BUjVOamNlNjJpMHNnS01OR0tRMHc0ZDY1VXpVQzZVOXdxVzJ6RksxUWZ5TUlzR2RKVkFGOW9uV01rejFMVHZxMzVJOW9CTjFKS0lhM1ZqSW9lUVphMUxlaVQzcWJzQ0xTcGVjVlJuNjFucGJiZDJuQ0U5dGRkTEszc3RtRS1zQWZGOFdFcS1ING8td0RBRnNfVlZVUWRfZDEzbzJZVWNPLXc?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-03T22:05:30+00:00",
-      "score": 66.22,
+      "score": 58.62,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -142,29 +307,14 @@
       }
     },
     {
-      "id": "400294f3cad0c9b6",
-      "title": "Brasil elige entre Lula y Bolsonaro en crucial elección - lapatria.bo",
+      "id": "b23e4f4703f162a3",
+      "title": "Brasil elige entre Lula y Bolsonaro en crucial elección - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmhfdUJMVEVfa0g2eWJVdUFHQk1odERTRmZjbzNaSVNBRndoUXM4T01YMTJJT3YzUC1DbzNVenRnMjRhSElDNVJZaWh1T3oyal9fdG4zU2lGcjF6dGxDZWR6OGpSY0R0Qzg1eFo2ZVFXSHgza1ZLZWZEQ3k0aHl6d2hWNmRmX1UySVZGTmc3bU1IVDQ?oc=5",
-      "source": "lapatria.bo",
-      "published_at": "2026-10-03T22:01:08+00:00",
-      "score": 66.13,
+      "source": "La Patria Bolivia",
+      "published_at": "2026-10-03T22:01:26+00:00",
+      "score": 58.55,
       "corroborating_sources": [
-        "lapatria.bo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b8478ff9ac095c6a",
-      "title": "Pesquisa no último dia antes das eleições coloca Flávio Bolsonaro com 46% e Lula com 44% - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmFOd3JQQ0JvNzY4YmRna2dOUEE3N0FwOW9UeF9INUJMR3N0UkFOdDVFd1pOckRUTWUzVFNKaGFEVmRqeWtGbzhCaE9sLUEza1piRkVPOGZjeXN5eEs3eTRuQzEtRExfbndKQmg1MjlYMS1jaEU0WTFpMjQ3dy1OalV4QVJpZlJmdTlGeTc5dHBDWGlYTXJ0N1VpN3Y?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-03T18:36:25+00:00",
-      "score": 65.18,
-      "corroborating_sources": [
-        "Brasil Paralelo"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -177,7 +327,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2tydWdLQUNLdWNVc3ZWVHFoSFpURWJHMVpOTUM4d0dpRUFiR1BCWkxVOTFyemwwaHJGMjFGUmx5Y1U4TEgxRXZOVElLRE85NjZFYXgycHhJa29IbjJja1ViZ1NZZWlxU0NVVkxKYnV1dXZRdk45UzFtNFFFWWUxZG82aXFROGpFMXo3MGU5eldELXhlcWZrMVVyX3pESDNuTkR3dGlIenpqSUxoMkNKMDR1MXFqTGE0NVh1edIBwgFBVV95cUxNRUp0MkxTTm9LajNuZXVvSmppMDJQZ0RmeldXSTFoR20zM0IxR0oyUnFKc1JleGZKblFZckNVSDFqLW01a29PTHNvZEIxMzgyZ3RldTZKZkhoYUhBdHBta1kyXzVZc0JFRzBfUngwMHotT3BRdDJfT2RzN2xPb3QxdVpsZWVzWWRYQUVlRmJmdmQxLUZlUDUtZm9MZXZmRVJpZ1hkZzBZMm02VVA3bm5DS2VKa2xxaTF1dVIzbjNtSjZXQQ?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-03T08:30:00+00:00",
-      "score": 63.46,
+      "score": 58.25,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -192,39 +342,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaWdHQ1NvdFQ1MGRYOWpKMGd5eWR3N3ZUTXpuR0tiM3ZzbHZuTDJaelE5UVliTEVBdVA2T043SXNJYm1hUm9QcHc1S0pfbFBqeVdSdURyRi13MUo4QnFxeGJKd1B0TjFTakowcDNDQ1IxVHdLOWxYWm1JaXJPbWF3SlN3RTRaSHBqdFFGMzBraDRlWXkzWnZwTl9jYWxrc09WRXlQeVpSd0NXc1E3bWNoeENLTEtRV1FQMkRudFd2eTFEMVpSNWN3ZGdhZGNfQlJlM0JTT3VmZHpXMVFTYlE?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-03T07:00:00+00:00",
-      "score": 62.24,
+      "score": 57.24,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2eeb7a51481b17a8",
-      "title": "Blanco: \"Hay que definir qué política exterior quiere tener Uruguay\" - Caras y Caretas",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1Z1ZnFIU2FzNGV5aWFONzJqdUZySkp4YTNWeF9saUlYRE9VTUxpTnNOdUJpNFdyODZCY182WUhOQ21qSzRkTWIwWVFuUF9jQWh4MFI5S2J5QmpFamNFQmdFMDBtdUplbGNFVTFPQ3RPSkVhenoxczNlOVU0bXdaOGJMb2lSZkoyWjlNQlV6eTdJNzZuQzFDeW1EX3M3dlhVQjI2aDJJazLSAa4BQVVfeXFMTXFOb1hEWkdsY2drdG5lcVkyNVR3T3FLX29ZeXJuRXlKY1dxaXNKcTUxaldDYXp1SXJwMXVYbVU3R1FqVGtMNEkzQ3oyd0wxaGRxSjRxNGJaTXc5enFyQVNMbkQ4TjdOaHFhMzdncUh5T3BrU3pUSHFxLUROREY5NXU2cFU3SHY3R2JGdEJtX2NVMl9qaGg0SW0ydmhJaGI3VWtXd205cFd5RWFXLUJn?oc=5",
-      "source": "Caras y Caretas",
-      "published_at": "2026-10-03T07:47:00+00:00",
-      "score": 59.87,
-      "corroborating_sources": [
-        "Caras y Caretas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "612ce01dac81fe6b",
-      "title": "A política externa de um eventual governo Ronaldo Caiado - ndmais.com.br",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdno4SlkybVdyb1d6aHZINC1MRXhSdkt6ZlFDTXdVY056OGxvV0dLQkdCN2x3ZXJ6UGZzMjdVYzdMU1VHTFJiMG90aTRLY1lQb0NzRTNHdmFrbndSOHVSaTRYdE5zTERBOFVlNlIzeUxSNUFIN3R6WlM5R05LYk92cllRcFJGR1V0dTBVZ1Z3?oc=5",
-      "source": "ndmais.com.br",
-      "published_at": "2026-10-02T20:00:37+00:00",
-      "score": 59.67,
-      "corroborating_sources": [
-        "ndmais.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -237,9 +357,54 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZk9TSl9mVkROQUEtSzZnWkxXdkRQUXpZRkUxWl9qN21FYUFOS09oV2RyNldGcHpfU1BKcFRrMjJoa2l0S0lyY3dmdWdQZnFBdWg1Tk5laXhHM2JaX0wyd011S05BMkhseXByVHZoc0gyU1poQnZCYno0TlItbWhvVXVn?oc=5",
       "source": "vermelho.org.br",
       "published_at": "2026-10-02T18:52:00+00:00",
-      "score": 59.01,
+      "score": 55.44,
       "corroborating_sources": [
         "vermelho.org.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2eeb7a51481b17a8",
+      "title": "Blanco: \"Hay que definir qué política exterior quiere tener Uruguay\" - Caras y Caretas",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1Z1ZnFIU2FzNGV5aWFONzJqdUZySkp4YTNWeF9saUlYRE9VTUxpTnNOdUJpNFdyODZCY182WUhOQ21qSzRkTWIwWVFuUF9jQWh4MFI5S2J5QmpFamNFQmdFMDBtdUplbGNFVTFPQ3RPSkVhenoxczNlOVU0bXdaOGJMb2lSZkoyWjlNQlV6eTdJNzZuQzFDeW1EX3M3dlhVQjI2aDJJazLSAa4BQVVfeXFMTXFOb1hEWkdsY2drdG5lcVkyNVR3T3FLX29ZeXJuRXlKY1dxaXNKcTUxaldDYXp1SXJwMXVYbVU3R1FqVGtMNEkzQ3oyd0wxaGRxSjRxNGJaTXc5enFyQVNMbkQ4TjdOaHFhMzdncUh5T3BrU3pUSHFxLUROREY5NXU2cFU3SHY3R2JGdEJtX2NVMl9qaGg0SW0ydmhJaGI3VWtXd205cFd5RWFXLUJn?oc=5",
+      "source": "Caras y Caretas",
+      "published_at": "2026-10-03T07:47:00+00:00",
+      "score": 54.76,
+      "corroborating_sources": [
+        "Caras y Caretas"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81a31717e5aa229b",
+      "title": "Real Time Big Data divulga pesquisa para governo e Senado na Paraíba - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlNSU001OHZsVjNWTnZMcTV0T3o5dm1rY0ItMDV1UkFqWDJtU2dHTzBvcFI4REl3SjVTYVlZTTZiZjZsakRid0xVYi1NYlpTblNvVDlsaXh1eDZoT1BvX2dnMjV2djhtTzdVR3kxZjdqNjVCRDJFaXRMUkx0M1I5UDRZbkxnODV2WnZxaEJ3RVRGTXZINmhpOEhCMzFJN3FGQUNjUDktQm1sR29mb2c4ajZiSlQ5bVpteEhrUEN0WkxLNkFZZ3NGdg?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "score": 54.74,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b8478ff9ac095c6a",
+      "title": "Pesquisa no último dia antes das eleições coloca Flávio Bolsonaro com 46% e Lula com 44% - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmFOd3JQQ0JvNzY4YmRna2dOUEE3N0FwOW9UeF9INUJMR3N0UkFOdDVFd1pOckRUTWUzVFNKaGFEVmRqeWtGbzhCaE9sLUEza1piRkVPOGZjeXN5eEs3eTRuQzEtRExfbndKQmg1MjlYMS1jaEU0WTFpMjQ3dy1OalV4QVJpZlJmdTlGeTc5dHBDWGlYTXJ0N1VpN3Y?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-03T14:21:24+00:00",
+      "score": 54.63,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -252,7 +417,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWW03Z0pYMno1TFdWaE5ZTFVCcUNDODI2R0k5bndDWFEwMVdnV1NxQmNEbktENXdXemduRUN5bWFnN09majNSLXgwMkJLU2tvX0djaXpoMWE0QWhud28wWWczRzFQdjBsWFJOaWpqVzhRTmgyOVFHUk40Y0I0c2pjUG81ZUFzS0pSX2Z3bVdueF9OY3V2c1RPRHRQVmxaNDIyWExzUVU3WQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-03T12:04:02+00:00",
-      "score": 58.59,
+      "score": 52.83,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -266,8 +431,8 @@
       "title": "Lula e Flávio têm 46% cada um no 2º turno, diz PoderData/Aya - Poder360",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmk3TWE5OGVkV0VNQ0FZazBwQ1B5dGJHZ0lBR1FVVHM4UEZLSjIycDdQRjBXenRqNkczNkJoX050QkpOU0dtTDU2Wm5tWnNORFdJOUF1ZEwtNmF4WUdPdmxvdFhwR01oalRNa29pMDZld0JudjRIa0tYZ1NMUVM5YndPZExwTV9Oak5YU1hORFdka3pGN1JtNHRuRnVYUQ?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-03T11:30:24+00:00",
-      "score": 58.07,
+      "published_at": "2026-10-03T11:55:24+00:00",
+      "score": 52.72,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -282,174 +447,9 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWhCQ2RxUE1sLTdwaFczZWhNcWFJdENuSU51NGJSMFZIMTZsOS1Ld3BCRGpBVTFTUkxlZW1NcmZycXNJTXlUaEFOLVRtc3gxVzVUMUJHVUQ2WGt5Q1pNMy1QcDJzUjNtMEwtYUdGME9LandQV0Nxdy1GaTAxbUZpaVUxeUpjS1UxbWxidGxWZUNBNERCZUhOUk11U0NaTlpkbWN1QlZBNzJHbVpkbHpFclh2WDM?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-03T11:05:24+00:00",
-      "score": 57.7,
+      "score": 52.1,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "81a31717e5aa229b",
-      "title": "Real Time Big Data divulga pesquisa para governo e Senado na Paraíba - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlNSU001OHZsVjNWTnZMcTV0T3o5dm1rY0ItMDV1UkFqWDJtU2dHTzBvcFI4REl3SjVTYVlZTTZiZjZsakRid0xVYi1NYlpTblNvVDlsaXh1eDZoT1BvX2dnMjV2djhtTzdVR3kxZjdqNjVCRDJFaXRMUkx0M1I5UDRZbkxnODV2WnZxaEJ3RVRGTXZINmhpOEhCMzFJN3FGQUNjUDktQm1sR29mb2c4ajZiSlQ5bVpteEhrUEN0WkxLNkFZZ3NGdg?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-10-02T10:00:00+00:00",
-      "score": 57.53,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6f09cb72684b3ee5",
-      "title": "O que os presidenciáveis propõem para o futuro da tecnologia no Brasil? - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVVkbjh1a3VSVEMtUjZKTHlZcjRRS2F4azhpbm54NnhCSnltbEV0d2RnWHFPWUo0UG5fM1Jkdm04WHNRZXpBU1J6MUstWGw3dExJZVg2djdmNjNvRlVWTVQ2VzViSU9kVXhiQjI5ekM2WHBvNWJyTmJXMlMyWGdaYXNIUkdGVnc4dEFZVkRtVFF2VnFsVmNxNGZHR1Q4NmdJQWstQ1ZOQ2hKNzZlSTN6Wnh4RTdlNVJ2Mk9Z?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-03T09:55:24+00:00",
-      "score": 56.67,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "630803ec6c058b61",
-      "title": "De los autos a la soya: Los productos en México que podrían subir de precio tras las elecciones en Brasil - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaldlY2NhVnVzQ2hKZEpTWjVSRkY5SWtfTDlGWmJ2U2dTOTkzeEJnUFhlRnRCUWZOV0lRSXVQektRTldVUHhTR2NObTVTM2xXLXdOc0pkMVo2dGx4V3RQYW9oRjI1aHA5dFh4N1pvbXhzb1JDVFpPVkdiWWJZeFN5ek4ycWRBQmVVZXRsTy15VHp2Nnc1VWdzd0laOTBkblRDa1Y3bk5KalYzeDdfNjNZNXAtRmRPYldJejFmVFB5THhFaEJLNHNZUjNqbzZzNVg5eGR6ZjdSYlZSZElXTmRjcdIB-wFBVV95cUxOOS0wT0JNTzh0T19PeFNTSmlHcGlIVk5XLWJ3a0szamZzUmN2MlhSRjhhSjNyRC1hSE52a0pUWFNCNklyVklBM1pmQmtJc3MzcFd4eGJfMTZkNjN5RnlsWnNEbE0yZnNjamk3ejh4NkstSHJGOHRNdlY4U05MRzdiOTg2b3NiWHg1eUFQT2lJd3haTTd4cVUzUzBmTl9KNXVuVHMtNEdBa0RzTTdoUm1lZlVmcmg4VklvR2VpN2ZDUUtJYlJRNEU3ZEpJaFJyblJ5TGdoaFN4d1hFUVNoMUoxR3ByWnM4MUN1b0x0QjdURC1sYVd3UGNEcExBQQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-10-03T13:00:00+00:00",
-      "score": 56.46,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f70217f1ec41d0e1",
-      "title": "Natalia de la Sota habló en Villa María - El Diario del centro del país",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3J3VGJ3VlM3bGtjUloxaG1aeW1lX0pUQmhaaWkwNUZHY1dGT0hrN1VvRk5XdGMyWHZUUllqb2hiZmtSOU9QM3d5cEMyYVNxN3k5NlVqeEU0eDIzYlY2UDg4S1Z1NDFvNjNiZDNBVkVBUU4waE5OMUZ1b2xpRXNOX1NJMURiS3dVUVhKOFlUcFNNRTFnVzZoOU4zVTdmaHhnLUHSAY8BQVVfeXFMUFlxRmZIcmd0cDJuSUtJRmFqeEhJS0hrUE1adWZnZ2ozWHpaYTVrSlBaZVUtMHMxX0RkTWtDa1E2OGlSM2w4MUIxR2JHRlJqM1RMV0lRRzdQUVZOSzl5UXNLcDZGVmk1UFBER1dCb1pCQUV1V3RXSkNqQnR3OFFzaVZCeUE5VUFqNXNBa3FEMjQ?oc=5",
-      "source": "El Diario del centro del país",
-      "published_at": "2026-10-03T11:30:00+00:00",
-      "score": 55.07,
-      "corroborating_sources": [
-        "El Diario del centro del país"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "837063896e8c432e",
-      "title": "Ascanio Cavallo y la adhesión de Chile al Escudo de las Américas de Trump: “El presidente Kast y su canciller no entienden mucho de política mundial” - elpais.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb1Q2SjB1bTdiNVhWR0E0S1JLOHpNTFMwdkFrWjFzOFkxdEQ0ajUwcnNud29RVVZ3ZG1Dd1puOF9HejA3bGRjNHpYTnNRNk1OOUNnbzZzRFMwXzMxanR4LTY0bXZmQ3Jpcm9mYWNVQ0R4dzdkWEhuY0pBbFBBczNQa3RXcHR6WG1UVnNOd1JMNzFadGo0aTRNcDBJdi1vVlM5TmdqZWZwY0REbjZJRXA0aEJpUEtubXAzaUJFUmxjUm1oMXFpdFpwY3NsWUZ2M0hNUi1vSlE2Q3JjUWtXUDVPTmU5UFF1RkdtSG1sN01melpLUDV0R21uVEpxQmdTNmhiSWY4b3RjQkNfREd0VElDc08wN3RuUdIBqgJBVV95cUxNa3JRSTFFMzV3UU5QNHo1bzFLeWVTZU0tRjE3NHp4X3E2b0xvcVhzWUJJbnJfekVEWGtvMEFIQ1IwRzV2MEdsYmZ1cHA0OWlnNG0td2ZpYzlVSG9ZX1FBNTdSRERYR3RSdV9uOWhVRFVQTm1xd3hmQko4MHVPOThpamFweDFuZXlydHRSd0V3cXlJSUlBNFZxSUR5a05qSk85d2xDYUJ4Nm4zQVZtdlFvOHRvcTNhMmFxVDM0SFBsNEpKbFdfbVlVOUxPNUI3MldzaGxINHk4VEl1MTJaT0J4Tm1Tb0ZrUFktRXFJQ0FLbTZZaDlKS1BmbTByQlZubHE2M19aUHdDc3RaYmhhX01oLV9zZHlrRnNVdUI1SThOX2VzMUJuSlpVM3Bn?oc=5",
-      "source": "elpais.com",
-      "published_at": "2026-10-02T09:30:00+00:00",
-      "score": 54.31,
-      "corroborating_sources": [
-        "elpais.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ad332c46b4a382cd",
-      "title": "Petrobras nega pressão política e diz que analisa preço dos combustíveis - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHVQS0hrazlQVWdHdUhPdVVSYjdtbmcxWkRPNk5fTnEzYVVMNnhMOUYySDhneVgtRnNUNFVXb1NBamg2eS1KQTJIcHY2S0xKSmZETjFrRkVGZWdkMjVEUkJ6bW91RGFnNDVQNnZ2cXpMRS0tYVpkSVpoRGF2UFVKdndFZFpqRkRVMFFkNXBtYktLYzJ3Q2lSektGcXlIZnJUaFE?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-10-02T19:20:37+00:00",
-      "score": 54.28,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8fd7d88da99d531b",
-      "title": "Agency diverted $1.4 billion in science funds mandated by Congress - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDkxZnRWTUtQQUpBeUxJRDU2VFhSaUx3N1M0T1d5M3VsREtURDJsdkpuckNJaV9hSlQtZFJ0WWxScEc0SGJnTlZjSDByV3VLQ1k3U256X19BZTI4OWJMS3RVdGQ4MEgySFoxWXB2QU85a1RER3NJUmhkMUZWNHd2SHdWMFdyR2x3NE1TeVpwNnBOMzR4Y3JFNFJkUXV5OTVYYWxSYzUxM2JHT2FUbFVFa2dGMml1OEMtWnVna2RuX1JWUQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-02T23:58:58+00:00",
-      "score": 54.15,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d419d8714ef43ce4",
-      "title": "TSE recebe convidados internacionais para apresentar sistema eleitoral - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUNXcWV6TG01NWctaXctTWFFSFpyRk9EUExsYTdNcjBCWGwteVFiQ29PVDNZclY0aWJXWGJDNmdrLXpvN2d5ajBzSkdLcllCdlhvY3U0a3FZeUxlVE9pZDU4SUl4aENaWkdDZ09jZmtXVXpDZk1qdEJoTDl4LVNMaHRzMzZBbXpRcnBjbjd3am43UEg5aVB0amRtdURTWlI0MDdsajZBSkJQYXh0VVFUYUFHNWtPMUZ1X0k4?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-03T05:59:20+00:00",
-      "score": 53.44,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "774130b8fdd5d177",
-      "title": "El trasfondo geopolítico de las elecciones brasileñas - elpais.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZVNZRTc5anZtRUdsWmduWlh3U0VIYktDeWJGNWd0bW81VC1maF9VYVVkWTdWNWhINGJzcW1XWHhMYmI1bG5EOWtZZHNoLXZkTmFzUVBRNF9MZUJqZ19pUlJsbDdlNnl4LUxwOERScXNsbW42dzUxVzJ1X2gxaVZBYWRYMURLZ2I4QzlKLVdJSFhfc0RtZzBuQjlJLUHSAbABQVVfeXFMTURBUDJIWEtjdG5MWENHVDdGOWRTSnRMUk9IWWhYWDE3U2I5Qk92dkdYVTZtYWd6WnVVZXFPTUpBQ1FHUjVkUl9fWGROSXgwODFZdzdkVG82bEE0Y0REZi1MMmdxNWZnRmR3dm9lbDZNNzU2dF9mZGJXX2JWNG95dnNLWENZQmF6eUw1UjlYbnhqWkljYmdoQ0lETUtpbC1vTWU1eHdHdXBGOW1CVkpYYmE?oc=5",
-      "source": "elpais.com",
-      "published_at": "2026-10-03T09:30:00+00:00",
-      "score": 53.31,
-      "corroborating_sources": [
-        "elpais.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2f0061ee78739f06",
-      "title": "Zanin toma posse como ministro substituto do TSE depois de quase um mês de sua eleição - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU2ZMSF9iLTd5dmVCLXhqTElEdlhXekh2UEhJYjZSSDYyWlVhbmw0cEtrSVZyRC1qNENNUGthbEJIWEJpUnp4Tm9pTWxpMHF6Wjc5ejBmbW50ZXQyWXZmQ01LNzBPNjVjY1VTN3JYZTFLakFQbkdNUUZ0OEZJMnlaZFprRDFxUTR0UENLSXpXT1Zma0R1UzdKa0toWExjcEd3VzFyem9uckxrYUVVMDZjNl9iNVBiSmpVTHpjaWc5ZkxfRU1xaFo1eXZISmxtVkN5Zzd30gHYAUFVX3lxTFBpR244dUhpUzM2U0x4WFduaGtOUGtZVVQ4a21VX2tFcnRKYzVybks3ck1pa2hPVXVfRlQ0Nm5JdUpvZVYtWndqV2RSekw1Vk1CS0V2V285eS1YQUFXQTl0ZDFGaDhKSDVrdDBuSmp2a1N0clZabXpYMExuMVNkajhPT1ZvMUZleXNXZUZydXJPa3ZGV19jaVpIbjNyWEMwSHo2Q1IxaHJoUGdKb3dGdE10N3pDZWVVMkNIUHcxUE5VMGd4OC1CX3hicnFKTlp1MWZ0cWtob1JJOA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-01T22:17:00+00:00",
-      "score": 53.07,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1db59b62ac611430",
-      "title": "Bono diz que Ed Sheeran não queria se envolver em política ao gravar música sobre guerra na Ucrânia - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeFgyUUZaQTZjb3hkQnJNdXl1ZDMxeDNxN0FxNXBHZlZFc09hYUtKSnExRU9pdWpuTHNVQzBrWU13RzF4WUZVS09vN3dUcklKQXgxUG45TTdDNmlQYlZ4b3phRWlzMDdpWEpsZ1JVSkVJcDgyRXlRNXBYbHZhal9uX1N3cmF2WE1mSV9uWUVwSzdKV3ZmVkJIeEJCYzdmSktlR1F6c2VxbnJBU3RjZFUyMFh5aWV4bTRiYzNxT3dmU2k2Rm80c2hIcU5DMTM5UkZuZ0dsYk5oaldzSEJieGx4SHNn0gHnAUFVX3lxTE95R1A3Q1BfbUtYeldzSk5pVjhFYXR0S0xjQWFvT2NYam5VQk9ZWS10Ym5mUWVxdDNUbWV6a3hManZXRndjT2dtQkhDNVl6cE9FVGRsUDJNSlluV1BBeVhfZGJJdW5lYTAtSVctSUZHVnFaYUNyS18tOU9RMUE1cGNvdm5aMDZ2RXd4NzMxYWRQM0JTeVluQTZxc3pwZzAxZlJVWC16VURaVjVnMTZVLWZGTF9lSkJKSEFVVnRIeDR4dWQ4LXB1Z2t0VW9lU0xTY0Y5VENuLVlLWWVGTEhsOF8wRXJpdXpLNA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-01T16:44:42+00:00",
-      "score": 51.42,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
