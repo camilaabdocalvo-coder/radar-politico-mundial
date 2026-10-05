@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-10-04T23:13:51.164524+00:00",
-  "next_update_expected_at": "2026-10-05T03:13:51.164524+00:00",
+  "generated_at": "2026-10-05T05:47:44.188933+00:00",
+  "next_update_expected_at": "2026-10-05T09:47:44.188933+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "4291b5579be2b7e2",
-      "title": "Tema de campanha, Nossa Senhora é celebrada em igrejas católicas no dia da eleição - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHBRbDhBR040S3hVUGxtR0VIRWkybzZ6aUtEbTJxMGVLMEJLdzJMTW0zWmNSUGtJMUxxRmFSRF9XOTFFMzFhdUVmUWQyZGQ2ZUM1WC1sR2tXOGE3bWRJaXExRm1CUTdHTzJJSVR3cWlqbXlEVmhtM2N4TWROX2hhWXBrQ29kSzY2Qjh1LXlWbVZzZlY5NXFHcnZDZmhGTVBkNS00YmNsQjRpOURvTlFHLXZhLUF3ZzZEQTV5RUZfZEFxQ0x4TGhfaU5nSQ?oc=5",
+      "id": "6c05ad5f432e6a30",
+      "title": "Casagrande e Evair De Melo são eleitos ao Senado pelo Espírito Santo - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDlCbDRpTHFucHdiZ3c1cVBVZXF4SWJ6U1VJTWhQdnpyN3lhZVlyR3JJZmhxOVR0MjhxY3lhbmN3RmhWOWhyZnZ4MXRwU3h4Z3JhWXJsNi1idndUYU9VRFZTeTVQYUlqUjVXVHdxZXJNUFh4Skw5RnU0SDI1VHRVNkkwZ1c4VW53X202UVJYZWYxSlV2MjI0V3hkS3dGelh5REhqLTlzZmdOZVE2S3hfa3liSmF5eUMx?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-05T04:51:46+00:00",
+      "score": 77.33,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f0bb4e083eed62cc",
+      "title": "Veja os senadores eleitos em Pernambuco - 04/10/2026 - Política - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1J3cHBOdGhUUDloazV1UGpqeVNUWEtWT3VTRndLT01Zck5HZE9LVGI2a0ljbXA3aENkQlVaVENQQ2hJNUNDejIxSDJWakZoQ1ctSndXOEZXMVB3WVNkTkN2dzVwcVFILVdmUDdrNVIwQ0tfbjJIcFdia2NJejFzM0M3WnFsUXk2R29SWHBPSGdPQ28?oc=5",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-10-04T21:50:00+00:00",
-      "score": 76.76,
+      "published_at": "2026-10-05T02:05:00+00:00",
+      "score": 74.07,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -21,14 +36,14 @@
       }
     },
     {
-      "id": "7913d56c9a65944e",
-      "title": "Ciência política: o eleitor mediano realmente manda nas eleições? - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0s0M3VXNlNEUGo5M2RHbzFOVU1aS0liQ3FUMDZGN2tfcG4xRzVpbTFtcVkySGdscEE0V3B0S19FRjNJajAza3dXQjAxTU95MlpVYWh4YkFiVVFvS0sxNVBONERIZzVRUmZwbmV0WV9HUFhBWGYtdmlrZFpqYTlNcllLWHIzWW84TXJRdzJBcjVDQW5jLTBYQWtfS0tWYXliUFlUczJfZlNfU0Q3dFNiVTZB?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T20:53:01+00:00",
-      "score": 75.64,
+      "id": "8ede39f5839f717c",
+      "title": "Lula e Flávio vão para o segundo turno em eleição apertada - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1dZVTI2MUdwUGZhMDVqdkwxRS13UVNYTC01dV8xb184YXgwVk03TU1rLVFJdTJZRndSN0FlXy1EdlIyazRsQkZkU21fVnMyX205X3hnc2lIcUc1TzdLX1Y4Q1NBTzhORXJmSEpCUWYwMi0zOTdhejE2YXduWUFsNm8zTnY5ZVE3?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-05T01:58:46+00:00",
+      "score": 73.95,
       "corroborating_sources": [
-        "Poder360"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -36,14 +51,44 @@
       }
     },
     {
-      "id": "a3fd9bd299ba630d",
-      "title": "Deltan Dallagnol volta à disputa pelo Senado - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbzVLSjNlUmE1OEVlUUd5LXhVV1JYUkN4ejNJQlZWMGp4VlNncVBELUVzcDEydjF2ODhvZzN3a3RWUXhFbWpyYTByS25oaUR1UHg0Vi1SeENyN183ZUhjU1R3czE0ZGcyT3NZTmxDYV80WTlHVHNWdW5RM1RNMEU2QlRPWThDZmFOVEJPd1o4eG4?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-04T20:16:35+00:00",
-      "score": 74.93,
+      "id": "6c08602fe40e6b0f",
+      "title": "Leia as últimas pesquisas para o governo do Rio de Janeiro - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFlRdVZ0aTNFVHltbEN4VHZlanZVakItZjdyZHhxQkJEcVM1bUI0ZXo1bWQ0MG1uVkJSUG5xcFdIblZUU05wdG4td01xY1BpdWxPcEVnLXhiZ2V6WHdKWGVidmF6aEcwSF80STRBQVVpQmhkV1NXNWxZemJvZ0pETkxHSkphaEhmMGk0QjRXWFRGNVhFdVQtYmIwTU1yNW4zcWlYYnptTWlvM2M?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-04T23:55:21+00:00",
+      "score": 71.7,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6c86a1cc3eefa2b8",
+      "title": "Braide lidera disputa pelo governo do Maranhão com 48,1% - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFFmZGR1eDNaUTJkXzFJSTI5Wm9uMnYxLUt0VlEzQ011a0dGS2dkMDhzeWlfaVhQM2Y4UlNtbFlEQjhkaGhXeGJmZVlRalpmSEJDNi1ZcVNkVGl1YXBmX3pocEFFNmxTZk9ZTE9kN25PSnBHeDI0RkctZHhBakNwNXFTajNzdlhhemJDSl9IS3VpMy1aNlNXdzNqSTdZYy1HX1ZGRThR?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-04T23:55:21+00:00",
+      "score": 71.7,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4291b5579be2b7e2",
+      "title": "Tema de campanha, Nossa Senhora é celebrada em igrejas católicas no dia da eleição - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHBRbDhBR040S3hVUGxtR0VIRWkybzZ6aUtEbTJxMGVLMEJLdzJMTW0zWmNSUGtJMUxxRmFSRF9XOTFFMzFhdUVmUWQyZGQ2ZUM1WC1sR2tXOGE3bWRJaXExRm1CUTdHTzJJSVR3cWlqbXlEVmhtM2N4TWROX2hhWXBrQ29kSzY2Qjh1LXlWbVZzZlY5NXFHcnZDZmhGTVBkNS00YmNsQjRpOURvTlFHLXZhLUF3ZzZEQTV5RUZfZEFxQ0x4TGhfaU5nSQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-04T21:50:00+00:00",
+      "score": 69.55,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUpQNHEwWkJ6VUs2bkRBMy1RTnkzdVE5aHZrRVp6YjdzZnJiOWxkRDhYelNXVFVsQU5FejBVZUEzOHp4ZjBiMzhwOEVTYWxFYVppTW1tWkVOQXZDbFpjM2hfQVhiaFo5dkljRmVzMVEzODNlY29DZWFJanhFX1NLV0RiVGVIUUtidHE3SV9lX2lxRDVHZHNZ?oc=5",
       "source": "The Japan Times",
       "published_at": "2026-10-04T04:38:00+00:00",
-      "score": 73.32,
+      "score": 68.85,
       "corroborating_sources": [
         "The Japan Times"
       ],
@@ -66,14 +111,14 @@
       }
     },
     {
-      "id": "03fd26f4a30039d4",
-      "title": "Imprensa internacional repercute eleições no Brasil e destaca 'polarização política' - Diário do Nordeste",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGFZT0ctOGhMcWxDYzViMHQyYmJrZ2Q3T2g3dE43WEI2VElkeVhIX2NTZXlpMUcyM3M3clVuYldCRFFCT2ViZl9pcFJIY0F2dmU1QlU1Sl9aSTdNWnNyeV8za2ZSeXZmbTFpbDdlWmR1Z3IyeFd3UE9TNjBWZURSeWd0UnVSRUo5cUVrdzRJQTdqT0wyOGRZRHVsLWprcVIwaFJyN1JWTmozMmtHX2xWSTFkcjd0MlRKeEhxZFRNSDlTUlgycGVYMnpBcVM0dlFWUm9ya3JzZFdjclliaDdWOQ?oc=5",
-      "source": "Diário do Nordeste",
-      "published_at": "2026-10-04T18:35:28+00:00",
-      "score": 70.04,
+      "id": "4942a737b4fff134",
+      "title": "Ciência política: o eleitor mediano realmente manda nas eleições? - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0s0M3VXNlNEUGo5M2RHbzFOVU1aS0liQ3FUMDZGN2tfcG4xRzVpbTFtcVkySGdscEE0V3B0S19FRjNJajAza3dXQjAxTU95MlpVYWh4YkFiVVFvS0sxNVBONERIZzVRUmZwbmV0WV9HUFhBWGYtdmlrZFpqYTlNcllLWHIzWW84TXJRdzJBcjVDQW5jLTBYQWtfS0tWYXliUFlUczJfZlNfU0Q3dFNiVTZB?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-04T20:53:01+00:00",
+      "score": 68.61,
       "corroborating_sources": [
-        "Diário do Nordeste"
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -81,14 +126,104 @@
       }
     },
     {
-      "id": "3bd5eadfc2eda05b",
-      "title": "Dilma Rousseff é recebida com vaias ao chegar para votar - Poder360",
+      "id": "a3fd9bd299ba630d",
+      "title": "Deltan Dallagnol volta à disputa pelo Senado - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbzVLSjNlUmE1OEVlUUd5LXhVV1JYUkN4ejNJQlZWMGp4VlNncVBELUVzcDEydjF2ODhvZzN3a3RWUXhFbWpyYTByS25oaUR1UHg0Vi1SeENyN183ZUhjU1R3czE0ZGcyT3NZTmxDYV80WTlHVHNWdW5RM1RNMEU2QlRPWThDZmFOVEJPd1o4eG4?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-04T20:16:35+00:00",
+      "score": 68.02,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81fffa6361c270e9",
+      "title": "Nikolas Ferreira é reeleito deputado federal por Minas Gerais - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0U4UGpPd3o2ZHA3X3dIOUJDcW5PWVJfd3hSQ1JiN2lTOWMyQl9BdUVueVVlVWFnZ0w4YlN5aUNESWpZYmd0cFhJV3Y0dzJXazRJcGRENGJUR2RiZElISDIwaVF0c0JNUDh1Q1pQaHRrMnZTa1k0eW1zR05SSHJONHhlSk1kQ2hucExLV0tWRHVCdzVPWDIzMlNxREtVSHRhUkdzSzg2dUs?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-05T02:46:49+00:00",
+      "score": 66.86,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ac4d38897878abc9",
+      "title": "La “tercera vía” de Mark Carney enfrenta el desafío de un mundo cada vez más fragmentado - expreso.ec",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGV1S1FURUpsbDk5a3lfU0RncGJMcGUxQ2lJLW0wVFh1cnpiQnNyMm5hNktPY2RBRWJMVlFsR0VRd09RcTgzbU5KeklFLU0yd0ZOR1JkNEhfODBNTG4xSmtoUDRZU0ZUVDdMVEliU3VabVg5RTFiWWVBeVFhS3RoSS1FQmNYMlNuTDFsTHhRMy1pdjhTT244R2VnZ0tocUhmbU9QeE5OcThVQzFGVUdWdlVtcDhoaXg1V1FSUEdSclhlUkhRb3NWUA?oc=5",
+      "source": "expreso.ec",
+      "published_at": "2026-10-05T05:15:00+00:00",
+      "score": 66.8,
+      "corroborating_sources": [
+        "expreso.ec"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f037d929bbeec25f",
+      "title": "Estabilizar dívida pública requer ajuste de ao menos R$ 250 bi, dizem economistas - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT1Q1aWhsWk9pVGFwaWd6ejhUZUxYWm4wVXRTOW1LOHdJaDdjZldONU9QbjdsMzJVVHpSSmZiNGxnZVlFSnlPb3lIVXhMVDFHWWVSdVdNVHVETDI1MmtoYUZjLXY5OURuLWVGZ0VtVjYtZW9ZTlIwWkUtVmdYcEo4bkxicjFTbXFvTkFUTXZmZ0ZENDZ6UmFGMXQtMV9RZk9LLUZQLXU1MTgzN2FoREY0UGFHZ1RXSFlSQW1sQ3pZZG1yUlRFM3ZMREwzMA?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-05T02:00:00+00:00",
+      "score": 65.97,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "93a14550dac94c7a",
+      "title": "Não há nenhum indicativo de interferência internacional, diz TSE - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWR2VG9nVUJnYUhsS3JUenN5TUhlRGozcXJWd1hCRVd2emdFeXl5MWkwVklWeGQ5SjZ3RFlJTV9yb295V2NlZ0c0WTI4UVc1V1BqZ25PTThjbk1HVXIzeTlDNzJvWWFNejZZc0RQang5NWNOeU9icnRaR1BOenA1X0ZpZ0xaLTEteWNCaGFFUE41NG84cFd3Vm84Y0JKYUtqU0ptcnRGQUtaTTZoZERpNFVR?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-05T01:40:10+00:00",
+      "score": 65.6,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "39e1e42ff5f1f203",
+      "title": "Veja como estão os resultados da disputa pela presidência fora do Brasil - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTVabFNpUzU0NDhzV2tzdVMwYVFBQ2pscXZrT2xITzBCSmRhc3VRYzJjT1VBeFdUZFlLLXYwM3VFN1VLbk9QT2lvVE5HTkcwaDFEMlVSMk1SaUR2b0t6a3dJRGl6c1ZsS0pRZVBEVnRjZWpRZHZfbUhmdHBrdm83OWRycEM0YV9UODRRRmF1SGR2VHV5WC1JNzFHZGpvdHJQN3JtYnlCdw?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-05T00:58:07+00:00",
+      "score": 64.83,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8b8d02a9d3e8d3fa",
+      "title": "Dilma Rousseff é recebida com vaias ao chegar para votar - poder360.com.br",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVFUWExmWjFwV3lub2g3aVd1Ym9CY1BMb2tYQ1FyVUpHakl1VWFTMTNrdkpLWkdyYXRFOXJ2aDZLclVxcE9BVzBmUVRVQ3REZHM5ZlZaQ2hPNFY0YnhWOTRFNXIyZm42UWw5RnVTZTRDNWlmejR5eVNidEVKZzRMTlgtOWFsVWJjdmxnQUllR2xjV1pVTFQ0VEE4RDJBTzlXYnM0YWpQUzM?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T22:39:57+00:00",
-      "score": 69.78,
+      "source": "poder360.com.br",
+      "published_at": "2026-10-05T00:55:37+00:00",
+      "score": 64.78,
       "corroborating_sources": [
-        "Poder360"
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -96,14 +231,74 @@
       }
     },
     {
-      "id": "0b5b13ec2c3be738",
-      "title": "Saiba como estão Lula e Flávio nas últimas 14 pesquisas divulgadas - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekxzOHNUTkpqOXZTQ2RDME9kMk5id2xtaFFJbGVNWlo3YW1FQl9iRTUxOUhjSm1LM1ZKd0pvOExVbFYzMWhaN1NIUDh4X1J2T3BSeTJxWkRoLXB5WmJhM2FsYkNKbXlQZDd5QXlnNTFqMHhfelFITkZVeVlLSnROT3lMSXJPVG15NmJiX3ozSlpKYm5SNnpOY2FfMmdrNEZvSjFtZmtacDZkYlVsdDkyYVZtbUEtQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T22:30:00+00:00",
-      "score": 69.57,
+      "id": "3e5efff11aea7e4f",
+      "title": "Elmano de Freitas vota em Caucaia (CE) - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkMxYmt0RWZQUEY1blhmejNJd0M2Qk1uT2I3SHVCZjJ1bFFlTnQzeUo3cFlEZDI1d3dENk9wMXBoZ1E2X0pyd3pFRmVfdXlLUG9iUEZZMmVqSEthbWpPZWhrendnRlZqRFBZc0hvQklKaXd5RW9Wa2o1NXZqczAwTUhQUnFod1YydVBILTlB?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-05T00:25:23+00:00",
+      "score": 64.24,
       "corroborating_sources": [
-        "Poder360"
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "12bc70932d6d3025",
+      "title": "Saiba como estão Lula e Flávio nas últimas 14 pesquisas divulgadas - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekxzOHNUTkpqOXZTQ2RDME9kMk5id2xtaFFJbGVNWlo3YW1FQl9iRTUxOUhjSm1LM1ZKd0pvOExVbFYzMWhaN1NIUDh4X1J2T3BSeTJxWkRoLXB5WmJhM2FsYkNKbXlQZDd5QXlnNTFqMHhfelFITkZVeVlLSnROT3lMSXJPVG15NmJiX3ozSlpKYm5SNnpOY2FfMmdrNEZvSjFtZmtacDZkYlVsdDkyYVZtbUEtQQ?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-04T23:55:21+00:00",
+      "score": 63.7,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "10652f4d3abb6237",
+      "title": "Otaviano Pivetta tem 54,3% no 1º turno em MT, diz pesquisa - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3l6OE5sUnFEY0dXVFRDdkVheFFiWnBrN3dmNlN2Q25LVHhEeFlVZ3VSUC13U1NfR25oVV9wN0lmajV4bERGcDg1d0VjcDNxbWtSdGEza2tVbzVaRGFzTlMydWJFbGhUMkU3b05ZbXhLN3VsT0piRUlGdm5ORE1keGNFZk5tWl9IUlJKNGsyWXo1TURzUUdHMVdNWDVJQ3J3Y3RTTzl1UQ?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-04T23:55:21+00:00",
+      "score": 63.7,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4e910e1e2fb0bc5a",
+      "title": "\"Carluxo tem problemas mentais\", mas intuição poderosa, diz Renan - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMU1Xdkhka3I3ZnZCVTlkak4yVjVWekpaYkVuTWswYnNfZkhKblZNdmREeWRITWpEcTJha1h6eWJaSjlLNXFkWjhMWU9VR2lHeHQ5cENVTTEyUjdnY0tBeFRjYk5XOVI0dE9lWFRHbnp6RG1RY0d6cVMxSDNTa1o1YU5QemswNlNwb29vWFJ2NDk3TnNrZ0FIS1ZleXlKQ19HRm91OHJCdExfcnJ6R0dj?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-04T23:55:21+00:00",
+      "score": 63.7,
+      "corroborating_sources": [
+        "poder360.com.br"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "43cbfff9bbe7ebda",
+      "title": "Imprensa internacional repercute eleições no Brasil e destaca 'polarização política' - diariodonordeste.verdesmares.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGFZT0ctOGhMcWxDYzViMHQyYmJrZ2Q3T2g3dE43WEI2VElkeVhIX2NTZXlpMUcyM3M3clVuYldCRFFCT2ViZl9pcFJIY0F2dmU1QlU1Sl9aSTdNWnNyeV8za2ZSeXZmbTFpbDdlWmR1Z3IyeFd3UE9TNjBWZURSeWd0UnVSRUo5cUVrdzRJQTdqT0wyOGRZRHVsLWprcVIwaFJyN1JWTmozMmtHX2xWSTFkcjd0MlRKeEhxZFRNSDlTUlgycGVYMnpBcVM0dlFWUm9ya3JzZFdjclliaDdWOQ?oc=5",
+      "source": "diariodonordeste.verdesmares.com.br",
+      "published_at": "2026-10-04T18:35:28+00:00",
+      "score": 63.44,
+      "corroborating_sources": [
+        "diariodonordeste.verdesmares.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeC0yX3JKaGNLWnpYSHRhbFhLTmZ0ZElUNVB5eHMxY0I2dWFCVXJkLVZxQURmRlBVc3c0eERtc0lTZ2pKMG00ZU9LTG1JRkpic0tsQWk2U3o5SlFwSktmWnNadElEeFZUUVZYZHZrTEZmWUZQajk1cVkwSUt3cnY1S29GY0NQUVU3alE3cW1hNzZfbmtLRGZyRmZNMjJWV1FEN1AtZHEwa0Q1azJUb0dYVGVISQ?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-10-04T17:21:00+00:00",
-      "score": 68.69,
+      "score": 62.32,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -126,14 +321,14 @@
       }
     },
     {
-      "id": "c3f61c61504b4e0c",
-      "title": "Leia as últimas pesquisas para o governo do Rio de Janeiro - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFlRdVZ0aTNFVHltbEN4VHZlanZVakItZjdyZHhxQkJEcVM1bUI0ZXo1bWQ0MG1uVkJSUG5xcFdIblZUU05wdG4td01xY1BpdWxPcEVnLXhiZ2V6WHdKWGVidmF6aEcwSF80STRBQVVpQmhkV1NXNWxZemJvZ0pETkxHSkphaEhmMGk0QjRXWFRGNVhFdVQtYmIwTU1yNW4zcWlYYnptTWlvM2M?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T14:06:47+00:00",
-      "score": 68.41,
+      "id": "30018116e8d84afb",
+      "title": "Flávio Bolsonaro abre a apuração à frente de Lula no TSE - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0x6cDRLaWhIem83eEY5MG81Q0RwUEFSWXdhWHV2bG1NOS1TUVVfd1ZTWlpaVHlIM3BnTmRQWFZNZC1BeURraXh0RUhNRG5OUnk3OHNESWZaOWV3R3A0Z052NWxJVUR2d1NsMFlTRlhKOHo1cThHdFFfMUNLUmdMLV9JbGd1djc2T3l0eVIwSHVoZlJUTUdPX05FOERQNVYw?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-04T22:27:59+00:00",
+      "score": 62.19,
       "corroborating_sources": [
-        "Poder360"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -146,24 +341,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEJEcG1oTHJZaUk1WjlsbTVYS2oxMmNWeUFvQ0dxbU5ZVFZUZ1FpbDk4enVLYVB3MTVEOExuWW13RUg4d1dYbEhjbWZtTi1GZWUtUDVjVW12aUliR3oyT0RGbkpreVZJV0ZhNjFfd3VXS0E4OXRmUDQ4S0otT1NOUnJpbHctZ3VMTzY3SDg4eVp6U2VsMHJTZlYtWm1aOXRaVzBZOGhuNU9LU190VmxuU3RvWVBkRzFCRFJDaDFRUFhqdk0?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-04T21:32:00+00:00",
-      "score": 68.4,
+      "score": 61.25,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "542b72b0ad64c0d5",
-      "title": "Por que as eleições presidenciais, sozinhas, não resolvem os problemas - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUJPZTZYUFQxMS1SR1E0bmoyM1lqcGctcVIzVkZoVlVlWVNYaE1pcV9rZDZ0V05SdEd0TktYeUlqN0JGa2VvVjdWOF9iN1MwWl9Md2hkY0JQMHZZbVlnazJRbzBNOVA5eXRaZEl2M2ZLX2VsTUNVcE9adURTQ0YtRkU2anp6dU5HMThuSnRmcDhnLTVwbWs2RnBCYWQ0bEl1dmFVUFFWSG50Smo3b2ZYNmlB?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T20:53:01+00:00",
-      "score": 67.64,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmE0ZDIzelh6X0R6OVJKQVJoSkN3ZlNPZGp2WXR3OGxvVUkxdEszczZuM3JJbFRsc09pV045TTB6eTJudTRmNU1FV21rWTBLWXlUTEp5TENiZlhxQXIzbmh2NVlrMnc2RnFEMW5YaExMUGROSjcza2kta0lna3MyQlU1YnlyaUNCNkZWNjBWUDE0aktBQm84TlJwMHExYTdNOUxhNlpsdGJOeEpqTFNtdWJscG5LcXIwMEktZHZFZzQ0dUxCZEl4UTBJMNIB0AFBVV95cUxNSlg0N1Z3RnlucUt6WjJMTFE3LW9wdWw2d1dWZ3pVdnRMdzVXUE9zUU93all2TlpXWU1RbW5kYldpQ0F1QnlGaExscWRkSWY3WEtHWnd3b0ptZC1GRWdmU19YUlVuNjFkWUIwNzlpYjVkNExzb3NjYS1CZGwwaGxfUXR1RnM3N0xZOWdTQkw1MmdIOGdGVUNIRWxDQmNJYS1FYktlTUJZNVdab19GODNXQnM5UjdfbnJvbFRYTE1ma0V2UFpfN09PZlduN2Vvci1B?oc=5",
       "source": "elpais.com.co",
       "published_at": "2026-10-04T15:39:14+00:00",
-      "score": 66.94,
+      "score": 60.86,
       "corroborating_sources": [
         "elpais.com.co"
       ],
@@ -186,14 +366,29 @@
       }
     },
     {
-      "id": "39e1e42ff5f1f203",
-      "title": "Veja como estão os resultados da disputa pela presidência fora do Brasil - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTVabFNpUzU0NDhzV2tzdVMwYVFBQ2pscXZrT2xITzBCSmRhc3VRYzJjT1VBeFdUZFlLLXYwM3VFN1VLbk9QT2lvVE5HTkcwaDFEMlVSMk1SaUR2b0t6a3dJRGl6c1ZsS0pRZVBEVnRjZWpRZHZfbUhmdHBrdm83OWRycEM0YV9UODRRRmF1SGR2VHV5WC1JNzFHZGpvdHJQN3JtYnlCdw?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-04T20:16:35+00:00",
-      "score": 66.93,
+      "id": "88859792f45080b3",
+      "title": "Brasil. Segunda vuelta electoral entre Flávio Bolsonaro y Lula - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHFsNjJVVDlnQVBxY2w0MFNPdk95TjFvZy1OamZRT2o4b0V6eWd3b3YxRkJiUzhPX0YyTjZsNll3b29FSWJGT3EwSWNOQ05jemtaemJIZnZROWdyZHFmaFR0UlFrTEJBbGcyTnNqb2l6Nkl2WDVQYlpETDZTN2NYdlVFNU9hNGxJaUhtOGNXbUNNWkYyTHdWblFOU2hzWmdzR3dLVHltSQ?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-10-04T23:57:41+00:00",
+      "score": 60.74,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cffdb638fefb6229",
+      "title": "Por que as eleições presidenciais, sozinhas, não resolvem os problemas - poder360.com.br",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUJPZTZYUFQxMS1SR1E0bmoyM1lqcGctcVIzVkZoVlVlWVNYaE1pcV9rZDZ0V05SdEd0TktYeUlqN0JGa2VvVjdWOF9iN1MwWl9Md2hkY0JQMHZZbVlnazJRbzBNOVA5eXRaZEl2M2ZLX2VsTUNVcE9adURTQ0YtRkU2anp6dU5HMThuSnRmcDhnLTVwbWs2RnBCYWQ0bEl1dmFVUFFWSG50Smo3b2ZYNmlB?oc=5",
+      "source": "poder360.com.br",
+      "published_at": "2026-10-04T20:53:01+00:00",
+      "score": 60.61,
+      "corroborating_sources": [
+        "poder360.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -206,39 +401,9 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmxJVzlKb2N0bGFob3cyWjMwNVVOY0NGZTRQQURQVmE3WFlDQkhFY0ZHYy1BdDltS0FFTkxaemRkeGhSRWNSQnZoNWxWTmVBLURwTnpHWGx1YlNwa2Q1ck5kSXAtU1h1b1B3TENTQnYtZElib3dmcHBtVU56aUJTcjNnV3I0TDNDUEM2N0xPSVpsRFZVSlVtTWQ4SQ?oc=5",
       "source": "angola24horas.com",
       "published_at": "2026-10-04T15:15:36+00:00",
-      "score": 66.54,
+      "score": 60.53,
       "corroborating_sources": [
         "angola24horas.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "00e047df35770325",
-      "title": "Inside the Trump administration’s UFO hunt - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXVrTXBfODB3LTVMOERWZTVDVV9hdkxQaXpwa19CNS1EUmdndUU5RE1YNDExYjl6RURRWC16VXk0NVdlRzlJVjBwZ21ob2Z3N1N5MEVqV1lRQTVSNVhlUlFFSXlvMTM4Z0N4WWZTWUxtV09sdUxvaXBScWtwSE1SQUdYNGsxbEVNeU1FVjBPVnBWQnlISUJ3aGF0RFQzWjY4WEE?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-04T22:01:02+00:00",
-      "score": 65.98,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b7dd71b705f7182b",
-      "title": "Elmano de Freitas vota em Caucaia (CE) - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkMxYmt0RWZQUEY1blhmejNJd0M2Qk1uT2I3SHVCZjJ1bFFlTnQzeUo3cFlEZDI1d3dENk9wMXBoZ1E2X0pyd3pFRmVfdXlLUG9iUEZZMmVqSEthbWpPZWhrendnRlZqRFBZc0hvQklKaXd5RW9Wa2o1NXZqczAwTUhQUnFod1YydVBILTlB?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T18:57:34+00:00",
-      "score": 65.44,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -251,24 +416,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0NTSEdXa2JHczh1aXFuQnpSeXcxd2RCSXhtbHFTbE1SQ25ma05xRXhmajVLUGJ5ZXBlcFppb242MDY4bnBFTTBiUzN0VnpjWU1OSDdaZTJneDE1NFkxMWNma29DS1cwS3RQOFJFbHZuT3lpOVItTndpN241dVdudXktUmlHZ2dzN3BfcW14YUdCMGxHZmxOU0Q5U01VQ3dsSEpBNGZWdGNiaTIxcWg3Q2NMd21CaVF5Q1VOSFlRNVV2TjYxUFdrblVDYkJhUXdLWVBpbkJaUmIzYkdaejBB?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-04T10:00:00+00:00",
-      "score": 64.64,
+      "score": 59.44,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "01aba6dcfe7673d9",
-      "title": "Boric vuelve a arremeter contra el Escudo de las Américas y alude a carta de Frei - Ex-ante",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MbWVWY3lEbHNPWk5IVmYyc0NsSm1EaDREcy1zU2hyT3M4aThDT1BpSFhDOS0xeUFuM1NoeW1PWnA1eHktdzRmWVcySzRmZTNxVDV3OFZDWVlRX2ViUjBVVGlXTUxjNDFiWmM3Szdha05uYlNQbzFkTjkwVlllQ00?oc=5",
-      "source": "Ex-ante",
-      "published_at": "2026-10-04T19:52:59+00:00",
-      "score": 63.48,
-      "corroborating_sources": [
-        "Ex-ante"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGlDN2ZqVkRLVnBGRV9jc1VDTUVjcnMteUR1YlRhYUhMbTlrVF9aaVlYZHpaOEU2ZVNhQ01LSmJETk9SVmlrMWtybTVFbEJqbnZuUG9CbnNISVFnOXQtNlc0WDdMY054TDRRWjRWaVA3dm9GWUo0SHRFSlYxUnpwVzU5OVJyY1BoNkxLQkszMUQyQQ?oc=5",
       "source": "Chicago Tribune",
       "published_at": "2026-10-04T11:00:55+00:00",
-      "score": 62.53,
+      "score": 57.19,
       "corroborating_sources": [
         "Chicago Tribune"
       ],
@@ -291,164 +441,14 @@
       }
     },
     {
-      "id": "f41cec6dde45ece4",
-      "title": "Boric cuestiona Escudo de las Américas y llama al progresismo a recuperar las mayorías: “Quiero que volvamos a ganar” - La Tercera",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXJZY2RpNl90STBmamJiU0JMeWYzdEhEdjN3R2FQZ3ExZVBTM0E3ZWpRYjVRSmlqTmhxN0FFT1BxRGFpVldhUUo1RjFrTG5LMnZrT1NjaGdSNFhOTDJPcG9EOG5aekRjTTMxbE11ZmV0RTBDSDNSWnYzbW5jRUU4dy1obmMtdENxc0NSQUVXRnN4dGotUGpRX2Q3NjVYTE5uMDNkOG1kUlJzZVI2UGpOREhnOE5qNmRlMnBiN3h5TS14U3E0a3pFeVl6eHZ6NEVadS00YdIB9gFBVV95cUxOWmRJbVcwenBoWkpVVHhtQ0JvYnhtRlVyT1UzUm1JSHN3WkZkVWszbDlkSjBiZDNrRzFmc3BxSkh6T1ZobkI4NmdhOWF1cXI5ZnNpQzluenJvWjRYM3haTEUtZVc1UlpNTEUtd3JXYWxZdGRCT0N2VkRGNDNGOUNFcmdVdWZOVXludl9GOVhMZHdQSXkyV3NTUFpZd1FtZFM4Y2RaUHZ3TVEtX2Rub3JUTi1HcHBaRHF4a0gxOGp2RWZlWXZ3QXk3a2l3QnhjalJ3Y25QSHR0YXJIVHBBRjBlbTVzeGJoaVd0MU4wc1AtMGoteEdnTVE?oc=5",
-      "source": "La Tercera",
-      "published_at": "2026-10-04T18:58:03+00:00",
-      "score": 62.45,
+      "id": "fa18d69a7439eff8",
+      "title": "Boric vuelve a arremeter contra el Escudo de las Américas y alude a carta de Frei - ex-ante.cl",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MbWVWY3lEbHNPWk5IVmYyc0NsSm1EaDREcy1zU2hyT3M4aThDT1BpSFhDOS0xeUFuM1NoeW1PWnA1eHktdzRmWVcySzRmZTNxVDV3OFZDWVlRX2ViUjBVVGlXTUxjNDFiWmM3Szdha05uYlNQbzFkTjkwVlllQ00?oc=5",
+      "source": "ex-ante.cl",
+      "published_at": "2026-10-04T19:52:59+00:00",
+      "score": 56.65,
       "corroborating_sources": [
-        "La Tercera"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e045b5d3f72ba200",
-      "title": "\"Carluxo tem problemas mentais\", mas intuição poderosa, diz Renan - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMU1Xdkhka3I3ZnZCVTlkak4yVjVWekpaYkVuTWswYnNfZkhKblZNdmREeWRITWpEcTJha1h6eWJaSjlLNXFkWjhMWU9VR2lHeHQ5cENVTTEyUjdnY0tBeFRjYk5XOVI0dE9lWFRHbnp6RG1RY0d6cVMxSDNTa1o1YU5QemswNlNwb29vWFJ2NDk3TnNrZ0FIS1ZleXlKQ19HRm91OHJCdExfcnJ6R0dj?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T15:17:06+00:00",
-      "score": 61.56,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9b16c1671d662d0d",
-      "title": "Crise no STF, nó fiscal e Trump: profusão de desafios aguarda próximo governo - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGdWR3dNZnpiRVVSZXZxSkZLZUNRd2dlNjQyWUJjU0Z2eEhDMU1nejVGbTVLbFEwNVNJX0IxaHI0dDJxUy1yeGkzYU9YNnRuSWJ6RmU3emhyYUxkeUdtYi1hek5odzFjRXNIR1VrTzFBVy1MUmFkMXBPenFmN2tieVptRmFsb0NiWkRBbkdqUEV0dE9OWk0tQlJqZk81MFVPb2xyMmxVTU56N19Pam1ETjlEVzVZeG5fWkVOdTlLOTZNcFk?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-04T02:00:00+00:00",
-      "score": 58.43,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0324bb502f35568f",
-      "title": "Environment, Climate and International Relations - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FTHdhRFB5QzMwUG5yTThNTWJldk9MWFhSd3AtSUljYlh6Ui01SzRScXdfeGJ3dWd2elNVbzBUdkxOZG50Y2JUbklib2p2VDJOM1ItUmdCRU9kOXR6RzVzU2hMQUNOUEhRZUdCdQ?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-10-04T14:37:49+00:00",
-      "score": 57.91,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "17d98e4c52f6a628",
-      "title": "Otaviano Pivetta tem 54,3% no 1º turno em MT, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3l6OE5sUnFEY0dXVFRDdkVheFFiWnBrN3dmNlN2Q25LVHhEeFlVZ3VSUC13U1NfR25oVV9wN0lmajV4bERGcDg1d0VjcDNxbWtSdGEza2tVbzVaRGFzTlMydWJFbGhUMkU3b05ZbXhLN3VsT0piRUlGdm5ORE1keGNFZk5tWl9IUlJKNGsyWXo1TURzUUdHMVdNWDVJQ3J3Y3RTTzl1UQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T10:57:56+00:00",
-      "score": 57.48,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d303535f06df4c1d",
-      "title": "Cuestiones presentes y pertinentes - vanguardia.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVhlcGNoQjY1TWNNdXB5d3JOeWxjVEt2MEIyWVprZFRfSl9mSF83WFlVSURIWGlBVUtLWUgwQXVKUm5Ybk5fc29KbkQ0Z0hVWDZhNDZubmljeW1qVjdJTzM0QXllOWpZaXBULXZQZElYbTB3SUM5eFIzMzJ3VThwQ2txQkV0UQ?oc=5",
-      "source": "vanguardia.com.mx",
-      "published_at": "2026-10-04T11:00:00+00:00",
-      "score": 54.51,
-      "corroborating_sources": [
-        "vanguardia.com.mx"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b57e3ba1e089d29f",
-      "title": "¿Por qué el Papa congrega multitudes mayores que cualquier líder político? - Primicias",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVdreXNrMHRHaXhwSlBwZDVlUnFXZjd4Mzg4V1c0UnlidGdwVWttUnhPT3ZPeFlHRDJWM1UwdTRDRi1PbHFUTnp2cTMzX3IwZ2hESUFUUk14STVHWUhVUS11dUEtUWR3MzBKZVRVMG0wbDRYTjdJOVA0MXVnWF9IRVpmWlplbm1GYUpZZ1hKZWNtUQ?oc=5",
-      "source": "Primicias",
-      "published_at": "2026-10-04T10:55:00+00:00",
-      "score": 54.44,
-      "corroborating_sources": [
-        "Primicias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7f479167cd7d3b94",
-      "title": "Eleição de 2026 já começou no exterior; brasileiros na Nova Zelândia são os primeiros a votar - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOEdBYkoxMldXVVIyUmQ1a1NwZDZBNlVRaFZqUkpoODlicnNPV3U4MDc1MFNnaWZqTC1aYVJIMG5DME1fcXRXR3RVNUxYU0VqZlpXcDJTdFg2d0R2WDg5SWsycGQ2VUNHYlEwZERkQWc2ZjhidVFqRzQ1UGVscExuZ2R2MHo5S1lJcG9NdXBKMGFzUTVqdHR6d3l1ekdGVmpIU0MyLWMwa3FKZHFqc0FvMXJHRmRFLXpsVmFYTjJ4eE5SVGdGZEhnS2hZaVIwZFI3QWtWTtIB2gFBVV95cUxNb2I5RTBlWnAxYzRiT3FJSDV4eXhNc2Q0VDFzSXRfcWRvMjFZbUFwTjJBU3VsR3Izc0JFc0ZEUmIzejIxYkhoVjJpXzdKVWRQbVlBczhyRVIzM3NkSFJ2OUQ5SVpaQnd4SHlfVnhkS1dsNk8tOW45TGVGMnJ6anFicE1RbEhiRG9KZENmdlQtWDFCdmJETUdtRDJoZkpZcVZyY0pza2JoZnM4U0tYdnh2WEI0RzBDQ3FRZmR1S0puV001dFJXQmYxZ3ZVY19nWnh2U1ZsMHpvQ24xZw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-03T19:40:00+00:00",
-      "score": 54.4,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "988d0c41911f27a7",
-      "title": "Explosão acontece na Paulista durante ato de Lula - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDJha19YcVQwZ1NMa1Z0ZHpTWDl5VHBYUVFqV2dUU2tZeUhRXzJSa3VZcDkwLTJZMVhTWU1oeWVzaGdzeXB4eTh0a2x1LUgzNHdlbzh6alAweXI3ckh3LXlrUG9iYVNxRkk5c1pCc3RQZ0lIeXBFTlFiczRrejdNTUhLRW1WbjhkVHBPMlR4S3JPZTJ4bmNn?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-04T06:21:27+00:00",
-      "score": 53.64,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e8cff513af419776",
-      "title": "Ato de Lula na Paulista tem confusão entre manifestantes e policiais - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUERrTUlJY2RUeUVfWGpSR1RtYllQMk43dGhoX3VlZG5oZTRNUDNfSjVtVHdIbVc0YU9nNXdvOFZzY2RpN0kxcXVqMjkzdTNzTWtHb3Y1dHZ5R0xuRjNkRS15M1dZT1d5U0VERlFqSVNrSXp6QlBGUUt5a0Rva083TjdmUU5mZ2NLRHllZzhEQlBaWDRzUk0wNzNrVFc0WlVua2NldnN6U0VpUkM3?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-04T06:21:27+00:00",
-      "score": 53.64,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bda8065fe975ecf7",
-      "title": "Paridade de gênero na política global é tema do 2º dia do Programa de Convidados Internacionais - Tribunal Superior Eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUFBOdWUxbTNYVWZlU2o0RDg5bW8xemt4Z2t5YlJDaU9FdFFhcnFRS1pYMmVBZHlsdE9yMnJlYVFwMklZRjhfNHZXVi1zSXM0Y01vUGFTeUY0VHR1NXpYeHpBWWVJTUd1Y3dQWHE3RWxJYnp5X3FkRjk2elN6OUVWT0FSZTNkTjlGcTZRUWNwMXZZeHdwLXNqTGx4dnEzdEdObnJmbnFwZlNycUlUMUZoYWJCYUtDQTB3WnJvWW9QbG0xVHBkOGdNSXlnQnNkT0lUQUtTR2dER2RhWEJ5OUZUajRucmZtTWM?oc=5",
-      "source": "Tribunal Superior Eleitoral",
-      "published_at": "2026-10-03T23:08:00+00:00",
-      "score": 53.52,
-      "corroborating_sources": [
-        "Tribunal Superior Eleitoral"
+        "ex-ante.cl"
       ],
       "signals": {
         "source_count": 1,
