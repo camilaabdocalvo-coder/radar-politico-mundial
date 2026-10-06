@@ -1,20 +1,65 @@
 {
-  "generated_at": "2026-10-05T17:10:38.971486+00:00",
-  "next_update_expected_at": "2026-10-05T21:10:38.971486+00:00",
+  "generated_at": "2026-10-06T01:19:02.998569+00:00",
+  "next_update_expected_at": "2026-10-06T05:19:02.998569+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "f2f7592ca7caea84",
-      "title": "Polarização política prejudica afirmação internacional de um Brasil com mais estatuto do que poder - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSi00NnpNSm93ajMwWjcyekI3Y29hSkFuOWxIVU5UQXNPWlpzUEpoTWhRQUU3ZUdGUFk5b0ZyNExmZ2tEcFI4U2dxd2lfVXlUeE1aYzJ4VkJFVWR4M3h0NWxoM3JFZHhxR1NyUFZydlBEZU8zOGpwdmM4YkhfSWs3bzVUX0ZzSThoTVdpQlFza0hsNTJtbEhYeTh3UUhVYnJZa0trN1p4Y0VoaTdGMzFkRkdETGtCeFJDQXRvMkM4bGNWbkU?oc=5",
-      "source": "Diário de Notícias",
-      "published_at": "2026-10-05T15:16:13+00:00",
-      "score": 80.45,
+      "id": "b0ddd570b29898fd",
+      "title": "Câmara terá ao menos 42 congressistas oriundos de forças de segurança, e Senado, 9 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEkzQmZzTTZKTEkwdm9TQjhCcUkzeWxKQ2JiQU82SV9NSlZvcUdHZGpsTWk5cE1OeElmQ3ZRalFZTWlCYmlTWmV6ZkhYUldrcEV3ZkQ4LWF1X05XZW40NG5ZOUVRZUZzTXItbHlILTFrcjA5dGtaU1NiQWlFVDlMRklHeFUxTVVMMEhXUEZnaHpFWUJKTUFOekx5ZWJPb2hYbnk2SEtUVVdrWjZ0OUtyWDlUbV9fblJQOG9ab0dHQnhvWHdt?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-05T21:32:00+00:00",
+      "score": 73.99,
       "corroborating_sources": [
-        "Diário de Notícias",
-        "SAPO"
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "db7792804aa73b3b",
+      "title": "Pedro Sánchez adelanta elecciones en España ante su debilidad política - Grupo Animal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdV9KNXYwN3NBUENTdk9vXzRGRDNQUnFlcTJuX2NLcGVibGZPUXdlRVpjY3A4QUNPM2UteTFpbDNtN1AwbzVxN01wZXNxeVdBWWF3UlNyZVIwMkk1YmpiNEJWdzNha0JDMnRILVJOZmJpVGJQY1g4UGJoOHJxVkxsMm9vWl8?oc=5",
+      "source": "Grupo Animal",
+      "published_at": "2026-10-05T23:25:46+00:00",
+      "score": 73.18,
+      "corroborating_sources": [
+        "Grupo Animal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c9038287c656727d",
+      "title": "México priorizará Centroamérica y el Caribe en su política de cooperación internacional - López-Dóriga Digital",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3dlQm5ZQW9xSWI3MXVlY2xUaFhtbVpkbWlLZ3pKcmdhTXRDdDBiSTEzNDl1blM0VEJHN3pkdHg1dUtHV0hUcWZPUWxfdVRUTGVGcU5XdWRCSExHbkFES1c3N2NoT3pQUm00MTUxYkxwSzlxa000R0p2dGVhLWNaazZ1cmZ5azdnTDV6cnVzdmhmS29GWWdGVlhGQWdFdDljb1RxWVgwRUN4N3RJSnNlOVZvMk9TMkpmb1dIdmdB?oc=5",
+      "source": "López-Dóriga Digital",
+      "published_at": "2026-10-05T23:15:00+00:00",
+      "score": 72.97,
+      "corroborating_sources": [
+        "López-Dóriga Digital"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a80f3de0303ebe16",
+      "title": "Polarização política prejudica afirmação internacional de um Brasil com mais estatuto do que poder - dn.pt",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSi00NnpNSm93ajMwWjcyekI3Y29hSkFuOWxIVU5UQXNPWlpzUEpoTWhRQUU3ZUdGUFk5b0ZyNExmZ2tEcFI4U2dxd2lfVXlUeE1aYzJ4VkJFVWR4M3h0NWxoM3JFZHhxR1NyUFZydlBEZU8zOGpwdmM4YkhfSWs3bzVUX0ZzSThoTVdpQlFza0hsNTJtbEhYeTh3UUhVYnJZa0trN1p4Y0VoaTdGMzFkRkdETGtCeFJDQXRvMkM4bGNWbkU?oc=5",
+      "source": "dn.pt",
+      "published_at": "2026-10-05T15:16:13+00:00",
+      "score": 71.82,
+      "corroborating_sources": [
+        "SAPO",
+        "dn.pt"
       ],
       "signals": {
         "source_count": 2,
@@ -27,7 +72,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnVfdDJaTUx2d09HczR2REd3Wm1DaS03bW8zMEc4Z3g4OFFNcEwxa2ZBeC1BeVhjY0t2TEhuSEttOV9NMjAtWmljZnZlMk5ObUN2VVVYNFZWVUFDaElJSVNoWmNndERaRVpiUi1zN1c0UkNLVE5tZmtkcXJEaEE3UEdWblZqNHpyYWo0Q295MmZoczZEOTFIUmV3WUstMGlEempMU1ppczhQQ29jSGZITzY3UkstckdnSURFaFJPczRFYTY3NEM1SA?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-05T13:14:38+00:00",
-      "score": 78.82,
+      "score": 70.65,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -37,59 +82,44 @@
       }
     },
     {
-      "id": "b74cdfbe2b5bb5de",
-      "title": "Costa Rica tiene una visión hiperlimitada de su política exterior - Delfino.cr",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVQ4WXhMeUJHMXF4MGJCc3hVb2tVQ0x1TEwwZjRFZVIzd3BKT1Vpc0RnczlqMk5mbnhUdG41REJkaFBtRG9Lb1hjcUVZYldUQ1BYYVBIdkNhQkhsNDJza0xKbWN3bGNPcWs3SE15SnBWdkFtNFlMSnlWcXV2el9GalRQUGZHdUtCTjlaQXVXYm9TTXA2VERr?oc=5",
-      "source": "Delfino.cr",
-      "published_at": "2026-10-05T13:36:28+00:00",
-      "score": 71.23,
-      "corroborating_sources": [
-        "Delfino.cr"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dab001ba8a4cdc86",
-      "title": "Conheça os senadores eleitos na Bahia - 05/10/2026 - Política - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjBndm1kZlVRU2x1cHZXenh4OW1BbXllSEl2elNFTGdrYld0T1FMZmpyeE52MXBwZ2dyd0c2bXQ0THdheW1PcXRfSlBiMEhIOTZOWkNScE1XNzB4anl4aEJyVWI5UFlUTEJHbUFaek1UY1ZuWld0SWZaMTJJeDgtdzZUVUdDMHV1NUNGSlAzT1M?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-05T10:08:00+00:00",
-      "score": 70.48,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "34fd7c964444fbe9",
-      "title": "ESPECIAL Informat.ro / Clasificación de los temas de política internacional de la última semana: Las crisis que dieron forma a la agenda internacional - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHdNb0JmOGhtQ2RKTWJiYnF6cFdfb1NCTnRVOElsQXJPVXZZMUNRNTRGZWdKcVg1NFhlcXBhbHhsSXByOEItdnhtdXFJNVFGM0E1ZWtmczdIVFFFREl5NDVQQW9XX29pMUhuV29qWU91MkpTRldwRFltQzlvWDVZUlk3UnFTUWRHblUyTGphQ3U?oc=5",
-      "source": "Informat.ro",
-      "published_at": "2026-10-05T12:14:44+00:00",
-      "score": 69.72,
-      "corroborating_sources": [
-        "Informat.ro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "87c6721db4c9e2d7",
-      "title": "Derrite se torna o senador mais votado da história do Brasil - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnB2eEJ6dU0wb3NoaUxvbmtZbTdlWHY2bENkekk2eF8wZjlnaWhrQ0pPcXcxODk4bDViOXhlQU5MZUlZclRSODB3andnRnd6VVFObjBMaTB2T1EzSHRBaDQzcmJUV01KSHJ5SU12TTJMalF3cVBjUzAwN1Y2aU5fWFVpa1hyYXBTS2N3R1VONEJGQXRZVWZ0bTZXbzZHNnBVMndpclJnS3VBZDRya2c?oc=5",
+      "id": "360b185da26e70c8",
+      "title": "Luiza Erundina será a deputada estadual mais velha do Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhaanJsc1hoeE1KalBHSlhlVG10R1lEZmR2TWJJbFlpYzZFUEwybWg4REVnRTQ2UnhncnBSakxPRFh0enhjaVRkSUNGTGkxdXk5a3A2d1B4dkFNS0t1QTJ5QmFrMUdlOURQSGR4T1JtU25qeU4xYzNocTRiTlc4RE9mVFpCWnp3ck9PT0pXUmZqOS1oWE5nUzBUV3FvU0xPNlp6WVlLSXV2b3dCY3c?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-05T16:33:33+00:00",
-      "score": 69.71,
+      "published_at": "2026-10-05T22:52:30+00:00",
+      "score": 67.52,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cd8a4ac2fe435b56",
+      "title": "Playground politics on the world stage - bangkokpost.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWI2dEhHV3A5N3ZOSGpZalZyZU1tVW5URktTYmtObzBfcEVnWlotS2J1TFN3bGJxYkM2X3RpalYxTldfX3hJbElvbUpsZXdRSTZQMWVVRVBrR0tGU081RVRxQnNFUjNSdVRaUmlWdUhPZ1g4dDZ2SUhYZzlUQXBKbVo4M0VYa3hIWjE2bWN5X1I5RGxB?oc=5",
+      "source": "bangkokpost.com",
+      "published_at": "2026-10-05T18:01:00+00:00",
+      "score": 67.22,
+      "corroborating_sources": [
+        "bangkokpost.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "af50a50e7e985eb4",
+      "title": "Nova tecnologia exclusiva BP indicou o resultado do primeiro turno com menos de 25% das urnas apuradas - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0lXRG1tb04wVzRITG5INWNsUDhVRXdTYWZ1NkFrZnRlbTlLdTFlVnlfNlgtM0N5NDdMTm4yVHJEU0xEOVJjMWM4bGI0T1Nrc1p2Q0pudmpLMlViSHo3cnlLU0Y4YkszUGwxNkZvR2FtRzQ5VGNZVmNwY1BUbEUtWWswenhkQVR5cUpoZVFReWxXU0x3d2RGQ240T250RmJ2OXowWVBBRzRrdHM0dVFoZl90aEh2dw?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-05T22:30:00+00:00",
+      "score": 67.09,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -101,8 +131,38 @@
       "title": "Janio de Freitas vê avanço da direita “sem precedentes” no Brasil - Poder360",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnA2bUhhNVJSbmJHN1hMSnNHM0RRaWhOY1VoUjJXNkl3a2xyZEUzX2JqbkVkTDQ2ZEZMenBjdGN2ekRBWnpGM2pSTHUwVGNRdTF4MUpwZ1oxRVpTVDZpNkRXbTZzNWtKR3hVMWZjSUdOWlFPdERCeXF3VXRSY25HLTY1eHlNTjE2VGd6anliaW9yMHZneVo5TjdFUzA4VnpzSWw4MExIcGM4d3EzTWZUV09R?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-05T16:24:37+00:00",
-      "score": 69.53,
+      "published_at": "2026-10-05T22:28:34+00:00",
+      "score": 67.06,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "52f65df8ac523969",
+      "title": "Aposta na agenda ‘micro’ falhou na economia e não trouxe os votos que governo Lula esperava - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTGctQUV5SEg1UHk2czdnOFJFbG1aTnN4blZ4ZEw0MXZTVnVkbTk1YUJrdTdWcGhJTXI0VzVGNlJSaFUtYXpsQTVueTVmSTdCTGhYRUt2d2thSnpWLXBCS0NkamVFU1NraWV2Yklld3hZbDQ2MjBtMk9JOVB5aU1ZQ09HRmp3aEEzNmhSNjF5ZnRWWms2cXgxSU1PUTdtbWJTMEkzUk5JTWdsQUpHN21fcVJQc0lDb3VKdUgyZ25PZUdLWmdBOVpWSVJ2b19qMG1sMnItX1U4b9IB3AFBVV95cUxPNkI0OWN4R3dYU1RJMjlldnJwajFvZlBxX0dhay1TX2ljcGNSOU1Dc1NNSERzdGVoSDhZYmFOanY0bmZMQnRkNG5YMElvc3VzbXBrVTdMNnlsdGo3YVdmSGdaU3lvM3g4dkwwNFdVRXNKRVpJMjJSZWFna1BVLVVSR1BKQXBiZEw3OU5Nbk1CZW1ZcklqdGp6bEMzMElyUlExS1J4RWcyOG9vZXhPNFE4WmhPZnEtMjJ4eGhreVExRUJzNlBBZEhva09ZdzhBR0VMc3d5N2J2ZDItM1Bx?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-05T13:39:00+00:00",
+      "score": 66.02,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a169f44c4b6ede82",
+      "title": "Lula perdeu força em todas as regiões em 4 anos - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWhCSEx0UEh5LTNTeS0xVXR4WE1HTDVmdV9xeTNaNkYwUE4tZ1gySXR0VFBpM29hMWZ2MWRNc0VTbk5UcW0xVE5lSXQ1cENzNlZSN242WXU2Um5TRTVlZUVocGZTYXhiM3V2TWlBV3o3QTBjM2NobkZvWUQ3LURaVDJsZW1OM1VoUzdZUGF4SC1RM1RuT1diMnl6eDI?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-05T21:22:30+00:00",
+      "score": 65.81,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -116,10 +176,115 @@
       "title": "DF reelege 11 deputados ligados à compra do Banco Master - Poder360",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEJTTUR6djI0SHFLVURob3licEhCRkpfRzJ5QU0xMlRIaURHY3NuMFdEZXoxOEFjTTlHZnBEU2JfTnpkb2w4ZWxPVjdVUVNMQWZycERHUkNJY2x4WUlHRnRHMWJFdlA4WTlSaTBhTTFxT0pqVURFYm1hVkFoeGhjdE9tMTg3bURDelVNcXRPb2xvcVd5OERqLUJ2V3k3bkpYQm1TNVduWjY?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-05T16:12:18+00:00",
-      "score": 69.28,
+      "published_at": "2026-10-05T20:58:11+00:00",
+      "score": 65.36,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e34a83dec968aae4",
+      "title": "As eleições no Brasil e o Brasil no mundo: desafios de um player global - comexdobrasil.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZExsVGh6eGN1amZZbkptMjNCNDI1bUQ5eHhxOVNtX2JKN2JxRnNxaF8yTnYtekVXbU1WOFVWWFM3dXUxbzE0SnowZXJVcWlRaC1NRXY1ZlNyYXJqSzRUd2cyMnBzbzZDTkIwTUZBbnROVExpeGVjX1A1MFJLbl9NUEQxZk5nU1hHelBIQUp4dkVPR1lKc3BwWG1nSWdDdw?oc=5",
+      "source": "comexdobrasil.com",
+      "published_at": "2026-10-05T22:38:56+00:00",
+      "score": 64.26,
+      "corroborating_sources": [
+        "comexdobrasil.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c123cda6f0e09182",
+      "title": "Dólar caí e Bolsa sobe após vitória da direita no primeiro turno - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1l4Y0lCcXlqRlZ4QzNIZVBOS3dOMGdRZUphY3lGS1ZnVkxYWVFHb2R5c0RhVDRPY294elJUVEU2ZHRNYkhySjlYc1BrUmhuWWlmdTNza29KdXJzQWo5SEwtMnczeWg4UmlaVThiaUhjRW5xb1pEQlJ5RHhUaG1KUVVYdnRHMjNZaTg1Rk5WZjJXRUU?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-05T19:38:09+00:00",
+      "score": 63.91,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "87c6721db4c9e2d7",
+      "title": "Derrite se torna o senador mais votado da história do Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnB2eEJ6dU0wb3NoaUxvbmtZbTdlWHY2bENkekk2eF8wZjlnaWhrQ0pPcXcxODk4bDViOXhlQU5MZUlZclRSODB3andnRnd6VVFObjBMaTB2T1EzSHRBaDQzcmJUV01KSHJ5SU12TTJMalF3cVBjUzAwN1Y2aU5fWFVpa1hyYXBTS2N3R1VONEJGQXRZVWZ0bTZXbzZHNnBVMndpclJnS3VBZDRya2c?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-05T18:58:45+00:00",
+      "score": 63.21,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cbfd868f9344b60d",
+      "title": "Filho de Lira é eleito o deputado federal mais jovem da história - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3lRcDBoZmtTbldJLTh5MGtrcWJLNVRQMGFKOUc3RlM0Mkp6aEF1ZDEtNmg2NWNmWG5CeHJNWTMyc3JUUVRJeVhhR2V2d2tYWGxXaS1MWTdMNURXSDFxTmY1NGlGcDNONUJOcXBaYVFVbWcwRXFxRnFaUmtwdjc3Y0pVTjhVVmljbjhwMWlwTkxhLWJZakJvZm56U0FGbHN0ZFE2OFp5N3JYZEg5WGkzMXdXRQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-05T18:58:45+00:00",
+      "score": 63.21,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dab001ba8a4cdc86",
+      "title": "Conheça os senadores eleitos na Bahia - 05/10/2026 - Política - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjBndm1kZlVRU2x1cHZXenh4OW1BbXllSEl2elNFTGdrYld0T1FMZmpyeE52MXBwZ2dyd0c2bXQ0THdheW1PcXRfSlBiMEhIOTZOWkNScE1XNzB4anl4aEJyVWI5UFlUTEJHbUFaek1UY1ZuWld0SWZaMTJJeDgtdzZUVUdDMHV1NUNGSlAzT1M?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-05T10:08:00+00:00",
+      "score": 62.99,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b74cdfbe2b5bb5de",
+      "title": "Costa Rica tiene una visión hiperlimitada de su política exterior - Delfino.cr",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVQ4WXhMeUJHMXF4MGJCc3hVb2tVQ0x1TEwwZjRFZVIzd3BKT1Vpc0RnczlqMk5mbnhUdG41REJkaFBtRG9Lb1hjcUVZYldUQ1BYYVBIdkNhQkhsNDJza0xKbWN3bGNPcWs3SE15SnBWdkFtNFlMSnlWcXV2el9GalRQUGZHdUtCTjlaQXVXYm9TTXA2VERr?oc=5",
+      "source": "Delfino.cr",
+      "published_at": "2026-10-05T13:36:28+00:00",
+      "score": 62.98,
+      "corroborating_sources": [
+        "Delfino.cr"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "34fd7c964444fbe9",
+      "title": "ESPECIAL Informat.ro / Clasificación de los temas de política internacional de la última semana: Las crisis que dieron forma a la agenda internacional - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHdNb0JmOGhtQ2RKTWJiYnF6cFdfb1NCTnRVOElsQXJPVXZZMUNRNTRGZWdKcVg1NFhlcXBhbHhsSXByOEItdnhtdXFJNVFGM0E1ZWtmczdIVFFFREl5NDVQQW9XX29pMUhuV29qWU91MkpTRldwRFltQzlvWDVZUlk3UnFTUWRHblUyTGphQ3U?oc=5",
+      "source": "Informat.ro",
+      "published_at": "2026-10-05T12:14:44+00:00",
+      "score": 61.77,
+      "corroborating_sources": [
+        "Informat.ro"
       ],
       "signals": {
         "source_count": 1,
@@ -132,84 +297,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkF0eHdmMHhVT091dU5MM3NhRldyREFEbWpNRU15bng5R1ZDLURuWk5mQjlNX21JUG81N0pzMF9LaGN0dkE2ZTB2cnB5N2tXaC1Cd0hYNkU2Um5JQm1MdUtQR3BGLTNlUThGVmRoc2pkWmhoNUI0dFB5X2FwdkFRbVRKNFV5LWpVSTdrX0ZlclhzWmZZZUtGeG5CZldialY0ckpGODY2ONIBrAFBVV95cUxQTW5pdjBuVVVzVXlKRllHZjB4M2w1ZktaS2FpbXVTS0pCbVdvQ3RMU2tULUJ2dER3WkpENFp0VEhlVGw4WXp2WE1QbG1tNFNtdERuMmJHRVMxQU5pNEYzLTVNZWRkTEZhYURheVJWY2VqMHYwZEFiQXpySU12bjFiUGJPUUpQZXN2LVhmdnNJRm5RTjQtWW56Wks5MkFzRDVmUmFQS00zZ2F5N3Ax?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-05T08:30:00+00:00",
-      "score": 68.84,
+      "score": 61.68,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9d4cba8d6aec5086",
-      "title": "7 conclusões sobre conveniência e notícias - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWJpT2YyUlI2OXpGWllDRVZETXpMYTJ3Uk1BLXAyOVpLTHVfdFpyQjk1OTJCdG9UMHFkQXNpTTJkTnNZNHJHNFd5M0JEaTctX1hsWHczbUVEbFl0LWlLOHFGM0F0TGVyRWM1ZVBuXzIwSW1Lb04xRFBjUTRYR2RIUjh1ZDI?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-05T15:33:33+00:00",
-      "score": 68.5,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d2f1489b2d4d8519",
-      "title": "Influenciadores de direita tiveram votação recorde para deputado em 9 estados - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZktkY211UkVVbnZWdzdWVUJkM25Yc2Z2dElQZ25XVWRrOUFkTU1paUdyV2FKZHNLUDBsMldJTnJsaU9BdVZNNzF0a3dpdFF2QUxaSjhUMTI2czUwSE9QQkp5dFdONEdoYTFWajZQMnBHREZLR080dWMtbm5TNnJDTW9RVmRrNmtJYkFTdmdWYnBYTmFBVEpTdjFKa1ZLN2dVUjZ1a2pXdWFocnFBazlWTnFLU3VMdTVlU0FOaG9SN1NqaDhsc1E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-05T15:30:00+00:00",
-      "score": 68.43,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a169f44c4b6ede82",
-      "title": "Lula perdeu força em todas as regiões em 4 anos - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWhCSEx0UEh5LTNTeS0xVXR4WE1HTDVmdV9xeTNaNkYwUE4tZ1gySXR0VFBpM29hMWZ2MWRNc0VTbk5UcW0xVE5lSXQ1cENzNlZSN242WXU2Um5TRTVlZUVocGZTYXhiM3V2TWlBV3o3QTBjM2NobkZvWUQ3LURaVDJsZW1OM1VoUzdZUGF4SC1RM1RuT1diMnl6eDI?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-05T15:22:30+00:00",
-      "score": 68.28,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2cee7772fdc5686c",
-      "title": "Ignacio Walker: El principal peligro para la política exterior chilena es la ideologización en la era Trump - El Desconcierto",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0h1Nl96R2d6NzVncUZiSy1HV3ZpVXJxcmJILUtKWGt4dkVwNmd3bDlCdHpiVkVFb0FFT194Zk8zSnZ6Y0tlN3Rrb1NXYU5UbmlLLVdfVEdhTWEyQ1I3RTFhamtwR0tWZ0RuWllrT2ZoWjA5dG15M2RLbXY2em5kYnd5bllqYXdWaG9oeFdLcjdsRWJvYTMwQkZILWppZGNhMFh4LUZ6dXY2N0FrMDltUkZFQ1NsQ1V3YWJjcmpGajdGZ251UEdrUE53U1pjdW1BRTRsMnJTWV92eW9QckE?oc=5",
-      "source": "El Desconcierto",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "score": 67.34,
-      "corroborating_sources": [
-        "El Desconcierto"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c123cda6f0e09182",
-      "title": "Dólar caí e Bolsa sobe após vitória da direita no primeiro turno - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1l4Y0lCcXlqRlZ4QzNIZVBOS3dOMGdRZUphY3lGS1ZnVkxYWVFHb2R5c0RhVDRPY294elJUVEU2ZHRNYkhySjlYc1BrUmhuWWlmdTNza29KdXJzQWo5SEwtMnczeWg4UmlaVThiaUhjRW5xb1pEQlJ5RHhUaG1KUVVYdnRHMjNZaTg1Rk5WZjJXRUU?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-05T14:33:08+00:00",
-      "score": 67.31,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -222,7 +312,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFlRdVZ0aTNFVHltbEN4VHZlanZVakItZjdyZHhxQkJEcVM1bUI0ZXo1bWQ0MG1uVkJSUG5xcFdIblZUU05wdG4td01xY1BpdWxPcEVnLXhiZ2V6WHdKWGVidmF6aEcwSF80STRBQVVpQmhkV1NXNWxZemJvZ0pETkxHSkphaEhmMGk0QjRXWFRGNVhFdVQtYmIwTU1yNW4zcWlYYnptTWlvM2M?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-05T06:40:57+00:00",
-      "score": 67.1,
+      "score": 60.29,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -237,7 +327,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1dZVTI2MUdwUGZhMDVqdkwxRS13UVNYTC01dV8xb184YXgwVk03TU1rLVFJdTJZRndSN0FlXy1EdlIyazRsQkZkU21fVnMyX205X3hnc2lIcUc1TzdLX1Y4Q1NBTzhORXJmSEpCUWYwMi0zOTdhejE2YXduWUFsNm8zTnY5ZVE3?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-05T06:18:08+00:00",
-      "score": 66.74,
+      "score": 60.01,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -247,14 +337,14 @@
       }
     },
     {
-      "id": "0a0ee68d9ee08a3f",
-      "title": "Canciller Huanca coordina visita de Kast a Bolivia - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnJyNlVUMTF2LVk4bjdYcGdCQlJmenM4cmhKbU80NlZMdzBXQ21SWmRyTVp5ZkdsMnVNQkNvbENHSUltNllWQ2hYVDVQM1ZsUWdyWXZfSW1JYVJIaXhVQzhjMVVKTEhfbVlyelNPVnFBVDNqVmx1RHhCcExlRnVqZnFmRDNyY1BQdTc2RGJuYllYZHZBZTByaV9RV0E?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-05T16:05:39+00:00",
-      "score": 66.14,
+      "id": "2cee7772fdc5686c",
+      "title": "Ignacio Walker: El principal peligro para la política exterior chilena es la ideologización en la era Trump - El Desconcierto",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0h1Nl96R2d6NzVncUZiSy1HV3ZpVXJxcmJILUtKWGt4dkVwNmd3bDlCdHpiVkVFb0FFT194Zk8zSnZ6Y0tlN3Rrb1NXYU5UbmlLLVdfVEdhTWEyQ1I3RTFhamtwR0tWZ0RuWllrT2ZoWjA5dG15M2RLbXY2em5kYnd5bllqYXdWaG9oeFdLcjdsRWJvYTMwQkZILWppZGNhMFh4LUZ6dXY2N0FrMDltUkZFQ1NsQ1V3YWJjcmpGajdGZ251UEdrUE53U1pjdW1BRTRsMnJTWV92eW9QckE?oc=5",
+      "source": "El Desconcierto",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "score": 59.88,
       "corroborating_sources": [
-        "La Patria Bolivia"
+        "El Desconcierto"
       ],
       "signals": {
         "source_count": 1,
@@ -262,29 +352,59 @@
       }
     },
     {
-      "id": "6d50bfc5029fa94f",
-      "title": "Dólar cai mais 5% após 1º turno das eleições com Flávio Bolsonaro à frente da disputa - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT1o5a1FDVU8wZnhpQ2s2NW9zQUhHdFlKa2stZ1pQZGVJVnFLVzNRNG4zUDlUWVplQ0d2dG1Ra2lzWml0MUotdmg1MWhaV3ZVOTN5SXNKYTh2Y1pwaDBCWGFtVks0cmpRZHNub1d5VHN6QURGLUlzZFVGTDlmT1paWkR5ZVhTajJrR21rejMwZEg3eHVtd3NGYTh0VDBvRXBEbk5ZczlCOGJyR3FldENwQmxrWGY3bkZlU2dhNDA4cjlySzlOejNhMjU4NEhHb1FMN2lWV2tkQlhLQ2_SAeABQVVfeXFMUHhkNV9uZS1IUFZ6ZDE3OUxuRU1KeHR3ZlZkM3NDSGNPY3gwbWRtc3JJX2hsdlZDaGswM1RYS1VHb090dmRFOEtXdVVOcWVJOVhsLTRMajNVLWQzUmJQRW5OQkVGeDNUcDRhZmNSSndtWlBFSzBoZjVMd1ZCRmN4eHAyaHpXa2ZlWEhnUmd2dEs1WTA2b0JMdXhpSWRjNjBHNWM1M0pDUnFWdFI1RWp1SGplaXhiRVFuT2tOSE01REdBRmRzVVMwbGp6ZTd5dTJPQklKakRJalJxYUwwb3NoWkc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-05T12:18:10+00:00",
-      "score": 64.78,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cbfd868f9344b60d",
-      "title": "Filho de Lira é eleito o deputado federal mais jovem da história - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3lRcDBoZmtTbldJLTh5MGtrcWJLNVRQMGFKOUc3RlM0Mkp6aEF1ZDEtNmg2NWNmWG5CeHJNWTMyc3JUUVRJeVhhR2V2d2tYWGxXaS1MWTdMNURXSDFxTmY1NGlGcDNONUJOcXBaYVFVbWcwRXFxRnFaUmtwdjc3Y0pVTjhVVmljbjhwMWlwTkxhLWJZakJvZm56U0FGbHN0ZFE2OFp5N3JYZEg5WGkzMXdXRQ?oc=5",
+      "id": "9d4cba8d6aec5086",
+      "title": "7 conclusões sobre conveniência e notícias - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWJpT2YyUlI2OXpGWllDRVZETXpMYTJ3Uk1BLXAyOVpLTHVfdFpyQjk1OTJCdG9UMHFkQXNpTTJkTnNZNHJHNFd5M0JEaTctX1hsWHczbUVEbFl0LWlLOHFGM0F0TGVyRWM1ZVBuXzIwSW1Lb04xRFBjUTRYR2RIUjh1ZDI?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-05T11:59:19+00:00",
-      "score": 64.44,
+      "published_at": "2026-10-05T15:33:33+00:00",
+      "score": 59.79,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "489c848fe788f79e",
+      "title": "The 'brutal' act that changed Alastair Campbell's opinion of Britain's new PM - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm1JRm5TeHlrOFdnU3VtUEZQZ3JJU1o4b2doUzFMR3NiVi1fVFpHczY4Z0pQMkZaaW9wRVJoRXl5cUpaZjNOcTRvWmFJSzFXaVRKVE1Fc3BLbGtPSzFKb3I0T0NoaVljdlphQXJNRUhIYy0wZFV1OGNhb3F0bVQ3SmpIWnhWX2VmM0RxaHR6UDJjLTdFLUU4ZA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-10-05T18:32:10+00:00",
+      "score": 59.75,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "505dbcfac8261f82",
+      "title": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdTJNYWZILWduZDRRTktocmVDRVBpa2VaYktFejB1SDZaOXpRZy1MT2ZQR3VFTm53SWZhNnJTRDlMTXF5VG5ab2NPX2dQSnJlTDNMU3lEeFZJZU1iTWNZbW9GR01yRmd5RHpEZFlneG5HaWlfMTMtQmVqTFZYV2lqOThQSk4wOFRoU3dQRndocDBHYVZXdHFrM1Q3N0h4YXN2TjVDR1R6Z1Ryb29SWEZ5WHhRd3dkREN6TkdRODRNV05jSENiazVmcHJlSW1lZG54OHJ4cW9PQm5hR25XaFRqSGw0V2RZQVU?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-10-05T18:11:30+00:00",
+      "score": 59.4,
+      "corroborating_sources": [
+        "Daily Herald"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4f5636f3176b44fc",
+      "title": "Lack of transparency in what space weapons nations are pursuing and even on what's already in orbit - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU0N0SFVhaVJaNVcxdWRlYkt6RnhNSG54TG03dzZWUjBreVYxeXZxUlhXRnlObmRJVE84MjFyMW1mWXkwQkQ0anhGUk1SR3RaeVFiSlFhTmg2cE52dW9LVHdSZUJKN3AzalVSTUY1S1ZOZU1icmZZd0FxcnBRd1BQcks4dzhMYmtPRVJSTWRNX3kya0dpTXJQbTJKZTEwMkRxUWl0ZU1VMU1STXZhb01ZWGxtbXlzZ2QzQ1NMbzZYMVFFa3RFd3NxRTNUV1RaMTl1YjlFNjV0VFFlS2huY0lqX2VPUWVaTDAxSGpubG1MaDVSOFZu?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-10-05T16:51:07+00:00",
+      "score": 58.05,
+      "corroborating_sources": [
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -297,7 +417,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0h1SzNPNkVwdkt4SkkzNTlidXZSbXFUX2JSYURmLU1iUTF1LTNmMTRuR1lnekFLN3BVa0dVYU5YRnJtcmFvZC1WYlVJOG1MSG81ZWJnNkM3dG9KU3RYYm9GUlhhUHAySXV0Qmc0LWtyNkR0bEZhOVM1X3VMdW0ydTQ1WS14djdZdE5V?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-05T02:46:19+00:00",
-      "score": 63.64,
+      "score": 57.53,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -312,7 +432,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWtabUk4Mld6ZzNWbGIzLW5scnV3b2dMYlV1NFd2S3lpa0pEYVVvVzZTOU9zZk5SNUVPbnJFVXhBTEc0dDRreF9pS2U1bWc2MEp3NjR1dkFNM09GRHVzWFRVWUZidUc1Z0drT0MyLVpnYnZnaGw5c2stNjB1Q010Z1BQczg2ZEMyeWdudEZHaXh0eDNQdlpkdG1QLUZYa2M4RzdIMVdBeFI2ajhJcFg4?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-05T02:33:43+00:00",
-      "score": 63.46,
+      "score": 57.39,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -322,134 +442,14 @@
       }
     },
     {
-      "id": "f109d5fb8eef7d71",
-      "title": "5 de octubre: un recorrido por la historia, la cultura y las conmemoraciones del día - La Red Corrientes",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDk3WFl3R0hVNVNrRm1GTGlmbVpNbUl5N0xQYnNtYzExb05EbzRZTU1ILTRHSkRqZ2x0YWpOcEJ0WnZsSG5iVWFsTEVPSnlqdURRSHpJd3RtZmtKRTNWRVlMUnlMa0k2OTFscUNQN3VqOVM5b185cVdHUjdNUTRQY3BmaFNzR2FIVUYtQmZ1bVB0SVRidUZUckg4a3FOZXpOMG9JVTFwM3RKR3JDRk96LV9RVDlFejRxcjBmOG8wMGFNWG5KQ0E?oc=5",
-      "source": "La Red Corrientes",
-      "published_at": "2026-10-05T13:28:17+00:00",
-      "score": 63.07,
-      "corroborating_sources": [
-        "La Red Corrientes"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ebba5025b4b209d2",
-      "title": "Latvian Prime Minister Andris Kulbergs wins election held under shadow of Ukraine war - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUpQNHEwWkJ6VUs2bkRBMy1RTnkzdVE5aHZrRVp6YjdzZnJiOWxkRDhYelNXVFVsQU5FejBVZUEzOHp4ZjBiMzhwOEVTYWxFYVppTW1tWkVOQXZDbFpjM2hfQVhiaFo5dkljRmVzMVEzODNlY29DZWFJanhFX1NLV0RiVGVIUUtidHE3SV9lX2lxRDVHZHNZ?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-04T04:38:00+00:00",
-      "score": 62.78,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6afb5b154dd4a4ea",
-      "title": "Veja o mapa com os dados da disputa para presidente por Estado no Brasil - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckttTWZLbUNMcC10WkRHV2hMdkNBWmNkRzFWbmJrWTJ2Nm1KRmZjTXN2ZmFwdzBzWWloQ0ZJVVRTbXRqcU13cUF5QWxDM19mdFhIam9RMW1velVvZHJxQ1ZUR3B5R20ySFc4VDNzblI4TGZudDBUbW5IbzVSTHhqUnFQczlxMXpieGFNVmlMdUNjUWI5UDZkbDhMZjV6S3VKU1JPeWh3LWxEeTlGQlhjUXVnRmdfR2M2ZGfSAb8BQVVfeXFMUFhwSnZMbDdYbnhoZmJHRGEyTlpJTWJpTml2b0F5RVNJcm9CUm5RcWRNa0xiWFprM2tzVS0wV0sxYkhhQ3lQbFlzWkRyNFpTWWRSaVBUOFdPWmxwbTNnQXRIbXhlQks5ekVRUlMyRzZJTzNrMUhSa2RBWkdPOVM5eFpTMFljckdYTWdRd283WDgxSU1XZ21xVWFQZmI5ZWx0UTBrSUstWTFZWnhteWtSNW5ycXR0SXJxOGRZUlBmQ28?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-05T01:26:13+00:00",
-      "score": 62.54,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "189cc5f8fa793165",
-      "title": "A Saudi-led coalition says its fighter jets are bombing Yemen's Iran-backed Houthi rebels - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdTJNYWZILWduZDRRTktocmVDRVBpa2VaYktFejB1SDZaOXpRZy1MT2ZQR3VFTm53SWZhNnJTRDlMTXF5VG5ab2NPX2dQSnJlTDNMU3lEeFZJZU1iTWNZbW9GR01yRmd5RHpEZFlneG5HaWlfMTMtQmVqTFZYV2lqOThQSk4wOFRoU3dQRndocDBHYVZXdHFrM1Q3N0h4YXN2TjVDR1R6Z1Ryb29SWEZ5WHhRd3dkREN6TkdRODRNV05jSENiazVmcHJlSW1lZG54OHJ4cW9PQm5hR25XaFRqSGw0V2RZQVU?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-10-05T12:35:52+00:00",
-      "score": 62.1,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6ae751c55c97feb5",
-      "title": "Braide lidera disputa pelo governo do Maranhão com 48,1% - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFFmZGR1eDNaUTJkXzFJSTI5Wm9uMnYxLUt0VlEzQ011a0dGS2dkMDhzeWlfaVhQM2Y4UlNtbFlEQjhkaGhXeGJmZVlRalpmSEJDNi1ZcVNkVGl1YXBmX3pocEFFNmxTZk9ZTE9kN25PSnBHeDI0RkctZHhBakNwNXFTajNzdlhhemJDSl9IS3VpMy1aNlNXdzNqSTdZYy1HX1ZGRThR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T23:55:21+00:00",
-      "score": 61.34,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "19ffa3df7ba046af",
-      "title": "Casagrande e Evair De Melo são eleitos ao Senado pelo Espírito Santo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDlCbDRpTHFucHdiZ3c1cVBVZXF4SWJ6U1VJTWhQdnpyN3lhZVlyR3JJZmhxOVR0MjhxY3lhbmN3RmhWOWhyZnZ4MXRwU3h4Z3JhWXJsNi1idndUYU9VRFZTeTVQYUlqUjVXVHdxZXJNUFh4Skw5RnU0SDI1VHRVNkkwZ1c4VW53X202UVJYZWYxSlV2MjI0V3hkS3dGelh5REhqLTlzZmdOZVE2S3hfa3liSmF5eUMx?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-04T22:37:57+00:00",
-      "score": 60.36,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4291b5579be2b7e2",
-      "title": "Tema de campanha, Nossa Senhora é celebrada em igrejas católicas no dia da eleição - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHBRbDhBR040S3hVUGxtR0VIRWkybzZ6aUtEbTJxMGVLMEJLdzJMTW0zWmNSUGtJMUxxRmFSRF9XOTFFMzFhdUVmUWQyZGQ2ZUM1WC1sR2tXOGE3bWRJaXExRm1CUTdHTzJJSVR3cWlqbXlEVmhtM2N4TWROX2hhWXBrQ29kSzY2Qjh1LXlWbVZzZlY5NXFHcnZDZmhGTVBkNS00YmNsQjRpOURvTlFHLXZhLUF3ZzZEQTV5RUZfZEFxQ0x4TGhfaU5nSQ?oc=5",
+      "id": "527bb948ca3a6f63",
+      "title": "Senado terá ao menos 49 congressistas a favor de impeachment no STF, 5 abaixo do mínimo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjc4andRTThEbEVKVEQzNEw1bDZXQkZIOEN2cVhld3A0NFk1VWpZRm5KWUtOeGN1MEtfWV84WFJORFFfU2k4T2Myc01JWFJmZlF4R253d01OcGt0enh4UGFPYWdSbExNbHRSZDhZTjZUbzAwSTllNUttcUZQeEJWY2t4a2JJMnJLYUhDUWl3R2FXV0hhMnJLRnZORERod28zd2F2M3p0VnZqVDdjLXhHREhYY0RmMDRmZDRDdDdVV1VtYW0tbDZ4M3FxN3RKdldtOVE?oc=5",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-10-04T21:50:00+00:00",
-      "score": 59.77,
+      "published_at": "2026-10-05T02:27:00+00:00",
+      "score": 57.32,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ff8db64bc4ca2451",
-      "title": "Novo valor do Bolsa Família começa a ser pago dia 19; veja calendário e reajuste por pessoa - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSXNpRjY2UXJGVEJOWUpvNVRCM2JablNsNU5mREIyNW1IV2RXUFJuMl9LOHlMSzZZbjM4UkQ2N3YzVG5KbVEwd3M2aUYtYWExNG9YMWIxaDBob1dzXzdxZFRkZWptYTgxOG5KeUdUMXN6ZU9ZSVY5eXRxUGxEeENYZ0hZbEd4bkt2U2Q0OTRLQngzanJJNkdFRDlRbVVQWEo5UzQzZ1hxTkk3NzdDcEdkZC1vS3NKQ2tiU2Qxb0VQZ0kxTWN6QXJ4Y2I4V1U0eW1ScFhOMDNSQ094QQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-05T07:00:00+00:00",
-      "score": 59.39,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "69fde5d34a3b9881",
-      "title": "Nikolas Ferreira é reeleito deputado federal por Minas Gerais - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0U4UGpPd3o2ZHA3X3dIOUJDcW5PWVJfd3hSQ1JiN2lTOWMyQl9BdUVueVVlVWFnZ0w4YlN5aUNESWpZYmd0cFhJV3Y0dzJXazRJcGRENGJUR2RiZElISDIwaVF0c0JNUDh1Q1pQaHRrMnZTa1k0eW1zR05SSHJONHhlSk1kQ2hucExLV0tWRHVCdzVPWDIzMlNxREtVSHRhUkdzSzg2dUs?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-05T06:59:40+00:00",
-      "score": 59.39,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
