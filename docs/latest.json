@@ -1,17 +1,137 @@
 {
-  "generated_at": "2026-10-06T11:18:51.581999+00:00",
-  "next_update_expected_at": "2026-10-06T15:18:51.581999+00:00",
+  "generated_at": "2026-10-06T18:25:34.721943+00:00",
+  "next_update_expected_at": "2026-10-06T22:25:34.721943+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
+      "id": "2e950cbe2df91a9a",
+      "title": "Não dá para esperar que o Estado defina onde vão estar os data centers, diz presidente da Anatel - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXZNZUdubkw3NHFZTDdXSHYxaEhHRDRBRkNfc1JFVUhybFlxT3pmSzhQcnhzU2JodmQ1eDU2djQzcWVMQnZIQkZBUE9Wb0tibFZuOFNqNnoxUlNzQVRDQTcxUVlrdXlhdEN0UUJYcEdmcmtNcXE5aFI5bHhuRzF6ZUFrZGFVcl90M0xLM05uaGNCc3RvMlZuMHhPb216MEpaSkpQamQxQ3Fwci0zTmlwM3Bqb3ZuanFhbjVsellkbldlWUIxT0x3RlZ0SUbSAdIBQVVfeXFMTzNEV3haV3JuV2hMQ2pmWGZXR1N4NzhYQ1AydEJpdXNzdG5ySk0tYVVQaTlaTkJ4Tk9VN0tEaGRGZzNDNk1aMmVyY3NDejFNcHM4Z2NyOFVDQjlQUTVhNmFNV3hhNnRybXZMTklMQWRUckV3TEhwR0p5cGZPM1ZuYWVIbzVWd2l4UTFZeEtSZ1ZnSFluck1yTmhkYlk3SmVyOTBOZHFSNXZnVk9BZHBfbW50QjhDVW4xRDhLVzFwU2VvUmtPZllQMldmTi1zT2VVN2lR?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-06T17:41:00+00:00",
+      "score": 77.56,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6013750d5b6e156a",
+      "title": "Milei viaja a hacer campaña a España tras el adelanto electoral impulsado por Sánchez - Política y Medios",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUlvVkIyYWtuSzctdkdNeUVVckItX3BUVGhVN0ptRzJpR0RBbHN6VUhURDJSUG5jSF84elltenZKeWtxZW1HTW0xQXFkeHVxS0lXbXVVQVJZbzAyZzNnUkFfeUFrQ2VSNWZZQ0NHVUpGckpPMnVvNmZmOHo3aXN6UjZTOGpzMHBmaGp4Q1NvTUk3WEo1YlpMTS0yeFg0OFlXQ1hQY1FPYmpybTNmVFF0dnU2cmRDeFBCc0MxZmlmcUZYcXQtTHc?oc=5",
+      "source": "Política y Medios",
+      "published_at": "2026-10-06T15:31:31+00:00",
+      "score": 71.99,
+      "corroborating_sources": [
+        "Política y Medios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "25aeef8f42287edc",
+      "title": "Bacman y Negri analizan el complejo desafío de Lula para dar vuelta la elección en el balotaje - Política y Medios",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzc5Rjl4N2JnZTExbGlqYjJJZ3pheG53RTJKVEJkdDB3cmQySFJqa2tHVzZXT3JpakI0MnZyeG42WkQ5UENvTFB6Z1g1QXItbzJ6bnJEbnEydlVBSzFTX1NaMlpsbk80bFV5NVpPS3pKVmF0M21wd1V6S3d3SmRmRUp0WGZZYi0wckhkc3J1T24wcElMU0FLV25FTFFmNkNPVGg5d2tUckxSN3hkaDIxRFhFZ0VjZ1pPRzdwOW1nZGpKbnF1aXJOMG9RR3NheDUxWlE?oc=5",
+      "source": "Política y Medios",
+      "published_at": "2026-10-06T14:31:40+00:00",
+      "score": 70.86,
+      "corroborating_sources": [
+        "Política y Medios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c115c62f885a4310",
+      "title": "Veja como a esquerda está reagindo à vitória da direita nas eleições - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjFrbXh3R2hDSjZHZ2lidEhxMjIxQlJmVFAwTW1qSE9pM1lKcWZTWUEydGJET0Y4Y2xELU9FRlJwbFROaEFiS3U3d3Nlb2FlejByTERNaG82TWpoQlJTWGdHUTZDNUNNdFBYLW5CdlFCbHdLeEdYMlhJQ1lmVDRlT0pBNXFpZXRTcVFISzBxRThVVGgzZTREYk5fb2R6UVE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-06T17:28:13+00:00",
+      "score": 69.3,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5ec55c0cfcad86a6",
+      "title": "Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkNBWmx1bkVWalh3bXZobm9jTHdEd3duckVqMVhOamZGclFUS2QyaDRwWVQyWEtXQjVmUDc5Y09hdGVPTGxzSEctSGdsNUI4RE9ndWdPTFZ5UjdFTHlzeHZXbUYxVkdMTXZsZTZtblhlRG5BQ1VEMjM3QURoTmNhOHI1THhBbTc1ekZ5UWlPcUhrcmItSy1zOFJVa0JnZDQ4aWZoSXlCc2FJN1dqT1NVNU1kaTFLTjNoRFhkR3ZvZFV5TGdJaEl5dlAtNHNIVjN2cVV5a2UzclpfNDRQX2NZcg?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-06T04:04:17+00:00",
+      "score": 68.68,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ef7fb15e04816313",
+      "title": "Crise política na França reflete desafios na Europa, analisa especialista - Tribuna do Agreste",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZXlDNUdpZjR0WjBCazlTenoyZTRzNHRGMFB6RVdUNUNYZDhib3NUcTNwZzNKaUtKR3NvNkU5UkVuQWMyWEJITFVKVzFrZUl4aHpOczNGUTlTYUwtLTJhQ1NxZmdrM3BvX2YwWk1haTZBZkV2cjJ6MU9GZDRFbXhNLXQxS3ZGb0Z5eWh3U1ZpRmVmdHJVaWt1SFZSZ2c3TUZVOUh3TEZGZWNmOVROUlpLT2Jwbk9JbURIQWx6Q2xTUkFJUm1iNUxNcll0X3U?oc=5",
+      "source": "Tribuna do Agreste",
+      "published_at": "2026-10-06T12:02:00+00:00",
+      "score": 68.15,
+      "corroborating_sources": [
+        "Tribuna do Agreste"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "952262c18eb09cf1",
+      "title": "Efeito Flávio derruba juro e país pode economizar R$ 66 bi com dívida - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHhQWkh4ZkZPRm1PVU9WcW9uUFItS002SkJZTEJHdkRZZUg5b1B3SXNSZ0NVcjJqcnpDbHdPa2kxU0h5U1Zyd2hzZHBzV0s5QlBuZFlYS3pZRjU5YlJLei13Y2Q5TkxCc293cF9LXzFrRDZmNFVZb3UtTWQ3Sm1hMDdPMXM3YkVlT2NvRVBOSlpwQlVheGp3dHdFVWxYVkFtUnpzRXdDcUpVRTRHLVZCNw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T14:59:37+00:00",
+      "score": 66.38,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b10d77e3c6428d44",
+      "title": "Cleitinho quer morar em Divinópolis; Constituição de MG veta - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXlkU2swQmgtYnFDME5VSGZjaE1KOXpZUUFlZl85WXdXOGFOVWdhTHJIcS1uWTdzdV9XdnBmTTlNRDZqb01FVkI0YlZsdGZUaTU2dG8xOWZ5QU5jZUU5VEhxWllBbUFuNFVFa2xMa1FZOVEtdGNScHJnWG1FTk9LV3FrcnpyUmdCVkZMQ3c4OHdDZzZpbVR6eFlDdG1Jd2ExQVRSWHNXeVZCM2Fv?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T14:33:30+00:00",
+      "score": 65.89,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "30418c042e45ea4e",
       "title": "GTA 6 Might Not Make Fun of Real-World Politics Much According to Rockstar Writer - IGN India",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlpyclRuTWNNYTk5d1JiX1diaVR0cndkcjRBNnlIV20ydFFyZGd4LUdyZFFUWjVJNkswc0doVEpkRUdVcU5oaTk0MmNxLWpINm5tSFFVcndEeUI0TkFUdVg4NDJyN1hRb3QtOE9ORFF2UW4zMkhhTU5WeENRQTBMOWV2cEt5WUM4VFVTMFR3c3JlOHFmbS1PV3RwWXpKWlRCRWhmeG5PNFdJWWVmTXoyZ2FxSjdMM1pyMGNVNjFSeTVBS1laV0E?oc=5",
       "source": "IGN India",
-      "published_at": "2026-10-06T09:11:32+00:00",
-      "score": 72.9,
+      "published_at": "2026-10-06T09:22:16+00:00",
+      "score": 65.47,
       "corroborating_sources": [
         "IGN India"
       ],
@@ -21,14 +141,14 @@
       }
     },
     {
-      "id": "f7bca764b25a6355",
-      "title": "Milei prioriza el plano internacional y el ala política se enfoca al máximo en construir puentes con los aliados - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRFJkMDdBcjhkZWxkSlZFUGJ2RWpKMTFnTzhFczFtOHUwV0cyMmM2bjhHcWxqdHVDcHlsY3pERkxKb2lGa1dPNWc4ZmxDeFZNUmVOTUtRZi1RLXR6bGlRWV83VExzUDRpM1ptdVNONHlyMlZoVE1vd2lsTzd3MWU5dmZ5c1V5UUYtZEtrSGxBRU1yT0FIdm9nWVdrZ0c5VFQtOWgxQV9sX245czJPWmdyXzljTVRwbkpGampmLXR1MmRvMUIxVHU2Z3h6TE9VZ0JpaWttZEUxQ2UycVdsMUFNS0pMSDVIcFNranBMY1Jn0gGIAkFVX3lxTFBBRXFpTEhlRGwyXzJBUmJXeDhISWo4YWptX2xnblpwME40dGJzVFp3aF9kUjRscUFpMXJKWHVWWTVlZC1DaC0tVFZ6Y2l5VzJyNm1QWjlRMnJYYzZ3eVFHVWJPaUZHbnRBa2FQNXZwSDdkVmxhZkRvRW5UQzBLVE42dUhfVm5DYlFGSk0zN0FMdGRTMWk3dDd4RE5HaEVTejZLek5Na2hnaUZ5djBTT3dHc1JCM09SUlJ4VHBteUtLandrUUhOOF9iMmlXcXE1ZVJiZGFuOGZucklRZ0NkakROS2dyWXBZSjZNcV9Pb2lUZjgybnY3RmRVdWNLbjEzM1JvenlHcXh2Zg?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-10-06T07:30:00+00:00",
-      "score": 70.95,
+      "id": "8d3b7abb6002e59e",
+      "title": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9INUhJaTNkVFZHcW96RTBSYVY5dW82bWotbXdtRUx4RUxlOXp0MzNoRVROS2tzeXlHLXI1RUtSUnpIUzF4RWR3cTZldjlHa3hxU0lnWC1kbzlhTzI0WXp1b2NRYw?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-06T16:07:30+00:00",
+      "score": 64.69,
       "corroborating_sources": [
-        "Infobae"
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -36,14 +156,14 @@
       }
     },
     {
-      "id": "9c7436d288cd28bc",
-      "title": "Cinco ações subiram mais de 20% após vantagem de Flávio Bolsonaro no 1º turno; veja quais - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU0Mxc09LR0llUm9xNFNlZGp6ZU5JaWZ0ajZPek05a3F1UERmd19SaENhdU53TmNMeFRnOHhHR2dlekV3TDlVMTJ4Vm1xSHRVTlV5Mk1RLWU0U3RnMU9JNnFvdU5Telh0b0pnbDBBTkJ4bEtIR1ZxVEpvTWFUM093d2QzQTlHblgwMzE1NEl6LVpTUGhyNmZ0T3hzWHR6MUNKbXhZVDhBRzNaU1RjX3NXWkZIeEVIVTZYOURsNE9kT1NORjdQWEVqSTBrMEYtZ0JQSjZyMnBpUEowQk3SAeABQVVfeXFMUDJkRS0wLXQ1TERTMWltMGxIaUx0OENDT0xmcUl4WGRNdG1BNHU0Wmc1TUY4SFp5OHQtb3U2SE9lVWhaTGd5c194b0RiQWJxZDFyTWhpZVIwT3ZNcmthOFdtUjVQa2w0dTZqMzJ0Y0JmeUxEdXkyRUl6NUtOLXhhamxxS2h5ZExtUGZZYVctSDREV29vOU8tdkVuUXkxQmd2bWxUT052OE51elpBaE1OVmlkR0lzeVliQ002cm9scS1WSDFuZV9HSnZVRk1zaGxaR3VaM3VXeUtTMUlsN3hiT3o?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-06T10:51:26+00:00",
-      "score": 69.91,
+      "id": "6732b4fb05f0b1a1",
+      "title": "Avanço da direita em eleição no Brasil é vitória de Trump? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3T2k1N04yeWRFVU5vWlRsdHhoS2JYUjhYU3QtMWQzOXl3UXBnQm5jYjNnUC02V2RlbkNUN1hlUzZHMHJHY1lrRFU3RVdYS2lSYnFKdjVzNTBfUGstT0ZseUtFd9IBaEFVX3lxTE1lOHhNNlllVGRoaUt4NlN2ak9SY2gyVWhTeE96X1pWVmFqeURqLXQ2R1Fvd3J3SVppS0QxWjBGbDJVeElKTTFINlUwLW1yWldxX3FkZlQyV1ZJdmIxWkpyb3I1VXFoRkhF?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-06T08:26:20+00:00",
+      "score": 64.57,
       "corroborating_sources": [
-        "Estadão"
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaVJURVlpTnFuUHowRy1hU1lfVlQ5a0tWRE8zUlNSUkJiYlZBM2YtamlMRUZ0aFhLYjJsT1MzdDhDN2VFclFYTkdzaGt1NTJTOHJBTnJWN2xiSk8zNHdidms5aTdfT0xsWUpKcGIwTHJEQlVyV0Y3alJpZUVkbjZHcnBsTUVsbFlNODFaSWVvVzN4YmJiM1hlVVNkNWQzMGNoNm1icVJhNGZjVjFPUVVoSGo3VF9PRElIeldPZkJzNEdPV3U0REJlVg?oc=5",
       "source": "Modern Diplomacy",
       "published_at": "2026-10-05T22:00:28+00:00",
-      "score": 69.57,
+      "score": 64.0,
       "corroborating_sources": [
         "Modern Diplomacy"
       ],
@@ -66,17 +186,93 @@
       }
     },
     {
-      "id": "c9038287c656727d",
-      "title": "México priorizará Centroamérica y el Caribe en su política de cooperación internacional - López-Dóriga Digital",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3dlQm5ZQW9xSWI3MXVlY2xUaFhtbVpkbWlLZ3pKcmdhTXRDdDBiSTEzNDl1blM0VEJHN3pkdHg1dUtHV0hUcWZPUWxfdVRUTGVGcU5XdWRCSExHbkFES1c3N2NoT3pQUm00MTUxYkxwSzlxa000R0p2dGVhLWNaazZ1cmZ5azdnTDV6cnVzdmhmS29GWWdGVlhGQWdFdDljb1RxWVgwRUN4N3RJSnNlOVZvMk9TMkpmb1dIdmdB?oc=5",
-      "source": "López-Dóriga Digital",
-      "published_at": "2026-10-06T04:52:05+00:00",
-      "score": 68.1,
+      "id": "f7bca764b25a6355",
+      "title": "Milei prioriza el plano internacional y el ala política se enfoca al máximo en construir puentes con los aliados - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRFJkMDdBcjhkZWxkSlZFUGJ2RWpKMTFnTzhFczFtOHUwV0cyMmM2bjhHcWxqdHVDcHlsY3pERkxKb2lGa1dPNWc4ZmxDeFZNUmVOTUtRZi1RLXR6bGlRWV83VExzUDRpM1ptdVNONHlyMlZoVE1vd2lsTzd3MWU5dmZ5c1V5UUYtZEtrSGxBRU1yT0FIdm9nWVdrZ0c5VFQtOWgxQV9sX245czJPWmdyXzljTVRwbkpGampmLXR1MmRvMUIxVHU2Z3h6TE9VZ0JpaWttZEUxQ2UycVdsMUFNS0pMSDVIcFNranBMY1Jn0gGIAkFVX3lxTFBBRXFpTEhlRGwyXzJBUmJXeDhISWo4YWptX2xnblpwME40dGJzVFp3aF9kUjRscUFpMXJKWHVWWTVlZC1DaC0tVFZ6Y2l5VzJyNm1QWjlRMnJYYzZ3eVFHVWJPaUZHbnRBa2FQNXZwSDdkVmxhZkRvRW5UQzBLVE42dUhfVm5DYlFGSk0zN0FMdGRTMWk3dDd4RE5HaEVTejZLek5Na2hnaUZ5djBTT3dHc1JCM09SUlJ4VHBteUtLandrUUhOOF9iMmlXcXE1ZVJiZGFuOGZucklRZ0NkakROS2dyWXBZSjZNcV9Pb2lUZjgybnY3RmRVdWNLbjEzM1JvenlHcXh2Zg?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-10-06T07:30:00+00:00",
+      "score": 63.7,
       "corroborating_sources": [
-        "López-Dóriga Digital"
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "18091a83ac77e3ce",
+      "title": "Tomás Rebord anticipó los motivos por los que \"vamos a colapsar como nación\" - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczloM3Q0LXdCd3haMEpiUUZjZUFSbHdreHlDdzlHVXFXa1doNnJiUzZBNHN4ZFlJSXJ3UzdEMWdTOG91Rnkzb1YtRzFTS21BX3BmSmY5SU1lcUExYmlFbm5PVGt2MGdwTGMtbC1VNzUyNFREV2J2X2FPY21GS2VTV1FvZG40Tjgzck05dG85TWZfUkIxTUVST3ZrR1RXaloydFp4WG9PVEt2UVlWSHU0NUZsSFpQdk9HbWhlbktrZ9IBxAFBVV95cUxPcDRlSkFvNDBTa2xXOGFLVkM5aWV6WVBVOU5GT0lQVVR2WDFnQ3NmQ1lRdHBhcnFWS3o0Ukl4Y1MtLVNsb1BIZ05oMTNycDVYUE9BekxCcEFLaDRlQU5lNWdPOGZ5aWtQX0RjeFM3bUl4TzRESWo5dlV3c3hTSE1URk5aTWgzYk45YW41azhlN25aUlV0ZEV0cm45dC04aXVpcWp0bXBucGdsSEZPNFlIZ19RVERoSEtlbXBHQlFxaDhpd0Vo?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-10-06T14:34:12+00:00",
+      "score": 62.91,
+      "corroborating_sources": [
+        "Perfil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f3040fe1f7ca86a8",
+      "title": "Saiba o que os candidatos ao Planalto farão nesta 3ª feira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2FqR2ZfQVE2ai11X2dRekR0c0xMRHNycllRZ0YtYmF0ODlWQVRkLTdGNlQ3bndOR0VVTFdGR1EwakVFTnNFLWVDUk5SSUtLTFhnVmJsR041a3NmMkhkbDNrblFnQ1hQa2M0cFUwM1JwLWpaV0lCemhIc3lscTZ0eHRQTk9XdTRiTlUwa2Jma1VQX29aOU1MZ2g0Rnd4U1JBSE9NSkNFLUVvRlVXamc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T09:18:54+00:00",
+      "score": 60.41,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a83cd7da664c8f44",
+      "title": "2026 repete 2022 de forma invertida e direita avança - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDktVWcyb0xwbDJNUk9vUXpmRmJCNVJvT1JRX3oyemg3NEd1S2NkR3NrVjdvYWV0enpvbFJ4amRvUlpoWDJodE9IN1pNQVZ5MVAzNnVSOHR5VF82TmNQRHBrYWI2bXFjbWhYbG1GTzJmcHd1OVRMX0ZHZlFVZDNmUU1seVJNaHZXRWdEaGtIOXlHbEp3Wnl6bm1EOU82NkZmNkVyQkt3?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T09:07:04+00:00",
+      "score": 60.22,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c9cd088694cc2263",
+      "title": "Colapso político na França reflete a crise européia, afirma analista - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEtzX21iVWh0LUN1bEQ4Sm9MOU1RNzZ1ZEh6dUtKOGNvM2dNbWI4MmtzQjlQY18wN0ZYN25EN3hWendvOGxtVndGaWRmVmRxUU1VeGJmSVJvdE41c3o1S1ZjQTZNMDdzVlJ5THlfOF9lOFFIbV9PNXl6dXRIaWRmM3oxeDM5MWhnQklEbktKaS1sb3p3aXpIb0dlX19aeldyMzZyY3VhRXU2b083X1JpZHM3aU9YMWZxTXZMdk5hOWlueEEy?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-10-06T12:02:00+00:00",
+      "score": 60.15,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "af4beeeb0a6f9058",
+      "title": "Flávio Bolsonaro vence 1º turno em 16 capitais; Lula, em 11 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FJanI2ckFzcmxDVHZSRlV6UUVWQW54eDFDd2J1bllKSVk4LVNySEo0NkZkNFZuanBIN1g4RVF5cndIc2g0bUtHWVhpQWN3Q0I5bFNXU1RQWjV3eFJ5eVFGNlZjZzRrd0U5dTNmN1hPbFlLU2phVmNrYWRiRGxMcGxXMWU2Ykx2ODBvTTZXQWQxeDNra3o1dVlWeUU3MzkwbGZrMURKM2E1Zw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T00:28:56+00:00",
+      "score": 60.11,
+      "corroborating_sources": [
+        "G1",
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 2,
         "social_metrics_available": false
       }
     },
@@ -86,69 +282,9 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXFuUUhJRVRoWVVjdW5XU1JFbG5sN3pfMkpNYkJGQUluZ3NDLXYzdDlpTzNQLWRuMGhCTE53cEphQ3hxcFhVOFJXWUt6ZVdTTDYya2lwUWRmcTEzTFRXQWtaZFZkMkxjb05IYTExMGItNmxRcmVES1JjZTRyMFhLYVlzQTdUR2RDVXVraWY0bm1TQVZxWWVEdmR1N3lyRUFhUl8tQ2xPamlSRURGM3pXOFFkd0ZCN3JBX3o2aA?oc=5",
       "source": "El Confidencial",
       "published_at": "2026-10-06T03:00:00+00:00",
-      "score": 66.2,
+      "score": 59.79,
       "corroborating_sources": [
         "El Confidencial"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b4d9a7e0fdd45b71",
-      "title": "Rubio begins three-nation NATO tour in Iceland, which is wary of Trump’s Arctic intentions - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkNBWmx1bkVWalh3bXZobm9jTHdEd3duckVqMVhOamZGclFUS2QyaDRwWVQyWEtXQjVmUDc5Y09hdGVPTGxzSEctSGdsNUI4RE9ndWdPTFZ5UjdFTHlzeHZXbUYxVkdMTXZsZTZtblhlRG5BQ1VEMjM3QURoTmNhOHI1THhBbTc1ekZ5UWlPcUhrcmItSy1zOFJVa0JnZDQ4aWZoSXlCc2FJN1dqT1NVNU1kaTFLTjNoRFhkR3ZvZFV5TGdJaEl5dlAtNHNIVjN2cVV5a2UzclpfNDRQX2NZcg?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-06T10:11:31+00:00",
-      "score": 66.1,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "473d37d1c0d51b01",
-      "title": "Ibovespa hoje: após disparada de 7,7%, Bolsa encara possível realização de lucros - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDF2LVNyamhfZjNnc3hqa1ltS3A0NF9welZ4XzVJRHQ2V0NZRjRnMHRXSUc5UWRGSkJmTG5WRlRmbG85elpkQXU3N09iNjNDaVFQb1NZTGVmd2JWdVlQUWNpa05QSkpYWWFaLUFqWEtUdi13SVpWQVhyOVZxbXFsWkZMajNZaHdxNk84VTFiMVNmOUVpblJjWTRMbXZQY3JXcVVlbHMyb1lVQzJnUDBLN1VnMlBqNV9pOTB3NHhrOWJOZ2ZEZXF0SnVqek9TS0p2Q2fSAdcBQVVfeXFMTWpHbnVLM3BhTml2Y0ttZlk0YlFIdFphSXMweVNja2stS0dRUXFIMkdZWHQ2YWNYREF6Rk0zNjZYMzVFWWNEdS12MC1iaHNVWVRzd2V2MTM5YWd4LUNvdUVDbUpLR1BrYnZVQ0FiQWVIelpwb3k0MDFmb1ROSHNYZm03TEV1VGFpdWtrV2hwdVpYbjhaSmFPY29pOGlFVGpISmZGVGgzeXVwU0RFb0Q5S1JYSm9qVW9jQ09qSEttUVd2RXJ2VFJwTGtwTUFVblNnZmJpVWpqMEk?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-06T07:33:34+00:00",
-      "score": 66.02,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e9b3ec3399afaf7c",
-      "title": "Fragmentação partidária cai na Câmara, que concentra poder na direita - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUxmd01hRlhINm5tWDlweG5hdEJrMzhsY2lyZXlMMDFVR3FZaEYzdXd5NlJrNldDbDN5VHBzbFNQYUxMbkRIMnJHenZEQ2dCcGcyTXRxRkRYRUhWdDZ4OXpHQ2RsaXJsVzY4VTJIdmVEWUM5TnZ5WHE4T05zcVUxVXA2ZldDUzZ0QnpIVkIyZDBQWlF1SmRrOVBzbUItY2FSelloLVhCSzRhRTFWRzBGMlV5d25fSjhPU0E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "score": 65.39,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ee7071d6cf387cbd",
-      "title": "Bill Clinton: “Havel nunca afirmó tener todas las respuestas, pero sí sabía cómo debían hacerse las cosas” - Radio Prague International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFRJYTdlX2VKTE04VlBpMENjLTEwYmtFeDZVNVhoYjMzcU5iMElxU0xFNlNPdWJVRkJQdkIxdjNSU1MtZjY0YV9BWFBlSG42ak95SFNpX2JXTGVnbDZ5cEhTVUN5R0JrRWg2cGxEQXlLZXhZQV9ib0ZRTW0xVlJSaUMwME45SUMyZVYxZV95UFFTWUl6THByb1VOX2tYN1lDbVVHZmVpaHRtdmlnSTJ3?oc=5",
-      "source": "Radio Prague International",
-      "published_at": "2026-10-06T08:46:06+00:00",
-      "score": 64.4,
-      "corroborating_sources": [
-        "Radio Prague International"
       ],
       "signals": {
         "source_count": 1,
@@ -161,40 +297,9 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEkzQmZzTTZKTEkwdm9TQjhCcUkzeWxKQ2JiQU82SV9NSlZvcUdHZGpsTWk5cE1OeElmQ3ZRalFZTWlCYmlTWmV6ZkhYUldrcEV3ZkQ4LWF1X05XZW40NG5ZOUVRZUZzTXItbHlILTFrcjA5dGtaU1NiQWlFVDlMRklHeFUxTVVMMEhXUEZnaHpFWUJKTUFOekx5ZWJPb2hYbnk2SEtUVVdrWjZ0OUtyWDlUbV9fblJQOG9ab0dHQnhvWHdt?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-05T21:32:00+00:00",
-      "score": 64.16,
+      "score": 58.66,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f2f7592ca7caea84",
-      "title": "Polarização política prejudica afirmação internacional de um Brasil com mais estatuto do que poder - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSi00NnpNSm93ajMwWjcyekI3Y29hSkFuOWxIVU5UQXNPWlpzUEpoTWhRQUU3ZUdGUFk5b0ZyNExmZ2tEcFI4U2dxd2lfVXlUeE1aYzJ4VkJFVWR4M3h0NWxoM3JFZHhxR1NyUFZydlBEZU8zOGpwdmM4YkhfSWs3bzVUX0ZzSThoTVdpQlFza0hsNTJtbEhYeTh3UUhVYnJZa0trN1p4Y0VoaTdGMzFkRkdETGtCeFJDQXRvMkM4bGNWbkU?oc=5",
-      "source": "Diário de Notícias",
-      "published_at": "2026-10-05T15:16:13+00:00",
-      "score": 63.56,
-      "corroborating_sources": [
-        "Diário de Notícias",
-        "SAPO"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8775e86b1e15f6ab",
-      "title": "‘The world will never be the same again’: How October 7 changed Israel, Gaza and Australia - The Age",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWHd4emNwdlRUSFhHWUMxdFFZeHpqNzBxQlZBYUdQUEg2bFdTRnFhNjMwclQ0TnlPVXQ1ZGdRbldWUkNscXpQZzNzazNDQVUtY2N6ek9IYTVmMkFQN0psZUFvemVRV3VyWGVYeV85N1R2OVdfMzF5N3VDT185RW5qVmItaDM0LUdHbTV6LTJJekFUb3JwUE1XTC1DUzdsX3N2M1FUclN3TndlS2VYUmxVVkdzTzQ3ald5aWxPVmhhTGRneHMyQmY0dUFoOEdFM0w2SnJ2djd1cDZRcDhuR3l2YW8wMS0?oc=5",
-      "source": "The Age",
-      "published_at": "2026-10-06T07:51:00+00:00",
-      "score": 63.35,
-      "corroborating_sources": [
-        "The Age"
       ],
       "signals": {
         "source_count": 1,
@@ -207,9 +312,69 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnVfdDJaTUx2d09HczR2REd3Wm1DaS03bW8zMEc4Z3g4OFFNcEwxa2ZBeC1BeVhjY0t2TEhuSEttOV9NMjAtWmljZnZlMk5ObUN2VVVYNFZWVUFDaElJSVNoWmNndERaRVpiUi1zN1c0UkNLVE5tZmtkcXJEaEE3UEdWblZqNHpyYWo0Q295MmZoczZEOTFIUmV3WUstMGlEempMU1ppczhQQ29jSGZITzY3UkstckdnSURFaFJPczRFYTY3NEM1SA?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-05T13:14:38+00:00",
-      "score": 62.85,
+      "score": 58.48,
       "corroborating_sources": [
         "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e9b3ec3399afaf7c",
+      "title": "Fragmentação partidária cai na Câmara, que concentra poder na direita - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUxmd01hRlhINm5tWDlweG5hdEJrMzhsY2lyZXlMMDFVR3FZaEYzdXd5NlJrNldDbDN5VHBzbFNQYUxMbkRIMnJHenZEQ2dCcGcyTXRxRkRYRUhWdDZ4OXpHQ2RsaXJsVzY4VTJIdmVEWUM5TnZ5WHE4T05zcVUxVXA2ZldDUzZ0QnpIVkIyZDBQWlF1SmRrOVBzbUItY2FSelloLVhCSzRhRTFWRzBGMlV5d25fSjhPU0E?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "score": 58.24,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "00067838180ba779",
+      "title": "O aumento cavalar da dívida bruta - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05Vkp4OGk1NlVlejh0aUplM1dmUVZOWFRBVXNnc2hMNVVIWFJoVmJkNWtnNW42VTdmN3ZkX2VxMk5ZbEtzT3hoOWc1bkxaeWE0bmktNkNUNVFEMFdsU1dONGEwdjdpcTRLcGRQQ0tvUDNLdkFFcHJ0Wg?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-06T06:01:00+00:00",
+      "score": 57.36,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8775e86b1e15f6ab",
+      "title": "‘The world will never be the same again’: How October 7 changed Israel, Gaza and Australia - The Age",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWHd4emNwdlRUSFhHWUMxdFFZeHpqNzBxQlZBYUdQUEg2bFdTRnFhNjMwclQ0TnlPVXQ1ZGdRbldWUkNscXpQZzNzazNDQVUtY2N6ek9IYTVmMkFQN0psZUFvemVRV3VyWGVYeV85N1R2OVdfMzF5N3VDT185RW5qVmItaDM0LUdHbTV6LTJJekFUb3JwUE1XTC1DUzdsX3N2M1FUclN3TndlS2VYUmxVVkdzTzQ3ald5aWxPVmhhTGRneHMyQmY0dUFoOEdFM0w2SnJ2djd1cDZRcDhuR3l2YW8wMS0?oc=5",
+      "source": "The Age",
+      "published_at": "2026-10-06T07:51:00+00:00",
+      "score": 56.02,
+      "corroborating_sources": [
+        "The Age"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "267ebd83207ed8e3",
+      "title": "Em discurso, Flávio Bolsonaro atribui eventual vitória ao Nordeste e prevê governo inspirado no pai - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemhQR1dzN3B5eUdxdXI5ekJJdlBYU3FTdkRaTnc3LVpnbEo3VFFQX1NadDAzOTMwRmZMSlhEU2tYUjR4aGlZUnZvb2xtTUltSGdLeExBRVNIRGhuWkV0XzB6Ml9iYVBNX29Sd2wwNkhxbld0VG9UTnZiZHRBYmFqQWIxMU5qNEQzTlQzU1dkcktaVjJEdVNkRncwLThEZEN1aG81eGtfdkg5Rm9zeHpuTEgwQXdRWHFoMHNtRldaSzVqc0JSS3dBWHpBZVhONVpDTUxzUUhaRHZTSDZv0gHiAUFVX3lxTE40LVBFNzlQTnh4TlZMQ2diUE16NTlkQUZwOXEwVGRmMGdHc1Exa3V0alN6dEhrVlgzVF9XdGtROGpPb3Z5TmxCR21SUUtwYm1CR1l5QjZXNkFfU0l1MlZ4UWhYZldwVk9Ldmg2SHViSnJZblh6S29zTXFIVUFnel9yV3VGbEt0RkozUjhYdk9ZdlFRZUlOeGtMczRxelFFX0dPOTVQQ3N1dDA0a05WUFB6WTNJM0RKa3RRSElQYkhqTkNCSzdHTmk3SVBEajBoRFF4bG9BdmtLQy1PMllvRW0wQVE?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-05T17:21:31+00:00",
+      "score": 55.91,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -222,9 +387,24 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDc1UVBaSkZybnNvRHhEMENjaFNvbm5ZSmN6X2JSa2tWWV9ZVGlCcDZUQWVjNk5YRExyckJjaEdLbWozRTdKbU9RRmJKcmd1V2JndFh2SlBCQjYtRTVOajBNN2lkdFl1aHdIZFJIeFh1dVJuRmRqSGMtdHQ3UzNnS2RWSGVIaTNTU2Zyb0VIYUlIQXBBMzlFRE15TUlTd3kyeTlfbW91R3lCSTB0eFUxNjI1RnFXQQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-06T03:48:51+00:00",
-      "score": 62.01,
+      "score": 55.46,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a2d8f7d54e70c6a3",
+      "title": "México priorizará Centroamérica y el Caribe en su política de cooperación internacional - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWRoWllWYnVpVjh2eWFvQ0J5TzhpdWNHbkpQTE1VN0pvOVhWUXJ0MXZnbHhvSVlnUzVVb2I2UWtsd2lHODU5R185UmM0bi1LLS1USlpSTjlrbWFtdG82aGRYVGQwYmFUUGxaaXQ2WlEzOWJ0S3JWeHFqUmJ4a3ZtaVNhRVc4UmtoeV90T0YwZXBBSDJoU2lQWDRvMjVRWnJhSWd0YkpXQUxZclRHMkxNN0p2S1RGWTI3S1QyM2sxb25qRnlsUXZhTzRwVEVUN2hOTk9mUjVrd9IB8gFBVV95cUxPaV91UlI1OTBPcm5hSkU2RHFlRTREVnVLY194cS1oSnI5X0FOaC1SbjBveWpoeDk1UktqNmc2SVc1NGNWVnlzUjFPTWlMdklldjRPaFFfcXB6SnNVbzNyLU5RWlhiWnNvc2NYWHpBdFhad1hOcHIwS0Zhc1lJeWpEOWR1cDlHZ3hzMHJYREs3LUwyZGZHRW5WWjJoMlVFZXVsemNXdmVNUzJBMHNvUm1YOU9mZUtDQ2o4T2d0Wm9felI0Q0VpdmJtakdfNzMxa28zMkRFNkxURHhxbXRUSko1VlRZRmVSektfQzJXZXBVNkJ3QQ?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-10-05T21:11:39+00:00",
+      "score": 55.43,
+      "corroborating_sources": [
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -237,7 +417,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhaanJsc1hoeE1KalBHSlhlVG10R1lEZmR2TWJJbFlpYzZFUEwybWg4REVnRTQ2UnhncnBSakxPRFh0enhjaVRkSUNGTGkxdXk5a3A2d1B4dkFNS0t1QTJ5QmFrMUdlOURQSGR4T1JtU25qeU4xYzNocTRiTlc4RE9mVFpCWnp3ck9PT0pXUmZqOS1oWE5nUzBUV3FvU0xPNlp6WVlLSXV2b3dCY3c?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-06T03:18:50+00:00",
-      "score": 61.51,
+      "score": 55.05,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -252,7 +432,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOendmQURxWXE2RzRaSXAtSEpFcGF1cURCbEV1a2E0Nmw0U0Zhbm4wTzNfYWdZNzRkekVBMVJFNjY4X1RTMDBudGUycjZLMFU5eFNuTmZnaWxKS2EzTTljNVNTRngtMmxtd1c3V0hjcy13S00zTU83V1NWLTg1V2NWODJJbFJUN3ZXUHNDZTVjYXZKcGozcld0NnY0RGlMbzJxY3NtNjgyOE4zbTJCYzNvejFR?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-06T02:58:07+00:00",
-      "score": 61.17,
+      "score": 54.77,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -262,192 +442,12 @@
       }
     },
     {
-      "id": "267ebd83207ed8e3",
-      "title": "Em discurso, Flávio Bolsonaro atribui eventual vitória ao Nordeste e prevê governo inspirado no pai - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemhQR1dzN3B5eUdxdXI5ekJJdlBYU3FTdkRaTnc3LVpnbEo3VFFQX1NadDAzOTMwRmZMSlhEU2tYUjR4aGlZUnZvb2xtTUltSGdLeExBRVNIRGhuWkV0XzB6Ml9iYVBNX29Sd2wwNkhxbld0VG9UTnZiZHRBYmFqQWIxMU5qNEQzTlQzU1dkcktaVjJEdVNkRncwLThEZEN1aG81eGtfdkg5Rm9zeHpuTEgwQXdRWHFoMHNtRldaSzVqc0JSS3dBWHpBZVhONVpDTUxzUUhaRHZTSDZv0gHiAUFVX3lxTE40LVBFNzlQTnh4TlZMQ2diUE16NTlkQUZwOXEwVGRmMGdHc1Exa3V0alN6dEhrVlgzVF9XdGtROGpPb3Z5TmxCR21SUUtwYm1CR1l5QjZXNkFfU0l1MlZ4UWhYZldwVk9Ldmg2SHViSnJZblh6S29zTXFIVUFnel9yV3VGbEt0RkozUjhYdk9ZdlFRZUlOeGtMczRxelFFX0dPOTVQQ3N1dDA0a05WUFB6WTNJM0RKa3RRSElQYkhqTkNCSzdHTmk3SVBEajBoRFF4bG9BdmtLQy1PMllvRW0wQVE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-05T17:21:31+00:00",
-      "score": 60.8,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "af50a50e7e985eb4",
-      "title": "Nova tecnologia exclusiva BP indicou o resultado do primeiro turno com menos de 25% das urnas apuradas - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0lXRG1tb04wVzRITG5INWNsUDhVRXdTYWZ1NkFrZnRlbTlLdTFlVnlfNlgtM0N5NDdMTm4yVHJEU0xEOVJjMWM4bGI0T1Nrc1p2Q0pudmpLMlViSHo3cnlLU0Y4YkszUGwxNkZvR2FtRzQ5VGNZVmNwY1BUbEUtWWswenhkQVR5cUpoZVFReWxXU0x3d2RGQ240T250RmJ2OXowWVBBRzRrdHM0dVFoZl90aEh2dw?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-06T02:02:57+00:00",
-      "score": 60.27,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6ee7d8e69ff547cd",
-      "title": "Anitta posta críticas a Flávio Bolsonaro no Instagram - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSElOeG1LNVdLZm5WM2dQN3J6dS1zTFJoNzVOS0JhMG10eDZ2VUZHaUt5VTZ5VDJVMVc4Nkt5LUJFby1WcG9Pc2I1V3Q5a0szeV9lT3ZsZVRFMi1zcktjOWZaa091OGgxUHF3YnVmZW1FYXlINXZQQ0lYQlFkTC1xcm9OS3h6azI5WmtwWWFYOVBrLW04SHhZTE13?oc=5",
+      "id": "424edb715e43c724",
+      "title": "Lula diz que \"bandidagem cresceu\" e Estado não dá conta - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0NSQmFzeDAzcnVJdzQyQTNyeHZTdVV2eThyN2dWR3pMdk0xX1pWTmtSVllCWXY4N3pMUjBpLUlGWXNFX1B0aEp5MGZUWlZ2dUxmbkFScjR1dUlieTNpcUtQWTFMM0JOMk1UTlRrYV9lb2Z3ZTNTcmhqUGpJa29aX0haMUZnaEw5MFJSdS1fQV9oV0dHUzlmQ0NtWTZDUnFaZFFRdA?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-06T00:48:50+00:00",
-      "score": 59.09,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "af4beeeb0a6f9058",
-      "title": "Flávio Bolsonaro vence 1º turno em 16 capitais; Lula, em 11 - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FJanI2ckFzcmxDVHZSRlV6UUVWQW54eDFDd2J1bllKSVk4LVNySEo0NkZkNFZuanBIN1g4RVF5cndIc2g0bUtHWVhpQWN3Q0I5bFNXU1RQWjV3eFJ5eVFGNlZjZzRrd0U5dTNmN1hPbFlLU2phVmNrYWRiRGxMcGxXMWU2Ykx2ODBvTTZXQWQxeDNra3o1dVlWeUU3MzkwbGZrMURKM2E1Zw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T00:28:56+00:00",
-      "score": 58.78,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9aa83610ba5a5222",
-      "title": "DHS buys 2 more detention centers in California for $950 million - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbTZCcnJNajhmTmNNQktHNWlzc0ZKNjZGdkNZeW9NWkxoaHhUNHZYTXpVZElBQ1N1R1RRSDZ5MUEyRUJ2MEdYb1BSOGtQZU5zS28tdWN4S0YzNDd0bVppYkhRckRzcUgwNFdWQ3RiMGNRSTJzQVBGYlFZQVVXWV9ON09oRG1jeDZ6NnRUVjNwelk3S1dyaXRVLW54bHFCaV9RcDdLZWRTQ2NEa2JWQ1h6VzZzOXBYWE9ldWxkeGVBTQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-06T03:21:31+00:00",
-      "score": 58.55,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "180155c14e85317a",
-      "title": "Nota Pública – OPEB - OPEB",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaXdod0loUHBuZmhXWElocnhLVUJmU0x6ZjB5NWpMSnhlaGRxYjlxcVA3dnVDWE9yUDN6ZjRaTEJDZVFPMGFCRzdGOGlvWXlXUTgtN2J0ckI2b3hi?oc=5",
-      "source": "OPEB",
-      "published_at": "2026-10-06T03:14:29+00:00",
-      "score": 58.44,
-      "corroborating_sources": [
-        "OPEB"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9c28c0340574b5de",
-      "title": "Playground politics on the world stage - Bangkok Post",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWI2dEhHV3A5N3ZOSGpZalZyZU1tVW5URktTYmtObzBfcEVnWlotS2J1TFN3bGJxYkM2X3RpalYxTldfX3hJbElvbUpsZXdRSTZQMWVVRVBrR0tGU081RVRxQnNFUjNSdVRaUmlWdUhPZ1g4dDZ2SUhYZzlUQXBKbVo4M0VYa3hIWjE2bWN5X1I5RGxB?oc=5",
-      "source": "Bangkok Post",
-      "published_at": "2026-10-05T18:01:00+00:00",
-      "score": 58.31,
-      "corroborating_sources": [
-        "Bangkok Post"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ff9b0831d94145ed",
-      "title": "Bolsa dispara e chega perto de 9% após Flávio liderar primeiro turno da eleição - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd3AxdzBRcjJEQ0M3SVI4ODl4OXhrSnRFQXNxbFlseXpqNVhOQ1ZsNXlFUHFhckRmX1M0aWlTUnktVGRNRi1EdE5lVXJnblR0c1NSR1hfa3pzZkFZckVyRlVqSVgxNjExN2RxOWd3V0NNVGkzX2RtTml0MUZfb1ZKcnVRMWR6OV82NnJIZ3dVUDJZd2lESlh2eHE4S3JrektYMTl6dQ?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-10-05T13:30:00+00:00",
-      "score": 58.03,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bbcf28e06b0a2eb4",
-      "title": "Vance says Alaska deal will proceed after Trump warns Korea - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNlB4T21hQ1dDLTNoT3lBaS1LbnlnME1DdjFkRFVWWFd4SVBkbkJBcDRHdlRTbUVJblFhNFZQWkRsVmVTdzZvMU00amlYbzdfSFBtVFVSY2FUYjBWMGFfUnJKOVVCMGNqXzZnQnotRnNJeWNkSFFQeFQ5Z3d1bWpDMlRMNnZXQVloOUluTmhxTjRMbm9iTFloN0tudEd3b3BsaG5kcWJzOVFJaHpYMGRWdU1JZ3RSTXZnYVFxZWVB?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-06T02:49:04+00:00",
-      "score": 58.02,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c017980ed213dbb7",
-      "title": "Aliados chegam a Brasília para reunião de emergência com Lula - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3o4MFBoOHZpenNrelJIeHNQbDVia2o4MTF0TnppS0JRV1AtNDlIbndPQnFJQVVscEpGeGVUcU1DQmdlbU5TQnZSMWxMM0xUYmpLLTV2cGZqY1NjWGo3RVB2MnFTN3g1UUZXZWxiS1dCT3pVREppelFNNHZBcU9rTlNCRkozM0xockZ5ZHRpQ0c1c19uV0h1VDcyaTBPWS0yOFpIQWo5ZWRSZTA0ei1j?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-05T23:28:50+00:00",
-      "score": 57.87,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5ab67d230c02bde0",
-      "title": "Leia a lista dos 513 deputados eleitos para a Câmara de 2027 - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGZFZWpya1A5ajhNZGM2VWJ4OV9tbEcwOE9DeHJVVGFIWkxlU0xkZkd2aGVzelZGcTl5ZkdSWXM2a2ZPQnBvRkFBRk5RZ1dHTVU3WGF0RFFtSnpYcXV6ZHBwMkNNcjZKLWRNemJVZ002SDIyWjgtZW5zVzhSU3A4TURLUjRNZmV6SkdULURveXYwV2VnSzJET2xfVXM4NTVVdXRMYTQ3TGx6QV9sV2c?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-05T22:59:38+00:00",
-      "score": 57.43,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "779a71466ff71f41",
-      "title": "Opinião - Cecilia Machado: Renegociação recorrente não é a melhor forma de tratar endividamento - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWZWaVJIWk1jMzZqdDhDSXdLRU00RUNqcVVYX0FrdGJvQ09xS1UwY0kwVFZlOTUzNXNCSUdqU0p6RlQza0N2eGtKOWdCWldvRlBKQV95amRxOURkWmVWbWQ1NGtHYmdRc3Q4UUNjRmM4YlM2STRuazJqVWJEYUpKRllSYzRiOFNxMEo3R0FBdndsNndhRzY2blRveVNJZVRNREhTNmNKamNJY1Jsa25ONUVfMHZTdVY5akRITFRXMV8yWkVmZDR1ZHdmNUU2d0VyelE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-05T22:35:00+00:00",
-      "score": 57.07,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9b5589d371f5be24",
-      "title": "Janio de Freitas vê avanço da direita “sem precedentes” no Brasil - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnA2bUhhNVJSbmJHN1hMSnNHM0RRaWhOY1VoUjJXNkl3a2xyZEUzX2JqbkVkTDQ2ZEZMenBjdGN2ekRBWnpGM2pSTHUwVGNRdTF4MUpwZ1oxRVpTVDZpNkRXbTZzNWtKR3hVMWZjSUdOWlFPdERCeXF3VXRSY25HLTY1eHlNTjE2VGd6anliaW9yMHZneVo5TjdFUzA4VnpzSWw4MExIcGM4d3EzTWZUV09R?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-05T22:28:34+00:00",
-      "score": 56.98,
+      "published_at": "2026-10-06T02:58:07+00:00",
+      "score": 54.77,
       "corroborating_sources": [
         "Poder360"
       ],
