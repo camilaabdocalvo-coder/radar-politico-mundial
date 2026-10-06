@@ -1,19 +1,35 @@
 {
-  "generated_at": "2026-10-06T18:25:34.721943+00:00",
-  "next_update_expected_at": "2026-10-06T22:25:34.721943+00:00",
+  "generated_at": "2026-10-06T23:51:16.357529+00:00",
+  "next_update_expected_at": "2026-10-07T03:51:16.357529+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "2e950cbe2df91a9a",
-      "title": "Não dá para esperar que o Estado defina onde vão estar os data centers, diz presidente da Anatel - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXZNZUdubkw3NHFZTDdXSHYxaEhHRDRBRkNfc1JFVUhybFlxT3pmSzhQcnhzU2JodmQ1eDU2djQzcWVMQnZIQkZBUE9Wb0tibFZuOFNqNnoxUlNzQVRDQTcxUVlrdXlhdEN0UUJYcEdmcmtNcXE5aFI5bHhuRzF6ZUFrZGFVcl90M0xLM05uaGNCc3RvMlZuMHhPb216MEpaSkpQamQxQ3Fwci0zTmlwM3Bqb3ZuanFhbjVsellkbldlWUIxT0x3RlZ0SUbSAdIBQVVfeXFMTzNEV3haV3JuV2hMQ2pmWGZXR1N4NzhYQ1AydEJpdXNzdG5ySk0tYVVQaTlaTkJ4Tk9VN0tEaGRGZzNDNk1aMmVyY3NDejFNcHM4Z2NyOFVDQjlQUTVhNmFNV3hhNnRybXZMTklMQWRUckV3TEhwR0p5cGZPM1ZuYWVIbzVWd2l4UTFZeEtSZ1ZnSFluck1yTmhkYlk3SmVyOTBOZHFSNXZnVk9BZHBfbW50QjhDVW4xRDhLVzFwU2VvUmtPZllQMldmTi1zT2VVN2lR?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-06T17:41:00+00:00",
-      "score": 77.56,
+      "id": "acb0a3cca10ebdf5",
+      "title": "OEA aponta 'ativismo político internacional' e insegurança jurídica em eleição no Brasil - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHFITW1JSTViWmVFdTNGVTdzV0c0ZHRsdGdoUTZ6c0FLdkFuTTNQVHZsbmJPTmF3cTUzcDczcDJ1QW5ZRWdHSlRBVzQ4dWJXSXZDUmRwcVAya09QY3JFMzlBb2pvbGQxNExIano0ZXJnYTFMSy1pMVl1RGhUbkl5WkxMN2dHSmc3RHl4QXZHdGx0VTJwY2ktZGc1ODZsM3RsN3JBLUVOcmpsUU5xTThGeDVHOER6Q1l4MFltWDVwZEFJRV9FT0txNWFwNDZoNnFHZ3c?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-06T22:39:00+00:00",
+      "score": 81.29,
       "corroborating_sources": [
-        "Estadão"
+        "Brasil 247",
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9d1019d33f5b4361",
+      "title": "Ministro da Educação diz que \"Pé-de-meia\" pode acabar com Flávio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelpIdmlXYjhrYWRReE9td1hnNW9Vb2VtNkNlNFh2bng0NXJTZVlTbm12WWV6cktXVFlZN0prMFlsOEw0eUFfaGppOTlsUXJfLVE5MmNIejJwM1lUblBoNnRYYkRGMUk4R1lLM1lPbGhzeTNJRmJtbURqUEtWNG9Gd0JGbkpYSGVLSlRGUi1KUkZyQ2lIU1JQYUFzZGNwaENXZU0yWnJlbUZoSVZ6RlVCbQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T19:15:05+00:00",
+      "score": 73.08,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -25,10 +41,25 @@
       "title": "Milei viaja a hacer campaña a España tras el adelanto electoral impulsado por Sánchez - Política y Medios",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUlvVkIyYWtuSzctdkdNeUVVckItX3BUVGhVN0ptRzJpR0RBbHN6VUhURDJSUG5jSF84elltenZKeWtxZW1HTW0xQXFkeHVxS0lXbXVVQVJZbzAyZzNnUkFfeUFrQ2VSNWZZQ0NHVUpGckpPMnVvNmZmOHo3aXN6UjZTOGpzMHBmaGp4Q1NvTUk3WEo1YlpMTS0yeFg0OFlXQ1hQY1FPYmpybTNmVFF0dnU2cmRDeFBCc0MxZmlmcUZYcXQtTHc?oc=5",
       "source": "Política y Medios",
-      "published_at": "2026-10-06T15:31:31+00:00",
-      "score": 71.99,
+      "published_at": "2026-10-06T20:32:17+00:00",
+      "score": 71.52,
       "corroborating_sources": [
         "Política y Medios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2e950cbe2df91a9a",
+      "title": "Não dá para esperar que o Estado defina onde vão estar os data centers, diz presidente da Anatel - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXZNZUdubkw3NHFZTDdXSHYxaEhHRDRBRkNfc1JFVUhybFlxT3pmSzhQcnhzU2JodmQ1eDU2djQzcWVMQnZIQkZBUE9Wb0tibFZuOFNqNnoxUlNzQVRDQTcxUVlrdXlhdEN0UUJYcEdmcmtNcXE5aFI5bHhuRzF6ZUFrZGFVcl90M0xLM05uaGNCc3RvMlZuMHhPb216MEpaSkpQamQxQ3Fwci0zTmlwM3Bqb3ZuanFhbjVsellkbldlWUIxT0x3RlZ0SUbSAdIBQVVfeXFMTzNEV3haV3JuV2hMQ2pmWGZXR1N4NzhYQ1AydEJpdXNzdG5ySk0tYVVQaTlaTkJ4Tk9VN0tEaGRGZzNDNk1aMmVyY3NDejFNcHM4Z2NyOFVDQjlQUTVhNmFNV3hhNnRybXZMTklMQWRUckV3TEhwR0p5cGZPM1ZuYWVIbzVWd2l4UTFZeEtSZ1ZnSFluck1yTmhkYlk3SmVyOTBOZHFSNXZnVk9BZHBfbW50QjhDVW4xRDhLVzFwU2VvUmtPZllQMldmTi1zT2VVN2lR?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-06T17:41:00+00:00",
+      "score": 71.39,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -40,8 +71,8 @@
       "title": "Bacman y Negri analizan el complejo desafío de Lula para dar vuelta la elección en el balotaje - Política y Medios",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzc5Rjl4N2JnZTExbGlqYjJJZ3pheG53RTJKVEJkdDB3cmQySFJqa2tHVzZXT3JpakI0MnZyeG42WkQ5UENvTFB6Z1g1QXItbzJ6bnJEbnEydlVBSzFTX1NaMlpsbk80bFV5NVpPS3pKVmF0M21wd1V6S3d3SmRmRUp0WGZZYi0wckhkc3J1T24wcElMU0FLV25FTFFmNkNPVGg5d2tUckxSN3hkaDIxRFhFZ0VjZ1pPRzdwOW1nZGpKbnF1aXJOMG9RR3NheDUxWlE?oc=5",
       "source": "Política y Medios",
-      "published_at": "2026-10-06T14:31:40+00:00",
-      "score": 70.86,
+      "published_at": "2026-10-06T20:17:13+00:00",
+      "score": 71.23,
       "corroborating_sources": [
         "Política y Medios"
       ],
@@ -51,14 +82,74 @@
       }
     },
     {
-      "id": "c115c62f885a4310",
-      "title": "Veja como a esquerda está reagindo à vitória da direita nas eleições - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjFrbXh3R2hDSjZHZ2lidEhxMjIxQlJmVFAwTW1qSE9pM1lKcWZTWUEydGJET0Y4Y2xELU9FRlJwbFROaEFiS3U3d3Nlb2FlejByTERNaG82TWpoQlJTWGdHUTZDNUNNdFBYLW5CdlFCbHdLeEdYMlhJQ1lmVDRlT0pBNXFpZXRTcVFISzBxRThVVGgzZTREYk5fb2R6UVE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-06T17:28:13+00:00",
-      "score": 69.3,
+      "id": "2321c17a0c1e2d5d",
+      "title": "Sánchez adelanta las elecciones para frenar a la ultraderecha y refundar su mayoría - Política y Medios",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0tXbHlpTUZXVTJwSk1aQ0RIdzkyMmlSZWtmWnpiUUx4d1JldlFzWURBRXo4REtOOVk4UmtFUGdhbGJYaXVpVEd4bjg4cHQxREpMejd5MXdMWmx1MVFvdHpTbzh6UHdhUDZIVW56SzVPUHkxNkw0ZkwtYU5QWEc0TW92NHdYU0JGaTNieGh3bG1FakdDTWxSRGtXYWNiQVI0SFRZTlBTSVBGb0liUTBsdXltbGVYUXItb1BkbXZRQ1FCRlk?oc=5",
+      "source": "Política y Medios",
+      "published_at": "2026-10-06T19:32:04+00:00",
+      "score": 70.39,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "Política y Medios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d6ebcde5e16a7e5a",
+      "title": "GTA 6 terá política, mas evitará sátira direta a Trump - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXZMajdrclEtcDV2c0dNUDFRRzNGRUZ5VU9vUmZTWGpKbTBGVUtBQmJONXZjMXBlZW1WeG9oZnZJX2c1SjJVa1VOcVRoclVtUTRTMTVxekV1QXpJSUtSZkcySEtWNjE2NDlydkhvemdBUk1OWEpiR0lVd1VtRHJpc2pMNDlaOURZcnJUcGN3MkxidXhiNWxjS3Z6ZktvVEx6?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-10-06T18:52:00+00:00",
+      "score": 69.65,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ef6cede3fe250189",
+      "title": "Garotinho diz que Paes deve arcar com efeito de anulação dos votos - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGhVa0RUWm03MGd2N2NDODdkOUNDWGM3M0FOSDlQdm1QaE1FWGphWDFGLTE1S3RLS3l4dWRQWVdQVTFYWWJMUnJDU1lWdF9JU3d4RHpobWdITmx3Vk5ycTdHYTlWZlJwWS00S1l5TzVKREpvN0JLN1c3X1VnMWxMdy16aWl6ZVpfeE5BRGp0UHlob1lpUk43M1pOWWJCSzJnMnRNYnlvMUh0azN3UklWWDhSOGEzUQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T21:35:23+00:00",
+      "score": 67.73,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a183ade6d4c32e8a",
+      "title": "Rali na Bolsa: o mercado antecipou os próximos quatro anos? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdlBiUW9JdzRtdmdtdk5DX2pkZXlyZ3d5NWdHeVk4U0hLUVlBa0FBWW94aU9mUjhPZi1HcU9vZkEwR3UyTjlSX2o1b2QwSUNQZGtwSHdzN3NfQlpKb2NrZldOOUphUzlDdkpQbnZiRDZaUnlhNXVaNkUwQzdNTWcyN3p1bHM4NTNDX3ZzMUpadko2Q0xITXJnZlZYSldfTDVsbHVpNXBUN1A5THhxeUs2cUV30gG3AUFVX3lxTE9xOGZrWmJ3UmUtbzhHQ21tcWRxdlBhWk1NTGtlWlBLYVRpbFpSRGRSX1h1WkxlOXdWOWFWQXBmc2VuRnIxOVlsNVB1dGRBUWc4QzZmQS1YTU1Ja3hfVjAzRTRPaXBvRUwtR1U2WEZ4UEVHeHNCWmZFZG1BVUhwVGRINVlOaVc4Wjhrckl2U0RvYzNsSkI4Tm5yTGdJcHE0X3lUbGhqQ2JzTlhzY3luTWpxOU1wcU5aWQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-06T20:38:20+00:00",
+      "score": 66.63,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a5f89aedfae718d4",
+      "title": "BRICS: entre contradições e contendas, o Sul Global constrói a multipolaridade - Vermelho",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkRUZ1p2VW1MRldueVBrUGZIWk03V0dVZXBWTTJtR0MtcmR2NFcwVnNGZlAwU3J4U3NXT3JaX0dJMHJCczFXRFluUXFTWTU2emZBZ3dBYWk0Y2lMQi1PSVlPVm1SQS1DNmZXTnBQUG5FQjRxMTZvaE9yMDNhZjBzU1VBWDJPR0duNGdzdXc0RjFCRUxCeDBFaXRtaTNDbmVxQjFpc2pqN1QwRVp0ejUtRUdn?oc=5",
+      "source": "Vermelho",
+      "published_at": "2026-10-06T21:24:00+00:00",
+      "score": 64.51,
+      "corroborating_sources": [
+        "Vermelho"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +162,24 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkNBWmx1bkVWalh3bXZobm9jTHdEd3duckVqMVhOamZGclFUS2QyaDRwWVQyWEtXQjVmUDc5Y09hdGVPTGxzSEctSGdsNUI4RE9ndWdPTFZ5UjdFTHlzeHZXbUYxVkdMTXZsZTZtblhlRG5BQ1VEMjM3QURoTmNhOHI1THhBbTc1ekZ5UWlPcUhrcmItSy1zOFJVa0JnZDQ4aWZoSXlCc2FJN1dqT1NVNU1kaTFLTjNoRFhkR3ZvZFV5TGdJaEl5dlAtNHNIVjN2cVV5a2UzclpfNDRQX2NZcg?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-06T04:04:17+00:00",
-      "score": 68.68,
+      "score": 64.45,
       "corroborating_sources": [
         "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c115c62f885a4310",
+      "title": "Veja como a esquerda está reagindo à vitória da direita nas eleições - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjFrbXh3R2hDSjZHZ2lidEhxMjIxQlJmVFAwTW1qSE9pM1lKcWZTWUEydGJET0Y4Y2xELU9FRlJwbFROaEFiS3U3d3Nlb2FlejByTERNaG82TWpoQlJTWGdHUTZDNUNNdFBYLW5CdlFCbHdLeEdYMlhJQ1lmVDRlT0pBNXFpZXRTcVFISzBxRThVVGgzZTREYk5fb2R6UVE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-06T17:28:13+00:00",
+      "score": 63.16,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +192,24 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZXlDNUdpZjR0WjBCazlTenoyZTRzNHRGMFB6RVdUNUNYZDhib3NUcTNwZzNKaUtKR3NvNkU5UkVuQWMyWEJITFVKVzFrZUl4aHpOczNGUTlTYUwtLTJhQ1NxZmdrM3BvX2YwWk1haTZBZkV2cjJ6MU9GZDRFbXhNLXQxS3ZGb0Z5eWh3U1ZpRmVmdHJVaWt1SFZSZ2c3TUZVOUh3TEZGZWNmOVROUlpLT2Jwbk9JbURIQWx6Q2xTUkFJUm1iNUxNcll0X3U?oc=5",
       "source": "Tribuna do Agreste",
       "published_at": "2026-10-06T12:02:00+00:00",
-      "score": 68.15,
+      "score": 62.88,
       "corroborating_sources": [
         "Tribuna do Agreste"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "154bf23ea00e7346",
+      "title": "PGR concorda com pedido de Bolsonaro para liberar visita de Flávio, e decisão cabe a Moraes - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmtyNnMyVEVBMk5BLWI0OHlVQ19aMTBQUTJNSjUxRGUzYzRUb2NHZXhBbzloS2Q2UXlRN29OUDFDWE5YVE5GUXQ0NlRLNFZRd0cyMlVJMmY0WVI4RDJPNlNLY3dydzVFOHNxcjZGenRoTGRlc0g2S2F6ZzA2bUNtY3VtcjdNQWhtWmQtRldJMEN2WnNoWFZlR1h3bkd4OElMcDM1UjJZaXFZcl9iVzY5c0Z6bTV0NkIxWGFUOS1fanY4NVNMX25UMnJjYlBwc2phNTNR?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-06T16:01:00+00:00",
+      "score": 61.67,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -101,22 +222,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHhQWkh4ZkZPRm1PVU9WcW9uUFItS002SkJZTEJHdkRZZUg5b1B3SXNSZ0NVcjJqcnpDbHdPa2kxU0h5U1Zyd2hzZHBzV0s5QlBuZFlYS3pZRjU5YlJLei13Y2Q5TkxCc293cF9LXzFrRDZmNFVZb3UtTWQ3Sm1hMDdPMXM3YkVlT2NvRVBOSlpwQlVheGp3dHdFVWxYVkFtUnpzRXdDcUpVRTRHLVZCNw?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-06T14:59:37+00:00",
-      "score": 66.38,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b10d77e3c6428d44",
-      "title": "Cleitinho quer morar em Divinópolis; Constituição de MG veta - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXlkU2swQmgtYnFDME5VSGZjaE1KOXpZUUFlZl85WXdXOGFOVWdhTHJIcS1uWTdzdV9XdnBmTTlNRDZqb01FVkI0YlZsdGZUaTU2dG8xOWZ5QU5jZUU5VEhxWllBbUFuNFVFa2xMa1FZOVEtdGNScHJnWG1FTk9LV3FrcnpyUmdCVkZMQ3c4OHdDZzZpbVR6eFlDdG1Jd2ExQVRSWHNXeVZCM2Fv?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T14:33:30+00:00",
-      "score": 65.89,
+      "score": 60.66,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -131,39 +237,9 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlpyclRuTWNNYTk5d1JiX1diaVR0cndkcjRBNnlIV20ydFFyZGd4LUdyZFFUWjVJNkswc0doVEpkRUdVcU5oaTk0MmNxLWpINm5tSFFVcndEeUI0TkFUdVg4NDJyN1hRb3QtOE9ORFF2UW4zMkhhTU5WeENRQTBMOWV2cEt5WUM4VFVTMFR3c3JlOHFmbS1PV3RwWXpKWlRCRWhmeG5PNFdJWWVmTXoyZ2FxSjdMM1pyMGNVNjFSeTVBS1laV0E?oc=5",
       "source": "IGN India",
       "published_at": "2026-10-06T09:22:16+00:00",
-      "score": 65.47,
+      "score": 60.57,
       "corroborating_sources": [
         "IGN India"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8d3b7abb6002e59e",
-      "title": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9INUhJaTNkVFZHcW96RTBSYVY5dW82bWotbXdtRUx4RUxlOXp0MzNoRVROS2tzeXlHLXI1RUtSUnpIUzF4RWR3cTZldjlHa3hxU0lnWC1kbzlhTzI0WXp1b2NRYw?oc=5",
-      "source": "BBC",
-      "published_at": "2026-10-06T16:07:30+00:00",
-      "score": 64.69,
-      "corroborating_sources": [
-        "BBC"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6732b4fb05f0b1a1",
-      "title": "Avanço da direita em eleição no Brasil é vitória de Trump? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3T2k1N04yeWRFVU5vWlRsdHhoS2JYUjhYU3QtMWQzOXl3UXBnQm5jYjNnUC02V2RlbkNUN1hlUzZHMHJHY1lrRFU3RVdYS2lSYnFKdjVzNTBfUGstT0ZseUtFd9IBaEFVX3lxTE1lOHhNNlllVGRoaUt4NlN2ak9SY2gyVWhTeE96X1pWVmFqeURqLXQ2R1Fvd3J3SVppS0QxWjBGbDJVeElKTTFINlUwLW1yWldxX3FkZlQyV1ZJdmIxWkpyb3I1VXFoRkhF?oc=5",
-      "source": "BBC",
-      "published_at": "2026-10-06T08:26:20+00:00",
-      "score": 64.57,
-      "corroborating_sources": [
-        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -176,9 +252,39 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaVJURVlpTnFuUHowRy1hU1lfVlQ5a0tWRE8zUlNSUkJiYlZBM2YtamlMRUZ0aFhLYjJsT1MzdDhDN2VFclFYTkdzaGt1NTJTOHJBTnJWN2xiSk8zNHdidms5aTdfT0xsWUpKcGIwTHJEQlVyV0Y3alJpZUVkbjZHcnBsTUVsbFlNODFaSWVvVzN4YmJiM1hlVVNkNWQzMGNoNm1icVJhNGZjVjFPUVVoSGo3VF9PRElIeldPZkJzNEdPV3U0REJlVg?oc=5",
       "source": "Modern Diplomacy",
       "published_at": "2026-10-05T22:00:28+00:00",
-      "score": 64.0,
+      "score": 60.43,
       "corroborating_sources": [
         "Modern Diplomacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b10d77e3c6428d44",
+      "title": "Cleitinho quer morar em Divinópolis; Constituição de MG veta - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXlkU2swQmgtYnFDME5VSGZjaE1KOXpZUUFlZl85WXdXOGFOVWdhTHJIcS1uWTdzdV9XdnBmTTlNRDZqb01FVkI0YlZsdGZUaTU2dG8xOWZ5QU5jZUU5VEhxWllBbUFuNFVFa2xMa1FZOVEtdGNScHJnWG1FTk9LV3FrcnpyUmdCVkZMQ3c4OHdDZzZpbVR6eFlDdG1Jd2ExQVRSWHNXeVZCM2Fv?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T14:33:30+00:00",
+      "score": 60.24,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6732b4fb05f0b1a1",
+      "title": "Avanço da direita em eleição no Brasil é vitória de Trump? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3T2k1N04yeWRFVU5vWlRsdHhoS2JYUjhYU3QtMWQzOXl3UXBnQm5jYjNnUC02V2RlbkNUN1hlUzZHMHJHY1lrRFU3RVdYS2lSYnFKdjVzNTBfUGstT0ZseUtFd9IBaEFVX3lxTE1lOHhNNlllVGRoaUt4NlN2ak9SY2gyVWhTeE96X1pWVmFqeURqLXQ2R1Fvd3J3SVppS0QxWjBGbDJVeElKTTFINlUwLW1yWldxX3FkZlQyV1ZJdmIxWkpyb3I1VXFoRkhF?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-06T08:26:20+00:00",
+      "score": 59.8,
+      "corroborating_sources": [
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +297,24 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRFJkMDdBcjhkZWxkSlZFUGJ2RWpKMTFnTzhFczFtOHUwV0cyMmM2bjhHcWxqdHVDcHlsY3pERkxKb2lGa1dPNWc4ZmxDeFZNUmVOTUtRZi1RLXR6bGlRWV83VExzUDRpM1ptdVNONHlyMlZoVE1vd2lsTzd3MWU5dmZ5c1V5UUYtZEtrSGxBRU1yT0FIdm9nWVdrZ0c5VFQtOWgxQV9sX245czJPWmdyXzljTVRwbkpGampmLXR1MmRvMUIxVHU2Z3h6TE9VZ0JpaWttZEUxQ2UycVdsMUFNS0pMSDVIcFNranBMY1Jn0gGIAkFVX3lxTFBBRXFpTEhlRGwyXzJBUmJXeDhISWo4YWptX2xnblpwME40dGJzVFp3aF9kUjRscUFpMXJKWHVWWTVlZC1DaC0tVFZ6Y2l5VzJyNm1QWjlRMnJYYzZ3eVFHVWJPaUZHbnRBa2FQNXZwSDdkVmxhZkRvRW5UQzBLVE42dUhfVm5DYlFGSk0zN0FMdGRTMWk3dDd4RE5HaEVTejZLek5Na2hnaUZ5djBTT3dHc1JCM09SUlJ4VHBteUtLandrUUhOOF9iMmlXcXE1ZVJiZGFuOGZucklRZ0NkakROS2dyWXBZSjZNcV9Pb2lUZjgybnY3RmRVdWNLbjEzM1JvenlHcXh2Zg?oc=5",
       "source": "Infobae",
       "published_at": "2026-10-06T07:30:00+00:00",
-      "score": 63.7,
+      "score": 59.05,
       "corroborating_sources": [
         "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8d3b7abb6002e59e",
+      "title": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9INUhJaTNkVFZHcW96RTBSYVY5dW82bWotbXdtRUx4RUxlOXp0MzNoRVROS2tzeXlHLXI1RUtSUnpIUzF4RWR3cTZldjlHa3hxU0lnWC1kbzlhTzI0WXp1b2NRYw?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-06T16:12:57+00:00",
+      "score": 58.87,
+      "corroborating_sources": [
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +327,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczloM3Q0LXdCd3haMEpiUUZjZUFSbHdreHlDdzlHVXFXa1doNnJiUzZBNHN4ZFlJSXJ3UzdEMWdTOG91Rnkzb1YtRzFTS21BX3BmSmY5SU1lcUExYmlFbm5PVGt2MGdwTGMtbC1VNzUyNFREV2J2X2FPY21GS2VTV1FvZG40Tjgzck05dG85TWZfUkIxTUVST3ZrR1RXaloydFp4WG9PVEt2UVlWSHU0NUZsSFpQdk9HbWhlbktrZ9IBxAFBVV95cUxPcDRlSkFvNDBTa2xXOGFLVkM5aWV6WVBVOU5GT0lQVVR2WDFnQ3NmQ1lRdHBhcnFWS3o0Ukl4Y1MtLVNsb1BIZ05oMTNycDVYUE9BekxCcEFLaDRlQU5lNWdPOGZ5aWtQX0RjeFM3bUl4TzRESWo5dlV3c3hTSE1URk5aTWgzYk45YW41azhlN25aUlV0ZEV0cm45dC04aXVpcWp0bXBucGdsSEZPNFlIZ19RVERoSEtlbXBHQlFxaDhpd0Vo?oc=5",
       "source": "Perfil",
       "published_at": "2026-10-06T14:34:12+00:00",
-      "score": 62.91,
+      "score": 57.25,
       "corroborating_sources": [
         "Perfil"
       ],
@@ -216,44 +337,14 @@
       }
     },
     {
-      "id": "f3040fe1f7ca86a8",
-      "title": "Saiba o que os candidatos ao Planalto farão nesta 3ª feira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2FqR2ZfQVE2ai11X2dRekR0c0xMRHNycllRZ0YtYmF0ODlWQVRkLTdGNlQ3bndOR0VVTFdGR1EwakVFTnNFLWVDUk5SSUtLTFhnVmJsR041a3NmMkhkbDNrblFnQ1hQa2M0cFUwM1JwLWpaV0lCemhIc3lscTZ0eHRQTk9XdTRiTlUwa2Jma1VQX29aOU1MZ2g0Rnd4U1JBSE9NSkNFLUVvRlVXamc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T09:18:54+00:00",
-      "score": 60.41,
+      "id": "5d3faba49e4f79d3",
+      "title": "Eleição de domingo marcou enterro de veteranos da política, incluindo vários aliados de Lula - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEtXX2t2cVZLYnFwaG9RdWpiZWU5MDJLcFRGeWlLUW9CQlBybVEzeE96NlR4ckpkMmJ2Tl9ReUVzM0VaVUx4TG9FZ21uQjN1SHlSakVETVEwUnlaZ0JRVXZHck96eV9GbWlCcERUSHZsTWhULXBicmFRYkZ4UzFpNnVKSTRVSjhwS0JQYVh2V1JGclRSUldkczYwT1pXT0tGdk55LTBfMmd5Tkk3S09qaGxlQy1LVF9QVjRBU0lRV3Y4LVF5SXV6ZnJUZlU1SjdNWGZRaU5DVDM0VTNsYXo5WA?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-05T09:30:00+00:00",
+      "score": 56.98,
       "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a83cd7da664c8f44",
-      "title": "2026 repete 2022 de forma invertida e direita avança - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDktVWcyb0xwbDJNUk9vUXpmRmJCNVJvT1JRX3oyemg3NEd1S2NkR3NrVjdvYWV0enpvbFJ4amRvUlpoWDJodE9IN1pNQVZ5MVAzNnVSOHR5VF82TmNQRHBrYWI2bXFjbWhYbG1GTzJmcHd1OVRMX0ZHZlFVZDNmUU1seVJNaHZXRWdEaGtIOXlHbEp3Wnl6bm1EOU82NkZmNkVyQkt3?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T09:07:04+00:00",
-      "score": 60.22,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c9cd088694cc2263",
-      "title": "Colapso político na França reflete a crise européia, afirma analista - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEtzX21iVWh0LUN1bEQ4Sm9MOU1RNzZ1ZEh6dUtKOGNvM2dNbWI4MmtzQjlQY18wN0ZYN25EN3hWendvOGxtVndGaWRmVmRxUU1VeGJmSVJvdE41c3o1S1ZjQTZNMDdzVlJ5THlfOF9lOFFIbV9PNXl6dXRIaWRmM3oxeDM5MWhnQklEbktKaS1sb3p3aXpIb0dlX19aeldyMzZyY3VhRXU2b083X1JpZHM3aU9YMWZxTXZMdk5hOWlueEEy?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-10-06T12:02:00+00:00",
-      "score": 60.15,
-      "corroborating_sources": [
-        "Tribuna do Sertão"
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +357,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FJanI2ckFzcmxDVHZSRlV6UUVWQW54eDFDd2J1bllKSVk4LVNySEo0NkZkNFZuanBIN1g4RVF5cndIc2g0bUtHWVhpQWN3Q0I5bFNXU1RQWjV3eFJ5eVFGNlZjZzRrd0U5dTNmN1hPbFlLU2phVmNrYWRiRGxMcGxXMWU2Ykx2ODBvTTZXQWQxeDNra3o1dVlWeUU3MzkwbGZrMURKM2E1Zw?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-06T00:28:56+00:00",
-      "score": 60.11,
+      "score": 56.29,
       "corroborating_sources": [
         "G1",
         "Poder360"
@@ -282,7 +373,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXFuUUhJRVRoWVVjdW5XU1JFbG5sN3pfMkpNYkJGQUluZ3NDLXYzdDlpTzNQLWRuMGhCTE53cEphQ3hxcFhVOFJXWUt6ZVdTTDYya2lwUWRmcTEzTFRXQWtaZFZkMkxjb05IYTExMGItNmxRcmVES1JjZTRyMFhLYVlzQTdUR2RDVXVraWY0bm1TQVZxWWVEdmR1N3lyRUFhUl8tQ2xPamlSRURGM3pXOFFkd0ZCN3JBX3o2aA?oc=5",
       "source": "El Confidencial",
       "published_at": "2026-10-06T03:00:00+00:00",
-      "score": 59.79,
+      "score": 55.69,
       "corroborating_sources": [
         "El Confidencial"
       ],
@@ -292,14 +383,14 @@
       }
     },
     {
-      "id": "b0ddd570b29898fd",
-      "title": "Câmara terá ao menos 42 congressistas oriundos de forças de segurança, e Senado, 9 - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEkzQmZzTTZKTEkwdm9TQjhCcUkzeWxKQ2JiQU82SV9NSlZvcUdHZGpsTWk5cE1OeElmQ3ZRalFZTWlCYmlTWmV6ZkhYUldrcEV3ZkQ4LWF1X05XZW40NG5ZOUVRZUZzTXItbHlILTFrcjA5dGtaU1NiQWlFVDlMRklHeFUxTVVMMEhXUEZnaHpFWUJKTUFOekx5ZWJPb2hYbnk2SEtUVVdrWjZ0OUtyWDlUbV9fblJQOG9ab0dHQnhvWHdt?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-05T21:32:00+00:00",
-      "score": 58.66,
+      "id": "f3040fe1f7ca86a8",
+      "title": "Saiba o que os candidatos ao Planalto farão nesta 3ª feira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2FqR2ZfQVE2ai11X2dRekR0c0xMRHNycllRZ0YtYmF0ODlWQVRkLTdGNlQ3bndOR0VVTFdGR1EwakVFTnNFLWVDUk5SSUtLTFhnVmJsR041a3NmMkhkbDNrblFnQ1hQa2M0cFUwM1JwLWpaV0lCemhIc3lscTZ0eHRQTk9XdTRiTlUwa2Jma1VQX29aOU1MZ2g0Rnd4U1JBSE9NSkNFLUVvRlVXamc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T09:18:54+00:00",
+      "score": 55.52,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -307,14 +398,29 @@
       }
     },
     {
-      "id": "be6df2f5c25a6802",
-      "title": "Democrats project a party milestone in Congress: 100 women in the House - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnVfdDJaTUx2d09HczR2REd3Wm1DaS03bW8zMEc4Z3g4OFFNcEwxa2ZBeC1BeVhjY0t2TEhuSEttOV9NMjAtWmljZnZlMk5ObUN2VVVYNFZWVUFDaElJSVNoWmNndERaRVpiUi1zN1c0UkNLVE5tZmtkcXJEaEE3UEdWblZqNHpyYWo0Q295MmZoczZEOTFIUmV3WUstMGlEempMU1ppczhQQ29jSGZITzY3UkstckdnSURFaFJPczRFYTY3NEM1SA?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-05T13:14:38+00:00",
-      "score": 58.48,
+      "id": "a83cd7da664c8f44",
+      "title": "2026 repete 2022 de forma invertida e direita avança - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDktVWcyb0xwbDJNUk9vUXpmRmJCNVJvT1JRX3oyemg3NEd1S2NkR3NrVjdvYWV0enpvbFJ4amRvUlpoWDJodE9IN1pNQVZ5MVAzNnVSOHR5VF82TmNQRHBrYWI2bXFjbWhYbG1GTzJmcHd1OVRMX0ZHZlFVZDNmUU1seVJNaHZXRWdEaGtIOXlHbEp3Wnl6bm1EOU82NkZmNkVyQkt3?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-06T09:07:04+00:00",
+      "score": 55.36,
       "corroborating_sources": [
-        "The Seattle Times"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c9cd088694cc2263",
+      "title": "Colapso político na França reflete a crise européia, afirma analista - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEtzX21iVWh0LUN1bEQ4Sm9MOU1RNzZ1ZEh6dUtKOGNvM2dNbWI4MmtzQjlQY18wN0ZYN25EN3hWendvOGxtVndGaWRmVmRxUU1VeGJmSVJvdE41c3o1S1ZjQTZNMDdzVlJ5THlfOF9lOFFIbV9PNXl6dXRIaWRmM3oxeDM5MWhnQklEbktKaS1sb3p3aXpIb0dlX19aeldyMzZyY3VhRXU2b083X1JpZHM3aU9YMWZxTXZMdk5hOWlueEEy?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-10-06T12:02:00+00:00",
+      "score": 54.88,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
       ],
       "signals": {
         "source_count": 1,
@@ -327,7 +433,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUxmd01hRlhINm5tWDlweG5hdEJrMzhsY2lyZXlMMDFVR3FZaEYzdXd5NlJrNldDbDN5VHBzbFNQYUxMbkRIMnJHenZEQ2dCcGcyTXRxRkRYRUhWdDZ4OXpHQ2RsaXJsVzY4VTJIdmVEWUM5TnZ5WHE4T05zcVUxVXA2ZldDUzZ0QnpIVkIyZDBQWlF1SmRrOVBzbUItY2FSelloLVhCSzRhRTFWRzBGMlV5d25fSjhPU0E?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-06T07:00:00+00:00",
-      "score": 58.24,
+      "score": 53.65,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -337,117 +443,12 @@
       }
     },
     {
-      "id": "00067838180ba779",
-      "title": "O aumento cavalar da dívida bruta - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05Vkp4OGk1NlVlejh0aUplM1dmUVZOWFRBVXNnc2hMNVVIWFJoVmJkNWtnNW42VTdmN3ZkX2VxMk5ZbEtzT3hoOWc1bkxaeWE0bmktNkNUNVFEMFdsU1dONGEwdjdpcTRLcGRQQ0tvUDNLdkFFcHJ0Wg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-06T06:01:00+00:00",
-      "score": 57.36,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8775e86b1e15f6ab",
-      "title": "‘The world will never be the same again’: How October 7 changed Israel, Gaza and Australia - The Age",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWHd4emNwdlRUSFhHWUMxdFFZeHpqNzBxQlZBYUdQUEg2bFdTRnFhNjMwclQ0TnlPVXQ1ZGdRbldWUkNscXpQZzNzazNDQVUtY2N6ek9IYTVmMkFQN0psZUFvemVRV3VyWGVYeV85N1R2OVdfMzF5N3VDT185RW5qVmItaDM0LUdHbTV6LTJJekFUb3JwUE1XTC1DUzdsX3N2M1FUclN3TndlS2VYUmxVVkdzTzQ3ald5aWxPVmhhTGRneHMyQmY0dUFoOEdFM0w2SnJ2djd1cDZRcDhuR3l2YW8wMS0?oc=5",
-      "source": "The Age",
-      "published_at": "2026-10-06T07:51:00+00:00",
-      "score": 56.02,
-      "corroborating_sources": [
-        "The Age"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "267ebd83207ed8e3",
-      "title": "Em discurso, Flávio Bolsonaro atribui eventual vitória ao Nordeste e prevê governo inspirado no pai - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemhQR1dzN3B5eUdxdXI5ekJJdlBYU3FTdkRaTnc3LVpnbEo3VFFQX1NadDAzOTMwRmZMSlhEU2tYUjR4aGlZUnZvb2xtTUltSGdLeExBRVNIRGhuWkV0XzB6Ml9iYVBNX29Sd2wwNkhxbld0VG9UTnZiZHRBYmFqQWIxMU5qNEQzTlQzU1dkcktaVjJEdVNkRncwLThEZEN1aG81eGtfdkg5Rm9zeHpuTEgwQXdRWHFoMHNtRldaSzVqc0JSS3dBWHpBZVhONVpDTUxzUUhaRHZTSDZv0gHiAUFVX3lxTE40LVBFNzlQTnh4TlZMQ2diUE16NTlkQUZwOXEwVGRmMGdHc1Exa3V0alN6dEhrVlgzVF9XdGtROGpPb3Z5TmxCR21SUUtwYm1CR1l5QjZXNkFfU0l1MlZ4UWhYZldwVk9Ldmg2SHViSnJZblh6S29zTXFIVUFnel9yV3VGbEt0RkozUjhYdk9ZdlFRZUlOeGtMczRxelFFX0dPOTVQQ3N1dDA0a05WUFB6WTNJM0RKa3RRSElQYkhqTkNCSzdHTmk3SVBEajBoRFF4bG9BdmtLQy1PMllvRW0wQVE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-05T17:21:31+00:00",
-      "score": 55.91,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f32aae8e45e81fa9",
-      "title": "Daniel Alves declara apoio a Flávio: “Espírito Santo soprou teu nome” - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDc1UVBaSkZybnNvRHhEMENjaFNvbm5ZSmN6X2JSa2tWWV9ZVGlCcDZUQWVjNk5YRExyckJjaEdLbWozRTdKbU9RRmJKcmd1V2JndFh2SlBCQjYtRTVOajBNN2lkdFl1aHdIZFJIeFh1dVJuRmRqSGMtdHQ3UzNnS2RWSGVIaTNTU2Zyb0VIYUlIQXBBMzlFRE15TUlTd3kyeTlfbW91R3lCSTB0eFUxNjI1RnFXQQ?oc=5",
+      "id": "dc609c5dc6e90477",
+      "title": "PL é o que mais elege deputados estaduais e distritais em 2026 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0dWZ0J1WWJpVWlORkNPRjRfYncyZDF2MWN1cjBxbU1iQ2ZhdDZFa3JRMGxpMmwteUhaZF90ZldvQnZqRFRmcTdMRDZGTm9XYzRrS29Rd09JV3FCRGRDWTZSbkc1bkFmenRTQnM5VkdPbUlPSm5NTWxtQjQ4dGtpbzk4YkllWVZPVkd6M2dGTXR1Q3FFRDFwVnppZ09keDFCRGZLODllT0t6cnB1ZWJ4TA?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-06T03:48:51+00:00",
-      "score": 55.46,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a2d8f7d54e70c6a3",
-      "title": "México priorizará Centroamérica y el Caribe en su política de cooperación internacional - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWRoWllWYnVpVjh2eWFvQ0J5TzhpdWNHbkpQTE1VN0pvOVhWUXJ0MXZnbHhvSVlnUzVVb2I2UWtsd2lHODU5R185UmM0bi1LLS1USlpSTjlrbWFtdG82aGRYVGQwYmFUUGxaaXQ2WlEzOWJ0S3JWeHFqUmJ4a3ZtaVNhRVc4UmtoeV90T0YwZXBBSDJoU2lQWDRvMjVRWnJhSWd0YkpXQUxZclRHMkxNN0p2S1RGWTI3S1QyM2sxb25qRnlsUXZhTzRwVEVUN2hOTk9mUjVrd9IB8gFBVV95cUxPaV91UlI1OTBPcm5hSkU2RHFlRTREVnVLY194cS1oSnI5X0FOaC1SbjBveWpoeDk1UktqNmc2SVc1NGNWVnlzUjFPTWlMdklldjRPaFFfcXB6SnNVbzNyLU5RWlhiWnNvc2NYWHpBdFhad1hOcHIwS0Zhc1lJeWpEOWR1cDlHZ3hzMHJYREs3LUwyZGZHRW5WWjJoMlVFZXVsemNXdmVNUzJBMHNvUm1YOU9mZUtDQ2o4T2d0Wm9felI0Q0VpdmJtakdfNzMxa28zMkRFNkxURHhxbXRUSko1VlRZRmVSektfQzJXZXBVNkJ3QQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-10-05T21:11:39+00:00",
-      "score": 55.43,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "360b185da26e70c8",
-      "title": "Luiza Erundina será a deputada estadual mais velha do Brasil - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhaanJsc1hoeE1KalBHSlhlVG10R1lEZmR2TWJJbFlpYzZFUEwybWg4REVnRTQ2UnhncnBSakxPRFh0enhjaVRkSUNGTGkxdXk5a3A2d1B4dkFNS0t1QTJ5QmFrMUdlOURQSGR4T1JtU25qeU4xYzNocTRiTlc4RE9mVFpCWnp3ck9PT0pXUmZqOS1oWE5nUzBUV3FvU0xPNlp6WVlLSXV2b3dCY3c?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T03:18:50+00:00",
-      "score": 55.05,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2c8c73000d03ba20",
-      "title": "TSE dá 2 dias para PGE se manifestar sobre recurso de Garotinho - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOendmQURxWXE2RzRaSXAtSEpFcGF1cURCbEV1a2E0Nmw0U0Zhbm4wTzNfYWdZNzRkekVBMVJFNjY4X1RTMDBudGUycjZLMFU5eFNuTmZnaWxKS2EzTTljNVNTRngtMmxtd1c3V0hjcy13S00zTU83V1NWLTg1V2NWODJJbFJUN3ZXUHNDZTVjYXZKcGozcld0NnY0RGlMbzJxY3NtNjgyOE4zbTJCYzNvejFR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T02:58:07+00:00",
-      "score": 54.77,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "424edb715e43c724",
-      "title": "Lula diz que \"bandidagem cresceu\" e Estado não dá conta - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0NSQmFzeDAzcnVJdzQyQTNyeHZTdVV2eThyN2dWR3pMdk0xX1pWTmtSVllCWXY4N3pMUjBpLUlGWXNFX1B0aEp5MGZUWlZ2dUxmbkFScjR1dUlieTNpcUtQWTFMM0JOMk1UTlRrYV9lb2Z3ZTNTcmhqUGpJa29aX0haMUZnaEw5MFJSdS1fQV9oV0dHUzlmQ0NtWTZDUnFaZFFRdA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T02:58:07+00:00",
-      "score": 54.77,
+      "published_at": "2026-10-06T06:08:51+00:00",
+      "score": 52.99,
       "corroborating_sources": [
         "Poder360"
       ],
