@@ -1,19 +1,109 @@
 {
-  "generated_at": "2026-10-07T15:35:06.666869+00:00",
-  "next_update_expected_at": "2026-10-07T19:35:06.666869+00:00",
+  "generated_at": "2026-10-07T21:20:04.811623+00:00",
+  "next_update_expected_at": "2026-10-08T01:20:04.811623+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "ddec46166b309768",
+      "title": "7 de outubro: três anos do atentado terrorista que levou Israel para a guerra - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2tOM0dJazNRYmVkdDNPWktlbF91dlh5a1lycG5ORXRXVkpaTWo5MGJjWWl0ZVI2WFF6TzBJRDJaRkVISGluSk9WRFNtY01yQnhqWE5oTWlKX2l1MmVQdlNXMTZfVlhUdlNMYTJ3SVhxSGw1QTk1c0F0SXlFU3FmR2g0MkpaZU01UTRFYl9PTTVtQWMxZHpVQnh1RQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-07T18:38:18+00:00",
+      "score": 75.23,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e2dc45d30f3987ab",
+      "title": "Kassio confirma análise sobre soltura de Bolsonaro após eleição e fala em levar caso ao plenário do STF - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHAtY21VWGhOLWJzbHF1aUl0aGFIWUtVWS12bGxtTU1WQ0hjZkNDNkNFbWhLQV9pYzkyV1NKMjQydU5hU1ZZY1M3OWRIa3lkSHhtWVZ5bk51VTRqb1ZicUxyZExDRUNSTXNjNERmV3MxcXo2RkcxYWRIRUpvQ1lYSm9JT1pMX3pDQ0J0aHIycVpUMUhNUGM2TVYtSmxjUzd3Z0UtbXdfdTlWbm04Z0VnQVhXR3UwZWxFOWVmYXMzLU42NGVjVDk0MEFidnhpZGVTSFlXWEp6V0xydlh4V2daNURSSUhTS2V1?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-07T18:10:00+00:00",
+      "score": 74.69,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "859d56194ddac18e",
+      "title": "La Universidad Popular de Tres Cantos analiza la incertidumbre política internacional en una conferencia - Diario Tres Cantos",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbGpPV1NRUURwSGRxSTdEMEZNSlJrYmFpanF3RDNNVm9rV2ZfNGFlbktaM2JXSmtncWRKQVNKRkdQWGxYY1BmeHJCXzdvSXM3VHRrN2prcE5VcDdzREQwM3I5SURCaW90SDlrOHFTNVViWjF6anpuNUJEbTZCWXFCTGZmX0lRaXVuejlYYVE3YWd4bDRKRjY2WlFxenJwd19CMXFBQllJbVdkZzZ5WDcwU1ZWYTM0MFhVcTJUQ3BZYzFGUl82cldGbkVnTzlWUkVlU1FNME5UdDQyZGE0a2FITnNBNl9Zbk9KRkE?oc=5",
+      "source": "Diario Tres Cantos",
+      "published_at": "2026-10-07T20:26:56+00:00",
+      "score": 74.38,
+      "corroborating_sources": [
+        "Diario Tres Cantos"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c36552d1aacfcf32",
+      "title": "Política alemã encara fantasmas em dia de memória do ataque do Hamas - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFdmTXN4dTRaVTZxeUZvdzh6czVNeUlFTzNXSmF0ZzBMWENJeWRPSTZUZk9tckR0bmdyUzVmVV9BT2NDSlYzajQ1TVdxWWRLdk5uV2VOd2didUF4UlRBNWtWNUQ3b3VkS3liLWd5TmtZOExIajRMWjBhRFQ0X3BIdWJndlhzZWMyN1pGeE5ZQXV0UUs2QXprRy1XLS1XbjZQQVd5QzVLb0JaNGlOTFhQUjB2V3F5NldkMVE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-07T16:37:00+00:00",
+      "score": 72.95,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "2135fb87502e3044",
       "title": "O que o governo Jair Bolsonaro sinaliza sobre a política externa de um eventual governo Flávio - Terra",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZ092bXhGeVVmWXRyZktOclFLeHFCWEJjX1I4NzJfcldvWTZ4dko0Y2VCSnA3S3BsaDJPSFpqeU96ZFZRS1I3Qm9PWk81anpJbThIRERvdmJXQmxKNFJqQVhUdjd5Rk9JNDc0SGFhVzg1cXVpX2ZfYzdYZEhabVBoZ3ZtQTNPVGstaWpwTGlYcmJBMEd0ZHB5bEl5ZUVINTZzd3VYSFJ2bGpQeFJxalhpRWdRZVRuazM1X3pBZVNFNUhNOEUtVDdEM2l4a2RSUjNJVm1Pa3BmTnpPSVZheUJBOFM5SmdXRnJvS2dfSFp0VnY4ODJoUnpHSVgzNFV6QjRqbnNjcg?oc=5",
       "source": "Terra",
       "published_at": "2026-10-07T10:27:00+00:00",
-      "score": 77.49,
+      "score": 71.74,
       "corroborating_sources": [
         "Terra"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d1a9959f2174411d",
+      "title": "Canciller Carlos Espá destaca las claves de la política exterior en la UDEP - Universidad de Piura - UDEP",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR09wcUtDMnRMSkx0TlZ6U0dfcHhwTlFsaTZ6WXc3VjM4bnItaEJrangxVVI5UVpNbDFDX09sVHlsbi1JcVNGb1RSRHZJY2JJNXdzT004MjREOUJ2WjJnWlNMX01faHNpZm1HNUM1LS1uUWEweDZzdW03ZEplMmZRLUFwc1BzWm1pVWlSS2gwQkpRR1ltbmMyTmJwdmZ3bTNNZGlfWFc0YUlJRUNLRDF2ZEtn?oc=5",
+      "source": "Universidad de Piura - UDEP",
+      "published_at": "2026-10-07T17:42:06+00:00",
+      "score": 71.16,
+      "corroborating_sources": [
+        "Universidad de Piura - UDEP"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6d31d175a08fd0d7",
+      "title": "Portugal defenderá sempre a paz e o respeito pelo direito internacional, afirma José Luís Carneiro sobre visita de Rubio a Portugal - 24 Notícias",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVklKeXJWUnZ2UElMd0ZBM3cwSlk3cGZSRlo3VW5yS0o1Q2c2aUNZWXpyTjF1Y1B0Wm9JenhpaFFQaTZJdlpLNzlfV1ZPNEhTZmkyWjhfekdzSERDOS1MUU83Qk9DNTBSay0yMGZDV2p4TEgtTEY3UTh5LUtEcFhmWE1IenhSSFA2NHNRVmxobkNwTjdNaXE1THlNcFp2QVR2X09uc0x3SUtsY0VqaVZwdEhkTWlZQ2VhYVFJZldaUkFqMkFfWlhkYXRVeUdZUEtnck5uSGVjbmJ3dGFuYTlhNDFHOW5hN2oyX0ctX1ZSU2U0VXpaVmhRSmU3ODItTThPOHJTNU15TQ?oc=5",
+      "source": "24 Notícias",
+      "published_at": "2026-10-07T20:54:46+00:00",
+      "score": 66.95,
+      "corroborating_sources": [
+        "24 Notícias"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNRjgzYkhwNUhWNkthbk1kWEk4S1JWMzByaHpUUUJEemIyQm0yLWFJT3diUG9JazVyZEQ4M3NrTmFKVWgwTl9odGRxVVYxQXRYOHBhY1czSktMZG5Vd0FhUHQzSVBrQQ?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-10-07T13:37:36+00:00",
-      "score": 73.09,
+      "score": 66.8,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -36,14 +126,105 @@
       }
     },
     {
+      "id": "569743ba00358553",
+      "title": "Moraes se reúne com chefes da PF sem registrar encontro na agenda - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmVZeU0tNnBIajBvS3dLQ1NwcmNDR01SOWtHMnRKa0tzcENLV1BLNzRhZ3VhNldkMDJRT2xIQnhQeE5DS2xMZVB2QVNMd0xhbmItZjF5ekd4SllnOV9id09fVWQ2TkhNTmtlS1JhOTB1R0JxZ3VyTE5JTUdEbnZrTjdLQnVSVHB0Ri1kSmVFcUpvS1hKS3ZrRGs1U0tnVnhDckVfTTI1MjNJLTNu?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-07T15:43:18+00:00",
+      "score": 63.98,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "acb0a3cca10ebdf5",
+      "title": "OEA aponta 'ativismo político internacional' e insegurança jurídica em eleição no Brasil - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHFITW1JSTViWmVFdTNGVTdzV0c0ZHRsdGdoUTZ6c0FLdkFuTTNQVHZsbmJPTmF3cTUzcDczcDJ1QW5ZRWdHSlRBVzQ4dWJXSXZDUmRwcVAya09QY3JFMzlBb2pvbGQxNExIano0ZXJnYTFMSy1pMVl1RGhUbkl5WkxMN2dHSmc3RHl4QXZHdGx0VTJwY2ktZGc1ODZsM3RsN3JBLUVOcmpsUU5xTThGeDVHOER6Q1l4MFltWDVwZEFJRV9FT0txNWFwNDZoNnFHZ3c?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-06T22:39:00+00:00",
+      "score": 61.74,
+      "corroborating_sources": [
+        "Brasil 247",
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "1955ac7a1a927567",
       "title": "El insulto en la política internacional - Foreign Affairs Latinoamérica",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lM0JHVHV2Z3RfWHo2RnBLM0wyd1dnQzh1RXhVWG5PckMxanpKQWRhWnZidkhoaXpnRkpmX1JraFhVeGNGT18tQW9iOXhEbVk5dk9TbEFSYzJjWEFfMzZEMDVyRlQ0ZzJ0b2wxTnQxYks?oc=5",
       "source": "Foreign Affairs Latinoamérica",
       "published_at": "2026-10-07T08:01:59+00:00",
-      "score": 66.96,
+      "score": 61.58,
       "corroborating_sources": [
         "Foreign Affairs Latinoamérica"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "434885c9d35c22e0",
+      "title": "OMS pede transparência à Rússia sobre suposta peste penumônica - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG9QQ0JLTWZJalpHelZtQm52ZDNYSUp4MzBFZndiSGFDNW9xYXNZLURqY1p1ejdaRnNNQjkxUXBkOUNocjMxejU4aDROREZ6VWpERHI2OXk3LWlLZDFWWXcyOHIzOXFtb2lXdFF3UWY0MUwtRzBHZ01XZzhTUUJPcnQ4X01hSWpqd0xCZEItTDh3VHdmRzRBZjR5U0N6bU5VdHQwcXZDZzAtb3A0VkdlbkY3QUpHZ9IBvgFBVV95cUxQZ0xFNWRQeFN1WlFuM0NPUUc0YVRMSXRfWGxGcDU1a3JReXZ4UUE0eHRRTU05UlRvOWExQVBObUc5SlFzcnJremR0Zy1jZC1UUHR0SjlWMGZGdVpjZkpJRGxtQzBrX2FTWFZhR290M2ltMjlVQ3FNYTdHbHNjN2ozRGFHeWx4enRtdlNzU09vbVFULUFDeDhYZmVhVTVjWG1JQUYwalpHQTlod1VCbzBsVWh3ajZCVmRzNlp0SG13?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-07T15:55:00+00:00",
+      "score": 61.19,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e8fd5f6b3f7be115",
+      "title": "Analista critica política contraditória da OTAN em relação ao território russo - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEtfeDV3Q21qT2dmSXk5S2xtSzRMc1l3UXhMdDFkaW16Q0R0QlpfeW9ZdlBLMGlRbjNPX0hBSlAzQk43VXJmSjRBMUFBa3RfeC13aUdEVm02d0w1MW13MXo3NkZhUWZPRml6X0xwMUt0ODBObHpCUmpaMVBxS2pHWmdoay1xRnhFUXZDV3pPalVtS1BLVjMtVmV4T1JmTWx5dmtxdjZiZHMtM3l6azNfdXNJY3Z3U0x1Z1JpaWRGX0hGWHoxUXJuODJPX3R6RlozSWFn?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-10-07T07:25:00+00:00",
+      "score": 61.05,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ff58516653040e01",
+      "title": "Hamas comemora três anos do ataque terrorista: “Histórico” - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlRKa2lxTkJ2QUNoaWkyaXJjY0E5NHB4X056LTZDYzVXS045bkVsbVdSbGFEejROeWRvek9CNzFHbGdicElFT3I2NHEzYk1uLThXdXp3ZUVJd1ItS3ljWlhCLXNMaDBtbXI2TnFJOUV0RkZTbE1JelhIUnN1dVhubzl5dl9pckkyV2FTcmJVYkFoOXRjSEkyS1ZURmVoeXdQUGsxMXdIbEZINHot0gG0AUFVX3lxTE9IM1lOejFhWldxR1FVaEpqVGlsTk5PQm5kX1E0VE9DOGZaR1FkZ1ZydDAteDFma3UxR1lnenlMa3I5Z1V5dHktS2FuQmlVZ1VyS0Z2d2NQWjlOcldZb1JWV0MxbFh1S0pxZHFGemJJcTZjRkNvQjhrTXRYbTU4Mk4tUFhtdFNXcWVqNEtuZWpJQ0xrNTFwcGpyLVdDV0F5SVhhZHVydllTR18zSExNWHRGOXRxSQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-07T15:41:00+00:00",
+      "score": 60.94,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7767b58310926121",
+      "title": "Após 3 anos, 7 de Outubro mobiliza memória, política e medos de judeus em Israel - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDhLeU96bERMSWJUaGloTHNyelNIMnpRUlNhcXdCQVhRYnIxZE91djBuNXdDWk1iN3Y5X01HMTFMcG5PVFBBOWN5anJndlFET1BUQkZ5V2tKNnZKMVJFM0wyUmJwWWhUZGtxZF9oRW8wTUxoUmhMajdvZjg0NFVjS0ZEaTZlck1aTURIUWpQQW5ab0QzYjBFbkV3V0p6M0tmQm9GNDNzX1NpUlhja1FiYkdiTF9SUW9OUXVGVTQwaFZ5WGtQcmo4?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-07T03:33:00+00:00",
+      "score": 60.93,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -55,8 +236,8 @@
       "title": "Flávio Bolsonaro procura alianças para manter vitória nas eleições. - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGZlejdQRnNFWEU5VFA0WmRnaDhtakRyLWwtSHFEVjNsc0xQbkQxcGZ0cFVYSk5oOU5vbjh4bmhScmxCTXVTMGZ3S1JEUzV1aHUxb2VSQ3lMbkRjSkExRXd0Yi1HM3pyWFRSWmc2cGZtOVdhRjc2MDlQbENfTDg3cGs1M0ZpVV90OUNGYzNGZFZFU2YxUjMtdEJJb3NOa05mTFo5cTYtYlAyRjR6cVE?oc=5",
       "source": "Brasil Paralelo",
-      "published_at": "2026-10-07T12:33:45+00:00",
-      "score": 66.85,
+      "published_at": "2026-10-07T12:38:18+00:00",
+      "score": 60.82,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -71,54 +252,9 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnFiNzZTVkNuWGtWbGpNR2dlRXNpVVZTUHV5M1N4dVE4N2tPWWR1cXp5emppOS1GNFZLQ2lqZUFMYnhrTUtPUzhVTVZ0QzlBOUNrb2t3Nkd5ZG05TGJ6dXZ1cExCSzJVMDJTVk5sUU9lVC02dzZyZFpwWjFiZ1E2X196WHdfbUNLWWJMSTY2LUs1Z2s?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-07T12:33:18+00:00",
-      "score": 66.84,
+      "score": 60.74,
       "corroborating_sources": [
         "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e8fd5f6b3f7be115",
-      "title": "Analista critica política contraditória da OTAN em relação ao território russo - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEtfeDV3Q21qT2dmSXk5S2xtSzRMc1l3UXhMdDFkaW16Q0R0QlpfeW9ZdlBLMGlRbjNPX0hBSlAzQk43VXJmSjRBMUFBa3RfeC13aUdEVm02d0w1MW13MXo3NkZhUWZPRml6X0xwMUt0ODBObHpCUmpaMVBxS2pHWmdoay1xRnhFUXZDV3pPalVtS1BLVjMtVmV4T1JmTWx5dmtxdjZiZHMtM3l6azNfdXNJY3Z3U0x1Z1JpaWRGX0hGWHoxUXJuODJPX3R6RlozSWFn?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-10-07T07:25:00+00:00",
-      "score": 66.34,
-      "corroborating_sources": [
-        "Tribuna do Sertão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2343a1d9b9268744",
-      "title": "Descubra o plano de Lula para tentar virar o resultado das eleições - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVURRVTZCZ2JNLWdnUkIwZmVyOFQ5WkVJWlV5YVUwaUU3Y0dodl9feEFGZTBsdEFIRngwZFVOWkhaRS0xSWlKNExtRGlWblMxSkFOQmxoLUNzeGpIYU9fRS0xTVJaa3g4VWM4QkZqNm9fSUt2a2l0cTUwMFBhZlhYNXVTMjVFUzgzek42Q2NIQmhTRE5DbWExMjdOaHo1UQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-07T12:03:18+00:00",
-      "score": 66.27,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0928e463bb4cfe62",
-      "title": "Organização internacional faz alerta para interferência externa nas eleições do Brasil - Portal Lupa1",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSG51Q25iZHpBRnRqOU9hcC1QbmdrbFItYjRfR0h6ZjRPWVB3c0ZVcUdzOTBVS3djbGpLSUNyZmtkQmhWVG9hemlUR0JNbFY5SjREYWYxYjJFZ1cybGRYSElMRGNOWGxoV2N6REswUzBKaUg3QWRkemdlM2ZuSGJDcEtrdDRSdnFJX3ROdmhubmN2SjRzbF9odHEtQlREMkJBdVBEVFJsUXZDUG1jSWdmTzAzb1RYcVYwM0wxRFJfcTBEekpIZ3hwZjl5cTFMdw?oc=5",
-      "source": "Portal Lupa1",
-      "published_at": "2026-10-07T14:19:35+00:00",
-      "score": 65.93,
-      "corroborating_sources": [
-        "Portal Lupa1"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +267,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUGV2Tk43cy1WWWRSdjFORFhlS1UtTDFHNk1RYnJ2U1p6UjZCYmZMN3dCMXBpR192Y3ExanJfX2hrU0ZrZmV4eGQ2eUVoMXVaUEJGZXNNR1lPODhUd0w3RmJiaEoxNzc4cVkxUzJxWlVoejFqaXRR?oc=5",
       "source": "El Orden Mundial",
       "published_at": "2026-10-07T06:59:16+00:00",
-      "score": 65.92,
+      "score": 60.69,
       "corroborating_sources": [
         "El Orden Mundial"
       ],
@@ -141,18 +277,17 @@
       }
     },
     {
-      "id": "acb0a3cca10ebdf5",
-      "title": "OEA aponta 'ativismo político internacional' e insegurança jurídica em eleição no Brasil - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHFITW1JSTViWmVFdTNGVTdzV0c0ZHRsdGdoUTZ6c0FLdkFuTTNQVHZsbmJPTmF3cTUzcDczcDJ1QW5ZRWdHSlRBVzQ4dWJXSXZDUmRwcVAya09QY3JFMzlBb2pvbGQxNExIano0ZXJnYTFMSy1pMVl1RGhUbkl5WkxMN2dHSmc3RHl4QXZHdGx0VTJwY2ktZGc1ODZsM3RsN3JBLUVOcmpsUU5xTThGeDVHOER6Q1l4MFltWDVwZEFJRV9FT0txNWFwNDZoNnFHZ3c?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-06T22:39:00+00:00",
-      "score": 65.89,
+      "id": "5ea4e7bc2d9efd26",
+      "title": "Descubra o plano de Lula para tentar virar as eleições - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVURRVTZCZ2JNLWdnUkIwZmVyOFQ5WkVJWlV5YVUwaUU3Y0dodl9feEFGZTBsdEFIRngwZFVOWkhaRS0xSWlKNExtRGlWblMxSkFOQmxoLUNzeGpIYU9fRS0xTVJaa3g4VWM4QkZqNm9fSUt2a2l0cTUwMFBhZlhYNXVTMjVFUzgzek42Q2NIQmhTRE5DbWExMjdOaHo1UQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-07T12:03:18+00:00",
+      "score": 60.25,
       "corroborating_sources": [
-        "Brasil 247",
-        "Folha de S.Paulo"
+        "Brasil Paralelo"
       ],
       "signals": {
-        "source_count": 2,
+        "source_count": 1,
         "social_metrics_available": false
       }
     },
@@ -162,9 +297,24 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDRqNDl5M0FKMkFCWDZDMUVLNzJ5SnFyNHprYVFjUlRTNlpoRVNkNFZoY1ZVZzRPVTQwQzhEZVVVSzI3WjQ2YUpTaHRRT0tSei1rVm4xc2llWTdPMjg1cC0zcHY2ZmhHYlBfYnlQMVdPSFFjLTdUXzZLT0xhSXVCemhRLXRKc2RfNUFqM2xidm5qTW1hRWxwUGhFRnJuRDg?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-07T11:25:26+00:00",
-      "score": 65.56,
+      "score": 59.65,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0928e463bb4cfe62",
+      "title": "Organização internacional faz alerta para interferência externa nas eleições do Brasil - Portal Lupa1",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSG51Q25iZHpBRnRqOU9hcC1QbmdrbFItYjRfR0h6ZjRPWVB3c0ZVcUdzOTBVS3djbGpLSUNyZmtkQmhWVG9hemlUR0JNbFY5SjREYWYxYjJFZ1cybGRYSElMRGNOWGxoV2N6REswUzBKaUg3QWRkemdlM2ZuSGJDcEtrdDRSdnFJX3ROdmhubmN2SjRzbF9odHEtQlREMkJBdVBEVFJsUXZDUG1jSWdmTzAzb1RYcVYwM0wxRFJfcTBEekpIZ3hwZjl5cTFMdw?oc=5",
+      "source": "Portal Lupa1",
+      "published_at": "2026-10-07T14:19:35+00:00",
+      "score": 59.52,
+      "corroborating_sources": [
+        "Portal Lupa1"
       ],
       "signals": {
         "source_count": 1,
@@ -177,7 +327,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejY5eG12LXBqYm5yb1BSSjRVdW9Ea0l2ZDB2TTBwWC1aN2s3VHVoRTNrV0RPNHR4bDNwWWhZVy0yRzRfS2huNUdSa090cldZX1lUYXlsdUIzM05FWk5Pd245bjhXelNYTGc1WTZLM0ZaX00wdWZiRVFwaGtTTnNTdVVVeVRrOExOaTlMcjZVM3hzZEF2cWh2VXZpQWtHbzlpeEJId21NMWtja3MzYUQ1eWdWeXJscENUcWs4WlFrRmU?oc=5",
       "source": "RFI",
       "published_at": "2026-10-07T13:34:31+00:00",
-      "score": 65.03,
+      "score": 58.75,
       "corroborating_sources": [
         "RFI"
       ],
@@ -192,7 +342,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVhBLUJ5SERTUjg5S2p0TlZFNnF5Wll0NlVsNkVmRHF0WTJ4Si1ZZndpNUxWa0sxMTN1N3QzeUZ6R0lzVUJhSWt0MjBqQ3Q3b09vY1pLVXpPdGwwZHhqVGFGS0E4X19CTE1PbEdqdHA0OFExUnpLcVdrT21rTWNGd0N2TmRtWE1XUFliUWprN0kzOGMyLWdFZFNMYjF1c1FhOVhLSkpFU0paYUV0SGfSAbYBQVVfeXFMTkI3aVNrQzVGYktobXRZQTBkVHdVV0VFcUVnX1FsQUhiV0xkV3N3MDRXa2hveHljd01Qd1hlUWtyOGEwWmJFZlVzT1I3WHpMcHhmRU9NX0xOcDZWREpZOGlvSFJkOUlyUXRZaWc4OTAzU2xUZHhoem1vOVFFRVNCU19QaGxIUVVmaUpuT0kxV2QwRy1fZ2lLWnVVZzBSUVRieExENXhuWG16WEY1ZWl3YVN3cW5SYkE?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-07T13:02:00+00:00",
-      "score": 64.4,
+      "score": 58.21,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -207,7 +357,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1FfT1ZDSFpPaERCZEpjSkJJNG95clMwckxxVngxVHlfbnNDck00a1lRT1lDSWNUMTRfWnU2QmNzcE5kLWw2Tk1fb2Qtc1RTZjhCZTkwcXZEZG80dW9QVWU1bEtGTFp6Q21LNzBreHBxYzVGOEpjU0pHamxGb1JXT1ZKaUR5bTZhMW1RSEwydUNpZTA0SjdLZElSNmlRd1RJTnRURGNR?oc=5",
       "source": "Teletica",
       "published_at": "2026-10-07T12:49:35+00:00",
-      "score": 64.16,
+      "score": 58.0,
       "corroborating_sources": [
         "Teletica"
       ],
@@ -222,24 +372,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOekcyTkJzRnJYYzAxNDRoTXJSSlZIUVV6TUNjMzN5RmVxTFNlQnFTaTFmN200aVZwb1BmUDVGVHVtODNSSlFLRlZocW5PUEp4QjE3YWpiOFY5UWltUFdLVWdnMmxOaGdRNWEwejhkOFFpWG9yVlJTanZmZnNnNFA5Z0hMM0ZBckdWdm9CelhKeWlSMGd3ZWJ2dVB2d2kyWHlDRE1VZUF1Z3pPWG91dm5wd0lpUU43TnZpaFBEcngtODhGaWh3QVlGbFZfT29FVzlhakdxbG5IalRoZmRoc1V3R0xFSmdwazNJMEFzcmEtTDZkNVQxd1ptMU1SVkFsSlB2MkpiRllJb3NNSUxXU2RiRWhxY2ZoeWRxamRLVE9SczZuZ9IBtgJBVV95cUxNTWV2MHBmRXY3UlNHMzBvNU5QOHlrc1BrdHdvVDdHWUlUcmU2Uk4wRktwd3hHLUpPN0wyMG5oSEh6WWF3dkJUYVFFdmRqb2pYWEhsekxuOEJ6MllMZ3gxbWdFUUVVbjJ6a191YlVpeU9wNFZlcjhMcUhDakpXamVPTDlXcVFGc1dyRkZmeU5EdmV6eVNENEFGZjJOdE5ybXFZVmpPcW5xUWQxZmtqdFRrNzlYNzFMWWVaTzF1QzlxTFp2R3JJcThsZURZVDZ2YjZuLWNNQ09qS2ZuVFctVFJWYWIyNTV0Y2p1QW1lQkhpUTVXUGdxZU0xZDl4dlVvYm1yWENiWmlhdWxsWWJrSEtJeEZwV2JJbFRyQk5zbUoyWXVrYnExNU1mQUw2Y2k2OEJLc193YWVB?oc=5",
       "source": "Cadena SER",
       "published_at": "2026-10-07T12:11:43+00:00",
-      "score": 63.43,
+      "score": 57.39,
       "corroborating_sources": [
         "Cadena SER"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f3197697cd0142f8",
-      "title": "Finland's president offers a compelling plan for a new world order - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORklzT1d1d1Rwby1zbWpHSnV0aVI0TG9LclVJa0tGNE11OXNNbGk5bWhRMzVXV0g0R1V0dl92cndMWnpPYkZjbWRJc0hOVUdWeWV4TGpjYmVZWWpmMXBrMWtldnhVSG5Jd0dLa1UxYk0wWTRpYXlocnZvamR5YTVDVU1nakpreWo2bjBjT3lKUmtKU0ZiQ0dQOVgycG1vUkJydXZxUGttVWVmcEpwUjlxZNIBtgFBVV95cUxPXzhqMDJtVFdDTDV5c29hbzJGZVNEVVBJTEVnV2NnQ1NBREZqci11M1YtU01Kdi16cnR4dXpnQ0U3MjRFZENmSC1jSklPd2lnYWtzaGFLUGp6SVJka3NHSkVULUFXX19uX1ZKOHAxSlRaYU9EZk9MMGt1LWNET1NMMC1Yb2p4My1uTW9UU3JCT0RXQXUtSDFKc2hseFFIUGpJdG1JR0ZIMGFZblM5Umk3MXdxWGk2UQ?oc=5",
-      "source": "The Korea Times",
-      "published_at": "2026-10-06T23:50:00+00:00",
-      "score": 59.53,
-      "corroborating_sources": [
-        "The Korea Times"
       ],
       "signals": {
         "source_count": 1,
@@ -252,7 +387,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelpIdmlXYjhrYWRReE9td1hnNW9Vb2VtNkNlNFh2bng0NXJTZVlTbm12WWV6cktXVFlZN0prMFlsOEw0eUFfaGppOTlsUXJfLVE5MmNIejJwM1lUblBoNnRYYkRGMUk4R1lLM1lPbGhzeTNJRmJtbURqUEtWNG9Gd0JGbkpYSGVLSlRGUi1KUkZyQ2lIU1JQYUFzZGNwaENXZU0yWnJlbUZoSVZ6RlVCbQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-06T19:15:05+00:00",
-      "score": 59.06,
+      "score": 55.28,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -262,14 +397,29 @@
       }
     },
     {
-      "id": "bb7d54302a1ae6d1",
-      "title": "'No doubt': Hockey adamant corruption is flourishing in Washington - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1ZSN1J4dDllTUR4WnByLTVnQS1KNVQxb21ZQTFwbUp6d0hoMFNRa1ZjWkVrNTRRUUJvZndEVnRZam9NeGExYVVxLU8wbnZHNlVlYW95dDk5VFFOTEdKNUZEY1h5OXJSbHhOMEx5R2VHajNxWnYwc2JXTXdKNEpaTlZfWkJtbmhZMndYZnpPMnZ2MTZtVUNiVFRSbEl4aTU1dnVqU2pHU0dlcTBxWG9F?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-10-07T07:52:57+00:00",
-      "score": 58.81,
+      "id": "f3197697cd0142f8",
+      "title": "Finland's president offers a compelling plan for a new world order - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORklzT1d1d1Rwby1zbWpHSnV0aVI0TG9LclVJa0tGNE11OXNNbGk5bWhRMzVXV0g0R1V0dl92cndMWnpPYkZjbWRJc0hOVUdWeWV4TGpjYmVZWWpmMXBrMWtldnhVSG5Jd0dLa1UxYk0wWTRpYXlocnZvamR5YTVDVU1nakpreWo2bjBjT3lKUmtKU0ZiQ0dQOVgycG1vUkJydXZxUGttVWVmcEpwUjlxZNIBtgFBVV95cUxPXzhqMDJtVFdDTDV5c29hbzJGZVNEVVBJTEVnV2NnQ1NBREZqci11M1YtU01Kdi16cnR4dXpnQ0U3MjRFZENmSC1jSklPd2lnYWtzaGFLUGp6SVJka3NHSkVULUFXX19uX1ZKOHAxSlRaYU9EZk9MMGt1LWNET1NMMC1Yb2p4My1uTW9UU3JCT0RXQXUtSDFKc2hseFFIUGpJdG1JR0ZIMGFZblM5Umk3MXdxWGk2UQ?oc=5",
+      "source": "The Korea Times",
+      "published_at": "2026-10-06T23:50:00+00:00",
+      "score": 55.24,
       "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
+        "The Korea Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "03a069d8ae6e373f",
+      "title": "OEA cita preocupação com desinformação e interferência externa na eleição brasileira - Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNDhPWXRuUHl4bkdIWWZSOE1OSUNNMW5HbUxPOGh1YUp1bnhFdHFCY0RTdlo0TnIyY3VNTFNCMGtIYVVfUUFMbVFua3c0cWtfMG9jblR5Vy03U0M5Mkd6WTFjVzBhOXZQT3B6Vzc4S0FxUC16dHUwQTBhLTIzTG9FTE5Yenc3RWtJZXRWZEI5VjhmREdLbUoxU1VmaUlTN2FPbUR5c1pORlRSWm5NYUlTcUM3SkUxUlcxS1NVOEkzOFFuajlVQ09IM2VUYTR3SUpyeWlqQ3FlTVpxNmdaZDRacm9Vc9IB8gFBVV95cUxQbUY5eU9qV00wVXRqQmo0MWlDckRzblhNd1hla0ZjcEc2bGs0eUhNSHp6S3BESVUxY3lwLTU3ZEFqWGd1S2M4dkhSWklWQkdLc2JhbnV1SlZycUFwUVFIaVdpYldOSl9pY0E1UEJDbnNGMUlUWTJJdDFkb0FxU183Rl8zMmVuM1c2bVNZYWx0aWtaOXQ4RklvMnMwTHlTZDhuUGttTlN4WEZtN2Q4YmZ5SlV5ZXVXWjhOT29EMG90SGJiV1dMTkVzUFRscl9ScWlKUlBSbVg4RmRnSk80QndxczB3UkpOMHNFTmE5b1JrZEJZQQ?oc=5",
+      "source": "Valor Econômico",
+      "published_at": "2026-10-06T22:52:01+00:00",
+      "score": 54.59,
+      "corroborating_sources": [
+        "Valor Econômico"
       ],
       "signals": {
         "source_count": 1,
@@ -282,24 +432,9 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXZNZUdubkw3NHFZTDdXSHYxaEhHRDRBRkNfc1JFVUhybFlxT3pmSzhQcnhzU2JodmQ1eDU2djQzcWVMQnZIQkZBUE9Wb0tibFZuOFNqNnoxUlNzQVRDQTcxUVlrdXlhdEN0UUJYcEdmcmtNcXE5aFI5bHhuRzF6ZUFrZGFVcl90M0xLM05uaGNCc3RvMlZuMHhPb216MEpaSkpQamQxQ3Fwci0zTmlwM3Bqb3ZuanFhbjVsellkbldlWUIxT0x3RlZ0SUbSAdIBQVVfeXFMTzNEV3haV3JuV2hMQ2pmWGZXR1N4NzhYQ1AydEJpdXNzdG5ySk0tYVVQaTlaTkJ4Tk9VN0tEaGRGZzNDNk1aMmVyY3NDejFNcHM4Z2NyOFVDQjlQUTVhNmFNV3hhNnRybXZMTklMQWRUckV3TEhwR0p5cGZPM1ZuYWVIbzVWd2l4UTFZeEtSZ1ZnSFluck1yTmhkYlk3SmVyOTBOZHFSNXZnVk9BZHBfbW50QjhDVW4xRDhLVzFwU2VvUmtPZllQMldmTi1zT2VVN2lR?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-06T17:41:00+00:00",
-      "score": 57.97,
+      "score": 54.35,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ad6540a104fedbcf",
-      "title": "GTA 6 could be at its funniest when it stops trying to parody real-world politicians - GAMINGbible",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTlp3d2tsdjJ3NHpnNFBsYzVjcDg1ZkdKOFUzTmVUb0IwUTNVWnVQUENabWZ3VW00Nkt4MFJhdU9xZDN5Y2NfeWZKTmUxTEhId294QTJDcGdkbU92Ylo4WTdwX1l5TjJFeGlDMVdWSS01UExUQ0ZRMnNLeDRQcnpfTEttZVFPZ29jWGJMXw?oc=5",
-      "source": "GAMINGbible",
-      "published_at": "2026-10-07T07:00:01+00:00",
-      "score": 57.93,
-      "corroborating_sources": [
-        "GAMINGbible"
       ],
       "signals": {
         "source_count": 1,
@@ -312,144 +447,9 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRF9LaEExSFpOV3hnWVR4Y2ZZdnQybTQtUHZjenB0RUlBQ2YtVURET0NZb3VxVTZmUFpPOW9HTmp0VTQ2RXpmR2I5VXZfTlpYaHBhQWFqYXpUeXE5aTgtTUk2cm52cXA5OU5RdUY0SVlMR0ZTbVlHOEtscWdlZmplWHFCQzBtbVhpZUpaTkZXMWYzZGltN3dfZ2lB?oc=5",
       "source": "Sky News",
       "published_at": "2026-10-06T21:42:17+00:00",
-      "score": 57.86,
+      "score": 53.82,
       "corroborating_sources": [
         "Sky News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6013750d5b6e156a",
-      "title": "Milei viaja a hacer campaña a España tras el adelanto electoral impulsado por Sánchez - Política y Medios",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUlvVkIyYWtuSzctdkdNeUVVckItX3BUVGhVN0ptRzJpR0RBbHN6VUhURDJSUG5jSF84elltenZKeWtxZW1HTW0xQXFkeHVxS0lXbXVVQVJZbzAyZzNnUkFfeUFrQ2VSNWZZQ0NHVUpGckpPMnVvNmZmOHo3aXN6UjZTOGpzMHBmaGp4Q1NvTUk3WEo1YlpMTS0yeFg0OFlXQ1hQY1FPYmpybTNmVFF0dnU2cmRDeFBCc0MxZmlmcUZYcXQtTHc?oc=5",
-      "source": "Política y Medios",
-      "published_at": "2026-10-06T20:32:17+00:00",
-      "score": 56.99,
-      "corroborating_sources": [
-        "Política y Medios"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ef304dff87476092",
-      "title": "Sem detalhar, OEA diz que houve 'ativismo político internacional' na eleição; TSE descarta interferência - G1",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMUdoazJoWU9IanhReGNEa1RNaTRpR2dTdjFKWFNSS1VDb2FkZFB3OG9UTUpxMVRaVmpzYWstemRMTWVYS3FmeU9UN3Rhcm94SnYtTnpwaU1IbzZyZWFkZ2tnYnA0MzFNcURNcm1DRWhOSVdqdDNPSHVjdGVDWUZ5bUljcnRrTmNQN2hIeWRJZFdTbF8ySlhUMVZJSXR3YmpVbThRaWdTRTVpYk5YQk4zeENKZW5WMEphTmw2MWlpLVdlZGN2TGVYRDRVeWtpMkNZZ0ZmS2E2bmlJZTNLYjFYRXY3VE1yaUxKQmswQVE1eTVwaXdka1IzRUh2cFdzQdIBjAJBVV95cUxONmlLcmM5THFDc2V3amxkeDRmVnZZNnktRUpjbVVpbjBKcW5FVDlNcWdxS0VLYXdYaFo2VE9NQ1dld0lfaUV3anViMDNIcHMxUmpDTTQtdG1oUE11TThCY1VGRWZXZnBpbDg5QTQyNzNCZkZCelhCMDhvVjEzQ2xUWVo0a3RGYzNnNjVfTzU2MUsyMXRoREktX3hEZUd3eXVnU1VPT0NHUnpYZTR1NFdpbHBEX1ZJcm5qeXJUTl9mRExQeDBab0FjSlJucGdvajhtUFdVZFJCT0RLSnhxVUV4ckFubzBYNmk2UlNxMmlmVkk2MFhsU1Jmem1xSzNDOWg4eW5TS1c1SEE4YzFi?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-06T20:24:03+00:00",
-      "score": 56.89,
-      "corroborating_sources": [
-        "G1"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "25aeef8f42287edc",
-      "title": "Bacman y Negri analizan el complejo desafío de Lula para dar vuelta la elección en el balotaje - Política y Medios",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzc5Rjl4N2JnZTExbGlqYjJJZ3pheG53RTJKVEJkdDB3cmQySFJqa2tHVzZXT3JpakI0MnZyeG42WkQ5UENvTFB6Z1g1QXItbzJ6bnJEbnEydlVBSzFTX1NaMlpsbk80bFV5NVpPS3pKVmF0M21wd1V6S3d3SmRmRUp0WGZZYi0wckhkc3J1T24wcElMU0FLV25FTFFmNkNPVGg5d2tUckxSN3hkaDIxRFhFZ0VjZ1pPRzdwOW1nZGpKbnF1aXJOMG9RR3NheDUxWlE?oc=5",
-      "source": "Política y Medios",
-      "published_at": "2026-10-06T20:17:13+00:00",
-      "score": 56.8,
-      "corroborating_sources": [
-        "Política y Medios"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2321c17a0c1e2d5d",
-      "title": "Sánchez adelanta las elecciones para frenar a la ultraderecha y refundar su mayoría - Política y Medios",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0tXbHlpTUZXVTJwSk1aQ0RIdzkyMmlSZWtmWnpiUUx4d1JldlFzWURBRXo4REtOOVk4UmtFUGdhbGJYaXVpVEd4bjg4cHQxREpMejd5MXdMWmx1MVFvdHpTbzh6UHdhUDZIVW56SzVPUHkxNkw0ZkwtYU5QWEc0TW92NHdYU0JGaTNieGh3bG1FakdDTWxSRGtXYWNiQVI0SFRZTlBTSVBGb0liUTBsdXltbGVYUXItb1BkbXZRQ1FCRlk?oc=5",
-      "source": "Política y Medios",
-      "published_at": "2026-10-06T19:32:04+00:00",
-      "score": 56.26,
-      "corroborating_sources": [
-        "Política y Medios"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d6ebcde5e16a7e5a",
-      "title": "GTA 6 terá política, mas evitará sátira direta a Trump - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXZMajdrclEtcDV2c0dNUDFRRzNGRUZ5VU9vUmZTWGpKbTBGVUtBQmJONXZjMXBlZW1WeG9oZnZJX2c1SjJVa1VOcVRoclVtUTRTMTVxekV1QXpJSUtSZkcySEtWNjE2NDlydkhvemdBUk1OWEpiR0lVd1VtRHJpc2pMNDlaOURZcnJUcGN3MkxidXhiNWxjS3Z6ZktvVEx6?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-10-06T18:52:00+00:00",
-      "score": 55.79,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5ec55c0cfcad86a6",
-      "title": "Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkNBWmx1bkVWalh3bXZobm9jTHdEd3duckVqMVhOamZGclFUS2QyaDRwWVQyWEtXQjVmUDc5Y09hdGVPTGxzSEctSGdsNUI4RE9ndWdPTFZ5UjdFTHlzeHZXbUYxVkdMTXZsZTZtblhlRG5BQ1VEMjM3QURoTmNhOHI1THhBbTc1ekZ5UWlPcUhrcmItSy1zOFJVa0JnZDQ4aWZoSXlCc2FJN1dqT1NVNU1kaTFLTjNoRFhkR3ZvZFV5TGdJaEl5dlAtNHNIVjN2cVV5a2UzclpfNDRQX2NZcg?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-06T04:04:17+00:00",
-      "score": 55.26,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3420e49ff7c38ee4",
-      "title": "\"Benefício da dúvida\" para Flávio dá o tom dos mercados - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTZ2T3FzTW9mM0pyNzNUS3QwOHN2SW9Ubk1KQ3NaR0hDcHEtdzJmNDV5amtzamNScmNUSWdpYTU3NW0xaTBqaXFrSVNCb2dSSUFIakhuNFM4SUJnbWtVUnNlbTJTZkNBZGN1ZDZ3ak01UWwzZ2swb1VKaFVoTmF5TGlsaVlwM1VybTBsMDVHc29NWkk2R3JYeDVpNndBYVJDNzZHNVZaRVRWZ9IBrwFBVV95cUxQenYyT09TNVR0VHlqSTNzMmFQOU5Gd2VIYy16aFA5NVJwejBpYkN4TGFQRmprZFNjYThQQTlTdktBUGNrSHVHLWowS3FTM3JINnhFbjI2NTF4ZTMzU2NGZzBpOF9OSXJuWENOT2FxZk5BYXBiVXM2ZklvRTNlM1hKd3U5V25OV0hBUGM3R0ZQVVA3dFBNTjJrYlBtaVkyLVpWaWZob1I2SFFhVVVPaU1r?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-06T23:09:39+00:00",
-      "score": 53.99,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a2d4e5a1de8a5df3",
-      "title": "Former Olympian asks watchdogs to investigate Reflecting Pool vandalism case - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRGNzdVhBTmxyZkxyal96OXg0NUlJZkJyd0swZHRKazB2TW5tLThDTkFsMEpZWGREYmJuMUJ2Mkw4b2JuVThBT1FuTE1USl9BS1JVRGVMeWdxWkF6bWo4WDk4YlpNWUNOek5nb3pydU9GaGx4aWpUZ2U3M0lBaENPZFAyRFpMemRBMjc2OEpDVWpVOXZydGVNRzVhZ2dKSURmNWhRWjR2ZkFBSWEzR0VVSHFTdENOVGZtc0lKeng5c0h6dGhwbTlYTFk5RTYtN2FDOEFJ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-07T02:37:24+00:00",
-      "score": 53.87,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "59d4d9730f8c3309",
-      "title": "Brasileiro que se passou por agente do ICE em local de votação nos EUA é liberado após pagar fiança - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY0NEeHA0QlZXaktzbTEwMkprWnFzZGItdURXX2EzbjVMejFHWjB0SHZwSGY3dndzay1ZUnpwMFlUVVF4cXJWY2JKLUdyOXk5dmFXRnladXl1NGFVWHlFNU1lTjFyaXJMdWVmWHdoRTVCX3c0MEViX1hyOFlia3pMVTNtNzlUQjI4RnRRMDlrVjA1ay1KcUxBOHNBYXRscHkxSVo5WUtRRG9EZk1sMXV5UGJRTjVnMElTZ0Z0cS0zZVVJYm9IbzVENHZfTXpjaWhoUHd2ODRHeU5JMkVmb3fSAeMBQVVfeXFMT1BiVjNRQkNuSnNGeWV6bFVCU2drQ0taU3pqZktsbjRFQXRnQ3EtVi0wNkhENnJnR2Vla0tmeUhWZ2xHUmFpelEyMnowSzliVVFHWHh5TlltZmtjNDJiTi1YdkxsVU14aFVoY2k5Vmx1UWo0TWNkSHFQVXd1VUNJNlJ0bTlrU1BKXzlTMGt2Qm1XblRsNXFpTjhtLTJzcTIzbmxGWTRmRXJoUjJFdVp3LXVqeGNMbnJCRUlfbk5PVC1SWE9Ncm1ZNVlDQ1Z4dGg0NTRwX1hGMEFMdEJsU3NrWXZkZmc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-06T22:08:00+00:00",
-      "score": 53.19,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
