@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-10-07T21:20:04.811623+00:00",
-  "next_update_expected_at": "2026-10-08T01:20:04.811623+00:00",
+  "generated_at": "2026-10-08T06:11:29.151255+00:00",
+  "next_update_expected_at": "2026-10-08T10:11:29.151255+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "0f82ecc0e346dec4",
+      "title": "Deputados dos EUA acusam Trump de interferir na eleição entre Lula e Flávio - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejZfdndDX1R6NmZGQ2ZFWlJ3X09PNnU3bXY0X3IzZ05yeXphem0zSVhFdVFsemJZVGVxREVBOF9UWDFRZVF0NndNVmZUb1hVUXJkOEtWbk1xU2gwWXFSdFlvZTJWYUhWd0VzRHhyakRkUU0xY29JU1dza2p0X2E3V1RBYXFWYmxhZ1dfVkI5dE1SNEpySnhfaW9BZnBjSy16SXpLQlM2Vk9JREtw?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-10-08T01:26:00+00:00",
+      "score": 77.91,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a84377f58cc5802e",
+      "title": "El protocolo y la oratoria, más allá de la diplomacia - EL UNIVERSAL",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVFoVEJ6TWxyUXhHTE1DNGhkc0dxYlN2Zml4UTZtYTZaU0t1S21rY0ZSM05SYnJCYjEyVlgwQVluZE1GUEpDN2x1RUJMNkItRmZuVnhvY3NLZlVTN3FOMFRodlZOYk9sa2dYRVM1OUdZYkhkQXBQbnV4WHk3emNyM2RYckZ3bGVyNnBmaHFNMGhNQXVOVjlmMFVhb3dGUDRS?oc=5",
+      "source": "EL UNIVERSAL",
+      "published_at": "2026-10-08T04:03:18+00:00",
+      "score": 72.88,
+      "corroborating_sources": [
+        "EL UNIVERSAL"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "ddec46166b309768",
       "title": "7 de outubro: três anos do atentado terrorista que levou Israel para a guerra - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2tOM0dJazNRYmVkdDNPWktlbF91dlh5a1lycG5ORXRXVkpaTWo5MGJjWWl0ZVI2WFF6TzBJRDJaRkVISGluSk9WRFNtY01yQnhqWE5oTWlKX2l1MmVQdlNXMTZfVlhUdlNMYTJ3SVhxSGw1QTk1c0F0SXlFU3FmR2g0MkpaZU01UTRFYl9PTTVtQWMxZHpVQnh1RQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-07T18:38:18+00:00",
-      "score": 75.23,
+      "score": 66.12,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHAtY21VWGhOLWJzbHF1aUl0aGFIWUtVWS12bGxtTU1WQ0hjZkNDNkNFbWhLQV9pYzkyV1NKMjQydU5hU1ZZY1M3OWRIa3lkSHhtWVZ5bk51VTRqb1ZicUxyZExDRUNSTXNjNERmV3MxcXo2RkcxYWRIRUpvQ1lYSm9JT1pMX3pDQ0J0aHIycVpUMUhNUGM2TVYtSmxjUzd3Z0UtbXdfdTlWbm04Z0VnQVhXR3UwZWxFOWVmYXMzLU42NGVjVDk0MEFidnhpZGVTSFlXWEp6V0xydlh4V2daNURSSUhTS2V1?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-07T18:10:00+00:00",
-      "score": 74.69,
+      "score": 65.7,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -41,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbGpPV1NRUURwSGRxSTdEMEZNSlJrYmFpanF3RDNNVm9rV2ZfNGFlbktaM2JXSmtncWRKQVNKRkdQWGxYY1BmeHJCXzdvSXM3VHRrN2prcE5VcDdzREQwM3I5SURCaW90SDlrOHFTNVViWjF6anpuNUJEbTZCWXFCTGZmX0lRaXVuejlYYVE3YWd4bDRKRjY2WlFxenJwd19CMXFBQllJbVdkZzZ5WDcwU1ZWYTM0MFhVcTJUQ3BZYzFGUl82cldGbkVnTzlWUkVlU1FNME5UdDQyZGE0a2FITnNBNl9Zbk9KRkE?oc=5",
       "source": "Diario Tres Cantos",
       "published_at": "2026-10-07T20:26:56+00:00",
-      "score": 74.38,
+      "score": 64.81,
       "corroborating_sources": [
         "Diario Tres Cantos"
       ],
@@ -56,7 +86,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFdmTXN4dTRaVTZxeUZvdzh6czVNeUlFTzNXSmF0ZzBMWENJeWRPSTZUZk9tckR0bmdyUzVmVV9BT2NDSlYzajQ1TVdxWWRLdk5uV2VOd2didUF4UlRBNWtWNUQ3b3VkS3liLWd5TmtZOExIajRMWjBhRFQ0X3BIdWJndlhzZWMyN1pGeE5ZQXV0UUs2QXprRy1XLS1XbjZQQVd5QzVLb0JaNGlOTFhQUjB2V3F5NldkMVE?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-07T16:37:00+00:00",
-      "score": 72.95,
+      "score": 64.34,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -66,14 +96,59 @@
       }
     },
     {
-      "id": "2135fb87502e3044",
-      "title": "O que o governo Jair Bolsonaro sinaliza sobre a política externa de um eventual governo Flávio - Terra",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZ092bXhGeVVmWXRyZktOclFLeHFCWEJjX1I4NzJfcldvWTZ4dko0Y2VCSnA3S3BsaDJPSFpqeU96ZFZRS1I3Qm9PWk81anpJbThIRERvdmJXQmxKNFJqQVhUdjd5Rk9JNDc0SGFhVzg1cXVpX2ZfYzdYZEhabVBoZ3ZtQTNPVGstaWpwTGlYcmJBMEd0ZHB5bEl5ZUVINTZzd3VYSFJ2bGpQeFJxalhpRWdRZVRuazM1X3pBZVNFNUhNOEUtVDdEM2l4a2RSUjNJVm1Pa3BmTnpPSVZheUJBOFM5SmdXRnJvS2dfSFp0VnY4ODJoUnpHSVgzNFV6QjRqbnNjcg?oc=5",
-      "source": "Terra",
-      "published_at": "2026-10-07T10:27:00+00:00",
-      "score": 71.74,
+      "id": "dd29c57c430231c2",
+      "title": "O que o governo Jair Bolsonaro sinaliza sobre a política externa de um eventual governo Flávio - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1hueWxxZEtHcTctOHlndk0zanNhMHJhSkZEN2x0a0FIc2JjdHhkYy1UN2dOel9pZkI1bEYwN25pcGpsWWNseUQ5b3FZdkFwOEhRNHM1Rk5aVFcySC1DS1ZzblJ5S3cwNFZ3WVBTZjA5ZnB6OEdBZVpXS1VyNmYtTmw0ano0NXNDZ0FkUU9PSDBJNFFUZ0RTU1VERlp6bE9uMEZtTFJBV1JtM3lEa253WkFsbFRpQ0lXVlJqVGpDaDF5NkI1TnJvTw?oc=5",
+      "source": "The Conversation",
+      "published_at": "2026-10-07T09:49:07+00:00",
+      "score": 64.03,
       "corroborating_sources": [
-        "Terra"
+        "The Conversation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a00d8d7ed600d818",
+      "title": "Zohran Mamdani, invitado especial de la FIL Zócalo 2026; abordará el escenario político internacional - Sistema Mexiquense",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZXpLMlNOYjZnc1dtRDF2c2xGandfY0l0cnl2SGthZ3NCbmQ3TEZvbmV6TmxnTDAyMjBRbkdNN1lWZHhGb3RabVdQaE14ZkJzak82aDZSczBVQ0JORDMtSmhkbzJyaHVQNTFLdW91WV94bllBX3BzTTVTZWpNcm5rYTJWN01PUExrX0p4Ty1GVXJCb0kwY0FETk01UTZya1NYUE1qTzYzS210UXZHNkhpdjJrSVprblBaVTNid0c5YVlubEdrNkZCdWpuWXEzUGlnYkxUTDJxVHdmVjBGN21ETFowd0RZc1BBdUpzR3RDMVNNWExa?oc=5",
+      "source": "Sistema Mexiquense",
+      "published_at": "2026-10-08T02:56:18+00:00",
+      "score": 63.59,
+      "corroborating_sources": [
+        "Sistema Mexiquense"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "83ad0f96d059416b",
+      "title": "FOLHA EXPLICA | Pesquisas eleitorais erram, mas nem tudo aquilo que parece erro, de fato, é um erro. Você sabe o que é margem de erro e nível de confiança da pesquisa? 🎦Rodrigo Toniol (@passagens.ufrj) 📌Professor de antropologia da UFRJ, é membr - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BMlhJN2YzSEZQc0g5NUVSeUxhc2lELUZUNk5XLVUzRzNQRGxsbkpPeGFJTngtSXU2aGpGVk1rcHF6d2FNSTF0dzN4aGpTNGttUW03VExn?oc=5",
+      "source": "Instagram",
+      "published_at": "2026-10-08T00:00:24+00:00",
+      "score": 63.37,
+      "corroborating_sources": [
+        "Instagram"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6e7f2d4d866da6e9",
+      "title": "Israel’s Response to Oct. 7 Has Made It Less Secure - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IeHVXcDV6UEJfc3lxaHd2QXZsUEJEd0FtdDhCVGU2VFllc04yX1plSXExa3NsMEFOOU0yNmFfbkZwWFhHYjlZdktyTTdoMnYtM3E2ak1PQ2NnXy10WHd2SEt5VW5EQmNIQ280Y2o5cDlKVVRXTUVLeFUwOXZXYnM?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-10-07T18:24:14+00:00",
+      "score": 62.91,
+      "corroborating_sources": [
+        "World Politics Review"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR09wcUtDMnRMSkx0TlZ6U0dfcHhwTlFsaTZ6WXc3VjM4bnItaEJrangxVVI5UVpNbDFDX09sVHlsbi1JcVNGb1RSRHZJY2JJNXdzT004MjREOUJ2WjJnWlNMX01faHNpZm1HNUM1LS1uUWEweDZzdW03ZEplMmZRLUFwc1BzWm1pVWlSS2gwQkpRR1ltbmMyTmJwdmZ3bTNNZGlfWFc0YUlJRUNLRDF2ZEtn?oc=5",
       "source": "Universidad de Piura - UDEP",
       "published_at": "2026-10-07T17:42:06+00:00",
-      "score": 71.16,
+      "score": 62.28,
       "corroborating_sources": [
         "Universidad de Piura - UDEP"
       ],
@@ -96,14 +171,74 @@
       }
     },
     {
-      "id": "6d31d175a08fd0d7",
-      "title": "Portugal defenderá sempre a paz e o respeito pelo direito internacional, afirma José Luís Carneiro sobre visita de Rubio a Portugal - 24 Notícias",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVklKeXJWUnZ2UElMd0ZBM3cwSlk3cGZSRlo3VW5yS0o1Q2c2aUNZWXpyTjF1Y1B0Wm9JenhpaFFQaTZJdlpLNzlfV1ZPNEhTZmkyWjhfekdzSERDOS1MUU83Qk9DNTBSay0yMGZDV2p4TEgtTEY3UTh5LUtEcFhmWE1IenhSSFA2NHNRVmxobkNwTjdNaXE1THlNcFp2QVR2X09uc0x3SUtsY0VqaVZwdEhkTWlZQ2VhYVFJZldaUkFqMkFfWlhkYXRVeUdZUEtnck5uSGVjbmJ3dGFuYTlhNDFHOW5hN2oyX0ctX1ZSU2U0VXpaVmhRSmU3ODItTThPOHJTNU15TQ?oc=5",
-      "source": "24 Notícias",
-      "published_at": "2026-10-07T20:54:46+00:00",
-      "score": 66.95,
+      "id": "ae86dbc233923628",
+      "title": "Divergência política sim, mas sem desumanização - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzQyVWpaTzZ0cTRFZENUYVZSX3NmXzk1R0RfVFNpM3lKSHZqT19XWG0wWGx4ZnlVQmx4aHhNSkxtVUp6WmxWLVJZS1cwc3AtUFo5Y1lwV2tHaXlOa08xclBDWHhnTVZ6VnUtcVd1TjIzM1FHSnZOYS0xWUZ0bF9YX3JyZVF6Mks5X2ZMLWJRYk5GQnVpTnowaVVpVW1KT1Js?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-07T13:37:00+00:00",
+      "score": 61.87,
       "corroborating_sources": [
-        "24 Notícias"
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f6a127ccad09a60e",
+      "title": "Citan a debate de control político al canciller Omar Bula tras discurso de Alejandro Ordóñez ante la OEA: “Oscurantismo disfrazado” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObkhzY1ZoYXhULUZrbVp1RHdrdTVuTU5oOEN4NkZXN3AtM1E1d3BVV01wRnZreUI4WGZRdGVveFlRSUZYYVY4Z1pTV2dTMFJCUklnRjQ1RzMyZ1VoUVA0MEU0SldhTXotZWRrTFBzcG43aTg2TDlUQ3M2WF91b1RHeUNUV3hYcGRrTHVtQ2E5NTRfdkdzU1lZNEp5ejlDc1kzRllpUFBmTW1VMVpWRjhabWRXMVhnR082VU5yNWlYZ0FhTnB4SFlkdC14MTZFakJkS3JvSWEwMUxKS0ZhTkktRzFSNmVHVm9FcEI3TmhPbXNtNGRIWVkyQ00tMl9HQXNkWnRF0gGeAkFVX3lxTE1TdC1HdV9mLVVZTnZQa1IyLUNGSXdwd3VhdmJrUnFSSnVwRC0zaF9LbzRJcU01bldoRmRRaE5pUkJuTGJ0YVBHOTZSdVM4Zmt4QTMzM3pzWXhOeE83R1JnVHVDWUg2TEJtSkhIRFZVWTR1dGtPdHJnbEJiX2xwS1J3aHd1cG5kNEE0YnRHQnpnTDVnVk8zUE95M21PbXBLSTB2UWNVaEhreWFJaWxQUklZZ01nTHZ1SUdUVTJlWUZyWjB3X0FkclBTREZ1Z0Z5amxLTTJYX2l6R25BanBiRFc4LTNFeEtsV2kya2FiY1VVdlpHcE84cVRPM0hkNVVnaGk1ZHBxNXRqbkh3NG9FaTBEUlRBLVN6amxrb0w1Ymc?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-10-08T00:38:16+00:00",
+      "score": 61.04,
+      "corroborating_sources": [
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8a4ab89bf6181e03",
+      "title": "Christa Pike sobreviveu a duas doses de um medicamento usado em execuções. Como isso é possível? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGJpdVpSdzNTYko1NDd0Z25SWWJYVTBVWGYtRkRLYUtsV0pIT0ZVN0g3SE9xLTBXYldPU1Fnd042VUEwd0FuTlQzOFBrVTRlZ2J1eV9MdXE1R3dXdTQydTJtT3dMUEZFWnRSTTA0dFpMRlNYY2RPRHlSNXB3QWFXMWdtWmhuQ0NvcGhDdzJYSmNwNnNqSmJITWpFVHFXOVY1Z3JKMVN4WWNMTEg5R200R0JZU1R1T3FWblHSAb8BQVVfeXFMTVFxLWJpRDUwRC1KT0szenNDdHRXQWgzSl9RMDFoWDhtcDNmNXhBcnVqamZrWDg4LTVnb2Zvak1FTUdMTHBIWnI1a2p4ajY5dDdEdk9sekVUNmE5VWM2VlZJeXpDMUVSVEZCMFh2VGxoNnBkNlFBNHdIRzR4bHQ1WEl2YUx2T0xEdTN1TnZkZjR0bkFmTXljLW5yWkdRT1pNdlBWd2ZvcURBaHZsR3Viay1jZzZVZ0l0RnJIMGFzTlU?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-07T21:39:00+00:00",
+      "score": 60.97,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "716ddc11803f79cf",
+      "title": "TRE-MG pede à Meta e ao X dados sobre publicação de Nikolas Ferreira que mostrava documento falso - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd0VBT0ZlRElqSXBpWHctU01RSVo0Y1dPajd2RUw3ZkFxZU5ScnRJVmstUERoRGZ5dmk0MVV5d1BRSWNoN192NGtzZGR0LTl4WXV6MnRxTFhzZ0RCZkI5OVVMd3RzbHN1US1hRElKcTNBdExaMUJRU0lnWHlfaThLTnIzUnJZSzk1Vm1kN2ZxRXA1MkRnaXl6T01hNUlMYVVJUUQyT1lPQjFzdDM0WXptR1dDZFZtSks4T05HMkhwTFkya1cwV3F2MnJBaTNaRm50ZUh5MXBaU1VMdzRpejVEekln0gHnAUFVX3lxTFBlTjN2V2dtbW9wclV2UVRvT0k0RjdreHBUWDFlNEFOMVFEN2F5d0JsSDNhSGZueGdVTWR2R2h6UDVoNGFTejJyaHBKNk4wZXpzeHZUM05tNmtHUnBKX2tlck1CamdJWW1VX2lDTnh0UU9UX24zVDZaUFkydzVkWjlSMnVkR3pNQUJ6aHpZaDM2LWxkTUNQNExteWpJWlVTVnB5Y2pfS1NwYmxSb0tmcFZZMjgzcFNONTNNRHdjanlHWlZkVW9rdEpTdkNsN2hTc3RtclJTejg4dTlZWFpwN2ZNaUNvYnFHQQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-07T21:30:00+00:00",
+      "score": 60.82,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3ad50e607616c795",
+      "title": "Sobrevivente de execução fracassada nos EUA seria desligada de suporte à vida antes de acordar - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZF8waEdJQ3dYNC11bU5KVlVabjRRT0p4OXkxMGU1a1JKYWhqbG5DdUZESTZMdWlqSGlLd1FNRVpUQXkwUXA1SktqcEQxLXdYSThhdXhqSHJkMDdEWHJ5MEZGdUpQUHdjQ1M3YnpQN3RjSVdwZHZCWDBmSzlQQ3BUYTFPZGtZbWNmbVFPeS1Ga2JxcEZHSUc4VnRBLVdFdHcxak5LME1rVWtTV08wdjlHZWRfejJORHFTcVJYdUY0NNIBxAFBVV95cUxPNlRZNS01Vi0tZExUVmJXc3JjZFJfTlR3d1ZJTjFnblVGMmxPVzJjdjdaRHo0NmNRb0ZUdUx5Y3BFXzkwSXZvVjA2bjVPTmV3UXFMZHE0RFZBMEFRakpxNlBjV2ZEd0R2LXY1bmVGNVBTUnRGNk1jZ0o0TFZZS2lSRlMtUkhUYWpMWEZ1dUx4QlBWNHJpQ2RyaEhSVDVLZ1hPQXloWFZDS2F2cUotejdBTzByN1JoeVV2T2RoZEFoc292TjlR?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-07T21:09:00+00:00",
+      "score": 60.48,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNRjgzYkhwNUhWNkthbk1kWEk4S1JWMzByaHpUUUJEemIyQm0yLWFJT3diUG9JazVyZEQ4M3NrTmFKVWgwTl9odGRxVVYxQXRYOHBhY1czSktMZG5Vd0FhUHQzSVBrQQ?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-10-07T13:37:36+00:00",
-      "score": 66.8,
+      "score": 58.88,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -126,14 +261,59 @@
       }
     },
     {
-      "id": "569743ba00358553",
-      "title": "Moraes se reúne com chefes da PF sem registrar encontro na agenda - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmVZeU0tNnBIajBvS3dLQ1NwcmNDR01SOWtHMnRKa0tzcENLV1BLNzRhZ3VhNldkMDJRT2xIQnhQeE5DS2xMZVB2QVNMd0xhbmItZjF5ekd4SllnOV9id09fVWQ2TkhNTmtlS1JhOTB1R0JxZ3VyTE5JTUdEbnZrTjdLQnVSVHB0Ri1kSmVFcUpvS1hKS3ZrRGs1U0tnVnhDckVfTTI1MjNJLTNu?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-07T15:43:18+00:00",
-      "score": 63.98,
+      "id": "68db0e0c60b3a64e",
+      "title": "France’s students are revolting. It’s the French state that’s rotten - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjF6NVdvX1FyN1RVWkRVZ0NxUm82LXFNTVVOQ2VqOFFoQXZ4LVFneHE3aXpSNkxmN2NaaWtfQWkwaEZERHdDVERUVXVud3lnR3NOOVo1Ui1GWG9faVhENmhCalE5SGhmQzBHbFNQRTZ0QWJkNzZjVERmenQtQ3pCS2JqOVZnQi1HTkg2Sk5mQWtBYWlHX1RpNktqUTVKaHZuNTZzNGdEQk92WG1Hbk0yWlRkTjM1OGM?oc=5",
+      "source": "AFR",
+      "published_at": "2026-10-07T21:56:00+00:00",
+      "score": 58.25,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "AFR"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6c24d4549dd85830",
+      "title": "Malvinas exige una estrategia jurídica nacional unificada - La 97 Radio Fueguina",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSExseWZZLUdEM0lWRFI4MjZEa0JwOWVTXzduUUEtNndCcHR2LVRpcDFaRkJjem5xdWJNYkplMTdCMUZFQ3BPWnRMa2Y4WUZpcEVfWjdkdGNmSWZPcHQzcS1la2hDdTA2NWpTVnI4VWRaSm1TUzdKa2ZGZjE5bEtrODhlLUVadlBMUkxaRkRtWWZieE1OSDBxUkVlME8?oc=5",
+      "source": "La 97 Radio Fueguina",
+      "published_at": "2026-10-07T21:30:00+00:00",
+      "score": 57.82,
+      "corroborating_sources": [
+        "La 97 Radio Fueguina"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c027a1c484d3a288",
+      "title": "Los asuntos exteriores desde una perspectiva nacional y el futuro de la agenda de seguridad del Gobierno - Tele13 Radio",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2RaR09RODAzTW9HYmlnTURBbmFHdlkzSjlueFFOVFpudndTUi1pajloU1Z2bEVna1BUU0RNWGVGSVhZVy11STRuTElMbHM0VTcxenFodG9DZ1p0Zk9aZktRTnQyYjhOZ3luYUFHRU5QR3IwQ0hkNkZBV3VPdG9jaDI4RVRjWkFFa1NBeEk1SHd1dmNHVTRuOEVpWEpnWXRXTzFnTXVUX1RGMVYzWEZkMVpKWGJiekxGal8yQTI4a2JTLURrMkNXcW85ZnRNV2k0?oc=5",
+      "source": "Tele13 Radio",
+      "published_at": "2026-10-07T21:19:50+00:00",
+      "score": 57.66,
+      "corroborating_sources": [
+        "Tele13 Radio"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f0b2d45f94e60604",
+      "title": "Exmagistrada venezolana denuncia que firmó inhabilitación contra María Corina Machado bajo presión del régimen de Nicolás Maduro - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSDZHZ09nYkNhaVZqUElQNm94NTJQa093WmhyY0NrT0EtNFRxWHN2SVhjS2w0V0Zkekc4R19KOVRaM1hZb2dFNUZfcjM0U2xaUzl4Y1p6MFRYYXlxM19lTUk1dmdxbEI4OVkySlFkZ0VKdnFfNnItQjBRdHR5VUw1UUJjdFliZVFMUEVSbUVDeEtxUF8wMl9uNGJiTDlTM0c3UUxKN1pLaVVyUjg2M0xHRTM0T2dPSFpUVzl4QVhDV1RHVXB2NzBYUExWZGdtQmhjUFFjNThXcGlKWW55OGlaN1BrcVBUVTRfbVpIdFh1dzMydE1MVmw0czd2MHJ6UkdKTFlwZ29zVnJLNG5vTlVCQWZENkRMZw?oc=5",
+      "source": "El Heraldo de México",
+      "published_at": "2026-10-07T20:25:00+00:00",
+      "score": 56.78,
+      "corroborating_sources": [
+        "El Heraldo de México"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHFITW1JSTViWmVFdTNGVTdzV0c0ZHRsdGdoUTZ6c0FLdkFuTTNQVHZsbmJPTmF3cTUzcDczcDJ1QW5ZRWdHSlRBVzQ4dWJXSXZDUmRwcVAya09QY3JFMzlBb2pvbGQxNExIano0ZXJnYTFMSy1pMVl1RGhUbkl5WkxMN2dHSmc3RHl4QXZHdGx0VTJwY2ktZGc1ODZsM3RsN3JBLUVOcmpsUU5xTThGeDVHOER6Q1l4MFltWDVwZEFJRV9FT0txNWFwNDZoNnFHZ3c?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-06T22:39:00+00:00",
-      "score": 61.74,
+      "score": 56.51,
       "corroborating_sources": [
         "Brasil 247",
         "Folha de S.Paulo"
@@ -157,59 +337,14 @@
       }
     },
     {
-      "id": "1955ac7a1a927567",
-      "title": "El insulto en la política internacional - Foreign Affairs Latinoamérica",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lM0JHVHV2Z3RfWHo2RnBLM0wyd1dnQzh1RXhVWG5PckMxanpKQWRhWnZidkhoaXpnRkpmX1JraFhVeGNGT18tQW9iOXhEbVk5dk9TbEFSYzJjWEFfMzZEMDVyRlQ0ZzJ0b2wxTnQxYks?oc=5",
-      "source": "Foreign Affairs Latinoamérica",
-      "published_at": "2026-10-07T08:01:59+00:00",
-      "score": 61.58,
+      "id": "569743ba00358553",
+      "title": "Moraes se reúne com chefes da PF sem registrar encontro na agenda - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmVZeU0tNnBIajBvS3dLQ1NwcmNDR01SOWtHMnRKa0tzcENLV1BLNzRhZ3VhNldkMDJRT2xIQnhQeE5DS2xMZVB2QVNMd0xhbmItZjF5ekd4SllnOV9id09fVWQ2TkhNTmtlS1JhOTB1R0JxZ3VyTE5JTUdEbnZrTjdLQnVSVHB0Ri1kSmVFcUpvS1hKS3ZrRGs1U0tnVnhDckVfTTI1MjNJLTNu?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-07T15:43:18+00:00",
+      "score": 55.58,
       "corroborating_sources": [
-        "Foreign Affairs Latinoamérica"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "434885c9d35c22e0",
-      "title": "OMS pede transparência à Rússia sobre suposta peste penumônica - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG9QQ0JLTWZJalpHelZtQm52ZDNYSUp4MzBFZndiSGFDNW9xYXNZLURqY1p1ejdaRnNNQjkxUXBkOUNocjMxejU4aDROREZ6VWpERHI2OXk3LWlLZDFWWXcyOHIzOXFtb2lXdFF3UWY0MUwtRzBHZ01XZzhTUUJPcnQ4X01hSWpqd0xCZEItTDh3VHdmRzRBZjR5U0N6bU5VdHQwcXZDZzAtb3A0VkdlbkY3QUpHZ9IBvgFBVV95cUxQZ0xFNWRQeFN1WlFuM0NPUUc0YVRMSXRfWGxGcDU1a3JReXZ4UUE0eHRRTU05UlRvOWExQVBObUc5SlFzcnJremR0Zy1jZC1UUHR0SjlWMGZGdVpjZkpJRGxtQzBrX2FTWFZhR290M2ltMjlVQ3FNYTdHbHNjN2ozRGFHeWx4enRtdlNzU09vbVFULUFDeDhYZmVhVTVjWG1JQUYwalpHQTlod1VCbzBsVWh3ajZCVmRzNlp0SG13?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-07T15:55:00+00:00",
-      "score": 61.19,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e8fd5f6b3f7be115",
-      "title": "Analista critica política contraditória da OTAN em relação ao território russo - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEtfeDV3Q21qT2dmSXk5S2xtSzRMc1l3UXhMdDFkaW16Q0R0QlpfeW9ZdlBLMGlRbjNPX0hBSlAzQk43VXJmSjRBMUFBa3RfeC13aUdEVm02d0w1MW13MXo3NkZhUWZPRml6X0xwMUt0ODBObHpCUmpaMVBxS2pHWmdoay1xRnhFUXZDV3pPalVtS1BLVjMtVmV4T1JmTWx5dmtxdjZiZHMtM3l6azNfdXNJY3Z3U0x1Z1JpaWRGX0hGWHoxUXJuODJPX3R6RlozSWFn?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-10-07T07:25:00+00:00",
-      "score": 61.05,
-      "corroborating_sources": [
-        "Tribuna do Sertão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ff58516653040e01",
-      "title": "Hamas comemora três anos do ataque terrorista: “Histórico” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlRKa2lxTkJ2QUNoaWkyaXJjY0E5NHB4X056LTZDYzVXS045bkVsbVdSbGFEejROeWRvek9CNzFHbGdicElFT3I2NHEzYk1uLThXdXp3ZUVJd1ItS3ljWlhCLXNMaDBtbXI2TnFJOUV0RkZTbE1JelhIUnN1dVhubzl5dl9pckkyV2FTcmJVYkFoOXRjSEkyS1ZURmVoeXdQUGsxMXdIbEZINHot0gG0AUFVX3lxTE9IM1lOejFhWldxR1FVaEpqVGlsTk5PQm5kX1E0VE9DOGZaR1FkZ1ZydDAteDFma3UxR1lnenlMa3I5Z1V5dHktS2FuQmlVZ1VyS0Z2d2NQWjlOcldZb1JWV0MxbFh1S0pxZHFGemJJcTZjRkNvQjhrTXRYbTU4Mk4tUFhtdFNXcWVqNEtuZWpJQ0xrNTFwcGpyLVdDV0F5SVhhZHVydllTR18zSExNWHRGOXRxSQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-07T15:41:00+00:00",
-      "score": 60.94,
-      "corroborating_sources": [
-        "Pleno.News"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -222,9 +357,54 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDhLeU96bERMSWJUaGloTHNyelNIMnpRUlNhcXdCQVhRYnIxZE91djBuNXdDWk1iN3Y5X01HMTFMcG5PVFBBOWN5anJndlFET1BUQkZ5V2tKNnZKMVJFM0wyUmJwWWhUZGtxZF9oRW8wTUxoUmhMajdvZjg0NFVjS0ZEaTZlck1aTURIUWpQQW5ab0QzYjBFbkV3V0p6M0tmQm9GNDNzX1NpUlhja1FiYkdiTF9SUW9OUXVGVTQwaFZ5WGtQcmo4?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-07T03:33:00+00:00",
-      "score": 60.93,
+      "score": 54.95,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1955ac7a1a927567",
+      "title": "El insulto en la política internacional - Foreign Affairs Latinoamérica",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lM0JHVHV2Z3RfWHo2RnBLM0wyd1dnQzh1RXhVWG5PckMxanpKQWRhWnZidkhoaXpnRkpmX1JraFhVeGNGT18tQW9iOXhEbVk5dk9TbEFSYzJjWEFfMzZEMDVyRlQ0ZzJ0b2wxTnQxYks?oc=5",
+      "source": "Foreign Affairs Latinoamérica",
+      "published_at": "2026-10-07T08:01:59+00:00",
+      "score": 54.79,
+      "corroborating_sources": [
+        "Foreign Affairs Latinoamérica"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e8fd5f6b3f7be115",
+      "title": "Analista critica política contraditória da OTAN em relação ao território russo - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEtfeDV3Q21qT2dmSXk5S2xtSzRMc1l3UXhMdDFkaW16Q0R0QlpfeW9ZdlBLMGlRbjNPX0hBSlAzQk43VXJmSjRBMUFBa3RfeC13aUdEVm02d0w1MW13MXo3NkZhUWZPRml6X0xwMUt0ODBObHpCUmpaMVBxS2pHWmdoay1xRnhFUXZDV3pPalVtS1BLVjMtVmV4T1JmTWx5dmtxdjZiZHMtM3l6azNfdXNJY3Z3U0x1Z1JpaWRGX0hGWHoxUXJuODJPX3R6RlozSWFn?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-10-07T07:25:00+00:00",
+      "score": 54.38,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5eb5558a6b190879",
+      "title": "Cómo la política internacional definirá las elecciones en España - El Orden Mundial",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUGV2Tk43cy1WWWRSdjFORFhlS1UtTDFHNk1RYnJ2U1p6UjZCYmZMN3dCMXBpR192Y3ExanJfX2hrU0ZrZmV4eGQ2eUVoMXVaUEJGZXNNR1lPODhUd0w3RmJiaEoxNzc4cVkxUzJxWlVoejFqaXRR?oc=5",
+      "source": "El Orden Mundial",
+      "published_at": "2026-10-07T06:59:16+00:00",
+      "score": 54.1,
+      "corroborating_sources": [
+        "El Orden Mundial"
       ],
       "signals": {
         "source_count": 1,
@@ -237,7 +417,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGZlejdQRnNFWEU5VFA0WmRnaDhtakRyLWwtSHFEVjNsc0xQbkQxcGZ0cFVYSk5oOU5vbjh4bmhScmxCTXVTMGZ3S1JEUzV1aHUxb2VSQ3lMbkRjSkExRXd0Yi1HM3pyWFRSWmc2cGZtOVdhRjc2MDlQbENfTDg3cGs1M0ZpVV90OUNGYzNGZFZFU2YxUjMtdEJJb3NOa05mTFo5cTYtYlAyRjR6cVE?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-07T12:38:18+00:00",
-      "score": 60.82,
+      "score": 53.11,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -252,7 +432,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnFiNzZTVkNuWGtWbGpNR2dlRXNpVVZTUHV5M1N4dVE4N2tPWWR1cXp5emppOS1GNFZLQ2lqZUFMYnhrTUtPUzhVTVZ0QzlBOUNrb2t3Nkd5ZG05TGJ6dXZ1cExCSzJVMDJTVk5sUU9lVC02dzZyZFpwWjFiZ1E2X196WHdfbUNLWWJMSTY2LUs1Z2s?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-07T12:33:18+00:00",
-      "score": 60.74,
+      "score": 53.05,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -262,194 +442,14 @@
       }
     },
     {
-      "id": "5eb5558a6b190879",
-      "title": "Cómo la política internacional definirá las elecciones en España - El Orden Mundial",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUGV2Tk43cy1WWWRSdjFORFhlS1UtTDFHNk1RYnJ2U1p6UjZCYmZMN3dCMXBpR192Y3ExanJfX2hrU0ZrZmV4eGQ2eUVoMXVaUEJGZXNNR1lPODhUd0w3RmJiaEoxNzc4cVkxUzJxWlVoejFqaXRR?oc=5",
-      "source": "El Orden Mundial",
-      "published_at": "2026-10-07T06:59:16+00:00",
-      "score": 60.69,
-      "corroborating_sources": [
-        "El Orden Mundial"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5ea4e7bc2d9efd26",
-      "title": "Descubra o plano de Lula para tentar virar as eleições - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVURRVTZCZ2JNLWdnUkIwZmVyOFQ5WkVJWlV5YVUwaUU3Y0dodl9feEFGZTBsdEFIRngwZFVOWkhaRS0xSWlKNExtRGlWblMxSkFOQmxoLUNzeGpIYU9fRS0xTVJaa3g4VWM4QkZqNm9fSUt2a2l0cTUwMFBhZlhYNXVTMjVFUzgzek42Q2NIQmhTRE5DbWExMjdOaHo1UQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-07T12:03:18+00:00",
-      "score": 60.25,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "69b77ef440561ff4",
-      "title": "Disney diz que Trump pratica censura e viola Constituição - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDRqNDl5M0FKMkFCWDZDMUVLNzJ5SnFyNHprYVFjUlRTNlpoRVNkNFZoY1ZVZzRPVTQwQzhEZVVVSzI3WjQ2YUpTaHRRT0tSei1rVm4xc2llWTdPMjg1cC0zcHY2ZmhHYlBfYnlQMVdPSFFjLTdUXzZLT0xhSXVCemhRLXRKc2RfNUFqM2xidm5qTW1hRWxwUGhFRnJuRDg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-07T11:25:26+00:00",
-      "score": 59.65,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0928e463bb4cfe62",
-      "title": "Organização internacional faz alerta para interferência externa nas eleições do Brasil - Portal Lupa1",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSG51Q25iZHpBRnRqOU9hcC1QbmdrbFItYjRfR0h6ZjRPWVB3c0ZVcUdzOTBVS3djbGpLSUNyZmtkQmhWVG9hemlUR0JNbFY5SjREYWYxYjJFZ1cybGRYSElMRGNOWGxoV2N6REswUzBKaUg3QWRkemdlM2ZuSGJDcEtrdDRSdnFJX3ROdmhubmN2SjRzbF9odHEtQlREMkJBdVBEVFJsUXZDUG1jSWdmTzAzb1RYcVYwM0wxRFJfcTBEekpIZ3hwZjl5cTFMdw?oc=5",
-      "source": "Portal Lupa1",
-      "published_at": "2026-10-07T14:19:35+00:00",
-      "score": 59.52,
-      "corroborating_sources": [
-        "Portal Lupa1"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c3ca2d056362f3f0",
-      "title": "Convidado - Três anos do 7 de Outubro: \"A desproporção é flagrante\" - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejY5eG12LXBqYm5yb1BSSjRVdW9Ea0l2ZDB2TTBwWC1aN2s3VHVoRTNrV0RPNHR4bDNwWWhZVy0yRzRfS2huNUdSa090cldZX1lUYXlsdUIzM05FWk5Pd245bjhXelNYTGc1WTZLM0ZaX00wdWZiRVFwaGtTTnNTdVVVeVRrOExOaTlMcjZVM3hzZEF2cWh2VXZpQWtHbzlpeEJId21NMWtja3MzYUQ1eWdWeXJscENUcWs4WlFrRmU?oc=5",
-      "source": "RFI",
-      "published_at": "2026-10-07T13:34:31+00:00",
-      "score": 58.75,
-      "corroborating_sources": [
-        "RFI"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "59e88577c1300562",
-      "title": "Trump falará com Putin sobre peste pneumônica na Sibéria - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVhBLUJ5SERTUjg5S2p0TlZFNnF5Wll0NlVsNkVmRHF0WTJ4Si1ZZndpNUxWa0sxMTN1N3QzeUZ6R0lzVUJhSWt0MjBqQ3Q3b09vY1pLVXpPdGwwZHhqVGFGS0E4X19CTE1PbEdqdHA0OFExUnpLcVdrT21rTWNGd0N2TmRtWE1XUFliUWprN0kzOGMyLWdFZFNMYjF1c1FhOVhLSkpFU0paYUV0SGfSAbYBQVVfeXFMTkI3aVNrQzVGYktobXRZQTBkVHdVV0VFcUVnX1FsQUhiV0xkV3N3MDRXa2hveHljd01Qd1hlUWtyOGEwWmJFZlVzT1I3WHpMcHhmRU9NX0xOcDZWREpZOGlvSFJkOUlyUXRZaWc4OTAzU2xUZHhoem1vOVFFRVNCU19QaGxIUVVmaUpuT0kxV2QwRy1fZ2lLWnVVZzBSUVRieExENXhuWG16WEY1ZWl3YVN3cW5SYkE?oc=5",
+      "id": "8bc80b0a3198e83a",
+      "title": "OMS pede transparência à Rússia sobre suposta peste pneumônica - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG9QQ0JLTWZJalpHelZtQm52ZDNYSUp4MzBFZndiSGFDNW9xYXNZLURqY1p1ejdaRnNNQjkxUXBkOUNocjMxejU4aDROREZ6VWpERHI2OXk3LWlLZDFWWXcyOHIzOXFtb2lXdFF3UWY0MUwtRzBHZ01XZzhTUUJPcnQ4X01hSWpqd0xCZEItTDh3VHdmRzRBZjR5U0N6bU5VdHQwcXZDZzAtb3A0VkdlbkY3QUpHZ9IBvgFBVV95cUxQZ0xFNWRQeFN1WlFuM0NPUUc0YVRMSXRfWGxGcDU1a3JReXZ4UUE0eHRRTU05UlRvOWExQVBObUc5SlFzcnJremR0Zy1jZC1UUHR0SjlWMGZGdVpjZkpJRGxtQzBrX2FTWFZhR290M2ltMjlVQ3FNYTdHbHNjN2ozRGFHeWx4enRtdlNzU09vbVFULUFDeDhYZmVhVTVjWG1JQUYwalpHQTlod1VCbzBsVWh3ajZCVmRzNlp0SG13?oc=5",
       "source": "Pleno.News",
-      "published_at": "2026-10-07T13:02:00+00:00",
-      "score": 58.21,
+      "published_at": "2026-10-07T15:55:00+00:00",
+      "score": 52.75,
       "corroborating_sources": [
         "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "377a33ca2c2404be",
-      "title": "Corea del Norte acusa a EE. UU. de desestabilizar la región - Teletica",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1FfT1ZDSFpPaERCZEpjSkJJNG95clMwckxxVngxVHlfbnNDck00a1lRT1lDSWNUMTRfWnU2QmNzcE5kLWw2Tk1fb2Qtc1RTZjhCZTkwcXZEZG80dW9QVWU1bEtGTFp6Q21LNzBreHBxYzVGOEpjU0pHamxGb1JXT1ZKaUR5bTZhMW1RSEwydUNpZTA0SjdLZElSNmlRd1RJTnRURGNR?oc=5",
-      "source": "Teletica",
-      "published_at": "2026-10-07T12:49:35+00:00",
-      "score": 58.0,
-      "corroborating_sources": [
-        "Teletica"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "257fd66c4dacf743",
-      "title": "Una exposición de 130 piezas recorren en su Casa Natal el activismo político de Picasso - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOekcyTkJzRnJYYzAxNDRoTXJSSlZIUVV6TUNjMzN5RmVxTFNlQnFTaTFmN200aVZwb1BmUDVGVHVtODNSSlFLRlZocW5PUEp4QjE3YWpiOFY5UWltUFdLVWdnMmxOaGdRNWEwejhkOFFpWG9yVlJTanZmZnNnNFA5Z0hMM0ZBckdWdm9CelhKeWlSMGd3ZWJ2dVB2d2kyWHlDRE1VZUF1Z3pPWG91dm5wd0lpUU43TnZpaFBEcngtODhGaWh3QVlGbFZfT29FVzlhakdxbG5IalRoZmRoc1V3R0xFSmdwazNJMEFzcmEtTDZkNVQxd1ptMU1SVkFsSlB2MkpiRllJb3NNSUxXU2RiRWhxY2ZoeWRxamRLVE9SczZuZ9IBtgJBVV95cUxNTWV2MHBmRXY3UlNHMzBvNU5QOHlrc1BrdHdvVDdHWUlUcmU2Uk4wRktwd3hHLUpPN0wyMG5oSEh6WWF3dkJUYVFFdmRqb2pYWEhsekxuOEJ6MllMZ3gxbWdFUUVVbjJ6a191YlVpeU9wNFZlcjhMcUhDakpXamVPTDlXcVFGc1dyRkZmeU5EdmV6eVNENEFGZjJOdE5ybXFZVmpPcW5xUWQxZmtqdFRrNzlYNzFMWWVaTzF1QzlxTFp2R3JJcThsZURZVDZ2YjZuLWNNQ09qS2ZuVFctVFJWYWIyNTV0Y2p1QW1lQkhpUTVXUGdxZU0xZDl4dlVvYm1yWENiWmlhdWxsWWJrSEtJeEZwV2JJbFRyQk5zbUoyWXVrYnExNU1mQUw2Y2k2OEJLc193YWVB?oc=5",
-      "source": "Cadena SER",
-      "published_at": "2026-10-07T12:11:43+00:00",
-      "score": 57.39,
-      "corroborating_sources": [
-        "Cadena SER"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9d1019d33f5b4361",
-      "title": "Ministro da Educação diz que \"Pé-de-meia\" pode acabar com Flávio - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelpIdmlXYjhrYWRReE9td1hnNW9Vb2VtNkNlNFh2bng0NXJTZVlTbm12WWV6cktXVFlZN0prMFlsOEw0eUFfaGppOTlsUXJfLVE5MmNIejJwM1lUblBoNnRYYkRGMUk4R1lLM1lPbGhzeTNJRmJtbURqUEtWNG9Gd0JGbkpYSGVLSlRGUi1KUkZyQ2lIU1JQYUFzZGNwaENXZU0yWnJlbUZoSVZ6RlVCbQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-06T19:15:05+00:00",
-      "score": 55.28,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f3197697cd0142f8",
-      "title": "Finland's president offers a compelling plan for a new world order - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORklzT1d1d1Rwby1zbWpHSnV0aVI0TG9LclVJa0tGNE11OXNNbGk5bWhRMzVXV0g0R1V0dl92cndMWnpPYkZjbWRJc0hOVUdWeWV4TGpjYmVZWWpmMXBrMWtldnhVSG5Jd0dLa1UxYk0wWTRpYXlocnZvamR5YTVDVU1nakpreWo2bjBjT3lKUmtKU0ZiQ0dQOVgycG1vUkJydXZxUGttVWVmcEpwUjlxZNIBtgFBVV95cUxPXzhqMDJtVFdDTDV5c29hbzJGZVNEVVBJTEVnV2NnQ1NBREZqci11M1YtU01Kdi16cnR4dXpnQ0U3MjRFZENmSC1jSklPd2lnYWtzaGFLUGp6SVJka3NHSkVULUFXX19uX1ZKOHAxSlRaYU9EZk9MMGt1LWNET1NMMC1Yb2p4My1uTW9UU3JCT0RXQXUtSDFKc2hseFFIUGpJdG1JR0ZIMGFZblM5Umk3MXdxWGk2UQ?oc=5",
-      "source": "The Korea Times",
-      "published_at": "2026-10-06T23:50:00+00:00",
-      "score": 55.24,
-      "corroborating_sources": [
-        "The Korea Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "03a069d8ae6e373f",
-      "title": "OEA cita preocupação com desinformação e interferência externa na eleição brasileira - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNDhPWXRuUHl4bkdIWWZSOE1OSUNNMW5HbUxPOGh1YUp1bnhFdHFCY0RTdlo0TnIyY3VNTFNCMGtIYVVfUUFMbVFua3c0cWtfMG9jblR5Vy03U0M5Mkd6WTFjVzBhOXZQT3B6Vzc4S0FxUC16dHUwQTBhLTIzTG9FTE5Yenc3RWtJZXRWZEI5VjhmREdLbUoxU1VmaUlTN2FPbUR5c1pORlRSWm5NYUlTcUM3SkUxUlcxS1NVOEkzOFFuajlVQ09IM2VUYTR3SUpyeWlqQ3FlTVpxNmdaZDRacm9Vc9IB8gFBVV95cUxQbUY5eU9qV00wVXRqQmo0MWlDckRzblhNd1hla0ZjcEc2bGs0eUhNSHp6S3BESVUxY3lwLTU3ZEFqWGd1S2M4dkhSWklWQkdLc2JhbnV1SlZycUFwUVFIaVdpYldOSl9pY0E1UEJDbnNGMUlUWTJJdDFkb0FxU183Rl8zMmVuM1c2bVNZYWx0aWtaOXQ4RklvMnMwTHlTZDhuUGttTlN4WEZtN2Q4YmZ5SlV5ZXVXWjhOT29EMG90SGJiV1dMTkVzUFRscl9ScWlKUlBSbVg4RmRnSk80QndxczB3UkpOMHNFTmE5b1JrZEJZQQ?oc=5",
-      "source": "Valor Econômico",
-      "published_at": "2026-10-06T22:52:01+00:00",
-      "score": 54.59,
-      "corroborating_sources": [
-        "Valor Econômico"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2e950cbe2df91a9a",
-      "title": "Não dá para esperar que o Estado defina onde vão estar os data centers, diz presidente da Anatel - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXZNZUdubkw3NHFZTDdXSHYxaEhHRDRBRkNfc1JFVUhybFlxT3pmSzhQcnhzU2JodmQ1eDU2djQzcWVMQnZIQkZBUE9Wb0tibFZuOFNqNnoxUlNzQVRDQTcxUVlrdXlhdEN0UUJYcEdmcmtNcXE5aFI5bHhuRzF6ZUFrZGFVcl90M0xLM05uaGNCc3RvMlZuMHhPb216MEpaSkpQamQxQ3Fwci0zTmlwM3Bqb3ZuanFhbjVsellkbldlWUIxT0x3RlZ0SUbSAdIBQVVfeXFMTzNEV3haV3JuV2hMQ2pmWGZXR1N4NzhYQ1AydEJpdXNzdG5ySk0tYVVQaTlaTkJ4Tk9VN0tEaGRGZzNDNk1aMmVyY3NDejFNcHM4Z2NyOFVDQjlQUTVhNmFNV3hhNnRybXZMTklMQWRUckV3TEhwR0p5cGZPM1ZuYWVIbzVWd2l4UTFZeEtSZ1ZnSFluck1yTmhkYlk3SmVyOTBOZHFSNXZnVk9BZHBfbW50QjhDVW4xRDhLVzFwU2VvUmtPZllQMldmTi1zT2VVN2lR?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-06T17:41:00+00:00",
-      "score": 54.35,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0e6910f45c1b798a",
-      "title": "How October 7 changed Israel's defence, politics and society - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRF9LaEExSFpOV3hnWVR4Y2ZZdnQybTQtUHZjenB0RUlBQ2YtVURET0NZb3VxVTZmUFpPOW9HTmp0VTQ2RXpmR2I5VXZfTlpYaHBhQWFqYXpUeXE5aTgtTUk2cm52cXA5OU5RdUY0SVlMR0ZTbVlHOEtscWdlZmplWHFCQzBtbVhpZUpaTkZXMWYzZGltN3dfZ2lB?oc=5",
-      "source": "Sky News",
-      "published_at": "2026-10-06T21:42:17+00:00",
-      "score": 53.82,
-      "corroborating_sources": [
-        "Sky News"
       ],
       "signals": {
         "source_count": 1,
