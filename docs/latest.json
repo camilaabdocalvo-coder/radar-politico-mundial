@@ -1,24 +1,157 @@
 {
-  "generated_at": "2026-10-09T06:15:02.414193+00:00",
-  "next_update_expected_at": "2026-10-09T10:15:02.414193+00:00",
+  "generated_at": "2026-10-09T15:20:05.445709+00:00",
+  "next_update_expected_at": "2026-10-09T19:20:05.445709+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "da07da5e4f533510",
-      "title": "Datafolha: Flávio Bolsonaro tem 52% e Lula, 48% em votos válidos no 2º turno - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLTVMVHdHWDBQTEwyamx5dHFvZjN5c0w3N3dKYlVPZS1LRUdVYWpsUEhJM1ItTDdFMWN1M1pXb2o3Ym9pbjNiNzQtb1NnWFl3aWJuNlRSRGtBZWdPUi1odXRyLVh0NWY2aHlwTnIxLTJIN2p3MXlyaDNHbHJhWDlyMHZtTzNKQjZOTXctb05sZEtUaFVqNnVJQkpUX19GQ3N5c3M2VWlhMDJuQzNvNDBtZ0dYZ1FtY20weWd3UUJzQnJQcXpvb0E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-08T21:40:00+00:00",
-      "score": 73.41,
+      "id": "587c1802a486e7f3",
+      "title": "Why this election could be more complicated for Democrats than polls suggest - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUk9oN1hBek9oWkFEVmxzZzAxSWhWTWRnMWd4b2g0cnpuc1RiTW44dTlWY2ZRNzJ3SmsxNFNYd2xjRmQtaENrcDlLZEo3RUJEcFp4LUZFOEJyZTRxNWh3bHlfRlJwUEpYblpId1NscDFCTDZlRjFoeU1ZUUJrajJ1cS1TNGFxV3g5QzFtdTFVOVNyQ25aLVBKVUVlYkloNzVUdmRSUDlFdVVhN2RNYlpNZXc4ZXBNRjRHbmtyLVVhb1JYMUxWdUdEMTRrVGoxSnkt?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-09T13:01:14+00:00",
+      "score": 72.67,
       "corroborating_sources": [
-        "Folha de S.Paulo",
-        "G1",
-        "No Cariri Tem"
+        "The Seattle Times"
       ],
       "signals": {
-        "source_count": 3,
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9ddbe56a89ea2e77",
+      "title": "Vorcaro diz ter pago R$ 30 milhões para filme de Lula, diz revista; PF vê delação sem prova - Folha Vitória",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUVWZU13U2tKTVVQU21GSF9IMFQtVU9LNk0xSURIUy1NZ3lKNFNOR1R1WlY0SS1hRnNWZUVVUnI0Y1dRUkg1eV8xZEQxX2lvVC1lSnlZOTNlakUyNWlhXzBjZzFsVGdzTkVIc3VRMmExY2RwQTRYd09UbDVpcGxybXVIakh2NFBTeHJhNU1MaFp6dzBfTlNocEFqejRuOGxvWWV3TUNiSkxJaGhLajVtSE5idzdraDk3NXVoN1pTRVJPUVZoUTB3Tktn?oc=5",
+      "source": "Folha Vitória",
+      "published_at": "2026-10-09T14:42:19+00:00",
+      "score": 69.7,
+      "corroborating_sources": [
+        "Folha Vitória"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6f79aa605d92d085",
+      "title": "The politics of Humpty Dumpty - WORLD News Group",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lV1NDNWlvbzJETjZNaXFrME80ZzdrOTVKd2pxSkhIRmdocjZUNElyZjhFX0x0ZGdiWXVIUi1LZ1lMd3RRZ3k1N0ZrdXVTNkFIT2prbDhFNjBLS2NmeTVnSmhJM0Y2a3hHMTRRdWE1U1owZzQ?oc=5",
+      "source": "WORLD News Group",
+      "published_at": "2026-10-09T09:11:15+00:00",
+      "score": 68.41,
+      "corroborating_sources": [
+        "WORLD News Group"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "22c6d73998074e92",
+      "title": "Israel critica Nobel da Paz para juíza que acusa país de genocídio - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0RTZUVybzRmN2h4U294YURCUFhlMWFDaFdwakszUjFkSi1tdnFUN0ljanY0b2lFUEN0Q3BvNlVOVDlfNVNmQXp2QXhmSGFzMm1nN2RURVQ0bnpCblJDbC14Y1U3OW13OFU1Wnc1eW5FWDg4UVZlaDRGU3Ywd2hocDNWSDhOV2lUU0pXNnctajZVU2tBT1JZLU1EMjJ0TXpwbmVIcEg3dnBQOHZtOTZueWhRWWtqeU9qWDBJ0gHDAUFVX3lxTFBFWXp4SDMtUE1udWo0VVpCOEpqNS03YVo5X2NIWkV4X1lyMERGc1M2aDZYaUlFc1RlNVRhOG1MdlAyUTlaZDVaTUoyWGxxOHhuREZDZXFGeVZCcU1vcERpb3ZleGh6ZHdyUFJsWlVsZGdCSlkzUkFwRmFxNTFIQWM2dmhlQkFiQk9uV2hKVzNMTUJmOEhIQ1dYM0U1alY1TE1lMGFRUkoxZ2JCdkpwX0pQOFJyY0ZjZUFfYmV4MURZLXR6VQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-09T14:17:00+00:00",
+      "score": 66.18,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "95143e7329436b95",
+      "title": "Opinião - Paulo Ganime: Apostas e a palavra do Estado - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazF6VzZHOGsyQVVsbUNMeWoxTmM0TFVBc0M5anlvQjk4aC1YaE5OM0lKRzNHWG54b2VPRXR4RUtaZmsyX1NGT2lVZUZTVl9DNzd4Vkh0YWFBNjJwVmludE1aZXNjNmhlTnhZdzdLTVU0aV9jR1BaNERNQlJNYXo4VDZlOTZoeVFJ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-09T11:00:00+00:00",
+      "score": 65.37,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b7ccb6879a3528be",
+      "title": "La flamante Nobel de la Paz bromea con entregar su galardón a Trump - Ultima Hora",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXVlNFk0TWE3VVZESEI2dmNuS0xHN3htQWV5Rl9LUkdWRHVtdzJSUDk1c25KdlJQRXFrbm51UmtiYVZETWF3Q1lNM2J0Mk1PMUFwdVQyNkp5UFRTc3lZUnQtaHhmTkZnaTBjWmZZM3VoZWhJTEhXZWZsR2dJenJER1B5X2VScEM1M2JodElsaHB0TGZMbll2RWxKZEQzVmRnaDdWNktJQnJva1pncWZwT0xuVUFxNjhH?oc=5",
+      "source": "Ultima Hora",
+      "published_at": "2026-10-09T13:29:00+00:00",
+      "score": 65.22,
+      "corroborating_sources": [
+        "Ultima Hora"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bd1f77a356d43e9b",
+      "title": "André Gelfi | Para apagar o incêndio, é preciso derrubar o prédio? - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE1RbzdkU3N6RHg3R2laNEh2YVFrYjdSaF80RTdMQWpyRGk5SkFNRTRaTnprWHZrR19jdlpIbmZUQ1dYNkZHTlhoZk8zbTdoNlBEa0RvLVlFZ1I2S1dVNTdGdE1Yd0ZVT0NlNUdTVHlMTksycGs5ZFR3N29nMUloUE1mZzE5b1ZEY29aT0VTTU0?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-09T09:19:35+00:00",
+      "score": 63.56,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "da0fdb343db9f5c4",
+      "title": "Efemérides de hoy: qué pasó un 9 de octubre en la Argentina y el mundo - Enterate Noticias",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDcyOTlBTmlhUGhDMndKZFRfakVTNnF1TmxOUWVvd0RaZVdUUlhVRVh4bHdjbmROUmtLVDRvR1NlTEs3a3lFbUhXZkhEOXVXd0swWHM0UWpFbXVaNFJjQkROaXVjNVBaREM2MlJmeUJVSjFKSW12SWJqY2hESGx2cFJldWk0dUlDZXdUZDBZOFlnMERZ?oc=5",
+      "source": "Enterate Noticias",
+      "published_at": "2026-10-09T11:50:31+00:00",
+      "score": 63.32,
+      "corroborating_sources": [
+        "Enterate Noticias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9b7a15685e7a6628",
+      "title": "Zanin nega recurso de Paes ao STF sobre anulação de votos de Garotinho ao Governo do RJ - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORm4xMmdmVFV0dHJBZ3BYNUFPanRFVGxEelYxbVZhMXJyNlQ0SF9UNzlfQURZZGVLTlo4dkFpVDlTWWprVnV6aHk5Q3dNNVdINXVYbVFvVlUxdmE3eXRBY1VBZjJRVUE3QmhQM05YLVdvTHhWU09BVjBDT2E2Q3BtanVXbW94Zy1lV1BtQ3NRcTFleElCMk5qZ0hZTkRrX0ZOTVpiN2ppQkdET3luQXNXVjJoV2hrTFJYM2RRenhBRjRId25PM0xDS2R5dzhiMG5QYkVz?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-08T23:48:00+00:00",
+      "score": 62.7,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "49eebaf190daac79",
+      "title": "Navanethem „Navi” Pillay ganó el Premio Nobel de la Paz 2026 - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVllczQxVzZETlBSZURkRFVzcGstMkM2bDJ3ajhTMlgxN21JLTNBRnRwSjhZb0tZMFRzTmxjeFdTRi1TVTdtay1KYTJYZGRoUzdKVUFtS215Q2ZTeklyQWNXWnhqU2JQSFlkb0xKbEFQbFA0U0Z6ZnBaUDBkMGRSS01ORUhtb0FHZkc0VVVIRG80cXJkaUJjV1BUOA?oc=5",
+      "source": "Informat.ro",
+      "published_at": "2026-10-09T09:17:37+00:00",
+      "score": 60.52,
+      "corroborating_sources": [
+        "Informat.ro"
+      ],
+      "signals": {
+        "source_count": 1,
         "social_metrics_available": false
       }
     },
@@ -28,9 +161,39 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekpJOVJnYmFnYmJoT29EZ29uYW5SRDVscW9qSTJpMFppTm1FaGJaUkc1NjhIbnJhT29kZzVxU0laV0lHT2U2emVSNzI4dFo5QXBQYmN3Z1Y0ajM1aXJaVXRfOFhveXJwaTdPWk5RR2wxWUlTX2dpN1VtNVh5UU52LUIwTGVpTUlnUUtrNzk2Y3BJOGhEd2ZKVEdEOGlOS3BtbkFVVXk5anVlUHBhS2NfRVVIMWJwSTAwM2xMQWdHeDh1QnRtSXMtVElMRmo?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-08T20:49:00+00:00",
-      "score": 68.1,
+      "score": 60.38,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "92c68f6a6e156ae0",
+      "title": "Cazaquistão e Portugal: duas práticas diplomáticas num mundo em mudança - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPamdLcXVhNFFZd01uTzZ2ZUlpREljMUdtTFVwQ2h1c1VXVlZsdWdPUWpWVVBTUHlMcGhBTGNRcGg1YzdJMkZqRmUzR2R4dzUxNlJsMDNnczBMODNNV2hkNkVQcUEydDdpY0p2RGlfVFBRNm14UjNGTTgwdlF6bUYxMG04SXBCWUFPcWF5djJyTmRmX2w3Q09TV3puRlQxMENWZkRDNGN1VnozaGp4X3V3b09ndGt6Q29EUDNhWDhRUFE0WGhoMi1SWHNUMjIxYTlfbV9RNGJJby1uS2VXZWRoN2NjTTlSSTg?oc=5",
+      "source": "Jornal SOL",
+      "published_at": "2026-10-09T08:43:03+00:00",
+      "score": 59.92,
+      "corroborating_sources": [
+        "Jornal SOL"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5068c426d839266a",
+      "title": "Wargaming in the US Military: Ludic Militarism and the Production of Warfighters - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSlZqb3RaRXY3MmN5OFN2cjF0LVFzWFkzZHJDN2VVNVpMYUpyQURuYUZaTy1pUWlXRTFOZm9VYW9PS2JmSGhfUjlidF9pckNGWS1KNHhqTnhaajdkeFV4MWl0eWFPRHd6?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-10-09T07:48:35+00:00",
+      "score": 58.99,
+      "corroborating_sources": [
+        "E-International Relations"
       ],
       "signals": {
         "source_count": 1,
@@ -43,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFg0NmppWlJ0c3J3LVhDTFBPU0dXc1U1WkVHSDJwQlRMVFJnTnh4a0pmQzlNT1hiVU5rSDlzTG5wX2lKdWlyeTZnUXlsRy1MSlNVVzJab2J2VjZja1FXWWlCT190NHhSY3JUWGo0a2ExX1pDSEZyVmxiTU1ENWhJT2tXZ1dDTVUzZHBHeUZvWm5QakRiRDN0Vk1oVzloTVhFY3NXeGJmM0cwY1c1TFpZazhUWjc?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-08T18:33:55+00:00",
-      "score": 66.0,
+      "score": 58.75,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -58,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2NRZVc4cUJCZmVfQXpDN0FaTk5OWmczelRaYnpIVlAyV3J6SlBabFVIZkYzTHROTkhuOHZiQ3FPX2JDbFRjUmp3Y1lpdEU1aGlEYlRPM0ZXTmIxakRsNkExZHVQaTVsRDktbDB1dUdvUzVaV25DZjlhbHBtdWFnekxJaGd0dlYzMkt6ZDh5T2owelFZMThwbk10b3lQR2FsUXVYeG9tNXh0TThYVU1sb25kVXdVXzJJX1FjbDhQa2FtQklnUEk4VW1nbDDSAdIBQVVfeXFMUDdzeXVxS0s1YlUzODVmMXFpS3BYTjBWMUgwT3FIanBISFBYRW5DNUxjM29OTktzM3U1ODk1X0JuSzhhME9nUzFBQnYtdkJzeHRWYkhkSXVfRW9PaHdzRXlKX2RQUGYzOWZiTnE0U0Y2ZjNwTjRTQXJra2xnM1ZrcmJEVXY3T01UWGhDMkQyb0hfNEsyb1ZLczdNalhON1c3aEJDSXNteGlpcGE0alBBWWxaeDBzdkpvbEdYNWJfQVRTaGxRZHVQZXl6bVFLT1M2bGt3?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-08T18:22:00+00:00",
-      "score": 65.82,
+      "score": 58.61,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -73,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0VmZXVTVTB5anNnTnA2TmY5dEJ6WVFubVo5ZVJIZkpHbXlXZWFJZ0dEZm1sMjI2OHNIeldCWm5RMTh1d01ad25zVFVnY01zY2VoMVNlRkRldkVXcWdPYi1aMnhsQnRlR1ZFZHVvRWdYclhFM05PVjJES21XTmJSYk5yTEVhTFRkbk9XMWc3SVdsbmNZWGhVdHBVTGZpMjljdmh2UjhIMkFWNU1MRjF6Qjd4OWFJM0hsZnNz?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-08T18:16:38+00:00",
-      "score": 65.74,
+      "score": 58.55,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -83,14 +246,14 @@
       }
     },
     {
-      "id": "8084171be47d4dc2",
-      "title": "Campanha de Flávio aciona TSE contra Janja por vídeo nas redes - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmJSU19lS3p4MGV5cFVIREI4WUlKeGVWRUNfOHFPcmJFREtvZGQ4bkFiOGY0dHpYLVBLUW5Wd0cwQi02a0kzRGI0YmkzZHQxMUw3OHZ0dm1adnBtc0kyekJOS2ZHeFpPdHgzVGduQXBJWGg0LVpQQzVfMHBnQlYtYVV3TjBNSDJ5eWFId0xUNVlSZi0yYkdxUW9JbWh2X1VKQnp1RGgycUtCYzBTckxnOA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-09T02:04:35+00:00",
-      "score": 65.55,
+      "id": "442459e66c40b94f",
+      "title": "¿Cómo ha cambiado el voto desde el exterior en España y qué diferencias hay con Europa? - El Orden Mundial",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GQldudW5EZmpvZnhmdUdYbnpmYW9sWnVXemtkaUhMdWxmaWpDanEzYWZ4NGhadlJrSlpmZmtZdXhUOWhKa1c1czhIZU1jTlFnMEh6OE5JMVdvS2NHbzdKYTVGU0lmY1h5Y1R0aDFLR0VldkpkMHpiRHMtN0NUQQ?oc=5",
+      "source": "El Orden Mundial",
+      "published_at": "2026-10-09T06:00:00+00:00",
+      "score": 57.2,
       "corroborating_sources": [
-        "Poder360"
+        "El Orden Mundial"
       ],
       "signals": {
         "source_count": 1,
@@ -103,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFpsUHJfd2hfOWwzRld6aThaTDd3anZvUzR0Q1JtUkV0UUEyRFV4NW1fbWNwRFQ0dzVkc253Y25wamlnUXJCVktKSm9CZGo2ekk4UnJKTzR1Z2hlZXNscThBY2I1ZTRQVXprLV9vWkptVXk3Z2E4cDhidGJueERGWklycTBBUkIxdFJhT1VPWVliekNidzdfTkdtUS1xZXJsUkIwOVgzY0hMWUlVd3B0SWh3TW9ROWRQbjFISGVvcw?oc=5",
       "source": "R7",
       "published_at": "2026-10-08T20:13:42+00:00",
-      "score": 64.54,
+      "score": 56.94,
       "corroborating_sources": [
         "R7"
       ],
@@ -118,9 +281,54 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVlfbjNhRXpGNWdYSHdVNl85WV9YTVAybW1ES1Q4VGZUeGxPYnRUWjgtOFBFZTZhUF93Q28xYVZsNTBsY3VXY3hrQVNHS2pGNjhKLWhMWWo2UVhSeFQ0Y2Z2UHpEM2Nhcm9qTTFxelMzYXJUeHQxdEpMdVEzSFNGZ091QTRXdnpDcExtNWFTZmVRQ1BkZWY3Z1ZvRVZtVGJFWUcxNjRWM0hYWGgtMXFjMndvUWxXbjhiSWVnNg?oc=5",
       "source": "LANCE!",
       "published_at": "2026-10-08T19:53:20+00:00",
-      "score": 64.22,
+      "score": 56.7,
       "corroborating_sources": [
         "LANCE!"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8084171be47d4dc2",
+      "title": "Campanha de Flávio aciona TSE contra Janja por vídeo nas redes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmJSU19lS3p4MGV5cFVIREI4WUlKeGVWRUNfOHFPcmJFREtvZGQ4bkFiOGY0dHpYLVBLUW5Wd0cwQi02a0kzRGI0YmkzZHQxMUw3OHZ0dm1adnBtc0kyekJOS2ZHeFpPdHgzVGduQXBJWGg0LVpQQzVfMHBnQlYtYVV3TjBNSDJ5eWFId0xUNVlSZi0yYkdxUW9JbWh2X1VKQnp1RGgycUtCYzBTckxnOA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-09T02:04:35+00:00",
+      "score": 56.61,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "231efc3e8998af5e",
+      "title": "Haddad pede votos para Lula em SP, e Boulos diz que 'derrotismo é para covardes' - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVEEzZkx4OElaS3BtazItX3lmeF9PR0hxcFJ2cXNka0lwYmotUDA4UXhaczlGUzhEX21QeHItOW1CdzF3ZmQzc09fZUVNSjUyR2JkZHNibkkxUi1qN1FtRFVmQVdfZENRQzRoNnlOTW9RMkhqc3F5UWcwTDRDSU9oTTVaZTNoQlFESUlqU2ROZURXSW1MVE5wblJDN1N1SmpPOVJyNmg4NVp5VWZROHp2NkFubmlZcTdOSnhRSm50OUphWGVkbTJJUWpkbXRZWDlIVVdSY3JxbHhtMXM?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-08T23:25:00+00:00",
+      "score": 54.4,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0f82ecc0e346dec4",
+      "title": "Deputados dos EUA acusam Trump de interferir na eleição entre Lula e Flávio - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejZfdndDX1R6NmZGQ2ZFWlJ3X09PNnU3bXY0X3IzZ05yeXphem0zSVhFdVFsemJZVGVxREVBOF9UWDFRZVF0NndNVmZUb1hVUXJkOEtWbk1xU2gwWXFSdFlvZTJWYUhWd0VzRHhyakRkUU0xY29JU1dza2p0X2E3V1RBYXFWYmxhZ1dfVkI5dE1SNEpySnhfaW9BZnBjSy16SXpLQlM2Vk9JREtw?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-10-08T01:26:00+00:00",
+      "score": 54.18,
+      "corroborating_sources": [
+        "Transmissão Política"
       ],
       "signals": {
         "source_count": 1,
@@ -133,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWxDcGNKVmZNcElqY1A3d1VhaGcwbnFNNV9vNU5wVEtNcUxqWk5yR3h3OXNfWmJfcVZCcmVsNEN0VV9pV19zNDNIc1RUUllST1dqcXJVVDh1OGNoOHU1MV83VXBxQnBjNlJENEIwNEJWbkZJWnAxNVB4bEIxWl9zNEh4MWw4dDhPRkxrSXVTdi16alpweGQ3Q0VnN0RZVUVSLTh3M1RGbnFrOG5QVWVBNXppbXJfTmZtZTg3ZzVrMA?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-09T02:42:15+00:00",
-      "score": 63.25,
+      "score": 54.16,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -148,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRm1Wc2lva2QxUmJlb2lqYU1aZEc5R2xMekw4Q3FZa05WV3RkMXQzcUJRcjl5MU5fYmJVZWJBWmdkdEhLcjNGaV9lcjJvQ1M1NlVGNDdFUjI3bjM2aXZlWWFpcnc0SWFvcmlHaDBLODNFWVdFZlVHeFMtZnZIbDd3dkR3Rm9sai1zNkFONGEyWEREQUhuWlRRRC1DcHl2X2RmV3drT0ZZOGRqVlRqblpFWU04NA?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-08T22:50:19+00:00",
-      "score": 62.1,
+      "score": 53.93,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -158,14 +366,14 @@
       }
     },
     {
-      "id": "785e0cccd83cef99",
-      "title": "Pentagon draws up new Iran strike plans as Trump hesitates - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXBHVW50WVMyNUQ4X05wZ2xaLTd2WUNPQmZrZkcwQnp4SDNNeC16bnNxMUUteHBMSGJULXFnWGtYWGt2cC02dmN2SVNFc3VYeElpdmVSMDM3elZtaXVDakZpMzRSbGFxZVZDNk5rSkhWQVdGNGJESU1zRHVZQ0NnYWZqc25QUVRMME50WVpsa0ZQQUpFNWVtVmpwUUxYUjFHM19jc3ZKVU5wRmRGMlJTWnN5czlDLVJs?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-09T01:13:20+00:00",
-      "score": 61.61,
+      "id": "0e9048a89977572b",
+      "title": "India’s ‘Cockroach’ movement says many members detained ahead of Delhi rally - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPelJRMHhmUkN3QnM4Y0JpOE5zOXlVNXFNdF8tNzB0QlBOZThHX2VHSGdkdU1TRERXdmJScGJHMkw0VGFQOE1KdVpnTGp1U1pBSjZ0RlV0X1VPZms0LVVoa2pidm9qTXZ0SXBBX05EdjYxVlVwcURSNW9GYkQ5ZEhFMkpISzMySlBIVHFMWENldVE?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-10-09T01:48:00+00:00",
+      "score": 53.37,
       "corroborating_sources": [
-        "The Seattle Times"
+        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -178,7 +386,37 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcW5wdkxKQ1dOZkVSNk9vbVZTNkpkX0pCR0c1UExFWTJWRG1OcDRfX3BWbzZZVXNBWk5OT1FHSDJfUmhRR2hmWVpzeWE0ZTVmNExmLXZhWFFibGw2ZVQxSngxeGk2Mzl3c2xNVjFaMm5RWXBUNjllXzcxRE9lcXlyZFYtS1pLU29vbkpPbzlBVWFJc1l6MWZtbG5tWTBCZWV1N0k5b3N4WjIwVmFrc3R1NTAwN01VUk8zQ1JzRFZreVVJWTFBNWFDMTlB?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-08T21:05:00+00:00",
-      "score": 60.36,
+      "score": 52.58,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dc0a225f3b8cbace",
+      "title": "Why is the “Third World” now synonymous with underdeveloped countries? - Kompas.id",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFJSODQ2WTc0em9CVXJaRVMwbTN5WVZsbnkzWDZvQU1RWVR0ZnQyWkJsYmZNVkVSTVZIcEl5SHRuYTFoUzZyS2JyZDJRd1BUblE5SW1VSHJDWXkyenJCaUVTNUZaV0RDSVc1NVdhWFlINlpvd2pyT016UnRJY2VUZDNZUHNKczRERmp3RUpqZUtYcDZGdmt2NUhYRkNoeVRYdXJjZ2xKdDdkNVc2akk1c1BQcmlQRU01Wmlj?oc=5",
+      "source": "Kompas.id",
+      "published_at": "2026-10-09T00:00:16+00:00",
+      "score": 51.87,
+      "corroborating_sources": [
+        "Kompas.id"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f42181c853554cef",
+      "title": "Congresso amplia presença feminina, mas vê avanço antifeminista - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXFVa3ZodVZ1V05LOG9tWWZmWlpGVmswQmhqSEFKZWF3UGFfSmhlWUYyby1QUEdhQ21nelc1d0dxdDl4NUJITlVkOFZleVA1b0JEM1Q3QlhWWVJLVUxVdFA0dXdhSjRpS3BKRzZLbFN2Zl91U1R1QVhxa2UxNUV0V0dNQmF4eUFjM2E5anE1cDNxcmhZdkE4a3ZpOTlKNVVtcWlra3otQWhPbUxkRWg3ZE53?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "score": 51.81,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -193,69 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEwtYjJZYU9tOG5kc19jamdUZGpZTDFnRmdTVFVaQkxPdzhHRDRWbTFSSUJ4endTdXhsUE5Fa1ZlZmpPTjVNdG16UzJJQ0pMRVdFOExFcG5VS0FqNHVRN1p6d3REeHhBd0NWemJJOGhSZmtiUlBxcE8za2FsbTJUbW8ycFo1NGVyemdPRF9PMmNKcHI4RVJLSzNzQ3VMNkFCMERCekU5enlFQQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-08T20:00:17+00:00",
-      "score": 59.33,
+      "score": 51.78,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0f82ecc0e346dec4",
-      "title": "Deputados dos EUA acusam Trump de interferir na eleição entre Lula e Flávio - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejZfdndDX1R6NmZGQ2ZFWlJ3X09PNnU3bXY0X3IzZ05yeXphem0zSVhFdVFsemJZVGVxREVBOF9UWDFRZVF0NndNVmZUb1hVUXJkOEtWbk1xU2gwWXFSdFlvZTJWYUhWd0VzRHhyakRkUU0xY29JU1dza2p0X2E3V1RBYXFWYmxhZ1dfVkI5dE1SNEpySnhfaW9BZnBjSy16SXpLQlM2Vk9JREtw?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-10-08T01:26:00+00:00",
-      "score": 58.69,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "51d00ec146de6a12",
-      "title": "Italy’s parliament gives final approval to Meloni’s electoral reform - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTUVHWXJ5WXFqQkwzQXhPM3VZXzk5MnF2TlFTeDNCXzl0Q3dZdVN1MUFvX01aVzdoYnNacnVXS1d3bFAteEdmbW9DdEJfNVA5UFRVeUhCUE1qM2Z4V1FncVJpWmRqSUdOc2twanpRcEtVOGE4LWJBSEE1ODNoSWUxV2xHUHlzc3VnVmc0VTZZamUtTjNvWVl0WGF6RnFpUEZHV0o1U281aG5ONlRsWmhLNXU1bEhIS0puOTdocGxTaUdXQWdpaDUxWTdKUFBkRDd5ejg5c05PZFVkX1NoeXFvQTJIOUg?oc=5",
-      "source": "Audacy",
-      "published_at": "2026-10-08T11:46:00+00:00",
-      "score": 57.41,
-      "corroborating_sources": [
-        "Audacy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3990b23f92530218",
-      "title": "Donald Trump insiste en que merece el Nobel de la Paz 2026: “Quizás evité la destrucción total del mundo” - Willax",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPallfaUtMdEZvLTZ5YXJKb2k0VXFfaWZQYXRsaTY2cG1aZVE0Mjkxc3JYX09JUlUtMG1ua3ZwU3d5dDEtZktsclVRSVpHbjM4TnVMU0dFdFg5QmEwR3JJQS1MeWJBWS1DX3JqSm1SY1p4aWZmWkJwdEJMUmhPMF91bkVLb1lzQQ?oc=5",
-      "source": "Willax",
-      "published_at": "2026-10-08T21:01:31+00:00",
-      "score": 57.3,
-      "corroborating_sources": [
-        "Willax"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f42181c853554cef",
-      "title": "Congresso amplia presença feminina, mas vê avanço antifeminista - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXFVa3ZodVZ1V05LOG9tWWZmWlpGVmswQmhqSEFKZWF3UGFfSmhlWUYyby1QUEdhQ21nelc1d0dxdDl4NUJITlVkOFZleVA1b0JEM1Q3QlhWWVJLVUxVdFA0dXdhSjRpS3BKRzZLbFN2Zl91U1R1QVhxa2UxNUV0V0dNQmF4eUFjM2E5anE1cDNxcmhZdkE4a3ZpOTlKNVVtcWlra3otQWhPbUxkRWg3ZE53?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "score": 57.07,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -268,189 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVNmdzNvQkpZcnNfdnNKaVlONTRGX1NCZ1lteDUtWmYxM1ZPQ1BVTGM0Y3BoRG1pd0dMakZTZVFFOXBqeHV0cGY1WWo0VlFmOWFnUWhqS0RPVlFSWjdzRHdTd1UtWS1URFJ2d3lBM0lUSmJLNTFGZ2xxWUxCQ1BSTGFsVHpJREUxUERNbGpJQkY5MXRfZXdFMDhJYXhxNndIU1E?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-08T17:08:45+00:00",
-      "score": 56.75,
+      "score": 49.77,
       "corroborating_sources": [
         "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "72ac24edf7c6b085",
-      "title": "Flávio tem 53% contra 47% de Lula no 2º turno, diz pesquisa PoderData/Aya - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkF6WS1pYVZXbGd5SEdMdEtEOGlrLVRwNG11NkI4OU4xdG81bXp0WjFteV9sWVFMNjF4SEdRT1B2dDRDX0ZxRzNxSE41ZXVoMmRlendIcTZ2SHlNeWg0d09qNUFuNHB3WDBSQ3o2UkFtOVlQYkhNQWJfSzdKTGxMN0QxMnoyLWN4LWRubHYwaTlwbElzYzVIN0RNSExvYmdwTUhnVHRlUjhLX3ZQYUE?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-08T16:51:04+00:00",
-      "score": 56.49,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f65b140c1fed19bd",
-      "title": "VIDEO: Trump insiste en que merece el Premio Nobel de la Paz y afirma que \"hice cosas que nadie más ha hecho jamás\" - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR2xnT0RHbW5qR1d2TmJqQUtNZVp0OGFfSmcxd3VCdGpSWTJ1akJHcGRSUzFnd0EzZXMta20wLUhoYnlvc1RGTlFWclM4YVRxeVgxaUNCckd0UE1mRTFrbXJFdnVpRTVrRDJwNVhJTG15ZTlxM3ItWDc5UXdheDFpMGp2TDBBMzlaYXBDV3hLWW1EODVJWG5JTXUxNjNIemVhUFdDUUZiNklpTXROcVhRVkFMZ1VBYmotU3ZHNks0LTJQMWg3ZWJQTGN1Y192eDZWcktn?oc=5",
-      "source": "La Nación",
-      "published_at": "2026-10-08T18:13:59+00:00",
-      "score": 54.7,
-      "corroborating_sources": [
-        "La Nación"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "435fcdbc4b4e4db6",
-      "title": "Preso, Baianinho de Mauá tentou ser deputado, mas teve apenas 7,4 mil votos - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnI0dk4wRXprYkF0LVNmLXVGZEtMOWtLS2xIT3VveC1mREFhZXZRUDgxNXl3dzlpd215VXZwdjE3NGZXcG4wWHhMUk9vQUZhY1cyeWpmR2dTRXI5TDRpM29xbmVCQU5vajluN3lwNEFVZmItTi1laHU5VnpTMWEwX3hWZGd1UGw2OWlwYVc3aGRnRndBeDlOVkd5UVpjSzNTa1AxTFJ2cFNzNFNrLTdueHFmdXhiM21acTl6RUNYUU9VS25jaHc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-08T14:17:00+00:00",
-      "score": 54.36,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a84377f58cc5802e",
-      "title": "El protocolo y la oratoria, más allá de la diplomacia - EL UNIVERSAL",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVFoVEJ6TWxyUXhHTE1DNGhkc0dxYlN2Zml4UTZtYTZaU0t1S21rY0ZSM05SYnJCYjEyVlgwQVluZE1GUEpDN2x1RUJMNkItRmZuVnhvY3NLZlVTN3FOMFRodlZOYk9sa2dYRVM1OUdZYkhkQXBQbnV4WHk3emNyM2RYckZ3bGVyNnBmaHFNMGhNQXVOVjlmMFVhb3dGUDRS?oc=5",
-      "source": "EL UNIVERSAL",
-      "published_at": "2026-10-08T04:03:18+00:00",
-      "score": 52.21,
-      "corroborating_sources": [
-        "EL UNIVERSAL"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1ea207ea6d847aed",
-      "title": "Real Time: 40% dos que se abstiveram no 1º turno não votarão no 2º - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmpsVzRiVDhldHpmYkhvZHlfbzFCZDhQU2FWU1BqWTBLdFRrRlZPUzlQTHZ2bHlTVWRMM2xRUHJUN0VYeElsM2l3WWd6LXVHNWJVVXpFSlo4clpCTkpsS0djQkwweDVUbDE5R2M4a25CVkgtQWJCTjZmb1pzbGpFemNuR0Z6akp5NjZuN0YxYXBOWDdSdGN0RFppR1RyM0E?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-08T10:52:00+00:00",
-      "score": 51.74,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dd29c57c430231c2",
-      "title": "O que o governo Jair Bolsonaro sinaliza sobre a política externa de um eventual governo Flávio - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1hueWxxZEtHcTctOHlndk0zanNhMHJhSkZEN2x0a0FIc2JjdHhkYy1UN2dOel9pZkI1bEYwN25pcGpsWWNseUQ5b3FZdkFwOEhRNHM1Rk5aVFcySC1DS1ZzblJ5S3cwNFZ3WVBTZjA5ZnB6OEdBZVpXS1VyNmYtTmw0ano0NXNDZ0FkUU9PSDBJNFFUZ0RTU1VERlp6bE9uMEZtTFJBV1JtM3lEa253WkFsbFRpQ0lXVlJqVGpDaDF5NkI1TnJvTw?oc=5",
-      "source": "The Conversation",
-      "published_at": "2026-10-07T09:49:07+00:00",
-      "score": 51.57,
-      "corroborating_sources": [
-        "The Conversation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c9e47947e0327c1f",
-      "title": "Trump opina que deveria ganhar o prêmio Nobel da Paz de 2026 - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGVNZmlwZHZCc3R4ZVA2NzFLOUpycjBBTmJuY3JuWmNqTTVxSzE1S2R6Y0dEdW1OMTZ6ckQ5dDlHVnVsYi1uaG8wY0RTVlM1ZjdIUkRaYTEyU3g3OGtLUXlvWGlxU2V5VG4tbkFzaGFza0NNV0FBTUxUWmRLSEZ2eW1EUkxNaWtYbkZEMnp1MEZMdGNfMGw1U2tSR2hpV01Wd1hpMVAyNnR2TWFyZENGLWJ5Y9IBuwFBVV95cUxNMnllVXVfR1FYTUNZeG50NE5ZZi0xdUxhQjh4Z2J1TmVPYTdSQmIxVjJ4dnhMRllnTVNwNmNXekZnM1h6V2lWckVIXzIySEtUdlB2b2lpa0NiRWtLTHBmZ3BFaG41ckhNRjlqbHVqMnUyVFVtS2k3cDhoc25saWpjUVBmMVdXeE9vTGsySFF4Q3lFV1FfUVY1UEIxSmJZbUZ6RHkyOTZ5akV4T3BDRXVYR3pndzBIekJ1aUxv?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-08T13:57:00+00:00",
-      "score": 51.09,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ddec46166b309768",
-      "title": "7 de outubro: três anos do atentado terrorista que levou Israel para a guerra - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2tOM0dJazNRYmVkdDNPWktlbF91dlh5a1lycG5ORXRXVkpaTWo5MGJjWWl0ZVI2WFF6TzBJRDJaRkVISGluSk9WRFNtY01yQnhqWE5oTWlKX2l1MmVQdlNXMTZfVlhUdlNMYTJ3SVhxSGw1QTk1c0F0SXlFU3FmR2g0MkpaZU01UTRFYl9PTTVtQWMxZHpVQnh1RQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-07T18:38:18+00:00",
-      "score": 50.21,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1ccb3770a0dc3e5e",
-      "title": "Kennedy to announce major vaccine injury initiative, including new clinic - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUp3QTlDQmFobTdVQURUNUNLWE1RWnFyQnpkbktVc1hzTWNuZUtiRmYyU2sya19SU3hmXzJ6dXZDMHBNdGR0UHpsLUdrQW1vb0lzUl9xM0pvbWt0ZVZTWmpWaWcxVW9aM0F5YXdwY2xDZWVHaEotb2h1eFpPMXR2a2VNaTEwb0dOQWJubkxuTlMwNkg5aEJVbmZrY2I2Y0lwamFoNTBGSkJaRG14NE5EdlhEUnVHbkNwYW01QzZuNUpQS1l1dDAwUWp5TQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-08T12:37:00+00:00",
-      "score": 50.05,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e2dc45d30f3987ab",
-      "title": "Kassio confirma análise sobre soltura de Bolsonaro após eleição e fala em levar caso ao plenário do STF - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHAtY21VWGhOLWJzbHF1aUl0aGFIWUtVWS12bGxtTU1WQ0hjZkNDNkNFbWhLQV9pYzkyV1NKMjQydU5hU1ZZY1M3OWRIa3lkSHhtWVZ5bk51VTRqb1ZicUxyZExDRUNSTXNjNERmV3MxcXo2RkcxYWRIRUpvQ1lYSm9JT1pMX3pDQ0J0aHIycVpUMUhNUGM2TVYtSmxjUzd3Z0UtbXdfdTlWbm04Z0VnQVhXR3UwZWxFOWVmYXMzLU42NGVjVDk0MEFidnhpZGVTSFlXWEp6V0xydlh4V2daNURSSUhTS2V1?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-07T18:10:00+00:00",
-      "score": 49.99,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c36552d1aacfcf32",
-      "title": "Política alemã encara fantasmas em dia de memória do ataque do Hamas - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFdmTXN4dTRaVTZxeUZvdzh6czVNeUlFTzNXSmF0ZzBMWENJeWRPSTZUZk9tckR0bmdyUzVmVV9BT2NDSlYzajQ1TVdxWWRLdk5uV2VOd2didUF4UlRBNWtWNUQ3b3VkS3liLWd5TmtZOExIajRMWjBhRFQ0X3BIdWJndlhzZWMyN1pGeE5ZQXV0UUs2QXprRy1XLS1XbjZQQVd5QzVLb0JaNGlOTFhQUjB2V3F5NldkMVE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-07T16:37:00+00:00",
-      "score": 49.3,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "30e4a089563cc5ab",
-      "title": "Soltar Bolsonaro em decisão liminar exigiria evidência de erro judicial crasso, apontam especialistas - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVWtKT1dlcXpwN1lvbDE3Z2d5M3ExMFo1RW8xQ3E2MmlmVXNBT0w0S2RUcjdJamhMcTdOY3VlX0xtWVIweU1OYnpzbC1VanJoa1M3TEZZWmlVWUZ1QmFWOGtkZVB4aDBWaXVtRU9tbzZOd25POHl5eEpUd3h2REo2ZF9MZXlSTmY4dWVWdjl6LWFIRmkwZjBtQlQ5SGRtTDdXNkxGOVRQb2ozOElMcFI2bW0tQmVPMDB3YnBGNHBMby1MT2k1c3lYeWQwU3Zvd2ttWXRkLVlENFJObnhvVXJzSG1FVjk?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-08T07:06:00+00:00",
-      "score": 49.13,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
