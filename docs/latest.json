@@ -1,19 +1,64 @@
 {
-  "generated_at": "2026-10-10T05:58:10.995903+00:00",
-  "next_update_expected_at": "2026-10-10T09:58:10.995903+00:00",
+  "generated_at": "2026-10-10T14:29:24.790209+00:00",
+  "next_update_expected_at": "2026-10-10T18:29:24.790209+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "0c03adc632256fda",
+      "title": "¿Está poniendo Trump la política internacional al servicio de sus urgencias electorales? - El Nacional.cat",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGNPbnNTaU5LS0JEVzFXMzdONnBONHpER1EwX3Bmd3dQYlVyaEgzcVl2U2FjN1VwVnlHOWVHdHg3aHd3cGRqR2tid051VFMwMm1lMlk1ZzJNWjFtMS1zZDU4VnlCLXdqdmxwLXJIRUxzeWo1MUpqT1NiUTZidFRfRE5PanhCUmw0d0hoVEpFN052Q3g3bTN0Tmt2MEoyWloySUdEREM0YWtZd21adlM3SkVienlJSno1R3pVREJjOFR4Yk83VWY3ckUtRnp5c3NsYVBabw?oc=5",
+      "source": "El Nacional.cat",
+      "published_at": "2026-10-10T10:18:07+00:00",
+      "score": 70.53,
+      "corroborating_sources": [
+        "El Nacional.cat"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f5518812a9904405",
+      "title": "'Que ninguém venha a Aparecida para alimentar divisões ou animosidades', diz arcebispo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSzd6MmI1STVBUk41cFVqQ1drTTZkLWdEWTRDNkhleXJvMHFzbWVuZDZkNGhUSjJoUGdFWFdGamVaNUI0R0dSZmVMb0piX2o2M3liZmtLVml1czhaTTRiTUpMTTZlSnZZVnlRY2szMjZKclEyOU5tZmFSTWRwVm55Y1VEaGlkdi10VjNMS3VaUVpmX1RfZVQ0ZVhkcWpaeWw3RVlKQ204VGVPQWNUR24zTVd1dFNyZWNYZzdmYXAyOWRMSTVjcG9RbjZURFdCU3k0NThF?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-10T13:00:00+00:00",
+      "score": 68.65,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "2d004060eee128f0",
       "title": "The midterm Senate fight spreads to a surprising new battleground - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDJPUW9xRzlZV3c5WWRuR2JYTlNFcjNSS0NDang5VEdvZWEzdWtWcmtsMW9YU001eEpyMHE1cjdfc212b1RISWw5dzV1N21WRG1zbEFmZU5CZFBIQjBXSjdaWkNrYzBSaUpHdkVHRVRubDhvMTFYQUJScXQxMUFMQmVubzYxYkpuU2VzUGhhQVhpeFZyS1JpUUQtYlZ0V1dNaERrQ0ZjRnFzN0F1ZHFnZWIxc3BpZTVmZ1lMcTM3dGNwUQ?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-10T03:19:34+00:00",
-      "score": 72.29,
+      "score": 63.48,
       "corroborating_sources": [
         "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c54ddd9f4e722ede",
+      "title": "Xadrez Verbal Podcast #478 – Política externa brasileira nas eleições - Xadrez Verbal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHU3bnZycncwZFl4cmI4ZkpyZzlRQm9hVkhiUkV6dU9mQ0dHM2xJZmFEenFHVTdUMFRZWVhXMEJQX0psTXhyVEZhdnY3WUtSclUyOVprQ1ZtaWU0ZFRDeUVuT0tjUVZrUl9PT0Y2cXUwS0l3WVVLTkdrZkdfM2U5NGZBTW9iVXVEV2d5MzRUZHBDX2hRVWV6UUV3eWdkV2tiWUxreF93?oc=5",
+      "source": "Xadrez Verbal",
+      "published_at": "2026-10-10T01:04:29+00:00",
+      "score": 61.48,
+      "corroborating_sources": [
+        "Xadrez Verbal"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +71,24 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXJsRzNqREZNRm10S0dIVHJ5ZHBDcTF3Ymk4SWRTLWg5UjdWS3BuSkpnTW5GVmdnN1o0THBrVHkxRkhRekI5U2dhVkNtVUZBVGxQRzBtS2lnaXBsUkFtLUdUeXZvOXlMaUhJQlBLdE5PaWhGLVVxMUZMUU50TmFQWktiYk1GazNLNDR2RlZDRQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-09T20:54:18+00:00",
-      "score": 68.46,
+      "score": 61.09,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a5e68e2495c9e869",
+      "title": "U.N. Warns Neurotechnology Could Put Human Rights at Risk - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVQ5NzhmeFFNci00NkIxdmx0YW1icTlqWGZGZzVTOGUzV0ZxMWZtdzltd2pSYkdkRDdFVWxteWpoaHBkUmZWQ0tHV3ZBMzRVWDlLM0tlT05ERlhiWEgwRGQzelJ5N05FZy1DRmJoWkMtT2l2WjVCQU5CV3VqaE5IUjJFanZkUUxIME9rbTNoOE5HM1d4cktoZw?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-10-09T22:56:21+00:00",
+      "score": 59.69,
+      "corroborating_sources": [
+        "World Politics Review"
       ],
       "signals": {
         "source_count": 1,
@@ -40,8 +100,8 @@
       "title": "TSE manda suspender site que oferece criptomoedas por apoio a Flávio - Poder360",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1NTOUREVmQ3Q250R0lmTXNNbGtUWEVmOGdsYVZabmlyOF9JVjBXMlg2REZoa2cwdXR6eExFNXNGNGlZeHRCNVhoeVdYV29IMFUtT3hNZWdUR0FyYnhBd3dEazVqdm1CSGZVWURhZGJIY04wTHo1M3RPZE1uQTBFeHh3eXQ4bTRNUXB2WVNzeG51NVFPbWtSaUpxM0cyNmRkaVI3dTdWRmNCaTFETVh6Vg?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-10T02:21:40+00:00",
-      "score": 66.18,
+      "published_at": "2026-10-10T02:21:59+00:00",
+      "score": 57.61,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -56,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1FPbXlmZlFuMDFXbDB4OHFaTXA4VzF1TzV3Rm91OGYySTRGQk8xSGVYYkp6dFBEZDRnQVUtdktMaWhzbkw0RXFIZldGVFQ2MzFVQlUwVWRYc3ZSbzBQcXg3aUNQaktiNThNV0pydzAtX2ZZaS1Ma0ZsdldXa0owOTdld2xJb1QwYzNNY2VfcnNDSU1FR3hpTTZISFVycnhURXdoOFV1Z0pka0JXVU5Dc2Fn?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-10T02:12:56+00:00",
-      "score": 66.02,
+      "score": 57.48,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -71,24 +131,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNWGVLUWQ2dHlyNzdtRzVOWEdlTUY1Y0lUQ052aWV0d2F2c1prQkpXZjl6YWJ3dFhnVko2M29PTk9BY01IZTZVNkVfWmJOZ1NXcDI5cC1sc0NZWTRBdFlRclNsZzhsM3liUjNINWFOQmJJN1JGenRVUlYzRlRraEZDM1p6NFNtaHljaFA5QXdraGhONVU0NHBMZHZ2TWIzWURhaENGTDMtRm0tc0V4NFhwNVJkNDVIcjFtaVRzazQzREluU2FzREE5RUFFQjdxeHU0eVZXX0pwRURyaVRsZXk4QUdOaGdJX3JkLTQxV1A3QlVjQlFFc2g1bGJGLWJVcERfeS0tWUJBY3ZCVjlPOV9lY2JtV21TZl9BZnZZVU5qZVBndFc30gGqAkFVX3lxTE9YWk5wREdvWVFYU1NtaVBVR3BHbEtxNFRRM1UtdlZOWkR1VTg2cWhNQzZ6YjVlTmJmNmxzekxGWXJYS3kzM0dNaFFidm1qTnJyZFk2M2ZsbnhLTHNRUU1hcXcyWHotOFpPZFpBOHNYN3lrMmM0Qkt3Q1hkU1FEaW1oa0lEa2FLU0kwRWFGLXk5MHdMSU9Ha0ZMUW1Mc1VqVzE4czNvNjRrdTBLcWFiV2FmTnUwNXdnOHY0dHlVVjRoLW50RHlHY0tFZ0RHQjhOdlMxT3NIbld2Y2ZBc0dNUEZJSHRCRlB3Z25QMWRKTWJ0ZTViNmVXbjBtXzE4M2w3aHc4NmxyWVRac243Z19Kc2RTVkFhN29CMzVONS1ZeTNUUkxlS0hSWHJoR0E?oc=5",
       "source": "El Tiempo",
       "published_at": "2026-10-10T03:38:05+00:00",
-      "score": 64.65,
+      "score": 55.76,
       "corroborating_sources": [
         "El Tiempo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ddfd3be9dfe3a8bc",
-      "title": "Paxton said in deposition that donor gave him stocks to please God - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSklweDJfbWlsZHRYc184aWdTVW5oamtFYVowVmVaSUc0MzNaaGJDaGlOYldfNUw2Nl9CVld1enA0ZUJubnpLWUZrd3k2NXFqX1ozMXkzRWF1X2QxV0RsRTY5S21LM1h2Uk1ETFVjeGRxeTNGZEU2RXQ2U0tiTWJmd3BsQVBTbFBxNGhuOVlSNUphaVdyaHU0Qkg3dEdSZ0ctOGxHcUVZbjhhcEM2UXhYZA?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-10T01:57:14+00:00",
-      "score": 62.73,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXZfSG5TT3Mxa1ZjTUdPckxldHh4Ynl0ODBYeHkyZHQ2NXJDM2tERDFVSnM2dnE1Y25NUlVmLXhCYTA3ZXhoaUJDWkVpd2ZNTjZOQVh2X0VvVHhxNmhsT3RBaFlNZEJvanMwTkd0UFY4QXI2UDhRTVljVURSaEs3MWxPa3NDT1hpT3laV1lUUVMyeE1fMUN3OWE1aU0tR3hjVTAw?oc=5",
       "source": "Palatinate",
       "published_at": "2026-10-09T16:45:03+00:00",
-      "score": 61.65,
+      "score": 55.08,
       "corroborating_sources": [
         "Palatinate"
       ],
@@ -111,29 +156,14 @@
       }
     },
     {
-      "id": "43a74aafb3812e48",
-      "title": "Trump y Putin pactan que Rusia provea diésel al mercado global - Diario Época Corrientes",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlhsbVU1cUg1M3VvNTl5M2FrS0paUWlDNkdiel93YTBPYkpIY3dTay12NHRxMnBKdkdJUE9zNUVzeFVFZFRrR2N1R0FOUklGTFpvOHVDT21OUlpQRkU5LVdGNWpXNGlLZmMyZG5zdzBOT3RzOXE4WW9QOGluWWFzaHNFcnNoZHU2bXNKU2h0SV9xSlo2QlQ0TlU3YjN6QVE?oc=5",
-      "source": "Diario Época Corrientes",
-      "published_at": "2026-10-09T23:29:35+00:00",
-      "score": 60.07,
+      "id": "ddfd3be9dfe3a8bc",
+      "title": "Paxton said in deposition that donor gave him stocks to please God - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSklweDJfbWlsZHRYc184aWdTVW5oamtFYVowVmVaSUc0MzNaaGJDaGlOYldfNUw2Nl9CVld1enA0ZUJubnpLWUZrd3k2NXFqX1ozMXkzRWF1X2QxV0RsRTY5S21LM1h2Uk1ETFVjeGRxeTNGZEU2RXQ2U0tiTWJmd3BsQVBTbFBxNGhuOVlSNUphaVdyaHU0Qkg3dEdSZ0ctOGxHcUVZbjhhcEM2UXhYZA?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-10T01:57:14+00:00",
+      "score": 54.24,
       "corroborating_sources": [
-        "Diario Época Corrientes"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "411195f4c007c34f",
-      "title": "Internautas viralizam posts antigos de Pavanato criticando Bolsonaro - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVpkOFl5dzVmZnlUeV9fRHFQZDh0YllMS1hUS3g1aGpOa1hmaXJ3MXIwemlTVmhwZUE2R21QNjBCLXVDZXNjOXhCVXhVRW90bzhUMkEzUWNjaEJEdWFXeHlRZGlzY3J1VDlaZzFMNGlRRmJmV1VmRmNkLVY5N2daSWlLUTVqU3NtZDhwY3EyODRYbVRRODlyU2tlbGJHWFBjdFF1aHZBLXJQNVJPWk1aOUJOTFdzR3ZR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-09T19:40:28+00:00",
-      "score": 59.28,
-      "corroborating_sources": [
-        "Poder360"
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +176,39 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUk9oN1hBek9oWkFEVmxzZzAxSWhWTWRnMWd4b2g0cnpuc1RiTW44dTlWY2ZRNzJ3SmsxNFNYd2xjRmQtaENrcDlLZEo3RUJEcFp4LUZFOEJyZTRxNWh3bHlfRlJwUEpYblpId1NscDFCTDZlRjFoeU1ZUUJrajJ1cS1TNGFxV3g5QzFtdTFVOVNyQ25aLVBKVUVlYkloNzVUdmRSUDlFdVVhN2RNYlpNZXc4ZXBNRjRHbmtyLVVhb1JYMUxWdUdEMTRrVGoxSnkt?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-09T13:01:14+00:00",
-      "score": 58.58,
+      "score": 52.66,
       "corroborating_sources": [
         "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "411195f4c007c34f",
+      "title": "Internautas viralizam posts antigos de Pavanato criticando Bolsonaro - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVpkOFl5dzVmZnlUeV9fRHFQZDh0YllMS1hUS3g1aGpOa1hmaXJ3MXIwemlTVmhwZUE2R21QNjBCLXVDZXNjOXhCVXhVRW90bzhUMkEzUWNjaEJEdWFXeHlRZGlzY3J1VDlaZzFMNGlRRmJmV1VmRmNkLVY5N2daSWlLUTVqU3NtZDhwY3EyODRYbVRRODlyU2tlbGJHWFBjdFF1aHZBLXJQNVJPWk1aOUJOTFdzR3ZR?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-09T19:40:28+00:00",
+      "score": 52.16,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "43a74aafb3812e48",
+      "title": "Trump y Putin pactan que Rusia provea diésel al mercado global - Diario Época Corrientes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlhsbVU1cUg1M3VvNTl5M2FrS0paUWlDNkdiel93YTBPYkpIY3dTay12NHRxMnBKdkdJUE9zNUVzeFVFZFRrR2N1R0FOUklGTFpvOHVDT21OUlpQRkU5LVdGNWpXNGlLZmMyZG5zdzBOT3RzOXE4WW9QOGluWWFzaHNFcnNoZHU2bXNKU2h0SV9xSlo2QlQ0TlU3YjN6QVE?oc=5",
+      "source": "Diario Época Corrientes",
+      "published_at": "2026-10-09T23:29:35+00:00",
+      "score": 52.14,
+      "corroborating_sources": [
+        "Diario Época Corrientes"
       ],
       "signals": {
         "source_count": 1,
@@ -161,24 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0x1MXZaRnZSbUI2RTN1enpQVW1PUVVCc1gyXzFZRHkwRThKOXFWLWVVMW9SM3N5QXFZTnNEeFUwSGpwSzFPRW5kamVfVDBIQjBzd29UVjgxR2pzV2dwbG9aWXg0b0hha0NhV2xuQ3d4Ylc5eUNBc0VTb1JYbjNiaWgxUXF2b1IxNjU2d0xLQXB5UjhWdkxoYzBQQ2NYOElTdVNQSXRzQWJhNDRISmhN0gG3AUFVX3lxTFBZV2tJZE9xXzlPUnh4bDdGemdTMFRfa0JuNUxCNWM1bWdkemhQRHA5UnN4NTlibENvVVByajlJblpaOFp4R0hsZEtndDYwVFdUWm5VMndvSFd2R2twR3ByODl5YXpRT2VSeUVTdmVSRDg1RWJQQVVTSDRkTXJ5TEdBNk5OaUtYc0RRWU5nOU90QlA1UTZiM1ZKcS1NMmNIUDVicFl6aE5DLTk0X1czSmc1VjY0aUthWQ?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-09T20:59:00+00:00",
-      "score": 57.54,
+      "score": 50.15,
       "corroborating_sources": [
         "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5e91c895f5396fc6",
-      "title": "A firing squad, a lethal injection, and a 'disturbing' shift in the US - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWs3TDZOYXVlUW9kQ2hRRlFiRVBsODVTUUpHLWJqQTNxb1hrWWYzcmxDSl9iWkVnY2kycC1oQVlXRGpyTk1VYWxUeTV4QnhtdVJsWllRbVBpQ1VBajI4NV9tNXJHQ0Jvd2xwamhhRU1MeWJVd0hWYjRUOHVqWTBFb0t4Zjc3aE1aRnc?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-10-09T19:15:36+00:00",
-      "score": 55.9,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1BBaFFSWjhiZDNkXzVnVWh1MVh1RkJ3b2g2QTE1a1o4TXI1N0hiNUNQeDlha0dtbWNIUHN2ZFV5bFdidDA0TlIzTmpidDFXaUlUZ1RXaXJOY0xMVWlzQ2dyRWsxcTBTR3M5a2FlSEZVcFRzS0NkVTNnU281RW9jV2VyWHhhRXM0ZGZMUXZLcXlLSVpINm5TbG5DN0tsWmhIM014dHcwbmpTemsyWjk0V0sxQXVDQkpLVHdZcUJHRlh5YXFBQXfSAcsBQVVfeXFMUFZJLTZLRDJSendYbkNSMkxHM2M2RE4wX0o2M0ptWFh1dkxfTUxfb2NiUjBXNElCb28wRHp3X29fQXpka2ZaUFNJUS1yVDNhd1N1TDl3TkVnZWZwQ1VYbG1sVGhjVXlQOFFLeUo4Z0ZUOG1TVlJURFRaUmtrVVRfWndGVF9kTWRFUmpKOG5WXzVOU0F2UmlJMmU3NEJHaDVqdkZvUGltd3NSZDRrVzlJU1VkSmZ4YlBibWVEbXJBU2dWbkZVbWhyQmhEclE?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-09T15:40:00+00:00",
-      "score": 55.72,
+      "score": 49.35,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -201,14 +246,14 @@
       }
     },
     {
-      "id": "899cc1a42383b670",
-      "title": "EE.UU. dona equipos de protección personal y herramientas no letales a la Policía - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVF3RmppaEFOWFdBeThhRURnXzJZQ1ROS1Vxd20wWDliWjVYTHhDT1ZOSHpWektHb1FRVk9tcnQzZTdsWmk5Y0RlenJjZ1kwT1lWWGRfRE5uZmNUcnEtLWt5T1JvZHByUUF0LW1Zd2RSTHljSVUyQVEyQlVpaXNQVlJabFk0dTJocjh4bWVLYWxuYjlfbHBMTkxYbkhpTFk?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-09T18:29:57+00:00",
-      "score": 55.2,
+      "id": "5e91c895f5396fc6",
+      "title": "A firing squad, a lethal injection, and a 'disturbing' shift in the US - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWs3TDZOYXVlUW9kQ2hRRlFiRVBsODVTUUpHLWJqQTNxb1hrWWYzcmxDSl9iWkVnY2kycC1oQVlXRGpyTk1VYWxUeTV4QnhtdVJsWllRbVBpQ1VBajI4NV9tNXJHQ0Jvd2xwamhhRU1MeWJVd0hWYjRUOHVqWTBFb0t4Zjc3aE1aRnc?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-10-09T19:38:13+00:00",
+      "score": 49.13,
       "corroborating_sources": [
-        "La Patria Bolivia"
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -216,14 +261,14 @@
       }
     },
     {
-      "id": "39b7ad4a462fdb62",
-      "title": "Vencedora do Nobel da Paz, Navi Pillay ironiza Donald Trump - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUxrbjVBN3JlQW8yZXY3cUs3Uzgwa09wOTRmaEFrY2loLS1CdGFsRDJSNlh3ZGVfb0lKMS1wTkVkcXVMUnJTRzlCTmRxSDRJYmVoQWRXX1JiSFZGUGpSY0xSLTRhYlRybjFZZEE0aG9TSklGYmNOTkV3aU5fR256RHMzeEZTakRGLTIxNHdYNWpqQ3Vpc3o1dFh5NzJKUlYxOUM4OGpKMnVlRGxjdGVDdtIBuAFBVV95cUxQeTBBclFHTnVrcVFHX0xWb0NrR3pxUHNPSWFqNlA5N3NaSzBXWlQ0WGNOWWZValRQZGRfSXEzdGVPcmJScVJ1c0N6QUxuZFJHbkxYZnlqVk85ZXJZZXpaMnFva1dDWGJicUljaGtrb0g3UkE2ajRWOGNqYUpGeWd0ZEpPNkdZZDBSNVpQSjliOWVuZ1FqVThIQzRNNkpqSE9wbzNLMzlBa1ZsUHgyOXFMQnM5SEVPZGgt?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-09T18:25:00+00:00",
-      "score": 55.12,
+      "id": "9b7a15685e7a6628",
+      "title": "Zanin nega recurso de Paes ao STF sobre anulação de votos de Garotinho ao Governo do RJ - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORm4xMmdmVFV0dHJBZ3BYNUFPanRFVGxEelYxbVZhMXJyNlQ0SF9UNzlfQURZZGVLTlo4dkFpVDlTWWprVnV6aHk5Q3dNNVdINXVYbVFvVlUxdmE3eXRBY1VBZjJRVUE3QmhQM05YLVdvTHhWU09BVjBDT2E2Q3BtanVXbW94Zy1lV1BtQ3NRcTFleElCMk5qZ0hZTkRrX0ZOTVpiN2ppQkdET3luQXNXVjJoV2hrTFJYM2RRenhBRjRId25PM0xDS2R5dzhiMG5QYkVz?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-08T23:48:00+00:00",
+      "score": 48.84,
       "corroborating_sources": [
-        "Pleno.News"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -236,9 +281,24 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUVWZU13U2tKTVVQU21GSF9IMFQtVU9LNk0xSURIUy1NZ3lKNFNOR1R1WlY0SS1hRnNWZUVVUnI0Y1dRUkg1eV8xZEQxX2lvVC1lSnlZOTNlakUyNWlhXzBjZzFsVGdzTkVIc3VRMmExY2RwQTRYd09UbDVpcGxybXVIakh2NFBTeHJhNU1MaFp6dzBfTlNocEFqejRuOGxvWWV3TUNiSkxJaGhLajVtSE5idzdraDk3NXVoN1pTRVJPUVZoUTB3Tktn?oc=5",
       "source": "Folha Vitória",
       "published_at": "2026-10-09T14:42:19+00:00",
-      "score": 54.93,
+      "score": 48.72,
       "corroborating_sources": [
         "Folha Vitória"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "39b7ad4a462fdb62",
+      "title": "Vencedora do Nobel da Paz, Navi Pillay ironiza Donald Trump - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUxrbjVBN3JlQW8yZXY3cUs3Uzgwa09wOTRmaEFrY2loLS1CdGFsRDJSNlh3ZGVfb0lKMS1wTkVkcXVMUnJTRzlCTmRxSDRJYmVoQWRXX1JiSFZGUGpSY0xSLTRhYlRybjFZZEE0aG9TSklGYmNOTkV3aU5fR256RHMzeEZTakRGLTIxNHdYNWpqQ3Vpc3o1dFh5NzJKUlYxOUM4OGpKMnVlRGxjdGVDdtIBuAFBVV95cUxQeTBBclFHTnVrcVFHX0xWb0NrR3pxUHNPSWFqNlA5N3NaSzBXWlQ0WGNOWWZValRQZGRfSXEzdGVPcmJScVJ1c0N6QUxuZFJHbkxYZnlqVk85ZXJZZXpaMnFva1dDWGJicUljaGtrb0g3UkE2ajRWOGNqYUpGeWd0ZEpPNkdZZDBSNVpQSjliOWVuZ1FqVThIQzRNNkpqSE9wbzNLMzlBa1ZsUHgyOXFMQnM5SEVPZGgt?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-09T18:25:00+00:00",
+      "score": 48.24,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -251,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQX3VZUHNhbkRHNy1VN2tVREV0clhIb2IwRkQ3bktLVGctMXVCZG1TV3JUTkt2UDFJRXBwU3RXc2tPOGxZNEg0NEFueTZiN2tBSG81MDNHck04NW5uM05YaFVYNUZZSHBMak51Z18xZ2N2UDJROGxRamdWRmhwU0xxb2t5dnczT2pHa1RsX2s2Q2RCdEFtZHNsWE1raDdDTjloWDRiY3gzbWJDdUQ1azBJSnNnUVkxbXNKMF9XZjhOWGFhaGlKS0NKZnhNbXBGRFpjU29peVlGdGtLQVhMRFhnQUs1SWtRYWw0aFhVSXZZTmdmRjREOV9mek5sUGhXcng5RWdxT1RVSGsxYjhtMFoxUlBmUHgzdURlcXI4?oc=5",
       "source": "Brasil de Fato",
       "published_at": "2026-10-09T17:40:00+00:00",
-      "score": 54.45,
+      "score": 47.71,
       "corroborating_sources": [
         "Brasil de Fato"
       ],
@@ -266,144 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd25UZ24xWUFjd25LcGVjZDBmVFl5eUtFdElMZ2xmRkk0aFM1V2E2TUFmRWluNUk4SzZvZVMtYWYzQm9vcHVwNk1KZnJyLUQ3bEVHeEp5SG1VaktEanFXeXlIWTNSVEs5bHUtUFFxZFFQYlpRdjBWT0czUXR5UXc5VkV1THpta2tDN0pJa0R6Z0ZBY0wtMEg4QWdpMlZiT2pSa1BxSGg4SFA1U1NF?oc=5",
       "source": "Revista Fortuna",
       "published_at": "2026-10-09T17:18:09+00:00",
-      "score": 54.13,
+      "score": 47.46,
       "corroborating_sources": [
         "Revista Fortuna"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7ddaa8fdd1f8c506",
-      "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdFFqVzlyUmd3QTYwTzd5WFlrQVpHeVd0OUhtZnBRaW52bmpzRE96Sk1WZWR5NHRxelJaV1pINXhJYlRTRUtHbDJKM2dDbHJUTEhJQnhIVnRucVowZDZVVkpPRlI5OWpQeFlISnJtWS1LSG8wdnV6OGMyR01MV2FQX3dGNzJtYXFpU0dQV0NEOGxpeUk1Q0xpcm4xUHpBMC1ib0VRd3VnbEtXczB6LVpqdmRMTXBFQlpEbUM5WTdqYXZaWVIzSVBBZlE1a25Pbmc5Z1A4eUdnZEVCWlVFeFBEZVpReUZwcnQ5S05FSkx6QnRTRjMt?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-10-09T16:08:04+00:00",
-      "score": 53.12,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8aae6a2fe855b34d",
-      "title": "“No existe un derecho internacional al aborto”: Gobierno de Abelardo de la Espriella se alinea con 47 países en defensa a la vida - Háblalo Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbW5QcUZhN0o0MEdQbHhFb1YzeGxLckR4enMwMDRBdkdRTWpEVllmNDB1blJtd1R6ZUk4TmI5dlBzdTlrSDdUTVctRGVUNFBKdmhQZWNVamhERlNRanRXNGMzLS1ueEd2Q3lJU2RSVjVnSXdSZ045bmYwa01mbmlQVkJlR1JFd210N01QVWR3NkJqTFZGVEhDSmlDNG9PekVSblJYcTNyUmRqRVpSR2s3RUp3dkJRNm8zeTRlWWQ5V0Nad0FfOGhtRnAtb0hhQVczbllOYXV3WU5WdXlkN2l0XzdBV2FRLUVwWTJ1THRwOUJZOEd2T1Z3?oc=5",
-      "source": "Háblalo Noticias",
-      "published_at": "2026-10-09T15:58:15+00:00",
-      "score": 52.98,
-      "corroborating_sources": [
-        "Háblalo Noticias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9b7a15685e7a6628",
-      "title": "Zanin nega recurso de Paes ao STF sobre anulação de votos de Garotinho ao Governo do RJ - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORm4xMmdmVFV0dHJBZ3BYNUFPanRFVGxEelYxbVZhMXJyNlQ0SF9UNzlfQURZZGVLTlo4dkFpVDlTWWprVnV6aHk5Q3dNNVdINXVYbVFvVlUxdmE3eXRBY1VBZjJRVUE3QmhQM05YLVdvTHhWU09BVjBDT2E2Q3BtanVXbW94Zy1lV1BtQ3NRcTFleElCMk5qZ0hZTkRrX0ZOTVpiN2ppQkdET3luQXNXVjJoV2hrTFJYM2RRenhBRjRId25PM0xDS2R5dzhiMG5QYkVz?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-08T23:48:00+00:00",
-      "score": 52.94,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6f182894d03c2b05",
-      "title": "SENADOR HUENCHUMILLA EXIGE AL GOBIERNO EXPLICACIONES POR LA FIRMA DEL ESCUDO DE LAS AMÉRICAS - Araucanía Noticias Temuco",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSlJCcFVQdFFrMEttdXIwQ0tHakxmcjZkczBQUG54eTlSWmt2WUZZS2FDdWZTRjROVEIzanNkbTZueWl3bF9zYXJHZVctaW5TUmxBNkEtbmVKckhJbEpOOVhLRkNob25xOUl6UFRJSjBPWUNaWG80ZmdDRVQ4OHQxTDlOd2pfVUhRMmZLVllRczRjMm1ITjNUVEtYelRKaDJLTnVYaWw5VC1aUDNnQUdDOVdVMTBjM3JpNjVNd3J4UGl4QkhhOG1zWDNnUHZUQk9fVlBN?oc=5",
-      "source": "Araucanía Noticias Temuco",
-      "published_at": "2026-10-09T15:02:07+00:00",
-      "score": 52.2,
-      "corroborating_sources": [
-        "Araucanía Noticias Temuco"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "95143e7329436b95",
-      "title": "Opinião - Paulo Ganime: Apostas e a palavra do Estado - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazF6VzZHOGsyQVVsbUNMeWoxTmM0TFVBc0M5anlvQjk4aC1YaE5OM0lKRzNHWG54b2VPRXR4RUtaZmsyX1NGT2lVZUZTVl9DNzd4Vkh0YWFBNjJwVmludE1aZXNjNmhlTnhZdzdLTVU0aV9jR1BaNERNQlJNYXo4VDZlOTZoeVFJ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-09T11:00:00+00:00",
-      "score": 52.05,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "22c6d73998074e92",
-      "title": "Israel critica Nobel da Paz para juíza que acusa país de genocídio - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0RTZUVybzRmN2h4U294YURCUFhlMWFDaFdwakszUjFkSi1tdnFUN0ljanY0b2lFUEN0Q3BvNlVOVDlfNVNmQXp2QXhmSGFzMm1nN2RURVQ0bnpCblJDbC14Y1U3OW13OFU1Wnc1eW5FWDg4UVZlaDRGU3Ywd2hocDNWSDhOV2lUU0pXNnctajZVU2tBT1JZLU1EMjJ0TXpwbmVIcEg3dnBQOHZtOTZueWhRWWtqeU9qWDBJ0gHDAUFVX3lxTFBFWXp4SDMtUE1udWo0VVpCOEpqNS03YVo5X2NIWkV4X1lyMERGc1M2aDZYaUlFc1RlNVRhOG1MdlAyUTlaZDVaTUoyWGxxOHhuREZDZXFGeVZCcU1vcERpb3ZleGh6ZHdyUFJsWlVsZGdCSlkzUkFwRmFxNTFIQWM2dmhlQkFiQk9uV2hKVzNMTUJmOEhIQ1dYM0U1alY1TE1lMGFRUkoxZ2JCdkpwX0pQOFJyY0ZjZUFfYmV4MURZLXR6VQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-09T14:17:00+00:00",
-      "score": 51.58,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "36541e50dd9f64cb",
-      "title": "Mario Frias articula volta ao comando da Cultura em possível governo de Flávio - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekpJOVJnYmFnYmJoT29EZ29uYW5SRDVscW9qSTJpMFppTm1FaGJaUkc1NjhIbnJhT29kZzVxU0laV0lHT2U2emVSNzI4dFo5QXBQYmN3Z1Y0ajM1aXJaVXRfOFhveXJwaTdPWk5RR2wxWUlTX2dpN1VtNVh5UU52LUIwTGVpTUlnUUtrNzk2Y3BJOGhEd2ZKVEdEOGlOS3BtbkFVVXk5anVlUHBhS2NfRVVIMWJwSTAwM2xMQWdHeDh1QnRtSXMtVElMRmo?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-08T20:49:00+00:00",
-      "score": 51.39,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bd1f77a356d43e9b",
-      "title": "André Gelfi | Para apagar o incêndio, é preciso derrubar o prédio? - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE1RbzdkU3N6RHg3R2laNEh2YVFrYjdSaF80RTdMQWpyRGk5SkFNRTRaTnprWHZrR19jdlpIbmZUQ1dYNkZHTlhoZk8zbTdoNlBEa0RvLVlFZ1I2S1dVNTdGdE1Yd0ZVT0NlNUdTVHlMTksycGs5ZFR3N29nMUloUE1mZzE5b1ZEY29aT0VTTU0?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-09T09:19:35+00:00",
-      "score": 50.84,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5176a25d966d67aa",
-      "title": "Equipe de Flávio prepara meta fiscal com referência em dívida e PIB - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG9HbG4tU2hOdXN3TjhCaVU2ellUTlFqcVhOQXZONFZ1NjVXT0U4N19aU21Mc0lvb0JpRkhRMTM3Z3V3OUI5ZkhTdTIwN1h6WGJSRmN5SFhyMEt2MHhSQjd0T2Y1cXd4d3Rxd1NJQ1NRRW4wbzYxTzJYR3lSd3JxSnd5azBNRmlyeHo1Vi1CMmFzc0pWeW5iTXBwTzJSTEJodHdJTlRUSU5DNUg1NFZoUQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-09T09:02:20+00:00",
-      "score": 50.64,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -416,9 +341,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFg0NmppWlJ0c3J3LVhDTFBPU0dXc1U1WkVHSDJwQlRMVFJnTnh4a0pmQzlNT1hiVU5rSDlzTG5wX2lKdWlyeTZnUXlsRy1MSlNVVzJab2J2VjZja1FXWWlCT190NHhSY3JUWGo0a2ExX1pDSEZyVmxiTU1ENWhJT2tXZ1dDTVUzZHBHeUZvWm5QakRiRDN0Vk1oVzloTVhFY3NXeGJmM0cwY1c1TFpZazhUWjc?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-08T18:33:55+00:00",
-      "score": 50.31,
+      "score": 46.76,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0f82ecc0e346dec4",
+      "title": "Deputados dos EUA acusam Trump de interferir na eleição entre Lula e Flávio - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejZfdndDX1R6NmZGQ2ZFWlJ3X09PNnU3bXY0X3IzZ05yeXphem0zSVhFdVFsemJZVGVxREVBOF9UWDFRZVF0NndNVmZUb1hVUXJkOEtWbk1xU2gwWXFSdFlvZTJWYUhWd0VzRHhyakRkUU0xY29JU1dza2p0X2E3V1RBYXFWYmxhZ1dfVkI5dE1SNEpySnhfaW9BZnBjSy16SXpLQlM2Vk9JREtw?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-10-08T01:26:00+00:00",
+      "score": 46.73,
+      "corroborating_sources": [
+        "Transmissão Política"
       ],
       "signals": {
         "source_count": 1,
@@ -431,9 +371,24 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2NRZVc4cUJCZmVfQXpDN0FaTk5OWmczelRaYnpIVlAyV3J6SlBabFVIZkYzTHROTkhuOHZiQ3FPX2JDbFRjUmp3Y1lpdEU1aGlEYlRPM0ZXTmIxakRsNkExZHVQaTVsRDktbDB1dUdvUzVaV25DZjlhbHBtdWFnekxJaGd0dlYzMkt6ZDh5T2owelFZMThwbk10b3lQR2FsUXVYeG9tNXh0TThYVU1sb25kVXdVXzJJX1FjbDhQa2FtQklnUEk4VW1nbDDSAdIBQVVfeXFMUDdzeXVxS0s1YlUzODVmMXFpS3BYTjBWMUgwT3FIanBISFBYRW5DNUxjM29OTktzM3U1ODk1X0JuSzhhME9nUzFBQnYtdkJzeHRWYkhkSXVfRW9PaHdzRXlKX2RQUGYzOWZiTnE0U0Y2ZjNwTjRTQXJra2xnM1ZrcmJEVXY3T01UWGhDMkQyb0hfNEsyb1ZLczdNalhON1c3aEJDSXNteGlpcGE0alBBWWxaeDBzdkpvbEdYNWJfQVRTaGxRZHVQZXl6bVFLT1M2bGt3?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-08T18:22:00+00:00",
-      "score": 50.21,
+      "score": 46.69,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7ddaa8fdd1f8c506",
+      "title": "South African-born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdFFqVzlyUmd3QTYwTzd5WFlrQVpHeVd0OUhtZnBRaW52bmpzRE96Sk1WZWR5NHRxelJaV1pINXhJYlRTRUtHbDJKM2dDbHJUTEhJQnhIVnRucVowZDZVVkpPRlI5OWpQeFlISnJtWS1LSG8wdnV6OGMyR01MV2FQX3dGNzJtYXFpU0dQV0NEOGxpeUk1Q0xpcm4xUHpBMC1ib0VRd3VnbEtXczB6LVpqdmRMTXBFQlpEbUM5WTdqYXZaWVIzSVBBZlE1a25Pbmc5Z1A4eUdnZEVCWlVFeFBEZVpReUZwcnQ5S05FSkx6QnRTRjMt?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-10-09T16:08:04+00:00",
+      "score": 46.66,
+      "corroborating_sources": [
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -446,9 +401,54 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0VmZXVTVTB5anNnTnA2TmY5dEJ6WVFubVo5ZVJIZkpHbXlXZWFJZ0dEZm1sMjI2OHNIeldCWm5RMTh1d01ad25zVFVnY01zY2VoMVNlRkRldkVXcWdPYi1aMnhsQnRlR1ZFZHVvRWdYclhFM05PVjJES21XTmJSYk5yTEVhTFRkbk9XMWc3SVdsbmNZWGhVdHBVTGZpMjljdmh2UjhIMkFWNU1MRjF6Qjd4OWFJM0hsZnNz?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-08T18:16:38+00:00",
-      "score": 50.17,
+      "score": 46.65,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "09956a534eb83f04",
+      "title": "Video: Opinion | How TikTok Warps Our Politics - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFFSbkxUek92S3dZaGszVWw2d0E4QTBHM282RTVJRDh6WllGaGVNZkdaVzltSEZSYWMtbmZuN1l0ZndNQThLaGVwdjVnal9tdDdsaVFQbzZUQlZUVkpTVEtyejBvNzhTQjRmelItZU5MYzFNNUhESk9LQU42bXNpS1JmNFZ3YkFNSGkyRUZhV1RkZw?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-10-09T01:27:04+00:00",
+      "score": 46.56,
+      "corroborating_sources": [
+        "The New York Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8aae6a2fe855b34d",
+      "title": "“No existe un derecho internacional al aborto”: Gobierno de Abelardo de la Espriella se alinea con 47 países en defensa a la vida - Háblalo Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbW5QcUZhN0o0MEdQbHhFb1YzeGxLckR4enMwMDRBdkdRTWpEVllmNDB1blJtd1R6ZUk4TmI5dlBzdTlrSDdUTVctRGVUNFBKdmhQZWNVamhERlNRanRXNGMzLS1ueEd2Q3lJU2RSVjVnSXdSZ045bmYwa01mbmlQVkJlR1JFd210N01QVWR3NkJqTFZGVEhDSmlDNG9PekVSblJYcTNyUmRqRVpSR2s3RUp3dkJRNm8zeTRlWWQ5V0Nad0FfOGhtRnAtb0hhQVczbllOYXV3WU5WdXlkN2l0XzdBV2FRLUVwWTJ1THRwOUJZOEd2T1Z3?oc=5",
+      "source": "Háblalo Noticias",
+      "published_at": "2026-10-09T15:58:15+00:00",
+      "score": 46.55,
+      "corroborating_sources": [
+        "Háblalo Noticias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "95143e7329436b95",
+      "title": "Opinião - Paulo Ganime: Apostas e a palavra do Estado - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazF6VzZHOGsyQVVsbUNMeWoxTmM0TFVBc0M5anlvQjk4aC1YaE5OM0lKRzNHWG54b2VPRXR4RUtaZmsyX1NGT2lVZUZTVl9DNzd4Vkh0YWFBNjJwVmludE1aZXNjNmhlTnhZdzdLTVU0aV9jR1BaNERNQlJNYXo4VDZlOTZoeVFJ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-09T11:00:00+00:00",
+      "score": 46.45,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
