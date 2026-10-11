@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-10-11T05:53:17.218036+00:00",
-  "next_update_expected_at": "2026-10-11T09:53:17.218036+00:00",
+  "generated_at": "2026-10-11T14:56:30.870728+00:00",
+  "next_update_expected_at": "2026-10-11T18:56:30.870728+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "4a8764160bce9255",
+      "title": "El presidente Donald Trump arremete contra el Nobel de la Paz tras el reconocimiento a Navi Pillay - El País",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWEF4WmpaNlkxRWg2M2YwaV94cHk4LWVqU2ZkTHIzZEV5Nnc4aGRvdDlXZDZFOHFGN3VPa21WeFMwV2hxaHkyM3lFWWNSTzREYURnSFBpYkhKTmZUVTF4aV90RWMzVHl4bWpxQzFKQVY0TEgyWnVNeXZ3RzJrT3JGZ2d2Rm1jUUJiT0d4OWYtLTg2RXU3Z1RJUlFNbjV6R0pWMWRvemwzd0hqMzVnNmpUbUlBeER4MGExQklVRS1SZDJlOTA1aVpkdmZTZThYSno4R2drODROTdIB3AFBVV95cUxOdXZ5U21ua0hOSHk2R25UQXlaNjFIc0NKOVZhQjZyYjBDT0loU3FxVVIyalZyYWtVbjJBYTd6UkhVeURMS0phT2F3T05oOUdNbHBQOFQ1T25WbktScXFaQzMwTUZ0bUVkd3VZLVBwbzcyR2djUXJTUWpzNGFkOXNHTWNxTTVXRVpEb0RyMzR4Q3NVMkVQT29NREVSQ3pmRFZ6VzZITnhGV0IxbU9jVnc0RUF0SEdWQVRocUhwNXNwN3pqOEk3amxTWlpxQ3c1VTNFYXM5YmJQTHpHVjJM?oc=5",
+      "source": "El País",
+      "published_at": "2026-10-11T09:58:00+00:00",
+      "score": 69.67,
+      "corroborating_sources": [
+        "El País"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7a2a37bfc5c4d2ce",
+      "title": "¿Por qué Colombia desconfía de Venezuela? “Washington se ha vuelto un tercero” - La FM",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNWFSS0RXd0owcXJKelJkOVFlUlE4RXRneTlLSEtuU3RkMzQyWm5VQjViSUh2UUlFaDY1RTB2a3plbUV6ejJBc0xyVDg0ZDFBdHlLUVkyc0kyWmxCZXRGazhIVjZDSk40MWUwcmU1dGJxTm00SVYwRkZ4bkxJUURBQUJqTUltNTMtTlRfOTM4M2NHeVExdUtrV1pjeTZWNUhTa295dVU4NEN2dG5NaWU5SS1iQWRHejZKbk0zNEtlZTFRTV9MRkZPQzhSaC1sY1Z4QTg4SzVqejQzQ0dFXzBDcVhyX25COVhQdFNYbDdjdWZfbmdLQkRDM2czZHc1c19HaUhUM3dOcHhrYS1DNmhuV0JFY2VJMGJ6Y0VsWjNUR1LSAaACQVVfeXFMTUpPQXpYR0hXSVN2clZSN1JaR09rRnB4bkJmc2xMS2pPWS1zRkVURzk2eHZ0amkzanoyQnpsMDdMN3dqOFJrVFRGdHlMN2JScndqdmxjX2lTdjdEVW1wdWhyb0I1NFB5RVlQeHRxWHB1WUNPV00ydjh3Z2RLRG9jdm0wemNxYVIzMEVuU2Rhak5ra2dMMFhzaTZoUmxlZWtvVDc4LVFxT19hd1FSLVl1VDZ3dFM0bnVuR1h4YkZENk41WkliaGF1RGlzaGxpb1dkamdUZFVYLXQ1RTNFTVRUcC1tX0RnS0tqQ2RfMUlCdmw5M3JLS1kxYlc5QWJzT2oyc21UaTNFay1FOUk3cE9vZElOWEEtcVZfaDlBeEUyNV9w?oc=5",
+      "source": "La FM",
+      "published_at": "2026-10-11T14:22:05+00:00",
+      "score": 66.77,
+      "corroborating_sources": [
+        "La FM"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "9730b4783ad61cac",
       "title": "Flávio Bolsonaro, nueva política internacional de Brasil - EL UNIVERSAL",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEx4MTBzdXpzZ0pwTFlRNWtsWmxSZ2R4Y2p6Q1YtbEhsTGI2M1hNNFRsRGhqLUxxVTFmeEtQbjhIeEt4TzN6WmxKYmpVQUdFZ2NpUVRPanRHanhPVDdrQVp2QVgtTEh5bDdWOXk0VEVLVXdjaHdBQkRFbW9qUnRRRE53YjdMNWUzYkNDME9GWkVGMS1HOW5PaHBuczZUbnR6Z3htcg?oc=5",
       "source": "EL UNIVERSAL",
       "published_at": "2026-10-11T05:10:16+00:00",
-      "score": 74.59,
+      "score": 64.78,
       "corroborating_sources": [
         "EL UNIVERSAL"
       ],
@@ -21,14 +51,29 @@
       }
     },
     {
-      "id": "4a8764160bce9255",
-      "title": "El presidente Donald Trump arremete contra el Nobel de la Paz tras el reconocimiento a Navi Pillay - El País",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWEF4WmpaNlkxRWg2M2YwaV94cHk4LWVqU2ZkTHIzZEV5Nnc4aGRvdDlXZDZFOHFGN3VPa21WeFMwV2hxaHkyM3lFWWNSTzREYURnSFBpYkhKTmZUVTF4aV90RWMzVHl4bWpxQzFKQVY0TEgyWnVNeXZ3RzJrT3JGZ2d2Rm1jUUJiT0d4OWYtLTg2RXU3Z1RJUlFNbjV6R0pWMWRvemwzd0hqMzVnNmpUbUlBeER4MGExQklVRS1SZDJlOTA1aVpkdmZTZThYSno4R2drODROTdIB3AFBVV95cUxOdXZ5U21ua0hOSHk2R25UQXlaNjFIc0NKOVZhQjZyYjBDT0loU3FxVVIyalZyYWtVbjJBYTd6UkhVeURMS0phT2F3T05oOUdNbHBQOFQ1T25WbktScXFaQzMwTUZ0bUVkd3VZLVBwbzcyR2djUXJTUWpzNGFkOXNHTWNxTTVXRVpEb0RyMzR4Q3NVMkVQT29NREVSQ3pmRFZ6VzZITnhGV0IxbU9jVnc0RUF0SEdWQVRocUhwNXNwN3pqOEk3amxTWlpxQ3c1VTNFYXM5YmJQTHpHVjJM?oc=5",
-      "source": "El País",
-      "published_at": "2026-10-10T19:19:53+00:00",
-      "score": 64.04,
+      "id": "d90f246c207a55fd",
+      "title": "Cazaquistão e Brasil ampliam cooperação e buscam novas oportunidades de intercâmbio - Brasília in Foco",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1ZtczhheXNiTXdoVG5LZm14d3lLS1liNEt5VXdVSC1ta1RtOVVvanluRFJMa1JEU2J4c0QzSnNzY3V1LWQ5eXJwUTZURnZ2NlBjQzZ5RUdWZ0w3NEpONHFzUkgzZ3F2b0RZT0FLejRaUDNNT2h2d1VYV0U5c3Rkbmc3aUxJWWN3Tm16UnFYZUdsVmtIS3NaZ0xyTFoxdEdlcWRURjdXRkNtOHQ1VG5lSQ?oc=5",
+      "source": "Brasília in Foco",
+      "published_at": "2026-10-11T11:58:48+00:00",
+      "score": 63.92,
       "corroborating_sources": [
-        "El País"
+        "Brasília in Foco"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1c9874c6112f6044",
+      "title": "Cuba rejeita declarações dos EUA sobre colaboração médica no exterior - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01oNG5hcjVuSDhmaXJrTWJNQm9KeVpSRzk1RXpWczNNVlhsaTZXRGhKM2FsZmt6MVJma28yaEg0WGlJVHZoQTNSb01KRjZMTmJSRDk4c3NsbXZvV21feFNOT1EwTEI2Z3NqMnFOdFJ5WURlNzR0ZVRScHFnRVVEWFNMRVNFYXAzdHJEaGlMZ1dvVWk2OHNtMGQ3RXZjU21CWWhVVmhqY0w3OUZoMGxiOWYybWtqZlhCVUJ2X3lBYkhFUTR1Rzgw?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-10-11T03:47:00+00:00",
+      "score": 55.48,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
       ],
       "signals": {
         "source_count": 1,
@@ -41,37 +86,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbXFUdGNUV1hzdHN6U2lWcTRFeHpHZDd5dXpsZzdRa1BVdzFraGZ1Y0NjUXExV2FRU1F2M21SWVFTSE5KVTBLTE1vU2d6azVWU1dIY3JheXJQWE1IRWJfS1NLaG5fUEdmdWw5T2pIdGhIeTVOZ09XQzNEMC1LSUhfa19YSzFBMGZuT25MUWk5QXREZkhCNi0zVkdDUDJTWFlKMWhHeW9OM1dRVzdkaGVKcXp5UHNIamZ1S3NBclJFQzJNb1dOU2xyVzlBcU5tUnhXZ0ZhaFJPOWctZDdETmNHZ25GTW5EUdIB6wFBVV95cUxNVlpMc1NEYTFUdEZna2JLajlsNWpVT2xvazlQREtxU3ZlcUZJVGlRYW9USkxYNDNTeGVUZnRlcjdIOGEtYjJtSWhMSk9ndnBWNGtvTzZtdGNta0pIbjhydFMtMGFJdG5jTmRwcElncTVqS05sNjRvOG5STlVoVms2S3l2ek5vYTVWZmdrTk8wQWM1Uk9ZQVZOSDFsYjd2ck94NTRHV2JIdlJSQ2FwZDlzQ3MxNHpuLUJtbWV1X1ZwcnpZOU9xRXhpZDd4MkZZNnVjanNrbDZvZzVIWGRXMEhuSEp5YTdZcUltckdB?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-10T22:08:00+00:00",
-      "score": 61.76,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "43ca3d19abb4e052",
-      "title": "Trump pide la renuncia de Zelensky en Ucrania tras ataque a refinerías rusas - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWI3di1SMFkxQ1B0VTV0bVBaNnRob1JSTWd1ZmFGR1U1WDVxNVlBeUd6c2NxQjk0QlRfcDVkTnBJbjIzYlR2RmN1d19pNGJUeTV1N3FNcmZKUVUzR2JXTzZVV2NwUFk2YW1PNEk3ZHBqNzVIdldmMmRUUDM4QVZVTDhsTzBiNVFaTDQtUVNCM1pnc1VVTENpckJRODFnUQ?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-11T00:08:32+00:00",
-      "score": 60.84,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7b519fa94bc1472a",
-      "title": "A mera expectativa do ajuste fiscal derrubou o juro real; se restava alguma dúvida, não há mais - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQV9Pa1BSaXFFamZxNmNZNHVSdGotYnlXdFlsMmw4WDdDc1VYNkN5SE5ad1J5TGVHcU5oWnNjQ2UtQndzbk5NdFpSelY3YjMxU2plU3A3a3kwWVlubVVELXRIQjZRT3dGLUk1TE1LcmFtYjFrRmpMakt6V08yRUVEdUNGMGlGWGpNZ0pYZG9TbVZTUV9QcHFNZUg5V0ZDRTJMZm4wdTNnOXhaenBLQm1Lcmc4bVlzLXBHTnZtYlBoZGxLMHlydXFoSG9UNHlNZWg4emJLdGJUbFFXdjdULWdmUTh0dWo5NDTSAewBQVVfeXFMTWxrUmp2STZFNHJvT1RvUTdqOUlQcVJod1dvNExNZG1CdWNWSm9tdE5Kb2F1UENPWW1ZVXVMXzFMY0kxVVFZckRmX1RCQ2M5Yjk5N0lfeVpHZmVJTC1iS1pxZ1NfNThOdHdhNlF1emMwY1doYm4ySmxpamhDdkJfeVI2RnlfSXZ5SUZ0eWtUYnlqQTE5M094V2o5LU1OTzFoSTJaZ1QxM2dEYVdsRVk5Uml6QWd4LUF5bkljSWlOSXYtZUFIN2EtWHJDX2VfeDFzb3NsLUpSaldhTm9Hcnh1aHFnVWROSG5ORUo1eTE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-10T20:00:00+00:00",
-      "score": 59.67,
+      "score": 53.69,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -86,9 +101,39 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzVrOHFybEFVTjBGVHQtaWM3bU9yaHF5UEpRUW42YzdNY2pUMFdIaTZJNjhFRWtzVzhXNjJiNDBMd3Bpc1BEcDViaUNEUEJNX0NMZ0p2WVBxdlVPenJjOTdLeS1PeGxGT3Zfb1U5TXJoZTY3MDFQS2I5SmFxc2JXTWxsaXh1eUFubHFCbDRJbWd0T2p6VDFKaGRBeDBRNUtVSjUtWTBvaw?oc=5",
       "source": "Vermelho",
       "published_at": "2026-10-10T13:56:00+00:00",
-      "score": 59.37,
+      "score": 52.94,
       "corroborating_sources": [
         "Vermelho"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7b519fa94bc1472a",
+      "title": "A mera expectativa do ajuste fiscal derrubou o juro real; se restava alguma dúvida, não há mais - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQV9Pa1BSaXFFamZxNmNZNHVSdGotYnlXdFlsMmw4WDdDc1VYNkN5SE5ad1J5TGVHcU5oWnNjQ2UtQndzbk5NdFpSelY3YjMxU2plU3A3a3kwWVlubVVELXRIQjZRT3dGLUk1TE1LcmFtYjFrRmpMakt6V08yRUVEdUNGMGlGWGpNZ0pYZG9TbVZTUV9QcHFNZUg5V0ZDRTJMZm4wdTNnOXhaenBLQm1Lcmc4bVlzLXBHTnZtYlBoZGxLMHlydXFoSG9UNHlNZWg4emJLdGJUbFFXdjdULWdmUTh0dWo5NDTSAewBQVVfeXFMTWxrUmp2STZFNHJvT1RvUTdqOUlQcVJod1dvNExNZG1CdWNWSm9tdE5Kb2F1UENPWW1ZVXVMXzFMY0kxVVFZckRmX1RCQ2M5Yjk5N0lfeVpHZmVJTC1iS1pxZ1NfNThOdHdhNlF1emMwY1doYm4ySmxpamhDdkJfeVI2RnlfSXZ5SUZ0eWtUYnlqQTE5M094V2o5LU1OTzFoSTJaZ1QxM2dEYVdsRVk5Uml6QWd4LUF5bkljSWlOSXYtZUFIN2EtWHJDX2VfeDFzb3NsLUpSaldhTm9Hcnh1aHFnVWROSG5ORUo1eTE?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-10T20:00:00+00:00",
+      "score": 52.07,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0c03adc632256fda",
+      "title": "¿Está poniendo Trump la política internacional al servicio de sus urgencias electorales? - El Nacional.cat",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGNPbnNTaU5LS0JEVzFXMzdONnBONHpER1EwX3Bmd3dQYlVyaEgzcVl2U2FjN1VwVnlHOWVHdHg3aHd3cGRqR2tid051VFMwMm1lMlk1ZzJNWjFtMS1zZDU4VnlCLXdqdmxwLXJIRUxzeWo1MUpqT1NiUTZidFRfRE5PanhCUmw0d0hoVEpFN052Q3g3bTN0Tmt2MEoyWloySUdEREM0YWtZd21adlM3SkVienlJSno1R3pVREJjOFR4Yk83VWY3ckUtRnp5c3NsYVBabw?oc=5",
+      "source": "El Nacional.cat",
+      "published_at": "2026-10-10T10:18:07+00:00",
+      "score": 50.79,
+      "corroborating_sources": [
+        "El Nacional.cat"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2gxUFp4SGNrUExJVFp2bHVjUU5HU01xd3poblRIM2RXU0p4dFNNWDhubDFVRUFuWjZodDFyek9wR1Rub0F2Qjl1SWtsN2lBWjNJV2c5TjJvUFJNMEZHZVdBSEk2R1JUaFEybGtCZTVBQi1ocVdYQW1jMmtLWUR3ZWphYWRxRDlnOW54TVE5QjVaTC1tNWhJYlhlQUpxdGkyWEdMX1ExdzlVSUt3eGs2N3dMUdIBuAFBVV95cUxNZjk0Tl9OT3lrZ1J2aXZOeWRyc1NnWmo0UHl4SXRLWDhKMTlrRThMYWR4bWNSc0thZDE3TWI4V05HY2Y0ekgzcG9sdnpXaHozY2VSTU1PMm5IaDRKbk00bXc4dUZMVzBUdzY3RVhTRnh0MnVWSUxKaldvMjRrMUZBYzJwWjVJODVfaDNieEhGZDd1Mm85eFJSVWdNbHhQM3RxRmtSeUNtbmNDVlZWbkZFMTNNaDRRZmo2?oc=5",
       "source": "Cadena 3 Argentina",
       "published_at": "2026-10-10T20:57:59+00:00",
-      "score": 57.6,
+      "score": 49.79,
       "corroborating_sources": [
         "Cadena 3 Argentina"
       ],
@@ -116,54 +161,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1pMUzI3OEJ0RW53WkxwbUFNZV9qdnRGU1U4ZXo5WURLb1p3bjZ6ekNUOXRCaFBuakVhWEhaTWo1V01KV05XanAwQVZ1cXhzZEptTExaMEMzb0RKSjcwdWdXcGxoeDhYVXFCRFVIVHUzdFRBVmNpcnlISVE3UmlQVDZOSTZGT1l1REV4SzQ5OTUwWTBreXFPbWdSOV9WS0RZR2gzaWlTelh1MjVnRmNyYg?oc=5",
       "source": "BajaNews",
       "published_at": "2026-10-10T20:37:15+00:00",
-      "score": 57.26,
+      "score": 49.53,
       "corroborating_sources": [
         "BajaNews"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1becf681b16434f5",
-      "title": "Trump considera “increíble” no recibir el Nobel de la Paz y presume logros internacionales - Ríodoce",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0RwYXhaSjlqYVpnTnhBTUxxb1lSdzB5WUdUZjB6TFFLNjdWWFgzY0tYalplbFJVNzRGWGxpSF8ySnhqYXBGc28wZVBFSVNNd01SUzRVOURwT0ZnMVpjQVZoc3B2QXJlWlRBS2Q3OEozMXAwaTdBTm1ITENvWEVQMGp3a3BhNUtMNGhJRzJxWnBoeF9mNDhWaW16ajctTncwMjdiTXNuYlo0a1lDT01RNnhzWUpjTHY5UWhz?oc=5",
-      "source": "Ríodoce",
-      "published_at": "2026-10-10T20:31:02+00:00",
-      "score": 57.16,
-      "corroborating_sources": [
-        "Ríodoce"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "28a9eca1550ccaa2",
-      "title": "Trump ve 'increíble' que no reconocieran sus logros con el Nobel de la Paz - Diario de México",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3FLTFlXWEVNaEY5MnVBMmFCNDczcTlGQ3B2Vy1xZmJoek1CaWVFazZVakVDdV9UaWVuby12eURUWi0xN2l3UHZpN0E2dXRsaG9mcDJnbWd1YjloNXJ0ZXlHZ1ItTUtSWjFhNkFfTmFEQVZxd25ub0hpdmVpNjlOM3BWR3VtUG1uQXZndDZ1dWJlNmZ0OGJyT0l5X2jSAaIBQVVfeXFMT0x2MGlzc3JJWVpwcDRvTDRHM3VKalJuOWVtODJCMzRCRW45MXlyNWU0X2RaWjN2eDRGMjhkSWJ2cmNNR3prVGZhQ1NoTnh6LU5wLTliWHB2TE9WNF92QldkdU9XMDY0aGxzeW5BZlhRbzFYbW81QjdPeUxYM1hiQWRGWjNZZ3l6RFQtM2R3Y01DZ3VlUzRwR1hZa2hSYnl2Ml9R?oc=5",
-      "source": "Diario de México",
-      "published_at": "2026-10-10T20:15:46+00:00",
-      "score": 56.92,
-      "corroborating_sources": [
-        "Diario de México"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0c03adc632256fda",
-      "title": "¿Está poniendo Trump la política internacional al servicio de sus urgencias electorales? - El Nacional.cat",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGNPbnNTaU5LS0JEVzFXMzdONnBONHpER1EwX3Bmd3dQYlVyaEgzcVl2U2FjN1VwVnlHOWVHdHg3aHd3cGRqR2tid051VFMwMm1lMlk1ZzJNWjFtMS1zZDU4VnlCLXdqdmxwLXJIRUxzeWo1MUpqT1NiUTZidFRfRE5PanhCUmw0d0hoVEpFN052Q3g3bTN0Tmt2MEoyWloySUdEREM0YWtZd21adlM3SkVienlJSno1R3pVREJjOFR4Yk83VWY3ckUtRnp5c3NsYVBabw?oc=5",
-      "source": "El Nacional.cat",
-      "published_at": "2026-10-10T10:18:07+00:00",
-      "score": 56.59,
-      "corroborating_sources": [
-        "El Nacional.cat"
       ],
       "signals": {
         "source_count": 1,
@@ -176,9 +176,24 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmdRVXdSRG5kUjh3Y2Rhb2haTDVPNkZkd0hRVjFGYk9LZmk4U0tSblJNVnJPeTNoUnJMdFdMcFdYeDNTczd1TWR4VmxHcGNFVHhfMDlUc3lkYnAtaVM3c25FbnQxNmFtaVgzWUpRQ3dBU2EwNVhqeHpSQ2t0VUF3cFB3M3lPQnRsblhTaGdYNkVLM3B2d3VSWGdHNlZyVjVNdnFaQl9YbHlocHpLNk5TM2s2UTVvTlhkTkdPMtIBwgFBVV95cUxPTW91cW9SZDRfM291VzJtdGtmVy1Nb1lTaFcwV1VMTFlPd0RiTUVLSHZVZkFTV3hPb0VrS1FYRVhCQWdkaFJoXzBGWjAyeDF3d0U5THZ4MUpYT1RXeXZ3dFJYeG1JQndkT293VzBuRHNDbDFITDI1ZTFmRjRYRU9BZDFlLXRCSDc0dzdxNDhkZHZiTUl4US1TVnBSSFA0UUNVWm5oQ0g3cF96Uk45SlBJR3JXUTViRGxRWDRidXBfUlc4UQ?oc=5",
       "source": "Cadena 3 Argentina",
       "published_at": "2026-10-10T19:30:23+00:00",
-      "score": 56.2,
+      "score": 48.7,
       "corroborating_sources": [
         "Cadena 3 Argentina"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7c21b2d2cbd68e4f",
+      "title": "Justiça italiana marca nova data para audiência sobre extradição de Carla Zambelli - Rádio Metrópole",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnZSNkViTUFOcC1kRWw1S09DRGdmM0Q0WG1OdFVveXVkRjdMaEY0UW1HU2NCZzZmS1ZNVXd4VVROa3JIMWxxU3k2YktURmJSNzlzMnMyTHNXTy1jS2lHUmJyZnM4eDByd3FTTk1RdFFZQnYxZWNjM3lIQnBHamdEUXdUbW9Fc25xYWdxQldhSC1IdXVnM2ZHV2Q5VUd3RUZOejdCYlhrNXR4bmNnaGhlakJUQ0xqb1F1SjVvRjFXX2dGMGFMV2QwZ3YwOWJVdw?oc=5",
+      "source": "Rádio Metrópole",
+      "published_at": "2026-10-10T14:49:00+00:00",
+      "score": 48.5,
+      "corroborating_sources": [
+        "Rádio Metrópole"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX25BbTBTQXkwaW16c0U3RnM5N1drZFZHaE9zcloyZTFWck4zbFk0VzJUWTdQVkJWb29uRFpRQl8wblZmMnhCbFZqaGc5S0ozS21ZX0VnZFFseDFFb1ZRSUdTUnBTM2FDa0JjbWdWSmR5RDZLV1JERFpLRG9PQ1FQSE02cHFBbFlPM0tUVFF5YW5Ici1qN2Z6azZiVVF6VGhMRHhzeGdrOWhtWVpkQmlnc3AwbnJlaExlcHfSAdQBQVVfeXFMUFlMakZNTGlSdWY0RjBXR3FKemNoMDkyb1VZVEwzMUJnSEJhaHlKTFd5R3R3b0JjVHdlYjdvWGVuV3N6Nl8wd3dUeWJDWnJYSzBTQWpCdGZiMU1zWFA1NHE2dHFzcnBza1NRX29WVUx1VjF1SWxGZExfalNNLU9xR1hMb0RkbThLaGQzMW5NNVRLR3l0S3RwV0d1UnBVcWliRGpmYWRtX3FrWktBd2lrVXg3NE94MmFLZGgtOVJERlFBdUFiMk1Gc3JoQ2RhWFhITUxlRnM?oc=5",
       "source": "Infobae",
       "published_at": "2026-10-10T18:47:34+00:00",
-      "score": 55.54,
+      "score": 48.19,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -206,24 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PXzBKbkt2OW9ibWlLMHpKRjZMQnQwSllyTnBMU3pzdFJUazZocWJER3FqcmhtUmhUUzhyeDVmUnItRWxscVlTMi1qWTFtbmdUWkRyV2FFZFlhenRxZ1E?oc=5",
       "source": "وكالة الأنباء الصحراوية",
       "published_at": "2026-10-10T18:34:47+00:00",
-      "score": 55.35,
+      "score": 48.04,
       "corroborating_sources": [
         "وكالة الأنباء الصحراوية"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7c21b2d2cbd68e4f",
-      "title": "Justiça italiana marca nova data para audiência sobre extradição de Carla Zambelli - Rádio Metrópole",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnZSNkViTUFOcC1kRWw1S09DRGdmM0Q0WG1OdFVveXVkRjdMaEY0UW1HU2NCZzZmS1ZNVXd4VVROa3JIMWxxU3k2YktURmJSNzlzMnMyTHNXTy1jS2lHUmJyZnM4eDByd3FTTk1RdFFZQnYxZWNjM3lIQnBHamdEUXdUbW9Fc25xYWdxQldhSC1IdXVnM2ZHV2Q5VUd3RUZOejdCYlhrNXR4bmNnaGhlakJUQ0xqb1F1SjVvRjFXX2dGMGFMV2QwZ3YwOWJVdw?oc=5",
-      "source": "Rádio Metrópole",
-      "published_at": "2026-10-10T14:49:00+00:00",
-      "score": 55.08,
-      "corroborating_sources": [
-        "Rádio Metrópole"
       ],
       "signals": {
         "source_count": 1,
@@ -236,9 +236,24 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRWpUMy1sdkZ5dmpEcGtvNTRidTVkdGdwQ0hacnhoX244Ums0cXJmTFdsMnhLbWZjODhTVEk1WDhmZ3oySFR3MWhDSzNMZEMxdEJyWHgxSXhQMXNEZlZ5ZzF2c0ZRcUtXQzJ5YjZfM0k0TExLeUI0c3VCMER2RzBsRllSdnhOMlJzdGhTczF1STZNSlQtZlZQWlNFdHZfMHdBbmJiZUxMdWpRLTF0QVZGMFp4OWJZdlZPR1FTdU9uWWlpN0ZPQXRKQ2NwRjNCYi03OTl2U1Vma2xCZUNqYjE2bVIyZWdUeU1DR0FrZFpzVUg5UQ?oc=5",
       "source": "Cadena del Mar",
       "published_at": "2026-10-10T18:01:22+00:00",
-      "score": 54.84,
+      "score": 47.64,
       "corroborating_sources": [
         "Cadena del Mar"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b512c1b954ac5153",
+      "title": "Revista Veja acusa governo de desinformação em matéria sobre novo áudio de Vorcaro - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXJsRzNqREZNRm10S0dIVHJ5ZHBDcTF3Ymk4SWRTLWg5UjdWS3BuSkpnTW5GVmdnN1o0THBrVHkxRkhRekI5U2dhVkNtVUZBVGxQRzBtS2lnaXBsUkFtLUdUeXZvOXlMaUhJQlBLdE5PaWhGLVVxMUZMUU50TmFQWktiYk1GazNLNDR2RlZDRQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-09T20:54:18+00:00",
+      "score": 47.48,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -251,84 +266,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazZxTHVhUGV3QWNEVUd5emVGTTZ0WFdENzUyQVhXUG5OdGpCMlRhSGhhSDR3RUN1c3ZEZE1GMDZkeG1leTlYZ3VPeHFtUHZiMkVVcVZETFlIUHp0bjBnUEprNm85NnVJbzQtcWNtc2Rxa1R1dWM5S1d4NXBIcHYwZnkxQ1FlMkhyNzBZVUl1VjNJY28xeElxeWNINk5RUk9CNDRN0gGjAUFVX3lxTE9rY3hGakYxejNnWE1hM2xsUEhBX1Q5dm5Kak4xQ1JXZ0lDR0hYdUpFMEpIaVB6Uk1oTFpvZHJJOU5PYTZxZnh1VFkyX3YwRER3cWd6QVdfaVhxTndpczJHU1RyMi1KdVlkMzdrWWVVYktYVzlEbnFlclBJTGFsMURRQVZ5Y0trdVFrWEFjVUhCVE5nTHVHX1ZwRnBUV0xLRmR2ejg?oc=5",
       "source": "Expansión",
       "published_at": "2026-10-10T17:24:42+00:00",
-      "score": 54.3,
+      "score": 47.22,
       "corroborating_sources": [
         "Expansión"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "81234cc693dc09d1",
-      "title": "Senador Cochi exige agilidad en designación de embajadores - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNGhFZllBUWFoVExOUTl4MHpvb2tycTg2YmxFOXNhZ3VYOGtvSy1PR1ktOEI4VENFOWgyei1pZEMwUlVtaWJyQm9FWkFTOTRkS1pIbmlkM3JNa0c2cG93MG93VDVrSk5XVVR0WDM2SlhlMkNzNWZpY1dLYlBJbWtEYko3T2VWb0tLNU1xb1l0Zw?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-10T17:07:40+00:00",
-      "score": 54.05,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f5518812a9904405",
-      "title": "'Que ninguém venha a Aparecida para alimentar divisões ou animosidades', diz arcebispo - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSzd6MmI1STVBUk41cFVqQ1drTTZkLWdEWTRDNkhleXJvMHFzbWVuZDZkNGhUSjJoUGdFWFdGamVaNUI0R0dSZmVMb0piX2o2M3liZmtLVml1czhaTTRiTUpMTTZlSnZZVnlRY2szMjZKclEyOU5tZmFSTWRwVm55Y1VEaGlkdi10VjNMS3VaUVpmX1RfZVQ0ZVhkcWpaeWw3RVlKQ204VGVPQWNUR24zTVd1dFNyZWNYZzdmYXAyOWRMSTVjcG9RbjZURFdCU3k0NThF?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-10T13:00:00+00:00",
-      "score": 53.63,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5850646f3ba98eef",
-      "title": "Donald Trump califica de “increíble” no recibir el Nobel de Paz y cuestiona a la ganadora - Noticias Caracol",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEdaanRpb1RZZkQ4M0s0X25YdF9VbDNyTzl4Yl9FRmVhb0lNVHNNUnNlWDFBdmpZMnBKU1NUclZCdTFzNk9JVDRoekxJckVCT1c1Y3hYSkxxVk9wQ2d4ZWprc3NxcjFQdjhBdU5ISG9ob0hBSDh4M2NrX2g0SzBOaUtTbkJibklqX3hGUE40cWFmQlV3STlrTHlkSzB6Qzd3b09KdTI3TWN0VGxJSEVucjRRM0tVTU1fZU1MSWRDZmpvcWtDT2FRcXNB0gHXAUFVX3lxTE5zcHpvS2dENFhzUTFsa0h1UUExZTR1M0pwbUZ3d1RISndmSnQ0SUZPMklNRVFlX3VWQ2VuX2pwd1lFWHROQ3lXY3ljZV9ucl9OY1c0N2ducDBpSjVpUmNWM2lrLTB2M1NvX05FaXNlMWJQZUJLZkk3U3JSNUVDbEZybVFzeEpSeFFLVXFLbU41NWQtSnY3OFVMVmxIcUhZcWc2MmpmZUVQdWNJdktjN3d1WkVPV1NNQno4ODZCSXhKNHNOZXZmZ0NKSndoTVZGMkx0NENlQVJV?oc=5",
-      "source": "Noticias Caracol",
-      "published_at": "2026-10-10T15:36:58+00:00",
-      "score": 52.75,
-      "corroborating_sources": [
-        "Noticias Caracol"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "28a34c7233cb28d6",
-      "title": "Donald Trump lamenta que el Nobel de la Paz no fuera para él ni para EE. UU. - El Universo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREZ3ZHpqenhQYlhPcjRFcUZEWDdWT0QtV1VRVHlyU3c2eG82aW5CRFg0cXljQUtDQ1BrSEw0dm9PMFdTUXA5bnRhTk1EenVySWhlTE0td2QtcU1jN1hZUk1iUXhtTHZMLXBGczBfRnFYSEdZVGMtNkszZUY0ejZsbTVWN1FocUI1TDdkQzRlUzc2U1I4Q3VyaDBKRVg3MFEyUFB6bmt4VS1LS2VwZ0VodkpLOTlleFFtTzZaQ1hYYW56dWQ2OFl1V2N5YV93RXZfa2fSAeYBQVVfeXFMT1dLeUJaVU1tejY0REJ4akJuQWRJTEh2ZFQ4VVMzN3VaQ3VoRG9hdzlRNXVhaUVTOUkzRl9DcE94WGowdWNLNUJhU3hfTXkyY3N3NVJVbzh4ZE9tLWs1WUJwWVpzUjlLNGZreFRXRF9LTUd0NWs4SVZNSmFWREgxWjFuMjZ0UE1LWUlWX016TzhLOWg5a0YtTXVYSVRpRlBlQTdUdHdaSjl4YXppTDJFOFVfZExmaXczS1AyeFVnMHZxbU10bng1dzVHY2lic1pFVHNsbWtOTENMTjlCVnRzLV9ud05KcVE?oc=5",
-      "source": "El Universo",
-      "published_at": "2026-10-10T15:30:00+00:00",
-      "score": 52.65,
-      "corroborating_sources": [
-        "El Universo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dd0acae1201eb043",
-      "title": "Tarcísio questiona Lula após áudio de Vorcaro sobre filme - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXQ0VDhBSzZhNzFpQ2U5dEFPSVUtYzhEaE5TNnNpMV9SbXdjd2FGZTdncnJIWXY5VFRtVGRhR0JPdElFQ1lGOFNxcVlCdTZtVXVYV1c0dlBRREJpZGNuNTJPMTZvSFRnVWo1cnQ4ejV1NVFRRUJVcGNmYXAteXd6dTZITE9xZ0VxZVhxNWtPQUZYaTl3dnk1czhBSDN4XzJQS1pidlpTVFgxQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-10T10:59:03+00:00",
-      "score": 52.09,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -341,9 +281,54 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDJPUW9xRzlZV3c5WWRuR2JYTlNFcjNSS0NDang5VEdvZWEzdWtWcmtsMW9YU001eEpyMHE1cjdfc212b1RISWw5dzV1N21WRG1zbEFmZU5CZFBIQjBXSjdaWkNrYzBSaUpHdkVHRVRubDhvMTFYQUJScXQxMUFMQmVubzYxYkpuU2VzUGhhQVhpeFZyS1JpUUQtYlZ0V1dNaERrQ0ZjRnFzN0F1ZHFnZWIxc3BpZTVmZ1lMcTM3dGNwUQ?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-10T03:19:34+00:00",
-      "score": 51.99,
+      "score": 47.21,
       "corroborating_sources": [
         "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81234cc693dc09d1",
+      "title": "Senador Cochi exige agilidad en designación de embajadores - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNGhFZllBUWFoVExOUTl4MHpvb2tycTg2YmxFOXNhZ3VYOGtvSy1PR1ktOEI4VENFOWgyei1pZEMwUlVtaWJyQm9FWkFTOTRkS1pIbmlkM3JNa0c2cG93MG93VDVrSk5XVVR0WDM2SlhlMkNzNWZpY1dLYlBJbWtEYko3T2VWb0tLNU1xb1l0Zw?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-10-10T17:07:40+00:00",
+      "score": 47.03,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c54ddd9f4e722ede",
+      "title": "Xadrez Verbal Podcast #478 – Política externa brasileira nas eleições - Xadrez Verbal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHU3bnZycncwZFl4cmI4ZkpyZzlRQm9hVkhiUkV6dU9mQ0dHM2xJZmFEenFHVTdUMFRZWVhXMEJQX0psTXhyVEZhdnY3WUtSclUyOVprQ1ZtaWU0ZFRDeUVuT0tjUVZrUl9PT0Y2cXUwS0l3WVVLTkdrZkdfM2U5NGZBTW9iVXVEV2d5MzRUZHBDX2hRVWV6UUV3eWdkV2tiWUxreF93?oc=5",
+      "source": "Xadrez Verbal",
+      "published_at": "2026-10-10T01:04:29+00:00",
+      "score": 46.19,
+      "corroborating_sources": [
+        "Xadrez Verbal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dd0acae1201eb043",
+      "title": "Tarcísio questiona Lula após áudio de Vorcaro sobre filme - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXQ0VDhBSzZhNzFpQ2U5dEFPSVUtYzhEaE5TNnNpMV9SbXdjd2FGZTdncnJIWXY5VFRtVGRhR0JPdElFQ1lGOFNxcVlCdTZtVXVYV1c0dlBRREJpZGNuNTJPMTZvSFRnVWo1cnQ4ejV1NVFRRUJVcGNmYXAteXd6dTZITE9xZ0VxZVhxNWtPQUZYaTl3dnk1czhBSDN4XzJQS1pidlpTVFgxQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-10T10:59:03+00:00",
+      "score": 46.18,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -356,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbW1EQUdhcnQwcHk4UXFWRGJYWDZiajhoUTFSeVg2MnZSdTV3ZGpGUlA3Unc0UjJEN1FSSWFxRzNEdTl2dkZiRDd4SnRINEhTa09CU3J2WGdiS2FLdE5YWG4zX0lSdm56V2JsR0haQUE0dmRJQzRGRlE0SzNnbWt4NlZxb2FyV1gzWDROTUhsVUlmWWoyOFlJNUpidUY0SkwyRzB6ODRRVUV4UTBTZGRQeUxRTUNxYUxQT196ZmxCUlBxQXFnVmhaYUlzX2lxWTItSnRrTFFfQl85QQ?oc=5",
       "source": "UOL",
       "published_at": "2026-10-10T10:48:04+00:00",
-      "score": 51.96,
+      "score": 46.07,
       "corroborating_sources": [
         "UOL"
       ],
@@ -371,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1VEMG1hdjJBNFZJSnFfMXRLX0xKNDltQUNlbTJyM01BSjBMQUtMOFlCckpGRVlrOXdwSmI0OU1uaGsxRkJFRUltWFc0OFVoRFRXazg3UHBheXlDQkJ0SzQ0bzhkUU5qbEZYSDVxOXZDVHZnQ3JRdkQ0VVdTU3JWcF9qT0ZpVkJaVU41UHItY19Xc3g2NWJJWW1GQ2RmdkY1UktWVWlBZm1lb2EzS3YwdtIBtgFBVV95cUxNREdXSU9oSlhHMnVnRlJOek92UVBWWHNFRW1BZzBNVGRZeG9TRE5YVHlIZDZ6enNKOVhPRmVMbUxCZWEza3R2dzZOYXlBVy1rb2hiZy0weHZKRi1yYU4xN2FMbXlEVmZ4QTFYWldaU3BfelNkZGpyMWVhOFFuS1lVQnd4RTMtOUxUVnMyZ2g3c1FGeDZDX1hXeXA2bGhIWk0yT2Q0alhGc19OdGRXR1lUX2NkalNhQQ?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-10T10:44:20+00:00",
-      "score": 51.91,
+      "score": 46.03,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -381,59 +366,14 @@
       }
     },
     {
-      "id": "b512c1b954ac5153",
-      "title": "Revista Veja acusa governo de desinformação em matéria sobre novo áudio de Vorcaro - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXJsRzNqREZNRm10S0dIVHJ5ZHBDcTF3Ymk4SWRTLWg5UjdWS3BuSkpnTW5GVmdnN1o0THBrVHkxRkhRekI5U2dhVkNtVUZBVGxQRzBtS2lnaXBsUkFtLUdUeXZvOXlMaUhJQlBLdE5PaWhGLVVxMUZMUU50TmFQWktiYk1GazNLNDR2RlZDRQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-09T20:54:18+00:00",
-      "score": 51.48,
+      "id": "5850646f3ba98eef",
+      "title": "Donald Trump califica de “increíble” no recibir el Nobel de Paz y cuestiona a la ganadora - Noticias Caracol",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEdaanRpb1RZZkQ4M0s0X25YdF9VbDNyTzl4Yl9FRmVhb0lNVHNNUnNlWDFBdmpZMnBKU1NUclZCdTFzNk9JVDRoekxJckVCT1c1Y3hYSkxxVk9wQ2d4ZWprc3NxcjFQdjhBdU5ISG9ob0hBSDh4M2NrX2g0SzBOaUtTbkJibklqX3hGUE40cWFmQlV3STlrTHlkSzB6Qzd3b09KdTI3TWN0VGxJSEVucjRRM0tVTU1fZU1MSWRDZmpvcWtDT2FRcXNB0gHXAUFVX3lxTE5zcHpvS2dENFhzUTFsa0h1UUExZTR1M0pwbUZ3d1RISndmSnQ0SUZPMklNRVFlX3VWQ2VuX2pwd1lFWHROQ3lXY3ljZV9ucl9OY1c0N2ducDBpSjVpUmNWM2lrLTB2M1NvX05FaXNlMWJQZUJLZkk3U3JSNUVDbEZybVFzeEpSeFFLVXFLbU41NWQtSnY3OFVMVmxIcUhZcWc2MmpmZUVQdWNJdktjN3d1WkVPV1NNQno4ODZCSXhKNHNOZXZmZ0NKSndoTVZGMkx0NENlQVJV?oc=5",
+      "source": "Noticias Caracol",
+      "published_at": "2026-10-10T15:36:58+00:00",
+      "score": 46.02,
       "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "63917bfd67107a82",
-      "title": "Trump’s diesel deal with Putin is gift to Russia, says Zelensky - The Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMndMSlVsNGpEYXNHTFQxSHFtdlpTLThfNnppYXdGZHg0MGVzaGNNc3NhYVNqWnRZQUV2RS13b2VkZFdLWHktQWRUYnNzTFFkZWlUTkE2SnY4eEN2eF9qY1dNTWNYQnU2b2h3Qm9Yckt0eGo0VkJjeFF6X2RVSlhHZzFmMDc0LVhHYVI3WEl5eVZFd3g4YjZLemJRYw?oc=5",
-      "source": "The Times",
-      "published_at": "2026-10-10T13:56:38+00:00",
-      "score": 51.37,
-      "corroborating_sources": [
-        "The Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c4430bc1839cbe1c",
-      "title": "CEO da Ford defende parcerias com empresas chinesas - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmkyQl96ajNlbWc3eTFsZTFtcW1raE5ZdWpheF9WMm5rQ0tiUVVud2Q5RkRwNm95S0pTZFl1Wm1MR21WbDlzMzdnRGxQUDlZTEJ2UV9uZmJWRllLNlVHYzFJWlpoZW9JSld5ZUZVUVpTUDhwZmVOb2VPWDNmN0VGdl9uN1otYXpfQUN1b1F0elB1d3pUMmNPYWtjRmNBNzVHanc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-10T09:03:09+00:00",
-      "score": 50.7,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c54ddd9f4e722ede",
-      "title": "Xadrez Verbal Podcast #478 – Política externa brasileira nas eleições - Xadrez Verbal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHU3bnZycncwZFl4cmI4ZkpyZzlRQm9hVkhiUkV6dU9mQ0dHM2xJZmFEenFHVTdUMFRZWVhXMEJQX0psTXhyVEZhdnY3WUtSclUyOVprQ1ZtaWU0ZFRDeUVuT0tjUVZrUl9PT0Y2cXUwS0l3WVVLTkdrZkdfM2U5NGZBTW9iVXVEV2d5MzRUZHBDX2hRVWV6UUV3eWdkV2tiWUxreF93?oc=5",
-      "source": "Xadrez Verbal",
-      "published_at": "2026-10-10T01:04:29+00:00",
-      "score": 50.69,
-      "corroborating_sources": [
-        "Xadrez Verbal"
+        "Noticias Caracol"
       ],
       "signals": {
         "source_count": 1,
@@ -446,9 +386,69 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVQ5NzhmeFFNci00NkIxdmx0YW1icTlqWGZGZzVTOGUzV0ZxMWZtdzltd2pSYkdkRDdFVWxteWpoaHBkUmZWQ0tHV3ZBMzRVWDlLM0tlT05ERlhiWEgwRGQzelJ5N05FZy1DRmJoWkMtT2l2WjVCQU5CV3VqaE5IUjJFanZkUUxIME9rbTNoOE5HM1d4cktoZw?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-10-09T22:56:21+00:00",
-      "score": 49.52,
+      "score": 45.29,
       "corroborating_sources": [
         "World Politics Review"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c4430bc1839cbe1c",
+      "title": "CEO da Ford defende parcerias com empresas chinesas - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmkyQl96ajNlbWc3eTFsZTFtcW1raE5ZdWpheF9WMm5rQ0tiUVVud2Q5RkRwNm95S0pTZFl1Wm1MR21WbDlzMzdnRGxQUDlZTEJ2UV9uZmJWRllLNlVHYzFJWlpoZW9JSld5ZUZVUVpTUDhwZmVOb2VPWDNmN0VGdl9uN1otYXpfQUN1b1F0elB1d3pUMmNPYWtjRmNBNzVHanc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-10T09:03:09+00:00",
+      "score": 45.09,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "06e8d26566e37d04",
+      "title": "Instalan en el Parlamento Europeo una escultura de Donald Trump desnudo como protesta satírica contra su política exterior, climática y visión del poder - El Imparcial",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWmh0dnZhaGRPQmJtb1FYUHFBSzd1T3NBVDN1aFZlaUVCOGJhYzU3SlVySlRRVWVaREtEU0FlMEtRMU1hZ2dCNFdSSER5b2trYXFwM3l1V3o3Q0dvc1QzZDFjWnMwX3Zxd0phRDEwNWVOUXBoUEVNNU11ZXIxOVNMWWZkSENvMkFEa3VibFVZYmJwSEJGOF9zbDN0MmdQb1hTdEdLMFlRdExVZkhOME5MSUhNZkdTUTJzNXp2RFBvTW9Kbzdncjd4czZGNjJqQnJrTGpGUHF0YklLNW5EeG5hTS0ydXlxSUxQOHZJWDRaTjZoV0RBN3JBTmJ1X3ZhQzBkbWpRdWhmaFZ2YlpQQ2JaMlhURV8wUGIzQ2RhNVQ0VnNrVHBI0gG_AkFVX3lxTE1semhiQm8zNVVhSXdMcUZEVFFXRXFwdTZUalFyMVgxb2JVYnJuVXF0R3NoWk1pV0R4NS1fc0d6aFA4SDRjdWlwMlhGUkNZOE5vX2Z0MF9GbTFiYmFfdU9kVExlSHRkTUhVU0YwSjZMb25McWF5NWItZWlkaERuY0NRLTRwUUJvRjZUZjVXWHR2Qkk5OU5FNnoxTGdOMjNkWXpkX2c3N1IwOFoxekFRU2JPaS1obzRjTldhR2N0czNvTDhBZnk0azFvUWRobW0tMXM2QndxSGNFOGxhSkJTbDVQTVRKMXlSMGtONmFCM3NDYXpxZ0Q5STdaM1FBR1ZZQzFRZ3R0dThzWmU2aEM2N2hfWnhKMGNlUkg2M1U2LXlHZ2E5dGI5U2g3SlMxLVkwZW42cFMyM05iUXloOV9YLTA?oc=5",
+      "source": "El Imparcial",
+      "published_at": "2026-10-08T17:19:41+00:00",
+      "score": 44.98,
+      "corroborating_sources": [
+        "El Imparcial"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "63917bfd67107a82",
+      "title": "Trump’s diesel deal with Putin is gift to Russia, says Zelensky - The Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMndMSlVsNGpEYXNHTFQxSHFtdlpTLThfNnppYXdGZHg0MGVzaGNNc3NhYVNqWnRZQUV2RS13b2VkZFdLWHktQWRUYnNzTFFkZWlUTkE2SnY4eEN2eF9qY1dNTWNYQnU2b2h3Qm9Yckt0eGo0VkJjeFF6X2RVSlhHZzFmMDc0LVhHYVI3WEl5eVZFd3g4YjZLemJRYw?oc=5",
+      "source": "The Times",
+      "published_at": "2026-10-10T13:56:38+00:00",
+      "score": 44.95,
+      "corroborating_sources": [
+        "The Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "223d90dd8c109718",
+      "title": "A desmoralização do Nobel da Paz - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBySjdabmV2X2lLaTRmby1hN2FTMkxxYmNRYktVdFZ1dnU3Qy14TURmVGtDN1NJa2RsYjg0eXBnRjFHTGhFY1RZdVF3cUhZYjhnTzUzUHhwS1ItOE1HOF9yVERNVXQtcFFFVjNfZGE0UE81cUZsZTRz?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-10T06:00:00+00:00",
+      "score": 43.5,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
