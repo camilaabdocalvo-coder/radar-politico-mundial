@@ -1,19 +1,184 @@
 {
-  "generated_at": "2026-10-12T06:04:34.574561+00:00",
-  "next_update_expected_at": "2026-10-12T10:04:34.574561+00:00",
+  "generated_at": "2026-10-12T17:59:26.518045+00:00",
+  "next_update_expected_at": "2026-10-12T21:59:26.518045+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "58c6bffb8bb06f30",
+      "title": "POLÍTICA INTERNACIONAL DEL PERÚ - Diario EP",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5aVNPWUtYUjBGM29oMEFlT2xvYkMyUkUwVy1mOF9UcGJrQ2MwcExBQjFZcHE3VnkzX1RLZ3BJVkc4M1ZMdFdZTVY1b1Y2STV3SU9teEJHbkNXaEVNRVhXLWtkdHNUaVJ0djV3?oc=5",
+      "source": "Diario EP",
+      "published_at": "2026-10-12T17:57:40+00:00",
+      "score": 75.44,
+      "corroborating_sources": [
+        "Diario EP"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1bce499059e277cf",
+      "title": "ESPECIAL Informat.ro / Los principales temas de política internacional de la última semana. La influencia de Donald Trump en la guerra de Ucrania, entre negociaciones e incertidumbre - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1g5TVpDSkV3ZGIzb1NkbzZRRWlfXzNSMW5ta1ZnakxoSTV4Y0dGY2FhNXJZaDk1MnBETjN4czZJOXhyNGFwbjhObk1qckxvSnZERmhfQWprSzItb0RaelQ3VWVDU1NQbHl0bjZrcmgyMHNzVzdZTi04MXlfN1plZlJINDFxSVBCREpqaEtwdF8?oc=5",
+      "source": "Informat.ro",
+      "published_at": "2026-10-12T09:11:32+00:00",
+      "score": 73.72,
+      "corroborating_sources": [
+        "Informat.ro"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "487092e5cb3387a7",
+      "title": "Guerra de decisões de ministros do TSE afeta campanhas de Lula e Flávio às vésperas do 2º turno - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDQ1UHRYM2hYUzFLVzRscHRHbHNjVTJ4U0NGTlItWGN0clhacXNOSFhjSXNCVHNsMUotYlF0Q3Vwc3lJNXA5OWtiMVkxY0xZTm96STRfQjRQMnVTLU9wRTk3VWhSNnpkTDQzZU1oc3RKcFg3bjlsZUpRTHo0c0xOV29rV2VaV3VRRkJfX015SUZaelJDMng1eTRmek1vWVE3MUdKMENLRW54Wmg4RDBkTDNDc1ZZSHNjbXpPYmE4X0xhTlk3UXExVURuTzFZSlN0T3Z6a0xzUdIB3AFBVV95cUxORnVKemRMbmR1MEFNYTc4OEQ1U2dscXdmbTdtX3U4VXZ6dE9ZS3U0Tmhfd05LQmtJTnZxWmZ3QzRRUVZLMmdjdmlWOTNTZ1JpSnd6MG4yMG50RkozM1hpZXN4R2wyaF9EbW1BSXBQS0J1Zkx6RXZTWGQxMGR4M2hPLXI3RHdiRGt4cm1pR0k1QnByTHlRRHQ1amdPcmE1SU45WVBkNUlPQnJHa0dYR1k5LW8wTHRET19BVnI4enVacnFEdjZmY0dZRXVxcTRIa3RXdUFNeWwzZ21fNmU2?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-12T13:24:00+00:00",
+      "score": 73.09,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "92f5137d1cbb1117",
+      "title": "Geopolitics and World Politics Monthly, Issue 01 - The World Will Not Wait for Washington - Shanaka Anslem Perera | Substack",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWItT0tfVmRNNy1ISlVPc093dXBEU2xfY0UtaDFJQmFUM1puazI5SS1KU1dTeGdlY2QyOXNwSWFkdVgtakpLalBvb3VUSnhTX2tTSC10Qzh2VXFGdVVMLXhMRmJHbmNhNXNxcEcyNHowVG56SkZIVzhEbFhFVjUxa2kySExmVy05?oc=5",
+      "source": "Shanaka Anslem Perera | Substack",
+      "published_at": "2026-10-12T13:31:03+00:00",
+      "score": 70.22,
+      "corroborating_sources": [
+        "Shanaka Anslem Perera | Substack"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7029c39ad9441d7b",
+      "title": "Em Aparecida, devotos criticam uso de Nossa Senhora na disputa eleitoral - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2R0bXpZTTIxb2t2Vkx1UnZpNkNnckxWT0JJOVJ5V1M1aXpRdlVUb1Bkck4xc0JqS0lzUHBZVldKdEw1Ny0zQlJxY3kwelg4a1VMTXFHbmY2NkdJMUtWR3VTTnZzMTl1VHlnclBmdGh3azktMXlGVFhiMUJ6S0RrQ1RRamtmMi1SalBqWnUxUDdaVEpTb1FOWjRtaVNrTmF4cHM0VG1MSDFKeFNKblowaW9GVmkxTXlnb0N1R2pnUGtPc1k?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-12T16:32:00+00:00",
+      "score": 68.69,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3d7f5dbe12eac7f4",
+      "title": "Milei vuelve a Estados Unidos: empresarios y una agenda política en Washington - La Tecla Patagonia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEJibWRMamlWVXRHMDZIQ25QM2RrM1I1T1E1ckNHZ2dQZ3ZXdlR3cHF2YmlwN19USk5pQ0xhc3dLMThwenZyUHRwbVFzXzdXcTNIaUUwNlRBN3RkdmFfdVpkNnJ2NlBWU1JSTDIwaU5pTnBLMTlxYTczd0wybGJ1UUx6Y0R0c01rSnRTLWRnTW1jUnd5YkY1bEZ4UTJkcGtEZEZKYmNZU0RoVGxCd29WT3ZiR3hNcUlZeHBiXw?oc=5",
+      "source": "La Tecla Patagonia",
+      "published_at": "2026-10-12T11:10:33+00:00",
+      "score": 67.72,
+      "corroborating_sources": [
+        "La Tecla Patagonia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "ac485d25fae8f5f7",
       "title": "Pakistani president suspends provincial government led by Khan’s party ahead of march - Audacy",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTERtdkRaaE9SUmd0dkVjQnRRamo3T3BIT1M1MEQ0a2ZRT3RMclh3Zmt5Mks4Q3FSR1dwa3VicmUwZ295eFBNMEtkMXVxMHZrRVZsU3Y0ekRNTUFQMVBfM0FXbGZTa3ktR3dVTUdPYWl4MXd2SVpZS2daOWFTVE5pcS02SVJTQWlFZUJDMnI0NDQxUGpXQ1ZON2ZiSFgwZUFuNzZQNzRpTXVQblJ5TXI4?oc=5",
       "source": "Audacy",
       "published_at": "2026-10-11T10:04:00+00:00",
-      "score": 72.29,
+      "score": 65.02,
       "corroborating_sources": [
         "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "68dbccb9e3f870bb",
+      "title": "Global News Podcast | French supermarkets say fridges targeted in cyberattack - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBTnlzVVM0ZVVQNy1tcUlpck1yWlFac0VkQnhxdnEtRlZNcEpuVW9hVXp3eGRINEMxRVBSZTc4OFplaEVNR2pnZWFFZnU5VkRt?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-12T15:57:30+00:00",
+      "score": 65.01,
+      "corroborating_sources": [
+        "BBC"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2948228b2103bbbb",
+      "title": "Moraes autoriza Flávio Bolsonaro a retomar visitas ao pai e mantém veto a declarações políticas - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTJ6TVpILW5zTlNZOVRVWE4tQTZBTVYxWmVHcTlteWxsVEtBdG9lbDg0OGdTbFFIX3BaTkZ3V0tNdFpzMjJtQmh6cmpCeVdQaldPWWRXNXZPR2N2OUNzaEhveVJyVXFCODdsdVg2S0xGaG8wVThGMkFkT0pIX3lqWG5UajVhTEZkMjhuc0RkcER3RHpObzZFdGp0ZjFncmhVanl2eHJDa1hYX3YyUGpFWlJCZjlpem8wZkd3Qi0zOHowZ3YwNVZlUU42d3lKWmo5MDF4aWFucC1jcWJ3U3c?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-12T13:08:00+00:00",
+      "score": 64.8,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "687208508028e570",
+      "title": "UE prepara-se para aprovar maior pacote de sanções de sempre à Rússia - Diário de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDhsMmpPLUlOSUpVd2NId01IWjRReHd3d2E2TF80UVpFQmVSNlplU3dlZmtmTEhKRVNOaUEzM1FyWUF1anpENEQzVy1MeU1qc0MtMWVxOExuUHVldjJuUG5MVjBXS0ZaZUd3VVFMOHRLTjVteGVFNE1FT2NNWkZUZDlfNGFZWWVjSTkwUHBabWN4Si1aeHVRVmw3dVI?oc=5",
+      "source": "Diário de Notícias",
+      "published_at": "2026-10-12T07:19:31+00:00",
+      "score": 63.94,
+      "corroborating_sources": [
+        "Diário de Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "cf35d8e6bf48abae",
+      "title": "Eduardo Cunha | Reforma eleitoral urgente - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qaDd2V0hKbHhvSWdkdFFUNU1Vd3R5Q3dKZmhKVGs1Yk1laVZpOVBSWUg3cm1lR0N1NkxjUk1ld3kwbWdrVW85Ymd6SWdMUm9ZTGMxb2ktX0dkNExTLTJ1Q25NYTJGaVRNLWc5WWxWMA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-12T11:12:56+00:00",
+      "score": 62.76,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "02263476fd605e74",
+      "title": "Messias diz que Senado aprovará fim da 6 X 1 e pede votos para Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdV90dktwdkFFSENWSUQ3eVFjVEhveGV0UG1DMmc0T0lfbjNnU2NMb0ExR2Z1QXhTYkd3Z3lVUWxLTkhTRDlEazloLXhrNDdxZDNRbmtpY3E2Y2RWRUo4Ty1HN04wa1hVMWppODkyYjBBRzJaUXBaVDU1V2pTV29iUjg5azliUHdOVTVuM09XYnpwZDVRa0c1ZzRJNjJBajdXMnVvV29DZXdHOTlZYU8xX1Nn?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-11T19:32:49+00:00",
+      "score": 57.6,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2o2Wlk3YUZSUE5DbzlHaDBtNEFwOVB1ZTk3OHhBSDZPbm9udHpGSXNsQjg5MTJFRndLNEZKQ0hfc2FhNVBrSFhzaFJaZTZiTWE1ZHZBcUY5b1czNHRsbUEtN1kwMFp5cWRXQnpZY3REaHpheEdaNWVnSnhQLWFOOGoxZEhKR0VhQ3hVMS1na0pQeTZQcllfd2JET3hrcUg2Q2t3VWtYSmYzdw?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-12T02:07:25+00:00",
-      "score": 65.8,
+      "score": 54.44,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -36,29 +201,14 @@
       }
     },
     {
-      "id": "1b76d4e2b6617a8d",
-      "title": "Trump reclama el Nobel de la Paz - La Gaceta",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcDVRNkZ3RHVmOXRyOXJPRDd1Q1ZSajc0SVRaUHJrSUhYNC0wSy0xTExBWXFrcmNtMzd6bHBUMXZTRjZpWHNPYXRMcF84RzhvTWwybDFMNWVxbElUYlJPNkhsNnVNVWhsV3U0Vkk2MnJNSTdzWmdVMFZxYjM4TE01NtIBhgFBVV95cUxNaDRoVkFjNlpHSjR6a2tLb1hRME9RUHAtQi1hYmFTMlJLeTBvb2x2cGJBNnh2OGx5YWpHYTNBWEM3S1FXM3FvYkpEWWlhUkxfZHNjNTMyajVuWkxObk5FZXY5LVdwaWJpdHRGNi1JaVNvaUM1NnYzRkZUTUhVZHYtZkZfanBPQQ?oc=5",
-      "source": "La Gaceta",
-      "published_at": "2026-10-12T03:06:12+00:00",
-      "score": 63.91,
+      "id": "8405cc129aa79cfd",
+      "title": "'Isso não é ação, é execução', diz leitora sobre jovem morto com 27 tiros pela PM - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNEhLNVM2VmdqalF0Szl0aGZ1THJTMWdrLWJtNXJJOVBoQlZ3clRyQ0tUTnVIZm9ha3lqdEhNekdYaC1CeTFLV3pEMUFzV2pTd1FYb1RlaVRNNFFURklxNEVFWDVFdGRLb09SZzFXbHpwdlo1MVVlR0FKbmpRek1TWUZBdWFTcXQzNFJoNHR2MnFKbS1sUTQ5eXNJODRMVEpIUXRzSTVkN0NXR1ZxRFNaZm1kQ3BYX2Ixd1d5akp2QTJnTDZuZ2g1dDdxeWtJTWJ6QXc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-12T00:00:00+00:00",
+      "score": 52.78,
       "corroborating_sources": [
-        "La Gaceta"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cee72ca4f51895e6",
-      "title": "Luan Santana faz gesto com a mão em show e fãs falam em apoio a Lula - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTBzUkRZZmNjdVl1OEpvaTNyVm10dng1M2E5VzI2NmkyV2lVOEQ1Mm1ZVjJqRjVMbGVoeHNVamd2aU5tNDlhMEZub0dNQkszVU01MzdGTmE0bkZmWXExamFTLVRCazI0M3lpQTQxakpOQm8wc0JoUW12cEZmSjF5WVNUS3RJaDFUcTRyR215MmxkTFJFZkJWMW52ZmsxbDBiZElZeXJUWjJER2VNQXVj?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-11T21:16:00+00:00",
-      "score": 60.71,
-      "corroborating_sources": [
-        "Metrópoles"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFJjbm0xQTMzdmJfWDE3NkhrbDEweXB4SUNOZXZvNXFZbm1qcHNpaHhvLVBWUkhvZXZkQmoxLWtVSktpUkQ4SU41TXNVcGcwdTBzUl9SRGpoQ1VFRXdsMVJUeWhBa1p5OEhMYll3X2NQTTJmUkJmMkxaeklsMnhRZ0h5R1Y0REhjSVA2a1ZiNVI0d0J0VHFZdWQ5aVdIRFRUNXJIQWpYdHBYTk83eWfSAbYBQVVfeXFMT2tRYmV6d2s5QVpPS0hjYjBKaTJWVWRHTVpDVUZDTERyTk9CYjR3NU5tM2FaR2otdkRmWWZMdERCdTVyQjhuR2phVnJycm5GTFFKOWJPZXJIN3prTXoyZURWMjNGVGNBekUzVi1pTVp1V3VvbXZjY2xxOUxWYmVOMkFsenVBSHgydHg0ekdmdnVJN2xmdE55Q0NoVngtUnI5MU9IOHlPRDl0R09PRFhLTEZZbFE4eEE?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-11T15:30:00+00:00",
-      "score": 60.49,
+      "score": 52.04,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -81,119 +231,14 @@
       }
     },
     {
-      "id": "4a8764160bce9255",
-      "title": "El presidente Donald Trump arremete contra el Nobel de la Paz tras el reconocimiento a Navi Pillay - El País",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWEF4WmpaNlkxRWg2M2YwaV94cHk4LWVqU2ZkTHIzZEV5Nnc4aGRvdDlXZDZFOHFGN3VPa21WeFMwV2hxaHkyM3lFWWNSTzREYURnSFBpYkhKTmZUVTF4aV90RWMzVHl4bWpxQzFKQVY0TEgyWnVNeXZ3RzJrT3JGZ2d2Rm1jUUJiT0d4OWYtLTg2RXU3Z1RJUlFNbjV6R0pWMWRvemwzd0hqMzVnNmpUbUlBeER4MGExQklVRS1SZDJlOTA1aVpkdmZTZThYSno4R2drODROTdIB3AFBVV95cUxOdXZ5U21ua0hOSHk2R25UQXlaNjFIc0NKOVZhQjZyYjBDT0loU3FxVVIyalZyYWtVbjJBYTd6UkhVeURMS0phT2F3T05oOUdNbHBQOFQ1T25WbktScXFaQzMwTUZ0bUVkd3VZLVBwbzcyR2djUXJTUWpzNGFkOXNHTWNxTTVXRVpEb0RyMzR4Q3NVMkVQT29NREVSQ3pmRFZ6VzZITnhGV0IxbU9jVnc0RUF0SEdWQVRocUhwNXNwN3pqOEk3amxTWlpxQ3c1VTNFYXM5YmJQTHpHVjJM?oc=5",
-      "source": "El País",
-      "published_at": "2026-10-11T09:58:00+00:00",
-      "score": 56.22,
+      "id": "cee72ca4f51895e6",
+      "title": "Luan Santana faz gesto com a mão em show e fãs falam em apoio a Lula - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTBzUkRZZmNjdVl1OEpvaTNyVm10dng1M2E5VzI2NmkyV2lVOEQ1Mm1ZVjJqRjVMbGVoeHNVamd2aU5tNDlhMEZub0dNQkszVU01MzdGTmE0bkZmWXExamFTLVRCazI0M3lpQTQxakpOQm8wc0JoUW12cEZmSjF5WVNUS3RJaDFUcTRyR215MmxkTFJFZkJWMW52ZmsxbDBiZElZeXJUWjJER2VNQXVj?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-11T21:16:00+00:00",
+      "score": 50.78,
       "corroborating_sources": [
-        "El País"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d8c81745e97273fe",
-      "title": "DIPUTADO STEPHAN SCHUBERT CALIFICA DE IRRESPONSABLE A LA IZQUIERDA POR SOLICITAR LA EXPULSIÓN DEL EMBAJADOR DE EE.UU. - Araucanía Noticias Temuco",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVDNqLUNoSnd3bXJmRlRGV3dTVGh3dE8waE5EUTFUWW8yRUM5dEpiaVFCMWRkczBKanRoaTh3REdVN2ZVV1ozMkN5WkFxeTA2UlF3SWZiMVZWZnY4Z0FQT1FVWHhqQnFURXRwUXplbTh1Y2VVRHJVNGRWYW9JbkVfM3lZTGI4SGlVZ05KY0o1eFllMHRDbFJ2dnFiWHh4aWdjaUh6UF9rVDBxRVVkeU1DNjdCWUNJQ1JtQWFjbGxuV1RzVWtFSDA2a2JTVTg1QlJKSmRYd1hIcTZvZXo1OFZlemJWUGJpZ1cyTkdLYURFRlFGVkk?oc=5",
-      "source": "Araucanía Noticias Temuco",
-      "published_at": "2026-10-11T19:01:57+00:00",
-      "score": 55.59,
-      "corroborating_sources": [
-        "Araucanía Noticias Temuco"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7d55e8d2d092e036",
-      "title": "US considers intervention in Saudi Arabia after Houthis strike Riyadh - The Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2Q5VUY5TTRVbGlGV2JDSU9ONGhqOXBFWXN5c2tEeThpRkZRaHpvQ0lfcGpRY0NNRFBUdTJaLTNiTnBPNXo4TVp6MWxTU3RwaFlzclNkSGFDdGNIQXJfT2gyZ0pIVHZ3cXI5UDFaOWlrS2FHTUZfTnZZZ0xxSjQwTUFLMFMtR1VMRDNUY1lKOFMxUXlQbGEycG5MYw?oc=5",
-      "source": "The Times",
-      "published_at": "2026-10-11T18:45:00+00:00",
-      "score": 55.33,
-      "corroborating_sources": [
-        "The Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9730b4783ad61cac",
-      "title": "Flávio Bolsonaro, nueva política internacional de Brasil - EL UNIVERSAL",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEx4MTBzdXpzZ0pwTFlRNWtsWmxSZ2R4Y2p6Q1YtbEhsTGI2M1hNNFRsRGhqLUxxVTFmeEtQbjhIeEt4TzN6WmxKYmpVQUdFZ2NpUVRPanRHanhPVDdrQVp2QVgtTEh5bDdWOXk0VEVLVXdjaHdBQkRFbW9qUnRRRE53YjdMNWUzYkNDME9GWkVGMS1HOW5PaHBuczZUbnR6Z3htcg?oc=5",
-      "source": "EL UNIVERSAL",
-      "published_at": "2026-10-11T05:10:16+00:00",
-      "score": 53.01,
-      "corroborating_sources": [
-        "EL UNIVERSAL"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "19fb32856baed9eb",
-      "title": "Israel afirma que agência da ONU divulga narrativas falsas - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFiMjBGanI2Q3BRamdoUzIxekJwT081MWNMeXlyTVNjQXdhNDdWWUxhU3hPWWdsQ25Rcm8zTVEzQ3VPR0EwelFrMElhYTA0NVh1cm9idFZlbzVIbVZ2WGdITTBmTzluOE9wRGJTcjlOYmFXQmNGejRIWjBNbl9vVWRrbHcyMmVoNDdjUXVKY1k1N0Vad0gzZFVaNGp0cnUyZXJLTHduN25ScFBzeGkxZNIBuAFBVV95cUxQTzlOeG50XzRTZGY3QnNhQnhDS1hSRDVWQVhWNzJOTko0Uno5S0oxY250dUgzaG9PaEdEaHl6Vm5LYzVxUzBxSUgxZGlNc1NjY012TS1sR1c0VkhRcTBSV3Z0bU5mYnl5SDd0YkpKZUF3YmdhMVoxOV9nVDZXa1RJYlJqSTUyZGI4anpRNEJVNkJXNE1MUGJUYzQ3Vm5CTG8zaHlFMnUtWWcyanpUWFFSbTlXY3RqbFRw?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-11T14:50:00+00:00",
-      "score": 51.94,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "df89c2b4c86b9e4e",
-      "title": "La trama del poder mundial: preservar y ampliar la autonomía estratégica, por Manuel Rodríguez Cuadros - La República",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ3gxaklXRHI3R0ljc080cVFPZS10ZUZNUXFFdmZ4NGxHbm1lQkh1MW9pN0ZqdXVsRlpnTDNnRnVWRVA2U2lydFhLSVE0T2NHWVBnYUQ2UzFfYWFLLWlrLVF6NmZpTXBmMURvMTE3SHVwZVgxVUhhUnRNa1pVME95OFJvUmdkZjZZUWl2Ni1kUi1FQkQxazBfaUpUb01tdDJEX0VSLW1ZUm5xTlpKTWgwVEQ4OWs3dWktdkc4ajlMakoySzIyRFdVNWx2cFRnSlNudlh1V2pPNmxLRFVXYXFKdUsxTHBXY1VXVVpv0gHwAUFVX3lxTE9QYkNfVEJHc041dkVSNjV2NWo5YnBBbXViSGlhTDJVajkwSTlzS2UxekNoVDBXWktKT3A2dmRobm5SNEh1d3lPNVBtYVl1VHktbDFWb2ltM3o1U3NKVWJWWXptX0dheWpYRzI5ZmdVSlczLUQwaVhJOE05b1RVRjUwSm9uY1dwblUySXVOSHdIdU5UMk1lck9FcVRPclUxODhkeWpFZUl3QTFkV2xUbkoxMVNsUmcxM1JSZWt3NTRZcFBsNG5KX2tZa2g4RjFadFZwYTc1SXFGemx4ejU4bmxtWG1UaHZWM0RIU1B2c2l0cA?oc=5",
-      "source": "La República",
-      "published_at": "2026-10-11T14:35:00+00:00",
-      "score": 51.74,
-      "corroborating_sources": [
-        "La República"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7a2a37bfc5c4d2ce",
-      "title": "¿Por qué Colombia desconfía de Venezuela? “Washington se ha vuelto un tercero” - La FM",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNWFSS0RXd0owcXJKelJkOVFlUlE4RXRneTlLSEtuU3RkMzQyWm5VQjViSUh2UUlFaDY1RTB2a3plbUV6ejJBc0xyVDg0ZDFBdHlLUVkyc0kyWmxCZXRGazhIVjZDSk40MWUwcmU1dGJxTm00SVYwRkZ4bkxJUURBQUJqTUltNTMtTlRfOTM4M2NHeVExdUtrV1pjeTZWNUhTa295dVU4NEN2dG5NaWU5SS1iQWRHejZKbk0zNEtlZTFRTV9MRkZPQzhSaC1sY1Z4QTg4SzVqejQzQ0dFXzBDcVhyX25COVhQdFNYbDdjdWZfbmdLQkRDM2czZHc1c19HaUhUM3dOcHhrYS1DNmhuV0JFY2VJMGJ6Y0VsWjNUR1LSAaACQVVfeXFMTUpPQXpYR0hXSVN2clZSN1JaR09rRnB4bkJmc2xMS2pPWS1zRkVURzk2eHZ0amkzanoyQnpsMDdMN3dqOFJrVFRGdHlMN2JScndqdmxjX2lTdjdEVW1wdWhyb0I1NFB5RVlQeHRxWHB1WUNPV00ydjh3Z2RLRG9jdm0wemNxYVIzMEVuU2Rhak5ra2dMMFhzaTZoUmxlZWtvVDc4LVFxT19hd1FSLVl1VDZ3dFM0bnVuR1h4YkZENk41WkliaGF1RGlzaGxpb1dkamdUZFVYLXQ1RTNFTVRUcC1tX0RnS0tqQ2RfMUlCdmw5M3JLS1kxYlc5QWJzT2oyc21UaTNFay1FOUk3cE9vZElOWEEtcVZfaDlBeEUyNV9w?oc=5",
-      "source": "La FM",
-      "published_at": "2026-10-11T14:22:05+00:00",
-      "score": 51.56,
-      "corroborating_sources": [
-        "La FM"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d90f246c207a55fd",
-      "title": "Cazaquistão e Brasil ampliam cooperação e buscam novas oportunidades de intercâmbio - Brasília in Foco",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1ZtczhheXNiTXdoVG5LZm14d3lLS1liNEt5VXdVSC1ta1RtOVVvanluRFJMa1JEU2J4c0QzSnNzY3V1LWQ5eXJwUTZURnZ2NlBjQzZ5RUdWZ0w3NEpONHFzUkgzZ3F2b0RZT0FLejRaUDNNT2h2d1VYV0U5c3Rkbmc3aUxJWWN3Tm16UnFYZUdsVmtIS3NaZ0xyTFoxdEdlcWRURjdXRkNtOHQ1VG5lSQ?oc=5",
-      "source": "Brasília in Foco",
-      "published_at": "2026-10-11T11:58:48+00:00",
-      "score": 49.7,
-      "corroborating_sources": [
-        "Brasília in Foco"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -217,14 +262,14 @@
       }
     },
     {
-      "id": "581cd4e3fcd079af",
-      "title": "Economista diz que é \"gravíssima\" oferta de Flávio a Trump para transição de governo - Vermelho",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzVrOHFybEFVTjBGVHQtaWM3bU9yaHF5UEpRUW42YzdNY2pUMFdIaTZJNjhFRWtzVzhXNjJiNDBMd3Bpc1BEcDViaUNEUEJNX0NMZ0p2WVBxdlVPenJjOTdLeS1PeGxGT3Zfb1U5TXJoZTY3MDFQS2I5SmFxc2JXTWxsaXh1eUFubHFCbDRJbWd0T2p6VDFKaGRBeDBRNUtVSjUtWTBvaw?oc=5",
-      "source": "Vermelho",
-      "published_at": "2026-10-10T13:56:00+00:00",
-      "score": 45.23,
+      "id": "1b76d4e2b6617a8d",
+      "title": "Trump reclama el Nobel de la Paz - La Gaceta",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcDVRNkZ3RHVmOXRyOXJPRDd1Q1ZSajc0SVRaUHJrSUhYNC0wSy0xTExBWXFrcmNtMzd6bHBUMXZTRjZpWHNPYXRMcF84RzhvTWwybDFMNWVxbElUYlJPNkhsNnVNVWhsV3U0Vkk2MnJNSTdzWmdVMFZxYjM4TE01NtIBhgFBVV95cUxNaDRoVkFjNlpHSjR6a2tLb1hRME9RUHAtQi1hYmFTMlJLeTBvb2x2cGJBNnh2OGx5YWpHYTNBWEM3S1FXM3FvYkpEWWlhUkxfZHNjNTMyajVuWkxObk5FZXY5LVdwaWJpdHRGNi1JaVNvaUM1NnYzRkZUTUhVZHYtZkZfanBPQQ?oc=5",
+      "source": "La Gaceta",
+      "published_at": "2026-10-11T22:30:37+00:00",
+      "score": 48.67,
       "corroborating_sources": [
-        "Vermelho"
+        "La Gaceta"
       ],
       "signals": {
         "source_count": 1,
@@ -232,14 +277,14 @@
       }
     },
     {
-      "id": "1c9874c6112f6044",
-      "title": "Cuba rejeita declarações dos EUA sobre colaboração médica no exterior - Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01oNG5hcjVuSDhmaXJrTWJNQm9KeVpSRzk1RXpWczNNVlhsaTZXRGhKM2FsZmt6MVJma28yaEg0WGlJVHZoQTNSb01KRjZMTmJSRDk4c3NsbXZvV21feFNOT1EwTEI2Z3NqMnFOdFJ5WURlNzR0ZVRScHFnRVVEWFNMRVNFYXAzdHJEaGlMZ1dvVWk2OHNtMGQ3RXZjU21CWWhVVmhqY0w3OUZoMGxiOWYybWtqZlhCVUJ2X3lBYkhFUTR1Rzgw?oc=5",
-      "source": "Tribuna do Sertão",
-      "published_at": "2026-10-11T03:47:00+00:00",
-      "score": 44.15,
+      "id": "9730b4783ad61cac",
+      "title": "Flávio Bolsonaro, nueva política internacional de Brasil - EL UNIVERSAL",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEx4MTBzdXpzZ0pwTFlRNWtsWmxSZ2R4Y2p6Q1YtbEhsTGI2M1hNNFRsRGhqLUxxVTFmeEtQbjhIeEt4TzN6WmxKYmpVQUdFZ2NpUVRPanRHanhPVDdrQVp2QVgtTEh5bDdWOXk0VEVLVXdjaHdBQkRFbW9qUnRRRE53YjdMNWUzYkNDME9GWkVGMS1HOW5PaHBuczZUbnR6Z3htcg?oc=5",
+      "source": "EL UNIVERSAL",
+      "published_at": "2026-10-11T05:10:16+00:00",
+      "score": 46.66,
       "corroborating_sources": [
-        "Tribuna do Sertão"
+        "EL UNIVERSAL"
       ],
       "signals": {
         "source_count": 1,
@@ -247,14 +292,14 @@
       }
     },
     {
-      "id": "e594d5c973825bad",
-      "title": "E-mails indicam que Flávio dividiu conta bancária com advogado investigado na fraude do INSS - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbXFUdGNUV1hzdHN6U2lWcTRFeHpHZDd5dXpsZzdRa1BVdzFraGZ1Y0NjUXExV2FRU1F2M21SWVFTSE5KVTBLTE1vU2d6azVWU1dIY3JheXJQWE1IRWJfS1NLaG5fUEdmdWw5T2pIdGhIeTVOZ09XQzNEMC1LSUhfa19YSzFBMGZuT25MUWk5QXREZkhCNi0zVkdDUDJTWFlKMWhHeW9OM1dRVzdkaGVKcXp5UHNIamZ1S3NBclJFQzJNb1dOU2xyVzlBcU5tUnhXZ0ZhaFJPOWctZDdETmNHZ25GTW5EUdIB6wFBVV95cUxNVlpMc1NEYTFUdEZna2JLajlsNWpVT2xvazlQREtxU3ZlcUZJVGlRYW9USkxYNDNTeGVUZnRlcjdIOGEtYjJtSWhMSk9ndnBWNGtvTzZtdGNta0pIbjhydFMtMGFJdG5jTmRwcElncTVqS05sNjRvOG5STlVoVms2S3l2ek5vYTVWZmdrTk8wQWM1Uk9ZQVZOSDFsYjd2ck94NTRHV2JIdlJSQ2FwZDlzQ3MxNHpuLUJtbWV1X1ZwcnpZOU9xRXhpZDd4MkZZNnVjanNrbDZvZzVIWGRXMEhuSEp5YTdZcUltckdB?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-10T22:08:00+00:00",
-      "score": 44.01,
+      "id": "d8c81745e97273fe",
+      "title": "DIPUTADO STEPHAN SCHUBERT CALIFICA DE IRRESPONSABLE A LA IZQUIERDA POR SOLICITAR LA EXPULSIÓN DEL EMBAJADOR DE EE.UU. - Araucanía Noticias Temuco",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVDNqLUNoSnd3bXJmRlRGV3dTVGh3dE8waE5EUTFUWW8yRUM5dEpiaVFCMWRkczBKanRoaTh3REdVN2ZVV1ozMkN5WkFxeTA2UlF3SWZiMVZWZnY4Z0FQT1FVWHhqQnFURXRwUXplbTh1Y2VVRHJVNGRWYW9JbkVfM3lZTGI4SGlVZ05KY0o1eFllMHRDbFJ2dnFiWHh4aWdjaUh6UF9rVDBxRVVkeU1DNjdCWUNJQ1JtQWFjbGxuV1RzVWtFSDA2a2JTVTg1QlJKSmRYd1hIcTZvZXo1OFZlemJWUGJpZ1cyTkdLYURFRlFGVkk?oc=5",
+      "source": "Araucanía Noticias Temuco",
+      "published_at": "2026-10-11T19:01:57+00:00",
+      "score": 46.26,
       "corroborating_sources": [
-        "Estadão"
+        "Araucanía Noticias Temuco"
       ],
       "signals": {
         "source_count": 1,
@@ -262,14 +307,14 @@
       }
     },
     {
-      "id": "0c03adc632256fda",
-      "title": "¿Está poniendo Trump la política internacional al servicio de sus urgencias electorales? - El Nacional.cat",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGNPbnNTaU5LS0JEVzFXMzdONnBONHpER1EwX3Bmd3dQYlVyaEgzcVl2U2FjN1VwVnlHOWVHdHg3aHd3cGRqR2tid051VFMwMm1lMlk1ZzJNWjFtMS1zZDU4VnlCLXdqdmxwLXJIRUxzeWo1MUpqT1NiUTZidFRfRE5PanhCUmw0d0hoVEpFN052Q3g3bTN0Tmt2MEoyWloySUdEREM0YWtZd21adlM3SkVienlJSno1R3pVREJjOFR4Yk83VWY3ckUtRnp5c3NsYVBabw?oc=5",
-      "source": "El Nacional.cat",
-      "published_at": "2026-10-10T10:18:07+00:00",
-      "score": 43.82,
+      "id": "19fb32856baed9eb",
+      "title": "Israel afirma que agência da ONU divulga narrativas falsas - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFiMjBGanI2Q3BRamdoUzIxekJwT081MWNMeXlyTVNjQXdhNDdWWUxhU3hPWWdsQ25Rcm8zTVEzQ3VPR0EwelFrMElhYTA0NVh1cm9idFZlbzVIbVZ2WGdITTBmTzluOE9wRGJTcjlOYmFXQmNGejRIWjBNbl9vVWRrbHcyMmVoNDdjUXVKY1k1N0Vad0gzZFVaNGp0cnUyZXJLTHduN25ScFBzeGkxZNIBuAFBVV95cUxQTzlOeG50XzRTZGY3QnNhQnhDS1hSRDVWQVhWNzJOTko0Uno5S0oxY250dUgzaG9PaEdEaHl6Vm5LYzVxUzBxSUgxZGlNc1NjY012TS1sR1c0VkhRcTBSV3Z0bU5mYnl5SDd0YkpKZUF3YmdhMVoxOV9nVDZXa1RJYlJqSTUyZGI4anpRNEJVNkJXNE1MUGJUYzQ3Vm5CTG8zaHlFMnUtWWcyanpUWFFSbTlXY3RqbFRw?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-11T14:50:00+00:00",
+      "score": 43.64,
       "corroborating_sources": [
-        "El Nacional.cat"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -277,14 +322,14 @@
       }
     },
     {
-      "id": "f64e3c23a3f0f67c",
-      "title": "Dois homens e uma herança maldita: o próximo presidente receberá um pesado fardo de contas públicas - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczVrZTk4SmdfRkk1YjBiSGF0Nl84Y20tNHJZd2JpU2Vqb0FXbVh2SFdFc3ZVQ21kVnRTUmUzZk1WUE5fUWlaVmZMMnVJelFleExyemtpOEdMTW40NDc2Y083bW5lQThia1EwTXA2OGVNY0RYZFE0aE1UOTNnNmpYS1pZSkVKdmdlU1hESWY3Sl95TXRlcnVUTERTcHpJTkZRS0l2dXF6a3N1cy1Fc0QwWmlKRDc4dWZtY0FydnhqYm8xMjVEd2VfbnByVjNsSlVQODNSajlnc01nWm9UOGo00gHkAUFVX3lxTE4wZWtUQ3huUll1MjJkXzc0cWdXUGZPVFNrN0NRb2RERFlBYnRCc2d2LWtwNHJneGRtbVhScEFzZmhtblM4eFJqM2w5Y0NDQTZraGwzR3VZNE1VRzVLM3VUWDlkUE5nTW1wLWNHQVhzRlplR05LVnpaV0t1aVVkLVhfQlpRMWwwSUJxOVU4dnlMMFEwSUFYQWdndHRaYUxEdW9ZajROQ0pXV3IzNzZFVmFrQkdNNjBtTzlCWTNJZ3ExamZYZzJOUm45RjRZX2pfcWotMXVtVEdMempYZlpBMUk2VkIxUw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-09T22:52:21+00:00",
-      "score": 43.19,
+      "id": "df89c2b4c86b9e4e",
+      "title": "La trama del poder mundial: preservar y ampliar la autonomía estratégica, por Manuel Rodríguez Cuadros - La República",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ3gxaklXRHI3R0ljc080cVFPZS10ZUZNUXFFdmZ4NGxHbm1lQkh1MW9pN0ZqdXVsRlpnTDNnRnVWRVA2U2lydFhLSVE0T2NHWVBnYUQ2UzFfYWFLLWlrLVF6NmZpTXBmMURvMTE3SHVwZVgxVUhhUnRNa1pVME95OFJvUmdkZjZZUWl2Ni1kUi1FQkQxazBfaUpUb01tdDJEX0VSLW1ZUm5xTlpKTWgwVEQ4OWs3dWktdkc4ajlMakoySzIyRFdVNWx2cFRnSlNudlh1V2pPNmxLRFVXYXFKdUsxTHBXY1VXVVpv0gHwAUFVX3lxTE9QYkNfVEJHc041dkVSNjV2NWo5YnBBbXViSGlhTDJVajkwSTlzS2UxekNoVDBXWktKT3A2dmRobm5SNEh1d3lPNVBtYVl1VHktbDFWb2ltM3o1U3NKVWJWWXptX0dheWpYRzI5ZmdVSlczLUQwaVhJOE05b1RVRjUwSm9uY1dwblUySXVOSHdIdU5UMk1lck9FcVRPclUxODhkeWpFZUl3QTFkV2xUbkoxMVNsUmcxM1JSZWt3NTRZcFBsNG5KX2tZa2g4RjFadFZwYTc1SXFGemx4ejU4bmxtWG1UaHZWM0RIU1B2c2l0cA?oc=5",
+      "source": "La República",
+      "published_at": "2026-10-11T14:35:00+00:00",
+      "score": 43.49,
       "corroborating_sources": [
-        "Estadão"
+        "La República"
       ],
       "signals": {
         "source_count": 1,
@@ -292,29 +337,14 @@
       }
     },
     {
-      "id": "7b519fa94bc1472a",
-      "title": "A mera expectativa do ajuste fiscal derrubou o juro real; se restava alguma dúvida, não há mais - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQV9Pa1BSaXFFamZxNmNZNHVSdGotYnlXdFlsMmw4WDdDc1VYNkN5SE5ad1J5TGVHcU5oWnNjQ2UtQndzbk5NdFpSelY3YjMxU2plU3A3a3kwWVlubVVELXRIQjZRT3dGLUk1TE1LcmFtYjFrRmpMakt6V08yRUVEdUNGMGlGWGpNZ0pYZG9TbVZTUV9QcHFNZUg5V0ZDRTJMZm4wdTNnOXhaenBLQm1Lcmc4bVlzLXBHTnZtYlBoZGxLMHlydXFoSG9UNHlNZWg4emJLdGJUbFFXdjdULWdmUTh0dWo5NDTSAewBQVVfeXFMTWxrUmp2STZFNHJvT1RvUTdqOUlQcVJod1dvNExNZG1CdWNWSm9tdE5Kb2F1UENPWW1ZVXVMXzFMY0kxVVFZckRmX1RCQ2M5Yjk5N0lfeVpHZmVJTC1iS1pxZ1NfNThOdHdhNlF1emMwY1doYm4ySmxpamhDdkJfeVI2RnlfSXZ5SUZ0eWtUYnlqQTE5M094V2o5LU1OTzFoSTJaZ1QxM2dEYVdsRVk5Uml6QWd4LUF5bkljSWlOSXYtZUFIN2EtWHJDX2VfeDFzb3NsLUpSaldhTm9Hcnh1aHFnVWROSG5ORUo1eTE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-10T20:00:00+00:00",
-      "score": 42.94,
+      "id": "d90f246c207a55fd",
+      "title": "Cazaquistão e Brasil ampliam cooperação e buscam novas oportunidades de intercâmbio - Brasília in Foco",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1ZtczhheXNiTXdoVG5LZm14d3lLS1liNEt5VXdVSC1ta1RtOVVvanluRFJMa1JEU2J4c0QzSnNzY3V1LWQ5eXJwUTZURnZ2NlBjQzZ5RUdWZ0w3NEpONHFzUkgzZ3F2b0RZT0FLejRaUDNNT2h2d1VYV0U5c3Rkbmc3aUxJWWN3Tm16UnFYZUdsVmtIS3NaZ0xyTFoxdEdlcWRURjdXRkNtOHQ1VG5lSQ?oc=5",
+      "source": "Brasília in Foco",
+      "published_at": "2026-10-11T11:58:48+00:00",
+      "score": 42.03,
       "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b512c1b954ac5153",
-      "title": "Revista Veja acusa governo de desinformação em matéria sobre novo áudio de Vorcaro - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXJsRzNqREZNRm10S0dIVHJ5ZHBDcTF3Ymk4SWRTLWg5UjdWS3BuSkpnTW5GVmdnN1o0THBrVHkxRkhRekI5U2dhVkNtVUZBVGxQRzBtS2lnaXBsUkFtLUdUeXZvOXlMaUhJQlBLdE5PaWhGLVVxMUZMUU50TmFQWktiYk1GazNLNDR2RlZDRQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-09T20:54:18+00:00",
-      "score": 42.67,
-      "corroborating_sources": [
-        "Brasil Paralelo"
+        "Brasília in Foco"
       ],
       "signals": {
         "source_count": 1,
@@ -327,7 +357,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEtXX2t2cVZLYnFwaG9RdWpiZWU5MDJLcFRGeWlLUW9CQlBybVEzeE96NlR4ckpkMmJ2Tl9ReUVzM0VaVUx4TG9FZ21uQjN1SHlSakVETVEwUnlaZ0JRVXZHck96eV9GbWlCcERUSHZsTWhULXBicmFRYkZ4UzFpNnVKSTRVSjhwS0JQYVh2V1JGclRSUldkczYwT1pXT0tGdk55LTBfMmd5Tkk3S09qaGxlQy1LVF9QVjRBU0lRV3Y4LVF5SXV6ZnJUZlU1SjdNWGZRaU5DVDM0VTNsYXo5WA?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-10-05T09:30:00+00:00",
-      "score": 41.94,
+      "score": 41.81,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -345,6 +375,21 @@
       "score": 41.48,
       "corroborating_sources": [
         "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e7b4d58215a9b83c",
+      "title": "Violência política de gênero é \"agressão\" à democracia, diz Kassio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2RBYzE5UnhLM2tqZG5kR080elAwX1V6UHNUOHhwNW5rcGxCNjI3NnlOOE1sYzJ4SFBRN28zc2dmazVnN1k2Z1F1VU9zcmNIamFic015NFJmSWxCOGRDbjd4LUc3WVN1NGFlektRMFZKTDJHeDhMWlBMVXdFNzNST3V0bnMzX2RYOXV6d0szcHZuM2RlMmdqVHRYWWJueENESnVHR041NDh6Zw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "score": 41.48,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -382,14 +427,14 @@
       }
     },
     {
-      "id": "c54ddd9f4e722ede",
-      "title": "Xadrez Verbal Podcast #478 – Política externa brasileira nas eleições - Xadrez Verbal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHU3bnZycncwZFl4cmI4ZkpyZzlRQm9hVkhiUkV6dU9mQ0dHM2xJZmFEenFHVTdUMFRZWVhXMEJQX0psTXhyVEZhdnY3WUtSclUyOVprQ1ZtaWU0ZFRDeUVuT0tjUVZrUl9PT0Y2cXUwS0l3WVVLTkdrZkdfM2U5NGZBTW9iVXVEV2d5MzRUZHBDX2hRVWV6UUV3eWdkV2tiWUxreF93?oc=5",
-      "source": "Xadrez Verbal",
-      "published_at": "2026-10-10T01:04:29+00:00",
-      "score": 40.8,
+      "id": "41bee85628b81ffa",
+      "title": "Pesquisa revela intenção de voto ao governo e Senado no Amapá - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRElibUYtMEQxVVF4VXFMMFA0N1pybDhtZWNUajMzb3NtX05OcXVtRG5ZSFFIVWsxX1JtQW5aejlPUWtuZGlSOEhxdlBCYV80ZE5Ud1hLTnJzVWhBVHAtR3RyWWZ5UjJTcUZ6Mm01amRUMnA5OUh3NzBvNy1EdGFyMmlsZGx2M2lCZk9wODJyekozQTY3UTgtYUkwWW1xeEd1OFVOcHMtbTJPZXNQVnQzVl9sTHEzOEZIb0xsaG9YYjJ0WUptR19DTFVMS1BVa0xzSktrRg?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-02-10T08:00:00+00:00",
+      "score": 41.48,
       "corroborating_sources": [
-        "Xadrez Verbal"
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -397,59 +442,14 @@
       }
     },
     {
-      "id": "7c21b2d2cbd68e4f",
-      "title": "Justiça italiana marca nova data para audiência sobre extradição de Carla Zambelli - Rádio Metrópole",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnZSNkViTUFOcC1kRWw1S09DRGdmM0Q0WG1OdFVveXVkRjdMaEY0UW1HU2NCZzZmS1ZNVXd4VVROa3JIMWxxU3k2YktURmJSNzlzMnMyTHNXTy1jS2lHUmJyZnM4eDByd3FTTk1RdFFZQnYxZWNjM3lIQnBHamdEUXdUbW9Fc25xYWdxQldhSC1IdXVnM2ZHV2Q5VUd3RUZOejdCYlhrNXR4bmNnaGhlakJUQ0xqb1F1SjVvRjFXX2dGMGFMV2QwZ3YwOWJVdw?oc=5",
-      "source": "Rádio Metrópole",
-      "published_at": "2026-10-10T14:49:00+00:00",
-      "score": 40.6,
+      "id": "581cd4e3fcd079af",
+      "title": "Economista diz que é \"gravíssima\" oferta de Flávio a Trump para transição de governo - Vermelho",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzVrOHFybEFVTjBGVHQtaWM3bU9yaHF5UEpRUW42YzdNY2pUMFdIaTZJNjhFRWtzVzhXNjJiNDBMd3Bpc1BEcDViaUNEUEJNX0NMZ0p2WVBxdlVPenJjOTdLeS1PeGxGT3Zfb1U5TXJoZTY3MDFQS2I5SmFxc2JXTWxsaXh1eUFubHFCbDRJbWd0T2p6VDFKaGRBeDBRNUtVSjUtWTBvaw?oc=5",
+      "source": "Vermelho",
+      "published_at": "2026-10-10T13:56:00+00:00",
+      "score": 41.07,
       "corroborating_sources": [
-        "Rádio Metrópole"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8fcf10716bc689c5",
-      "title": "Trump criticó a Zelenski y sugirió un cambio de liderazgo en Ucrania - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2gxUFp4SGNrUExJVFp2bHVjUU5HU01xd3poblRIM2RXU0p4dFNNWDhubDFVRUFuWjZodDFyek9wR1Rub0F2Qjl1SWtsN2lBWjNJV2c5TjJvUFJNMEZHZVdBSEk2R1JUaFEybGtCZTVBQi1ocVdYQW1jMmtLWUR3ZWphYWRxRDlnOW54TVE5QjVaTC1tNWhJYlhlQUpxdGkyWEdMX1ExdzlVSUt3eGs2N3dMUdIBuAFBVV95cUxNZjk0Tl9OT3lrZ1J2aXZOeWRyc1NnWmo0UHl4SXRLWDhKMTlrRThMYWR4bWNSc0thZDE3TWI4V05HY2Y0ekgzcG9sdnpXaHozY2VSTU1PMm5IaDRKbk00bXc4dUZMVzBUdzY3RVhTRnh0MnVWSUxKaldvMjRrMUZBYzJwWjVJODVfaDNieEhGZDd1Mm85eFJSVWdNbHhQM3RxRmtSeUNtbmNDVlZWbkZFMTNNaDRRZmo2?oc=5",
-      "source": "Cadena 3 Argentina",
-      "published_at": "2026-10-10T20:57:59+00:00",
-      "score": 40.42,
-      "corroborating_sources": [
-        "Cadena 3 Argentina"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d962a82fa58a6953",
-      "title": "Justiça marca nova data para julgamento de extradição de Zambelli da Itália - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFpyVlk5MlV4dmZsWGM5QlhUS252MUt4WXIxWTdFNHQybTNrSWFwdEg0VUJVaS11Q3dZbkduVEJMc0g1ZjhVaDRVcUsxOXAtY1lLX1F0NV9MOUlhN0I2MTBuMEF4SUZOcVVVeTY2bXVpTDZUT1JwLWxuT0JUS0JTeFNtMWpIWm1MSF9tTWd3bU9OcXZ3c01yU2ZzSDBrT2tIYmNoUDg0MDhadjBS?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-10T14:22:00+00:00",
-      "score": 40.41,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "14e7248bcf3efaa2",
-      "title": "Rodrigo Simas grava participação em Quem Ama Cuida - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ0dVZ3VNSGFBSTlsRmE0elBPNVdZQmZhN3lJemdDeThZcTFlRDg4VVpwb1RmelFwVDFaNWFrWWgzTEF6YTRBMkhOdE1ZMGVYZllTaHh4eVBBMTdxQjcxTWY2ZkhyMWxmVDhSbEQ2c0ZfLVM5ci1IT1Awc0cydVBzTTdIYWtITkhLZ3pnQU1RZldjVXN2ZEIwcjdUbHF4XzEyMGc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-10T14:00:00+00:00",
-      "score": 40.26,
-      "corroborating_sources": [
-        "Metrópoles"
+        "Vermelho"
       ],
       "signals": {
         "source_count": 1,
