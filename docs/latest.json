@@ -1,464 +1,54 @@
 {
-  "generated_at": "2026-10-13T19:19:22.919597+00:00",
-  "next_update_expected_at": "2026-10-13T23:19:22.919597+00:00",
+  "generated_at": "2026-10-13T23:44:23.944076+00:00",
+  "next_update_expected_at": "2026-10-14T03:44:23.944076+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
-  "items": [
-    {
-      "id": "91068b3b26d5e4ad",
-      "title": "Un monteriano gana premio internacional de consultoría política y lo recibirá en Washington - LA RAZÓN.CO",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDkwNmJ6SXZQc25xZUszSml0ZElEVjROU1RvQmFHcGo5YlAwT1NYa3Nhb2VzNmw0M3hrcS1OT3F4M3o2cXBJWUFwd000MGxpRVprdDh6T09Ib085d25lSjB5QmF2WmJtcDhOclZROG56LUpoQlM1RWJYa1QwRlp6MWNfY05GSFVDVGthenFUemNYbXM3djJldnJHVlZNSEVfNDhQbjgtd3ZKaXNNazZMMg?oc=5",
-      "source": "LA RAZÓN.CO",
-      "published_at": "2026-10-13T16:15:38+00:00",
-      "score": 71.81,
-      "corroborating_sources": [
-        "LA RAZÓN.CO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "438a98edef65a175",
-      "title": "Germany Politics - WV News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2hNYWY1bFdjME1UM3lxRWQyQWk2R0RiTDZKMW55dTBIcWlYQ3ZzMEpOUnExV1NwdVdhNDhJREpkbEpRbF9BMFZMMXl0cTJkX3Z6U21KUFZHMm9LNXF4MmM2ejlvTUVfQWUxU2I5R01ub2ViRHBZOS04enZLQkJfdEp5SHl1dkNCcllNc1daLXNUSmhtTVR4d0I3U0U0SWJXNk5rbg?oc=5",
-      "source": "WV News",
-      "published_at": "2026-10-13T15:19:34+00:00",
-      "score": 70.75,
-      "corroborating_sources": [
-        "WV News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "630121f3c0eeebb4",
-      "title": "Trump’s Diesel Gamble Reveals Washington’s Waning Leverage - World Politics Review",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWdvY1VWRWNQM2dudnRVTjFFUmp3WUhJVXc3M3c3a25RZnBUeml6ay1fUDN2bFk2ZXVpalpmYXRQTVVEWWFsRE8teHU5a3NMTjlSYW5xMi1RR3lHQlZtY0NLTUtNZlVRYTRmdG1fb2p2dUU2OGxhQjdybzBaaFpXOWlNZ2xib0hBVGtEYmd3U2ZjZmlraEtnVA?oc=5",
-      "source": "World Politics Review",
-      "published_at": "2026-10-13T13:32:56+00:00",
-      "score": 68.81,
-      "corroborating_sources": [
-        "World Politics Review"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "67544d89cafa58d2",
-      "title": "Lula defende Sul Global; Flávio quer proximidade com EUA e Israel - Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmVDNERPNzlEVnFmaW5zb0xpbXZKVXpYWEU5N3lTdUxJcy11NDNPUXBmZEp3RE1rV3lBbzNBRWFvcVloV19lOEYzb2p1enQ4VnR2MktVd0dlS0NYZnptdFFmTngwT0NJQ1hzQ3prZzNNQlVWZFRnb3dnZnJUWVExVklWM05CUm0tQU9BMzI5Vnd3c1Z0T1E5Mi1pRU1WYU03OHhiY3pqakhPYUth0gGwAUFVX3lxTE5tMXBrSHdYcllQMTdwdzlFVGpWbHdiN1V4MldIY0JVam9pUTlweG4tWlNVcUVFcXpFXzFXbE92eDJlNm9leENESUhaajZVd21hTVpQM013UUstck42RTJTV2I1OE9VLXlDSVFYdFNBRWZPOTM1UUlGSVBhY1NheEc3cERTT3UyNEJxT0Zma1pPUWlCOGxLZzFseVpEd2tTY2JMc2lSM01HN0VTNV9kQmpP?oc=5",
-      "source": "Folha PE",
-      "published_at": "2026-10-13T19:05:00+00:00",
-      "score": 67.18,
-      "corroborating_sources": [
-        "Folha PE"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "40654fa08966509f",
-      "title": "Donald Trump’s approval rating: the latest polls - The Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWVoQ3EyRWxHRV9HUGVDWi1SQzZ2ekp1RElTV3dtZ0c2UEFiVG1QUHR3V2J3ekNOMW12VjQ4bVp2eC1iUHdBZHJPTzZJRHpPQ3lSdC1vRDRGN2lyS21ONktWZEx5RWFhTjRFWnFMZ1BkTGtwX0J0bnl5TkVnZ2JEU01TeUprMmE2V1oxUVktVmJ6SEdkc1hDYjY0VEtlSlRJYjBLdENIWE9mQWdJa3hjQldHM3N3dw?oc=5",
-      "source": "The Times",
-      "published_at": "2026-10-13T18:35:59+00:00",
-      "score": 66.58,
-      "corroborating_sources": [
-        "The Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0dd397a77197dfc7",
-      "title": "Por que é uma má ideia seguir o modelo econômico de Milei, inspiração de Flávio Bolsonaro - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVVQQUJLQ0ZnUzdnMGJtOWU1a0NlUUh1bl9VQV8xYnhZSGFyMlB5ZzRkRlozUlhESnM5M0ROR1Zmd0dlYnF2Q24zZDV3V1RkUm9DemlWWFZCekx6RWszMVIwdHRweGVkS1dJOFRpRmJPcjl6dHRoVzhIcW9TaGVWOHB0a2tVWDk3OTRuYk5RSFhuTFJGSUNOZHVVd3lhYWN6VTlmeUl0MEpKcE5KWWhZWklzdXpTdlBOekQzdHFqWk1JZmtvZHYxQVVHSl9GLXZ1Qkt3dTREUTVaTTlMZ0E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-13T13:00:00+00:00",
-      "score": 63.23,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "57980c8ff4d3a2ba",
-      "title": "Pesquisa PoderData/Aya: leia os resultados de Lula e Flávio no 2º turno - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3dhdTUtb004dklxTVlvQUxSbmdhbjlmaFNqNldLN1ZqMTItdW51SHljTkpNSzdzcjBpQjZnaUY0TEJERXptUVFubzVET2hhQXVwOFdLdHA0YkdXWVBfdTFtMkdCYnU3SjJvRVRsaW5KeTdfeFJCaEkyNFFGZWpQZENDdEVQVWZxc2J6bnRCN1dSb1lzcVRCZi04REs0UzVaSWR0VWJGaWtwX0lVbG1YNg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-13T12:12:12+00:00",
-      "score": 62.4,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ba509eb40575d939",
-      "title": "Irã diz que não tolerará “nudez” das mulheres sem véu - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbWdvUUVpWUx3WXc3NGhJR1p0aGk0SkhFeG9Xa1ZqOEhOYWdzc0FEWW1MWVpnUGtOeEFSU3lmMzJXRnRDNE1rMkpxbTJiMzk3ck85LU9FUVdRSmUxWmtDaEh6U01XczEzTkVHUEFfV0hrUnpDaEtSSEthWnItTVdQa3N3WHdncENtTTJGS1REM1Z5ckt0aElEdThHdTBLSUtITjc5UU5FQdIBrwFBVV95cUxOSmRKYi1uUGIxWFNwc0hyYnlPeHN3NEhZc2VxZE5Hcy1VN3lsVGpESTdUVlFvMUROdnlLYS1YYVVIUHBzei12eUM1QlJIZ2RPQk1wcVVGVXhPb1VueFRDeEoxbXYtSF9ib2NyZjhwUi10MG1uQ1Y1a1RZM0JpWTBSLS16cXlrNnZYalhvSk1qZHdHMFZrWUhrUHViMjIzWVRvUTVxZ0dYUmU1Y21Rc01J?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-13T13:56:00+00:00",
-      "score": 61.22,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cbe1ad04b01e6830",
-      "title": "Opinião - Deborah Bizarria: Nobel de Economia premia estudos sobre consumo e inflação - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbVNod0xJWFZmMW9kUmVtdUpMNFBrUXZLelZnV1pBREFDbWxja2JIT0FQU1AyME5fS2pBZzFiQ2g0Qm9TWlRQOWp4N1ZzUDdOMHVmeEtSMTRPSHhnckhKbUNDbnRUTC1hMDNoQXlsUTROZm8yVmRPVTBCWTRzTzRVLTFYRjY5OEE3Y1dnZ1BEalZMYWRENnpTczVNZUd0dEVyaHBCWU1RNlZXUDdNbzlSaXpQWDM5emdCRUdsVkozQm5OT1Ns?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-13T11:00:00+00:00",
-      "score": 61.19,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d853c863d5f134b9",
-      "title": "Saiba quais indicadores e balanços saem nesta semana - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFZhT29USmMxekVfc0RfTVQ5ckI4UDVHVDUzNDJyQ3hJOGJqYzN5X3V3T3N1UUNqU0w1d0hKTUl3czctMTJhNmtYZE9PRHJqNDF6NG9SSUZiVElXcWVtNURBX1pBZFBoNjBKbm5xNDktNzJTaGZlTGdTNU5DWTVjRVM5UWYwWVRHVzdUWjBaOVBNaHZUck9GT09YWWhhaWJG?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-13T09:04:43+00:00",
-      "score": 59.33,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9104adab7198e90b",
-      "title": "\"Si no cambiamos las reglas del Orden Internacional, seguirá habiendo guerras, hambre, desigualdad e injusticia\" - Religión Digital",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY283OUQwZktqN2VLRTRZRG9WOThnTkNKTWo5MkRxeUR4eEFEaVRSU3hMN1FSdS1NQWtLanAxUE9LV3BCcEVuRGFCOWdoOUY2RmstcjJDWDdTQ3BzOTh1cFZfQ2w0RFRoZEZ0bzRWczdwODJmQVJteHNNeUtaTUM2Ynd6bmRSdjNEb3NYeS1jNDduTmVfbFBRTEVITlFFQ2NLanVxbGg0X1RlOVR4WmZCeHQ0UmR4S29EdkpWdHdJZUppbWl4eHlJWHF30gHPAUFVX3lxTFBZbW1GajZyUGFCM1lyMi1tY1FKZXhYa3ZnQlpWV1JVVjBqNHJsMUR2TERkSDdZdmFWam91RGRpUFN1VHVTZG5Gc3hIMlVJaDFOZW5RMDY5UVQ3cXd6MURKWEMxTGNjcnlfdk1tbUZINHlCcGE3NnZid1ZBOGZJV1pIcFF3QUZZcWtKcnQ3NHFOdzRVdzFhWG9ocXZ3a2NtSVRnTTlkWU4ybDJ3Y1F2NWFEeXYwNEg1MjZDcXlGRmJiRmI3bEo5Y3pQSmlCTUdmVQ?oc=5",
-      "source": "Religión Digital",
-      "published_at": "2026-10-13T11:03:45+00:00",
-      "score": 58.25,
-      "corroborating_sources": [
-        "Religión Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "50777047980afe4a",
-      "title": "Most Americans oppose betting on elections and government events, poll finds - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkxDSUZXNi1BUmVWMFJtSzBEZWJTVzdXVFhUb3h4VEo0TzhlZnVqMGpjeWI2c2hZNExaS1RheDhiMDJqbTh2ZkVaS2ZIV1FrV09lb3dUTTF1cDRfMnJxMFNoc0ZBTXBPMjRZb0YteXVtN0pLUml2dlNxbXMxcF9vMVBYb1MyNndkNlBJLWR1V3dGZm9mM05HbHBoVQ?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-13T01:17:00+00:00",
-      "score": 57.74,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8ca70c9404cedc58",
-      "title": "Três anos que mudaram o Oriente Médio - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwMF96b3EzUVg3OXRza1h4cDhUaFdqSzhjem0tdW1hVEY4a1BCNlFuSVdQbzZMbE5OMFhVZ0Y4OFZxMk5PeUhWaXJBdG10OHhOZW9rV2lfaGZnbWdwUzFZVWttZHU4eUZvcXhvZVZ4YWJrUVFSNjFfbVk0VVZfZw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-13T06:01:00+00:00",
-      "score": 56.57,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "03f353bf92aca583",
-      "title": "\"Neste momento temos o que resta no espectro político francês, que são os extremos a capitalizar com esta situação\" - CNN Portugal",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV2w0cFAtekJENmhkcUpjOWhlTFg5WGxkem8tNFNnSFNGTDdYN3VVdFNaelZfTXFjQUxJVTd0WC03YW10RzNEYmM1VXc2ck5zd1FjSXJnYzFqZlpiSW1NOU9GVFRybmc2QmlzNXltc1ZoeHFTdUM4ejFoOTZ5bmZ3RFhPV1h6bUYxX3pFcU9WcEVNNlhtWWNuWUxUMVBuWUdCRGVoMTlaWVZ0R3M1ak4xU2Rad2xpQ2duUXpmMFJtRER2ck9OaUhjMzNId2FWb3p2c3puZ296M0JOLUd4QS1fVmJOaDVVQUxhLVN6T0V4SEFjVHRGWGFTTG9XcnVBZC1o?oc=5",
-      "source": "CNN Portugal",
-      "published_at": "2026-10-13T09:08:31+00:00",
-      "score": 56.39,
-      "corroborating_sources": [
-        "CNN Portugal"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1bce499059e277cf",
-      "title": "ESPECIAL Informat.ro / Los principales temas de política internacional de la última semana. La influencia de Donald Trump en la guerra de Ucrania, entre negociaciones e incertidumbre - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1g5TVpDSkV3ZGIzb1NkbzZRRWlfXzNSMW5ta1ZnakxoSTV4Y0dGY2FhNXJZaDk1MnBETjN4czZJOXhyNGFwbjhObk1qckxvSnZERmhfQWprSzItb0RaelQ3VWVDU1NQbHl0bjZrcmgyMHNzVzdZTi04MXlfN1plZlJINDFxSVBCREpqaEtwdF8?oc=5",
-      "source": "Informat.ro",
-      "published_at": "2026-10-12T09:11:32+00:00",
-      "score": 55.91,
-      "corroborating_sources": [
-        "Informat.ro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bd7dfddbec3663ac",
-      "title": "Cancilleres de Perú y Chile bajo cuestionamiento: las críticas a su manejo de la política exterior - Diario Expreso",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT0tTUGlGbVFQQjcyMDdZa1FIS1d4VFVUS2RJVVpWNmFDaC1FV3RoQVRuLTlMY1BTdHBRa1RXX2R5ZXYwUjFNVF9HQzlqVXZEUWZGMWlhSHRsQ2QyY250c09NRVNwVVd4bDZWY3paekRMRnZrb25TeVc3ZzctbkFCMmtOWGllZk1zdzJwNVJMaXlxWXRsdlVNb0FiLWx4bXhNT1VjREdwTWxENkpxRGl6bmdSdnByeGkwSXdQam5MSGF1ZnlDczQyOHF3TG9qQ2NaWDZ1cEc1M0ZxNWZONVo3dXVFOXYwblMyZUN5UlRVMl9MZFlv?oc=5",
-      "source": "Diario Expreso",
-      "published_at": "2026-10-12T22:37:38+00:00",
-      "score": 55.8,
-      "corroborating_sources": [
-        "Diario Expreso"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "eecf6f7a45e9b65f",
-      "title": "Eritrea Seeks U.N. Intervention Over Tensions With Ethiopia - World Politics Review",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHVvaFlrN2NwSWxzNnB5OGQ5THpZeEQyQ255T01UbEhuZ1JIRm1fZWh2V2VpN0t1NmMzNUNRcWFJeXlLY2FLbENTREczcHpydnVxaE5jZDdEbEsyWmhkWThVckpnbi1OSFRDMUxOejJ3aDNaRjNUNWxzNlhTRjJQV21wTlY5OU5WdHc5aHAyVQ?oc=5",
-      "source": "World Politics Review",
-      "published_at": "2026-10-12T20:13:25+00:00",
-      "score": 54.17,
-      "corroborating_sources": [
-        "World Politics Review"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "22c0af4481576354",
-      "title": "Cartagena tiene un año para llevar más mujeres a la política - La Silla Vacía",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkpqNlBUdUlWYVBRaW5EaHRHRHAyYkFaLWtRSzRLM0VURjA2YmV6OVpWYnN0NWd6RzhsRzZrQWtxMVltZUxFRnE5V25JSjNLd1gwZFl1dkNSb2h0d0NwTTQ5UDlBcGljSXJELXEwXzdaMzd0dlY4dGxJSkdVWExvZTN3RTAwVURLeEtnODZ1emFaZVRXYWZITFZ2TUZQbDZYdmNVc0wtSTNKU0JlMTZEXzl1T1lKc0VyZG5Zb1NELThXLTg?oc=5",
-      "source": "La Silla Vacía",
-      "published_at": "2026-10-12T19:00:00+00:00",
-      "score": 53.37,
-      "corroborating_sources": [
-        "La Silla Vacía"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "595577bea9e8ed1c",
-      "title": "India’s ‘Cockroach’ Movement Reveals Modi’s Vulnerability - World Politics Review",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWc3elhHcFladWh0QUNzdHBPVUZub2VFR2xRUHBOUkRpaG9kbzdCaFI0UThWNkl4T3N1MlIwNkZwTlV5RTNzZFFyOTlZT3JYdWxJOGF0YmdDVF91UmU1WXdkRDQ3TURqZk13RlpoZ1VkZ1M1OThwdHVZM2pFRzZEcU1FRlp2dXVOX2FsT3M3ZnJBZ0U4?oc=5",
-      "source": "World Politics Review",
-      "published_at": "2026-10-12T18:33:06+00:00",
-      "score": 53.09,
-      "corroborating_sources": [
-        "World Politics Review"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "487092e5cb3387a7",
-      "title": "Guerra de decisões de ministros do TSE afeta campanhas de Lula e Flávio às vésperas do 2º turno - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDQ1UHRYM2hYUzFLVzRscHRHbHNjVTJ4U0NGTlItWGN0clhacXNOSFhjSXNCVHNsMUotYlF0Q3Vwc3lJNXA5OWtiMVkxY0xZTm96STRfQjRQMnVTLU9wRTk3VWhSNnpkTDQzZU1oc3RKcFg3bjlsZUpRTHo0c0xOV29rV2VaV3VRRkJfX015SUZaelJDMng1eTRmek1vWVE3MUdKMENLRW54Wmg4RDBkTDNDc1ZZSHNjbXpPYmE4X0xhTlk3UXExVURuTzFZSlN0T3Z6a0xzUdIB3AFBVV95cUxORnVKemRMbmR1MEFNYTc4OEQ1U2dscXdmbTdtX3U4VXZ6dE9ZS3U0Tmhfd05LQmtJTnZxWmZ3QzRRUVZLMmdjdmlWOTNTZ1JpSnd6MG4yMG50RkozM1hpZXN4R2wyaF9EbW1BSXBQS0J1Zkx6RXZTWGQxMGR4M2hPLXI3RHdiRGt4cm1pR0k1QnByTHlRRHQ1amdPcmE1SU45WVBkNUlPQnJHa0dYR1k5LW8wTHRET19BVnI4enVacnFEdjZmY0dZRXVxcTRIa3RXdUFNeWwzZ21fNmU2?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-12T13:24:00+00:00",
-      "score": 53.08,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "58c6bffb8bb06f30",
-      "title": "POLÍTICA INTERNACIONAL DEL PERÚ - Diario EP",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5aVNPWUtYUjBGM29oMEFlT2xvYkMyUkUwVy1mOF9UcGJrQ2MwcExBQjFZcHE3VnkzX1RLZ3BJVkc4M1ZMdFdZTVY1b1Y2STV3SU9teEJHbkNXaEVNRVhXLWtkdHNUaVJ0djV3?oc=5",
-      "source": "Diario EP",
-      "published_at": "2026-10-12T17:57:36+00:00",
-      "score": 52.72,
-      "corroborating_sources": [
-        "Diario EP"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a54912cc796b51ef",
-      "title": "Bemvindo Sequeira rebate esposa de João Gomes sobre isenção política - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFg5NS14UmxqbGxzbl9wdFRMWUROeVhBcDJuYlhYRjVKaEY0bWgzbFlCeXpwaWl1SjBTdVRKSVhRUVBWZEFxTGlqODZ1NVEtQWJ6dmpSc2xPczZ4XzZjZ3FzWksydFljQTFvMUNZMHAwS1VzclhjeU1tNTd1NHkyN0pOLXM5OHY1TkFuczBaTTBlcmtUMUNja0ZxQVd0akIzT1NtTWItWE5BbDdyQTBpZjZSZDdJbEtXNEE?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-12T12:00:00+00:00",
-      "score": 52.33,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "92f5137d1cbb1117",
-      "title": "Geopolitics and World Politics Monthly, Issue 01 - The World Will Not Wait for Washington - Shanaka Anslem Perera | Substack",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWItT0tfVmRNNy1ISlVPc093dXBEU2xfY0UtaDFJQmFUM1puazI5SS1KU1dTeGdlY2QyOXNwSWFkdVgtakpLalBvb3VUSnhTX2tTSC10Qzh2VXFGdVVMLXhMRmJHbmNhNXNxcEcyNHowVG56SkZIVzhEbFhFVjUxa2kySExmVy05?oc=5",
-      "source": "Shanaka Anslem Perera | Substack",
-      "published_at": "2026-10-12T13:31:03+00:00",
-      "score": 50.14,
-      "corroborating_sources": [
-        "Shanaka Anslem Perera | Substack"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "68c80a3e6e401df8",
-      "title": "Trump’s diesel deal with Putin causes GOP heartburn before vote - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXFobWh1c3VqYlZMdm9lLWg5Y1I5T2J4ZkVoekNoTXF1NmtiQnpmb1FJVVpHejFIMGZVUno0blNycl9nTnE2QldvajhSc3FnT3Q2Umw0Q1hseVNseXYtLUNUcHNzaEpuUHJhN0MwbllCSTVtOHJBbG5PTnhGU29HRklockROVUpKbWpmNUJuSQ?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-13T01:29:00+00:00",
-      "score": 49.89,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "98e283a89b3cd65c",
-      "title": "Mariano Saravia: \"Nadie escucha lo que dice el Papa y los obispos\" - lv16.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXA5RC1BcWpxRlZLay05c0dZSkhQUGFIVjhwa0g3VXlSdmJ0Y1YxQ2doNFRuakpxaUtERmRqQjVTZlFCWnFtaGtaWjdRQ3ZfMDd2ZWpCdnl5cktSWC1BMXRxejdnOWJPRkxEU0hWak5Nb1h0dTFLbTJ1b0tPdm1ldnc0REI1WFdfdUJUUmdNbmxma3ZhUDB3OThkc1dSTmVHR0FDWA?oc=5",
-      "source": "lv16.com.ar",
-      "published_at": "2026-10-13T00:53:00+00:00",
-      "score": 49.44,
-      "corroborating_sources": [
-        "lv16.com.ar"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "64d72d20681ca586",
-      "title": "Opinião - Michael França: Lula valorizou o salário mínimo, Flávio Bolsonaro vai congelá-lo? - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ0s0SDB3WG1ubTQyTXJQQlIyZ3hxSFJTQ2pEUWZkNk5vcm52SGVWMldRbkdwaEhzbkx3Z0hUMmxTV1pWeG55WHZIZ1MwSGw4cTJmWmJhbUxXZ0Zlbl9FNzZFcXFyR21Bb09VTXVUeVVQX2t4aTZ3MGxtbEUyQTA1SFU5d0g1aHk3cFM3VGxhWTg4N0tLWkI3RndJMndfVFhaZ3pDaU12VXE4ODA5bzcxdlRaWm1KaEFhYkJzLVBBdUMwQ2ZJT21NSmhB?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-12T20:32:00+00:00",
-      "score": 49.37,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "51fa8fc0cdf05ff7",
-      "title": "Oops, wrong Portland! Ad blunder carries $25K price tag - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTdNR3pIX3R5bDdobDJTWjZNNjBUUjRpRlZTbmwzWjExT2FhWDl5RVRIUEFVMmtYRC0zWFVMV1pKZ21VZXRkOVM0UnZELUlpcWhjUUJRT215UjNIQUVCU2RJdmdoMW9HWFJ4YjNKMXJOalY0OGtVbnlSQ0pOblZqaTMyREVTaHNid2JXM083UnNzY1hxMGl5U1lBRW9YblltRXVZaXZkSQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-13T00:41:32+00:00",
-      "score": 49.3,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3d7f5dbe12eac7f4",
-      "title": "Milei vuelve a Estados Unidos: empresarios y una agenda política en Washington - La Tecla Patagonia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEJibWRMamlWVXRHMDZIQ25QM2RrM1I1T1E1ckNHZ2dQZ3ZXdlR3cHF2YmlwN19USk5pQ0xhc3dLMThwenZyUHRwbVFzXzdXcTNIaUUwNlRBN3RkdmFfdVpkNnJ2NlBWU1JSTDIwaU5pTnBLMTlxYTczd0wybGJ1UUx6Y0R0c01rSnRTLWRnTW1jUnd5YkY1bEZ4UTJkcGtEZEZKYmNZU0RoVGxCd29WT3ZiR3hNcUlZeHBiXw?oc=5",
-      "source": "La Tecla Patagonia",
-      "published_at": "2026-10-12T11:10:33+00:00",
-      "score": 48.9,
-      "corroborating_sources": [
-        "La Tecla Patagonia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f4c6adbd8772cc16",
-      "title": "Campanha de Rafael Brito conquista prêmio internacional de marketing político - 082noticias.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDJGb1NCdUVpbmNWcmpkUWJpQ3VRbEMxRWI4RW9mdGwwNVROaDdPdmh6dGZwbkpwcldjN2p2NFdVZ19wc3pkVm9Rci1rVTN0UTdUSjlEQlBkRC14WkxlckhEallKYURFZzR1T0RnTzlXdUlwZzNfenFhVGZhV3A2OVdsbkdpZGZ6di1uUlJpX3ZHaEhhMTEwekdhd01SaW5HV2lqRElzZTFCd041M0loZA?oc=5",
-      "source": "082noticias.com",
-      "published_at": "2026-10-12T23:37:06+00:00",
-      "score": 48.51,
-      "corroborating_sources": [
-        "082noticias.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5d34edaf927d19fe",
-      "title": "Apoiadores de Lula fazem ato em Copacabana, e Lindbergh compara mobilização a 'caras-pintadas' - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEVfbXNSbHY2dktqbXlxbnB2OHpMa1RsSWU1dGI1N0Q4bEhmMXZuemVpNHMzNkdOdmdTcUJJNTF5X05BYWs1MWZvQzZaV2E0UnNUMEJsMzVpSGFiTmFUdTM3YmdPRjN5UUtEWHNKczdHa3BUS2xISE5uYXR0TGd6ZklQaDBOQjA3OTN4WlJ4Q0RMZkRKd2VmeTdnLW9OQlFtMll6ZngtVkw1MGhrbHFFM2lDdG9uUGpiTVVZX0VIQQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-12T17:48:00+00:00",
-      "score": 47.62,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    }
-  ],
+  "items": [],
   "source_status": {
     "configured": 10,
-    "successful": 10,
-    "errors": []
+    "successful": 0,
+    "errors": [
+      {
+        "feed": "Estadão",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "O Antagonista",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Metrópoles",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Folha de S.Paulo",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Brasil Paralelo",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Gazeta do Povo",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Poder360",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Mundo — inglês",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Mundo — espanhol",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Mundo — português",
+        "error": "HTTPError"
+      }
+    ]
   }
 }
