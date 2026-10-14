@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-10-14T13:45:59.208128+00:00",
-  "next_update_expected_at": "2026-10-14T17:45:59.208128+00:00",
+  "generated_at": "2026-10-14T20:13:21.900257+00:00",
+  "next_update_expected_at": "2026-10-15T00:13:21.900257+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "aa755809c3c93b00",
+      "title": "Falso adesivo sugere divergência política entre empregada e donos de apartamento - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGI1YXhvbkxHUHNodzFQVDRQN2FaTmU4X2hRZWNGMU5fRUF5ZDNNdnlIcU44UlFiOEdMcUFDZXJFTG1TMGR5bTZkSDVDeWJBR1RDdUtodzVYVFMtdTMzZkQwSmpUbko3Y2VrSmFQY1BNSVgzMTZCWVc2ZG9GeG42MFNyNmwzazYtVlIyeVJzT0FFUWRuY1RSUm4wNVhxYTVNMXZSTUdZQWY1NzRDSmxyOHZvMA?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-14T14:41:03+00:00",
+      "score": 72.06,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7c6c7e03f61ad456",
+      "title": "Supreme Court weighs privacy law from the videotape era of ‘be kind, rewind’ - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGJfd1dmRGFjT1JCWDlaYUplMjZYUHVYRWRnRXZnUWtyMm1hOGc4WXBIaTdURHh6WWthT0FfY0dSYk9TUE1nQXNnMjY2NVVTLThwQXhVRXpXa0JJeWo3Ti1uYW93WS1leHZPbk92aEdqcVVJQUdpdVdXTExyNFlGU0xWdXQ4blIxU2o4X2twQUhJbWg2ay1POTZjWU5LWGZWYTNwNnA3WDJWYWdFNE4wdVlSTHNnVVB6N0hBbW1FUkU3SFdHTWF3Q3FaSHk?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-14T17:13:25+00:00",
+      "score": 71.88,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "25a8b494c9b0534f",
       "title": "Ana Palacio critica la política exterior respecto a Marruecos: \"Es un socio complejo que tiene una imagen internacional tremendamente buena\" - COPE",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSnFST2pZV1llRmtIWU1QakRDVHpEWGU0LU0tbTRnMGVhbF8xdTRNUEYwSHR0dkFjMWZ2enhlTVptX2d0RHRBa0U2NGR2a0hsSk4tcGdSak1aeWE2Q0RfeGhRS1I2Nm5CTkMyekhUVE1fcmpiLTRuSWw2cndCMVZvU0xmM2ZjcGUtZUZISlZZUlJydVVIQ096S2ZueDY2ckJvYkdCOHhxY0ppajF0TUNLRnhRbVdKLTQwZWNGUjNXNFhhZDhpcmttSXNIbHdGR3lONzYxZGlfZnYtRGdwaEU2WkExdFdPSmd4V1o5UmpTZWF5ZU5lcWF3RkhmVWtpcEpCbXBEY2Q0QVlwMVZTN2xVblI5VXVzd9IBmwJBVV95cUxOUnZPQklZYkY2NXlZdEM0dFFZdzcwVVBUOVJmUGozY3pJT1NmWC1qemwwLUJxQWdLWW5ZNjdDRFNOTlhLYm5GcWpmWkd2ZVJPMTVWTmc1ZjBvQlRxM09EeXNHamE4c1JjdkZHX1kwYUVCRkhsUlN2VUNoWW5wTjFCNVE5VlhJM0t4UE95eU5TN2ZVcks1QXgwRjZOZ3hNRGdvOTA4V1RQYTA3TUItdDlRdzlNOUJYWlNtTjFNa1VzMEpIVEhnWmRmVWhxNWRFOG54RUdzRkowbkFHQmxxV3hzQUx0X1NXbTF6anhxWksyT09mc2lPTEQxR0JQNFhEcEQyNnM0ejFPSEp1TkduRm1CYk1fN095aFFLMEdN?oc=5",
       "source": "COPE",
       "published_at": "2026-10-14T12:09:08+00:00",
-      "score": 73.5,
+      "score": 66.44,
       "corroborating_sources": [
         "COPE"
       ],
@@ -21,14 +51,29 @@
       }
     },
     {
-      "id": "a9c113bbe6ca8c34",
-      "title": "Boyer Lecture: The boldness Australia needs has no political home right now - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2o0Z2Q1OVppOTliUUloVUxXVmhCbU1ieXlZWnVKWElkRGVvSHV6dlZ6bUFBam5yWFlpbmJtN3loaXRHZUZ0MWd4SnBKMTNSWlJSc2ktVVE2X0RpWjZhQnZ5cVRFZlFUSGQ0VTlxdkFBdmVlNHppaExkY3Z0ajFKTk5WNjItaEZEaGYyMzczTWtJMjd1NlBYUkgwYjlsTmdo?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-10-14T08:10:08+00:00",
-      "score": 69.0,
+      "id": "ff44d3bbbf8cb3a7",
+      "title": "Rubio busca apoyo de Bukele para restar respaldo internacional al régimen cubano - ADN Cuba",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjlGS1E5Q205a1A3QUpvNzhkbE9McGl4emhNX2FNQ1dSNW1pSjhBMVF6ZTJTV0M2R0x2SzhIQTlucEdMODhjcERyeFI0b0Z3SERrZGlXWmozYTQwbGpVN3pKSVdEOVBkRmcyVk41bm11a3JPN3FGR0FITzRxNmttekxRR1JDelU1MWk0ZVp3cWVmSzN4OXZfVVZuMkxRbFZnVjFiWWw3Y3c5azVQSndJ?oc=5",
+      "source": "ADN Cuba",
+      "published_at": "2026-10-14T18:56:15+00:00",
+      "score": 65.9,
       "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
+        "ADN Cuba"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5fb7531bed97ab0d",
+      "title": "Grass quer aproveitar embalo de manifestação na Esplanada para virar votos - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmplNUFVN1ZVa2I3ZzVkRTJFLUN6X0ZMalZUenlBYTh5SzV5VEtwXzhxM2YxdWxaWXhMQUoxdjJ5T0lnZ3o2U2JheXBGY1RXUkZ6UkhoUUtaYVhwY2RRU1VYYlEwX2NCN1l6RGNRRk5KUXlvd1NJSTV0a1BDdjBBMm9uVDRuY2M5Uk1pLW9EZmtxZGxKUDJfdThvTXVSemh1ZUxoX1BiaFlZbXRkVTI2M2Zzc0dBbHBjSHc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-14T15:49:00+00:00",
+      "score": 65.29,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +86,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDFSbGdmSGluN1ZXMHhiNVE2c29yTkNUTGlJM0U2Ti1ydmo0ZEd1eDdTZHRHVHR3aTVjNVFSWWp3bkZrMTc0QmxwSTlKM2tMeGtoUnV0RnFvYV9XZUFuemFnblFsbFBaLU15UUk0bWJIenJYV3FtZThWblJJZDJobGVoei1vT2x3cTlEdnNmdG5rSzl6Mld6Nlhnc2VtRDlZcUFzNjBZaUlrdVhfOUpSODhUdTlBcUtZTUI3YVBnYw?oc=5",
       "source": "Asamblea Nacional",
       "published_at": "2026-10-13T22:47:22+00:00",
-      "score": 68.16,
+      "score": 63.29,
       "corroborating_sources": [
         "Asamblea Nacional"
       ],
@@ -51,14 +96,14 @@
       }
     },
     {
-      "id": "ff44d3bbbf8cb3a7",
-      "title": "Rubio busca apoyo de Bukele para restar respaldo internacional al régimen cubano - ADN Cuba",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjlGS1E5Q205a1A3QUpvNzhkbE9McGl4emhNX2FNQ1dSNW1pSjhBMVF6ZTJTV0M2R0x2SzhIQTlucEdMODhjcERyeFI0b0Z3SERrZGlXWmozYTQwbGpVN3pKSVdEOVBkRmcyVk41bm11a3JPN3FGR0FITzRxNmttekxRR1JDelU1MWk0ZVp3cWVmSzN4OXZfVVZuMkxRbFZnVjFiWWw3Y3c5azVQSndJ?oc=5",
-      "source": "ADN Cuba",
-      "published_at": "2026-10-14T12:59:55+00:00",
-      "score": 66.53,
+      "id": "a9c113bbe6ca8c34",
+      "title": "Boyer Lecture: The boldness Australia needs has no political home right now - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2o0Z2Q1OVppOTliUUloVUxXVmhCbU1ieXlZWnVKWElkRGVvSHV6dlZ6bUFBam5yWFlpbmJtN3loaXRHZUZ0MWd4SnBKMTNSWlJSc2ktVVE2X0RpWjZhQnZ5cVRFZlFUSGQ0VTlxdkFBdmVlNHppaExkY3Z0ajFKTk5WNjItaEZEaGYyMzczTWtJMjd1NlBYUkgwYjlsTmdo?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-10-14T08:10:08+00:00",
+      "score": 62.67,
       "corroborating_sources": [
-        "ADN Cuba"
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -66,14 +111,44 @@
       }
     },
     {
-      "id": "e4f89269a6474b1f",
-      "title": "Atos pela virada de Lula enchem ruas em pelo menos 37 cidades - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTY4ZW5IaDlkSFlic2VTYTl0RlBnVWFwUXNVUnFCZlFlWHhFRDktU2t3VEp2NXZ0U0lBNEZMQ3dLTDlzaUl0VTZHdEhyc3ZHQmxCZmZ2cEtvczAzeVliQzQzTmNiSzZ1Y1RwU2ZndDhqdktOUV9vUG1YajdDazEwU0x5NU54Y0J5bjFuNDVELXU5R3UyVlRONFdoWTFMMlpoZkhiTFIyOA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-14T10:21:13+00:00",
-      "score": 66.41,
+      "id": "76036873f91dd305",
+      "title": "Encuentro con Franco Delle Donne y El Orden Mundial. En la mente de… - Espacio Fundación Telefónica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUpVMHBCZmlVanE0Z2p0OFZuT1dSOFBPd08tcFJ6a2VDbk9PTzNfVS1QUXhacTJnTWJkV2NvVVBCTlFNNU5MVmxoczkyM2M1TGFSZVVvRG5BWVZOOXQ5bk92Y2M2UFJKVWJuU2I4bDFHTkRpRUxBT0R1cm5haVg5eENUTDZDUEZ3UW91czloR1hlelF6RkpXNmNSc3J1Vk5abUgxYzlnVGd3LWx2ck9vNFZzSTY?oc=5",
+      "source": "Espacio Fundación Telefónica",
+      "published_at": "2026-10-14T15:32:34+00:00",
+      "score": 61.99,
       "corroborating_sources": [
-        "Poder360"
+        "Espacio Fundación Telefónica"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ebfe28337c443fa9",
+      "title": "La Provincia anuncia los ganadores del Premio Malvinas Argentinas - Provincia de Buenos Aires |",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlg0WV9jU01BbmVBM01tY1R6aTF5eDh6Mk1nNWhmQ1NIX3Q0TkJlODlZZTVjamg5b1Q1X0dLX0FBMW1Nenh5UHdOVkxhOVB0Q0VmSloybEliWGFXblk5ckxXbUtUcThGMnBYQXdtYXZXbW9JY05yLXhEZW5zVEtRZnZjRllkQXFwTTV2WDU5eEdQWTRSX0t3MmZxNndxSVBQMVVPX0JtRG51Zw?oc=5",
+      "source": "Provincia de Buenos Aires |",
+      "published_at": "2026-10-14T14:49:59+00:00",
+      "score": 61.22,
+      "corroborating_sources": [
+        "Provincia de Buenos Aires |"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "922cec0d1e40cb26",
+      "title": "¡Abajo el Escudo de las Américas. Fuera el imperialismo de Venezuela y fin al bloqueo en Cuba! - La Izquierda Diario",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUt2QUZuQkNqb2w4ZXduYmd2THJjVl9hV2F4d2hPd3Y3VnBIMm5CWTc2TXRQYTVGaHBmdXFtZlJ5SDN5S3BhdU1LYzRqS09aamlKa09Rb3hJYTg4RmxfT2JTakVCMUgzaFNTa1hoc09vbC1aOFAxSkRtZlZodzA5ZzNvLW5UQS1DWDhWaWRjd2VKVzZJdDJ5NzlDZ2gzR0Q0YzJKQ0tZTHBMdlNhb1hPczJFZE5YMXcyYnpFejhkVTdpY3PSAcsBQVVfeXFMTUZjeFNGcTJ0Q2hoekY2enRUX3gtdkw1TEhudGQ5VG9qMmE2cDRfTmZTb2xacVRVSFE2SlNONTRtMV9heE1mN1M3RzJyZUxEWGpvcmV3NE44YTM0YUxWY2kxSU16NnNZeFJwd1NwMVlXcXhjNy1HZ1gyemJONFgzMi1zR3VhR29QOHJveV9TbmxETEhCU2RuOWlhLW9KdTRkSG8wUmlCa3E0ZktYQmpQa0dnWTBwVllXR0VDWDlmSHptZl9CWVl6YTJWRlE?oc=5",
+      "source": "La Izquierda Diario",
+      "published_at": "2026-10-14T14:38:27+00:00",
+      "score": 61.01,
+      "corroborating_sources": [
+        "La Izquierda Diario"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQk1LUUI4UUxVWmJWajdMdndHVGVCM1lqYlNPQTVCUDRVZC1NelhJZFllMzAtQTN5WjF5RWRHMWJBUW43QTFlRDAxNlJrWXJ1OGNqeWo2V0JQZHFfQm9ueVBONHFOUHg1bW9CSXNkN3FZRm9ENUFjTmdHT2phYkRVb3hqcDBTYnMtLURPanQtREVYSUR6VzFieEM2RkdRZFo0cEtXeXhmVTVaRHJ6YWZYanBRRTF0dXBiZ3EtRklmOGdWclZVbEpCUHd4b0pNWFczZmt4TDlqUmd6UQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-14T02:13:00+00:00",
-      "score": 66.13,
+      "score": 60.77,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -96,12 +171,42 @@
       }
     },
     {
-      "id": "2a35a938173919d1",
+      "id": "3d0d1f6857b5ef29",
+      "title": "Thailand's New Political Status Symbol Is A $60 Casio Watch - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbExzQ3k1V0lmajNRdFRnbGJBUnVIX180d3Q2X1hmLUpsaXhzcjU1OHJqSGE5MUlGeEdtZUNFakxKeWd2cGpZU1g3MF9nMGZlRHpmWUJkQkJWOG9TMUJ0TUdidkVfdC1tUWp2eS1Xdnd3anozR0IxQktxYVFRWGZWQWJFRG9UOEhuREgyMU9CMWlkWGpSNVZ2Z3E2ckREcnPSAacBQVVfeXFMTlBXSHI4LVpfaGdHRXlLWWUyVTBWamp3Zm5FZ2o3U2FjcEYzWmlvc0tUWWZyWERkMC1KR3BwUmR5aUFxREdSVF9GWGwzWVZ2VVAwRF9OU2M3WGZjSVZzdFJaMzFTck9OTXNHTDhEQ252YWRudkhRTkYydmtxMUswVDhWT3NEel9JQkVaWW9wVWM0UGY2MTlwa3hVS1p6UUZIOXYzaWl6ckE?oc=5",
+      "source": "NDTV",
+      "published_at": "2026-10-14T05:37:39+00:00",
+      "score": 60.48,
+      "corroborating_sources": [
+        "NDTV"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8787368d27813004",
+      "title": "“Espero que Colombia respalde los tratados internacionales”: ‘Navi’ Pillay, Premio Nobel de Paz 2026 - Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYW5iMk9BdllvcE4yZDk0RW4wLXd1Zno4M3NBdlVVcXlFRjh1LTgxenpJRi1pTFJmN0l2c3NfSUZqMlh6eXZObFotV1Ffdnd5WjZFaDhITVUzR2lwLWxtS1k0M2RhRXdXVWF6OUNtTUxlQ0p6X0pMZFVpQ1Q5VFJoUDZ3TWJzX0lCS25vdjZTMXpyV1B6WTZ1U3ROU2lnd9IBsgFBVV95cUxPaHVNUWktZGRRdi1SU0JodklvcE5naUc4dWwzbE93cjR4a28tb2xxWV9sbTRTVVhXNFZNX0xnSkl1aG1wUTZYSkZEWU9LUDZEUVdLQjFVTTRRNmdRTTdyOEVsYTB0OWZ2S2wzbHpVdWpQT0E0UGJkekUtUkpud0oxWEdJTlB4Q3FsWWY1TnVEZnlZRDJ6anB1ZVlfNVV2cjRnLW1ScDVHcGpDMDhKTExBQnFB?oc=5",
+      "source": "Caracol Radio",
+      "published_at": "2026-10-14T13:42:14+00:00",
+      "score": 60.02,
+      "corroborating_sources": [
+        "Caracol Radio"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7f939329f6bc5793",
       "title": "Últimos dias para inscrições no mestrado e doutorado em Relações Internacionais da UFU - Comunica UFU",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnhJY0N2eFR2YzZrZG81cFVnWVpYQUtKTTJmcHl0MkhJbW1uX1c0bmd6YmxmT3VEUDJOdFo3MXMxT2pzdHB2aGlYNlFsNmhXNThTZ0thX0FyWjE1X0UtM0hMZDh1bFVUa3hpRlE4QzU3UGxBWWRzSU1SNFJnS1VVNVFpLTc5N2l6T3E1MmVaSnJla21WYUhEbXBlRTBfbVRFSFFDUlVIbnkzWEdIWlcxRl9ZNjRKdzZyanFoOF9iT1g?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9IVFh1RHotNE5xeFdYUjNmck9xc3pVYTB1WTVoMGEtWDl4aWVRNFdEd1FsU0t6ZEFuZTBidXcxUWg2RHFjZ2FiS2o4V1ZiTWNLOXNhYnZFQl8zQWdTLVJlNU1nbnNWeUlRMHZDNGdRTVNEM2pEeDRaVnJQNmp1QlJXNFdTZG1vTlduRXp1ME1iMWs4STdBUnU0emZlRXZhYWl4TjUtWFpzX084cGdZbzl1eUJxRGo0OFpDenFCYw?oc=5",
       "source": "Comunica UFU",
-      "published_at": "2026-10-14T12:04:12+00:00",
-      "score": 65.41,
+      "published_at": "2026-10-14T11:57:00+00:00",
+      "score": 58.24,
       "corroborating_sources": [
         "Comunica UFU"
       ],
@@ -111,12 +216,12 @@
       }
     },
     {
-      "id": "93fd6cddfb37a2ff",
+      "id": "7d43bb7827092de1",
       "title": "Roberto Kury: “Seguridad, inversión y comercio son los tres pilares de la política exterior de Ecuador” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMV9Yemx2SDVHc2lER0MwRHozSzMyTjRHa2EyWno5b3R3ckVqMHlEWDVMMzItc1FlUWRzT0lIa0Y2TXljMENzRDRsLU1BUmtib1RHZ1pFXzdFQ2J3Y3k5NDFPOHFsN1o1MkI2dmYyaFljeE1SdTA4cjdyTFU2RjlkbXhmR3F2b0tubHJGSVRpa2E2NHJUSmUwaDlReEtWdFB0Q1ZDU0tGRFQwdzRDUlNFOXRoYUtkSlBrVUE0bnBpM3duZVMwaGl2N3lSd0VLRGdnSEhHaTJHcGhKZGNVVkliU21TRVo4THByWi1fRWtJRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMV9Yemx2SDVHc2lER0MwRHozSzMyTjRHa2EyWno5b3R3ckVqMHlEWDVMMzItc1FlUWRzT0lIa0Y2TXljMENzRDRsLU1BUmtib1RHZ1pFXzdFQ2J3Y3k5NDFPOHFsN1o1MkI2dmYyaFljeE1SdTA4cjdyTFU2RjlkbXhmR3F2b0tubHJGSVRpa2E2NHJUSmUwaDlReEtWdFB0Q1ZDU0tGRFQwdzRDUlNFOXRoYUtkSlBrVUE0bnBpM3duZVMwaGl2N3lSd0VLRGdnSEhHaTJHcGhKZGNVVkliU21TRVo4THByWi1fRWtJRdIBigJBVV95cUxOeHgtWDBBWGVQYkZQZ0RQaU41SEp0YjktQkw0OG1kYUtPVmw4Uk5STjRvSVVqcG5UZTN2UTRTczNkSl9BTHM5dldISTZURVhqREw3N0JKalNJWDlBZXBVQTdDZ1JDX1NZc0Y3aEw2OHdoNU9MWmE5SFVoRWVHWklJSUxGNkxQdnl1aHN1bWVnNl9TdTczbnJLVV8yQ2xiZV9SYlFaR2JMdmEzdmNLN21sR2NvLXNNLUFadmhoQXR5V2dFbXB2YjFLVE1yWXVpdlNFZ01tSWNHSVU4QjZmOVRIdDltNWVhUWN1ZnltNXlxYWFyVW1oN0tONkdNS3l2SmpnOGUxWnpDdi1RZw?oc=5",
       "source": "Infobae",
       "published_at": "2026-10-14T02:26:00+00:00",
-      "score": 63.32,
+      "score": 57.93,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -131,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSUNWLWZ6WndGTV9jNzA5OUNfVzViLWt6aGpGeG1SdVJzdGdHX21jZ2JSMUZ6b3hZVUh1SHJ0ZXZVdWYxeHVtOEdodnJFSnFuN0RFcjEzS0p5aHp2Vnp4Q1ZBVUh5amlaQ1dzcDVpTWhqOE85X0NTYU5UUjJRUGVVNWRqRjFhd2R4dHBJeWtCb2Y2Rl9CNC1zdEJzWl9JajF0YmNhTjJLNHFfV183WFpEdkZaeFRReVYxZlMzMmw3eHhmaW5IczVvUmlFZmxEME5JazBKQw?oc=5",
       "source": "MDZ Online",
       "published_at": "2026-10-14T01:20:00+00:00",
-      "score": 62.33,
+      "score": 57.1,
       "corroborating_sources": [
         "MDZ Online"
       ],
@@ -146,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ2w4cmJ3eUZGeEFCUU5tZDR0LVBrT0xGQ3Y1bWZwQVZmZHhzOEdxTzRvNG9veUtGRHB4dVB4N19oSDRLS1hwN2xQa3MweXVXc2tBVFBmdHI0bzVXUEZaQ0V3WW43WG83MHFRdGdEdU15T0tPaWtSbVIwZDFrUGFkaGxXTjRHdDEzNjdvcXVOSTBOVmdXb19leUJJcUk0VDlxSlFzMnh1RmlsRDl2NE1WVUc0WGhJWEM2NS00SnktdE10NzJnRG5PRWZJRmJ6ZWVwNU0yNUh5Vks?oc=5",
       "source": "Pontificia Universidad Católica de Chile",
       "published_at": "2026-10-13T23:47:05+00:00",
-      "score": 60.99,
+      "score": 55.98,
       "corroborating_sources": [
         "Pontificia Universidad Católica de Chile"
       ],
@@ -161,22 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGxZaW5FTWJWNFRYTTliQmxUXzcxQ0tLbzJSdTMzQTBEd3JtbnRaeFdDQTJqdEdsaWVCeG11STRUbURkZGJoU0tlSzVSb0pYNS1SZmJLY0cxd210QmpIQ05fT2VFWGZUR1JQYTZJRkFPc2xfV1F3b0UzNUFuZVV5N0hRWkxucjlraGV1cVU4eE1vWFItRWdKR29VWnUyVnQ0MDRiSXBEZjJybHJ1WnZHU2xmd1dXZXBi?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-14T03:40:48+00:00",
-      "score": 59.48,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "86f6d032cc21a981",
-      "title": "TSE julga ações sobre vídeos que ligam Lula e Flávio ao crime - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0FIWDdBU040UDZpUUlyd2ZoQmx2aDFHaFRIQkI5TVk5OC1lc3U0ZE5hc0ZGQmJrWDBhelZDaHhBNDJzRThwaDRlWEhxQXZrUnFkN0x1N1FhX3BjR3RmWTRoODUtcElzc054bk5JcDM0Wlp0VVB6ak9MU0lITHhYUGhoMzRESEdYVGpId19TOGVUd3o5WXQ3RFRiUG9kODdmQ1lkMjBPaw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-14T03:28:54+00:00",
-      "score": 59.29,
+      "score": 53.9,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -191,24 +281,9 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZjZzS2YzSHktdzllZE01X1MzTnU0TEJSVi1FRXExN0J2WV83aEdHcDVlY2VYTkVZODRNMWNScmhzUFNYOEhYX29nVS1xczRs?oc=5",
       "source": "BBC",
       "published_at": "2026-10-14T05:05:05+00:00",
-      "score": 57.83,
+      "score": 52.03,
       "corroborating_sources": [
         "BBC"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "30c58c63bafac9dd",
-      "title": "Reforma tributária: continuaremos no manicômio tributário? - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlE3WTlITFE0bl9EVDBnVlpLVjk2eWEtZVlpR0hYbGRBNjdEN1hFTmJvSGNxOWlYbVpQMWNQeHk3S3JyQThTQ01DSEk2MWd3cFUxMVhIX2FtVEJzR0wtUzUySVZXTjRmZmVTbjd1MVh5ZXVYUV8xSlVvTDd3MWtvTDlRZUVweGljQzdfR2JhLXduWGktLUNKcVVGSmhRMl9senNBSkdodGJUWUxhWFhjT0V6NUFwUdIBuwFBVV95cUxQR3gwMmstdmZkMTl6TEJ2bEtfamprbGMxSlAxaGw2Qkd2aTQzNzc3UkZoVmdCMXphRnJRcDlhMkxPX3VMay1Za19uRk5zY1ZGSXE0b0xyUFdvZ3EzOUJtenVFWXBhbWFUdUlxXzFOdVNjczE4VHREaFVWODVudXNPaS0wUjlKYjh4cndTdW1NV1NRUkJ4bDZ5Mi1RYzdINjVaeGhlMkFYYzJwVTRNeHVaTkszNjQyaW83Rkdr?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-14T00:00:00+00:00",
-      "score": 56.18,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -221,9 +296,24 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDkwNmJ6SXZQc25xZUszSml0ZElEVjROU1RvQmFHcGo5YlAwT1NYa3Nhb2VzNmw0M3hrcS1OT3F4M3o2cXBJWUFwd000MGxpRVprdDh6T09Ib085d25lSjB5QmF2WmJtcDhOclZROG56LUpoQlM1RWJYa1QwRlp6MWNfY05GSFVDVGthenFUemNYbXM3djJldnJHVlZNSEVfNDhQbjgtd3ZKaXNNazZMMg?oc=5",
       "source": "LA RAZÓN.CO",
       "published_at": "2026-10-13T16:15:38+00:00",
-      "score": 55.24,
+      "score": 51.17,
       "corroborating_sources": [
         "LA RAZÓN.CO"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "30c58c63bafac9dd",
+      "title": "Reforma tributária: continuaremos no manicômio tributário? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlE3WTlITFE0bl9EVDBnVlpLVjk2eWEtZVlpR0hYbGRBNjdEN1hFTmJvSGNxOWlYbVpQMWNQeHk3S3JyQThTQ01DSEk2MWd3cFUxMVhIX2FtVEJzR0wtUzUySVZXTjRmZmVTbjd1MVh5ZXVYUV8xSlVvTDd3MWtvTDlRZUVweGljQzdfR2JhLXduWGktLUNKcVVGSmhRMl9senNBSkdodGJUWUxhWFhjT0V6NUFwUdIBuwFBVV95cUxQR3gwMmstdmZkMTl6TEJ2bEtfamprbGMxSlAxaGw2Qkd2aTQzNzc3UkZoVmdCMXphRnJRcDlhMkxPX3VMay1Za19uRk5zY1ZGSXE0b0xyUFdvZ3EzOUJtenVFWXBhbWFUdUlxXzFOdVNjczE4VHREaFVWODVudXNPaS0wUjlKYjh4cndTdW1NV1NRUkJ4bDZ5Mi1RYzdINjVaeGhlMkFYYzJwVTRNeHVaTkszNjQyaW83Rkdr?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "score": 51.14,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWdvY1VWRWNQM2dudnRVTjFFUmp3WUhJVXc3M3c3a25RZnBUeml6ay1fUDN2bFk2ZXVpalpmYXRQTVVEWWFsRE8teHU5a3NMTjlSYW5xMi1RR3lHQlZtY0NLTUtNZlVRYTRmdG1fb2p2dUU2OGxhQjdybzBaaFpXOWlNZ2xib0hBVGtEYmd3U2ZjZmlraEtnVA?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-10-13T13:32:56+00:00",
-      "score": 53.44,
+      "score": 49.67,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -251,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcjJJUklxR3lYUnlTT3pDRE1uQmZ4TkdJekY3ZXBERFc4UFc0NHRSZDVMWnUzNWdQLUV6QmlueFVGQmpCcDRXX3RHZS1LSG9YRG9VemhKb0RxRXM4anUwM2l4OFdOTW9NeFp3QmdVdjdOa3FzTHlVajE0UXFhczU4VHFFWi1HeEd3Rzc1alJCNXBYUHlaZVdVZ2Z6Q2M2YV9naVk0SHFBNzhUZkRNUlFvRVJpalZLUzQxOTRnWTBWUWswVVNBRVJuc3NCbjlxTUh1QU9Ed3ZrUzZBeGszWmFEZVpWeEFVWXM?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-13T19:15:00+00:00",
-      "score": 52.38,
+      "score": 47.96,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -266,9 +356,39 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUdGSEI4bkItRUFKYTVyeUZQSWl5Ykc2RFNjVlJDUXduV05hUmhFZ0V6bzR3ajR3Vkd3NmhMUkYwd3hzQ1d3YU9IXzVybURpdk9DZ2F6NzhWU2tibFdXSHZBLWJpTVNkWUczeU9VMy1QMDIzb3J0bS1wSGVCZjVSMG9WQzl6V1JNRmJLMmdHNWJEVWQ2SWt3X0ZaWThwVWVMUjAwZG9mVEs2YU1zNUp4UmJwT3hEcE94Y1N0TUxQUFQxanBJNG5yNENzNmFFYzNl?oc=5",
       "source": "Los Andes",
       "published_at": "2026-10-13T22:51:00+00:00",
-      "score": 52.21,
+      "score": 47.33,
       "corroborating_sources": [
         "Los Andes"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c4beff7c0464b59e",
+      "title": "MDB se divide e 10 diretórios do Norte e Nordeste declaram apoio a Lula no 2º turno - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjFIS1JNc3NTdHZNS0tOdTE1WmVRUlNnblo4X045c3plYTlxeHVXSGREa3pjell6dkRCZERCRjZwZmkxT3ZUYjBJa0wySnV5ZkU2VGpOWWdrbm9YV2lIWFlOS2h6YmMzSVFYaVpCREstOWVCazhqbVNNVl9SZ1VpeG5vdmFvczVVM2ljTnBZeG40d05FVUdyWVpCTldHOGROcEx3NTRhNzl6WDUyaHhqMktqQ1FQZkp2YXhkdEtGSU9PU0g0YnVB0gHMAUFVX3lxTFBQdVFxd3JBbXJNRklNUi11TWk2TU9FemtVbEcxTG9pZWU0NFVDOUNzOHFhUG1mWFpETm0tRW4xWDllcnAzTFJETzRhRnpWZW1neEQ3Z19PQTF3QVFtU3AtTHhkREZPSHdYbGxsMzg4VVR3eFh2dXZ0UzRQckNNaU5Vem80ZGUtWGhCUjRfanYtaHRlNFV6emhXdTNwVlBOMDdrN2JXMmJweUdaclZlb2JpbTVJbXpfQXFaaGp2WmR2Z0pDZGVybE9FeUlmMg?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-13T18:04:00+00:00",
+      "score": 47.24,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1bce499059e277cf",
+      "title": "ESPECIAL Informat.ro / Los principales temas de política internacional de la última semana. La influencia de Donald Trump en la guerra de Ucrania, entre negociaciones e incertidumbre - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1g5TVpDSkV3ZGIzb1NkbzZRRWlfXzNSMW5ta1ZnakxoSTV4Y0dGY2FhNXJZaDk1MnBETjN4czZJOXhyNGFwbjhObk1qckxvSnZERmhfQWprSzItb0RaelQ3VWVDU1NQbHl0bjZrcmgyMHNzVzdZTi04MXlfN1plZlJINDFxSVBCREpqaEtwdF8?oc=5",
+      "source": "Informat.ro",
+      "published_at": "2026-10-12T09:11:32+00:00",
+      "score": 47.21,
+      "corroborating_sources": [
+        "Informat.ro"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0ZnN3NvUll4OFZsbzdnNmlyNDRSVGlTRW93WndWSFEwbEd4aVl1YUJBU05vME9vZEZQOUtEcGUxZ241VjU5XzVWb0V2eEF5U3BobGpMVUd5WjIwWDFQVjlhZ001OTJZbFNRT0JXbWdMQk4wOVdCMUVlVkFMX2VnSDR3WElyU2F6NzVramw0ckg5RmFGTHdxRUdMeTdqUHNPb25TbGwwMNIBrwFBVV95cUxQWDg0YlBENmZlbVh1ZHRQbmRmV1BEUXRYRWVrWlVkcm4zSk9XN1picFJ1dUdQZ21nak9VUk1uQjVpQ2w0SDVCZlBJYnZZREkwRjRNQThXQlY4NHhoME9rTTZQbnB0SzFCeGVmOHU5cVJ3YkczbG1XM0VqZEVTdXVLRFQzNm1oY1VOU0lCamxHanZpTVJJSDRsSFJ1Tkg3WExvdnBUTEhKVnpYVjFXb2c4?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-13T21:26:00+00:00",
-      "score": 51.06,
+      "score": 46.37,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -296,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQzdYOWNOMWliM283RmcyQ19VMk5naXprSEZDODYwUVIxUTgzOUxFX21aWjFUczkwMkQ4UzlNb2VBQzBqc1MxMF95NEt5NEFEXzQzZk05N2tjaHFveG5na040WG12Sk5hRDZ6b2pCRkNMVVhrenR1ZTZVSTVGd2pTSWpGNThZNWdRQzhIQ0hIS3BVS2pLOFJfd1R0Y1p5NFlNWUN6b2dOZ2Q2eWpJZl9lOVR0V1BIUEpVUFlJeEp4UmVodw?oc=5",
       "source": "Notícia Toda Hora",
       "published_at": "2026-10-13T20:34:00+00:00",
-      "score": 50.38,
+      "score": 45.8,
       "corroborating_sources": [
         "Notícia Toda Hora"
       ],
@@ -311,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHNYemNWWUpQeUUwNXhHQXRCdWg4b0kyTlJRdGtlbXM3SUhhTk1talhqbzBuZVRTb21Na29lcGowWkRCdkExc1pGSGhPZ19hd0FuU0xlTlJVLVNtTDNfZkNuNUp6NjU5eHNCU0JCSjI3LUFPZlI1QUd3R1FZZjN5cllUbVVxWjlEdGZTb3pQX1VCMC1LSF9Kc3hQWWpLeklmOGpOdFozRkhnY0ExYkRFadIBuAFBVV95cUxPTm9wSVR3VjRFdmd2YUpuRVFfeWVJS0NNT1A5bGRMeWh1RFg4TGNqalh1b0dyelF0aXRpOG51dnlCcVNvSHZGQm8xZF8xQlM2SGhUcnpmYkhYT3VNOTJ1WWY5elN1dzlLSENWbXBja0JCcVo4UUpvTk9CZDEyY3NzVXZ1SFBGOUtYczFJOHF0U0FxaDBuYlpiRVJKNG5SVUNsQTJQbUl2aEdWZ0lWOE1tOVdlaTJwelJD?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-13T20:07:00+00:00",
-      "score": 50.04,
+      "score": 45.51,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -326,129 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDh3YTAtSG16Q3VZXzBJSnFMUHpBNlhtZW5ULU5tUC0tYkJuUzFqR24wa0hrUHZKTXV5Yk96cEc5YUdVZTdGT0xocFdjdjRtakNZMVhfdlVTa0x1TE8yczdsdUtfUndBTGhKUnhqdG5oRW1rRlllLTFzTlNyUHJPcmdnWWNJckVaNGZUVl8wYlhpaTRXWUNTU0U4ZkUtSmN2SFBBcVNhb3JicFF0bjFfWXkzdFhLS1XSAb8BQVVfeXFMTTJwY3A3QXNXa3piY3lPbWxvVTMxemYzUEF6OUNURXBzQU1NUzcyWHZNeDJiYVRZc1FRb1FrNFpEVm03YmUwTWlYSjRKbWxaajBsdnBZbnJQZXRUX1VVeUtVX09hNlkxTUxLeDhCVnNhYlBRQ0dEMEtkY1gxWlJ0U1NycUJJVDg1MDUtNzJVUmJkMTM2M3VRcXVFRXd6ZmNMXy1YZklwTVdTUjVyc0RxaC0xeFRsZkVSZFFpdkswdGc?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-13T19:59:00+00:00",
-      "score": 49.94,
+      "score": 45.43,
       "corroborating_sources": [
         "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "532a3dd1a8705450",
-      "title": "Lula defende Sul Global; Flávio quer proximidade com EUA e Israel - Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0ZvTXIteXBBOEZBNUctVkptUWlnNEhPN0R0cG9OV0x4aV9vcGFtdjI2aTh1Z3FyS1VIdms0d1NNQjVBSTRzTEhQSW5kTWoxQUNyYi1sdTZkOERCZXlpekhfa2hpSzdkdzRtZzBRd2FfR1VuRnhUT2htMnhxSE4xdWhDVGN0Q2JkZktkVTdLTFlvQzgwN2JYUnVTSVBsRFdpamZzRF91QzhIYUtsTzdSVmNyNmRXanRfS0VWb3pvTk9OUGtjT2c?oc=5",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-13T18:46:00+00:00",
-      "score": 49.02,
-      "corroborating_sources": [
-        "Agência Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1bce499059e277cf",
-      "title": "ESPECIAL Informat.ro / Los principales temas de política internacional de la última semana. La influencia de Donald Trump en la guerra de Ucrania, entre negociaciones e incertidumbre - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1g5TVpDSkV3ZGIzb1NkbzZRRWlfXzNSMW5ta1ZnakxoSTV4Y0dGY2FhNXJZaDk1MnBETjN4czZJOXhyNGFwbjhObk1qckxvSnZERmhfQWprSzItb0RaelQ3VWVDU1NQbHl0bjZrcmgyMHNzVzdZTi04MXlfN1plZlJINDFxSVBCREpqaEtwdF8?oc=5",
-      "source": "Informat.ro",
-      "published_at": "2026-10-12T09:11:32+00:00",
-      "score": 48.92,
-      "corroborating_sources": [
-        "Informat.ro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0dd397a77197dfc7",
-      "title": "Por que é uma má ideia seguir o modelo econômico de Milei, inspiração de Flávio Bolsonaro - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVVQQUJLQ0ZnUzdnMGJtOWU1a0NlUUh1bl9VQV8xYnhZSGFyMlB5ZzRkRlozUlhESnM5M0ROR1Zmd0dlYnF2Q24zZDV3V1RkUm9DemlWWFZCekx6RWszMVIwdHRweGVkS1dJOFRpRmJPcjl6dHRoVzhIcW9TaGVWOHB0a2tVWDk3OTRuYk5RSFhuTFJGSUNOZHVVd3lhYWN6VTlmeUl0MEpKcE5KWWhZWklzdXpTdlBOekQzdHFqWk1JZmtvZHYxQVVHSl9GLXZ1Qkt3dTREUTVaTTlMZ0E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-13T13:00:00+00:00",
-      "score": 48.09,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3b5e82bbcb4ad695",
-      "title": "Dólar sobe em meio à volatilidade eleitoral, e Bolsa cai com realização de lucros - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGJtRURURk04SFJGZE5nOFdnLVl1YmI2dUF2ZUo1UWJhVXljZG1oMEdoVUp4Q2hwSU9OQzlMR2otVlFZODlVaFlRUUtoQVJNU1NTY0FUY20xUGxqcmpPLVFCZnUzb2tUWWdTTDdlVkFlV3BtOC1RNGZGWV80cno3Q0tkSlJUbUxRdmtKbWhiQTNCdDNERUxhV3A4eFZFdTgzSS1pM09YVnRHckZ5bENqaHZsYlBVUEN4TlUydUg0SXlWbTg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-13T12:59:00+00:00",
-      "score": 48.08,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "57980c8ff4d3a2ba",
-      "title": "Pesquisa PoderData/Aya: leia os resultados de Lula e Flávio no 2º turno - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3dhdTUtb004dklxTVlvQUxSbmdhbjlmaFNqNldLN1ZqMTItdW51SHljTkpNSzdzcjBpQjZnaUY0TEJERXptUVFubzVET2hhQXVwOFdLdHA0YkdXWVBfdTFtMkdCYnU3SjJvRVRsaW5KeTdfeFJCaEkyNFFGZWpQZENDdEVQVWZxc2J6bnRCN1dSb1lzcVRCZi04REs0UzVaSWR0VWJGaWtwX0lVbG1YNg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-13T12:12:12+00:00",
-      "score": 47.6,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cbe1ad04b01e6830",
-      "title": "Opinião - Deborah Bizarria: Nobel de Economia premia estudos sobre consumo e inflação - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbVNod0xJWFZmMW9kUmVtdUpMNFBrUXZLelZnV1pBREFDbWxja2JIT0FQU1AyME5fS2pBZzFiQ2g0Qm9TWlRQOWp4N1ZzUDdOMHVmeEtSMTRPSHhnckhKbUNDbnRUTC1hMDNoQXlsUTROZm8yVmRPVTBCWTRzTzRVLTFYRjY5OEE3Y1dnZ1BEalZMYWRENnpTczVNZUd0dEVyaHBCWU1RNlZXUDdNbzlSaXpQWDM5emdCRUdsVkozQm5OT1Ns?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-13T11:00:00+00:00",
-      "score": 46.87,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "50777047980afe4a",
-      "title": "Most Americans oppose betting on elections and government events, poll finds - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkxDSUZXNi1BUmVWMFJtSzBEZWJTVzdXVFhUb3h4VEo0TzhlZnVqMGpjeWI2c2hZNExaS1RheDhiMDJqbTh2ZkVaS2ZIV1FrV09lb3dUTTF1cDRfMnJxMFNoc0ZBTXBPMjRZb0YteXVtN0pLUml2dlNxbXMxcF9vMVBYb1MyNndkNlBJLWR1V3dGZm9mM05HbHBoVQ?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-13T01:17:00+00:00",
-      "score": 46.81,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d853c863d5f134b9",
-      "title": "Saiba quais indicadores e balanços saem nesta semana - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFZhT29USmMxekVfc0RfTVQ5ckI4UDVHVDUzNDJyQ3hJOGJqYzN5X3V3T3N1UUNqU0w1d0hKTUl3czctMTJhNmtYZE9PRHJqNDF6NG9SSUZiVElXcWVtNURBX1pBZFBoNjBKbm5xNDktNzJTaGZlTGdTNU5DWTVjRVM5UWYwWVRHVzdUWjBaOVBNaHZUck9GT09YWWhhaWJG?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-13T09:04:43+00:00",
-      "score": 45.76,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
