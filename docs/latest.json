@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T23:17:04.200952+00:00",
-  "next_update_expected_at": "2026-10-15T03:17:04.200952+00:00",
+  "generated_at": "2026-10-15T04:47:06.743036+00:00",
+  "next_update_expected_at": "2026-10-15T08:47:06.743036+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,9 +11,114 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGlXeXR6TGJjaHk3eFlfNkNDX09hNWpmVVdURnE3SnJtdmJtS2NnUENSVUZUX0l1UVRwMzg0d0p1RE5Ja3NONVlLdTZjMS00UWFVbHFQZi05azBHM0pYcTVhVVVfa0gxRXdPbjM2ZkthZ25BRmRCLUU1WGRyeHI2cTJiSW9GXzFZZHE5YTlnWlR3VElRc3lsV21RNXhwYmdrRVYtVThBdlhmU0prMS1UMWl1SDM4UFRXTnFyaEhoQVVaNEVXc0g3b3Z1cVhhVndaWnRja1B1U0Uxblc3anVuZUgxdGRWU3BxQVE4MA?oc=5",
       "source": "senado.gob",
       "published_at": "2026-10-14T23:11:42+00:00",
-      "score": 83.36,
+      "score": 77.0,
       "corroborating_sources": [
         "senado.gob"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4b04177ff521713b",
+      "title": "Nova política da Anthropic proíbe você de ser ‘cruel’ com o Claude - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnZtdy1WOHVnU0dXZVQ3c1lMN0R5aHZkcDBidXFNS0hNcGg5N3V1VENKQ2gwSnc2dllobVFmdHVIcC1IYXBvQ24yM0I0WDIwRHFfeXBJREV6NktuN3lvZnR1ZDJXTmVqRTlUU2pEVjRjQmszcFp1YjJBSzN0cmtkRTZXejZjVkt5ZTVBaFFkamUwTXhabXVDaTVEMmlpLUl5SFJzWG11SHFTWUN4ZmVDZlJiQV9GeHV1eGlwdVNaYUhfcGZVTVd5clNaRG5OQQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-15T00:57:43+00:00",
+      "score": 73.94,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ac3982289e13cda6",
+      "title": "Destaca canciller Roberto Velasco política exterior basada en la soberanía, la protección consular y la cooperación internacional - El Mercurio de Tamaulipas -",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTDllN3FDZVE1M09tcnBMdkdxVUFNMHBGLVVwSy1TM0NKX0EtVTlrbnFDQmdIcFV5WllrVDJKWXgxRmtCNlZ6SG9oM0xWQ3BhQ3J4QmpzUnpoeHVobm5XdjBjZkRVSE5YQzJwLVlQZUJma2FRUmJyQ21JbU1vU1lPbmM4SWstZGc3LTMxazdqQU55UzNfWllGbVlIZkdlZHVYVU1MUzZSamN4ZGJQZTh3cmpNSWpzejE3eGlJYXBQZXJKZ0wxdjdMaVdSZnV1TElidGJSbHBFb3ZrcWNhQ3V5b3VVbnpLTmpFVENLRm9iZHhITXJ4NVE?oc=5",
+      "source": "El Mercurio de Tamaulipas -",
+      "published_at": "2026-10-15T02:33:19+00:00",
+      "score": 72.77,
+      "corroborating_sources": [
+        "El Mercurio de Tamaulipas -"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c54d0030cfcb2043",
+      "title": "Desinformação sobre urnas recua, e falso apoio a candidatos cresce em 2026, diz Lupa - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNclB6NUtzLUNwMFl4ZVp1SHJnNy1QS2V2cjU2TVpUWHZFYWt0bXpMUjZ5MDdaQjVSR19QUV8tdzhnOXBVejdXdWw0bXdkam95d3RRR2FLY3VWYnNJUW1SaE1YdWw5R3dvR0dwbjVCcVl6M25FTzQzd3VGVzBFQmZTUGNjcTkzZ0lHVDdNYndzUmlDZm5lblRMLXdydWhVNTcyVndNY2pVYlJxQW85cTBSNWZ3a2s2STNud1FDdlBfX2xvajlhcElScF8ydl8?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-15T02:00:00+00:00",
+      "score": 67.13,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "94d78b08b9670af2",
+      "title": "Competitive Multilateralism and the Future of Global Governance - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sd2p6WG5lM2ZZMDhvNWNKbnFPdEJmNUo0ajVmMU5nTWxqbUxyMTI4WE1nNzJlOWFUcmQyUEM5M0JHekpkLVZaLXhyTFVOLUlWdTZwYUs5M2ZJcEoyT1U5SkFJM1k5UEJIdHc?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-10-15T04:23:39+00:00",
+      "score": 66.99,
+      "corroborating_sources": [
+        "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fe7cdf17a046037e",
+      "title": "Trump says those who leak military plans should be shot - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamNzVHlQOXJMblN3bkJMQU53cUYtV0lMUzZudkNRR2d4VTI0ZXVTQzAzU0VSOURpZmIxOFgxcVJJeVc2ZjNhN25Fc2pJVGJIMXREWmE0Q2J6dXBhMGJYbkVHUVItbjR4YUtVeHNPQ0tqVlpmN2phOWMyeV9NVVlOSXNVbkVHdjFjQ196Ym51TnVSWkRnNjAwUzNzY185VHhQb0FrT2czcFlxdHFwWEhXTUdLY2U?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-15T03:58:38+00:00",
+      "score": 66.48,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5794458700649333",
+      "title": "Amnistía Internacional pide a Política Social que acoja a menores migrantes procedentes de Ceuta - Onda Regional de Murcia | ORM",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWEt1WmRWN1ZDVmtLM3A3djhSZEdLNmhFY1lta2YtZktkekRXSHZ0bXBJZUdILU1OMHJKT2Y0V1JFUmZEVVo5aHgzUWpncVpXcGxtVGZqekxCaFhOQm9LdE1vUXQtMlh4UF90dzkyaDI1ZjloVW1vd1FZT21oc0dMNVIwbGR4dEdsMENaR0xWd3BCMC0ydXRURFhld3FSRXVvbnRNczJzYllCelF5cE4zMVczUE9xeThhaWh5c0NWSTg4d2xibTdHVg?oc=5",
+      "source": "Onda Regional de Murcia | ORM",
+      "published_at": "2026-10-14T18:32:09+00:00",
+      "score": 64.33,
+      "corroborating_sources": [
+        "Onda Regional de Murcia | ORM"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "13ee0115c782ff15",
+      "title": "Opinião - Thiago Stivaletti: O que o gostoso da Paulista diz sobre a falta de libido na política? - UOL",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2RYYzR1a01Rd2FfZHVyak1hVUg5blpoSk91QjF2aHBGdUZsR0FHYWMxalpBcWpjczRGVGdXTGh5U1JXRm1iTnNadmZUMkNZSDdqTEwwSXRRRmxvTXVaaVZiYkpYV3dVT3VNZlQ5VllVUTVkY0d0NmNBR1ZMXzNJcWh0dUZ5ODVjdWFLSThhbC1fQ2lDWDhWZ243ZmlsaF9OZVVId2lFbk45eEF0UU43Ny1Oa2w0T21OTEhaOUpWd1B3VWpuLWZ2aEJGcUxuZE80TzNB?oc=5",
+      "source": "UOL",
+      "published_at": "2026-10-14T15:04:24+00:00",
+      "score": 64.22,
+      "corroborating_sources": [
+        "UOL"
       ],
       "signals": {
         "source_count": 1,
@@ -26,24 +131,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGI1YXhvbkxHUHNodzFQVDRQN2FaTmU4X2hRZWNGMU5fRUF5ZDNNdnlIcU44UlFiOEdMcUFDZXJFTG1TMGR5bTZkSDVDeWJBR1RDdUtodzVYVFMtdTMzZkQwSmpUbko3Y2VrSmFQY1BNSVgzMTZCWVc2ZG9GeG42MFNyNmwzazYtVlIyeVJzT0FFUWRuY1RSUm4wNVhxYTVNMXZSTUdZQWY1NzRDSmxyOHZvMA?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-14T14:41:03+00:00",
-      "score": 68.91,
+      "score": 63.89,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7c6c7e03f61ad456",
-      "title": "Supreme Court weighs privacy law from the videotape era of ‘be kind, rewind’ - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGJfd1dmRGFjT1JCWDlaYUplMjZYUHVYRWRnRXZnUWtyMm1hOGc4WXBIaTdURHh6WWthT0FfY0dSYk9TUE1nQXNnMjY2NVVTLThwQXhVRXpXa0JJeWo3Ti1uYW93WS1leHZPbk92aEdqcVVJQUdpdVdXTExyNFlGU0xWdXQ4blIxU2o4X2twQUhJbWg2ay1POTZjWU5LWGZWYTNwNnA3WDJWYWdFNE4wdVlSTHNnVVB6N0hBbW1FUkU3SFdHTWF3Q3FaSHk?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-14T17:13:25+00:00",
-      "score": 68.5,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -55,8 +145,8 @@
       "title": "A Peace Built on Nuclear Threats Is Destined to Fail - Jurist.org",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXFRVnAwendhd3pIVC1zeE41cGJSSzdFSjR2MEoyRVdZTDJsakZCaXJLaFp3dXAyQjIxTnpQbUwzVmRXWnRyYnRtN29ZQ3kzTnNQMXJUM2R2SnJwbWNsNVJsRjJfSFZkSXNrS3RvckFFZFVhZlN5QUsyazYtWnI0OG1uSUVpcW16NGlUc3RfeG4xREFRMnhTUzdwVQ?oc=5",
       "source": "Jurist.org",
-      "published_at": "2026-10-14T21:22:02+00:00",
-      "score": 65.14,
+      "published_at": "2026-10-15T01:20:10+00:00",
+      "score": 63.37,
       "corroborating_sources": [
         "Jurist.org"
       ],
@@ -66,14 +156,14 @@
       }
     },
     {
-      "id": "7d38836537e2cad8",
-      "title": "No que a Argentina de Milei pode servir de exemplo para Flávio Bolsonaro? - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUpfWElOeWJ1Z3haTXpQMkhYbDQzRm1oX0NGMTFTR1NBNk05QW9sNl9LNnI1aXhjdEJxaVJzaXRpNkZEOE56bWFBRVQ4QWR3VllWWUZXWC1MLUQ4S0tqUDg0TENxV0xmZ2FYQ2lOYk13TE9pMmFpTGtNYVNMUWlSWkN0N1dzcks5Y2VHbXFlM1pzMVBIV09fN2NUWUE4ZFFaUmZMVUZpODM3c3VRMko1bGpuSVM3Y2tHWVd5VnpLZDRDUDIzS3NlV2h5M2fSAdIBQVVfeXFMUEJuYUxnQkNnbTVGbFdTVkNkUmhtVGYtVzhCWmYwME03cjZIdlh0THlxbmNVNE5oWHVhT3hSRDM4V2wyS1dlQk5sZXpIOU5mNkVwd3pBSDJNTmdYYmNSMDM5cC1JR3JKNmk2YUJTQlFvbmhlWHNSeXE0NGVXM1lFUTZXNU1jVXAwQzlscTFNbDJ2YzdIVGZOMUFubUZnN3dTU1c0ejhxN0dPakdsa3lfcXkyNE0xQmNyLUY2bXVKUWFjRDAyN0xKTkF6d2QwS1VYV25n?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-14T21:00:00+00:00",
-      "score": 64.71,
+      "id": "692f2dfc2b435889",
+      "title": "Supreme Court Weighs Privacy Law From the Videotape Era of ‘Be Kind, Rewind’ - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGJfd1dmRGFjT1JCWDlaYUplMjZYUHVYRWRnRXZnUWtyMm1hOGc4WXBIaTdURHh6WWthT0FfY0dSYk9TUE1nQXNnMjY2NVVTLThwQXhVRXpXa0JJeWo3Ti1uYW93WS1leHZPbk92aEdqcVVJQUdpdVdXTExyNFlGU0xWdXQ4blIxU2o4X2twQUhJbWg2ay1POTZjWU5LWGZWYTNwNnA3WDJWYWdFNE4wdVlSTHNnVVB6N0hBbW1FUkU3SFdHTWF3Q3FaSHk?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-14T17:13:25+00:00",
+      "score": 63.12,
       "corroborating_sources": [
-        "Estadão"
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -81,14 +171,44 @@
       }
     },
     {
-      "id": "3bfa4ac63fc797ea",
-      "title": "HUELLA Y VISIÓN - El Periodiquito",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11d1pscUh4V1lkVFFhcFBWSjNTNDRndGlaNTNzSWhMbUdRWTM4TUNnRHhRczB0SkJOQXdPdUIxSDJKNDZFZzJpSnhIOWhsUnlFWThta2kyNS1mTEJ0Szg3TlFJb0xySTl4ZlE?oc=5",
-      "source": "El Periodiquito",
-      "published_at": "2026-10-14T20:14:59+00:00",
-      "score": 63.84,
+      "id": "c7563f97652c6885",
+      "title": "Milei llamó “dictador comunista” a Lula y volvió a respaldar a Trump - Diario Huarpe",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFlkanBSVXZWWnNfSm5TTFdwLXJKSjlQTFozWFhvREUwYmo1Wks4UDhJNzdXdEtFVlFWblJiREtSdnVWc1g5TS1MajlIcGlwSmU0U2ZMcGduTU5zVFRJYV9zUXJSSk1pZ1lYaVJlems0b3NIYnFFSm1yR3lZYjlqbjJ1SzNlUG0zelJQR2lONFdjbHVzRkNqWjdpSUpaR1I1ZVlJd210cWJ1SDY0Sm1oRlpUMUw0Vms?oc=5",
+      "source": "Diario Huarpe",
+      "published_at": "2026-10-15T00:46:48+00:00",
+      "score": 62.74,
       "corroborating_sources": [
-        "El Periodiquito"
+        "Diario Huarpe"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "095cd00d9be97070",
+      "title": "A Arca de Noé - Jornal de Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlRXFUSDlCS3phSFVicXlSbk1URXdCQ2xiZkotV19XS0xnWFQ2Um5tNkRORjhTMmRsdERYb2xYMHRHRGtqNHhBand6Q0pmRl8tX3poWV92d9IBV0FVX3lxTFBlRXFUSDlCS3phSFVicXlSbk1URXdCQ2xiZkotV19XS0xnWFQ2Um5tNkRORjhTMmRsdERYb2xYMHRHRGtqNHhBand6Q0pmRl8tX3poWV92dw?oc=5",
+      "source": "Jornal de Notícias",
+      "published_at": "2026-10-14T23:40:00+00:00",
+      "score": 61.51,
+      "corroborating_sources": [
+        "Jornal de Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4f30f7aa77fc03cc",
+      "title": "Nem embaixadores de outros países aguentam mais política de Lula - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEF1SUVWNlNNWm5VeEJxQ09rUVB1bG02c3EzX2ktamM4ZURpYWFvdDVLQXNvQ2lZdFpmcHkxemx6dFIwaGU4bnZlY2d5OHBOUTJZTVpuRllCOUxKcHBSR1JROW01cGM5NmU3d3RiUGhGWC1iamNIbjZJUjFGc1JOS3BRMlFFS0NILXhPRzIwUERMUjEzZ3gwbWdvRGlyRWdnbnI2aGcyUENPTGliNHp1UjJRQkZIX0dkTW03aw?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-14T11:01:00+00:00",
+      "score": 60.95,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSnFST2pZV1llRmtIWU1QakRDVHpEWGU0LU0tbTRnMGVhbF8xdTRNUEYwSHR0dkFjMWZ2enhlTVptX2d0RHRBa0U2NGR2a0hsSk4tcGdSak1aeWE2Q0RfeGhRS1I2Nm5CTkMyekhUVE1fcmpiLTRuSWw2cndCMVZvU0xmM2ZjcGUtZUZISlZZUlJydVVIQ096S2ZueDY2ckJvYkdCOHhxY0ppajF0TUNLRnhRbVdKLTQwZWNGUjNXNFhhZDhpcmttSXNIbHdGR3lONzYxZGlfZnYtRGdwaEU2WkExdFdPSmd4V1o5UmpTZWF5ZU5lcWF3RkhmVWtpcEpCbXBEY2Q0QVlwMVZTN2xVblI5VXVzd9IBmwJBVV95cUxOUnZPQklZYkY2NXlZdEM0dFFZdzcwVVBUOVJmUGozY3pJT1NmWC1qemwwLUJxQWdLWW5ZNjdDRFNOTlhLYm5GcWpmWkd2ZVJPMTVWTmc1ZjBvQlRxM09EeXNHamE4c1JjdkZHX1kwYUVCRkhsUlN2VUNoWW5wTjFCNVE5VlhJM0t4UE95eU5TN2ZVcks1QXgwRjZOZ3hNRGdvOTA4V1RQYTA3TUItdDlRdzlNOUJYWlNtTjFNa1VzMEpIVEhnWmRmVWhxNWRFOG54RUdzRkowbkFHQmxxV3hzQUx0X1NXbTF6anhxWksyT09mc2lPTEQxR0JQNFhEcEQyNnM0ejFPSEp1TkduRm1CYk1fN095aFFLMEdN?oc=5",
       "source": "COPE",
       "published_at": "2026-10-14T12:09:08+00:00",
-      "score": 63.51,
+      "score": 58.83,
       "corroborating_sources": [
         "COPE"
       ],
@@ -111,29 +231,14 @@
       }
     },
     {
-      "id": "ff44d3bbbf8cb3a7",
-      "title": "Rubio busca apoyo de Bukele para restar respaldo internacional al régimen cubano - ADN Cuba",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjlGS1E5Q205a1A3QUpvNzhkbE9McGl4emhNX2FNQ1dSNW1pSjhBMVF6ZTJTV0M2R0x2SzhIQTlucEdMODhjcERyeFI0b0Z3SERrZGlXWmozYTQwbGpVN3pKSVdEOVBkRmcyVk41bm11a3JPN3FGR0FITzRxNmttekxRR1JDelU1MWk0ZVp3cWVmSzN4OXZfVVZuMkxRbFZnVjFiWWw3Y3c5azVQSndJ?oc=5",
-      "source": "ADN Cuba",
-      "published_at": "2026-10-14T18:56:15+00:00",
-      "score": 62.36,
+      "id": "7d38836537e2cad8",
+      "title": "No que a Argentina de Milei pode servir de exemplo para Flávio Bolsonaro? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUpfWElOeWJ1Z3haTXpQMkhYbDQzRm1oX0NGMTFTR1NBNk05QW9sNl9LNnI1aXhjdEJxaVJzaXRpNkZEOE56bWFBRVQ4QWR3VllWWUZXWC1MLUQ4S0tqUDg0TENxV0xmZ2FYQ2lOYk13TE9pMmFpTGtNYVNMUWlSWkN0N1dzcks5Y2VHbXFlM1pzMVBIV09fN2NUWUE4ZFFaUmZMVUZpODM3c3VRMko1bGpuSVM3Y2tHWVd5VnpLZDRDUDIzS3NlV2h5M2fSAdIBQVVfeXFMUEJuYUxnQkNnbTVGbFdTVkNkUmhtVGYtVzhCWmYwME03cjZIdlh0THlxbmNVNE5oWHVhT3hSRDM4V2wyS1dlQk5sZXpIOU5mNkVwd3pBSDJNTmdYYmNSMDM5cC1JR3JKNmk2YUJTQlFvbmhlWHNSeXE0NGVXM1lFUTZXNU1jVXAwQzlscTFNbDJ2YzdIVGZOMUFubUZnN3dTU1c0ejhxN0dPakdsa3lfcXkyNE0xQmNyLUY2bXVKUWFjRDAyN0xKTkF6d2QwS1VYV25n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-14T21:00:00+00:00",
+      "score": 58.73,
       "corroborating_sources": [
-        "ADN Cuba"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5fb7531bed97ab0d",
-      "title": "Grass quer aproveitar embalo de manifestação na Esplanada para virar votos - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmplNUFVN1ZVa2I3ZzVkRTJFLUN6X0ZMalZUenlBYTh5SzV5VEtwXzhxM2YxdWxaWXhMQUoxdjJ5T0lnZ3o2U2JheXBGY1RXUkZ6UkhoUUtaYVhwY2RRU1VYYlEwX2NCN1l6RGNRRk5KUXlvd1NJSTV0a1BDdjBBMm9uVDRuY2M5Uk1pLW9EZmtxZGxKUDJfdThvTXVSemh1ZUxoX1BiaFlZbXRkVTI2M2Zzc0dBbHBjSHc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-14T15:49:00+00:00",
-      "score": 62.05,
-      "corroborating_sources": [
-        "Metrópoles"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDFSbGdmSGluN1ZXMHhiNVE2c29yTkNUTGlJM0U2Ti1ydmo0ZEd1eDdTZHRHVHR3aTVjNVFSWWp3bkZrMTc0QmxwSTlKM2tMeGtoUnV0RnFvYV9XZUFuemFnblFsbFBaLU15UUk0bWJIenJYV3FtZThWblJJZDJobGVoei1vT2x3cTlEdnNmdG5rSzl6Mld6Nlhnc2VtRDlZcUFzNjBZaUlrdVhfOUpSODhUdTlBcUtZTUI3YVBnYw?oc=5",
       "source": "Asamblea Nacional",
       "published_at": "2026-10-13T22:47:22+00:00",
-      "score": 61.26,
+      "score": 58.04,
       "corroborating_sources": [
         "Asamblea Nacional"
       ],
@@ -156,27 +261,12 @@
       }
     },
     {
-      "id": "a9c113bbe6ca8c34",
-      "title": "Boyer Lecture: The boldness Australia needs has no political home right now - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2o0Z2Q1OVppOTliUUloVUxXVmhCbU1ieXlZWnVKWElkRGVvSHV6dlZ6bUFBam5yWFlpbmJtN3loaXRHZUZ0MWd4SnBKMTNSWlJSc2ktVVE2X0RpWjZhQnZ5cVRFZlFUSGQ0VTlxdkFBdmVlNHppaExkY3Z0ajFKTk5WNjItaEZEaGYyMzczTWtJMjd1NlBYUkgwYjlsTmdo?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-10-14T08:10:08+00:00",
-      "score": 60.05,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0e93787bd5c95e11",
-      "title": "Real Time Big Data: 91% estão com voto definido na disputa pelo GDF - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2ZfMTVEajBvY0ViRjh4QzhHcjBGMHBXQmpPWHZiTm9URGR2TmpWTmI3eHNIeEZfWlM3QzEyUHlHc1M0N3VUZ05OS09yazJoMEZNUFhpRmJCQmpSb3cxaXRTQ1NKaEZUNnVWb09zbko1c0ZYZGp5elRTQTRYRFlDdkEwZlNHZU9HTm9pY0lVRlhXdVVBNWlqWlduSXlMbnVqbE9Lem00M0dmLXB1cVJJc2szTGpoZw?oc=5",
+      "id": "5fb7531bed97ab0d",
+      "title": "Grass quer aproveitar embalo de manifestação na Esplanada para virar votos - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmplNUFVN1ZVa2I3ZzVkRTJFLUN6X0ZMalZUenlBYTh5SzV5VEtwXzhxM2YxdWxaWXhMQUoxdjJ5T0lnZ3o2U2JheXBGY1RXUkZ6UkhoUUtaYVhwY2RRU1VYYlEwX2NCN1l6RGNRRk5KUXlvd1NJSTV0a1BDdjBBMm9uVDRuY2M5Uk1pLW9EZmtxZGxKUDJfdThvTXVSemh1ZUxoX1BiaFlZbXRkVTI2M2Zzc0dBbHBjSHc?oc=5",
       "source": "Metrópoles",
-      "published_at": "2026-10-14T13:18:00+00:00",
-      "score": 59.58,
+      "published_at": "2026-10-14T15:49:00+00:00",
+      "score": 56.86,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -186,14 +276,14 @@
       }
     },
     {
-      "id": "76036873f91dd305",
-      "title": "Encuentro con Franco Delle Donne y El Orden Mundial. En la mente de… - Espacio Fundación Telefónica",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUpVMHBCZmlVanE0Z2p0OFZuT1dSOFBPd08tcFJ6a2VDbk9PTzNfVS1QUXhacTJnTWJkV2NvVVBCTlFNNU5MVmxoczkyM2M1TGFSZVVvRG5BWVZOOXQ5bk92Y2M2UFJKVWJuU2I4bDFHTkRpRUxBT0R1cm5haVg5eENUTDZDUEZ3UW91czloR1hlelF6RkpXNmNSc3J1Vk5abUgxYzlnVGd3LWx2ck9vNFZzSTY?oc=5",
-      "source": "Espacio Fundación Telefónica",
-      "published_at": "2026-10-14T15:32:34+00:00",
-      "score": 58.77,
+      "id": "ff44d3bbbf8cb3a7",
+      "title": "Rubio busca apoyo de Bukele para restar respaldo internacional al régimen cubano - ADN Cuba",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjlGS1E5Q205a1A3QUpvNzhkbE9McGl4emhNX2FNQ1dSNW1pSjhBMVF6ZTJTV0M2R0x2SzhIQTlucEdMODhjcERyeFI0b0Z3SERrZGlXWmozYTQwbGpVN3pKSVdEOVBkRmcyVk41bm11a3JPN3FGR0FITzRxNmttekxRR1JDelU1MWk0ZVp3cWVmSzN4OXZfVVZuMkxRbFZnVjFiWWw3Y3c5azVQSndJ?oc=5",
+      "source": "ADN Cuba",
+      "published_at": "2026-10-14T18:59:09+00:00",
+      "score": 56.75,
       "corroborating_sources": [
-        "Espacio Fundación Telefónica"
+        "ADN Cuba"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQk1LUUI4UUxVWmJWajdMdndHVGVCM1lqYlNPQTVCUDRVZC1NelhJZFllMzAtQTN5WjF5RWRHMWJBUW43QTFlRDAxNlJrWXJ1OGNqeWo2V0JQZHFfQm9ueVBONHFOUHg1bW9CSXNkN3FZRm9ENUFjTmdHT2phYkRVb3hqcDBTYnMtLURPanQtREVYSUR6VzFieEM2RkdRZFo0cEtXeXhmVTVaRHJ6YWZYanBRRTF0dXBiZ3EtRklmOGdWclZVbEpCUHd4b0pNWFczZmt4TDlqUmd6UQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-14T02:13:00+00:00",
-      "score": 58.54,
+      "score": 54.99,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -216,14 +306,14 @@
       }
     },
     {
-      "id": "ebfe28337c443fa9",
-      "title": "La Provincia anuncia los ganadores del Premio Malvinas Argentinas - Provincia de Buenos Aires |",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlg0WV9jU01BbmVBM01tY1R6aTF5eDh6Mk1nNWhmQ1NIX3Q0TkJlODlZZTVjamg5b1Q1X0dLX0FBMW1Nenh5UHdOVkxhOVB0Q0VmSloybEliWGFXblk5ckxXbUtUcThGMnBYQXdtYXZXbW9JY05yLXhEZW5zVEtRZnZjRllkQXFwTTV2WDU5eEdQWTRSX0t3MmZxNndxSVBQMVVPX0JtRG51Zw?oc=5",
-      "source": "Provincia de Buenos Aires |",
-      "published_at": "2026-10-14T14:49:59+00:00",
-      "score": 58.06,
+      "id": "0e93787bd5c95e11",
+      "title": "Real Time Big Data: 91% estão com voto definido na disputa pelo GDF - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2ZfMTVEajBvY0ViRjh4QzhHcjBGMHBXQmpPWHZiTm9URGR2TmpWTmI3eHNIeEZfWlM3QzEyUHlHc1M0N3VUZ05OS09yazJoMEZNUFhpRmJCQmpSb3cxaXRTQ1NKaEZUNnVWb09zbko1c0ZYZGp5elRTQTRYRFlDdkEwZlNHZU9HTm9pY0lVRlhXdVVBNWlqWlduSXlMbnVqbE9Lem00M0dmLXB1cVJJc2szTGpoZw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-14T13:18:00+00:00",
+      "score": 54.75,
       "corroborating_sources": [
-        "Provincia de Buenos Aires |"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -236,9 +326,39 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbExzQ3k1V0lmajNRdFRnbGJBUnVIX180d3Q2X1hmLUpsaXhzcjU1OHJqSGE5MUlGeEdtZUNFakxKeWd2cGpZU1g3MF9nMGZlRHpmWUJkQkJWOG9TMUJ0TUdidkVfdC1tUWp2eS1Xdnd3anozR0IxQktxYVFRWGZWQWJFRG9UOEhuREgyMU9CMWlkWGpSNVZ2Z3E2ckREcnPSAacBQVVfeXFMTlBXSHI4LVpfaGdHRXlLWWUyVTBWamp3Zm5FZ2o3U2FjcEYzWmlvc0tUWWZyWERkMC1KR3BwUmR5aUFxREdSVF9GWGwzWVZ2VVAwRF9OU2M3WGZjSVZzdFJaMzFTck9OTXNHTDhEQ252YWRudkhRTkYydmtxMUswVDhWT3NEel9JQkVaWW9wVWM0UGY2MTlwa3hVS1p6UUZIOXYzaWl6ckE?oc=5",
       "source": "NDTV",
       "published_at": "2026-10-14T05:37:39+00:00",
-      "score": 58.03,
+      "score": 54.13,
       "corroborating_sources": [
         "NDTV"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "76036873f91dd305",
+      "title": "Encuentro con Franco Delle Donne y El Orden Mundial. En la mente de… - Espacio Fundación Telefónica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUpVMHBCZmlVanE0Z2p0OFZuT1dSOFBPd08tcFJ6a2VDbk9PTzNfVS1QUXhacTJnTWJkV2NvVVBCTlFNNU5MVmxoczkyM2M1TGFSZVVvRG5BWVZOOXQ5bk92Y2M2UFJKVWJuU2I4bDFHTkRpRUxBT0R1cm5haVg5eENUTDZDUEZ3UW91czloR1hlelF6RkpXNmNSc3J1Vk5abUgxYzlnVGd3LWx2ck9vNFZzSTY?oc=5",
+      "source": "Espacio Fundación Telefónica",
+      "published_at": "2026-10-14T15:32:34+00:00",
+      "score": 53.63,
+      "corroborating_sources": [
+        "Espacio Fundación Telefónica"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ebfe28337c443fa9",
+      "title": "La Provincia anuncia los ganadores del Premio Malvinas Argentinas - Provincia de Buenos Aires |",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlg0WV9jU01BbmVBM01tY1R6aTF5eDh6Mk1nNWhmQ1NIX3Q0TkJlODlZZTVjamg5b1Q1X0dLX0FBMW1Nenh5UHdOVkxhOVB0Q0VmSloybEliWGFXblk5ckxXbUtUcThGMnBYQXdtYXZXbW9JY05yLXhEZW5zVEtRZnZjRllkQXFwTTV2WDU5eEdQWTRSX0t3MmZxNndxSVBQMVVPX0JtRG51Zw?oc=5",
+      "source": "Provincia de Buenos Aires |",
+      "published_at": "2026-10-14T14:49:59+00:00",
+      "score": 53.02,
+      "corroborating_sources": [
+        "Provincia de Buenos Aires |"
       ],
       "signals": {
         "source_count": 1,
@@ -251,24 +371,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUt2QUZuQkNqb2w4ZXduYmd2THJjVl9hV2F4d2hPd3Y3VnBIMm5CWTc2TXRQYTVGaHBmdXFtZlJ5SDN5S3BhdU1LYzRqS09aamlKa09Rb3hJYTg4RmxfT2JTakVCMUgzaFNTa1hoc09vbC1aOFAxSkRtZlZodzA5ZzNvLW5UQS1DWDhWaWRjd2VKVzZJdDJ5NzlDZ2gzR0Q0YzJKQ0tZTHBMdlNhb1hPczJFZE5YMXcyYnpFejhkVTdpY3PSAcsBQVVfeXFMTUZjeFNGcTJ0Q2hoekY2enRUX3gtdkw1TEhudGQ5VG9qMmE2cDRfTmZTb2xacVRVSFE2SlNONTRtMV9heE1mN1M3RzJyZUxEWGpvcmV3NE44YTM0YUxWY2kxSU16NnNZeFJwd1NwMVlXcXhjNy1HZ1gyemJONFgzMi1zR3VhR29QOHJveV9TbmxETEhCU2RuOWlhLW9KdTRkSG8wUmlCa3E0ZktYQmpQa0dnWTBwVllXR0VDWDlmSHptZl9CWVl6YTJWRlE?oc=5",
       "source": "La Izquierda Diario",
       "published_at": "2026-10-14T14:38:27+00:00",
-      "score": 57.87,
+      "score": 52.86,
       "corroborating_sources": [
         "La Izquierda Diario"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8787368d27813004",
-      "title": "“Espero que Colombia respalde los tratados internacionales”: ‘Navi’ Pillay, Premio Nobel de Paz 2026 - Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYW5iMk9BdllvcE4yZDk0RW4wLXd1Zno4M3NBdlVVcXlFRjh1LTgxenpJRi1pTFJmN0l2c3NfSUZqMlh6eXZObFotV1Ffdnd5WjZFaDhITVUzR2lwLWxtS1k0M2RhRXdXVWF6OUNtTUxlQ0p6X0pMZFVpQ1Q5VFJoUDZ3TWJzX0lCS25vdjZTMXpyV1B6WTZ1U3ROU2lnd9IBsgFBVV95cUxPaHVNUWktZGRRdi1SU0JodklvcE5naUc4dWwzbE93cjR4a28tb2xxWV9sbTRTVVhXNFZNX0xnSkl1aG1wUTZYSkZEWU9LUDZEUVdLQjFVTTRRNmdRTTdyOEVsYTB0OWZ2S2wzbHpVdWpQT0E0UGJkekUtUkpud0oxWEdJTlB4Q3FsWWY1TnVEZnlZRDJ6anB1ZVlfNVV2cjRnLW1ScDVHcGpDMDhKTExBQnFB?oc=5",
-      "source": "Caracol Radio",
-      "published_at": "2026-10-14T13:42:14+00:00",
-      "score": 56.96,
-      "corroborating_sources": [
-        "Caracol Radio"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMV9Yemx2SDVHc2lER0MwRHozSzMyTjRHa2EyWno5b3R3ckVqMHlEWDVMMzItc1FlUWRzT0lIa0Y2TXljMENzRDRsLU1BUmtib1RHZ1pFXzdFQ2J3Y3k5NDFPOHFsN1o1MkI2dmYyaFljeE1SdTA4cjdyTFU2RjlkbXhmR3F2b0tubHJGSVRpa2E2NHJUSmUwaDlReEtWdFB0Q1ZDU0tGRFQwdzRDUlNFOXRoYUtkSlBrVUE0bnBpM3duZVMwaGl2N3lSd0VLRGdnSEhHaTJHcGhKZGNVVkliU21TRVo4THByWi1fRWtJRdIBigJBVV95cUxOeHgtWDBBWGVQYkZQZ0RQaU41SEp0YjktQkw0OG1kYUtPVmw4Uk5STjRvSVVqcG5UZTN2UTRTczNkSl9BTHM5dldISTZURVhqREw3N0JKalNJWDlBZXBVQTdDZ1JDX1NZc0Y3aEw2OHdoNU9MWmE5SFVoRWVHWklJSUxGNkxQdnl1aHN1bWVnNl9TdTczbnJLVV8yQ2xiZV9SYlFaR2JMdmEzdmNLN21sR2NvLXNNLUFadmhoQXR5V2dFbXB2YjFLVE1yWXVpdlNFZ01tSWNHSVU4QjZmOVRIdDltNWVhUWN1ZnltNXlxYWFyVW1oN0tONkdNS3l2SmpnOGUxWnpDdi1RZw?oc=5",
       "source": "Infobae",
       "published_at": "2026-10-14T02:26:00+00:00",
-      "score": 55.69,
+      "score": 52.12,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -291,14 +396,14 @@
       }
     },
     {
-      "id": "7f939329f6bc5793",
-      "title": "Últimos dias para inscrições no mestrado e doutorado em Relações Internacionais da UFU - Comunica UFU",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9IVFh1RHotNE5xeFdYUjNmck9xc3pVYTB1WTVoMGEtWDl4aWVRNFdEd1FsU0t6ZEFuZTBidXcxUWg2RHFjZ2FiS2o4V1ZiTWNLOXNhYnZFQl8zQWdTLVJlNU1nbnNWeUlRMHZDNGdRTVNEM2pEeDRaVnJQNmp1QlJXNFdTZG1vTlduRXp1ME1iMWs4STdBUnU0emZlRXZhYWl4TjUtWFpzX084cGdZbzl1eUJxRGo0OFpDenFCYw?oc=5",
-      "source": "Comunica UFU",
-      "published_at": "2026-10-14T11:57:00+00:00",
-      "score": 55.32,
+      "id": "8787368d27813004",
+      "title": "“Espero que Colombia respalde los tratados internacionales”: ‘Navi’ Pillay, Premio Nobel de Paz 2026 - Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYW5iMk9BdllvcE4yZDk0RW4wLXd1Zno4M3NBdlVVcXlFRjh1LTgxenpJRi1pTFJmN0l2c3NfSUZqMlh6eXZObFotV1Ffdnd5WjZFaDhITVUzR2lwLWxtS1k0M2RhRXdXVWF6OUNtTUxlQ0p6X0pMZFVpQ1Q5VFJoUDZ3TWJzX0lCS25vdjZTMXpyV1B6WTZ1U3ROU2lnd9IBsgFBVV95cUxPaHVNUWktZGRRdi1SU0JodklvcE5naUc4dWwzbE93cjR4a28tb2xxWV9sbTRTVVhXNFZNX0xnSkl1aG1wUTZYSkZEWU9LUDZEUVdLQjFVTTRRNmdRTTdyOEVsYTB0OWZ2S2wzbHpVdWpQT0E0UGJkekUtUkpud0oxWEdJTlB4Q3FsWWY1TnVEZnlZRDJ6anB1ZVlfNVV2cjRnLW1ScDVHcGpDMDhKTExBQnFB?oc=5",
+      "source": "Caracol Radio",
+      "published_at": "2026-10-14T13:42:14+00:00",
+      "score": 52.08,
       "corroborating_sources": [
-        "Comunica UFU"
+        "Caracol Radio"
       ],
       "signals": {
         "source_count": 1,
@@ -311,9 +416,24 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSUNWLWZ6WndGTV9jNzA5OUNfVzViLWt6aGpGeG1SdVJzdGdHX21jZ2JSMUZ6b3hZVUh1SHJ0ZXZVdWYxeHVtOEdodnJFSnFuN0RFcjEzS0p5aHp2Vnp4Q1ZBVUh5amlaQ1dzcDVpTWhqOE85X0NTYU5UUjJRUGVVNWRqRjFhd2R4dHBJeWtCb2Y2Rl9CNC1zdEJzWl9JajF0YmNhTjJLNHFfV183WFpEdkZaeFRReVYxZlMzMmw3eHhmaW5IczVvUmlFZmxEME5JazBKQw?oc=5",
       "source": "MDZ Online",
       "published_at": "2026-10-14T01:20:00+00:00",
-      "score": 54.93,
+      "score": 51.47,
       "corroborating_sources": [
         "MDZ Online"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7f939329f6bc5793",
+      "title": "Últimos dias para inscrições no mestrado e doutorado em Relações Internacionais da UFU - Comunica UFU",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9IVFh1RHotNE5xeFdYUjNmck9xc3pVYTB1WTVoMGEtWDl4aWVRNFdEd1FsU0t6ZEFuZTBidXcxUWg2RHFjZ2FiS2o4V1ZiTWNLOXNhYnZFQl8zQWdTLVJlNU1nbnNWeUlRMHZDNGdRTVNEM2pEeDRaVnJQNmp1QlJXNFdTZG1vTlduRXp1ME1iMWs4STdBUnU0emZlRXZhYWl4TjUtWFpzX084cGdZbzl1eUJxRGo0OFpDenFCYw?oc=5",
+      "source": "Comunica UFU",
+      "published_at": "2026-10-14T11:57:00+00:00",
+      "score": 50.67,
+      "corroborating_sources": [
+        "Comunica UFU"
       ],
       "signals": {
         "source_count": 1,
@@ -326,129 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ2w4cmJ3eUZGeEFCUU5tZDR0LVBrT0xGQ3Y1bWZwQVZmZHhzOEdxTzRvNG9veUtGRHB4dVB4N19oSDRLS1hwN2xQa3MweXVXc2tBVFBmdHI0bzVXUEZaQ0V3WW43WG83MHFRdGdEdU15T0tPaWtSbVIwZDFrUGFkaGxXTjRHdDEzNjdvcXVOSTBOVmdXb19leUJJcUk0VDlxSlFzMnh1RmlsRDl2NE1WVUc0WGhJWEM2NS00SnktdE10NzJnRG5PRWZJRmJ6ZWVwNU0yNUh5Vks?oc=5",
       "source": "Pontificia Universidad Católica de Chile",
       "published_at": "2026-10-13T23:47:05+00:00",
-      "score": 53.9,
+      "score": 50.58,
       "corroborating_sources": [
         "Pontificia Universidad Católica de Chile"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3587deeafaffbbfb",
-      "title": "Campanha de Lula lança cartas direcionadas a evangélicos e católicos - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGxZaW5FTWJWNFRYTTliQmxUXzcxQ0tLbzJSdTMzQTBEd3JtbnRaeFdDQTJqdEdsaWVCeG11STRUbURkZGJoU0tlSzVSb0pYNS1SZmJLY0cxd210QmpIQ05fT2VFWGZUR1JQYTZJRkFPc2xfV1F3b0UzNUFuZVV5N0hRWkxucjlraGV1cVU4eE1vWFItRWdKR29VWnUyVnQ0MDRiSXBEZjJybHJ1WnZHU2xmd1dXZXBi?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-14T03:40:48+00:00",
-      "score": 51.58,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cc5763417d5f0bc6",
-      "title": "Veja os números da nova pesquisa PoderData/Aya para presidente no 2º turno - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzhPTXFIVmhETTNuVXpvNVhfSVlQYkJza0NoX3VnaTdtNDhRWjVqSExyRzFqMVV6eGdTaFZZMXhaR045ek5FOVZFZEIwZGpGRFFlaVNRLW9POWZQWVJnay1URDFCOXV0TkJQNy05MHppbjFtX29aYWlkcTc0MGgzcnVRMEJvVmFGLWVEUUJ5SjlvOHhqMG02dVZWamwtUk1qWEluZUNmYWxpaVdyYWoyMVRMc1FDMHJLOGpjQw?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-10-13T10:31:00+00:00",
-      "score": 49.68,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d3fc826f2f8474b0",
-      "title": "Global News Podcast | Pope has surgery for lung cancer - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04ZjZzS2YzSHktdzllZE01X1MzTnU0TEJSVi1FRXExN0J2WV83aEdHcDVlY2VYTkVZODRNMWNScmhzUFNYOEhYX29nVS1xczRs?oc=5",
-      "source": "BBC",
-      "published_at": "2026-10-14T05:05:05+00:00",
-      "score": 49.62,
-      "corroborating_sources": [
-        "BBC"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "91068b3b26d5e4ad",
-      "title": "Un monteriano gana premio internacional de consultoría política y lo recibirá en Washington - LA RAZÓN.CO",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDkwNmJ6SXZQc25xZUszSml0ZElEVjROU1RvQmFHcGo5YlAwT1NYa3Nhb2VzNmw0M3hrcS1OT3F4M3o2cXBJWUFwd000MGxpRVprdDh6T09Ib085d25lSjB5QmF2WmJtcDhOclZROG56LUpoQlM1RWJYa1QwRlp6MWNfY05GSFVDVGthenFUemNYbXM3djJldnJHVlZNSEVfNDhQbjgtd3ZKaXNNazZMMg?oc=5",
-      "source": "LA RAZÓN.CO",
-      "published_at": "2026-10-13T16:15:38+00:00",
-      "score": 49.49,
-      "corroborating_sources": [
-        "LA RAZÓN.CO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "630121f3c0eeebb4",
-      "title": "Trump’s Diesel Gamble Reveals Washington’s Waning Leverage - World Politics Review",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWdvY1VWRWNQM2dudnRVTjFFUmp3WUhJVXc3M3c3a25RZnBUeml6ay1fUDN2bFk2ZXVpalpmYXRQTVVEWWFsRE8teHU5a3NMTjlSYW5xMi1RR3lHQlZtY0NLTUtNZlVRYTRmdG1fb2p2dUU2OGxhQjdybzBaaFpXOWlNZ2xib0hBVGtEYmd3U2ZjZmlraEtnVA?oc=5",
-      "source": "World Politics Review",
-      "published_at": "2026-10-13T13:32:56+00:00",
-      "score": 48.11,
-      "corroborating_sources": [
-        "World Politics Review"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1bce499059e277cf",
-      "title": "ESPECIAL Informat.ro / Los principales temas de política internacional de la última semana. La influencia de Donald Trump en la guerra de Ucrania, entre negociaciones e incertidumbre - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1g5TVpDSkV3ZGIzb1NkbzZRRWlfXzNSMW5ta1ZnakxoSTV4Y0dGY2FhNXJZaDk1MnBETjN4czZJOXhyNGFwbjhObk1qckxvSnZERmhfQWprSzItb0RaelQ3VWVDU1NQbHl0bjZrcmgyMHNzVzdZTi04MXlfN1plZlJINDFxSVBCREpqaEtwdF8?oc=5",
-      "source": "Informat.ro",
-      "published_at": "2026-10-12T09:11:32+00:00",
-      "score": 46.5,
-      "corroborating_sources": [
-        "Informat.ro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f3e80ed7f59de4be",
-      "title": "#Hashtag: Memes chamam 'Gostoso da Paulista' de 'picanha que Lula prometeu', e descamisado viraliza na gringa - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcjJJUklxR3lYUnlTT3pDRE1uQmZ4TkdJekY3ZXBERFc4UFc0NHRSZDVMWnUzNWdQLUV6QmlueFVGQmpCcDRXX3RHZS1LSG9YRG9VemhKb0RxRXM4anUwM2l4OFdOTW9NeFp3QmdVdjdOa3FzTHlVajE0UXFhczU4VHFFWi1HeEd3Rzc1alJCNXBYUHlaZVdVZ2Z6Q2M2YV9naVk0SHFBNzhUZkRNUlFvRVJpalZLUzQxOTRnWTBWUWswVVNBRVJuc3NCbjlxTUh1QU9Ed3ZrUzZBeGszWmFEZVpWeEFVWXM?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-13T19:15:00+00:00",
-      "score": 46.13,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c4beff7c0464b59e",
-      "title": "MDB se divide e 10 diretórios do Norte e Nordeste declaram apoio a Lula no 2º turno - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjFIS1JNc3NTdHZNS0tOdTE1WmVRUlNnblo4X045c3plYTlxeHVXSGREa3pjell6dkRCZERCRjZwZmkxT3ZUYjBJa0wySnV5ZkU2VGpOWWdrbm9YV2lIWFlOS2h6YmMzSVFYaVpCREstOWVCazhqbVNNVl9SZ1VpeG5vdmFvczVVM2ljTnBZeG40d05FVUdyWVpCTldHOGROcEx3NTRhNzl6WDUyaHhqMktqQ1FQZkp2YXhkdEtGSU9PU0g0YnVB0gHMAUFVX3lxTFBQdVFxd3JBbXJNRklNUi11TWk2TU9FemtVbEcxTG9pZWU0NFVDOUNzOHFhUG1mWFpETm0tRW4xWDllcnAzTFJETzRhRnpWZW1neEQ3Z19PQTF3QVFtU3AtTHhkREZPSHdYbGxsMzg4VVR3eFh2dXZ0UzRQckNNaU5Vem80ZGUtWGhCUjRfanYtaHRlNFV6emhXdTNwVlBOMDdrN2JXMmJweUdaclZlb2JpbTVJbXpfQXFaaGp2WmR2Z0pDZGVybE9FeUlmMg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-13T18:04:00+00:00",
-      "score": 45.46,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
