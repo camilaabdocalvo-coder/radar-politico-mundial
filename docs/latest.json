@@ -1,19 +1,124 @@
 {
-  "generated_at": "2026-10-17T22:23:07.708006+00:00",
-  "next_update_expected_at": "2026-10-18T02:23:07.708006+00:00",
+  "generated_at": "2026-10-18T04:39:47.231062+00:00",
+  "next_update_expected_at": "2026-10-18T08:39:47.231062+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "c52e597e3e8def1f",
+      "title": "Amiga de Lulinha afirma que quer fazer delação premiada e chama presidente de mentiroso - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclFJYTFkMlBzVXFULUk3RFRoSjNMbnZ0MXQ1N1h4V0FSWVBMU1hLOEVQU1ZRQjlocWI4LUJpYlBXcWY0QWIzWURfcXNDckxNNHlCSThTVmlhb1g4cFVVakRQdmpNXzJWNmlWZXNRZkNOR3l1MU9yc0QyYy1lbmZtbXdwQUt1UjFmSXk4Mm5TNWpldGFlTThJdWd3dVl6VkVOaTJCTzhTbjlHa05QX25aTHFKbkhST01pY19ZUHhFUGtOZkVabVNHUDJHZWNKN1FlT0dZ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T23:43:00+00:00",
+      "score": 72.7,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d3421ec2a74e7dc5",
+      "title": "Musk back in the spotlight, but politics dims the awe - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnJBbkM2TExubldQQUFHUGpBeHpHWGh5QmNETTIxbExONkVPbk9XajJOY2Jfb2toNWl1RURVMGtiMWlRWWd5Z2hRV0FxMnJVcm52QTdKSWFWaWZKRnNnYTJBN1dodW5MNFJsSlh3cl9OUmJBYzJlYWhwZTY3d0xzSkoyTmNhbkxJSVhjRlV6M3pqMGs?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-10-18T01:27:00+00:00",
+      "score": 71.63,
+      "corroborating_sources": [
+        "The Japan Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "11b9e2ed9049b2f9",
       "title": "Saiba quais MEIs poderão ter a dívida perdoada pelo governo - Poder360",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHE1d2w3Q1VBZGdRWk9pdTJUQVVocnFjMnpINC0zMU9BX2xXaWc2RlFEWWpvaVNjSEJUazdYdWZHam9ORnlIYzVaTjBUWlNjaFNUNGkxZHF3aW9lZFUyTllWazY5Rk9YdTIwTUY2bUd5ODZPc3JSbC1ldFFNOXBtdWhFSERYOFFvTTY2UVRqb3ZjSVBLTEREajdUYkJUdXQtbmZEMA?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-17T19:56:31+00:00",
-      "score": 75.52,
+      "score": 68.8,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b4b417799bc5a4f2",
+      "title": "Lulinha é covarde como o pai, diz Roberta Luchsinger - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmVaNmtqRW5BMkVRNUFxVThXUEdVcGZIZnVYVFNnQ2ZTR3FsWC1YTHMtWnpFTER0WVgzaG9fQWFXalJBTkRlYTMzVE9nQ1lpb0s2b0FPN0ZVN281ODYyejBRdVRZc2FGSmk1YV9QeGU4WjA2ZlUycjFGUGtsckhNNHNsYk0xSGhuVVIxcEpNVDFCdHZPVkZZ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-18T02:13:59+00:00",
+      "score": 67.54,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8094004009cd809e",
+      "title": "Vorcaro encomendou vídeos apócrifos difamando Malu Gaspar e Lauro Jardim, diz jornal - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTWt5ODlRUFluN1FjcTNvdmtzMDZUak9pWFd0aHVCMTlyN1lRWXB0MktqQzByaGExWW1LZnBrdWk4NlJ6QmowSEQ0dFkyR2tIT3hLbjNGeEVTbFU2TDV6dktxLW90YXJ4UWdmQmVGMTFsR2xFbFlvZlJtWUR0VzZzNm1aSVEydDJoZ2FwendzeUNtckdlU1lVOGNTUkgxdEJNV3ViMG5FS0tQdHBGVDlUbkpJQ2w3c1c4bmZiazNzc0I0SDNzOW5mWUlWX3hNQQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T02:08:00+00:00",
+      "score": 67.42,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0ee49dff45fb49b7",
+      "title": "Threat Perception in International Relations: The Neglected Dimension of Leaders’ On-Going Experience - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBua19vVi12dURuVjE5QXk0SUo5TXZHU0Q4ZFRybHBGNTlXeUVSRndXOHZUTmxBQVRfbDYta25lelNiblU4MUhsdU9FbGVKZEN2dVBfdTlVSlhvYmRfdy14WmxpQUFvclBw?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-10-18T03:36:32+00:00",
+      "score": 66.18,
+      "corroborating_sources": [
+        "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a5ce69c10e425b54",
+      "title": "La revuelta de la Generación Z, el nuevo fenómeno de la situación internacional - Izquierda Web",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnMtbGFuc2Zza1ZMOUdMTXNELVVNMU9hWm5MM2t6QTBWdGl4Mk1jSk54SXB3N19OcE12UHUxa1BiMUVITThaTktoUUEyNEozUmxGTlFqaWp3RE1GQTBrQVlMb3lJZ0lkNzhRT1VYWjJtODRZQVFIaU9GU0xaVnNQRVFVOXN3b3pneEs2eVp5R1BiaklVWjJ3QzlNSUF2N1VNYUpVWDl1aw?oc=5",
+      "source": "Izquierda Web",
+      "published_at": "2026-10-18T02:41:07+00:00",
+      "score": 65.07,
+      "corroborating_sources": [
+        "Izquierda Web"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "40712e0688af1230",
+      "title": "Trump-Zelenskyy rift threatens vital support for Kyiv - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3RZT0pnTDUweFZWTm9IaTRveDdLa2U3dzlrLTRTMHNrektVLTFjTDBBNmczY0hwYTIxa2hGUjhZN0FWUlRhcmcyTUdOLUhBZUJNVW9vZHZXeG5PNFh5bGdMWWx0c1UxRzllQ2hEY2JITnE3QzE4T1JTUWs5bVh6YkxRMGtoWTR4VlVLRzF6XzRBTXdWdzNPY3h0eGFzci1wcGVn?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-10-17T23:24:00+00:00",
+      "score": 61.36,
+      "corroborating_sources": [
+        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnlVUG92bzh0aGxuTkNmcXNnY0VMenBlNklHMHIzU0JHNS1RZmNUSnFKcGNzY1Q4ZDhyNnQ4SWcwN3NWZ1ZJcFJCZUxFYmZ3YjFKZE9MNHJOS0ZDV2VZTFVlRVY2V2VKeE9ZTTIzbFE4alBJNEV5cC1adFBETDVuQW9ITzlvV25NVF9ZUUczMUdaMjF2OE1CeHJKdm84eU1DSWFMWkZzbTJzcTBPN3fSAbYBQVVfeXFMTVV0eVI5MDN2cktQNEc5OEYwelBMWTBCVDJRa0dCMEJ3dWR0Vm1yMGF4bVZFUFlPOTJoalZjT3FBQkQzMTFVTUhTUkFKclZuQ2k4T2hSMEViamtxOGx0Z2RWQ3h2akk1NTRXSGx2QS1fQ2dXZ3RaV3N3Sk5NNHZZeHVuLW9reThwQUVvcFphM0Z4dVJpUy1XcnJzeXhLRXJqWXQ2czc4UEk0aFBKazNVQ0xEMDVqU0E?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-17T21:17:00+00:00",
-      "score": 66.12,
+      "score": 59.14,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -40,8 +145,8 @@
       "title": "Protestas masivas en Francia: 400 detenidos - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUlQbDA0S0tGSlhOVnppOFlKRlJXNXlmQm5IWE1Hbmg3a1NDSUZOejlvR1l5b0FFSG9EVDNOS25VQTFZUnJYWExqSzcwQV9JMkRCSE1QbmJ6bVJmTWlFRjhrNnF4bnA5MllReWJaWGJmQ0xuc2Y3YlR6bV9vbjcwUVBNU0liT3lQZ3NPYWJyWQ?oc=5",
       "source": "La Patria Bolivia",
-      "published_at": "2026-10-17T21:12:50+00:00",
-      "score": 66.04,
+      "published_at": "2026-10-17T21:14:33+00:00",
+      "score": 59.09,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -56,24 +161,9 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSFdEV1lvX2NCdUptQjdfeFZYX3FkdTd5dDlsRWg3MnNHbC1COTZHM0VyUTVaTElJcTZfWnRiSnhXLUhueVZuSTlwRXNZcEl6VGJhNHc1NU5ldGlYY05wakVCTWVLN0txbzJscTRNeXIyVzUwajBXZmhVMFZiejNyR1NFUVJZUkc3anJxa0Jyazd3aUNNcm16dVhfbUxmYzR2TktOeVV6ZFRqOFJjMzlCaWltVjc4aUdDZGxhTmZKSmtzQlloU1FQRF83QzZyQ2JzVEZZNW41NjdTMEHSAeABQVVfeXFMTS11N0dRLWpYckNOV200WXIyYWV6cjNDUnU3dF8wRmt6X3FkTnJFQjIxRXYweUdIT2o2LUlFTE5RQUtnaTdOdzdaTGNpUVN6NDc2Z01lczlZVkxxd29WRl9nRDc1cThDU04xRWpDOU9sZnBYanVxSTNXUGd4cFFOOEwzUVJxdXNReUdrakhQbGlnTUR2cTI1RTBEdnZiLVJyNThfa2Y3bHZEZGxMdE9KYTNrTkM4RTRiakFxUGVaaW1QMjZuRWNkOW9IYUZ0UWVFVlAxQlcxeV9pOXp4MUt3SGM?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-17T00:32:55+00:00",
-      "score": 58.01,
+      "score": 54.09,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8a5b394e2688de05",
-      "title": "Poder360 abre acesso ao Agregador de Pesquisas mais completo da mídia - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakVNSkNXV1NmemZSY1NhZlZkMldTbU1LM1NUUkY4cEtGR0dHa0hVWTRpYnUxWDY1QnhhYVJEVFllekYzcGZvZHlSd29SZ2ZtTnUyR0hqaG1yWXpCMkg3M0FTbkFrM1dYTkltc0NDUUJFcmVsSGI3SVRLR0laalh2cE0zVHlReUhNY2pmME54MjN6ZFc0SGFlZnQ1X2NwTnVna0VOM0xNN29qR21kc3FxTnBiZzFZMmMxOU92Qw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-17T09:04:33+00:00",
-      "score": 56.57,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEVWVk9uSGFocGFXTEcyUGtkRkpyekdQa3oxNHFBOTM5YmdrZ1l4YUF6UjFiZkdlYUhIek9sX0RfTEhzc0Q5ek5wUy0zVWlrX1Z4enRLSmNtdWtaMm9ydkowMVNUUFB6Qjh0YzBUeDZmbTA3cC03QzdoVG14ajN3cVhScC1CanZaTGZvYmxzY3hKRWcwcFN0MjFVaHN6a292REpqSzdXRnR4TV95WXhualFtajNVcmNJWS1HcjduWEFIZk96ekJHVlBSUXFaSG5tM25feGI0Q0tnWjNtXzdCZjRGdUlrSUpvVTllMVdPMU0?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-17T02:07:02+00:00",
-      "score": 56.1,
+      "score": 52.0,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -96,14 +186,61 @@
       }
     },
     {
+      "id": "8a5b394e2688de05",
+      "title": "Poder360 abre acesso ao Agregador de Pesquisas mais completo da mídia - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakVNSkNXV1NmemZSY1NhZlZkMldTbU1LM1NUUkY4cEtGR0dHa0hVWTRpYnUxWDY1QnhhYVJEVFllekYzcGZvZHlSd29SZ2ZtTnUyR0hqaG1yWXpCMkg3M0FTbkFrM1dYTkltc0NDUUJFcmVsSGI3SVRLR0laalh2cE0zVHlReUhNY2pmME54MjN6ZFc0SGFlZnQ1X2NwTnVna0VOM0xNN29qR21kc3FxTnBiZzFZMmMxOU92Qw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-17T09:04:33+00:00",
+      "score": 51.59,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4460200f5aba5940",
+      "title": "Imprensa internacional repercute fim da escala 6x1 e destaca ‘vitória política’ de Lula; veja - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUdtOEZidjA3a2gxZE96NGV6TFNIUDJFRndlYl8weGtoNjdPYS1iWm1zdkxTakI1d3YxcjZxeHJFR0FWMVVxZ0QybnR1Vm1WWVJwNEIxQ2hFUnNRRE9zSENfUk52djdrUTh5RHgwY1pIV1FUY2RfZTV0QVdYQXg2c3Qtd05KTV9NRXhCTWxzMmtIaU1sM2dlbHdOWUZ0b0NfM1N1aEtRLUt4a29VTTJHMjY3djVFdHFWbHZBSkVNUG04NGpxdjlyR3Nnb9IB0AFBVV95cUxQanhPc29WcC1fN3JsWV8wUFJQMW1pQWJyUGVxb3cyZWR6a3RsOEp1XzhqZGF0YU4yQ19YdFoxckpUTWFZQU5nd2xERVYzWlFiTDUzMlhmdm5LT2JQVTl0TVVQZFRxMGJELVFwaXpTdUJUbDVfOW1KUEotYVlBSVVQOWhGSFJSM0tzMXZBM2VsVnZjSlRSRzJPZVZzSDhaNEotVzR4bzZHSDhrb1RLRXlBeHJwZTJxOXp3MG9IY3UxSDZGZFpxRzExcTRXNXUyd0to?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-15T14:33:00+00:00",
+      "score": 50.97,
+      "corroborating_sources": [
+        "Estadão",
+        "G1",
+        "Jovem Pan"
+      ],
+      "signals": {
+        "source_count": 3,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "a0c96d629a765d23",
       "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOamhGbTM1d0ZBMnN5LURDaF9ncUVTak1zcnkybTk4NWxnbVEycXRPdG13aWtmTk5NZjM1YVhuNGpqa3Z2V05ybnhaM2FMNlViUTktb0tsLWVJWDF2SWxEYzlQX0JpU1JST0pyTjlmVU5lcDVyT3ZrR1d4QUhSUzAxLTJVcjVtek9jRlFTZkZLX0N2Sm9WZkZobjB3SDVqUDU1STlnQ3NpWXVCMUpBOGYyV1lONFdVa01qa1pPY184UE80b2lPSFN5OTU2bUlNeDY2SWxsTQ?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-16T22:53:18+00:00",
-      "score": 53.91,
+      "score": 50.16,
       "corroborating_sources": [
         "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "74e68524c0487683",
+      "title": "Meta admite conta de Lula prejudicada em mensagem interna - 16/10/2026 - Política - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTU8yUVM4Y25NWHpmV3FFdFMxdjZtaWdtbUY1eGhET2wta3IySWo0ZHBmd1NaSGVHNHdyenJHU193enFMNmtraTNuUkpmUXlqVGM4VXF6WHJSeGdxWXM3TTVLSXRuQ0o3V05fWjg2bzU2VlRibWNYS08wWE0za1VKZnpFc3JLUm1hMHMtVDhOR01vNzBMU1ZCZHdjYUtkeEtUSkNBMlFtZUZ0Z2hZdGV4MGliaThxYnFudE1LMzYtMkNWWEF3WWdkUU5iYkp2bS1Jd3pvWmR2bmVWUTJvUVFGbmN5RHFMUkRQM0tqaFVLeFBsUXdwWXVDSzd4NFhtODJKVzZj?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T14:49:00+00:00",
+      "score": 49.2,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -116,9 +253,39 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWo1ZnhLSVBybTZZVURPYlY5bVZ3bGwwTnFub3dZZDY3ZEU0R1Zmd3VHVWZfaVBYZlJMZnVhSjFZcTZVVHBNQjZtQlRYUWtDaGROTlFERjhXcllhUjdEeFgzLTlucTlQajBEM2t3eTZWeUV0Sm9qazR3Y2d0S0Y4ZThwZHhsYTJjc2NOa2FzR0pyc29GSjFFeVQ2QlJKWlFIRkZxd3ZIbnZaN3lLS1BZVWZJTVZGQ0ZMV0EyODY2VVZHMDdFR0FYMk9FTE5BSlJHQ1JxeklybnNtZl9a0gHiAUFVX3lxTE54SS1tWnl5QUlvRVV4clRrRS0tX2xRaG04VzhNRUI1QzNmUEw4bUpYb09pcVlGcXFjYUJTZkNCcXNKaGVaMThqQ1VnQlZQME5FRWoya1R2dTJtbkN2a3FhLVpRRXZxREQweDRSRlp6QWxzV2I1bS04Uml2VHlacE9MaVpPd1BpZ3ZzeG1VcmtOdU5FWmwxaHVKQnVDbzUwTGNHUElGVVpVaWJOZE5PS2RSV3kxRm1WTzlqZUZWanlqZ3pBV2lwQ2lHRWJET0lqU1dIdUFwTDFUTnEwYVl1dFV0U3c?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-16T13:32:49+00:00",
-      "score": 51.55,
+      "score": 48.66,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "07513c0a974047d6",
+      "title": "Senador Antonino Morales respalda política exterior de Claudia Sheinbaum: “la soberanía no se negocia” - senado.gob",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDV3Y25uXzNwQlFQVlZHSi1KRnFFRTBQWVNXb0FFd3NCXzBrLWkxMThaTGxCUmRsXzRuYTNiaTNUUHpoYTFMeG9PWGFNOHBISUJlLWpyYV9SWTV0MFB2TFhrMWxwLWt3eVg0bTV3S3pGMUs3U3hfV1NSNjhldnpxOEM3QTJsMTJ5enMtMDVZQV9UXzNnRF9oRVZtQk10UWlfWWkxTDdGcnNlWEJhXzh3cE9UZ1NqUDBXdDY0Yl9fUFRDOXR3T09OZg?oc=5",
+      "source": "senado.gob",
+      "published_at": "2026-10-15T21:18:58+00:00",
+      "score": 48.15,
+      "corroborating_sources": [
+        "senado.gob"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "97fac66cbc70553c",
+      "title": "Albania’s Rama Refuses to Resign as Anti-Government Protests Intensify - World Politics Review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlV5VkVKeENTVjJWdldWVXhzcGl2VlVpYUxkYVFVMnRtRVBkSlJ0M1VYUmtxamdBMWgwbmVicGtQZzJhczQ1dDRhRGNiWW9JamJFUm5hckhTMEd3SEotY2NtN0o5N0U5VktVR2FSNVJQcWVUWGdPdDhObU11Wl9EV0ln?oc=5",
+      "source": "World Politics Review",
+      "published_at": "2026-10-15T18:33:00+00:00",
+      "score": 47.43,
+      "corroborating_sources": [
+        "World Politics Review"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +298,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWNG55NGxES25lNWlYSGt4S0RXNENJR1hvSzVRN0lNZGxiaU9OVExadmxJVU5zZVRNTnRRN29feDdMZFNqSUZFZVp6aEJDVjlDMno1SE5nOXpQdTBUajl1eVNfSTlFSkJWZ01INVNKRWp5Y2RPRnFybzJUTQ?oc=5",
       "source": "Consequence of Sound",
       "published_at": "2026-10-16T17:00:10+00:00",
-      "score": 50.37,
+      "score": 47.19,
       "corroborating_sources": [
         "Consequence of Sound"
       ],
@@ -146,7 +313,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZTh3WGVSZ3kwZldHYTRLLURGd2Vub1phbW5CZGFVaHR2WkVyQ0NNZ0dySzUtNmVEMG1WcUtaMnc0ZGQzajNOVFljSUtJS1VpMGJsdENTZm82dGFzdHpxT2RYajhCS2pXVkhnUHk5THlZaXpCYjVxY0ljU2FGN0FtX1pLWF96OFJrSjZtSVVZNWlrRm9ncHdvSy0xMEk1d1BvMnFQUENCbG95X3YzNkE2TFJYck5nTXVsZWVFZDUzVk1kQW5XX0ZQM0h6SFFRVHNfX3E0T3lR?oc=5",
       "source": "RealClearDefense",
       "published_at": "2026-10-16T16:36:57+00:00",
-      "score": 50.16,
+      "score": 47.01,
       "corroborating_sources": [
         "RealClearDefense"
       ],
@@ -156,29 +323,14 @@
       }
     },
     {
-      "id": "07513c0a974047d6",
-      "title": "Senador Antonino Morales respalda política exterior de Claudia Sheinbaum: “la soberanía no se negocia” - senado.gob",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDV3Y25uXzNwQlFQVlZHSi1KRnFFRTBQWVNXb0FFd3NCXzBrLWkxMThaTGxCUmRsXzRuYTNiaTNUUHpoYTFMeG9PWGFNOHBISUJlLWpyYV9SWTV0MFB2TFhrMWxwLWt3eVg0bTV3S3pGMUs3U3hfV1NSNjhldnpxOEM3QTJsMTJ5enMtMDVZQV9UXzNnRF9oRVZtQk10UWlfWWkxTDdGcnNlWEJhXzh3cE9UZ1NqUDBXdDY0Yl9fUFRDOXR3T09OZg?oc=5",
-      "source": "senado.gob",
-      "published_at": "2026-10-15T21:18:58+00:00",
-      "score": 49.99,
+      "id": "80dee16873a98dd3",
+      "title": "Néstor Prieto: «El imperialismo no es una política exterior que un presidente adopte o abandone, es el marco desde el que Estados Unidos interpreta el mundo - Mundo Obrero",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSGE4MDJyN0JMTE44a2RDM2t5eklEcjJ5LVk0ZUNLaG5TemhCUmxMWG81WUFWZjR5NVNNZW5uS2tuVFljVEV5R0w1eGZWUkNMYk5vMmNiZGhQb0ZNQUxZRE1EQ1VuSW83Y0d0TThieW9mMGl2MmZ2Z0F1bXg1S2RnUV9zZ3ZjRmV5ZEVGeWZTTUZLWHB3c3NCZElxSTg3d21uaUpSR214WW5ZeExWTEE3bmdQV0YyNG1JVlEwRVZOclBoWV9HY0pYUlhoTGV6TDJMMDJMM01ycGpnRWtQTXlDcWtwdGw2UlFId0ZGNEMyYzBOUkxSQ3RNams5U1BrRWg2U05vRk1YRGpCTThkaWJrV2tBWDloRnM?oc=5",
+      "source": "Mundo Obrero",
+      "published_at": "2026-10-15T13:19:27+00:00",
+      "score": 46.22,
       "corroborating_sources": [
-        "senado.gob"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e5140bdcc6cc3e27",
-      "title": "Folha de S.Paulo recebeu Vorcaro e omitiu reunião dos leitores a pedido do banqueiro - GazetaWeb",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUVlLOTJnLTZNX2kwandiSnJZUXB0RHU0bjV6Z1RwM09xLVhYMHZCb2lqSkVlWGExWVVsX002MzB2cjVJU1pGa2xLZWJ4ZkEzRUcxYWJ1Y2Z0Y2Nwc0hFZkw4Z2ZYekJJdnpJLThOSU5EZmI0Ny16TWUtYkItUDNETGJOMTlmM3lWZWdwTnpJTWJPVlljR3FlLUZfazNpLWdfNE1UbnNJLTM4XzE2em5JMnR2M1hIUTFRMkpPTjJ6dzJnbWVRZm5xZVVDbUxzRknSAdcBQVVfeXFMUDhKSi1ab1RkUktOS3FMdkEtZVlaekIweElkUFd2N25ZSUxtQlZlUnNucHRCbXlZUk84eGp3Z1NPdjlQX2w5VHhWUFI3Wm1qX1h2dWRsaHRWY2Y0ZlV6cUs1b1RtQlR0czhjcmNnUWRNbkk5bnpfZmc5X3J2ckp2YkxFUEJfZndTNEhEQ0JDb19vblh4dHlRQXYtMFBxRlZVTU9iaGJVYm54MUlRbkFMYzdfMGZzbUMzQU0yNkpsTVVUMHN5N0p3TjRZazM1MmU0SVJXN1FHWG8?oc=5",
-      "source": "GazetaWeb",
-      "published_at": "2026-10-16T23:49:28+00:00",
-      "score": 49.52,
-      "corroborating_sources": [
-        "GazetaWeb"
+        "Mundo Obrero"
       ],
       "signals": {
         "source_count": 1,
@@ -191,24 +343,9 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFVSZEo3VC1QTGU5UVpJcXpoZlJYMXlTR05vMjljWnFPOTY3VWNkaFQxU2JmMlhqVFpPd3hSZnVPUWJWU3hXNVJQNkdmOXpFblpVR3Q3LU04aWl4dldKR0YzUTFodUZUQWZaUVVIMmdOdk1IQmJjakl2OHN6NkRDRXl6UG5UOVoyc1dkd08tdEd2Ty10YlYyZS14dW53R25ObGxFUG5QUlgza1d1YmU3N29xd2xyU2FRMy12UktVSHpxcFk1ZVZ30gHMAUFVX3lxTE9ZS25VUUhjVlNjeDFRdVRYU3hCZmp2NWJwREZIa1NhWHUtMDBDOUotTTZGOVZudjZrM3lQR2U3Y2tCWEFHbVpQWGxGN2hkUUdrWFoxUlB0WnVlS1NsY0lwQldwWW44dDZKcGFqaTVNX2lZaENZRXdRbFIxZ2ZWdjNUcHp0VU5OVE5DdUVvRjFmb2FEYV9oREJiNWh0dFZ2UmVzS3hOU2FsNWRjOXF0NGVPZGlrM2VHTHVNUTNGR1JoSmxQUE9tU2dTVUNHZg?oc=5",
       "source": "MUNDIARIO",
       "published_at": "2026-10-17T04:01:10+00:00",
-      "score": 49.49,
+      "score": 45.17,
       "corroborating_sources": [
         "MUNDIARIO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "97fac66cbc70553c",
-      "title": "Albania’s Rama Refuses to Resign as Anti-Government Protests Intensify - World Politics Review",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlV5VkVKeENTVjJWdldWVXhzcGl2VlVpYUxkYVFVMnRtRVBkSlJ0M1VYUmtxamdBMWgwbmVicGtQZzJhczQ1dDRhRGNiWW9JamJFUm5hckhTMEd3SEotY2NtN0o5N0U5VktVR2FSNVJQcWVUWGdPdDhObU11Wl9EV0ln?oc=5",
-      "source": "World Politics Review",
-      "published_at": "2026-10-15T18:33:00+00:00",
-      "score": 49.14,
-      "corroborating_sources": [
-        "World Politics Review"
       ],
       "signals": {
         "source_count": 1,
@@ -221,24 +358,9 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSE9wNWxZSEhYTzZCekdadUZyMUFKQVNKWUhyRVo5S2xnbDVXcWFIMVBxdFo4R2xaMTNLNGhJem1KVUFaR1BpLXp1bVlJNHFZMlp3eTRPMzBUc0pjQ1BOOU9uWkUtWXIyaXZYQ0o3SlZERjhyMFU1cEg4TGlOU3ptV1pSTlRxeDRqNnh6dmxTZkJtempBZHF0UXVLVHNNQQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-16T21:38:26+00:00",
-      "score": 48.11,
+      "score": 44.49,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d8f9b666cec5d299",
-      "title": "La revolución silenciosa de los servicios - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3dvQTliemRNaHVpaVJPcU9OVDkyazVFeDJ6YlI2cFAzNDBSeHc0RVo0dlQwaGZMOEtKZTZtUUk0Vjhrei1BUlpCenVmTEdKWkVNSVFOZTNRR3lxdVpXQ2poc1hDajBzeUZQbjUxLWRvLVlvTUdJQUxzeUlib0FfWg?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-10-16T12:38:39+00:00",
-      "score": 48.1,
-      "corroborating_sources": [
-        "Política Exterior"
       ],
       "signals": {
         "source_count": 1,
@@ -251,24 +373,9 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHpvNEkxOVgtMHRILXM2WDBUTWtuTWxhZEg4amNETkpUa1BrNklUOGNaY1kyMWJuY1NDZmdzeTRRQXhWV0RmQW1teEhsdFFrcVJGcE9EZW9Ob1NsNjRiMjNNbC1yTF8tbGRGZVR6NGRWOU4xMEZyOTFyak43V1I4dnNRN0VDQU5GYVRNLXBYNEd3MDh5Z09jaVNxd3VGLU9QaU5QU2dsMkNVaXN3bnpJ?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-16T21:33:26+00:00",
-      "score": 48.05,
+      "score": 44.44,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "70d82360ae685fb8",
-      "title": "TSE proíbe propaganda de Flávio Bolsonaro que associa fala de Lula a suposto abuso infantil - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeFFCVXUybzlGSlQzb2Y5amgtYVdZTWFBdExjRW9iZUNMVTk5cWFscDBsVVJqRW8yVmh4OUttMjgzdVJxSVVIRTQ4Q2dKeU5zRVA0cGxUeWxSUW5qVHpSdHBzc01vNThTdnU3ZGFhc0hfQk91Z3RseV96T3ZSOERxU0NYQV9jWkFqTi13VGVUbWxHVHhZQTRrUzRDVkNVT0QwVlg3d1JScGkzUWJzX2ZjMGJYRGpGcTJGV0tBUVlLdGwtR0lFN3V6MloxQ256Sy1FazY00gHYAUFVX3lxTE9WV2tYaVU2X0gtSVpjbF8zNVVUZlJJblNoRElhMlZWSGpZTU1BX1NzelRGQVl2dDBkbU1Wa2FxX09YdF9XZkZEQy1Dcnc1TUozbnNkTkNzR1VUNjVWeXpMS2g2bk9FVDBldlhqYm91VWlwNFhXbHhqdjZUdnU0UTU0ZWF4V0JoX0NId3AtWXRZeUVGNDFlWjlPM3psTXAzWFRFX0xJcWpnQjhNdkZPNGxIUk5DWXFXT0VwRU00VlJuM0xfRlBDa1lPcHBxWEkzdnRnZXZLMTJaSQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-16T21:14:00+00:00",
-      "score": 47.85,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +388,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUm51UTdvY215T1A2Vmp6SlItU29BY1gtY3dGV0dtTDFPX216cmVUX05GS0ZteWhVRGNjSVRsVmJuNXZXNGNJSnliQ3RLVHR3TUdBR0JKRC1ZYlFONEc0a09hM3pTMDVmRjZUWEN5T3BfV2tZSXp3dVBSX2dBVHA1RWgyN2VLWmJtSnJoemdJdGVlckpKOC1MSy1WWVlwZ2ctbzdNOVo2clZjeTRtZk96WWl5VVdWTFpkMTVYLXZJakRXUXNPa3c?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T21:11:00+00:00",
-      "score": 47.82,
+      "score": 44.25,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -296,7 +403,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FHWHB4SzJialp4ZU1QWmVKNDMtUU10akRqQ2NmMDBSeFNsMTNlSDIyWWQtOWtmZGNIMEQwT1Z4MlR5Yk5UZFlHcE10WW05bkpCRl9wcVo0dEdtRTA0WEdDNmVnNkUyMGhfbFQ0YUx1U19iWEVPNl80N0Q4TVRSazV1SV9hSXFBcnJHLWQ2bWt5bS1CSV80?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T21:00:00+00:00",
-      "score": 47.71,
+      "score": 44.15,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -306,45 +413,14 @@
       }
     },
     {
-      "id": "80dee16873a98dd3",
-      "title": "Néstor Prieto: «El imperialismo no es una política exterior que un presidente adopte o abandone, es el marco desde el que Estados Unidos interpreta el mundo - Mundo Obrero",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSGE4MDJyN0JMTE44a2RDM2t5eklEcjJ5LVk0ZUNLaG5TemhCUmxMWG81WUFWZjR5NVNNZW5uS2tuVFljVEV5R0w1eGZWUkNMYk5vMmNiZGhQb0ZNQUxZRE1EQ1VuSW83Y0d0TThieW9mMGl2MmZ2Z0F1bXg1S2RnUV9zZ3ZjRmV5ZEVGeWZTTUZLWHB3c3NCZElxSTg3d21uaUpSR214WW5ZeExWTEE3bmdQV0YyNG1JVlEwRVZOclBoWV9HY0pYUlhoTGV6TDJMMDJMM01ycGpnRWtQTXlDcWtwdGw2UlFId0ZGNEMyYzBOUkxSQ3RNams5U1BrRWg2U05vRk1YRGpCTThkaWJrV2tBWDloRnM?oc=5",
-      "source": "Mundo Obrero",
-      "published_at": "2026-10-15T13:19:27+00:00",
-      "score": 47.7,
+      "id": "c58148f51978014e",
+      "title": "Senadores analizan con secretario Roberto Velasco Álvarez Política Exterior de México - senado.gob",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGlXeXR6TGJjaHk3eFlfNkNDX09hNWpmVVdURnE3SnJtdmJtS2NnUENSVUZUX0l1UVRwMzg0d0p1RE5Ja3NONVlLdTZjMS00UWFVbHFQZi05azBHM0pYcTVhVVVfa0gxRXdPbjM2ZkthZ25BRmRCLUU1WGRyeHI2cTJiSW9GXzFZZHE5YTlnWlR3VElRc3lsV21RNXhwYmdrRVYtVThBdlhmU0prMS1UMWl1SDM4UFRXTnFyaEhoQVVaNEVXc0g3b3Z1cVhhVndaWnRja1B1U0Uxblc3anVuZUgxdGRWU3BxQVE4MA?oc=5",
+      "source": "senado.gob",
+      "published_at": "2026-10-14T23:11:42+00:00",
+      "score": 43.71,
       "corroborating_sources": [
-        "Mundo Obrero"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4460200f5aba5940",
-      "title": "Imprensa internacional repercute fim da escala 6x1 e destaca ‘vitória política’ de Lula; veja - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUdtOEZidjA3a2gxZE96NGV6TFNIUDJFRndlYl8weGtoNjdPYS1iWm1zdkxTakI1d3YxcjZxeHJFR0FWMVVxZ0QybnR1Vm1WWVJwNEIxQ2hFUnNRRE9zSENfUk52djdrUTh5RHgwY1pIV1FUY2RfZTV0QVdYQXg2c3Qtd05KTV9NRXhCTWxzMmtIaU1sM2dlbHdOWUZ0b0NfM1N1aEtRLUt4a29VTTJHMjY3djVFdHFWbHZBSkVNUG04NGpxdjlyR3Nnb9IB0AFBVV95cUxQanhPc29WcC1fN3JsWV8wUFJQMW1pQWJyUGVxb3cyZWR6a3RsOEp1XzhqZGF0YU4yQ19YdFoxckpUTWFZQU5nd2xERVYzWlFiTDUzMlhmdm5LT2JQVTl0TVVQZFRxMGJELVFwaXpTdUJUbDVfOW1KUEotYVlBSVVQOWhGSFJSM0tzMXZBM2VsVnZjSlRSRzJPZVZzSDhaNEotVzR4bzZHSDhrb1RLRXlBeHJwZTJxOXp3MG9IY3UxSDZGZFpxRzExcTRXNXUyd0to?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-15T14:33:00+00:00",
-      "score": 47.32,
-      "corroborating_sources": [
-        "Estadão",
-        "Jovem Pan"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8a0167441bcfe81d",
-      "title": "Sérvios veem Kosovo como berço da nação e a política externa obedece a essa lógica - Diário de Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY05PRmwtYkRoZ1ktSlVFazZhTHJUOXJEelpiUEdydXgwb3RXSGh5ZzdzcHpnaTItVmU0YnF2V2s1b0p6Q05IX1hOOUVTUUo2Zm5vVTFfM3ROdVNwQVpFMmN3dlNwa3Axem8wSmlBZW5DOGU0VFQwMUFKLXhCNllTcVJzcnVmcjlHQU5sLWhsY2tZMml3WnE4SVBObkNpdm1FTTN0WHdTSDI5eTJWbGJRMVRYQ2dmS0pQSElkV093c0ZaQVVpMW1fZzN4c2R2S3kyZmVkS3AxMHJHQnlib2d0YUZDeDc4alhlYWc?oc=5",
-      "source": "Diário de Notícias",
-      "published_at": "2026-10-16T07:40:50+00:00",
-      "score": 45.83,
-      "corroborating_sources": [
-        "Diário de Notícias"
+        "senado.gob"
       ],
       "signals": {
         "source_count": 1,
@@ -357,7 +433,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM21hbHZ6a296dUVqbDdUZDlTSVpyMU50QzlHUVpxS185dEVIbk4ybE81M0lvVGFkejFQZkoybHJPWUs1ZDNYMEF5aEt6TC14c010c0pQNEUyMGpTa2xrR3VmRFRPMnRDaUYzSEdXRV9jenR2dF8zdVpkaTljVERSYnZvYzhyRUpoRnhhY0hPbVhSVHRrend3a0ZIZC15SFhhUFhPOXpzUk85MGs1SmdPemhTWWpJUnpPR3QtSnhueV9sRDBTN2NlQXh3enViSlhkTVg3UEFn?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T17:44:00+00:00",
-      "score": 45.78,
+      "score": 42.53,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -372,84 +448,9 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTFLVDMxbm1sdUl5X1RtR1hrM3VyMjBqNTNsVV9LUEhLRTFRMDJLUGJ5eFY4aXU2RmE1WVBQdHVrNUJRSEgtVF9xbVRzM0JVTHREZ3hKNDh1cTFadC1pdk41V2w4X1VyWUdYbGtZZUtGOTVJN19jaEN6VXJGQWFiRi1wZFZuclA5dW1KYVY0Q3BiSEhoZ3lZbjdpekhuQVdf?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-16T17:30:24+00:00",
-      "score": 45.65,
+      "score": 42.42,
       "corroborating_sources": [
         "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1fc59e0124c64958",
-      "title": "Legisladores: Evo Morales no tiene moral para hablar del mar - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnBpNFZxdEJXNERqOTFmVUdvSlJoT3lKVHlyWlNHTUFJUXNVeFVKREVPRm9pZjVaODY2aG9iWmFJLS1SbnpGVlUyZEtuM3dobzVGSC0yMnhqN2Nxd2dBZ0tzTTA1WDRjUmhONjlncXdNcEx3VXYwVU1jTFdnZFV5U3pkT18xdW10SlU5cEFaelE?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-16T21:43:31+00:00",
-      "score": 45.16,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "311db30046abb4ff",
-      "title": "Mesianismo político, el abuso de la religión en la arena internacional - AsiaNews",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEZiMC1uaWFnUzAzM0xKZWJoR0c0OE41T3pDZUdkYXB6VUpEaXI5VXRZM3lNZE1JN2JrQzNUN3RoSTdUQndZajl2YzUydGdzVHRyT0FKSmU4VGgtWHRvX3NMYjV1SG5FVUxkYWs4LTNHbU1aazhNSnpGc3pVVUJTTm80OWxSNkNLSi1pVXRxZWtVSDhUMUt2eS1VQjZuQVB5alZBVTZNelk3MmxEODhvdTBwWEJPZ2ZS?oc=5",
-      "source": "AsiaNews",
-      "published_at": "2026-10-16T21:04:36+00:00",
-      "score": 44.76,
-      "corroborating_sources": [
-        "AsiaNews"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c58148f51978014e",
-      "title": "Senadores analizan con secretario Roberto Velasco Álvarez Política Exterior de México - senado.gob",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGlXeXR6TGJjaHk3eFlfNkNDX09hNWpmVVdURnE3SnJtdmJtS2NnUENSVUZUX0l1UVRwMzg0d0p1RE5Ja3NONVlLdTZjMS00UWFVbHFQZi05azBHM0pYcTVhVVVfa0gxRXdPbjM2ZkthZ25BRmRCLUU1WGRyeHI2cTJiSW9GXzFZZHE5YTlnWlR3VElRc3lsV21RNXhwYmdrRVYtVThBdlhmU0prMS1UMWl1SDM4UFRXTnFyaEhoQVVaNEVXc0g3b3Z1cVhhVndaWnRja1B1U0Uxblc3anVuZUgxdGRWU3BxQVE4MA?oc=5",
-      "source": "senado.gob",
-      "published_at": "2026-10-14T23:11:42+00:00",
-      "score": 44.71,
-      "corroborating_sources": [
-        "senado.gob"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "80b766cb11a03bbf",
-      "title": "Bolivia y Chile abren una nueva etapa de acercamiento bilateral - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemRadTZmMUNIYVh1T0tGNlFXX2VsUzJ2bDVTMEpWOFZFLWVzbWltS3hUaUEwa2F1YXRjRTh0OEtoV19nUVVfX3EyUlZTdzB2RVhRTGVyZlBzNDZoYkRib2Q3akpPanFkVUlCaTJTbzRidjA0RWNTRjVwNzI0OHNGWGVLaXpIejVIcm12akxlUVdsTXM0d25ZY2VnVjE2cDRxSkNpeDBlNko?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-16T20:18:51+00:00",
-      "score": 44.29,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ad4607bc80ff2168",
-      "title": "Conozca los cinco acuerdos firmados entre Bolivia y Chile - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTF6UkNrTW5YQ1JFdDVJMTBNNUJGdFdjNXRfWU9WSzJkUHM4TGhVRTF4blpFQXM3di1hNkVCWDMzNnVFZ1FCRFI5Uk85ek1KRjR1N0N4cmFabmp1bmEwbmQ5NlktdFZzSFJ0aDBBdGlzYk9zX1I2QzNmU0Q1ZW9oSGtXQkpmd1l2eFItQkNBMnVTRUxxNDh3VzBEY1g?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-16T20:03:17+00:00",
-      "score": 44.13,
-      "corroborating_sources": [
-        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
