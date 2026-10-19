@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-10-18T22:27:03.828002+00:00",
-  "next_update_expected_at": "2026-10-19T02:27:03.828002+00:00",
+  "generated_at": "2026-10-19T04:47:39.456295+00:00",
+  "next_update_expected_at": "2026-10-19T08:47:39.456295+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "e6a2b7c9c4476056",
+      "title": "Malvinas: principios constitucionales y de política internacional - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3hGc1VVRG03VTY5U2Q0aTl0YnZkaEdHcUppSkxqVzJSQUtXUWVsdENjYkpUVWVBOXBrcURQUWlLTDlYZE12YWMyeUdxZ0dELVg4eU93cWJ1MkJxblVXZmtRczJvLUhpX3pBa0ZDeDRvaExRTDlJRVNBQUdNeWFyVnljV01kYlpwRHFjS3BfbXMtdUw1Vk5qcDdBRU1GLXVMRkJ0eW04cTNuc1ZJRVM1WjNxaw?oc=5",
+      "source": "La Nación",
+      "published_at": "2026-10-19T03:15:00+00:00",
+      "score": 73.59,
+      "corroborating_sources": [
+        "La Nación"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f75c7181cc7107a0",
+      "title": "Próximo presidente terá três desafios na política externa - Canaã Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDgxTTNFNXpSOEJYbVZCUlRid3F6Z3AzN0FYelRObGR5aktpMzFLNFpyc3RqR2c4cXBmckg0NzVuWmFVTDhUMVpmWFptc2N2QmdobHdKd2RFTy1fMFNGalJFZzMyRl9WQlFTMFNvamVzTkV3SlFidVdVMjZZaFRkeFZ6dU14QjdELTNFS0dvY01WV2JwR3h3QUIxUE1oNnJISml1bnM3U1NsdllvTmRRX3lpUm5fTWVB?oc=5",
+      "source": "Canaã Notícias",
+      "published_at": "2026-10-18T17:30:00+00:00",
+      "score": 71.36,
+      "corroborating_sources": [
+        "Canaã Notícias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "8a55de71df10ae95",
       "title": "Lula x Flávio para presidente: o que dizem as pesquisas e a agenda de novos levantamentos - Estadão",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkRjMDFRM2RPeE9lckF4UjJza182Q3RSb3N5cU9GLV93eFMwVmI2Q0gyMGdpUmx3OWRZdGxkQjExSDQwdGNNSTV1U1Nuc2kyOXVsTk05a1BFVkNhVEZLcWRTQ1dfUEJOcnUyeEtRNlRtY0Vub1ZnYWdVeUhkSktWMW9PSk9MWkg2RVpBVk9pY2hEaG5COU9nSW02OHhQOW1qOUtsYnl1UDdSblNEbWxpVmdZQWtQLTZ6RVQ5bkRpSTBTaF9DazdBVmVJS0hiRVXSAdQBQVVfeXFMTkhYaHVwME5HUFdwWEM0TU9pNDE1UDQ2YlU1QkdRdjZ3eXdjRFVhbTE2bVJTdjNZeDN3bVF2VDBzbG5qWTFUc1I3aGU4d0VCQzNrcW5ublVvbEdDWkVZZFB0ZDdfRElKWUxwdjZEMVBRdFpzLW4tSmxsUmZ0NnBPc09zbmJSaWRqZjBXeUhwWFBVQTFSeGZXTWFQQjcxSTE0TU80ckhpSU84UGtVY01tamVWS2lxaVNndWFSd29XTVNud1BoZkZtNURpWUVRUng5V0VsLVk?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-18T20:12:00+00:00",
-      "score": 75.75,
+      "score": 68.92,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -21,14 +51,29 @@
       }
     },
     {
-      "id": "9bc75d953f0c6622",
-      "title": "Vestibular da Unicamp tem questões sobre democracia, IA e gíria 'gag' - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRG03WVFQWlMtTzBUaXRWb3RiVnNQNF9wQ0FrWU16SzFEV2RRRml5c0VQN3JlNXEySlE1VHo1MG54MGFpQTJkLVJsTmsyWXRFQnVldXpONE9iWG9vU1R1QjFCalhBTFU3S2UzSUJFeDNTR2l1aDVGOFZQa2xVTEQ5R0RlUy1TV3J5dGRFSmtvMkxSdE9ZYzVQZUIxeExFNklRRnM1dHJ0aGZ2UWJyaXp6bEVPb0RLTTFEenc4?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T18:30:00+00:00",
-      "score": 73.8,
+      "id": "fbfdaeb916e0c913",
+      "title": "Un mundo que dialoga cada vez menos - Los Andes",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmI0Y3Ixd2g0LWxuVXU5SF9VMFVKcTlCVDg5bzZocjJWd1BobkhGOHlpbHF3ZGc2U1A5QkVUUVNQQzY3WThUMkplcG82bUJPSFdETUtobERqdk01SnlsN3JsSHo0Y2NIbl93R0dWZzBhYy1HcGR4cGpQS0xTMDFxaURhZ20xeGowZmc?oc=5",
+      "source": "Los Andes",
+      "published_at": "2026-10-19T03:00:00+00:00",
+      "score": 65.29,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Los Andes"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a48df3c58ec1e5a5",
+      "title": "Inside the ‘ghost city’ designed to become Indonesia’s new capital - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmpIS180cnVTYTlnaC02VGJYZFM4UkVnVFhNcEVaaVJuQk9iN3hPSHFjeDQ0X1R1QWdSZVE4Sno0NlM3VlVJOE9Bb2lRc3cwR0hHdXBwcC1DajF4QXJiX1Z5OEE5MFEzSlVNVEM0dnNhbk9iZTJ1V0JncnNVSzBWTUJUQWhtRGFISGdlY3p0UXR1OVEzV01EcF9lNGU0VEhwRUlWY0FmU3NLUQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-10-19T02:56:35+00:00",
+      "score": 65.22,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +86,39 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG1ISzlmS2xwd05Jd3dGb05wb0NwOVF1T0FiWFpXQ0YzSWk3SlFtb2lJX2pyel9YQ29oMGRrX0RMWWdRTGlMYkE3S3NJbXMzN3dJU1VjNnVlOUJnZm1LbThXSlNVaVdRM1ktUGVnZXlScEJoMmhmOUhacGRDT0lNeW5haUVzcGo5bmhmM2I1NXY5azE5Y3pfd3NHQ3FTdXBadFdaaUhlMnQ3OEZTdnBnVm9OcVnSAbwBQVVfeXFMTWxLUWl3RHRuY1JPdndTNllZay00LU1IU3Z2a0dCelJYOTFjcThLbUEzQzh5Y1ZBSDJfSWFMUXU3OWRiOFNFVktGU1hNYm5hVHR6UVpUYUJ0eDd3Ykh2SUpKRkJwNEpoeGNMakFHa3o4a09TS2VEUC03SFVKOThyOHZSQkpGblhRMTk3UnVZVXJnMHpvYkxaczhGX1p6V0lUMlduc09kbTA1NzAtbzJLUjNFWTg0TTFhVWl2MVQ?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-18T19:11:00+00:00",
-      "score": 71.57,
+      "score": 64.93,
       "corroborating_sources": [
         "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e81c12cee0fb5cae",
+      "title": "Milei desembarca en España para reforzar su alianza con la derecha europea en un continente atravesado por ten... - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX1RBQlNjSlFJZ0xRZUszcXRIcVIzQ0FlM1lVXzBIYnNYUDVnR1FtTUZYNnRfTWtZOC1rbWRiMFl6cWNTMG5uR0ZSM3FWLVA4OXA1UmJCdk9JUjZuZXBjVFVIajV4Ynd1Y3VzZHBBM3Y4d0Fqalo2RnhJdkRzQzhZLVA5dk5MbHFPMjdTa0tfSFVyWVpSRlRfUVFOeHJrRmJvV1REYjlJTm1vbG0yU1U2UHRvSjBVcmFQWWRITTNldkhhX0ZZVHFVaVZ3VVl5dDI0c0hoeGVwdjNqcFpvN2VFN2owdVFXUWN4MFdQU19YbF9LV3pWc0RKMW130gH_AUFVX3lxTE12VG5fbk43a0VFby1HMGRzeWF5TDBESzlIWHdsRGdhT0dZQVZUTFlINWhkSnNMcTJqUjAwWFVjR2tMMEJUcWpVYlUtb0daVWw0OUFBYk5UcDh1a2FfMzBISThKYU1kaFUwUUx5Q0E1LW82dGlka0FYQTI5MUJXNC01eXlrOGY1b1FHblQ5ZHI1ck0wWmhfRTY4aWVFRDZHS3c0UUhucUxpZ3hGbUo3Q1J4SDNzd3J2aWNYb2w1OVVxYlJobXB1RF93NUI0cGhnM2hLM2IwaVhIRHc5ekUxVGtvandjREEycmhUUDA1dDExRDdlN0RyeGJzcVR3MzJIbw?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-10-19T01:20:53+00:00",
+      "score": 63.37,
+      "corroborating_sources": [
+        "Perfil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1f6ef13b135a4c40",
+      "title": "Defensa de mexicanos en el exterior debe estar por encima de las diferencias políticas: Higinio Martínez - senado.gob",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNLUZNMTFLX2hZUnBBYnF1dmphZzJ3cTg1MERqNmJyT1JhZ0VOdWxLeDRpd0JnelQtNnROVXp3cmlkWTBVcWxPVEcyc2hNckhZaHRJVzhNRVhVc3FiejJETWp0eUNkM3EzYUhhOHFUMDFnQk5mY293dnNlbmpfWmlxVW5KaWJSLTVkbGswX2tENUF1cmVrWWVrSkpkU1Uyd2xwYTFrZC14eENaYUg4UllRdzhQRUo1ZzZrUjQ4eUhtNnlzcDltTGVZUlNTWThDMzlYX01IVm9QX2ktb2NQMXd4TnhRYXB6dnpqSk9OLUZRX3FpeDBVcDBoN3IweVEzOEcyWUVlYw?oc=5",
+      "source": "senado.gob",
+      "published_at": "2026-10-18T15:49:06+00:00",
+      "score": 61.86,
+      "corroborating_sources": [
+        "senado.gob"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSnptVkN2VWxMM01ZQnNaamliZkFpemd1Z2c1VWRyZmMzNi1ETzJFZGY4ckhwRk5sY0hiMzR5bTFEd0RaSlRHWXRiYlVKRVpDLVBiZTZSQmFzR3dLZ3plamRWNHc3VXBFQ1JzSk5SR3ZfWm0tWHM3ZEc5bFRwWXhSRk00LVlUUURJaVVfVHVGUUVseTF1UTVWdkJzVjlSV25jWnZXbzJyOVN2UWZRRmFWT3ZPcnk0LVZQNEU5WWc0RW81cUFFZ1BhYWFfTGw2X0dMQkZubFB1anRWd2tSYndNc1Fqa9IB6AFBVV95cUxNRGVDLV9vNGNDdE5NX3d4NGJkcHdYZ0FWUm5SS1doX1Fhd2tncUtlaUdqUElkT192QjJGZlRWbEJ3YnJyYVdBbzNVUDJEdUdRZnVKZndEdThWVGc2cEJoOG1vV3pfOVBZX2lvdEFBMlFtMHlOOVE4VFR2N1VySVlld1FOeEw4NTF2TEtCRzRFZjc1Sm9mTk92aElCNXhvSEwtUTVJbHRTYXV6R1JHMUpqcXlJMUY3WFRaYmc1aVlZZ2h3TjRkTjhVY1VRa3RjZE5vNG9EZGUzbDE3U1puZTNkckZEZ3VtMmds?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-18T20:00:00+00:00",
-      "score": 67.51,
+      "score": 60.72,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -71,24 +146,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaG1HaFVXNUJVcE9fYUhrd1p0VTBnalp5cXd6RF90US1QYkl3RmRqQVI4M1d2VUJ5cmNScHJvMXJNS1dzM3hxUm5UQ1BLb1FSbVQxMnYwX0loOVdEbVZ5SG50OXFPcDV3SnlyZ0V6LVNkcTR0T3Y3NE1GMjQzMkVhY1hpamlhVzhuWGh1QTBxYUtTYjJnM1lmTm95Qkpwc0RJeXE3RldWYw?oc=5",
       "source": "ElBonaerense.news",
       "published_at": "2026-10-18T13:56:58+00:00",
-      "score": 66.01,
+      "score": 60.27,
       "corroborating_sources": [
         "ElBonaerense.news"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4b624450446fcc12",
-      "title": "Bloco do 22: Veja imagens da manifestação convocada por Flávio Bolsonaro e aliados - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmJ4TExmR21mSm9hdDQ5U2hpcEc5MlZJOXFvTmtZa2c0YUM0X2plRkt4M3pfM2twWmYtOWF2SC1MaUdSaDZ3UWdBdDNZYmNvaXZGRk5CekN4XzRPU0NoOThHMUNZanlGWnVNcE1SelVHWEpicW5QdlVkcDRkajdfVEt3MlVPZ2loOG4tMlpEc29UaThUSlB3Skh4ZEVPS29fZ2FLZA?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-18T18:05:41+00:00",
-      "score": 65.35,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +161,24 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdXZrUHVQdmZNYWJESDJKR2VyZkpFbG1SeVN1VzZaZ0F3S3VCZ2c5TzlBZWFNYnJtOV9KNU04NTNKelhEV19WT1RpaEgzTDZYUVA1QlQxVWR3UnZNZ2FaQTBhanpFeDdnOUpleXpKS1NGM3dqRWV2bEFxSGM2RkpRQjlSa1pDRkl3Y3lOR2JOenpNT1ljZVJDZVdyZm1fb2NDU2tnc3hGbFBuSzMyYnpMSnk2WUpxaGZoeVFVSVQ5QmRtbFZ6dGYzUG9Hay1QTGpaTG1wdmxucHpEZlBSWFVTeUNZSFU0UdIB6wFBVV95cUxOUjZMZGJ6cjhPSFo4SWJMbmlSTG5LRFVfb1hlU05wUXlQNi16V3o4N2xmdXJGQlVRVG5BbFVWY3pQaFE0LTdzMGpOMFVZQUVjdkg2VjhpUUxacVV0ZzZJVGktd2VEeEFXQnhhRnoxMmQtSlFCZ0k2V2RGWDdZZEtOOVBsemszMnZXNFpjeXlUTDdqLURlaGdwMHBSdzBSV3NwRHZfT19EUVl0VzQ0dE5LUjlJUm9KZGk1RG9kSFB5eUk1LWRFeVYxRzB2eVN0cHJCZzhGaWthLXZzdk1ZNjRrM1V3OVQ5WlVCT3pj?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-18T08:30:00+00:00",
-      "score": 64.02,
+      "score": 59.09,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4b624450446fcc12",
+      "title": "Bloco do 22: Veja imagens da manifestação convocada por Flávio Bolsonaro e aliados - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmJ4TExmR21mSm9hdDQ5U2hpcEc5MlZJOXFvTmtZa2c0YUM0X2plRkt4M3pfM2twWmYtOWF2SC1MaUdSaDZ3UWdBdDNZYmNvaXZGRk5CekN4XzRPU0NoOThHMUNZanlGWnVNcE1SelVHWEpicW5QdlVkcDRkajdfVEt3MlVPZ2loOG4tMlpEc29UaThUSlB3Skh4ZEVPS29fZ2FLZA?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-18T18:05:41+00:00",
+      "score": 58.91,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -115,8 +190,8 @@
       "title": "Bolivia y Chile acuerdan reactivar el cruce ferroviario Avaroa-Ollagüe - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeW5VeUMyTjM3VnRxTnVIc1J2VWczb0pJSzFXX1dPclB4QTV1VWlTbFZpT1Q4dk4tWUF0Q1Q0ZVJaa3NndkxxcWlqdXJlSF96N29UazNOXzMtaDV4dnl4NjJLUW9DSGRpRmdSakVfdHlRQWZ1cDZudHBnZzNxcU1uUldNWWF3UDFiZFIyT0lkQkZZajlqcElrd2FCQ0h5RGI3Mjhyb2pCdUNNbnRWdFE?oc=5",
       "source": "La Patria Bolivia",
-      "published_at": "2026-10-18T19:09:40+00:00",
-      "score": 63.55,
+      "published_at": "2026-10-18T18:57:39+00:00",
+      "score": 56.72,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -131,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWMzSW02cDdvV3pqUWJMcmtIdnBCRmJKMFdtcFhjOHNRLVlLQW95MTl4SXctR0djT2ZCTWNST2JJUHlBUEpTYW4yNGdoTzBYVXJ4akRRQXFZenBNdmVtdkNlY1VtYzlKVFY3NnJ3T1NxZm9JMTJlNnNQNFJmZUU2d3FaekloUnFRSElxOVNqXzVMMU5RaFh0d0ZrNlZkRllXQWt6SENkVmVGWm8?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-18T05:00:00+00:00",
-      "score": 61.19,
+      "score": 56.71,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -141,14 +216,14 @@
       }
     },
     {
-      "id": "05f5e001de8c986d",
-      "title": "Open-weight: como funcionam os modelos de IA abertos? - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMG9hMTRlVV9nNmN4czk4VmFwOWF5bk5ZVFhQdGIxd3d4WUt5UWdtaTdaT0hJbnU0a0ZSeGF1cnN3STZDSHc3VU9YVjJuUjBXUWRJZ2w3YnlpVGpsUlB3M2R6TEUtSmRfX19zU2ZtbmYyXzNEWFBqQnRwX19TTzkzVWtMblg1YUliN0pybXNaS0hXdjZIRWpUM0pzWjg2bHkyb3ItaFloR0FzOGtfSmJWN0lqVS1RNGV1?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T13:02:45+00:00",
-      "score": 60.13,
+      "id": "cfe77e04aa417a0c",
+      "title": "Governo Lula pede apuração contra Meta por falhas que afetaram campanha à reeleição - Jovem Pan",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnBxdDdPem1OVENxLV81cDNhUUVxM0l4bFZyUzRSRUlnQWFKME9jTkpENFVsS2pxS2htSHRmY1h2Q1YxZDBBVVhaZG5HVThaM3hEVEJaQm9aNldVdG14dG9mZXRsaDRoY1FYLWJNTHFOUFd6dTVSV05zQzZHamNHMDA4ZFZNaGNZUVRWcWpMaFJxc0xCdVJQWnhzMjFYZXg4aWR2c3ZibVBhN0ptS0RGTk5pSXIwUWlj?oc=5",
+      "source": "Jovem Pan",
+      "published_at": "2026-10-18T01:52:25+00:00",
+      "score": 54.78,
       "corroborating_sources": [
-        "Estadão"
+        "Jovem Pan"
       ],
       "signals": {
         "source_count": 1,
@@ -161,24 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclFJYTFkMlBzVXFULUk3RFRoSjNMbnZ0MXQ1N1h4V0FSWVBMU1hLOEVQU1ZRQjlocWI4LUJpYlBXcWY0QWIzWURfcXNDckxNNHlCSThTVmlhb1g4cFVVakRQdmpNXzJWNmlWZXNRZkNOR3l1MU9yc0QyYy1lbmZtbXdwQUt1UjFmSXk4Mm5TNWpldGFlTThJdWd3dVl6VkVOaTJCTzhTbjlHa05QX25aTHFKbkhST01pY19ZUHhFUGtOZkVabVNHUDJHZWNKN1FlT0dZ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-17T23:43:00+00:00",
-      "score": 57.41,
+      "score": 53.54,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d3421ec2a74e7dc5",
-      "title": "Musk back in the spotlight, but politics dims the awe - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnJBbkM2TExubldQQUFHUGpBeHpHWGh5QmNETTIxbExONkVPbk9XajJOY2Jfb2toNWl1RURVMGtiMWlRWWd5Z2hRV0FxMnJVcm52QTdKSWFWaWZKRnNnYTJBN1dodW5MNFJsSlh3cl9OUmJBYzJlYWhwZTY3d0xzSkoyTmNhbkxJSVhjRlV6M3pqMGs?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-18T01:27:00+00:00",
-      "score": 55.59,
-      "corroborating_sources": [
-        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +251,24 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHE1d2w3Q1VBZGdRWk9pdTJUQVVocnFjMnpINC0zMU9BX2xXaWc2RlFEWWpvaVNjSEJUazdYdWZHam9ORnlIYzVaTjBUWlNjaFNUNGkxZHF3aW9lZFUyTllWazY5Rk9YdTIwTUY2bUd5ODZPc3JSbC1ldFFNOXBtdWhFSERYOFFvTTY2UVRqb3ZjSVBLTEREajdUYkJUdXQtbmZEMA?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-17T19:56:31+00:00",
-      "score": 55.02,
+      "score": 51.54,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d3421ec2a74e7dc5",
+      "title": "Musk back in the spotlight, but politics dims the awe - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnJBbkM2TExubldQQUFHUGpBeHpHWGh5QmNETTIxbExONkVPbk9XajJOY2Jfb2toNWl1RURVMGtiMWlRWWd5Z2hRV0FxMnJVcm52QTdKSWFWaWZKRnNnYTJBN1dodW5MNFJsSlh3cl9OUmJBYzJlYWhwZTY3d0xzSkoyTmNhbkxJSVhjRlV6M3pqMGs?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-10-18T01:27:00+00:00",
+      "score": 51.53,
+      "corroborating_sources": [
+        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -206,24 +281,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDZnVlR5VXhqcnhMcTFpVE9lX1RZTFk3UExxc3lIZG5ob3pjd0xxQUk2R04xTFVPYl9RdGVHMzZacVdyUFFZZ3h1bW1zeXRESTRuMmdIMWpXU0lDT2dhbmFkR0J4czk4SmtTZVdtNUlxT1dUUnpTMHlZMmtYMjA4QVgxNmlZRUM1cjhWMDR0TGJxcU5jbDB3Qm1xaGhLTzVuU2VoXzV5cENKRDFJQXfSAbMBQVVfeXFMUGpqeWpyOG1LMEFOOGxrbFlmbVFfc1ZYN0pLMkdhS0s0akpjaFpIQU4yWnR3cUJiOXFuV2FIU2RuZkVxbW4tb25aZ3dCeHlwZmVHQWw3dW9HMjQ3OC04djVLT3VrcFRqUDVJZXYwSEVoWjBuamJHTE9hWGE0S1JlZnpLazJWTjNIRVNxMWdDRUt4Ujk0MWt1cVVQZUJtQlZLcTNObW5nMTUxdzhQR0N0d0paWUk?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-17T17:00:00+00:00",
-      "score": 53.33,
+      "score": 50.13,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4fe8b2ee56cc3283",
-      "title": "Lulinha esteve com ministros e Lula mentiu, diz Luchsinger - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHE4VDlPcTJmOHB5RGQwbDN1OFhDbmUzeXNGMEQySHJFdDFSNzlfTVJnd3VGci02QTVBdDhJNWplMjBsV3cyLUNJb1ZHYjRYemFjZXEycnVGZTU2b0dCQ1JvNV9NRXlVMEtUaVhIOXo2d2s3WkdHU1BUYWVXQjhyLVdoZXJZYWpGdVZITEh2YktQMEQ3QWNqbjBDcFd0bDRBNUE?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-18T02:24:19+00:00",
-      "score": 51.26,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-18T02:00:00+00:00",
-      "score": 50.97,
+      "score": 46.85,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -251,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBua19vVi12dURuVjE5QXk0SUo5TXZHU0Q4ZFRybHBGNTlXeUVSRndXOHZUTmxBQVRfbDYta25lelNiblU4MUhsdU9FbGVKZEN2dVBfdTlVSlhvYmRfdy14WmxpQUFvclBw?oc=5",
       "source": "E-International Relations",
       "published_at": "2026-10-18T03:36:32+00:00",
-      "score": 49.14,
+      "score": 44.83,
       "corroborating_sources": [
         "E-International Relations"
       ],
@@ -266,24 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnMtbGFuc2Zza1ZMOUdMTXNELVVNMU9hWm5MM2t6QTBWdGl4Mk1jSk54SXB3N19OcE12UHUxa1BiMUVITThaTktoUUEyNEozUmxGTlFqaWp3RE1GQTBrQVlMb3lJZ0lkNzhRT1VYWjJtODRZQVFIaU9GU0xaVnNQRVFVOXN3b3pneEs2eVp5R1BiaklVWjJ3QzlNSUF2N1VNYUpVWDl1aw?oc=5",
       "source": "Izquierda Web",
       "published_at": "2026-10-18T02:41:07+00:00",
-      "score": 48.46,
+      "score": 44.27,
       "corroborating_sources": [
         "Izquierda Web"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6baad0ee1e3b6b27",
-      "title": "Aliados de Flávio lançam o site \"Flaviômetro\" no 2º turno - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSExpNkFMWE4tY1FWUkQ0aXVOWktjUHhOWUE2M09aejJ2ZlZ0SlMwbk9sVkd6N3NVektzampoSGtHckpGTzZwQ0lBVzVIWnl0alFQVm05M09qYW9lRnBLOEZaeE82Sm5wbmlJTjl0QWhhSWNtVG83c3U3TktZREttaXJNcHF4TUhCMm1VUU9DUk9IdzVySUU5VDFhSVRDVUZrSXRySFUzRQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-17T19:06:15+00:00",
-      "score": 46.53,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -296,39 +341,9 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSFdEV1lvX2NCdUptQjdfeFZYX3FkdTd5dDlsRWg3MnNHbC1COTZHM0VyUTVaTElJcTZfWnRiSnhXLUhueVZuSTlwRXNZcEl6VGJhNHc1NU5ldGlYY05wakVCTWVLN0txbzJscTRNeXIyVzUwajBXZmhVMFZiejNyR1NFUVJZUkc3anJxa0Jyazd3aUNNcm16dVhfbUxmYzR2TktOeVV6ZFRqOFJjMzlCaWltVjc4aUdDZGxhTmZKSmtzQlloU1FQRF83QzZyQ2JzVEZZNW41NjdTMEHSAeABQVVfeXFMTS11N0dRLWpYckNOV200WXIyYWV6cjNDUnU3dF8wRmt6X3FkTnJFQjIxRXYweUdIT2o2LUlFTE5RQUtnaTdOdzdaTGNpUVN6NDc2Z01lczlZVkxxd29WRl9nRDc1cThDU04xRWpDOU9sZnBYanVxSTNXUGd4cFFOOEwzUVJxdXNReUdrakhQbGlnTUR2cTI1RTBEdnZiLVJyNThfa2Y3bHZEZGxMdE9KYTNrTkM4RTRiakFxUGVaaW1QMjZuRWNkOW9IYUZ0UWVFVlAxQlcxeV9pOXp4MUt3SGM?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-17T00:32:55+00:00",
-      "score": 46.05,
+      "score": 44.02,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "de4d2682cd1d97f5",
-      "title": "Em eleições nos EUA, Trump diz ter “poderes inacreditáveis” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnlVUG92bzh0aGxuTkNmcXNnY0VMenBlNklHMHIzU0JHNS1RZmNUSnFKcGNzY1Q4ZDhyNnQ4SWcwN3NWZ1ZJcFJCZUxFYmZ3YjFKZE9MNHJOS0ZDV2VZTFVlRVY2V2VKeE9ZTTIzbFE4alBJNEV5cC1adFBETDVuQW9ITzlvV25NVF9ZUUczMUdaMjF2OE1CeHJKdm84eU1DSWFMWkZzbTJzcTBPN3fSAbYBQVVfeXFMTVV0eVI5MDN2cktQNEc5OEYwelBMWTBCVDJRa0dCMEJ3dWR0Vm1yMGF4bVZFUFlPOTJoalZjT3FBQkQzMTFVTUhTUkFKclZuQ2k4T2hSMEViamtxOGx0Z2RWQ3h2akk1NTRXSGx2QS1fQ2dXZ3RaV3N3Sk5NNHZZeHVuLW9reThwQUVvcFphM0Z4dVJpUy1XcnJzeXhLRXJqWXQ2czc4UEk0aFBKazNVQ0xEMDVqU0E?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-17T21:17:00+00:00",
-      "score": 44.84,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4bd8b969e7935e02",
-      "title": "Protestas masivas en Francia: 400 detenidos - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUlQbDA0S0tGSlhOVnppOFlKRlJXNXlmQm5IWE1Hbmg3a1NDSUZOejlvR1l5b0FFSG9EVDNOS25VQTFZUnJYWExqSzcwQV9JMkRCSE1QbmJ6bVJmTWlFRjhrNnF4bnA5MllReWJaWGJmQ0xuc2Y3YlR6bV9vbjcwUVBNU0liT3lQZ3NPYWJyWQ?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-17T21:03:31+00:00",
-      "score": 44.7,
-      "corroborating_sources": [
-        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDV3Y25uXzNwQlFQVlZHSi1KRnFFRTBQWVNXb0FFd3NCXzBrLWkxMThaTGxCUmRsXzRuYTNiaTNUUHpoYTFMeG9PWGFNOHBISUJlLWpyYV9SWTV0MFB2TFhrMWxwLWt3eVg0bTV3S3pGMUs3U3hfV1NSNjhldnpxOEM3QTJsMTJ5enMtMDVZQV9UXzNnRF9oRVZtQk10UWlfWWkxTDdGcnNlWEJhXzh3cE9UZ1NqUDBXdDY0Yl9fUFRDOXR3T09OZg?oc=5",
       "source": "senado.gob",
       "published_at": "2026-10-15T21:18:58+00:00",
-      "score": 44.38,
+      "score": 43.42,
       "corroborating_sources": [
         "senado.gob"
       ],
@@ -351,14 +366,29 @@
       }
     },
     {
-      "id": "a2a50b0fb3cd85de",
-      "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEVWVk9uSGFocGFXTEcyUGtkRkpyekdQa3oxNHFBOTM5YmdrZ1l4YUF6UjFiZkdlYUhIek9sX0RfTEhzc0Q5ek5wUy0zVWlrX1Z4enRLSmNtdWtaMm9ydkowMVNUUFB6Qjh0YzBUeDZmbTA3cC03QzdoVG14ajN3cVhScC1CanZaTGZvYmxzY3hKRWcwcFN0MjFVaHN6a292REpqSzdXRnR4TV95WXhualFtajNVcmNJWS1HcjduWEFIZk96ekJHVlBSUXFaSG5tM25feGI0Q0tnWjNtXzdCZjRGdUlrSUpvVTllMVdPMU0?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-17T02:07:02+00:00",
-      "score": 43.61,
+      "id": "6baad0ee1e3b6b27",
+      "title": "Aliados de Flávio lançam o site \"Flaviômetro\" no 2º turno - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSExpNkFMWE4tY1FWUkQ0aXVOWktjUHhOWUE2M09aejJ2ZlZ0SlMwbk9sVkd6N3NVektzampoSGtHckpGTzZwQ0lBVzVIWnl0alFQVm05M09qYW9lRnBLOEZaeE82Sm5wbmlJTjl0QWhhSWNtVG83c3U3TktZREttaXJNcHF4TUhCMm1VUU9DUk9IdzVySUU5VDFhSVRDVUZrSXRySFUzRQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-17T19:06:15+00:00",
+      "score": 43.13,
       "corroborating_sources": [
-        "The Seattle Times"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "05e4c9fbc4b73edb",
+      "title": "Across U.S., ‘No Kings’ events seek to boost early voting - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMm84MTFwdEY0WU1LU2Q4YktSZ05fNEhra0dBbkJQQVhBUGNscEZhQzN4MjFZTGZwYjVrYUdDYXM0RlUxaUo5cXBQZTY0QjF1VGhYYnd1TzBKZXJvY3FhRWNUVjNsQjFEckZMU3YxR0dzQm9IUUdWNjFqYUJtQW04S2JCYnZmdzdoQnBnU1VR?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-10-18T00:05:00+00:00",
+      "score": 42.75,
+      "corroborating_sources": [
+        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -371,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSGE4MDJyN0JMTE44a2RDM2t5eklEcjJ5LVk0ZUNLaG5TemhCUmxMWG81WUFWZjR5NVNNZW5uS2tuVFljVEV5R0w1eGZWUkNMYk5vMmNiZGhQb0ZNQUxZRE1EQ1VuSW83Y0d0TThieW9mMGl2MmZ2Z0F1bXg1S2RnUV9zZ3ZjRmV5ZEVGeWZTTUZLWHB3c3NCZElxSTg3d21uaUpSR214WW5ZeExWTEE3bmdQV0YyNG1JVlEwRVZOclBoWV9HY0pYUlhoTGV6TDJMMDJMM01ycGpnRWtQTXlDcWtwdGw2UlFId0ZGNEMyYzBOUkxSQ3RNams5U1BrRWg2U05vRk1YRGpCTThkaWJrV2tBWDloRnM?oc=5",
       "source": "Mundo Obrero",
       "published_at": "2026-10-15T13:19:27+00:00",
-      "score": 43.2,
+      "score": 42.44,
       "corroborating_sources": [
         "Mundo Obrero"
       ],
@@ -386,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTU8yUVM4Y25NWHpmV3FFdFMxdjZtaWdtbUY1eGhET2wta3IySWo0ZHBmd1NaSGVHNHdyenJHU193enFMNmtraTNuUkpmUXlqVGM4VXF6WHJSeGdxWXM3TTVLSXRuQ0o3V05fWjg2bzU2VlRibWNYS08wWE0za1VKZnpFc3JLUm1hMHMtVDhOR01vNzBMU1ZCZHdjYUtkeEtUSkNBMlFtZUZ0Z2hZdGV4MGliaThxYnFudE1LMzYtMkNWWEF3WWdkUU5iYkp2bS1Jd3pvWmR2bmVWUTJvUVFGbmN5RHFMUkRQM0tqaFVLeFBsUXdwWXVDSzd4NFhtODJKVzZj?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T14:49:00+00:00",
-      "score": 43.07,
+      "score": 41.52,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -396,44 +426,14 @@
       }
     },
     {
-      "id": "be23ade20ff91118",
-      "title": "Corinthians: Stábile quer acordo com a Caixa como legado em meio à pressão política e de organizadas - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWo1ZnhLSVBybTZZVURPYlY5bVZ3bGwwTnFub3dZZDY3ZEU0R1Zmd3VHVWZfaVBYZlJMZnVhSjFZcTZVVHBNQjZtQlRYUWtDaGROTlFERjhXcllhUjdEeFgzLTlucTlQajBEM2t3eTZWeUV0Sm9qazR3Y2d0S0Y4ZThwZHhsYTJjc2NOa2FzR0pyc29GSjFFeVQ2QlJKWlFIRkZxd3ZIbnZaN3lLS1BZVWZJTVZGQ0ZMV0EyODY2VVZHMDdFR0FYMk9FTE5BSlJHQ1JxeklybnNtZl9a0gHiAUFVX3lxTE54SS1tWnl5QUlvRVV4clRrRS0tX2xRaG04VzhNRUI1QzNmUEw4bUpYb09pcVlGcXFjYUJTZkNCcXNKaGVaMThqQ1VnQlZQME5FRWoya1R2dTJtbkN2a3FhLVpRRXZxREQweDRSRlp6QWxzV2I1bS04Uml2VHlacE9MaVpPd1BpZ3ZzeG1VcmtOdU5FWmwxaHVKQnVDbzUwTGNHUElGVVpVaWJOZE5PS2RSV3kxRm1WTzlqZUZWanlqZ3pBV2lwQ2lHRWJET0lqU1dIdUFwTDFUTnEwYVl1dFV0U3c?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-16T13:32:49+00:00",
-      "score": 42.74,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a0c96d629a765d23",
-      "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOamhGbTM1d0ZBMnN5LURDaF9ncUVTak1zcnkybTk4NWxnbVEycXRPdG13aWtmTk5NZjM1YVhuNGpqa3Z2V05ybnhaM2FMNlViUTktb0tsLWVJWDF2SWxEYzlQX0JpU1JST0pyTjlmVU5lcDVyT3ZrR1d4QUhSUzAxLTJVcjVtek9jRlFTZkZLX0N2Sm9WZkZobjB3SDVqUDU1STlnQ3NpWXVCMUpBOGYyV1lONFdVa01qa1pPY184UE80b2lPSFN5OTU2bUlNeDY2SWxsTQ?oc=5",
+      "id": "a2a50b0fb3cd85de",
+      "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEVWVk9uSGFocGFXTEcyUGtkRkpyekdQa3oxNHFBOTM5YmdrZ1l4YUF6UjFiZkdlYUhIek9sX0RfTEhzc0Q5ek5wUy0zVWlrX1Z4enRLSmNtdWtaMm9ydkowMVNUUFB6Qjh0YzBUeDZmbTA3cC03QzdoVG14ajN3cVhScC1CanZaTGZvYmxzY3hKRWcwcFN0MjFVaHN6a292REpqSzdXRnR4TV95WXhualFtajNVcmNJWS1HcjduWEFIZk96ekJHVlBSUXFaSG5tM25feGI0Q0tnWjNtXzdCZjRGdUlrSUpvVTllMVdPMU0?oc=5",
       "source": "The Seattle Times",
-      "published_at": "2026-10-16T22:53:18+00:00",
-      "score": 42.48,
+      "published_at": "2026-10-17T02:07:02+00:00",
+      "score": 41.49,
       "corroborating_sources": [
         "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c58148f51978014e",
-      "title": "Senadores analizan con secretario Roberto Velasco Álvarez Política Exterior de México - senado.gob",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGlXeXR6TGJjaHk3eFlfNkNDX09hNWpmVVdURnE3SnJtdmJtS2NnUENSVUZUX0l1UVRwMzg0d0p1RE5Ja3NONVlLdTZjMS00UWFVbHFQZi05azBHM0pYcTVhVVVfa0gxRXdPbjM2ZkthZ25BRmRCLUU1WGRyeHI2cTJiSW9GXzFZZHE5YTlnWlR3VElRc3lsV21RNXhwYmdrRVYtVThBdlhmU0prMS1UMWl1SDM4UFRXTnFyaEhoQVVaNEVXc0g3b3Z1cVhhVndaWnRja1B1U0Uxblc3anVuZUgxdGRWU3BxQVE4MA?oc=5",
-      "source": "senado.gob",
-      "published_at": "2026-10-14T23:11:42+00:00",
-      "score": 41.67,
-      "corroborating_sources": [
-        "senado.gob"
       ],
       "signals": {
         "source_count": 1,
