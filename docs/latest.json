@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T21:06:40.299544+00:00",
-  "next_update_expected_at": "2026-10-20T01:06:40.299544+00:00",
+  "generated_at": "2026-10-20T04:56:26.452739+00:00",
+  "next_update_expected_at": "2026-10-20T08:56:26.452739+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,7 +11,37 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVB1SHZFcXR5dFhrRW4wYkY5UEhRM3pILTJfeHh4NWdvTzdJSlNmUlA4aW1NSDN2VENybHV4QWhyOUxnT0ljN2FzMzVveDMxQVk2WENrWHExbVNZdW1QWklZZDZQaEI4UzNScWJMbU1mMVRLRUZyTTFteHE4NHR1aDBsc29BSjcycVQ1Yl9mZDUyZi1fUDN4Zk13YU5RdG9sTWV1NExHdWpDLXUyaTBOLUFlOEQteXJ4aEdvX0F0VXdQTkNh0gHKAUFVX3lxTE9wWEgxRk1qTU5YZVdLQzN6QlVVQWlQb2RRNGV2NGRmbmwwUi1oc01vSWZieXczUW1VTEh0X1hYeUg1V1l2VkNyOEJHM2RyZ0xsR2Ixd2dKYWcwcl9ieGFPekhHcnBVVzd6TFoyOTFUNkItWGRZYU51cWRZODdMd2ZtdkNiNFFJeENSNTRqd01TMEMwYU1aN2F3MWpyNzloSHh2cTZVVC1PNmFlbHBERGdPeUJpdUhzY2J6MHZnd1NnR2tpNmhrbGNxTkE?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-19T17:11:00+00:00",
-      "score": 73.83,
+      "score": 65.94,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ca410abb9f5d2eec",
+      "title": "Trump open to Putin, Xi summit but would focus on nukes - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ2VEX240ZkhSUzEtN1JWMHhvb3JaYVRaaGlTNWlRck1PZGxqLVBwMVBTdHBqYXVwY0VYVV9QU3QxUG9pZTVGUnhzZDBLd3YwSkwxR2hMcjROcV8weG1YcTVHV2NuUS1USGVxUXVwbjJOTW9ERGZRaEQ0a0tGSWYyenpxd2k5Nmc5MXFvd1BpSEhOdGhDeUxxSUlIb2RWVDZINHVKUzBBTDNEa2tCZVdQUDY2RQ?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-20T03:05:44+00:00",
+      "score": 65.23,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c49cce0ca11be701",
+      "title": "Flávio Bolsonaro apaga posts em que criticava Bolsa Família e chamava benefício de ‘bolsa-farelo’ - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUXhXOGZjV1RMZkZOc0I3bW9jRmFLNGVfSF9oZ05IWFVjT1FWSGt5anAxeHQxYnQxemEzckRFLVFCckQ2bGxud2JTNUNEcnMyeVdUX3JncGpaNW5IQkpucVhhVmdDOG1LcFprUnF0T2tGZG0xUWFQTXU1XzR6X1hyMXdYWm1mYVM1NUtia3VkMHhDTVRGZWlUUG83YlN6YWdpVWpjT29GSjhNQ0plaXBHUXU2T19FMElySFZHUXlVaExlTm9xTjJ1bnlqMjlyM3FfZ1A3ZnBhRm_SAd4BQVVfeXFMTzhyLWdVYTBNXzQwcjExMU1kRDNibkFjNXFJUUdIdkFjb0kyQzNnZFFyZ1dqeGVkWHdiUVRNYTBMTXQxUW1yRThPRGlzS2Z0UkNVa1BIVDMtU1BkS1dLZHZiM3pHbGFFT1F0c25OcTFBMlBrLWNKZnRZM3JaVXZ3ZkUzc295dExVVlV2OXlFWVpUYVBuOHVQRmpWSGhtdTFQemhDbFpBY3BaR2ZnMUtRV2RvSUVuYmpLbTJBdkJiRTdhOW1MZkNKelpwdTAwNXhycDF6S1VYLURaTHJDTndB?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-20T00:22:21+00:00",
+      "score": 65.11,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTM4NWxtbWVveHpnVkw4WHNVQkRnaDhPTVZjcEYyNDdCcVg0dDF4LXM0MDdGc0VHMlpVQTQtMmRJdEk0bFhhaFFuVXFwcm5YZVdHaFlJVXkwdDZWNF9QNHBqVlV0RU9OSHBMaWNPZllLTElZdF96VzBwanc5REN0eVM3bEw2dFJKYlI2QmFmZkJaTWRjT2gyWE11SlY?oc=5",
       "source": "The Institute of World Politics",
       "published_at": "2026-10-19T18:28:56+00:00",
-      "score": 72.31,
+      "score": 64.13,
       "corroborating_sources": [
         "The Institute of World Politics"
       ],
@@ -41,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNHBQUUZTNy04NlR4c2JYY1B6YmdTc1lrcG5YVTV4OGZPVFRWNHdBQnVCTk0yN2w2d1g4U1I4bUFWMHFpQlRMMDVvdjMzbUpmMHYwNU9uNVZHWnpJOExZMWRCUUVPcGZxcC1xU2tELVF6aDdtVk1uaEJkRkM0c0VXWGJ4MXphRHJjNl81QkN0SDBDdm9SRmU1MUtiTjA5Qkcw?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-19T14:54:36+00:00",
-      "score": 71.36,
+      "score": 63.95,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -51,14 +81,44 @@
       }
     },
     {
-      "id": "8e521bfb10b0b829",
-      "title": "Flávio Bolsonaro é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2lwajhidHJMYzZITE9PTmVCNGJKZUdXYk5lc296dXdqbWE2Sjl1VHJhRzZDUXFEdWtoSm5VUkVyYjQyTVQ1SW1Ld2ZyR0c2LXpRWE0xZlFoOXFwMVRqNjFaTDJKclhvOXBycjRkMUxvMXpLMDRaRTlITDFNYkxDbzdQMVR0M2xBd1o1NEFWRVQ1NHhKTlI1QVlmdTRLTWdadVl6RU83R29DeVFUYTlRYVZwcmxhSm54M0R2OU9MYnJ4SDFtUDNrbEFTcWhCdE9t0gHWAUFVX3lxTE16Yjk5bzhjWWJkS0pnU25aTl9JcElnZV9VeFF2X0ltaXVZdU43c0hWQzNLc2VVYzRnNVRWS1dCSUZ4R2Z6LTJnT2g3eGhtSU1HdEFQOF90MVloRFB4cEhEalV1cWFLd24yR09zdE5SbWxkaC1yb3N4djFJbGktbXFXSkFJN0NzN0JlX3lFeE44aFUxZ3E1c1dMeUdXYmVjUDZDWjhWdFBrS2Z5bC1SaUpaVi01YkVoSlVhRE5ONTk3cUIxTnVfZ2ZLVFhXSVdSQWc3Zks3cXc?oc=5",
+      "id": "e6c5423afc324d05",
+      "title": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEE0Q0UzWHBiT0hOWU9rUFJPcFZCMkZCYmFYbW4zTmF2QzJUdWlQUVZlOW9KZ0J3Slg5ZTVXRlpZZEpVTUs0VDRpV2VRM0lxcWhicFlZemY0bUlCblJGNV9ENUo4OEZFNUs1VThkX1ZMZ0tEak45VzFJM29RVDlsUEpHV3lxZlowVjNqWA?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-10-20T00:38:00+00:00",
+      "score": 62.4,
+      "corroborating_sources": [
+        "The Japan Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3e551b27c44535c7",
+      "title": "Itália anuncia envio de 500 militares a Milão após confrontos durante protestos - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSUgzMG5kQWZaalFSbHFkX19Sd3MxekZaUWdwSEpZRW02VUZJVDZZbzJOWVJuNjlGVTJXNVhMYXNxSjNqNlBzeWxVQzJsemYzY2w5d3VQRVp4U1pzWkROUEoyc0V0WjNveHNPVkFNVDRXVXZpV2U2X2FSZUh5TmJsLWJxTEg3WTlRRUVKSVVBVW8?oc=5",
       "source": "Estadão",
-      "published_at": "2026-10-19T19:37:06+00:00",
-      "score": 68.65,
+      "published_at": "2026-10-19T21:43:46+00:00",
+      "score": 62.31,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "de81b0381cd6489e",
+      "title": "Flávio reage e vai a 52% contra 48% de Lula, diz PoderData/Aya - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXdlLTlXeFk1TjV3eklYbW52QmJOVzRzRi1RLUVQQ080SGJaTXpIanQ0d0ZCajNIdmJTX3lyRk1aTWY1NHBuY0toczVIX1JrNnVlenVIQlRTUkZzRFpDdVVjZjFUQlRMejk2cDZ5QUJIdEFWSlJYQ3RndHJGUnlmOGJMRHU3Y1pINDAyOWZnZUtkNEtEU2lkcEVLcEFVQzA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-19T21:16:48+00:00",
+      "score": 61.85,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUE40WEhEMFkzc2ZORUYweTBqcUdFOUhvaFRVMW9pTkEwdlBsSTJIT1I0clgzYXhXWnR0eEtSSGdleEE3U21OVVN4VHV2MDlJQTZlNGU0U0JlYmhoSW1OWDFSdDg2WDFhVWRabWR0WlR6YV9iaVdZMmRxcy1jVFJ3YVlaRF9ob0dSUndhZXZ1UTdfcnUxT3NJVDFzSlRpamhzTVk4MGVubEgzekFJUFJzN25May1uSTJD0gHAAUFVX3lxTE9qdWZ2V3VDMGNScVpnS0dYbU9MaUh4UE1aZ04wM2dXOW95WHFQLWZ4akJMZDhkdTljMW9pdW9MSXFfbUlnN09NdVcydzJWdUcwUWlYaEZrUGV1NU1zN3c2R0EtbmFOOHNhSTFFcWFXRWo3TnBTNUtWbnhoNGJENWFha2ZzNmlDT1d6X3RjblBYZGFOeUNELUJxWEVaWDRoSS13UUcxNmxXZUJmTVM1cUlFQnRwWVBhYWxrQmZZMEs1Qw?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-19T20:04:00+00:00",
-      "score": 66.19,
+      "score": 57.65,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -81,29 +141,14 @@
       }
     },
     {
-      "id": "17cf4dec018dc6ee",
-      "title": "Trump alivia la presión sobre Moscú - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmlGRTVYU2VFNWV6bDFOU3VzXzQtSnVmLXA2RHRkeUJvOTQ5V2R3RDJvV3hEZWhWdy1fbzhDeWhfU3Bqd1ZlRUctWjR4OWVpT19qTUdaVS1oNmU3TzlXVXRTakhiSFhpUnZOMFRqOVd6NTlFNklwZVE5QUsxUXBaeFFpblo?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-10-19T10:39:27+00:00",
-      "score": 64.14,
+      "id": "7cccb9f699679746",
+      "title": "VÍDEO: A reação dura de Lula após debate com Flávio Bolsonaro: “Miliciano desqualificado” - Revista Fórum",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOU0zOFJZeFlJVHhHYjhZR1R0NDROUmh4QjZ2eGJuRlUxdkx6OHVVWWRUaFpnSk1RWFFya3R0eVZwc0xuR3RBZ0phQjZqX1JUd0ZUX3daTDJsenR6NkhyamdQNXBaLTlBamVTSWwxN1ZkeWVrcWZtRmdnTXpaNHUyaDVXNjY1Vlp4VVFiaU16TVFQZzhfaGxkN05GQTVmQ3pzcG9lR0tHaw?oc=5",
+      "source": "Revista Fórum",
+      "published_at": "2026-10-19T18:49:14+00:00",
+      "score": 56.45,
       "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "136121ca31158517",
-      "title": "Opinião - Vida de Alcoólatra: Se vamos discutir o futuro do Brasil, por que a bebida parece indispensável? - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdkkxWExkQzlBOXVfV2lidGhYX2kyZFo4azk5X2twS05YNk9KOE80b0tvOG1vZGlURVpqcFZ1UTltZlVOdkExT3ZFQ2JOMVMtS2dXc1Q0NHFqNlNPcTVyLWc1UUhjdWR6OWpSRGduVGloTVpDN0RwWkNxLXBDQnRjSnljUVNGeFdGU2h0LXQwVU02OW9GNHYwSlpsZVI2ak5yc0FKMW82QWdzdzJEUWpjRUtieUR3aElpSHk3dXFFcWc1T2FMQ2ZpVDNBRDNldEFrejdsOFBNT3NTN3M?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T15:01:00+00:00",
-      "score": 63.47,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Revista Fórum"
       ],
       "signals": {
         "source_count": 1,
@@ -116,9 +161,24 @@
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSV9MUlpKSUh1V0ZraWpIeDBSN1ZncWNWb0I0Y0NLXzF5dmhESFlqNzhMTFNlWUhHWTZ6WTUtS21INFNvcU85Zkd6azF2emQ5U3l3cWtXdzdkRWhMSTJBdUNBZ1JvMU5DNFd6V0FTQmtBTF83YW1CMlJPNUlfZTdVSzlYTG51YlhYNFBhS2pVT3dWVGtVSEpKYnhINmpoaGVYYUlrU0h4RUs3ODFNb2x6WXlXQjBiQWhLdXFzTTlLUHE5eGlrcXlfa3BNTTZqLXZWZWQ1bWFHX29QSS1UUm00TzVCNFFFNU9ycHUyZUdYaUh0dzJtUlhhdnYzM1N1NGpEaXcySmJIeGhwYWp2OGNqbGFXWTFXSFpyLXV6VGdOQ2Y4Z9IBpwJBVV95cUxNa2wyZ192Wkdudmp5c1ZvWEJjd1E2clBwbzlGaktqbjJrWGowNmZoTmpGVEtmZ0Y5YzVDaGl1b2gxRVg2U3Y4UDd1S2tJTHNsUWMtVEczSU04SXN0Y3RFeUtMcnBrTXJWMmNiRXNTcTYtN3FuNXR0VmtLcDBZWThFYzFjLWpCQlg0NjJOZVRORmpYbGVDUjFaeU5oVEVFMnV6YzNxaC1yOHZzbUhhajNMQVFKa2pVWDl0LXFpaWhoblRnMm9GdXVBenZRNlJIbkZaY1ZfZW1pR0tKdXZ5anVlbjJqMk9henFBeDdRVUFobTVtdG00MXZ2YmlzbXdleGFtb2dFcHJicVhJV2RXdjQtY0hEdVJ1RFFmWjU5cmhYSVlBdzdEM3dr?oc=5",
       "source": "COPE",
       "published_at": "2026-10-19T09:05:38+00:00",
-      "score": 62.71,
+      "score": 56.41,
       "corroborating_sources": [
         "COPE"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "136121ca31158517",
+      "title": "Opinião - Vida de Alcoólatra: Se vamos discutir o futuro do Brasil, por que a bebida parece indispensável? - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdkkxWExkQzlBOXVfV2lidGhYX2kyZFo4azk5X2twS05YNk9KOE80b0tvOG1vZGlURVpqcFZ1UTltZlVOdkExT3ZFQ2JOMVMtS2dXc1Q0NHFqNlNPcTVyLWc1UUhjdWR6OWpSRGduVGloTVpDN0RwWkNxLXBDQnRjSnljUVNGeFdGU2h0LXQwVU02OW9GNHYwSlpsZVI2ak5yc0FKMW82QWdzdzJEUWpjRUtieUR3aElpSHk3dXFFcWc1T2FMQ2ZpVDNBRDNldEFrejdsOFBNT3NTN3M?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T15:01:00+00:00",
+      "score": 56.04,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0luOUllM1puWlZTWU5UOXF2WnpRZ29QM3FVU1UxSXY1NHhfWmM4UlJGb3dxdEZrS3BlSnlzTzdObklVUWRfeC1mN3QyYTRnaU1jZ2hFWmd0aXIyREQtVmtYQWlYREpaQ0N1eVFMUFNKRlJNUjBLcXlZT29uN09qYzA1QnJkT2xubnRvcGJxdHJlNC0tTFJnUUp3Rk9pbEJoWUFxdDd1TkFGeUo2c2VXVXczaUF3d1pHYkhFUVFaekRaU3pmQ21PV3lVZmxHeHk4cWZVNXVkXzV6TGh1cHdBV1pB?oc=5",
       "source": "Audiovisual451",
       "published_at": "2026-10-19T08:30:22+00:00",
-      "score": 62.18,
+      "score": 55.99,
       "corroborating_sources": [
         "Audiovisual451"
       ],
@@ -141,14 +201,14 @@
       }
     },
     {
-      "id": "04fea3afd67a21eb",
-      "title": "Juiz dos EUA ordena prisão de Raúl Castro, ex-ditador de Cuba - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMURtY3pDS1Bnb3RuVnRLUWV0Y3hfM1lkX1o1QUdKdlF3cVFLVy04dV85dmN1XzhoTExjRVNuZzFpTWs0cmdSYzB4YTRWcWVZSnBDVzBMNW1YcDJGTW1CcDh1YmlPMFJZZV9Gb1IzVjhWRHVqZ09OS3B0bElwZktuc2NQY1dYLTZpVk1uaFdKVkhVeWNBU2llR2NhMXlOY3R4b2JGUzdRLVVqZWxoYy1BRUgwa9IBuwFBVV95cUxPMXRZbnM5NmdCOGVyeFhzek1tbGJiTjR6ZV8tQlY2MjJkQWFwcGhEam41RjZhRVZHMnoxbU9QOVlta0ZfZ18xUEw5YmI4Q0ZXdjFXNjZnYWd1ZUtxb0w2MXJTMmMxU19VTGpqM0VNY2JhMmtpVlRuRVQ4T0RmcmdnMGxfRG1USGh1X01HdmVFaXNNWGYxT0Vrd19SUmhmUEpzS2VCMWhra1RCYjk4ZzVpcm9ybWpmSmNIaXZB?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-19T15:28:00+00:00",
-      "score": 60.95,
+      "id": "3d8df1e22c2cc3a0",
+      "title": "What is behind the breakdown in Western society - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWpfb001WUVaNW1lcUFlN3hQWkRBbGRGSUR3QzhKMHh4NGVqYUtPNmJpWjFIV25pczVpZmJWcUs3T3RvYTBCcmtvTm1xWE8zN1FVVHpBZTdzOVAtc09NSmFxeGtTNnBSVnllSjZfbXdLQUsxcVo1TnItc0xuS0JHVzhJVW1FWjF1QlV1SVRYSU5KaTVNRDYw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-10-19T18:00:00+00:00",
+      "score": 55.68,
       "corroborating_sources": [
-        "Pleno.News"
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -156,14 +216,29 @@
       }
     },
     {
-      "id": "2f462de0d6503154",
-      "title": "Pesquisa PoderData/Aya: leia os resultados de Lula e Flávio no 2º turno - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjUwdUE4R3kxc0xZN2dYUW9remZGQzFROEk3bGhGQ184NG9Xd2YwdUMxMlJpUjFKQTNDUG1pU2xGRi1wMmFJMlA1dkkwTlBIVmF4cGYydDRhUUZtNGFjcEhaN3lYekJhXzZQTnlnTXF0dnhXeVR0Rzk1aDFYZGNCS0NiMm1Jc3k3MWI0U3ZSaGJCQTE4YmZtMUZvMmhMaFNRaHVFdmdmSGpwREVLYnROMk9OcFdMNkE3dnA0?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-19T11:46:13+00:00",
-      "score": 60.19,
+      "id": "d3cce41b15881217",
+      "title": "Janones é internado em SP com arritmia cardíaca - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzQxZUlVY0RSMnR0LXRTVEs5eUhZc19lUUZfeGQyNkVEdmVOeGdUaVhIVG44WFloMUR5dXNJUWVfWk1aWFJBXy01dERISWtpQkl0SkJqeC1MV3d6UlcxNUdwTndHWjRLMklGeDhDbWNuYThhTG5WVGM2Rkt3bXAtOTBvbUVTSllnMmNtaHVlakdVZ9IBlwFBVV95cUxPT0VSOTc5SWVkd1V3QlJRU0JwR1VvNmRZbVhxTUVaR3c3TXJtdFd2bE9abHZBTGNFM2dWOThhSXRHVENyY19jYmVuUGJYZ3JmbTVlSTdJX2NYTEhSOTZ1WEotX0pnQmc5VmFTa005czdMcW5EZ3hkdjJKM2RaM1pCMnEyN2VtWDlWelJFaXBwWkFjYjBzcE5V?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-19T14:31:15+00:00",
+      "score": 55.62,
       "corroborating_sources": [
-        "Poder360"
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f75c7181cc7107a0",
+      "title": "Próximo presidente terá três desafios na política externa - Canaã Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDgxTTNFNXpSOEJYbVZCUlRid3F6Z3AzN0FYelRObGR5aktpMzFLNFpyc3RqR2c4cXBmckg0NzVuWmFVTDhUMVpmWFptc2N2QmdobHdKd2RFTy1fMFNGalJFZzMyRl9WQlFTMFNvamVzTkV3SlFidVdVMjZZaFRkeFZ6dU14QjdELTNFS0dvY01WV2JwR3h3QUIxUE1oNnJISml1bnM3U1NsdllvTmRRX3lpUm5fTWVB?oc=5",
+      "source": "Canaã Notícias",
+      "published_at": "2026-10-18T17:30:00+00:00",
+      "score": 55.29,
+      "corroborating_sources": [
+        "Canaã Notícias"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41SDFWQlBNdGR6eVNtRzE2cFZEakw0SnRtWmUwcWQwWmlBNVBjTmZJM0FaX3hqbW42eHU0REZlNDF0QnllWGNyQzJPQTBKRDNDU21rNQ?oc=5",
       "source": "Cadena SER",
       "published_at": "2026-10-19T06:07:52+00:00",
-      "score": 60.16,
+      "score": 54.36,
       "corroborating_sources": [
         "Cadena SER"
       ],
@@ -191,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUtqaERvSFNjUG1qRlJFY05ldGd4dm95a09Xd1Q5a1lWdVdyTGRkaUNwQmE0OGhUMjcxTWJVRXV2aDJRSmxLdUc1X2dvLWw1bTVhS2xDUlRYMm9jVFpSbEtSS2tFVWhCWExBcXJjSWE5ZUVOR1hmdmR1bDBHMVA1d054NlMzdmVhaDc1TlNUMjRITXZRSDFWZnBaM1lTbnRySE43aw?oc=5",
       "source": "El Nacional",
       "published_at": "2026-10-19T05:31:39+00:00",
-      "score": 59.67,
+      "score": 53.96,
       "corroborating_sources": [
         "El Nacional"
       ],
@@ -201,14 +276,14 @@
       }
     },
     {
-      "id": "d1421cf1c548b1f2",
-      "title": "Bianco pidió que Quirno dé un paso al costado: \"Se acabó el Milei malvinero\" - Infocielo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkwyc2hoSkJMN0xZb05XRlZCUWN1aDJTcU5XRC1LaGl3WElhNXU1Ml9oTGJ3a1FSRzFOQmVtT2xILVpjWFhxUTBGZ0JHYWd2cW5wVHdJYmtveldpZWxpcERDSlpWUUFxRzBpZ3VZX01SVEpSRlhId0JKUXhQZUtsWW0xclFNb0J6d2FROGlPaU1HU3Q0LVNPV0R0ZnZpTjBxdGs5bmk0d0t6TXlGTkVNQVZiWm5xYjZwQllZ?oc=5",
-      "source": "Infocielo",
-      "published_at": "2026-10-19T14:10:53+00:00",
-      "score": 59.6,
+      "id": "2c4fed62037536b5",
+      "title": "Parlamentar australiana fica em estado grave após atropelamento; premiê diz que ‘não foi acidente’ - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTlUxMUNfMlYyanFSZGw4SEk0eXo3TUZUWUVhUVpfeEczOXJqQmJYQnh1NW5YLThfVF85d01QNEpZVTlFQlBYY09wRFd2dkpJZ0oyQ2tNN0VraHhKLWE3MDRZQ29jbmZLall0dXNTS1R1NUFNMXhxZHUza3h4TVNPd2w2NHNvZ1BSY2VKZU52LXBRM0hhZHQ1bEs5LS1PU2pnc2J6RkJ1Mk0wSURUdDFCRlM2YzhwVWRFVlA2dG0zY1VESHRLX25lOUZ1eVEzSlVEY1RzTmNXSi3SAd4BQVVfeXFMTld0d1dXeXozanpzWmJJam9oVHBTMThtYnZUNkdBV1p1SFpHVEVmYWoyQ2s1X2I4bnVXU1pibEpQc1dxV2VPelBBVEVJZ2FoeVAzLS1IUnpGc05qdE1scXR4blFQWnJJdUlwM3BGZFRqSGJZWmd0d0I1a3RlVUJOa0M3VndreUhRS0JNQW10VDlTc1F1dXB3VUZOaHk0ZWlnLW5XZ0tzYVcxZUdWanZ3MURYNkU1M0c2T2U3aXV1Z29JdUJaNDRhRTFqcHhOaTB3Sm1nODJ6VkN2M1N6SC1n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-19T11:48:32+00:00",
+      "score": 53.44,
       "corroborating_sources": [
-        "Infocielo"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -216,14 +291,14 @@
       }
     },
     {
-      "id": "f75c7181cc7107a0",
-      "title": "Próximo presidente terá três desafios na política externa - Canaã Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDgxTTNFNXpSOEJYbVZCUlRid3F6Z3AzN0FYelRObGR5aktpMzFLNFpyc3RqR2c4cXBmckg0NzVuWmFVTDhUMVpmWFptc2N2QmdobHdKd2RFTy1fMFNGalJFZzMyRl9WQlFTMFNvamVzTkV3SlFidVdVMjZZaFRkeFZ6dU14QjdELTNFS0dvY01WV2JwR3h3QUIxUE1oNnJISml1bnM3U1NsdllvTmRRX3lpUm5fTWVB?oc=5",
-      "source": "Canaã Notícias",
-      "published_at": "2026-10-18T17:30:00+00:00",
-      "score": 59.38,
+      "id": "04fea3afd67a21eb",
+      "title": "Juiz dos EUA ordena prisão de Raúl Castro, ex-ditador de Cuba - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMURtY3pDS1Bnb3RuVnRLUWV0Y3hfM1lkX1o1QUdKdlF3cVFLVy04dV85dmN1XzhoTExjRVNuZzFpTWs0cmdSYzB4YTRWcWVZSnBDVzBMNW1YcDJGTW1CcDh1YmlPMFJZZV9Gb1IzVjhWRHVqZ09OS3B0bElwZktuc2NQY1dYLTZpVk1uaFdKVkhVeWNBU2llR2NhMXlOY3R4b2JGUzdRLVVqZWxoYy1BRUgwa9IBuwFBVV95cUxPMXRZbnM5NmdCOGVyeFhzek1tbGJiTjR6ZV8tQlY2MjJkQWFwcGhEam41RjZhRVZHMnoxbU9QOVlta0ZfZ18xUEw5YmI4Q0ZXdjFXNjZnYWd1ZUtxb0w2MXJTMmMxU19VTGpqM0VNY2JhMmtpVlRuRVQ4T0RmcmdnMGxfRG1USGh1X01HdmVFaXNNWGYxT0Vrd19SUmhmUEpzS2VCMWhra1RCYjk4ZzVpcm9ybWpmSmNIaXZB?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-19T15:28:00+00:00",
+      "score": 53.43,
       "corroborating_sources": [
-        "Canaã Notícias"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3hGc1VVRG03VTY5U2Q0aTl0YnZkaEdHcUppSkxqVzJSQUtXUWVsdENjYkpUVWVBOXBrcURQUWlLTDlYZE12YWMyeUdxZ0dELVg4eU93cWJ1MkJxblVXZmtRczJvLUhpX3pBa0ZDeDRvaExRTDlJRVNBQUdNeWFyVnljV01kYlpwRHFjS3BfbXMtdUw1Vk5qcDdBRU1GLXVMRkJ0eW04cTNuc1ZJRVM1WjNxaw?oc=5",
       "source": "La Nación",
       "published_at": "2026-10-19T03:15:00+00:00",
-      "score": 57.88,
+      "score": 52.52,
       "corroborating_sources": [
         "La Nación"
       ],
@@ -246,14 +321,14 @@
       }
     },
     {
-      "id": "9657142ebb42689c",
-      "title": "Onda conservadora na América Latina é menos coesa do que parece - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR013RDcyRDUwRzRsLVdLcUI2UEFFSkh1T0xxY1diWk1UYkJtSmN0MGE5YTJNdkFpZGdOMkpLelYtSEFaakRaS3Boc1VRemlNcVJYWWJzU1RjNHpZcnczNjYxb3EwYXpYeW5LMGJiaFpod0NzUjB6R3ZOYWVuNHN3aWc4aXl6T2xOS3RORzJDT0VncjY5RkdXbG1Kd3RlaThZQWVRVUlMR1NHeG5VaUM3c05lTTZoSWhXM0JOZWF30gHDAUFVX3lxTFByZFlXbU8temhkR2dSZ2pvRDhacHc1VWU1ZXgtUWF5VVR6azQ4aGxET2VoZkczb2lhakRmRjFESU5DX0V3b25jVTBobHNtNURkZWFaSmNtY1lGRnVzRUY5bDFQalNrX1dHeG9lYmdLT2F5YjRsZ2tkMzR1YTJra2wwemtYQXRVQWx2b1UzVkdEc0NDa0lGdUtsSVVxNzhEV3ZISW5FQ0VDMFpSSzB4QnNZYVVGX3ZRUlZod0Rad3FXMzVHdw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-19T08:30:00+00:00",
-      "score": 54.18,
+      "id": "27beb93350009280",
+      "title": "\"Moral cristã\": quem é o deputado do PL detido por atirar em balada - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMlExWVdUaDVVVmQ5ekJfNnFIMjdRMDB0Z1NTYlNzdmVTZTJEYXRMS28wc0lZNUUyaVpKUUhHNk5SdENyR2ZEdllFX2UtNUlwcFRTMGFNR3ZUODVDNzlDdFVqbG5weXA5YjdTTkNvX2dwWWd2SEFrd1YyUm5OVWNZSw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-19T10:34:00+00:00",
+      "score": 52.49,
       "corroborating_sources": [
-        "Estadão"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -261,14 +336,14 @@
       }
     },
     {
-      "id": "d5b4ed8e10aa351c",
-      "title": "Vorcaro, lobista e filho de Lula viram temas de Lula e Flávio em debate; veja como foi em 10 pontos - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHY2QXhmdVFoMXBkay1fM3hkVFZUd1dsYktUOHBuVGNRYUVhSS1kSFpXQmZHTnpoU2R4S0xuYVlBYk90bExzdlc3a04zTTh1aE9nR3ZCQThvejk1QjZEYU9TN2FvdXVMbC1PZENnV3VkN2pxQkNOVW84RzQ4OTFyb3NRNWtZd29kdXhiM1F5RTQwTy1ZWk5jYzFkQmh1U2ljanlBYlNFYXFyUUxWVkJFRG1YYW1oMUVWRXlVc1phRW5TWGpIWDZRS2lzZzhZOWkxMDVMZWtaMUd1NV9IQjN0Qw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T02:52:00+00:00",
-      "score": 52.59,
+      "id": "d1421cf1c548b1f2",
+      "title": "Bianco pidió que Quirno dé un paso al costado: \"Se acabó el Milei malvinero\" - Infocielo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkwyc2hoSkJMN0xZb05XRlZCUWN1aDJTcU5XRC1LaGl3WElhNXU1Ml9oTGJ3a1FSRzFOQmVtT2xILVpjWFhxUTBGZ0JHYWd2cW5wVHdJYmtveldpZWxpcERDSlpWUUFxRzBpZ3VZX01SVEpSRlhId0JKUXhQZUtsWW0xclFNb0J6d2FROGlPaU1HU3Q0LVNPV0R0ZnZpTjBxdGs5bmk0d0t6TXlGTkVNQVZiWm5xYjZwQllZ?oc=5",
+      "source": "Infocielo",
+      "published_at": "2026-10-19T14:10:53+00:00",
+      "score": 52.34,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Infocielo"
       ],
       "signals": {
         "source_count": 1,
@@ -281,9 +356,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG1ISzlmS2xwd05Jd3dGb05wb0NwOVF1T0FiWFpXQ0YzSWk3SlFtb2lJX2pyel9YQ29oMGRrX0RMWWdRTGlMYkE3S3NJbXMzN3dJU1VjNnVlOUJnZm1LbThXSlNVaVdRM1ktUGVnZXlScEJoMmhmOUhacGRDT0lNeW5haUVzcGo5bmhmM2I1NXY5azE5Y3pfd3NHQ3FTdXBadFdaaUhlMnQ3OEZTdnBnVm9OcVnSAbwBQVVfeXFMTWxLUWl3RHRuY1JPdndTNllZay00LU1IU3Z2a0dCelJYOTFjcThLbUEzQzh5Y1ZBSDJfSWFMUXU3OWRiOFNFVktGU1hNYm5hVHR6UVpUYUJ0eDd3Ykh2SUpKRkJwNEpoeGNMakFHa3o4a09TS2VEUC03SFVKOThyOHZSQkpGblhRMTk3UnVZVXJnMHpvYkxaczhGX1p6V0lUMlduc09kbTA1NzAtbzJLUjNFWTg0TTFhVWl2MVQ?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-10-18T19:11:00+00:00",
-      "score": 52.38,
+      "score": 48.1,
       "corroborating_sources": [
         "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d5b4ed8e10aa351c",
+      "title": "Vorcaro, lobista e filho de Lula viram temas de Lula e Flávio em debate; veja como foi em 10 pontos - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHY2QXhmdVFoMXBkay1fM3hkVFZUd1dsYktUOHBuVGNRYUVhSS1kSFpXQmZHTnpoU2R4S0xuYVlBYk90bExzdlc3a04zTTh1aE9nR3ZCQThvejk1QjZEYU9TN2FvdXVMbC1PZENnV3VkN2pxQkNOVW84RzQ4OTFyb3NRNWtZd29kdXhiM1F5RTQwTy1ZWk5jYzFkQmh1U2ljanlBYlNFYXFyUUxWVkJFRG1YYW1oMUVWRXlVc1phRW5TWGpIWDZRS2lzZzhZOWkxMDVMZWtaMUd1NV9IQjN0Qw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T02:52:00+00:00",
+      "score": 47.29,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -296,24 +386,9 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNLUZNMTFLX2hZUnBBYnF1dmphZzJ3cTg1MERqNmJyT1JhZ0VOdWxLeDRpd0JnelQtNnROVXp3cmlkWTBVcWxPVEcyc2hNckhZaHRJVzhNRVhVc3FiejJETWp0eUNkM3EzYUhhOHFUMDFnQk5mY293dnNlbmpfWmlxVW5KaWJSLTVkbGswX2tENUF1cmVrWWVrSkpkU1Uyd2xwYTFrZC14eENaYUg4UllRdzhQRUo1ZzZrUjQ4eUhtNnlzcDltTGVZUlNTWThDMzlYX01IVm9QX2ktb2NQMXd4TnhRYXB6dnpqSk9OLUZRX3FpeDBVcDBoN3IweVEzOEcyWUVlYw?oc=5",
       "source": "senado.gob",
       "published_at": "2026-10-18T15:49:06+00:00",
-      "score": 50.42,
+      "score": 46.52,
       "corroborating_sources": [
         "senado.gob"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fbfdaeb916e0c913",
-      "title": "Un mundo que dialoga cada vez menos - Los Andes",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmI0Y3Ixd2g0LWxuVXU5SF9VMFVKcTlCVDg5bzZocjJWd1BobkhGOHlpbHF3ZGc2U1A5QkVUUVNQQzY3WThUMkplcG82bUJPSFdETUtobERqdk01SnlsN3JsSHo0Y2NIbl93R0dWZzBhYy1HcGR4cGpQS0xTMDFxaURhZ20xeGowZmc?oc=5",
-      "source": "Los Andes",
-      "published_at": "2026-10-19T03:00:00+00:00",
-      "score": 49.69,
-      "corroborating_sources": [
-        "Los Andes"
       ],
       "signals": {
         "source_count": 1,
@@ -326,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaG1HaFVXNUJVcE9fYUhrd1p0VTBnalp5cXd6RF90US1QYkl3RmRqQVI4M1d2VUJ5cmNScHJvMXJNS1dzM3hxUm5UQ1BLb1FSbVQxMnYwX0loOVdEbVZ5SG50OXFPcDV3SnlyZ0V6LVNkcTR0T3Y3NE1GMjQzMkVhY1hpamlhVzhuWGh1QTBxYUtTYjJnM1lmTm95Qkpwc0RJeXE3RldWYw?oc=5",
       "source": "ElBonaerense.news",
       "published_at": "2026-10-18T13:56:58+00:00",
-      "score": 49.41,
+      "score": 45.71,
       "corroborating_sources": [
         "ElBonaerense.news"
       ],
@@ -336,29 +411,14 @@
       }
     },
     {
-      "id": "1101d0f3967e94e4",
-      "title": "Reino Unido quiere bloquear el ingreso de Argentina a la OCDE - Tendencia de Noticias",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWw2SlhDb0x1QXgyQ0p0MWQ1RlVXb3V5VXNDM0l1OEVrYmI1T0R6NFN2bDlsczF0NHJ3UUNzaW1wRzc5RFIyd0k2LVFTTUcyUVJmdFJ0YnVaZUVQNDhCb1RiQ3B4cFJGZ2FiR1I5NGRmeHNSSlRXSW56UnJSSEE3YWpIaS1YNUEyejl6UHl5T2tOYlNtZmhQeFI3a3JFM0ZPcUtrbzlxSUpjRzQ?oc=5",
-      "source": "Tendencia de Noticias",
-      "published_at": "2026-10-19T01:41:00+00:00",
-      "score": 48.71,
+      "id": "cb78970bb2649c82",
+      "title": "Atos pró-Lula enchem pelo menos 16 cidades neste domingo - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME53V1luS1Zhb05BZFl0X1FmTVhKUk1nYzJpZ0dudGxaLTU0MHhFc2ROME1WbW9GQVdvRkVGNjdTMlZQb3U4R21vUTVkaTRSem1QOVlpMUt4N1R5NERiZHM2Tzc5V2xReU5abGlNUkZlTnRRZkNDOXdYUWRyRjFfZGl5SEJIektvYVBtaG1udEk4SDNrcE5CNlRZZW1CN3l2bzdIQ1JBa3o?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-18T23:39:53+00:00",
+      "score": 45.43,
       "corroborating_sources": [
-        "Tendencia de Noticias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "faa9fdf1943d2a91",
-      "title": "Milei desembarca en España para reforzar su alianza con la derecha europea - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX1RBQlNjSlFJZ0xRZUszcXRIcVIzQ0FlM1lVXzBIYnNYUDVnR1FtTUZYNnRfTWtZOC1rbWRiMFl6cWNTMG5uR0ZSM3FWLVA4OXA1UmJCdk9JUjZuZXBjVFVIajV4Ynd1Y3VzZHBBM3Y4d0Fqalo2RnhJdkRzQzhZLVA5dk5MbHFPMjdTa0tfSFVyWVpSRlRfUVFOeHJrRmJvV1REYjlJTm1vbG0yU1U2UHRvSjBVcmFQWWRITTNldkhhX0ZZVHFVaVZ3VVl5dDI0c0hoeGVwdjNqcFpvN2VFN2owdVFXUWN4MFdQU19YbF9LV3pWc0RKMW130gH_AUFVX3lxTE12VG5fbk43a0VFby1HMGRzeWF5TDBESzlIWHdsRGdhT0dZQVZUTFlINWhkSnNMcTJqUjAwWFVjR2tMMEJUcWpVYlUtb0daVWw0OUFBYk5UcDh1a2FfMzBISThKYU1kaFUwUUx5Q0E1LW82dGlka0FYQTI5MUJXNC01eXlrOGY1b1FHblQ5ZHI1ck0wWmhfRTY4aWVFRDZHS3c0UUhucUxpZ3hGbUo3Q1J4SDNzd3J2aWNYb2w1OVVxYlJobXB1RF93NUI0cGhnM2hLM2IwaVhIRHc5ekUxVGtvandjREEycmhUUDA1dDExRDdlN0RyeGJzcVR3MzJIbw?oc=5",
-      "source": "Perfil",
-      "published_at": "2026-10-19T01:20:53+00:00",
-      "score": 48.47,
-      "corroborating_sources": [
-        "Perfil"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -371,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWMzSW02cDdvV3pqUWJMcmtIdnBCRmJKMFdtcFhjOHNRLVlLQW95MTl4SXctR0djT2ZCTWNST2JJUHlBUEpTYW4yNGdoTzBYVXJ4akRRQXFZenBNdmVtdkNlY1VtYzlKVFY3NnJ3T1NxZm9JMTJlNnNQNFJmZUU2d3FaekloUnFRSElxOVNqXzVMMU5RaFh0d0ZrNlZkRllXQWt6SENkVmVGWm8?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-18T05:00:00+00:00",
-      "score": 48.24,
+      "score": 45.36,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -381,74 +441,14 @@
       }
     },
     {
-      "id": "4b624450446fcc12",
-      "title": "Bloco do 22: Veja imagens da manifestação convocada por Flávio Bolsonaro e aliados - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmJ4TExmR21mSm9hdDQ5U2hpcEc5MlZJOXFvTmtZa2c0YUM0X2plRkt4M3pfM2twWmYtOWF2SC1MaUdSaDZ3UWdBdDNZYmNvaXZGRk5CekN4XzRPU0NoOThHMUNZanlGWnVNcE1SelVHWEpicW5QdlVkcDRkajdfVEt3MlVPZ2loOG4tMlpEc29UaThUSlB3Skh4ZEVPS29fZ2FLZA?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-18T18:05:41+00:00",
-      "score": 46.72,
+      "id": "fbfdaeb916e0c913",
+      "title": "Un mundo que dialoga cada vez menos - Los Andes",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmI0Y3Ixd2g0LWxuVXU5SF9VMFVKcTlCVDg5bzZocjJWd1BobkhGOHlpbHF3ZGc2U1A5QkVUUVNQQzY3WThUMkplcG82bUJPSFdETUtobERqdk01SnlsN3JsSHo0Y2NIbl93R0dWZzBhYy1HcGR4cGpQS0xTMDFxaURhZ20xeGowZmc?oc=5",
+      "source": "Los Andes",
+      "published_at": "2026-10-19T03:00:00+00:00",
+      "score": 44.37,
       "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c52e597e3e8def1f",
-      "title": "Amiga de Lulinha afirma que quer fazer delação premiada e chama presidente de mentiroso - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNclFJYTFkMlBzVXFULUk3RFRoSjNMbnZ0MXQ1N1h4V0FSWVBMU1hLOEVQU1ZRQjlocWI4LUJpYlBXcWY0QWIzWURfcXNDckxNNHlCSThTVmlhb1g4cFVVakRQdmpNXzJWNmlWZXNRZkNOR3l1MU9yc0QyYy1lbmZtbXdwQUt1UjFmSXk4Mm5TNWpldGFlTThJdWd3dVl6VkVOaTJCTzhTbjlHa05QX25aTHFKbkhST01pY19ZUHhFUGtOZkVabVNHUDJHZWNKN1FlT0dZ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T23:43:00+00:00",
-      "score": 46.23,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "11b9e2ed9049b2f9",
-      "title": "Saiba quais MEIs poderão ter a dívida perdoada pelo governo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHE1d2w3Q1VBZGdRWk9pdTJUQVVocnFjMnpINC0zMU9BX2xXaWc2RlFEWWpvaVNjSEJUazdYdWZHam9ORnlIYzVaTjBUWlNjaFNUNGkxZHF3aW9lZFUyTllWazY5Rk9YdTIwTUY2bUd5ODZPc3JSbC1ldFFNOXBtdWhFSERYOFFvTTY2UVRqb3ZjSVBLTEREajdUYkJUdXQtbmZEMA?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-17T19:56:31+00:00",
-      "score": 44.96,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "90f1f6252a74d287",
-      "title": "Bolivia y Chile acuerdan reactivar el cruce ferroviario Avaroa-Ollagüe - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeW5VeUMyTjM3VnRxTnVIc1J2VWczb0pJSzFXX1dPclB4QTV1VWlTbFZpT1Q4dk4tWUF0Q1Q0ZVJaa3NndkxxcWlqdXJlSF96N29UazNOXzMtaDV4dnl4NjJLUW9DSGRpRmdSakVfdHlRQWZ1cDZudHBnZzNxcU1uUldNWWF3UDFiZFIyT0lkQkZZajlqcElrd2FCQ0h5RGI3Mjhyb2pCdUNNbnRWdFE?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-18T19:13:31+00:00",
-      "score": 44.4,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d3421ec2a74e7dc5",
-      "title": "Musk back in the spotlight, but politics dims the awe - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRnJBbkM2TExubldQQUFHUGpBeHpHWGh5QmNETTIxbExONkVPbk9XajJOY2Jfb2toNWl1RURVMGtiMWlRWWd5Z2hRV0FxMnJVcm52QTdKSWFWaWZKRnNnYTJBN1dodW5MNFJsSlh3cl9OUmJBYzJlYWhwZTY3d0xzSkoyTmNhbkxJSVhjRlV6M3pqMGs?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-18T01:27:00+00:00",
-      "score": 43.86,
-      "corroborating_sources": [
-        "The Japan Times"
+        "Los Andes"
       ],
       "signals": {
         "source_count": 1,
