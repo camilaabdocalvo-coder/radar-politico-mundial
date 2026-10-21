@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T20:12:32.495294+00:00",
-  "next_update_expected_at": "2026-10-22T00:12:32.495294+00:00",
+  "generated_at": "2026-10-21T23:24:20.362606+00:00",
+  "next_update_expected_at": "2026-10-22T03:24:20.362606+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,9 +11,54 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHFqVzFSUjRqYUxRbXNYeHBiV050N1VZdkFxdEpvQUJaaUdsSFJ0WGl0UnVBVDVURm9saWZMM1ZfUVhOVnJCcUpHUHlRRTJrTjV0ak1VcjJ2N21YYlJjYjY5U3FJLUx3TDZpTm41TFJQWm9JRm5WOG5TTkRYVmlYSmZjay1WbktCSnUyRTMzanpOdE5NVDFTZGFvVDV6Y2lsZDBjUG5SR1dGNDQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-21T16:36:21+00:00",
-      "score": 82.19,
+      "score": 78.73,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3c5accf236f0ff70",
+      "title": "In Trump’s world of international diplomacy, insults are a one-way street - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0lBM3R5SEY5S0ZEc1QyMTN1Nk1RaFZGSVdnWXp1Z01UTncydzlDYy1iMXJDREd5Q2l6OU5tMGNxNER6ajRjQ1JPaXpGNEZFa2NTT0wzaUluZDZ6R21tdFBoTzBFZzFEQmdUeEhlTUREV0J4TlhtcWtfTVlxV3Y2aWpnRXV5c3RGRVB0Nm1nUnNkb3h3bThfX2haaFBvMS1UVjd2R25pQlRKdDE0QXhyM2dzZ0ZGdE41bXFOLXBDODczeDg5OEFGbEVn?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-21T22:45:00+00:00",
+      "score": 74.66,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fd3d9b1db50ec68f",
+      "title": "El Observatorio de Política Internacional de la UP impulsará la prospectiva global mexicana - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3RKN09oVkRMdGh4bnFsT3NwUWhWS3MzRWxqV1Y2ckxMR1dQZHdJS1Z5cWp1MHh1T0gtTDNiNjhzUGUwbzUtODBiZTBfUFZWY0l3NXNNZGtqWnFnTGpWME5paU5GLXR1UEZ5cms4aDFzcHJmTi1DZVA4Sm5oeGJZQnROM0R4VHFTZFhlN3JNcFVCXzB3TEpRYXdQNnRubEJvNDlBOXRuQ1hkZw?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-10-21T22:12:58+00:00",
+      "score": 74.01,
+      "corroborating_sources": [
+        "Yahoo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "95f1e1014df51a66",
+      "title": "Diplomáticos cuestionan el uso de Sánchez de la política exterior en su operación frente a Milei - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vVkp0Snk0a3I3MjROZkNQeXlMa1lOeFFCLUpTVFNRaDVoNFQ5VDRTSVFzMWpiZmlybUwwZzRYLXRsSUctUEVMc0lmd1k4X0JYT0tTUW4tLUlkeDNQM2cySFhRaG1SUzM3ODlzc0pRRzM1T1pqblU3eC130gF6QVVfeXFMUFpmM3F6cF9wNUs5SzVEX0xJbVdXSzZYOVQycTMxM2kzWXBpSVpQVl8zXzBENHM3N3pGSHl6am0wdWtWYlpSdTdIVDNhcVhSU3hDck8wT0piZnIyVVVRbTdjeVV5TXRDLU0yYlUza3JBNVpFSWdxM1I3dHc?oc=5",
+      "source": "El Mundo",
+      "published_at": "2026-10-21T22:00:00+00:00",
+      "score": 73.75,
+      "corroborating_sources": [
+        "El Mundo"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS25QSUNVT2RxN0hrbUE5eHo3RUZVWUMwZE1zdmlfYm52bTVUWW1pY0ZzSnEzVnE5Sy13X0JKVnkyNVBubHdLcmx2OE5NZmFWR05pQ3RPMTNoalZnLU82V0k2OFhXYVk3NURnUncxa2hiMGtaR0RxZmxkR3piZ3RRc00tb0w3a0lqXzFwLVJkc3FCanpicFBPSXlNektPNEFHNml4SFNTdXgyUm9jaXJybXU5SFExN1pncVRqV2pwNjMzdHhscm11NTdMSlctZ0F2LUc4aGlNN0fSAd4BQVVfeXFMT0NOM2tZZmgyNnczSUFIeXhqUVpjbmt3MWVfbTFqeDk4eWhfQUhBSFB3M0NjRzRFeW5WSmlVa0lyRkYxWmNJbkVURDN4OUJHMlRlSUF1WFA5SGE5UFV0ck1wWWRCeEQ0MWxGSlZwWTVZY19IRTVIeHRTeW9wM2IydF9GSkp2b29Od21YeWlqQThnWWFaUDg1OUU2eHpXWGltVUN6cDd6Y1Q5a2g2dzQ3TVpvY1JGVWxsSnpMRmd4ekpYb0k5ZEIxNGxRUkRMWjZ0YmN0UWhYUGlCaDdyQXVB?oc=5",
       "source": "Urgente24",
       "published_at": "2026-10-21T15:21:00+00:00",
-      "score": 77.09,
+      "score": 73.75,
       "corroborating_sources": [
         "Corrientes Hoy",
         "Urgente24"
@@ -37,14 +82,14 @@
       }
     },
     {
-      "id": "421e2d61f3afc9ee",
-      "title": "Lula envia PEC para transporte gratuito ao Congresso - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWJNb3c2ZnUzRjFNWXBFR3hObnZJQkxlNFBRMlpFWERlTXVSQ0pqUy02UExRc1ZDUnlMc01nSGx2d1Q1Qkp4M1JxWkVMcDI0UWhOck5yaHNFOGtjZHk3UjV4LXNLRlNNZGFfaXJuZy1tRUJ4bjJXSm01Ml9MUWlBaHBwZ3NtM25uYVdsSVd3NUFITTJhRzZMaXM4TQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-21T17:35:17+00:00",
-      "score": 75.32,
+      "id": "056ba50cef2b41cd",
+      "title": "Programa e-Cidadania - Evento Interativo - Senado Federal",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40empjWEtfLVNRT3NtWDYtTlBUdmQyU1lrYkYxWk9GZzJBUXUxbUkxNVM0VTRaNWZRSVdESmVaWWNYQ2hjLXRrTTdCNWhBa2RXNmtWb2xvRUw0ZUgteHhFekEweTdvWlk5eFNUSVpRQzVOSHJzamR3Yw?oc=5",
+      "source": "Senado Federal",
+      "published_at": "2026-10-21T21:32:30+00:00",
+      "score": 73.21,
       "corroborating_sources": [
-        "Poder360"
+        "Senado Federal"
       ],
       "signals": {
         "source_count": 1,
@@ -52,14 +97,29 @@
       }
     },
     {
-      "id": "056ba50cef2b41cd",
-      "title": "Programa e-Cidadania - Evento Interativo - Senado Federal",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40empjWEtfLVNRT3NtWDYtTlBUdmQyU1lrYkYxWk9GZzJBUXUxbUkxNVM0VTRaNWZRSVdESmVaWWNYQ2hjLXRrTTdCNWhBa2RXNmtWb2xvRUw0ZUgteHhFekEweTdvWlk5eFNUSVpRQzVOSHJzamR3Yw?oc=5",
-      "source": "Senado Federal",
-      "published_at": "2026-10-21T18:30:38+00:00",
-      "score": 73.4,
+      "id": "9d5644ebad709d32",
+      "title": "O que acontece no Itamaraty se Flávio e Eduardo Bolsonaro repetirem expurgos de Trump na diplomacia? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdUNHa1QtZXdlSm5TdzRRLUw4ZHFLZFFybC1iYURVOXowTjJJdGdKbE5rTGd1UEsxMXg3d1g3LVUwb0ZwRHRsaXkxMWs2MzRkT0JLZndXaUdsdnhOQ3c5Uk1yR1AxU1N6dXlPNld5VFpjN1VTT2tlV2dockR5RlFlRVBMUk5aa0lDc2RMZ1NCM2lwV2lmNVp1UFIyVDdJMmlwc1lOU2VaNGZCVEhtTWQwQVc5Q2ZBZ0owejJ0WVE5bDZ4YmpJRk5heU93ZDIwVFZRV0pTMmJOUlpnWE1jcHI3UU5XNFFMM2RnRHJUOU1jdzbSAfYBQVVfeXFMTlRVdjYzTWY1VEViTmFNR24wRUdRd1djZUVRa3FOb1NfSExqNG1jZGwzazQwc0lBWjhTclhfZVEyQklLdy1ZR3FqT1hqaFkxd0FoYW5WaG5lbWViSGl5NS1hYVY3WDhUTW9aaWJRQ21lVVRsWm1fVkxDN1RTTDRmRXh0R2hMRkxUcnc4WFRUNjRMSXRUWEFtMHJQSC1mYU8tUkdQUnpSTnRBdWIwTEdxYlBnc19RbUFhNGFIamlUMHlTYW1VMTluMFBxSXFiQklNS2xGNmZMTjdfcENlVVNPV3M0UGJnREUySVY3aHN0TTcya1E3UWtB?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "score": 72.57,
       "corroborating_sources": [
-        "Senado Federal"
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "421e2d61f3afc9ee",
+      "title": "Lula envia PEC para transporte gratuito ao Congresso - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWJNb3c2ZnUzRjFNWXBFR3hObnZJQkxlNFBRMlpFWERlTXVSQ0pqUy02UExRc1ZDUnlMc01nSGx2d1Q1Qkp4M1JxWkVMcDI0UWhOck5yaHNFOGtjZHk3UjV4LXNLRlNNZGFfaXJuZy1tRUJ4bjJXSm01Ml9MUWlBaHBwZ3NtM25uYVdsSVd3NUFITTJhRzZMaXM4TQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-21T17:35:17+00:00",
+      "score": 71.76,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -72,9 +132,24 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUk5V0ZNS3VNLWdwc2RicXJ3ZVh3MW5nQ1ZXQ2tJZjFfcGFRZU0talEzSnQ2MXFZandvcDRTaUYtYmJuM2VibGpmZUxyajNhMjdVeWl2cVZJNGtvNE5KNWU0UVNsMk94ODlxVU9FOHAzem9oOGFXN3J5WFROdDBfSkh6eDdMYVdJbHpSZDZDOEFHaWUwdDdvSXdJbW5sUdIBpgFBVV95cUxQd01hTkNvbktIY1lKQVVhc01ONnB6SUNnOFBoajhMMVZ1bWd3TUxMUWhsU2dpSVZjbUVLbW5sRDF4eWNqUW1TSFlZQ3N3TWE2YW1rSlRraTloWFBwSm8wTVFQMW5ZZDBadWlTNnZENGNvUVNKUENRM3JCcDNtUHVjRnVWTVU3TFlhNjcySjNsS09kcnZJZC1xTHNQY25LS0Q0anNkdE1n?oc=5",
       "source": "Diplomacia Business",
       "published_at": "2026-10-21T08:00:37+00:00",
-      "score": 70.54,
+      "score": 67.82,
       "corroborating_sources": [
         "Diplomacia Business"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dbac3bca231c8d60",
+      "title": "Milei llama “dictador” a Pedro Sánchez durante visita a Madrid - Ahora Tabasco Noticias",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXZaS0JRNktVMUkweE41ZE1aamtQVHF4M1NPMFYzZHM5Rld2elpDYzhCRDFwSmtmQmI3alVzLTQ2cHl5NzQzWXMwNWZJa0xjRkh1RE83UTc0cm12aHJxY2xOVlowWlE5Yk5vc1NhTFdTNHFUTURDeHZ3ZmlvUmJ6QjBLN3FxaWtFcFBzdVozOA?oc=5",
+      "source": "Ahora Tabasco Noticias",
+      "published_at": "2026-10-21T22:44:56+00:00",
+      "score": 66.66,
+      "corroborating_sources": [
+        "Ahora Tabasco Noticias"
       ],
       "signals": {
         "source_count": 1,
@@ -87,9 +162,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck5oUFRmQkVmM0VfSnZOeDZTZmJhWVdJb3ZLWGFja1dleE43bFJuOUJrVEo2dFZDbldJUlo0RGZyUFFIbXFUMFZ0QXlQNFhJdVJKWmFyTy1XMF90M1F6cmlwMW41ZlY4R0xIdnR5MXpDM0FZQzhOWEJFWnFZZFJ5UElEVWUzaU1hcnZEWjQ4Wko1NDJlc19xazAxSFpxNlRlZmJHRUY4WTdUS2ljQ3lkVUhUbDM?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-21T10:27:52+00:00",
-      "score": 67.81,
+      "score": 64.89,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e2a0a8170ae024ae",
+      "title": "Convulsión social en Francia y Europa: descontento juvenil, costo de vida y los efectos de los conflictos globales - Diario San Rafael",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWDJoWHAwbDRqYjBXdXZwcWlvc0pWdGQ5QnhUaFduREFIYWJmdGQxZnhBSE93ZDNQUlBSRzlnY2hjOWdUd3c0cVYxelBjVlExLVhJNUNrWlBNOGk5Uy1CTnYyTHVsRU5GTV9vUkJiLXNqZ3BjSlYyd19Iek1YV0tIcXBkM3g2dmJRbG9ITjJaTzZ2UmlsOUlJSWQycnV6Uk9VbnpUdGJiT0tpd2cwOUVsdk5CTnZJU040bGl5Q2pyU0dXZDVmMFBpUlVTNmVtRGZDdjhVYm1BSUJhVThh?oc=5",
+      "source": "Diario San Rafael",
+      "published_at": "2026-10-21T21:13:00+00:00",
+      "score": 64.82,
+      "corroborating_sources": [
+        "Diario San Rafael"
       ],
       "signals": {
         "source_count": 1,
@@ -102,7 +192,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2ZuOTVQNTBaMlBiLWdnZ09XUGtQOVVFTWpCelI2ZVhSb1pqQzUwTnk2SHJtcUg1YXBqM2VDOGVlb0Z6NkNXcVR0NmRXQjBZSTBFUVdNN3ZLeEt5U3MzUnZ3VS01aWZ5OHRIS2oxcmRTY0pNRnpGTVJMSFFFMEZodDBVUUJsc3ZnMEVTbDg5Y1ViMzRjQnZoS3dWTm5FdWxoMDBVelZ2eXo3eGpXMEhHaC1KaGE4ak5w?oc=5",
       "source": "Le Grand Continent",
       "published_at": "2026-10-21T13:07:17+00:00",
-      "score": 67.43,
+      "score": 64.29,
       "corroborating_sources": [
         "Le Grand Continent"
       ],
@@ -117,7 +207,7 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORXgtMlNXeFNrTXQwdlQxOTVQVFBOY1RwSGhQQXlrUHZYUHRsOXNwUG4yNFZZYTh1U0pFbDhka2xVeFpjdW02TzFSaXY5UU5BUDJtdDdrX1Rka0hCYTRnTUo5cDMyU3lNeDNJUW1fbE8wdFFZeTJVV0EycnFJdW9NY3FXb0M3Rm9SXzBCSkZDRVBsSmpZV1lOei1oOHZyS1A4VHlUVWxfamVwWHRzbTUxNEZPLXB4T1BpNDZpVGhpWk1yWjlhaEgzenAxQXRMYWl3Wk1jRVdIc0ZDRExWNVl6dmo5OUxCSGRPZEpuSmFoV05rdjk0UDJqSFc2eGc?oc=5",
       "source": "Terra",
       "published_at": "2026-10-21T12:45:00+00:00",
-      "score": 67.06,
+      "score": 63.95,
       "corroborating_sources": [
         "Terra"
       ],
@@ -127,14 +217,29 @@
       }
     },
     {
-      "id": "2a92d7b5ba6ba511",
-      "title": "Lula mira aumento na rejeição de Flávio Bolsonaro na reta final com pressão por abertura de sigilo - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNjFEUy1XNXJuczhsdEJIYl9wT3lXR093bVpHWG1DZ2JiRTRnajRLMC14eTlSSVU1X2dTdEpvb1hCY1VydFVFWW40dzRGTldiOFh2M2VkUUtEWElmSzZxOXpuVmdZamFWS1lRV0g5a1NnNktuQnBkcnlzWXpJdlBqNk9BSTl1NndGVVpWLVNIdWNuNzZlRk8tSlpROVc2N3ZSS25QRGtBdW5wTm5BaWx5dlNmOXEwbTVsZG1sdmotdDdoZDRiYVB4d25JaFI3SDBhU19NazQxR3lLZzZsNDhtRHNB?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T16:00:00+00:00",
-      "score": 65.51,
+      "id": "b356f9394971ff5b",
+      "title": "Flávio Bolsonaro habría pagado US$ 200.000 a una empresa de IA: en RDC analizaron la denuncia por manipulación... - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcExxNWcxbjBYQ3FGMUFYTXg1NzgwNldwVGhrZ1lIbG44bzRONlZ2UlVRZ0ZTYkM5SFUyb3ZSdnFjRkJJMmFBM0Z4NE1RNFNhUGJxTkxjS3JEdDBIZjh6dEhWb2pTQ0MzVlJFVTNEcU5PM1FWRk5LV1VCbHFkdUl5TW9UTHdoVGV6YXl3VUJuRThlVkVzcEk5ZzRkZlZKbjBUSzBmUDBLTlFSaHBzb2FJalpzWDlEazFTZ1NGamNpb3RzZWZDcjB5X25La0VrbktXaURFSmlwLTQyeFllY1lPZUo4TGFqNTTSAewBQVVfeXFMTi1yVmhkWlVpT2d2TGx0VUZ0WnFTLUxNeURrU1MxV3ZvMW5zMGtzRnN1Q2xoRWFxTGxoeUE0cmlCVThzcXFLUkdELUY3NEg2Z0liMENDNEt1NnRXMEJpdkNSak1Ia3p4STN6OFNZQnByVGxCS3hVVXk1VXUySTdiLXNqdEtnNG96RmxWQkJXN21GNDE0b1lJS1diR05YMkRPVDhScXpaV19fMzJGTUMwUHE4NlhWRXlabmVfdDg2eGVsMmZiM2VuTTZ6ZllfalBSZ21lMzdnbnRIQ1EzOVpvbWlVZlFvWGwzRzd6LTg?oc=5",
+      "source": "Perfil",
+      "published_at": "2026-10-21T20:08:32+00:00",
+      "score": 63.58,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Perfil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a58a3b7444475689",
+      "title": "Especialistas da ONU veem restrições da Meta em eleições no Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTZBdjVLRjZ0Wms0QXVPOGh6enNQOGl4N05XTnVvVEpmbTFWYkpudzRUOHdWTkpGOHltQjR1VFB0WnIwNFFHeFR4dE1FTlFrdnhRQXB0ZXAyTFFIcTZZYk9OajFGeHd0SVpQWm11dWJsN0F1RTM2TUVacF9rdWJoUms1VDU1cmYzYTNGWEpJLTBjRERoTldOT2tzNjdCWjNaeERpZHRXRHlObVAtS281ZFRYQ09ndw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-21T16:50:22+00:00",
+      "score": 62.97,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -147,7 +252,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGRwbTlQSFNGcmI5aGIyZ2U4cmhqcGlHQXM5bi1DMFBBQUpTaENndlZvTm1SSHA4a3hFRFJPdHB4Q3NLQ09BUjBvXzBOeWhzVGpWSkc1T1lWZm5VSzUtNG56NVBoczhybW5QZmI0T2xsbVFlR29vdDBqUWlvQldienNJZDhGZjhVRVQydVVHLWZEU1R0UjZ2N1VEakw1c3pLd3U3TE1vSGpSQQ?oc=5",
       "source": "Radio Televisión Canaria",
       "published_at": "2026-10-21T10:59:58+00:00",
-      "score": 65.32,
+      "score": 62.36,
       "corroborating_sources": [
         "Radio Televisión Canaria"
       ],
@@ -157,29 +262,14 @@
       }
     },
     {
-      "id": "a7e29072925bc763",
-      "title": "Roger Waters ataca família Bolsonaro e convoca brasileiros a votar em Lula - UOL",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcks1ZnNrLXNtUHdpR1c1cFU3Q2sxQVRlZ0ZlQThNX0xOYWN4ZmtuQUtZTGMzTG40WkVHbUIwNkxPRHF3RS1nV3psV0FycDJkaHB1OWhMQ0k3WkFZWUZWNGZfVmQ2MzhvZjRIRExOZEZCUXM1M2RDcnM1SGtxa2JKdzEtWWdIMHNGYkI4UFlfd085NlBGTmtyN3l5OHFubGhyTW8yZG8yNVN1M0tsR2I3ZnBxa21aOXVzWGtNMmJNMnNEQzZjU3dLXw?oc=5",
-      "source": "UOL",
-      "published_at": "2026-10-21T12:58:30+00:00",
-      "score": 62.28,
+      "id": "2a92d7b5ba6ba511",
+      "title": "Lula mira aumento na rejeição de Flávio Bolsonaro na reta final com pressão por abertura de sigilo - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNjFEUy1XNXJuczhsdEJIYl9wT3lXR093bVpHWG1DZ2JiRTRnajRLMC14eTlSSVU1X2dTdEpvb1hCY1VydFVFWW40dzRGTldiOFh2M2VkUUtEWElmSzZxOXpuVmdZamFWS1lRV0g5a1NnNktuQnBkcnlzWXpJdlBqNk9BSTl1NndGVVpWLVNIdWNuNzZlRk8tSlpROVc2N3ZSS25QRGtBdW5wTm5BaWx5dlNmOXEwbTVsZG1sdmotdDdoZDRiYVB4d25JaFI3SDBhU19NazQxR3lLZzZsNDhtRHNB?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "score": 62.11,
       "corroborating_sources": [
-        "UOL"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "237caa497b0741de",
-      "title": "Putin permite retomar negociaciones con Ucrania con EU como mediador - El Informador",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVYzYTk3QjlYbDQ2a3FfeU5tWlVONkZ5ZHlMN2VwWVpPRW1nVjgybzZMQUlBU3l3UTVyZUQwcmYzdVlYOHVqNVd3YjI2MjhKZDQ4TlJrQVRhNnpReUlPNzJlWndVdEdPaVJzZHJOWkZZZDJkYnh2aGpWbGVqSXA2MWxtQ0c2NGZya0xTZkdUREY4TG91a3FudlFzeXJEcXNyNDRhTVg5VDRwTXQwWjNfb1BRblljeGxHa01oYkd3d1oxa2FpMUE?oc=5",
-      "source": "El Informador",
-      "published_at": "2026-10-21T15:44:41+00:00",
-      "score": 62.23,
-      "corroborating_sources": [
-        "El Informador"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -192,9 +282,54 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RQUFTcW10dGh5Z29KeXJHYkJ1aGZIMkYzY0dkRnZ6TXBPNjkyejhITWpuZjJDSGtxajNEODZNWFp3clNrcmx2VGFzSkloM2txX0gwdXNmNXhqbHpqTFcydWhra0h5R0hsTXF5UWMxYnNvWi14S0VkUlAtSUFDcHM?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-21T07:30:00+00:00",
-      "score": 62.09,
+      "score": 59.41,
       "corroborating_sources": [
         "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a7e29072925bc763",
+      "title": "Roger Waters ataca família Bolsonaro e convoca brasileiros a votar em Lula - UOL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcks1ZnNrLXNtUHdpR1c1cFU3Q2sxQVRlZ0ZlQThNX0xOYWN4ZmtuQUtZTGMzTG40WkVHbUIwNkxPRHF3RS1nV3psV0FycDJkaHB1OWhMQ0k3WkFZWUZWNGZfVmQ2MzhvZjRIRExOZEZCUXM1M2RDcnM1SGtxa2JKdzEtWWdIMHNGYkI4UFlfd085NlBGTmtyN3l5OHFubGhyTW8yZG8yNVN1M0tsR2I3ZnBxa21aOXVzWGtNMmJNMnNEQzZjU3dLXw?oc=5",
+      "source": "UOL",
+      "published_at": "2026-10-21T12:58:30+00:00",
+      "score": 59.16,
+      "corroborating_sources": [
+        "UOL"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d20842a798c9b97c",
+      "title": "Brasil elige entre ser una voz de referencia del Sur Global o la órbita de Trump - HolaNews",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnhYcEhKZ3BDYzdncFhhUDJKNWh6VzZPMlQ2bGNNU0xUSWdSR2h5ZHdZLTd4TE14VmQ5NW5qM2RHbHNWcG1HSC1wWldFWEswVFBjbHZtNUlia3NGTWVnazZfRk9Db2RUaE1naGJyZzVyU09Sa0RSY05Tb2FHVGU4QWFFdklpZjg2ZlFkTU5tVU1LVy1memRRWTNXZ0lfYlNuN3A2NA?oc=5",
+      "source": "HolaNews",
+      "published_at": "2026-10-21T15:45:43+00:00",
+      "score": 58.87,
+      "corroborating_sources": [
+        "HolaNews"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "237caa497b0741de",
+      "title": "Putin permite retomar negociaciones con Ucrania con EU como mediador - El Informador",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVYzYTk3QjlYbDQ2a3FfeU5tWlVONkZ5ZHlMN2VwWVpPRW1nVjgybzZMQUlBU3l3UTVyZUQwcmYzdVlYOHVqNVd3YjI2MjhKZDQ4TlJrQVRhNnpReUlPNzJlWndVdEdPaVJzZHJOWkZZZDJkYnh2aGpWbGVqSXA2MWxtQ0c2NGZya0xTZkdUREY4TG91a3FudlFzeXJEcXNyNDRhTVg5VDRwTXQwWjNfb1BRblljeGxHa01oYkd3d1oxa2FpMUE?oc=5",
+      "source": "El Informador",
+      "published_at": "2026-10-21T15:44:41+00:00",
+      "score": 58.85,
+      "corroborating_sources": [
+        "El Informador"
       ],
       "signals": {
         "source_count": 1,
@@ -207,7 +342,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kUXdhLUdRQWlrd2FMQ1pRZXpNalM0MVZRWVgta3pUTUtaZHZ0WlFIdXpFODA1YUdEaFo0TW5LVHpMVnVGQkdhQlgyUGVHdFllSWN6RnNmQnhOQ0lxMVRUTG5WLWx1V3ZmYlhsNUFYbm1mWWJkRnJMYWlEM18xQQ?oc=5",
       "source": "Agencia NOVA",
       "published_at": "2026-10-21T14:04:25+00:00",
-      "score": 60.43,
+      "score": 57.2,
       "corroborating_sources": [
         "Agencia NOVA"
       ],
@@ -222,39 +357,9 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZXliQ2dxcFc5YWVfX2ZPZ2tKYWd1QXUxWUVTZlRySW5mazBlak9KQVhaYWJKalA3NEZyQTVhWXV3ZjZEc0ZOYTV0Y0FFQXY0eHNhWkZsenRtd2YxTXhkU0lfNUdic1U4WGJQeDNYNzJGUVJiUVluYjFxSFhMcGRpTUt6Z3JtS25hQ1c5VWFTZThwZTVFQURaWWR0RjA2UDd5SVVYQlhMVkhYWEFYLWRPcjNUeWZ2eVNGa2l6bWkzNktIY1ZIX011WHdSLTVyNmpTcVFjbTF6SEIxbDYwLVVRZEYwbVdJUFBXNElz?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-10-21T13:24:36+00:00",
-      "score": 59.73,
+      "score": 56.57,
       "corroborating_sources": [
         "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "217c788b4ff05f0f",
-      "title": "Brasil elige entre ser una voz de referencia del Sur Global o la órbita de Trump - Proceso Digital",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWJRR2FNbzhzVWtxd0VkZDUtLXlOSUx0Qjh3SVcyTi1pOUdPNmQ3SFVtUktLNDhyNmVwX2dqU2RrdlVBSElXcnNueXQ2Z2twdHFIN1VuY041NnZpVVJrN19NVUl2bE5nRnJhX3lxNDBucTJsbkZmcXB6c0puMGtFYVpPUi15SjYtaWVCQlJFd2F2MnF5RGVzNDFjSDBhMVJWd1E?oc=5",
-      "source": "Proceso Digital",
-      "published_at": "2026-10-21T13:21:44+00:00",
-      "score": 59.68,
-      "corroborating_sources": [
-        "Proceso Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "922182cbc5598deb",
-      "title": "Brasil Político: O teatro das redes e a nudez dos números - Jornal SOL",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnNXbGhmQzVCaDlQZ3hPS3FoeHY3dWxxaDh4RGJ6UExLS05tSWd1WnI5Z1RSeUhDOEFtZDZBRFFRT3NVZDJwU2lUSHNzWWFHbU16QU42bnNoSDlNLVM4Nnk3aGZ2QXBpczB4a00xUDY1SnhpMV9KS3EtZ05fRjdpSHZWWUpyYWVMUXVOMkdEdmZKNzRkYUhEaFZKUHpjNDdkZ2pvS3k3UXhld0tFYTdkel9qOTZrRE9PNFhWdHZjSTZvNmFCdDVRWDBLT3NsNjFqczlaMDZMdw?oc=5",
-      "source": "Jornal SOL",
-      "published_at": "2026-10-21T12:58:26+00:00",
-      "score": 59.28,
-      "corroborating_sources": [
-        "Jornal SOL"
       ],
       "signals": {
         "source_count": 1,
@@ -267,7 +372,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2otaUV2VHdBVjFvbndhaDlSQldBNjlLVTg5NWxQV1M3M1l3YmMySUdwMVZBaTZZUlpzQ3NVck93TTRwOTF0QnhMckkwQWlnWVZHQnpCQjJxZ3NLdWdlLUJ6c2NRTk1TQy0wSHpEYmZ3dHdEVW1LVkhXRnNPaEMxMGZEZGVRYWZC?oc=5",
       "source": "The Japan Times",
       "published_at": "2026-10-21T03:35:00+00:00",
-      "score": 58.83,
+      "score": 56.42,
       "corroborating_sources": [
         "The Japan Times"
       ],
@@ -282,9 +387,24 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUdNcVg1WnRzNnNjbzJIcXhPOHVYSklvMkhqRDcxSFB0OFJyTGVKRUJYRllIN3g3MHBPN0VUVlRBOF9BaU5HeWFIelBxbzl5X3JVN3BTYTloaGp1ODdySWdUUDhGeUp4amYtN05CR3BBYm5JUkItaWg3bkZxNjNSWXNIdEFtcHZ6UjVmNTZBV3pYcGQzR2tkTUZTWkg?oc=5",
       "source": "La Nación",
       "published_at": "2026-10-21T03:15:00+00:00",
-      "score": 58.57,
+      "score": 56.18,
       "corroborating_sources": [
         "La Nación"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "922182cbc5598deb",
+      "title": "Brasil Político: O teatro das redes e a nudez dos números - Jornal SOL",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnNXbGhmQzVCaDlQZ3hPS3FoeHY3dWxxaDh4RGJ6UExLS05tSWd1WnI5Z1RSeUhDOEFtZDZBRFFRT3NVZDJwU2lUSHNzWWFHbU16QU42bnNoSDlNLVM4Nnk3aGZ2QXBpczB4a00xUDY1SnhpMV9KS3EtZ05fRjdpSHZWWUpyYWVMUXVOMkdEdmZKNzRkYUhEaFZKUHpjNDdkZ2pvS3k3UXhld0tFYTdkel9qOTZrRE9PNFhWdHZjSTZvNmFCdDVRWDBLT3NsNjFqczlaMDZMdw?oc=5",
+      "source": "Jornal SOL",
+      "published_at": "2026-10-21T12:58:26+00:00",
+      "score": 56.16,
+      "corroborating_sources": [
+        "Jornal SOL"
       ],
       "signals": {
         "source_count": 1,
@@ -297,7 +417,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSG9kUFlfTEN2ai1zMnN1WTJMM3I5aDhpbFR2R2VTV19Vc0F5aHlXaUttTnhjX29OS244LVJzaDVtNHhnelRfdVBKOU9kclBJQ2YxQk1lakhva0RiUThNUHFLcFBJU2g2bVNScWpBSG9qaVpoejR3Q1A5YWdpVHV1cWQ1X0hoc211aEFFbFkzVUpVcThqSVY3ekxR?oc=5",
       "source": "Canal C",
       "published_at": "2026-10-21T12:14:05+00:00",
-      "score": 58.54,
+      "score": 55.47,
       "corroborating_sources": [
         "Canal C"
       ],
@@ -312,24 +432,9 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaW1PRnFXZjFIR3FqeXJ6OERPTjFUcU9qM3VDNEw5RWhSVm5VdzJCczVja0ZJcXB0TFNYbGo5eTR1c0lPSHhlSDF0bk1lckJ5MlliczA4M0F3Y1k2MzNlT1VGYzlPMEsxcTlLSW1UT1BKZzZlTXVwSURFNkFWenFWenRTWUtGZ1pIUWlfcUpwczNRNm1JazVORnhma254T3RTUXFITmJYZThHWC1BblpscjRPQktBSk45SzhINFJLVTROMnA5alhhd2c5Rk7SAdIBQVVfeXFMUENZYkh6cjVLMENhcXlRV1AySGpXU1BHbDl0TlRybVZEYm80TGJDVE1DN19qQmNCRkNETFZ1b3g2RndneTRYb0JNTXRfNFpMVUxFaFB3dk1oNlNzV0hFa3V6QTNfN2JSSm1lZ2sxS28wcUlCM3d4ZHhTc2hzZVF4amNNRjlCY2czdFFjZFdSYXpFTE1GV2dnUkdlREg4ZUdoSURNQzNPN1Z5ZzZaRUxfWkREdDdocmM4dGI2WUtRbi1mZnF3T2pCWERiRnhNUnoxbVJR?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-21T08:30:00+00:00",
-      "score": 57.98,
+      "score": 55.22,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ca9da5d5e3ffaf80",
-      "title": "Opinião - Políticas e Justiça: Educar para o futuro é fortalecer a escola e a cidadania - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmMydVVnVDczelU2MWQwMTQ2TnBBdG8zQ2toeHhXWngwYkZpY2R0azdIN1RlOHFCVk9PNWtiZGdjVGpSNHZHb043V09ZZmFyTmE5bVlHWERtSTZkTmtreWhWM1VfcUwyWjZuMDU3aEdHV3RuZXdpOUJlcklfRmxjclRjeURLSk9tY0w1SmlQMURpLVVzZDAwVExGbVB2STlrVUx6MVRQbWk2SUlkUkJLV1RWVnlfWXRJY081TG9FT0VRc0I5?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "score": 56.66,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -342,112 +447,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFZYdEZoNTdoSnNlNmhoQndxVURFNWRhUjVzZ1MwVVNQbzdQTF9BeE11cHQzSG1ZLWYyTEI4N0puem5GWmgzZ0RQMnNXNE1Xa2FGeHVrd2l6YTMwNW1xUXpsTy1tLU5ISjlReTN3YS1aMGJIVHRJSW4xbWc5LW5fbG1VTmk0bmdvNlpnbTJNWHdRXzVSWFlBaGtaWEpRYTBpWmw4LTVkWTNraEtPTDNHWmwzVnZVVFNCSklBODFoSTVqTko5b0V6Y2tDdw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T07:00:00+00:00",
-      "score": 56.66,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "da3d9540d02bd291",
-      "title": "La mesa política del Gobierno nacional se reunió para revisar la agenda legislativa y la evolución del fenómeno El Niño - Aire de Santa Fe",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNemplTUpnQUM1b1FDZWhjZ3FxOGVSakdTWldhVG1wS3J0ZkZwcG5ET3A5aFlCejFDdWp5YlVGRi1LSEVhM3lJNWhiM0lfUHRVVGoxQ3dzaTJ4SFp5WUN4YURwZDIwYldQclFoT0NPS09seDJhT1RsWVI1X3ZWdkpQNWFQU0dTdXJTLXhEZVpnT21Rem0yel84WmNNcXg0SVM0TVVLVklWN2ZUN2JhaDBFYVlRYjJsajZRWFBkajlKZVhYNF9QLWFHaHZBd0Q5QzFjMDVLZFVRMDFnSV9OQ1Ria3NjcUpSMkJGdWJkYjZqVS14QU9KUUdB?oc=5",
-      "source": "Aire de Santa Fe",
-      "published_at": "2026-10-20T23:01:00+00:00",
-      "score": 55.45,
-      "corroborating_sources": [
-        "Aire de Santa Fe"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "142f2eeac854cfed",
-      "title": "EUA condiciona apoio financeiro à Argentina a país manter-se \"à direita\" - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFZwd3VXWjNkeXNkOE5kVFp2TEtWWU05dzFEOGtRNl9HeTNlR2p4a1pScjZMa3lPVVR2TloyNXoyekpWTmNUNXBkeWFXQUUxRmViMTRvMC1haUQwMEswMjhhRlZpcUtLTndFUE4yalpsVXJ3R1VDblBHV3lucTl2dDZ5MENxWng2UG5jaVVVQ2xGTHJScUFyVE1ScklnbG1oMjJCYmhB?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-21T05:13:00+00:00",
-      "score": 55.15,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "600c5ec133e77846",
-      "title": "Reunión de la Mesa Política en Casa Rosada para analizar la economía y la agenda legislativa - Canal 12 Web",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVi1NXzNqS1NuVm9rbTAtWG5GVklqQlBwZVJWTHlDMnVPT3Zfazk4ZmVlMUw3OFNqOTlFbHhrVlRtTktnNVQteFpINFJONy0yNGt3bW1VMHp3T21oZUltenVidzl3WWFYeEFsZExCN3Y5LW1udnFUeDhzaFJyTUt2Qi00ZGk2cnpZekdIcEFRQTRxR1JvTlV3VDNNaVc3SXItZTF2WGNSd0F5WXRteFJkS21EcE16YnM?oc=5",
-      "source": "Canal 12 Web",
-      "published_at": "2026-10-20T20:57:15+00:00",
-      "score": 54.06,
-      "corroborating_sources": [
-        "Canal 12 Web"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "73412b2c5d85f566",
-      "title": "La Mesa Política nacional analizó la agenda legislativa y la evolución de El Niño - Tiempo Sur",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHlESHNnTmNDa3F1UFhqSjdoanFmdmhCbEpKYXZTQmx3RTFjdTVUcVU4Q3dPTE1yRHBXQzZkdC12b1dQT1dVdndaTkNsZl9zSnZnSWduLTZBRHgtcDNVOGI3c2dMdDFIUVFRWkZ4VGVIZENwOGtKWDFwTXAxTUhyM3RzSW9hWl9DbFNVbE5xQzdrMldhS1RZTnpJOGNrVGp5NjZFUnVDR19pQWtJMFlnYUJtZnZGU250cGRyNU94aF_SAcYBQVVfeXFMT1dPYUp6bFpBSGs3Rk90VU9XQUw4UDRuc3Z0TTgwb193OElGc2drc2VJSFNKMmdOSkVJVWVYTDJuUmZGLV9tQzAxYTFTb3B5d0FNVGtLRklVODdtMmZGa0NNNG4tdzZud3F3dHdHUGllX2ctSWVoeUxBOGM0YVV2ZEhsVTIzRm1haU0xTlBrcmVGUGZ1YUU1b1JkSlJ1ZktHTVA1STAtRDExWXRZRURGSGtSWkhyekg2aXhqMmRiRmpuNnlQenpB?oc=5",
-      "source": "Tiempo Sur",
-      "published_at": "2026-10-20T20:30:00+00:00",
-      "score": 53.77,
-      "corroborating_sources": [
-        "Tiempo Sur"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4be78ba3ed7b0122",
-      "title": "El Gobierno reunió a la mesa política en la previa a una sesión clave en Diputados - Crónica",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDYwY2hxcE1tVGxkX1BkdXJKWEN0YUktNkprZmZZZlBJeV9HbXRwazVpNm1nb0hiVmNid0RWSGxxVUxpVk10LVg4U2N1ODFNMW5EQXF3RDJNbUljUWtRSllwYnBQcjFJRURQelNuTHlPdVBWMlloVFozTTZOMDdnRElXQlZSaXI1QlNDMUlFZnNwU0lHVXRPSnFHYUhTN2pOTEh3MW02dE5lWVdfMGFTdU9xX2pVYUw2ZzA40gHAAUFVX3lxTE1oR1lSVFY1MGREQVI2NHBhNXdlVHZ5VlYxWnNCMmtBR2pXVjBoT00zQWFndE5idi13Q285aERValI3UUxGajVDcXY3WHdWalVNRmpRUlJmcnhuWmhEaFBUNUFOUWx4QjZuczU5MjdKNnV6N3JtM195cS1PaVpEMy00ZkJLT0tnUFJRclhLVjdyaVQ0S19iSHpHWnFBc0FybzRhOTF6WmhoNjJFam5hWUVxVTZVOUZUMnVXVTFSYnlvZQ?oc=5",
-      "source": "Crónica",
-      "published_at": "2026-10-20T20:10:00+00:00",
-      "score": 53.55,
-      "corroborating_sources": [
-        "Crónica"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0403b8eb580c991e",
-      "title": "Karina Milei encabezó una reunión de la Mesa Política con foco en la economía, el Congreso y las inundaciones - Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVFUcnQ4alVDYkM0M1hRRlJqamVUMWY4THF2RUNSMUxGVVI5QWhkVlFqMWZ2TG9fWFkyRGpSaHFsWkZnU1dDT0dwU28tOUF3R2tWVEo2c0dOR1lYNElValV5cFR4V3dEOWs5UFdLaVRLdTdTTFR6ZGV2UG4xUlVjV0NXSXRTRWw4dS1BM2hvVXl4ZjEwWW1ib3JYVVlTenZ6UnVMMDB3YlVkOG5NazFlZ2h3eEtfTV9hcWVVbEJlM2hMUnl2eG1EZUFrbTIwSWdTa0hOQ2ZqZ1ZIT2NyeTdveERQWHZjVGVr0gHwAUFVX3lxTFBMZVF6OVV4RUxrQmtkRkdCWkFUN1EwUE9wbVVMZUpCbUxMcmRkeVlyZTQ4Z2dLS1dUYWtfbXI0cE9PSk5ObUxBQzM3LU1rOWpiV3lMaWNEem5QaTFjR29xbl9rSG1DQ05rZ1EtOHlLVFpaTS1rZUxmWVE0TE9HeXltQ1M1RmRkT09qNi1makhvWDcxNnN6N1ZaWlR1RVpSclBhRHoyQjNTNmMza2VhUER1am1vY0RITi1leGgwTGhJdU5NOFRJQVFUYmpNVk9mdWVkSVJBTUZZeGF4dGg3YmxRWUJING1ZcnJVMG1IczQyTw?oc=5",
-      "source": "Diario Río Negro",
-      "published_at": "2026-10-20T19:45:00+00:00",
-      "score": 53.29,
-      "corroborating_sources": [
-        "Diario Río Negro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "987352d63da75a9e",
-      "title": "Opinião: Ajuste fiscal requer liderança política e boa técnica - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmZxWnhGelppWTdfM3VmTFg4S0xwejRhYWFYdU82ZDlkVkxlVjFMY0xJMGlDa09JT1NiMXYwR1l2MW5RVmtJQVJQMHdLNE00RjlIXzlsMV9fcjNTdnpINUxtVHo0XzNVeUtFc2RHMDAwTXZ6SWo5c1RkRUkwRkVjN2JwNk44UUNwbWloUm5JcTB6QU5kQVRhak9PMFRUb0lwbVE4QnR3UjA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T14:37:00+00:00",
-      "score": 53.26,
+      "score": 54.01,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
