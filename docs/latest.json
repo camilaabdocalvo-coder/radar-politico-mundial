@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-10-20T23:12:19.435486+00:00",
-  "next_update_expected_at": "2026-10-21T03:12:19.435486+00:00",
+  "generated_at": "2026-10-21T04:55:35.833251+00:00",
+  "next_update_expected_at": "2026-10-21T08:55:35.833251+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "7c3a3331d90417cf",
+      "title": "French government to deploy troops and admits to failures over weekend unrest - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2otaUV2VHdBVjFvbndhaDlSQldBNjlLVTg5NWxQV1M3M1l3YmMySUdwMVZBaTZZUlpzQ3NVck93TTRwOTF0QnhMckkwQWlnWVZHQnpCQjJxZ3NLdWdlLUJ6c2NRTk1TQy0wSHpEYmZ3dHdEVW1LVkhXRnNPaEMxMGZEZGVRYWZC?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-10-21T03:35:00+00:00",
+      "score": 73.83,
+      "corroborating_sources": [
+        "The Japan Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "da3d9540d02bd291",
       "title": "La mesa política del Gobierno nacional se reunió para revisar la agenda legislativa y la evolución del fenómeno El Niño - Aire de Santa Fe",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNemplTUpnQUM1b1FDZWhjZ3FxOGVSakdTWldhVG1wS3J0ZkZwcG5ET3A5aFlCejFDdWp5YlVGRi1LSEVhM3lJNWhiM0lfUHRVVGoxQ3dzaTJ4SFp5WUN4YURwZDIwYldQclFoT0NPS09seDJhT1RsWVI1X3ZWdkpQNWFQU0dTdXJTLXhEZVpnT21Rem0yel84WmNNcXg0SVM0TVVLVklWN2ZUN2JhaDBFYVlRYjJsajZRWFBkajlKZVhYNF9QLWFHaHZBd0Q5QzFjMDVLZFVRMDFnSV9OQ1Ria3NjcUpSMkJGdWJkYjZqVS14QU9KUUdB?oc=5",
       "source": "Aire de Santa Fe",
       "published_at": "2026-10-20T23:01:00+00:00",
-      "score": 75.24,
+      "score": 68.66,
       "corroborating_sources": [
         "Aire de Santa Fe"
       ],
@@ -26,7 +41,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVi1NXzNqS1NuVm9rbTAtWG5GVklqQlBwZVJWTHlDMnVPT3Zfazk4ZmVlMUw3OFNqOTlFbHhrVlRtTktnNVQteFpINFJONy0yNGt3bW1VMHp3T21oZUltenVidzl3WWFYeEFsZExCN3Y5LW1udnFUeDhzaFJyTUt2Qi00ZGk2cnpZekdIcEFRQTRxR1JvTlV3VDNNaVc3SXItZTF2WGNSd0F5WXRteFJkS21EcE16YnM?oc=5",
       "source": "Canal 12 Web",
       "published_at": "2026-10-20T20:57:15+00:00",
-      "score": 72.75,
+      "score": 66.54,
       "corroborating_sources": [
         "Canal 12 Web"
       ],
@@ -41,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHBkLWtLeDFHU2Y2WmZxWUs0aE1RNDFDMnYxaGg3OTU0T1VXVThMc0IzOTBvRFpydXl2Z3RuNE81ZUlDNVNJOUYwem9KVTRIbTlQZXU4RTNiM01LOVZZcGVPZFVJS3J2bEV2eThvajB3QnRqM2hBSUpqdXAxOWFRdkl5SUp4eE55M1cwZW9xVFhveXJDWEtfdUVBakZtOEUxSUNIaEVMWXhZMDEzTzFDdFRwMWxkZTg5SXhhSUUzM0lUeTF0RmpucXJTY05fcXc5djkxNnh3U2xESWgzOFpFVzZZSTViU0VHUTZWWk1Gc0RPNWRVZ3c?oc=5",
       "source": "El Litoral",
       "published_at": "2026-10-20T20:47:39+00:00",
-      "score": 72.56,
+      "score": 66.38,
       "corroborating_sources": [
         "El Litoral"
       ],
@@ -56,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHlESHNnTmNDa3F1UFhqSjdoanFmdmhCbEpKYXZTQmx3RTFjdTVUcVU4Q3dPTE1yRHBXQzZkdC12b1dQT1dVdndaTkNsZl9zSnZnSWduLTZBRHgtcDNVOGI3c2dMdDFIUVFRWkZ4VGVIZENwOGtKWDFwTXAxTUhyM3RzSW9hWl9DbFNVbE5xQzdrMldhS1RZTnpJOGNrVGp5NjZFUnVDR19pQWtJMFlnYUJtZnZGU250cGRyNU94aF_SAcYBQVVfeXFMT1dPYUp6bFpBSGs3Rk90VU9XQUw4UDRuc3Z0TTgwb193OElGc2drc2VJSFNKMmdOSkVJVWVYTDJuUmZGLV9tQzAxYTFTb3B5d0FNVGtLRklVODdtMmZGa0NNNG4tdzZud3F3dHdHUGllX2ctSWVoeUxBOGM0YVV2ZEhsVTIzRm1haU0xTlBrcmVGUGZ1YUU1b1JkSlJ1ZktHTVA1STAtRDExWXRZRURGSGtSWkhyekg2aXhqMmRiRmpuNnlQenpB?oc=5",
       "source": "Tiempo Sur",
       "published_at": "2026-10-20T20:30:00+00:00",
-      "score": 72.22,
+      "score": 66.09,
       "corroborating_sources": [
         "Tiempo Sur"
       ],
@@ -71,7 +86,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDYwY2hxcE1tVGxkX1BkdXJKWEN0YUktNkprZmZZZlBJeV9HbXRwazVpNm1nb0hiVmNid0RWSGxxVUxpVk10LVg4U2N1ODFNMW5EQXF3RDJNbUljUWtRSllwYnBQcjFJRURQelNuTHlPdVBWMlloVFozTTZOMDdnRElXQlZSaXI1QlNDMUlFZnNwU0lHVXRPSnFHYUhTN2pOTEh3MW02dE5lWVdfMGFTdU9xX2pVYUw2ZzA40gHAAUFVX3lxTE1oR1lSVFY1MGREQVI2NHBhNXdlVHZ5VlYxWnNCMmtBR2pXVjBoT00zQWFndE5idi13Q285aERValI3UUxGajVDcXY3WHdWalVNRmpRUlJmcnhuWmhEaFBUNUFOUWx4QjZuczU5MjdKNnV6N3JtM195cS1PaVpEMy00ZkJLT0tnUFJRclhLVjdyaVQ0S19iSHpHWnFBc0FybzRhOTF6WmhoNjJFam5hWUVxVTZVOUZUMnVXVTFSYnlvZQ?oc=5",
       "source": "Crónica",
       "published_at": "2026-10-20T20:10:00+00:00",
-      "score": 71.83,
+      "score": 65.76,
       "corroborating_sources": [
         "Crónica"
       ],
@@ -81,14 +96,29 @@
       }
     },
     {
-      "id": "7004c67f83c9486a",
-      "title": "La Mesa Política analizó la situación económica y política internacional - Radionacional.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWU3MTdGcnZuSHdZQW0ySXhHVjktcy1zTUlacTl2c2V4QmJPa0VtdTNFTGdPajZXeURQZE5KM1FCYUFJT1dBakpyTkpJaURSZmRwVzFzMk9fdzJCc1l2alJZY253YnJvZnJsblE3RTEwU3JxTDR6eEt3eTJ1dVZ2VXdkNjNDVURTUXJnenRVeUdBd2FmZ3E4SDBJYlQ3YVN0ZEhhb21DSFdSQQ?oc=5",
-      "source": "Radionacional.com.ar",
-      "published_at": "2026-10-20T20:07:07+00:00",
-      "score": 71.78,
+      "id": "ca8d7b874770f4d2",
+      "title": "Vaca Muerta, entre el salto exportador y el interés internacional: qué dejó el día 2 de la AOG Patagonia 2026 - Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMGdWNmFPbUo0ekxlc1pwbjJVYkVBUGNvZnk4cGdwUC1iekNFNl9iN09mRGJzeC1jZ1FRSDBBRlpqNE9QTVFySVNwREFJcUJtR3J1NHVxUG1XZ0o2QTI4b2d1cWxGcVdqQVhfWUtObkNRMWlZT1ZHbmxPYkRKNDRXVG1vQ0F4ZXNPSG5waTZXZ2JvTnhVY1h2NGpLYjcxZkppTUV2SjJJS2c0SFJ1ek5ONnBFT1JGNUhSTGtlV2tEU0YxWGNEUEtmMWNCLVg2WlJDWVRYeUozcnFDQjJ6SXfSAeYBQVVfeXFMUENQc0c2RWY3eUg3eVNvTVIyaDB0Sk5fd2xGQ0Rrdk9ueGFLRWRzTkZlT2YtTHBRSW1QLTY4M09rWFlPMERZWnZHZ2ljSlpXZkdzQzNlTzEzZVYyM2J6RjZhdnY1ekpuOGFkOG15RlBfLTVPY0IxN1N1RFd4SlRWX2pvNk0wcTVxSUFieWFPelRVSEVIY2pEN21pN1NoM0VoUkRDd1ZETEU2WGtobHVwdTVseXI0Q0U2aHFlSGFWUFoyeWVXZk5mQjUyQ1lTdVdDeTVKM3pJaVRTYU90RUt2NUxXWElfVFE?oc=5",
+      "source": "Diario Río Negro",
+      "published_at": "2026-10-21T03:30:00+00:00",
+      "score": 65.73,
       "corroborating_sources": [
-        "Radionacional.com.ar"
+        "Diario Río Negro"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4308f9a4f08934df",
+      "title": "U.S. begins disclosing CIA interview reports from scrutiny of post-9/11 torture - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc3lCS2RNNlk4a0k5eExDV2JSUHVqVEROUWlfR1dnOWpmRF9POTh6NVdSMG1YQXdYeVVEa0lxbC00RTlrcC15RVlLTzdTbW0wa0w1OWE3S1VqQ05zZ0pCMWVjYzFSVEhOQThtRlRuMVpJSk1mUW0xUU9HUjlxWHZ3bGwzSDI4eEpFSnNvZDgyR2NwbzloeDZHUEZCUUhvUUFwQ3hZU2xxMVFJRkdxZUZFNmJSdVJNU0JCM25IYlhzSXlkQ0tmSVlyeHAtYTFYd0Voc1R3?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-21T03:25:44+00:00",
+      "score": 65.64,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORDB2TVFNSFNFVVpDaGNMNUlsZy02V0ZCREMxRDFWeUlzY3FZVFVDRG81V01MN0cyaGNHOG5Mckg5SGZ2UFRFenZTX0drVTZnc1Ffb2oxZTh2TTNzVWdKTWpaUU9XbllpX096Um1BbnpGVHQxQ243TW4ySkZZdkxmQ2s4MzFtLUw0ZDZtMko4Vjl3Z2VnNVRVZmp5ZXhKOXF1d29sZmw1TXJzOG1zZXhkOWdMdjBTN2c3eEpfQm91ajZGVzA3c3RudVFvU1luWmU1cVFUNWVSc2czemROVkFDLdIB5gFBVV95cUxNRFV4X21pRlFIaHg3WVowZUtjem9ZekFVa0MwVWtOcTVzckZjc1JaUkFVWXNXSWtkdGt6V3VuaFNmSlRrR1ZPa3ZLYW03YjF4NGswblNvM3RxbzlpaUhMbF9NWkozXzM3SzNhclhRRERNYk1vQ1ppZEJOalJqVndtZlBxY0VZX3NoNUxOQ29LQ1M1VjRHSEZ2ZE5Ydk5vOGVSZTRrVmlPVjdCX3ZmVGg1NGpONDQ1SGpYUTRvRlRuQnJ0TnJmaEhkMlB6dzBUcGV4X095VmN4Yld0RzdOS2dZTnN0QUp3Zw?oc=5",
       "source": "A24.com",
       "published_at": "2026-10-20T19:32:00+00:00",
-      "score": 71.11,
+      "score": 65.14,
       "corroborating_sources": [
         "A24.com"
       ],
@@ -116,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVZnZzRhdEg2VUJLaTJlRFVpV01VNlAzdDVXYUUteElZRGJLOUtzMkhHZzlOOHZTbnRDR19RV1RaZ3FnVlF5cTQxcWFmVTlsSlZlaTJxN2dMdUJKM053eUJPb2wtQ2cwMXRKbm5oRzU4cUVVV0VNa21GSklVc0Z4QUJSajljR2FDUWI4aG8wOVV2cFR5T2I4WVVKNTRUNGVyUUptMU13aVFITGJDdXc?oc=5",
       "source": "617 News",
       "published_at": "2026-10-20T19:21:57+00:00",
-      "score": 70.92,
+      "score": 64.98,
       "corroborating_sources": [
         "617 News"
       ],
@@ -131,54 +161,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0dXMXNhU3hTU20xTmVUX2JsRG9KaWRtSzBNcFZtMTdhNlhMMnhLNW5sczlqT0lST1hZbkNOM1Q3c3ZodFNqMzBJbUE1R2tlOUtfUmdDV0w5bUtMM1RyWmZCVkVfTElreEppQlppQ2xyaTc2ZGtKNWhzUTZ0TXRYOFp5SnFYT1FmTUNEbVFKUV9FeGZtdmhGbWp0YnNOVllyY2tYcjZTcmFOZlMxbzlzSndKZw?oc=5",
       "source": "Diplomatique",
       "published_at": "2026-10-20T18:44:22+00:00",
-      "score": 70.23,
+      "score": 64.39,
       "corroborating_sources": [
         "Diplomatique"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dde8910fe72d1177",
-      "title": "Lula pede ao TSE abertura de sigilos que poderia divulgar sem autorização - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHBZTUt4bGhtT0x1ZXo0Tng5ZlJ5TU51N2RPX0YyNDBKMkVRWVFKZzZabEdKLWFBeUFZUFNtTldZaFNKcjNOZUZGcjJtc0VNTDIxOU1RS0FvcWd4Ull4aFBib3VGNHY2M2RQaUZhcnZLa1lBTVhOUTNWejh4R2RrMktSOFBLcUZvRFhaWTMyLVZXVjg1UUxqeFQtenV3OEJ1WjJiUS1MLWhvenZlX2prNGtiaTBvUFU?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-20T22:56:19+00:00",
-      "score": 70.14,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "58d561ca5ba708bc",
-      "title": "Felca tem Título de Eleitor cancelado e não pode votar. Entenda o caso - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXZ4WEhsODVsR0s3VlhNa0J3Mll1cVFkM3Q2MFU4UXVEeExqOVdpaXdpSGdhLWNFWC1rVG5WNzNlTlBJR2hua3VOYkVnX0w4SlpKRUwtNzBUZUhKRVg5UEpYdHJuZ2hEb09tck41c2RwSFNYSjl5ajNTWjFFRFZvYXpTLU41X1VuVU5SVl9sdjZXM2NSRS0xY3RYb0xzR3ZTVU10SHdKWnFqcklDYnc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-20T22:48:00+00:00",
-      "score": 69.97,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3395a40ff1f876ff",
-      "title": "Albares, ministro de Exteriores: \"Son las elecciones más decisivas de nuestra historia, la extrema derecha quiere la involución\" - El HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeElYdjlkQTREZGRoWDNwSEdfWVR2OEhQNTcxWDhyTkhUWjVXdko0U05XWGM5aHlFNHlzZUtNenNlYzU0NmlLeDZXWHpOR202R215SnFmOEQ3aDVVWF9YTnZCcS1qN0V6aDZMUjNRQ2k4bGlyNWpTcjdFOEN3S1FaNV9MeVZacmxZYUU0dUgxczhsdnc2WmJRMW9wVTgwOFJRS25EU0wtcnNwa2xpQWx6aDZXeVRTYXAwdHJqandBNktvaDY4bV84SDZobjBCRTZ4YVVlek5oSHM4aDRyUDJzdl9MZ2V4N3JBN0hLQ0ZEWGPSAYQCQVVfeXFMTjhscDlPdFhmZjZZYlZYUXNZSmUzQVBLd1VYZDhHLUwyR1I0TWJ1aVR3am5SQlFIRDVyN1FtVkZva2RJRXFhWDdKVE9mNm44LW1oVEgxc3Vad0ZsUHNmekRPTmVpVjNOVFBJdWpEUGpEUGpkdldwTGQ3ZnNZS25sbzRLSDk3OThESzRXV2paNXhxVl9qZGltZ1ZnUkdlUlFXUTRqV1RmRVhOaHBZd19qNHotVWlYNmdLNHZNRXpxN2hmV2RrV0pTOVp6clo0azVQUzBrTzZXVWJ4OXVuLXNtdFFMZmpOZnJ3VVF6TlBBa20yUFlLdkxUSnkySElUbVFTNHdqTXM?oc=5",
-      "source": "El HuffPost",
-      "published_at": "2026-10-20T18:00:54+00:00",
-      "score": 69.43,
-      "corroborating_sources": [
-        "El HuffPost"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +176,39 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmZxWnhGelppWTdfM3VmTFg4S0xwejRhYWFYdU82ZDlkVkxlVjFMY0xJMGlDa09JT1NiMXYwR1l2MW5RVmtJQVJQMHdLNE00RjlIXzlsMV9fcjNTdnpINUxtVHo0XzNVeUtFc2RHMDAwTXZ6SWo5c1RkRUkwRkVjN2JwNk44UUNwbWloUm5JcTB6QU5kQVRhak9PMFRUb0lwbVE4QnR3UjA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-20T14:37:00+00:00",
-      "score": 68.93,
+      "score": 63.72,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3395a40ff1f876ff",
+      "title": "Albares, ministro de Exteriores: \"Son las elecciones más decisivas de nuestra historia, la extrema derecha quiere la involución\" - El HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeElYdjlkQTREZGRoWDNwSEdfWVR2OEhQNTcxWDhyTkhUWjVXdko0U05XWGM5aHlFNHlzZUtNenNlYzU0NmlLeDZXWHpOR202R215SnFmOEQ3aDVVWF9YTnZCcS1qN0V6aDZMUjNRQ2k4bGlyNWpTcjdFOEN3S1FaNV9MeVZacmxZYUU0dUgxczhsdnc2WmJRMW9wVTgwOFJRS25EU0wtcnNwa2xpQWx6aDZXeVRTYXAwdHJqandBNktvaDY4bV84SDZobjBCRTZ4YVVlek5oSHM4aDRyUDJzdl9MZ2V4N3JBN0hLQ0ZEWGPSAYQCQVVfeXFMTjhscDlPdFhmZjZZYlZYUXNZSmUzQVBLd1VYZDhHLUwyR1I0TWJ1aVR3am5SQlFIRDVyN1FtVkZva2RJRXFhWDdKVE9mNm44LW1oVEgxc3Vad0ZsUHNmekRPTmVpVjNOVFBJdWpEUGpEUGpkdldwTGQ3ZnNZS25sbzRLSDk3OThESzRXV2paNXhxVl9qZGltZ1ZnUkdlUlFXUTRqV1RmRVhOaHBZd19qNHotVWlYNmdLNHZNRXpxN2hmV2RrV0pTOVp6clo0azVQUzBrTzZXVWJ4OXVuLXNtdFFMZmpOZnJ3VVF6TlBBa20yUFlLdkxUSnkySElUbVFTNHdqTXM?oc=5",
+      "source": "El HuffPost",
+      "published_at": "2026-10-20T18:00:54+00:00",
+      "score": 63.71,
+      "corroborating_sources": [
+        "El HuffPost"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dde8910fe72d1177",
+      "title": "Lula pede ao TSE abertura de sigilos que poderia divulgar sem autorização - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHBZTUt4bGhtT0x1ZXo0Tng5ZlJ5TU51N2RPX0YyNDBKMkVRWVFKZzZabEdKLWFBeUFZUFNtTldZaFNKcjNOZUZGcjJtc0VNTDIxOU1RS0FvcWd4Ull4aFBib3VGNHY2M2RQaUZhcnZLa1lBTVhOUTNWejh4R2RrMktSOFBLcUZvRFhaWTMyLVZXVjg1UUxqeFQtenV3OEJ1WjJiUS1MLWhvenZlX2prNGtiaTBvUFU?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-20T22:56:19+00:00",
+      "score": 63.58,
+      "corroborating_sources": [
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLV8zTVBpS0JDQUNza201TTJlc0xlZ3JKMUtGdmlfNmFSTzZuWHVfclBBVDljdnB3QW14eWN1blViVE1PRXBReHQySkgzdUhtZWhFT1owQUUtSjdHTjF1QlVEQzRmTVF1N1lQVUt2UlVNRk5hTG9Ua3NHalVfYWNYaDhzaXp2aHk1dF9RVjJIaVpFVGh1UndSTFZ6SXNKbXNScEVxTTFqZGVFSG5xbVE?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-20T14:20:34+00:00",
-      "score": 68.66,
+      "score": 63.49,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -221,9 +236,24 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZGFkS2diSE1DV2hoUGpmZDladTdoelBUcVpfQzJwZFJadW5ka1hiZEg5dDRwQUR4NWNVY09OTlNHUnVGNkVBcEZCLUlfUmtwUHY3U2htQ1h1SnRqSUoxVmlvYUpLZDVUb0JtZ0E4MVdnVjlsTWRPT2NuMHZxUzF6TEZkd3NJalFGd1RnM1ZYNFZ2aTJYZmxuVGl0OVJxZm5JWVFtRTlURC01dmYxeEtGQkE3dXpNeGhNN3RqU1R5bEJWMWViOVF0eWw4cHU0SmhBa2FmczQ2RnJmTVo4eHM5eGZNNFI0VG93SmNWR3hHUFo1R05veHdoUUhqQTV5UGxReXhLR2VGMGRsQmdfa2c?oc=5",
       "source": "Ministerio de Relaciones Exteriores de Colombia",
       "published_at": "2026-10-20T16:50:47+00:00",
-      "score": 68.19,
+      "score": 62.65,
       "corroborating_sources": [
         "Ministerio de Relaciones Exteriores de Colombia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3adb7a83a7f6662c",
+      "title": "Tropa do Flávio cobra Rubel após vídeo de Nikolas perder áudio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVRIWXptNGVfd09rZFc2amk4Zm1KVEhHZHVyWnZBbkZwbjIxMjFTZEhRZUw2VUhlaUw1YzZLeV8xZjFYYjJhaGk3QTMxTkJIazA4RWRPdDBiWnFwa01DZkpYRkdLSFVYN29KVDR5TjBuV2xTT2l2WVl5OUZNMUVWQVdMcmY0c0NFaXFPZ2tiZEZWREdhVHpuRG5RNW1NM2NtUnRNYnU3akFCdUo5MDZwVQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-20T21:30:46+00:00",
+      "score": 62.1,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQald2dGtFbmpBdTRLdkpBZWE2aTVEbGFsa3VUMF9DcUI4RVNHNjNvampEc19ZRHplWVJpclU0b1V3dmkxbFRnSjJyZ3pseEttbUU0elhYbF9STHRsbHhZT2JiNld4aVZSSDdhakljQkxjUUY3WDYwNWo5X0VZdWpiSHFjQ3Rpc1pKYll4ZUFYWnQzckNuWnRHblhNcElQaG5NeGJnX3VMdXA2STkzZjVSb2NqT3NJYnRtazZaNUFDTVI4VVl1NFdlSF9oRG9TRW85ZDVvcDcyOGbSAd4BQVVfeXFMUDdyTlJsVFV4T2hfZUxNOXZBZHBEcVFhLWlNcEx5dUxlZE5jZG9SOE4zcjh3Rk5EUkxjdDZoYWNtdjV1SllVeDMwWWxwY0xlbFFhemNFTU8wcGRCeEsyZU5qLWJ1cFpOWDNPcndZd2VJMkhDMzk4aGZ2MURXUkxsTWQ5bFJkcVlvT3F6TWNjenRZMHJUdWJuRkE4MWtfOFRvMUg2S3hTRjBUanpic2YtQXRaZzZvbV9UY2o3SVVtQ1dMbEs3NDZCZHdZTzgxb0o1VXdhUkZwWmxqUTdlTU5B?oc=5",
       "source": "Teleprensa",
       "published_at": "2026-10-20T16:02:27+00:00",
-      "score": 67.36,
+      "score": 61.94,
       "corroborating_sources": [
         "Teleprensa"
       ],
@@ -246,14 +276,14 @@
       }
     },
     {
-      "id": "17040ca9b8a27376",
-      "title": "COP17 de Biodiversidad en Armenia: los hongos ganan terreno en la política global de biodiversidad - Ladera Sur",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWhJS0xDSXlnQXo4Zl9zZWVOSzl4ZHhtTmpZVFBTQWVVS0ZLOUF5ZlhHQW1Bdmd1aEZNRUZQNkJmYzdrSXNkZllyejJkOWt0U0NueWN5U2ZFX1U0eGZFUXlKcGUyUlZ4OHdvYkxEQ0lCY1hOaFhOTVJ5dFFybk9xQTZYQW85U2tjekRsWkk2SV96NHVubFJCQXNkdzRVYlZuclZLSmtoeFdreUdjMkNxVF9RaVQ4VGZRdXU2RzlpZXZmNmZvRmJpNg?oc=5",
-      "source": "Ladera Sur",
-      "published_at": "2026-10-20T13:37:33+00:00",
-      "score": 64.96,
+      "id": "6b7b3265a25aaebb",
+      "title": "SUS começa a ofertar nove medicamentos para o câncer em estreia de nova política; saiba quais são - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbW9TTW9GR2U0MzlROFNuTHp5aXhudl9wUU9ZZnNEYTRqX3dyLVVQR3NzbVgxLUtfekF0T1lDcFFFbkhnSjgtcjBEUkZlNEtTMzRoVF9xVU85REdDVy1raUpKam5DSDhla1RLakU0SjFkMnFZZWlYNzFYRHM2YmpjMXhvYmJZU19wT1BVdDBidXVzcWNFRkNXb2ZhWWNfbmZsQkRsTVJua1lVR3pxSXlReUFaZVhsR1lsQzBmNEJabHdYd21BSlcwbW5zTHlvbnZxZFBiYk1yZEFXN2p1Qk5adVIzR3kzS3A0eUQ5X2t3?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T11:47:00+00:00",
+      "score": 61.43,
       "corroborating_sources": [
-        "Ladera Sur"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -261,14 +291,14 @@
       }
     },
     {
-      "id": "6cbd1da7a5a96e02",
-      "title": "Encuentros. Milei orienta su agenda a afianzar vínculos con la derecha internacional - La Voz del Interior",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0VWWW50LU9Sc1haTjJaLWh5eDRBdXI3eWpZUkVpSWZTXzZ1R0xmREpoczJ6Qkc1QWZxX3dYTF9JNVB0ZHZ6NFFrNnlLc09FTXE2cHhOUVNjRzBZcF9XejNTOEdzX1Z0N3hOYzhnU1pUcGpVU0xjWUMyT2gzWW1BY1ltZlhicWszajhkVWI2U0pmX1pzQ05YVGtwajhWbUc4Z0NRUjNGeGI5ek5rYXYweXN3?oc=5",
-      "source": "La Voz del Interior",
-      "published_at": "2026-10-20T21:06:44+00:00",
-      "score": 64.93,
+      "id": "58d561ca5ba708bc",
+      "title": "Felca tem Título de Eleitor cancelado e não pode votar. Entenda o caso - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXZ4WEhsODVsR0s3VlhNa0J3Mll1cVFkM3Q2MFU4UXVEeExqOVdpaXdpSGdhLWNFWC1rVG5WNzNlTlBJR2hua3VOYkVnX0w4SlpKRUwtNzBUZUhKRVg5UEpYdHJuZ2hEb09tck41c2RwSFNYSjl5ajNTWjFFRFZvYXpTLU41X1VuVU5SVl9sdjZXM2NSRS0xY3RYb0xzR3ZTVU10SHdKWnFqcklDYnc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-20T19:35:00+00:00",
+      "score": 60.19,
       "corroborating_sources": [
-        "La Voz del Interior"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRDBXOS1Hb2FOSlRVZnZaR0t3anFkMlVvNzJ1RXpQaG9FcXlkZURpMng1c3luYkE3UG5EeHZYWDBBal9lTjNHX2lPa2ZfUzRzQ1pFY04yaWRUdUdtMjhkSXRINGFQUVo2WmVMTTBOMGQtTkdULTJlTzF2aDEwOVJ2UHlYZVR2VmJLQWZqT2dfem9jNXBTX29NNnIweTRBck85RkVCSE5WLXU4c1M0RnRfalVNLUowbEw5ZVdpMzd1WEVfYmFCTUE?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-10-20T10:02:00+00:00",
-      "score": 64.69,
+      "score": 60.1,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -291,14 +321,14 @@
       }
     },
     {
-      "id": "e5d0e0e354fd0802",
-      "title": "El Gobierno quiere acelerar los acuerdos electorales para suspender las PASO y busca avanzar con el proyecto de Discapacidad - TN",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOUppQUFENngyZzJZalNlcFF2ek5WNUk3VGl4RDhTajA1blNHVjJZeloyMWNLRmgyNVZqRzd2OFJPVzRyY2pEc253MVBYWE5vTFZDb0NXTkNDeHNLbXp5ZFFPVHgwejFwT1Q3MjJCc2lMUVdpSXpBeWktWU9EenAzdkZkMjhtdmdCd1g0X2NkR3RsLXp3Y2JCLVpLdS16RWIyaHFlSUF4cDFPREs2WkhCWk1rNHlFQnBEcWVEWV9fbkc0OTRNajk4cGZiN200NU9LUkJoZUpJSllVTVdreDBjaFRacTJYX0F4bWQ1UtIBgAJBVV95cUxNTkYtaXRIenZjeVFmaUR6LUo3M3FKZ2d3bkJ3ZkxvN2F2V1ZsZjFFTENEY05NTERENWNaMFFod09CalNRdE1TVVd4MVlZeEU0OUhXRTN6Y0JJY0MxY25jdzluMGNGWW1jMjkwMmVWVHV0SzlHNDJ4RHl0UXJ5cmdYeFRLWFNGZzVON2h4S3dWbDZ3M0NpYzlaMHNQN0VqNGZVdGduU3lTeHRDTFhPOUN1XzEzTFZTOGFZc1gydnJib1FzYjZzY3IzLWRQMmM4QTFZNVpoaUFiVXlhemwwYTZWU0FKRkw4N0lwRG1JVjhEMjg0WXEyaHJyQ1ZqY1dNbnNn?oc=5",
-      "source": "TN",
-      "published_at": "2026-10-20T19:57:50+00:00",
-      "score": 63.6,
+      "id": "17040ca9b8a27376",
+      "title": "COP17 de Biodiversidad en Armenia: los hongos ganan terreno en la política global de biodiversidad - Ladera Sur",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWhJS0xDSXlnQXo4Zl9zZWVOSzl4ZHhtTmpZVFBTQWVVS0ZLOUF5ZlhHQW1Bdmd1aEZNRUZQNkJmYzdrSXNkZllyejJkOWt0U0NueWN5U2ZFX1U0eGZFUXlKcGUyUlZ4OHdvYkxEQ0lCY1hOaFhOTVJ5dFFybk9xQTZYQW85U2tjekRsWkk2SV96NHVubFJCQXNkdzRVYlZuclZLSmtoeFdreUdjMkNxVF9RaVQ4VGZRdXU2RzlpZXZmNmZvRmJpNg?oc=5",
+      "source": "Ladera Sur",
+      "published_at": "2026-10-20T13:37:33+00:00",
+      "score": 59.9,
       "corroborating_sources": [
-        "TN"
+        "Ladera Sur"
       ],
       "signals": {
         "source_count": 1,
@@ -311,9 +341,24 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeW5Nc2R1b3FzM2pMNG1kS1F0cFdnQ05NejFtOGdLTm5FaDVDNnVfdTR6TnhXZ3RpWDk4S2hZSkk5ckVHcWN2OV9RYWRDSnE1UEZSNmlaaDVnQ1EtVy1hckJoYWpRbE1MVW9yMUQyMEVpRTJYZUtkckpQZ3g5QzZNQmpRSzg3LVBDLTNpa3ROOWN0ZHkySG5XM3dhWmdmeGxOY1JhbWN2MFF6b25YZ09CWm5vbVdJTHpkOHRsaGE4LWp0Y3Z6VWNWWXRMTUtRa1U2ZkZnSFZEX0pvWVdXSGV1czhRX1NJeUE4VzZYY05hS01Hc2hka1E?oc=5",
       "source": "Terra",
       "published_at": "2026-10-20T08:41:00+00:00",
-      "score": 63.54,
+      "score": 59.12,
       "corroborating_sources": [
         "Terra"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6cbd1da7a5a96e02",
+      "title": "Encuentros. Milei orienta su agenda a afianzar vínculos con la derecha internacional - La Voz del Interior",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0VWWW50LU9Sc1haTjJaLWh5eDRBdXI3eWpZUkVpSWZTXzZ1R0xmREpoczJ6Qkc1QWZxX3dYTF9JNVB0ZHZ6NFFrNnlLc09FTXE2cHhOUVNjRzBZcF9XejNTOEdzX1Z0N3hOYzhnU1pUcGpVU0xjWUMyT2gzWW1BY1ltZlhicWszajhkVWI2U0pmX1pzQ05YVGtwajhWbUc4Z0NRUjNGeGI5ek5rYXYweXN3?oc=5",
+      "source": "La Voz del Interior",
+      "published_at": "2026-10-20T21:06:44+00:00",
+      "score": 58.7,
+      "corroborating_sources": [
+        "La Voz del Interior"
       ],
       "signals": {
         "source_count": 1,
@@ -326,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSVhvNDMxMDJ4QmJrZlJqeGU1Rmp0OHZnS2pwSUNpb00zR0QtQU00S2l3bjRFejNNQnFaMmhKTTZnV21KZWhaWUFmSWxHaUZUSHQ4RGJ2YVlrU0pqcEIzLVJiZ0h4Ul9SSjk4MTZBQm5ucTk3RENBXzE3TFpLYzM3ZGx0TVRZdEd2OTlLUkd5bGlyTzhJSmZrc0hwcFYzUVVDVnl3TkhWdGs2STB2bEpFQ0FaQjZBN2JPYmxtNjRPcmwtQkdaZEpFVVBrbnF3M0hFdV9MU25ES2tOMDlDQXVsUGgwdWdaS3c4MWhEYTNR0gH2AUFVX3lxTE1mLVhoU196Z3JjaUlDU1REcDFtcDNUTG9DcVpPQmF4UVNCaXdYY3RtS2cybnI5WmZaRmdvZTl6a0VEY2ZJQWcyWW5WOUZnU1ZjRHhoQkJSWnB4X19JVEp6Q1ZsM2lyWGowTUdyV2hmYU9SX1VreUdWR0I2dkhVaFc4cmVLTEc0QVBWN1g0dWFfNGdJVnlWTTRvb2tLX2t1ZEJqZ1Rhci1TTXNnOWpaQmJhVkxxcE5Sb2lxa2o0SmFJY3drX0RRQkhIMHM5NFFBZWZxaHZSaXVvRGpwLXVmYzIwcExIenFtOVdoU0JMbll0X3Z6bzFldw?oc=5",
       "source": "Diario Río Negro",
       "published_at": "2026-10-20T11:55:00+00:00",
-      "score": 63.36,
+      "score": 58.53,
       "corroborating_sources": [
         "Diario Río Negro"
       ],
@@ -341,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSnNRaENGT1RUVFBuenVpR3VRT2Q1SDFOWTk0SXlEbEFndFZ3LTR3NlVTbkphbHlKTWZLVTJoamtGOE9NZjFBSVNCd2tSSFplYlRRdnBXSUJKcm9FYmZlUWJNNUs2QzR6YWJpZGtYSjRDd3I1b2NqX3hzcmItTHJwVnhnTzZ6dGJ0M0o4SUlRLXoyZ1BqbXpvUDVHN19rby1ta2F2bkxQRVhfekNBLU1STVViQW1maHBGUHRLd3F1NFl3X3FDajJ4S2ljMVo2OGR2ZkHSAdcBQVVfeXFMTmFobWdSOVpmdFlYWTVwTkl2emk5Mkxpb2dfaE1xSkdObmcyZGZkeG5FdjFOQ0pzdi1TaGJNdmlWVnV4SGx1Sm5kcjdTQnhNWG90NGFRQTFKM0U2QVFWbWVaWXQyeGNYTzYzU19QWktnd2c3YldreUFkWFJMTEwyWXZ3TEVJN2V3Y2lJTENPd0RNQkVHUGRpSTJ4OXZKVUI2WEhBN3g4YWp1a25MY2I2dVRyNW11NF9odF9WMVh6elNKUmFDUTQ3T1FyWWZ4Y0x4TWRFakVCc2M?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-20T16:44:00+00:00",
-      "score": 63.07,
+      "score": 57.55,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -355,8 +400,8 @@
       "title": "POLITICO suma a Rebeca Fernández y Nacho Alarcón a su redacción - infoperiodistas",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHNIYW8zZ053eS13SGo0TG0xb0x1d0pnY1J6eW1GMEdWSEc0UVpSTFl6R1dQWGpzS1R4bFZSMk1weWFzRFhxTWZFRUhsdU5iMnlMYWtILVhaeWdIRXBOdDFBRlJKNDdTd3FFU21mcUU5SjRoUEdQX3d1M0lFM0t3OXg4ZlhjSndIeHJlQU1OX3hDMDRLU0d1TW1leEdRQWM5TVE?oc=5",
       "source": "infoperiodistas",
-      "published_at": "2026-10-20T19:23:11+00:00",
-      "score": 62.95,
+      "published_at": "2026-10-20T19:22:49+00:00",
+      "score": 56.99,
       "corroborating_sources": [
         "infoperiodistas"
       ],
@@ -371,9 +416,24 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeU1ZbHBQMEs3em43V2NYbTFTa1BYOEgxZk45Q2NKc3BhTHU4Tl9xelVGdHRNVzNVbU9CWTQ5OWZMVUZ0QlJkbi1odzdaLVJrSjdhUGhGRTAwdVo5NGxoWmJaUGZuMFpEeV9ZRW1kUTZBbFZjNzZ1b0M2cDFMWW9CZlJrY3h5UGliZ2hrM3pDdw?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-20T15:51:06+00:00",
-      "score": 62.16,
+      "score": 56.77,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "959e79f7ad201caf",
+      "title": "Vídeo \"mais importante\" de Nikolas traz nordestinos criticando Lula - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDBmOFZ2ekMxYjYtSUFucF92cjlpbVNCejA5TmNoSTFvYU1WZW5LT25fems0d2pJQkdRZ0tINWwtakkxSHNHM3lGcXNvMnVqWGp3c0Nab21zQ1J1cTRDbzB5UUd2VUd4VjRZRmx1d1FfeWU1djQ1TXUwN0lzb0FTQ2JlaUUzSGFQMFBselNxVk0tWGp4bWNpRDZwOWFnbzFtTDJuaUlFQXc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-20T15:07:00+00:00",
+      "score": 56.14,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -386,69 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnpCeFBJaFY2NVRTS0kxeFZrNXdRYTVLR1pLOG1YNEJyWF9lS0dLcjFUbTJaRzZOOHl2VkV4bTFNTUp3UzV6SjVEQV9heVc5V3Vyelo3b0pKcm9vUDdDM0ZIT09ZTU5lM3pnMENELTdMNnRGTFZFUUlvdVpRZmd3c0lRVEJDdGpMcDlWTjMtMGxjTE8tT1AzY3VZaWNneGpIX0tNeUt5czA?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-20T14:56:06+00:00",
-      "score": 61.24,
+      "score": 55.99,
       "corroborating_sources": [
         "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cdc1b9ffdc232a85",
-      "title": "Nikolas ergue \"caixão do PT\" com data do 2º turno em ato de Flávio no AM - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYzJ0SV9EaXd2WUZZTGYwbFQyMEFYa0NtWjhDN1NsWkFCUkVqUng1QjctS29TcVB4NkFJNDNGQUdieHk5UGxocmRtNHZFQUt2MmZJUTNab0ZKQWhzMlQtYkRsVFlnanV1dFprb1J4SEsySUhIcVFnMGFIM1hJYVlnSnpJb1Y2aEN1NFU5Q2dvYmNkM0l6UkVZQWdfaWV3RGtwWUxNVlRuQQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-20T14:14:00+00:00",
-      "score": 60.55,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a403401f394fe782",
-      "title": "Trump uses antisemitic slur to defend GOP Kansas senator - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtISGNfR1dGS0dGTm5XQzJoc0NiUG5XRHBJTFY3OUI1SWlFMDFPLWZRS1VTdllzX1VQN3ZEeUgxaW5iZUFsMHRGd0dPcWFrOFV2NEFnaG10dXNnUmRadHZfY3JyYUpwa2hlZUNzMkhnSlJLaVRjdGpzYUhSTFZVdFhCT2NoaExGR3JKTm1yYVd0SWNIM0NWcVhXZnJadGN6RG5QMjJVMmRabmxnR3JsMm0xbWhpUQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-20T16:14:56+00:00",
-      "score": 59.57,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a2a75a43c1160607",
-      "title": "Feministas são acusadas de destruir família que ajudaram a fortalecer, diz socióloga - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUjhnTUI0S1o0a281RVJsS2g3M0ZEWjRGQ1I4cFgwSGZQYnZFNnZTUjZnQTNzcmUybHRGRFpVUmZ3cXMyRnFabnJrakRNMjcyRjZEOGpXa2M5QXZkX0l6SEs3c2sybkwwcDlsY2hlbjZSNEJnaFBhUmpWU2phYUJ2VmtoZ3RGckt4b2NaVl94N3lHRUdtQXQzMF9FVnc0bXN2eGxZNko5d0o5azBpUGszU2wwaFdZazhvUkRSemowWVMxakx4SkdGQmp6b3RfZw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T13:00:00+00:00",
-      "score": 59.37,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d5e3071bf8eb639a",
-      "title": "Flávio tem 52% dos votos válidos contra 48% de Lula, diz pesquisa - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDlicW9NM0lYZFIxa3A1aHVGYjJGVE5PYXRBTkZRVEpaX210X3Q1OXdLMGNZbTdTOUlsS3BwVU1teGd2OW5HZlhXMV83a0ZiY2ZXWERqX2JMWGNuZFlYN0c4Y3pqY053RHFndFh0RTFkSVNwemJfQk0ySHY1NXJMczU5dzUtdW5ITGwxNHhEaGdISkN6YWVZTnA2d3hRNmpGaVJEMUNR?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-20T12:12:53+00:00",
-      "score": 58.64,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
