@@ -1,19 +1,50 @@
 {
-  "generated_at": "2026-10-22T20:10:40.091279+00:00",
-  "next_update_expected_at": "2026-10-23T00:10:40.091279+00:00",
+  "generated_at": "2026-10-22T23:25:51.654093+00:00",
+  "next_update_expected_at": "2026-10-23T03:25:51.654093+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
+      "id": "3dfde1714770b430",
+      "title": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 46% - G1",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYndlb0tHSDA2blp5R2FqXzJQak5nZE9wLVZGZWZ5emxEdVJZLVlNdDd0Y2RFYnp1UnA3RnNuMDdVWVptSlhOZ2dtMHpLSUtDUUpnNy1RY2gyVzQ3bkpNT20zMjJIUDFyMXJNVldEa2QtbFQzZFM0TGFvNHBoZndmQlBNUmlETWk5R1BjWW1FOUhJVGZyWlFGSU5RLTNJMG1ZUGI3dVlUYldvdHhWQ2Fla0YwYU5DX09ib1VRM3plR2ZFTkNSd3pYVW9BY09LZ9IB3AFBVV95cUxOU2dyS0hHU01ERWJDZmFKRUg0V0JIelZuYjNxeF9jZHAyUDUtUm5aeEtEMzRzMmR2QXowUGE4cml2Rml2TUdvWnRoZFhGc2xhWmt6bFFXQlJMQXVYU3N3TGZaeExUUWhWb1BtUVo0cUZJT3pCcXhmbFp5aVRKTTl3R0RtMF9JOXhIVEhSMjlZUXNTS3d5d1J0aURxWDVPVTA3Mk9wSDJiYU5FU2w1OVZMcXZObU5rdEM1WEI5R3dHQldVdzRwQ2xOdkhVd05wcGpKeW9sYXVmM2tPaUxp?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-22T22:04:58+00:00",
+      "score": 76.12,
+      "corroborating_sources": [
+        "Folha de S.Paulo",
+        "G1"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "f1e47c8dd7e93164",
       "title": "Disputa entre Lula e Flávio por abertura de sigilos pode continuar após a eleição - Brasil Paralelo",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRm00YjlWQkt5ODFKd1d5R1JNU1FibGNKcXd6Y2pJY1BrSHNRclY0R1JnWi1wWS1WRW5VRkhXVnh3TWVsNGh4ajRIQUdHc19JYnZncjROeVR4MERHS0h3WXJGdDI2V0V4QjNOMm8wdUJuMEVnV3ozelo0VzZZQjBNbDhxU1BaMlcxMnNRckdDNHE2VHNVZFN4NEl1QWVENlktVXdrTHNqMlJSRWlDanZldmdxLWxELThUMmZvLVAyOEFpZw?oc=5",
       "source": "Brasil Paralelo",
-      "published_at": "2026-10-22T18:11:15+00:00",
-      "score": 76.06,
+      "published_at": "2026-10-22T18:11:25+00:00",
+      "score": 72.38,
       "corroborating_sources": [
         "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d70d65532cde1601",
+      "title": "\"Not Just an Island: Why Geography Should Not Drive U.S. Taiwan Policy\" - by CWPs Thomas Christensen - Columbia-Harvard China and the World Program",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3cwTGNOVHc5bzlkcG8tYTZGdi1EdnZXM2dvbF9WdU9mU1dWb3daRkFSZjFxT2RCTzBqX0RGaG9XYm9XaTIwVHR0RXN3dTRDLUl2SVUwUWZoVHRobEtXNjBHRTNHekM3VWwxZkF4cTY2OVNSbU9yY2hpNFlzMG5jUDdiYVMzMlhZcTJzSXd2R2gtalo3Vy1BY1Q5Sll4QWM2b3YzOW9tVTZwRnhTVUxlbldncHRCM0tHVEFTdUJQRQ?oc=5",
+      "source": "Columbia-Harvard China and the World Program",
+      "published_at": "2026-10-22T20:18:50+00:00",
+      "score": 71.74,
+      "corroborating_sources": [
+        "Columbia-Harvard China and the World Program"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +57,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVZFSzY3dno2S3h6d3I0SXlldkdYYm1aQm92VzVHUWUzUEtCY3JEd192YmItM0lwUWlRODVCbHB6T1NweEVwS28xSHplaXlSUmxrc2U4ektYcVZsWFVZTXBtdzVZT0h3WmUxRS1jcUwzbkZFbjUxUUpSZTRUWWVDcWRucExCRTJOX2VRQll1WjlZUlo0eTlqVk1yZGN4WUpnUzZ1MlhDRmQ?oc=5",
       "source": "Universidad de Guadalajara (UDG)",
       "published_at": "2026-10-22T19:50:16+00:00",
-      "score": 75.05,
+      "score": 71.2,
       "corroborating_sources": [
         "Universidad de Guadalajara (UDG)"
       ],
@@ -41,7 +72,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdUptLUQ4aHdmU3YxQUZSMVhkcURZd3FNeWhuU0VJOThDeGtLMVpZMFJFVTl6b3V0WENacTNUWlEtaGZidWd3UE9tbGh4VzlQTUhabl9OWW95QkU4RldENVlYMVFlOGF4a0FlSXUwTTBkaVdySXhxT0lrb0RGOGViRjFfc2FFcGtsNExMRW8yQTZSaldrM0VIVTNVOFg0YjdJYWF2cjRDYi03UG4wWkxndFZjQm0xdC1lUHVubGo5TXNRZ0R2YXhZUnNILXlHcG9jSjJGdU1qdThNWXMyNmZlOFctZ2dNTzDSAewBQVVfeXFMTk5ZTzhFYXQxdnl6dmgxTG1Ud2hSNGtKamFTeW1qbU9xb3FkbmNadEpVT3p6QzZYU09TNl94dTAxTUxqS0NrRGpvbGJGbG9xZlRiTXUyb20tdmRPTkU0OHlKbUZDbW5yRkloRlFVMFNFUEJnaGNpU21Wd2xEN1RwT2RQZkhSaDhkWU5mVmFUVFZ1X2RNVXlQN2NhWDRMbzVWY2dYZkVLTF9yWnlUMmN5VzVjTG05SFdPTEMzdE9PVnoyNjVKbXVaUmxhWklGUHA0THFsRXYzNU80RDMyVnVIZkhEeWdpVE5zdHhsWmQ?oc=5",
       "source": "BOL",
       "published_at": "2026-10-22T19:02:29+00:00",
-      "score": 74.08,
+      "score": 70.31,
       "corroborating_sources": [
         "BOL"
       ],
@@ -56,7 +87,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVNfbVp0M0NDbHNLcUhJRFVrLUlESWhzNVRNZjJoQWExS2JIcGlfRnN1Zm5fbDBCODVzT2tnc0JwbE5GaGZBTDJpVk9iQUkyTTNZMm55ZkRmT3JnQmhNa3lkQmsyTHlTRENiNzVreXEwanRxNW50M0VHQ0xfSnFLM1o1YmdwTGxyNUJCRkE1cWdLUy1UMGFqbjVoUGZzaTMzbVpGUkUxd2oxeVk?oc=5",
       "source": "Globovisión",
       "published_at": "2026-10-22T16:29:27+00:00",
-      "score": 71.1,
+      "score": 67.59,
       "corroborating_sources": [
         "Globovisión"
       ],
@@ -71,9 +102,54 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcFdoeld3VmZWdVZjUXlOaktqWWVDLU9EMXlmWnJrWDZUSk80UXlxVUJYdEVKeUJJXzd4Z0xocXJib2ZUOUdGXzBTT1lwQTE5OF9vbzV0akNud1FINmdEeFF1ZGpDMW9uQnJydDJwN05GV0liWFg2c3ZfUDJXRmZILS1CRnlNRU9aSDdfZXYyYWQ0TWJXa25QLW5ic2R6Y09WSm5DZ1VqVmZncmJ5Z2hsckp1d3RvZG5DU3MzTzhMWkt1dlhrWTNybS1hTjFSd0wzMGdSb1JYR2hHSURORWdtNHFERGxacGl2dWo3UHdnVFgxUdIB-gFBVV95cUxQRmNhZElHMTg1Rnd0aG5MR1BMNVZWRTZ6R2gyY2x3Y1BUTEpaSEhHcExQbmdOQ1FoZEs0VVh1YUR4T0k5OUx2eEduLVhQcXE3azdLcldPY0FhNXJDajJnM0p5cHBEUTNWVzNVampDb3hKeU9PUWs4VjBIaDBLUi0yeFpYSzFiX2FjTFRTSWNpa1Fka1NOZlJ6QnpxajY2SE52Z2pfazVuOW1lcFRKLXhDcE9qVk42UnRPZklGbVA3eGVyWkhEcHRpS3JZNUMwdkJRX1dMVkhSamNMWWNucG5JMEc5YU8wRlc0cHJkMzE2T1lJRlUzQ3BsMUtB?oc=5",
       "source": "NDTV Profit",
       "published_at": "2026-10-22T16:06:30+00:00",
-      "score": 70.67,
+      "score": 67.19,
       "corroborating_sources": [
         "NDTV Profit"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2b4c1f6584b67b75",
+      "title": "Justice Dept. opens inquiry into Lewandowski - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXNQS1VpWDB2dF9uQlVvTlBmMU5kcFpOX21uaXNYYmtJVjlOeUJ1SWhJMHJTN19pN24tRUFqS1QtZXJPY1dJM0l3QWN6eHVLX3paMm81MHdjYjVaaGg3bUpmNXRKVzFlYmFkX1pXN2pzRWllNzJLdDB3WERPX0lGV1prdmlxOXVvU1R5Z09mNFBrUnliNzBxeXNod0M0c3k1c01BbQ?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-22T22:44:43+00:00",
+      "score": 66.63,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3932f412d9f20eaf",
+      "title": "Saiba como estão Lula e Flávio nas pesquisas a 3 dias da eleição - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUpjVTQ3eWNGdnBXY0p0MnlpSi1FT3ExWThZS1dlaENmVmp2VHBjSGZ6R2ltNzRtQ21sNXZHRUp3aEF6VVQwcU9heXpIN1N3eTV1SXlhSW1yWjA1LVZRZi05cmZ0aXZ4MG1HdDFDeVBQczJpbDJKb1BSWGdUT0dLZkFlRkpqYjBNUzFIQy1vZ1pNYlhldWt0Nm4zblJhR21sQ1FpQnI3c1hseVMwWGc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-22T10:32:05+00:00",
+      "score": 64.93,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "01c9d4d3fc98decb",
+      "title": "Mudar a hora? Optar pelo fuso horário único? Saiba como os países usam o relógio para fazer política - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmpvOHFzeTd2NW1HRFM2YkJoUnAyQ0RjVzczTENzeUNqODgtXzNaREVtOVlYbG1kV3Z3NElWcmctdVR6T3BTQlZoMENqV21idWx6c2JuRV9ZNGgzZWF3Qjh1YTdpWm9aY3oxZ0hIX0VzQlpnc1ptTm01Y0JveTFiM3RoY3R4YjNGME9tUzZpNng2b0Y4RFBqS0RvVkpXaEg2bGJPdUlVQkMtMGdVN3U0RXBlVTBGREdrZlBZ?oc=5",
+      "source": "Expresso",
+      "published_at": "2026-10-22T13:00:00+00:00",
+      "score": 64.16,
+      "corroborating_sources": [
+        "Expresso"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +162,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEQV9HUDBhQldzWjhZcWNBU3VERUFnc2FsLVVmbkFHdk93VDFJemJ2T3ViRF9ONFFaeU5UWlY1ek96b0Z2ODBGNnFDS0xmb0piOHVlYS1PRXZMdzBPWUxaaVpyd1lkSE1OWTRLRFg0UTg4S1U?oc=5",
       "source": "The Economist",
       "published_at": "2026-10-22T12:59:25+00:00",
-      "score": 67.33,
+      "score": 64.15,
       "corroborating_sources": [
         "The Economist"
       ],
@@ -101,24 +177,9 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVBPdnZrdEx3YUpOTXZEdWpxMkFnZXd3bkNUcnhVSzJsNjRGNG1BLWNrZjVHd2JWWVBmR21IUGY1N3RaRklnNlMxUTFxdFVNai1Qdk9fQm9pRi15eDhjcHNvNmxXZC1jVC0tR0h0a2dHUXhWZnNwNTR1RFE5amN2QTIyMFdkOXZRRWNneWRPb1NIWDNiMVpldUNoeXFCRjlTZllIZmhB?oc=5",
       "source": "CNN Brasil",
       "published_at": "2026-10-22T12:25:05+00:00",
-      "score": 66.75,
+      "score": 63.62,
       "corroborating_sources": [
         "CNN Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fc932faad99811c6",
-      "title": "Argentina lista como terroristas Cartel de Sinaloa, FARC-EP e ELN - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPam9zMldRdndTVFBOZE5rcUVlWkEydTdoRHJvV3pkazZ2SFc3RTVwR0ZDT2hLOW5kcDZZckliOWtTaWJrbEtmRGhWcmdUTWRSdXR6a3lkTkl4NF9LNXJxYVlobzdjOFJRa1g2WTk3b3pIY0Q4QkFLWV9BU3NhUHpNUGpzd1NsTVlTMlBlbTg0LUxzMFhuS3gzb1RjU0h6dGVxZzAtZDY2SWtlR2xjcFI1aklldDJzc0RQ0gHAAUFVX3lxTE9jRUhaTFlrV1p6Q1BTOTNRektnWDNibXlYaXY3ME5BZGJRMUZ4d0hMSWlhdjNtTFNkNGFCNVA3VTlYdDFjbzdYYkxFcFVFelh1V0ZPZ1V0WU53c0REUzBXWlViY21ZVi1FQzM2QXpFY2RzamQwWU1nUFYtalk3elZWanh0YnlFbjdWZkxwWHdyVGt2S0xJRGtPVWFONEVNLW1qRTlxZEZIcnJZc0t5bXc2SndYSC1lZVktLXd4VDlReA?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-22T19:28:00+00:00",
-      "score": 66.6,
-      "corroborating_sources": [
-        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -131,7 +192,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIYThSR0doVVVpMTdaNTh0Z2p2ZERLSGh6dF9WM1dSUkYwYkVHT1prZm9uYjBkNjdvRmotYVN4YWIxcXQ1aVZZelhGOXFHeFZtajJZSVJKVWc2Z0toSVZ2eC1GNHplbkhoN2xwZ253dEdTcWRFdDlTX0daNjhYZDDSAYQBQVVfeXFMUEY3c1l3bDdBS28yY1dmRW9jdTR0QkZ6TTQyLVM3LWxNMEdPdnctR2tuT1FubGFOUjVaSnR3bjhrLUhnU1M2U01xVWF6M0I2OXVkVm54SlpfbTJqXzBxSHhQcVFKdUZaWndId0RIUjkyQVBpbFBnX3ZEUEFfTkJSLTJYY0FM?oc=5",
       "source": "TheWire.in",
       "published_at": "2026-10-22T11:45:59+00:00",
-      "score": 66.1,
+      "score": 63.02,
       "corroborating_sources": [
         "TheWire.in"
       ],
@@ -146,7 +207,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGFJM2NyWk5PUDlvVnMxOVV6NFNIaGVzeDZScmRJY2VyakxpWmpZTmlTc05EZjVDak5LNmhkUTZBYVhIamdSQXByQXp6WXVIZEZwMThQelotZDVsYmlOWnY2ZHdRSjNIRzRFam1DX2VvUVl3cEl0ZW9ZTlBxbGxyQWFva3pXSmVtZHFQU1l6VkFVYUYtWWN4OHE3R2R6amVJakt6c2NRRnlJRVRxUXRCRjJNQ0N1OW4xMnVaRUdaY9IBxAFBVV95cUxQb2xQUDJILUYyTDFpMmNIZDk0VzJra2xLR1FfUG1wRFloYVhEdGJZMjdsU1N3MlNDWkZqcEZnRVdCUDN4SWJDWGRoY1k4YkZsYnppaWlJbldyenZnOHp2NF9VYjZBS2Z5aVVSR1JhRHFqS0d0TF9oWGl0MkVURXgzbFFMWk96ODZoOUhGNEtDc243MWIxeFYtOWF4TUtTdW1xNlc2eGJNRkJydzMxcXN0d0Z3bWoyRDRrVEQ4S1RLTk5XNTkt?oc=5",
       "source": "Firstpost",
       "published_at": "2026-10-22T11:39:08+00:00",
-      "score": 65.99,
+      "score": 62.92,
       "corroborating_sources": [
         "Firstpost"
       ],
@@ -156,14 +217,14 @@
       }
     },
     {
-      "id": "63d53ed3b37e2c10",
-      "title": "Protestos na Europa: «O Kremlin não acende o fogo, mas sopra sobre as brasas» - Now Canal",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXBBU1M4Mmw2MG9MSUhIUWpjN2xBcTRGbTdVWDk3U08taExyRmRNN0hJemt5bzk3Mjd4aFFtMGpyaldDcFhIaVRmbFNnS251X3d4WU16dkFDYW5NdHp3VE1vSS1HRHVwNVU0VzV1UjlRNGR6T3RiVWNYem5nNVV6dmlqNmRMUDl6ZWIyM05DQ19rcXJBdkI5SW9DMmFGaFFJelp4a19JSC03aXlfMURjVlVDYw?oc=5",
-      "source": "Now Canal",
-      "published_at": "2026-10-22T18:46:00+00:00",
-      "score": 65.75,
+      "id": "fc932faad99811c6",
+      "title": "Argentina lista como terroristas Cartel de Sinaloa, FARC-EP e ELN - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPam9zMldRdndTVFBOZE5rcUVlWkEydTdoRHJvV3pkazZ2SFc3RTVwR0ZDT2hLOW5kcDZZckliOWtTaWJrbEtmRGhWcmdUTWRSdXR6a3lkTkl4NF9LNXJxYVlobzdjOFJRa1g2WTk3b3pIY0Q4QkFLWV9BU3NhUHpNUGpzd1NsTVlTMlBlbTg0LUxzMFhuS3gzb1RjU0h6dGVxZzAtZDY2SWtlR2xjcFI1aklldDJzc0RQ0gHAAUFVX3lxTE9jRUhaTFlrV1p6Q1BTOTNRektnWDNibXlYaXY3ME5BZGJRMUZ4d0hMSWlhdjNtTFNkNGFCNVA3VTlYdDFjbzdYYkxFcFVFelh1V0ZPZ1V0WU53c0REUzBXWlViY21ZVi1FQzM2QXpFY2RzamQwWU1nUFYtalk3elZWanh0YnlFbjdWZkxwWHdyVGt2S0xJRGtPVWFONEVNLW1qRTlxZEZIcnJZc0t5bXc2SndYSC1lZVktLXd4VDlReA?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-22T19:28:00+00:00",
+      "score": 62.78,
       "corroborating_sources": [
-        "Now Canal"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -171,14 +232,29 @@
       }
     },
     {
-      "id": "56e66864d2ffe9db",
-      "title": "Aung San Suu Kyi’s freedom is not a favour to be granted - Newswav",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTNLZGd3WC0tT2lXYTJjakJXTzZwbkRkRWV5VG9EaTdTOHlqdlZmWW1hRFk4YUR1RW9BV3ctVTkyT3Qzd0h1SVY3UHEtY3VLcXBWYTBhUDVSV0RLRUhmWExIS0VHbkptRERCTXoxYWtfVFNDbk9xWW80R1doQ05HRTlDRDBkTzMyTjMtME1BdTRuNnB5SEw3WTlybXZMUQ?oc=5",
-      "source": "Newswav",
-      "published_at": "2026-10-22T18:20:46+00:00",
-      "score": 65.24,
+      "id": "a64c699bb779c261",
+      "title": "Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZTRsUDNNdHVkbTRmVEVLc1ZqWkdITEZ0NWZtS01iMjhoY0pfN3AxT1hjUXdtUHlkNHJlenB6SWZGcmtuSXI1U3NUM0xJRWNuT1dTTERsZWVsSlBqRHpLbURJMmJ5RHRRcHp0QXlGeUJrNU51NEg0Q29uTC1Gd0xqelNiSzFQUzk1alRENlNfaXhjam8zUloyVDV2bVFJOVpma29USU5wdndTdnFiQVJ4cmhEdHBETEgyN1hNVl9GTUxvMF8zNDI2UTNIcl9RZERCZ29PNXB4a21lcTg?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T16:32:00+00:00",
+      "score": 62.63,
       "corroborating_sources": [
-        "Newswav"
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f385f728d6ace9eb",
+      "title": "Fotos mostram Lulinha em jato com lobista investigada pela PF - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGl4UzFGeFJBWURMNEhFSHVQRWNjcEdTdUY1ckZIQ1JpMENqcmZCTVhRTmliUEpTUmVGdGhtNEZzX3htcEdHSXlwZW5QX2l4Wkx0MmRMS0RKckF0ZWFmUWJPOTViaTIyWHhOdXNGYWpJME8wczZnN2V2ekdVNUNHaTJDeHVHZUE1azNoUUQxWl9ma09XMk1aOWxFeW1mNkhDc3RZdkViRWpqaUk4cUJBUw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T16:15:00+00:00",
+      "score": 62.34,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -191,24 +267,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWtvUEJiWGVIRkZHZHRlcDdDNHN3N0lVcnFxVHFMS3Z5WDJubnFGZVFIRXlDWENqdXp4aE5qWXVmLVJ0STl6VDlpamx2WllwSFVkV25UVDI2MEtaZUhrQU4wWE5OOTJ6TkNnY1pETFQ3SDBXMEJVNl9wVHBjRTdOTlZnci05c19hTHFfTzJ3dGZKMFdzRlVwcm44OUNOTUJ4cUpKM3VWZjhMc0dpQ2fSAbMBQVVfeXFMT3ZfWS0yYWdFNjJYeTRrWDlrRW1sczF2R2Q2clFFSkJ4bXV1VVdZTENRM2pPMVdXTGpqY05tUmhsaFdHS282QUtrdWZiYmhuLWVGYWlZQ3BnaGRLZkMwSDBrQUE4OEh4N3JiTUNRdV9VZzVDaTUtalNYc1FPOWJFQjlLZVlfdHhKb295MC1ha2RvTXZXWlpqQkhXZnNNM2MxNGhjSTNTYW1iZVZyUFVlUll4eDA?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-21T17:30:00+00:00",
-      "score": 62.92,
+      "score": 61.07,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b352311799a10178",
-      "title": "Las tres discusiones urgentes que crisparon a la mesa política mientras Milei se desvelaba por su imagen internacional - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWDlkUDVHNml0c3VkU3gyTE5qWWI1TjBNbU1ZNk4yUTZ2M3BpYzk5NF9haVZLVGZYd2paWm5HV2FHSkdQdHFOSXM0S0NEbmtpYXpuazVLTlJGRDBHSkJhcVNMMEVCLS10WVBCZnd0elRsRXZyeW1jMkFGd2p0MWZpMlhZSkdtRmNxVGlXdW1YdTViNC1PWERhSnJFZWJCVXVsS0ZaeTY4UDhPRFpkWHZCemVfR2FLTEZxMFZYeGlsclJlSlhlamU3T2ltc2YxZkR2WFdDMDVJR2JMNXpBekZMQUlLZk5ZeDl1Q01yZWxrRUowaXhXc0HSAZACQVVfeXFMUDR0a2dpc3V0bHhRV1FMNGEzVUY1cExySFVEdXUxS0lXNGgyQlpZcUw2V3lWZWFCaklmTG5QdmRxOFVSNXlEa3FVOGVMVnktVEdMSThsakUtWUVHY284RGlvN2JKbjdtOG81QWxqVkRoUDRpQTBOakM1YWU3c1k2RDB0YW5HSF9hSmxfc2lXSmRJRkFlZWhxSUxkVkxoUWFRbTFNM09KVnBJSHZ4bHpfMm9EM2ZKaE1jXzMxRVBvZU10YXRQWnFsX01DX1p3anV5Z09jYzlJRTBOSktpSWV3X09BNkh1dk1HeGZaU1YtRmdLU2Z4V3JnRVVTOVVqY2poeHZNSTJEZnR4M2NTeGw3TVc?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-10-22T07:52:16+00:00",
-      "score": 62.45,
-      "corroborating_sources": [
-        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +282,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHFqVzFSUjRqYUxRbXNYeHBiV050N1VZdkFxdEpvQUJaaUdsSFJ0WGl0UnVBVDVURm9saWZMM1ZfUVhOVnJCcUpHUHlRRTJrTjV0ak1VcjJ2N21YYlJjYjY5U3FJLUx3TDZpTm41TFJQWm9JRm5WOG5TTkRYVmlYSmZjay1WbktCSnUyRTMzanpOdE5NVDFTZGFvVDV6Y2lsZDBjUG5SR1dGNDQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-10-21T16:36:21+00:00",
-      "score": 62.4,
+      "score": 60.59,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -231,12 +292,12 @@
       }
     },
     {
-      "id": "c0cd1f6b4fad8c5a",
-      "title": "Las intervenciones electorales de Milei como estrategia geopolítica y los frentes abiertos en EEUU, Brasil y España - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVN5MHZnLTlLRTAyUkhBQzNHZmdKUG1QU0ZXZjRyRkRqVDRKYmhQQmFCQU5jbXoyYng4cV9NN0lqbkozeHB1d1RZYVhVWmR5RFlLLThTS2h2VXkxZTIzMktpUk1ybWlxUVZDZzB5X3hRN3dSOW0zNW5pNHctbXRNbk1GTTZjYzQ2ZWdqYm5xYVdReXJiemd1YzdhZHdMRmhTTF91RWhqVG94YnZTWmxSdDZqbERUaGNyb1FDYy03Z2xUMVRMVmtaYzZhRG1HLXBHZEpwdVZSTDNXOS1oYjBFSnRqSWFvVTFrUUdlVGJ4TzTSAYsCQVVfeXFMTTd4N2x3NEMxZkU5MzVNWUxIRGQ4SFhmaFdPU0Y5Y2hJMDhjWHdEeHp1cElIVkE5RTVwa2MzUzBlU2RnZHBROW9JOFh6Z0t6RF8zQ2J5cWc4NVpvcFdwbFBvV3BUc25DSnhWSmNLYXQ5MjgyNkZlRERfSW9qSldxRm1RUVFyZ1pDYV9ySGpKRzZwYzQxN0lZdkYtTWdRQ2lkRjc2RTd3LXNCd29NT3lJajVRVDlmMFdUYnV3Z21KQVBfUk5yaHp0T2dZaVdVMU1EcEcwVWRyMTN2X2JPQ2RzWEVJWklMSzA3Vy1TX1l0amM0QWdvNm93VGtLVko4V1BacjZwajhUS0dySXA0?oc=5",
+      "id": "b352311799a10178",
+      "title": "Las tres discusiones urgentes que crisparon a la mesa política mientras Milei se desvelaba por su imagen internacional - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWDlkUDVHNml0c3VkU3gyTE5qWWI1TjBNbU1ZNk4yUTZ2M3BpYzk5NF9haVZLVGZYd2paWm5HV2FHSkdQdHFOSXM0S0NEbmtpYXpuazVLTlJGRDBHSkJhcVNMMEVCLS10WVBCZnd0elRsRXZyeW1jMkFGd2p0MWZpMlhZSkdtRmNxVGlXdW1YdTViNC1PWERhSnJFZWJCVXVsS0ZaeTY4UDhPRFpkWHZCemVfR2FLTEZxMFZYeGlsclJlSlhlamU3T2ltc2YxZkR2WFdDMDVJR2JMNXpBekZMQUlLZk5ZeDl1Q01yZWxrRUowaXhXc0HSAZACQVVfeXFMUDR0a2dpc3V0bHhRV1FMNGEzVUY1cExySFVEdXUxS0lXNGgyQlpZcUw2V3lWZWFCaklmTG5QdmRxOFVSNXlEa3FVOGVMVnktVEdMSThsakUtWUVHY284RGlvN2JKbjdtOG81QWxqVkRoUDRpQTBOakM1YWU3c1k2RDB0YW5HSF9hSmxfc2lXSmRJRkFlZWhxSUxkVkxoUWFRbTFNM09KVnBJSHZ4bHpfMm9EM2ZKaE1jXzMxRVBvZU10YXRQWnFsX01DX1p3anV5Z09jYzlJRTBOSktpSWV3X09BNkh1dk1HeGZaU1YtRmdLU2Z4V3JnRVVTOVVqY2poeHZNSTJEZnR4M2NTeGw3TVc?oc=5",
       "source": "Infobae",
-      "published_at": "2026-10-22T07:20:00+00:00",
-      "score": 61.97,
+      "published_at": "2026-10-22T07:52:16+00:00",
+      "score": 59.68,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -251,9 +312,54 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzhvVEc5TVhrTUNkQ2lEdFFtUHpIMkhjWkxaQlpNcjd6Z3dNSkowbGpDYS1JaWF0MzFfbTNaNllqaDFtUy1ORVRDaFhnZ1VENl9TV0FPT21BTnlZUEVWb3B5LXZQdEsxZ3ozVDBsMDlWZ2x6dXhQVUdSamR2RUhxTThPSzhIOVNxb1ViQWZnYjBmSGxveWdGdWN0ZUxyOXpNcy14WjBsNVBDbGdBY2Y5bkFuWDE0YUFiWTZPNk1xVHl3M0dKLXV2el9PVXU?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T03:36:00+00:00",
-      "score": 61.87,
+      "score": 59.42,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "66264d84e47405cf",
+      "title": "Ibovespa hoje cai mais de 1% com pesquisa eleitoral e petróleo a US$ 113; Vale recua 4% - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWNXSURtYjFDR3NJaWdhWHBoRjdCT3hFR29DQzYweGRLVDFlaXRzX2Y5LXJmUjlRQUZSR24wTkNDSTlseVVWYm1Vd3ZwUl85Uk9tdk5faTdRLXp6ZU5NODVwOVlIWUZiV2NfVTVpYzZTcUVaMk55Y2xhVGJmMUsyMnFpQzRVbVM5ZEFndExSLXYybFh0dENoNTZzaVdET1JKZl9BVjFuVERVNXpXcXhhS2NWUzcyZU1GLXAzYTE2S2twNUI4aEFDN2pIY0FHbFBJQ2RZalJzY3lYR2t4cnZSSGV30gHnAUFVX3lxTE1JQ1pibGlaTExucGduNno1dVZiTlc5amlVQ3NMRGRPV3lXdC1HNEdwdU92bnZreFFiNjZwZkhuRXZqVTFwWGNjQnctOExOTEtKSUpRa2F2TmNCdi1OU1NiaFo2aVBMY1YxdDR0dVh5aE1IZ01xa0tickE4N2ZYdjlQbS1fRE1ZbXRYV3BHQnlZTjRlOTdaRmc5QlNNa2l0NHJpa3YzMTl6VWw1akJmd1dKNjIzUl9FRTBybko0TU5oamUzNm1DSGt3bkhvS2xTazFZNDNxaVd3blpTQVM0aDZ6MmFNanhKRQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-22T13:15:02+00:00",
+      "score": 59.39,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c0cd1f6b4fad8c5a",
+      "title": "Las intervenciones electorales de Milei como estrategia geopolítica y los frentes abiertos en EEUU, Brasil y España - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLVN5MHZnLTlLRTAyUkhBQzNHZmdKUG1QU0ZXZjRyRkRqVDRKYmhQQmFCQU5jbXoyYng4cV9NN0lqbkozeHB1d1RZYVhVWmR5RFlLLThTS2h2VXkxZTIzMktpUk1ybWlxUVZDZzB5X3hRN3dSOW0zNW5pNHctbXRNbk1GTTZjYzQ2ZWdqYm5xYVdReXJiemd1YzdhZHdMRmhTTF91RWhqVG94YnZTWmxSdDZqbERUaGNyb1FDYy03Z2xUMVRMVmtaYzZhRG1HLXBHZEpwdVZSTDNXOS1oYjBFSnRqSWFvVTFrUUdlVGJ4TzTSAYsCQVVfeXFMTTd4N2x3NEMxZkU5MzVNWUxIRGQ4SFhmaFdPU0Y5Y2hJMDhjWHdEeHp1cElIVkE5RTVwa2MzUzBlU2RnZHBROW9JOFh6Z0t6RF8zQ2J5cWc4NVpvcFdwbFBvV3BUc25DSnhWSmNLYXQ5MjgyNkZlRERfSW9qSldxRm1RUVFyZ1pDYV9ySGpKRzZwYzQxN0lZdkYtTWdRQ2lkRjc2RTd3LXNCd29NT3lJajVRVDlmMFdUYnV3Z21KQVBfUk5yaHp0T2dZaVdVMU1EcEcwVWRyMTN2X2JPQ2RzWEVJWklMSzA3Vy1TX1l0amM0QWdvNm93VGtLVko4V1BacjZwajhUS0dySXA0?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-10-22T07:20:00+00:00",
+      "score": 59.25,
+      "corroborating_sources": [
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1bc46e1d34a944e9",
+      "title": "Bastidores: Aliados de Flávio Bolsonaro reclamam de ‘strike’ de Marçal na campanha - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVJEQnJuNTBSMV9uS0xLT2VubFRqUzRNV21KRFlBQ2l4UVEtaS1TMktBVzBhUHNaSTZWMDlHZEwyMWZKYm5GVGNUZ0p5Mks4Qjl2VDFCbzVzM0xES1Q0d1dKQkt4cU9ZTHBES3NIME5peXFRNlBKSVNwRVh3R0FUWFhnUHZENE40V1Z4VXhYaEk1WUd4c29BZEp5Y2Rqczgwd2pXaVFhamtlaUJ1dnpqY0l4WGNRQlo3OXh0cjFiOGF0TktzNVFTM3JhU0thbWvSAdQBQVVfeXFMT3hpblV2bmVJVjA4OGdNSFFmTkhMQmNlMlhBd0htLXJITFhEWFoxSU1LR1NmNHV2WFZ2UVlGaEVRQUFUM0tiTk5saG5aYmh3anM4dGJzRTB5MWw0TWJSNmVUbG1CT3FwTFg4N25rRGZlSlhMZllXOTMwRWxoOXQtMWxHQ3FTTW15aTl5TGQ5eTFqQ0N1bjJEUzJWbVRBTC1wVTU3U2FiNHQ1WEdjSFowNlhYUG5vZTJvYnlNSE5XWE1pcVdDMVVEZEVzWmhXYlYtOWlGeEk?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-22T12:30:00+00:00",
+      "score": 58.69,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +372,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTBqZi1tY1NrZm9iRlA2Y3dxYlBwdkhKcW5Oc055NHVKN1hVUnB3azNQU0JzcTcxcHNJcUpsTG5Zdzc2dVVnVHJmQXFSdHZiUVVsalNJUjd6QVhqUUk4cHZERVVvS3VCdTc3U1NxakpsSFVoWkY2WGxkMUxBcUhxdE9pbjNsdk5OYWwyYWNxZ3NibEtWM1pWVVFHZzNCNU54eGZDVS01ZU43MG1BYW9zbEloaExYMk5vNnEzdWdWeXJLeFM1WTdrcWhn?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-10-22T13:44:23+00:00",
-      "score": 60.11,
+      "score": 56.86,
       "corroborating_sources": [
         "Daily Herald"
       ],
@@ -281,7 +387,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHdvSktPXzJXTTZnWl9aeGxjSC1UN3lkbXJNOFFhRG1mVExPR1lVRVF1cEkxOTU0YTQ4QkdZdzFLb19hM1hSVy04R0daYkVNY1k2dkw3VEUzUkZTNkhUVmU4ZDk3WXVBTVp1c0x2Q2h4SXI0dndzTjYwNmlBbVR5b3JuYkhrX0lvRndoTjNLMDFpVFBGM0M3MXNMT2lfZ21KNFB4TQ?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-22T10:22:05+00:00",
-      "score": 59.74,
+      "score": 56.78,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -296,24 +402,9 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX0xsdkFPbk9mcTRKdS1zWmxSXzdJWWhxTXRwVU5aaE1LNkE2S1RRYmxSWDJRdjNaeXJ5R010Z29fRW5uVm1venBZUHlnNVpReW9OSjlacXFsY3Z4NU9SWHNUUmNPbkFxM3pZVVJDZHJJTXl6Vm1Mdjg3NzF3bjJfUy1WZUNHU05MVkhiNVF4M0ZSLWY3OVhWeWdjbDRIQmZadG84ZW45XzVPYVZmTXFROER4RE9FR3VvQWZrU0lic2xlYmJQS0FyTjROZERIWVdvSVd3bFAzOWVWNEhQMVkzajVR0gH2AUFVX3lxTE41OEJldmdWVGxBQnFsZEJTbm5nUU0xenY1WnlIWHJjR3pKZkNNbTlMZ3pOeGJOdlBiSXZmRUVuYUdWOXRwd0FoUFJLMlQ2MmFsLTJ6TU1sMm1FQk9HY2E5M3JwRjdSWEF5N2RSMUp6VGU3MC1YYXNEc3BVd2ktVzNqRWw3Z2lEVGJpYnc5YlJFLTdNV09rQWxEeUVXbC1odUxFYm8wc0VPMVF3aFhhajdvazlHR3hQbmtZVHVTMUdLczFKbENuNjVXVng5VzhiZHRFRkl1ZkFFQXFGbmt4cndVemFZSFFiNWFkWlg4ekxUTy1rWnZOZw?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-10-22T04:00:00+00:00",
-      "score": 59.19,
+      "score": 56.71,
       "corroborating_sources": [
         "EL PAÍS"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f9d6b9a16b28913d",
-      "title": "Saiba quais pesquisas eleitorais podem sair nesta 5ª feira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWh6M3Ayam1BTHUzMlBQeGJOUnBMUjFzNXlaMjN3RWhobzVvWlBlQkhEN2lpXzZJdWtJbEF1eWhqdFBiX2xrZUF6V095eXEtM09EUWZwa3o3czNSLUpNcnY5dVhkMFpZc3gwUEdhOFBrU0QyZzZlSlJyeG1GX1UzUjhpUGtvNkxETWl6OEJTMkEwdUV1eTVJM21yR2tiZk1ZYmRoN0lGWGV6d3pZQXZZ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-22T09:21:56+00:00",
-      "score": 58.8,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -326,7 +417,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS25QSUNVT2RxN0hrbUE5eHo3RUZVWUMwZE1zdmlfYm52bTVUWW1pY0ZzSnEzVnE5Sy13X0JKVnkyNVBubHdLcmx2OE5NZmFWR05pQ3RPMTNoalZnLU82V0k2OFhXYVk3NURnUncxa2hiMGtaR0RxZmxkR3piZ3RRc00tb0w3a0lqXzFwLVJkc3FCanpicFBPSXlNektPNEFHNml4SFNTdXgyUm9jaXJybXU5SFExN1pncVRqV2pwNjMzdHhscm11NTdMSlctZ0F2LUc4aGlNN0fSAd4BQVVfeXFMT0NOM2tZZmgyNnczSUFIeXhqUVpjbmt3MWVfbTFqeDk4eWhfQUhBSFB3M0NjRzRFeW5WSmlVa0lyRkYxWmNJbkVURDN4OUJHMlRlSUF1WFA5SGE5UFV0ck1wWWRCeEQ0MWxGSlZwWTVZY19IRTVIeHRTeW9wM2IydF9GSkp2b29Od21YeWlqQThnWWFaUDg1OUU2eHpXWGltVUN6cDd6Y1Q5a2g2dzQ3TVpvY1JGVWxsSnpMRmd4ekpYb0k5ZEIxNGxRUkRMWjZ0YmN0UWhYUGlCaDdyQXVB?oc=5",
       "source": "Urgente24",
       "published_at": "2026-10-21T15:21:00+00:00",
-      "score": 57.98,
+      "score": 56.23,
       "corroborating_sources": [
         "Corrientes Hoy",
         "Urgente24"
@@ -337,57 +428,12 @@
       }
     },
     {
-      "id": "25818b0ea065c82c",
-      "title": "Brasil ainda é um dique de contenção das pretensões intervencionistas de Donald Trump nas Américas - Terra",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYWRoS3lYd3BuWFVhQy1NdDlkMVRtSndLMHlRM2pPMldOV0xucHVsNEsxXzRzVXpLX0ZVWm1jY1MyN0ZLLTZfTFB0Rkl3Y0EwbjhlWGphejlWSHRTT25qSlJMUkZpV2VqQWxXTjd5UDVjWWFEUWdqb2ZQX2FGSU9KbGZYNnFPYUw2OTBjX3l0bFZYNlBDV05iMDFCUzNQYXFBdHh3Wm1raUZSMjkzSjBDU3J5MTBzdU44cDR0ZGttcXZjZUFmY2VoVDRTVFUzSDhWamRmMHFpdWlWN0RWcThWNGREZkhtbHhMS0wybkt2OEFpSEJaUFVuMFU1TFUzU3ItNVVpQTVMNlg4dw?oc=5",
-      "source": "Terra",
-      "published_at": "2026-10-22T10:17:00+00:00",
-      "score": 56.66,
-      "corroborating_sources": [
-        "Terra"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2afa8b9ed0b36214",
-      "title": "Trump, en el “paredón” del “pelotón” religioso - El Informador",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHhDQTFBLXhoUnhLT1Q3UWs1QXd0cDVyMkhNNDVPUTdYY3pkRHVrNkswakR1ZVhsZTlhNnQ5dHRXWkM3ZUhpMUtHODZyTFhTLW41N3hRRm5VLWprQlhQRkxTT2FudG1LMUtEVWtOSnhETU1DSElFMGxheWE4V21nZWFHZWUtVXgwbmJldk83RllkU1dQSEpj0gGcAUFVX3lxTE5TcjY4OGdLTWhvSnZEbEFQNGRjRHQzbm1rSjg3Y25kc0h1UEJqeHhubW1RLXMwS3JKejBqVEdDbW1mS1lmdE1sektFazVwakdxOWIybVQxc3dZczRGWmNHZ0dNdkN2MUpVRDBLNlhXU0JqZFdMdGh2ZVpwbU5SVzNIWGFFWmo1UHAxcE1OXzNaYjNIT2NHS3JKcU9kQw?oc=5",
-      "source": "El Informador",
-      "published_at": "2026-10-22T09:45:00+00:00",
-      "score": 56.16,
-      "corroborating_sources": [
-        "El Informador"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3c5accf236f0ff70",
-      "title": "In Trump’s world of international diplomacy, insults are a one-way street - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0lBM3R5SEY5S0ZEc1QyMTN1Nk1RaFZGSVdnWXp1Z01UTncydzlDYy1iMXJDREd5Q2l6OU5tMGNxNER6ajRjQ1JPaXpGNEZFa2NTT0wzaUluZDZ6R21tdFBoTzBFZzFEQmdUeEhlTUREV0J4TlhtcWtfTVlxV3Y2aWpnRXV5c3RGRVB0Nm1nUnNkb3h3bThfX2haaFBvMS1UVjd2R25pQlRKdDE0QXhyM2dzZ0ZGdE41bXFOLXBDODczeDg5OEFGbEVn?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-21T22:45:00+00:00",
-      "score": 55.29,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "421e2d61f3afc9ee",
-      "title": "Lula envia PEC para transporte gratuito ao Congresso - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWJNb3c2ZnUzRjFNWXBFR3hObnZJQkxlNFBRMlpFWERlTXVSQ0pqUy02UExRc1ZDUnlMc01nSGx2d1Q1Qkp4M1JxWkVMcDI0UWhOck5yaHNFOGtjZHk3UjV4LXNLRlNNZGFfaXJuZy1tRUJ4bjJXSm01Ml9MUWlBaHBwZ3NtM25uYVdsSVd3NUFITTJhRzZMaXM4TQ?oc=5",
+      "id": "f9d6b9a16b28913d",
+      "title": "Saiba quais pesquisas eleitorais podem sair nesta 5ª feira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWh6M3Ayam1BTHUzMlBQeGJOUnBMUjFzNXlaMjN3RWhobzVvWlBlQkhEN2lpXzZJdWtJbEF1eWhqdFBiX2xrZUF6V095eXEtM09EUWZwa3o3czNSLUpNcnY5dVhkMFpZc3gwUEdhOFBrU0QyZzZlSlJyeG1GX1UzUjhpUGtvNkxETWl6OEJTMkEwdUV1eTVJM21yR2tiZk1ZYmRoN0lGWGV6d3pZQXZZ?oc=5",
       "source": "Poder360",
-      "published_at": "2026-10-21T17:35:17+00:00",
-      "score": 54.98,
+      "published_at": "2026-10-22T09:21:56+00:00",
+      "score": 55.92,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -397,57 +443,12 @@
       }
     },
     {
-      "id": "def18a9bc4a49e6e",
-      "title": "CMA debate efeitos da política externa dos EUA sobre o Brasil - Diplomacia Business",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUk5V0ZNS3VNLWdwc2RicXJ3ZVh3MW5nQ1ZXQ2tJZjFfcGFRZU0talEzSnQ2MXFZandvcDRTaUYtYmJuM2VibGpmZUxyajNhMjdVeWl2cVZJNGtvNE5KNWU0UVNsMk94ODlxVU9FOHAzem9oOGFXN3J5WFROdDBfSkh6eDdMYVdJbHpSZDZDOEFHaWUwdDdvSXdJbW5sUdIBpgFBVV95cUxQd01hTkNvbktIY1lKQVVhc01ONnB6SUNnOFBoajhMMVZ1bWd3TUxMUWhsU2dpSVZjbUVLbW5sRDF4eWNqUW1TSFlZQ3N3TWE2YW1rSlRraTloWFBwSm8wTVFQMW5ZZDBadWlTNnZENGNvUVNKUENRM3JCcDNtUHVjRnVWTVU3TFlhNjcySjNsS09kcnZJZC1xTHNQY25LS0Q0anNkdE1n?oc=5",
-      "source": "Diplomacia Business",
-      "published_at": "2026-10-21T08:00:37+00:00",
-      "score": 54.95,
-      "corroborating_sources": [
-        "Diplomacia Business"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "95f1e1014df51a66",
-      "title": "Diplomáticos cuestionan el uso de Sánchez de la política exterior en su operación frente a Milei - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vVkp0Snk0a3I3MjROZkNQeXlMa1lOeFFCLUpTVFNRaDVoNFQ5VDRTSVFzMWpiZmlybUwwZzRYLXRsSUctUEVMc0lmd1k4X0JYT0tTUW4tLUlkeDNQM2cySFhRaG1SUzM3ODlzc0pRRzM1T1pqblU3eC130gF6QVVfeXFMUFpmM3F6cF9wNUs5SzVEX0xJbVdXSzZYOVQycTMxM2kzWXBpSVpQVl8zXzBENHM3N3pGSHl6am0wdWtWYlpSdTdIVDNhcVhSU3hDck8wT0piZnIyVVVRbTdjeVV5TXRDLU0yYlUza3JBNVpFSWdxM1I3dHc?oc=5",
-      "source": "El Mundo",
-      "published_at": "2026-10-21T22:00:00+00:00",
-      "score": 54.78,
-      "corroborating_sources": [
-        "El Mundo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "47abce8e06be1665",
-      "title": "Emilio Delgado aspira a los \"25 escaños\" de Frente Amplio y critica que \"el PSOE ha sido muy valiente en política internacional, pero no en otros aspectos\" - LaSexta",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOTWpJXzk4Xy1taHJSczVrWG80TlVNLUVBTEtORzlwWXVWSTRxNUxpZkRYdDdHRGR3VXlMQmpHV3Y1MUVlamxDOXFfa3Y4VjJQMTh0MG5lbXNLTmlkWUtKN2Y4Mmt5WXNyZDFJU3YwMTJ0OWlmaWZBZ0J0VTFpcXVGTS15OGlybVJ1RGtnbUt0NzJCZDUycFJNOXl3SWliYkNJM2ozUGlZSHRXSkVaSGM4R09VYjNjZ0tHb3ZCWFdaMzFYSjc3S01TR0JFZ1R2a1RxOHQ0Smdfd2cxMlNsaFZfSDdXd1Y2TW93V2xyTl94b2ZRSXZNWUg2UkVrZUhWNThQQ2xKLUZLSEtUcUV5QWF1Q3FUVDBhQ2NJTzJ2bEhha3JMcmdSQ0E1ck9BVmc1RDJy0gGwAkFVX3lxTFBIS3lMT3RlREN1U3I4M0pvUC0xWXkwMnFsMUxpbHl2VXpxQmV6Ul9scUdfRnlvX281cGdTSGZIbTduci1lYVBTX3BqaWttWDh3Z3BWQUpIWnhheno1eGt0c1puXzZ6LW5hbDE3aW9UM21iVE9aYUV5THQ1MVNEYklWYUFzOHBuWVhPNlFnWHZ1bTJPZjJwdExoOENtS21nUW9zWFBsZks0dmZuY1hHZWxrbS1jYk9VQjhLckdVbFl3OG93SHdvX3lUYTdYUmVhVUdYQk9vWUZId2tFRE4yVzZ3OS01eHl0LXlQMHVvTUhsYzFvRWRjdjVOZUJhcjlCLUtOaENBbkNCZlVRX0QxczlXeEE4THIyWTVVZF9ZdjV5cG5zRmJadjNkOXBFNzJBeWs?oc=5",
-      "source": "LaSexta",
-      "published_at": "2026-10-21T21:04:16+00:00",
-      "score": 54.16,
-      "corroborating_sources": [
-        "LaSexta"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9d5644ebad709d32",
-      "title": "O que acontece no Itamaraty se Flávio e Eduardo Bolsonaro repetirem expurgos de Trump na diplomacia? - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdUNHa1QtZXdlSm5TdzRRLUw4ZHFLZFFybC1iYURVOXowTjJJdGdKbE5rTGd1UEsxMXg3d1g3LVUwb0ZwRHRsaXkxMWs2MzRkT0JLZndXaUdsdnhOQ3c5Uk1yR1AxU1N6dXlPNld5VFpjN1VTT2tlV2dockR5RlFlRVBMUk5aa0lDc2RMZ1NCM2lwV2lmNVp1UFIyVDdJMmlwc1lOU2VaNGZCVEhtTWQwQVc5Q2ZBZ0owejJ0WVE5bDZ4YmpJRk5heU93ZDIwVFZRV0pTMmJOUlpnWE1jcHI3UU5XNFFMM2RnRHJUOU1jdzbSAfYBQVVfeXFMTlRVdjYzTWY1VEViTmFNR24wRUdRd1djZUVRa3FOb1NfSExqNG1jZGwzazQwc0lBWjhTclhfZVEyQklLdy1ZR3FqT1hqaFkxd0FoYW5WaG5lbWViSGl5NS1hYVY3WDhUTW9aaWJRQ21lVVRsWm1fVkxDN1RTTDRmRXh0R2hMRkxUcnc4WFRUNjRMSXRUWEFtMHJQSC1mYU8tUkdQUnpSTnRBdWIwTEdxYlBnc19RbUFhNGFIamlUMHlTYW1VMTluMFBxSXFiQklNS2xGNmZMTjdfcENlVVNPV3M0UGJnREUySVY3aHN0TTcya1E3UWtB?oc=5",
+      "id": "3d3d0cabd7185c3a",
+      "title": "TCE-SP condena ex-gestor do São Roque Prev a devolver R$ 93 milhões aplicados em letras do Master - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSV9oWnFlakR6eGFkWGVpT3VkU21fTTlZV3cyU1VxNENFUjQtTUZhNGtQSkl3Zzg4ekVxMnN0blVHb2V1d1dJdnpOS0szejI5UnRLVUVwNHo5YXFYWXNhb3ZrR2J2UjQ3VlRDMWRVUWFEaWNTTHBoNlJlNHpWTkNMSW55YzBlbVA2SjFGc05hbmh1Tk96eC0zOVg4OWh2Z1p1bk8zY2NyaTBfYURrZUVnRHFTemtsLV9INlV4c05EcWNDNndBcXlrRERkaXNHY3pMQVJwQ0t0YjM1VDFIdVBhc01iQVYzSDZZWURR0gHwAUFVX3lxTFBaVGY5amVrT1d2SWRhYWpKcC1DTkFsb0lKMVZiSHhOQTBmZTY0N0FLMWNrQmZrUGFUWTB2VENpV1RqVFFkbDEteExwUlRtTk5oTElrdnkyNUt4cFNEeG8xdzB4N1Nyd0xRT0dXUnN2SG1LY01IZTFaRXNROTc0cUhiazI0ZWhYa1FaVGJGaHcwYmdFbGZkS2xfOHpwS0FWSUdKcTFBbGtvajhKdXNPTWhJU0ZxY1ZQd2wzZzVBeEpvaHRhcFlJNFh1Sl9HRHdqWGZRZE02UVNKMkJRT1BtMmpwOTRDN0t5RnVVZWk1dzNvcA?oc=5",
       "source": "Estadão",
-      "published_at": "2026-10-21T21:00:00+00:00",
-      "score": 54.11,
+      "published_at": "2026-10-22T07:34:19+00:00",
+      "score": 54.44,
       "corroborating_sources": [
         "Estadão"
       ],
