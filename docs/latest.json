@@ -1,19 +1,139 @@
 {
-  "generated_at": "2026-10-23T23:11:04.805370+00:00",
-  "next_update_expected_at": "2026-10-24T03:11:04.805370+00:00",
+  "generated_at": "2026-10-24T04:42:44.437921+00:00",
+  "next_update_expected_at": "2026-10-24T08:42:44.437921+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "ddfb17e0250fe8e4",
+      "title": "Checagem BP: endividamento aumentou durante governo Lula - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEdrN3ZSY0NZZUVsUGVqOV9Xel94bjJjVEEza3dvcUZBVGdaWVc4ejJKdnFxN3VyakRVbXNuNVVxVUI4bV93c21EWEU2WDdOSHRmandPc0JtMjIwNjNHZlVkT1FHQ05MaVJ1VjlUdW5tMWF4WmtTVE9TdjZNZ0E5aV9UakEyWWRic2pzZEFBMA?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-24T02:24:42+00:00",
+      "score": 75.69,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e9924ef966be6fa5",
+      "title": "El experto en política internacional sostuvo que el ataque abre una oportunidad para reforzar las operaciones de seguridad en territorio haitiano - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMFc1Yzd1Y2plZUZPMVJUMzRVd3JMYmFodW5YaDYwWWhGbUtCTjFBYkRKaHdsRGRzUjJkMVo0ZlQ1eXJJU0pEN2JYaFB4eExac1ZORXZsSDQzRUN4WjkxeUtSaUFGVTlTRE90MzN3dmUwVS1GWlp3alpMWFdBTFI5TllUSnNuaGhra19mdlBCQ1FONHQzMm1zdkczMG9KZjBXY0FCN0NGbmpoblREejVJdjRNbVFMa3NLTEpQRVBlczRWaU5abnNRR1FLaFNPNElJbU5qU0ItV0VOQTBZZTZGMURTX0Fjd3hLczdXR3lKVHUtajBSdWNBY1pGOHI2N3huMkRfME8yQnRjVWxtOE1GeV9ReFpCSERsR3Q4ejZlRFBFN2c?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-10-24T03:45:51+00:00",
+      "score": 74.31,
+      "corroborating_sources": [
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c18f0b55807d3ef6",
+      "title": "Datafolha: Combate à violência lidera como prioridade de eleitores para presidente eleito - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3dQajJKUEctNE4zSWlnZXNZMjVvYzRnMkRpTTEtYjFHWlNzYnBaYzdkUlBNVFRQdzBsOXQyOXA1b1h4cnNlRTBOVG9XY0ZWNGZXdk40VkEza1g5U2w1emtPYTFtbDBqTS1uQlJVdnBEZmhEUVVHYUJRc2JBdzlJU3laaktlTGctcFVadERtS1ZVOUpqVkJ1QWtJSDBCejN2cjlaQ0tpRGdoUlJPblRTT0gza2JXYTU5ckFwYkFkZmU1LTl6Qmt6dmxsVGhVLXlaXy1HWA?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-23T23:52:00+00:00",
+      "score": 72.81,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "f5b294a060e6dd7d",
       "title": "PhD Candidate Eva Leth Sørensen Publishes on Greenland’s Predicament in Global Politics at E-IR - Political Science | Johns Hopkins University",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWt3ZUFIZXhCamtRSk5GaG5PUzljejM5ZjEybnM4UlFNMDcxalMzMmQ5UGlhSXNhRGh3YVdpSFhGZ0J3QVpmT1MxYV9GVnBZMFdGVnpjRjVIczUzZHQweENsZ2tIWW1aNTUtcGNsYmt6a21FNjdYTXZSWXp2eU0yYnFsT05hNjFCeXFKa3ZNSTM0R2pTQTlOekd2Tng5Tkd4RUljbUdsREliOV9BSE9wQ282d1NiejdlN0ljc1FSSk9MRUhwOW91MUxkcDdhc19EN0tEOXNB?oc=5",
       "source": "Political Science | Johns Hopkins University",
       "published_at": "2026-10-23T17:16:35+00:00",
-      "score": 76.67,
+      "score": 71.23,
       "corroborating_sources": [
         "Political Science | Johns Hopkins University"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "634055458575411e",
+      "title": "Checamos o debate entre Flávio e Lula na Globo; confira - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFlGNThtYjJwMENuSWVFeGxIT1dzbDg5ZHkwZ2NGclRiMEdLS09TQk9POHlCRGpDbkExOEFSTFJDSU56UWUwY3NPZEp4bnlRWE9Sb0hRT1V6eHlmWVNlekpmaWQ0QXhzUFgwUF9Cd0dTeHYyYXhreHNOejV4U1pMNU53ZEN6bGxjaDdwR1puXzA3UdIBlwFBVV95cUxOUHpldnozYTQwOUNmME5ZS3Byd1dYZnpvbC1tYjVrWVFkQ1ItZno3ZVhGSjRzNzJ0Z3E4Q052c1I5RlJ0dzU3SURVQ19QSVZWaTJQRDZiWVUzdi1OVVFXZ2tQSS05ZU1TNjYzeUFYUlB3WkJSZ0RDMGVLMkpzakc1aEN5ME5PdC1HN0pGZGNjR240cGR1am5n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-24T03:08:11+00:00",
+      "score": 68.55,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "335176395ee703ca",
+      "title": "Nikolas diz que “dá para vir de presidente” em 2031 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHYxSVZCYzNHTFZ5cGxjYUpGMWY3cl9qR3AzaEFGU2ZhSzJkTXVncDN4LU9oZW1Zb2MybTNHYUI1ckF0VEdRX2xoaXJEUlJyTm9FbmtEWXBpUzAwcG5maUpza2JTWnpKVmpFOUh1MklwVV9xOWlIRWdmZGYxNklLdjJtQW1GcUNVSzRUWHZhZndQV1BhbkdzYlNLUzMtMTg?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-23T18:14:06+00:00",
+      "score": 67.11,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bdaafb5f686c1910",
+      "title": "Trump Says US May Launch Another Military Operation Against Iran - The Daily Campus",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00dE1PdThpUkw4aUxzLS0tNVFYaXEzalNQUFRqbEZOd01BZ2c5M0o1QV9yNWhpdGxaOEhPNjVkdGgxeGlSbG13U0dYYTRVQ2VsY3k2RlAzb3dndWQ2a2lfN1VOckc?oc=5",
+      "source": "The Daily Campus",
+      "published_at": "2026-10-24T03:56:40+00:00",
+      "score": 66.53,
+      "corroborating_sources": [
+        "The Daily Campus"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "363df02208c01c3d",
+      "title": "A política externa não dá votos, mas ganhe Lula ou Flávio o Brasil será um país diferente no mundo - Expresso",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVVJPaV9GTkF4VjAyWTk1VjU1bFg3dTdBbmhPTE9xY29lYTNQVUFWTVdIUnQ0LWFJVFZTRTVYTXAtQ3VBVnhXeWQ4NVVTb2xuMVo3XzFqTjZZbkxKN2RtNDAtcnhueWp5d3RNYkJJZmRLbWtVdzYxZ0xjU3hnS1l6czZxaTd2d3hLWGJyOXBZTGd3NjlnUko0b3ZCWkRFVjRKNHl6MzF3LUVDQm84eng4T2lRTFBlM3AwRFVLVEs1aEdOdTEweU1ZRVJ0UTZCVHExTW9ZR0xlUXAtQkR5bG9ZT2xrOTZpRmFva2hUcWZ1dm1lM3hiUV8wcXMzQQ?oc=5",
+      "source": "Expresso",
+      "published_at": "2026-10-23T19:00:00+00:00",
+      "score": 64.84,
+      "corroborating_sources": [
+        "Expresso"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "74061b4ddcaa07ae",
+      "title": "Luisa González denuncia persecución política en Ecuador y recibe respaldo internacional - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEJEeUgwSnV1dVpZQkM3VzFsSzlBZnlDUzFKYzF0NkhzT0IzX05pcXJ0dDBaTDdoNmttZlhaTDhnVjd6cDFXWHhqVHBqRm9sdzNTcUtMRDExTFdyaUhJYjd4cVJOUHFrQ3R4MHFfYmxCQk1ROUsxQXJpd3RRM3hqQTk3YlZXQVp5b3R2Q0hDMkpoV1BCVHhwci1wNXAwQ0wtQl92SkFyZEhBNWgwalFmV0dBZE9zMk9ZeGtSX1k1Mzhvc25NWGVEaXViUzHSAdIBQVVfeXFMTWJlWUwwczV2LURKcHpLdnZYMEJSa3F4R1J3dFFhbnFtVkE0WWs0TzVvVGkxbEs3R3p1WWs1NUpJTk5UeXlHekp5WGtiMlBVUV9uV3V2RzJqTHczbXU0bmx1czRpTWRPekxfVGR6SDI5d3hrSUhnbENPQXl0YmMxejV2bERRb1V6TUZNbE5lSUhyU1V0Mnhld0tfcldkajVReXlCdF90amtxeFpyQl83WUFIR21OT25qcmJKbzE1TEdkeDFuZVJpcUQ3ZHZTaWFLaXF3?oc=5",
+      "source": "Cadena 3 Argentina",
+      "published_at": "2026-10-23T17:52:53+00:00",
+      "score": 63.78,
+      "corroborating_sources": [
+        "Cadena 3 Argentina"
       ],
       "signals": {
         "source_count": 1,
@@ -26,59 +146,13 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlAwWWlBOHBfbWJCUFFpaHdKUTg2WjNPNzBLTUtQampVR3VNSlY5MGRhcnVxR3ByUlR0WGxBbXZ0LXV1WWFNWWR2azdLbUlmR0hORTZJbzVKRzliWVlvYzNpU0JfWmN1R0xaaGpEWTBlM0gzZlk0VzV1TFduenFXVkw3OTVEM2dDMHJTVWxaZVZnNHpGX3hBV0MwVWhRZnZzZG9yeQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-23T14:04:00+00:00",
-      "score": 72.88,
+      "score": 62.73,
       "corroborating_sources": [
         "Folha de S.Paulo",
-        "Metrópoles",
-        "Poder360"
+        "Metrópoles"
       ],
       "signals": {
-        "source_count": 3,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "74061b4ddcaa07ae",
-      "title": "Luisa González denuncia persecución política en Ecuador y recibe respaldo internacional - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEJEeUgwSnV1dVpZQkM3VzFsSzlBZnlDUzFKYzF0NkhzT0IzX05pcXJ0dDBaTDdoNmttZlhaTDhnVjd6cDFXWHhqVHBqRm9sdzNTcUtMRDExTFdyaUhJYjd4cVJOUHFrQ3R4MHFfYmxCQk1ROUsxQXJpd3RRM3hqQTk3YlZXQVp5b3R2Q0hDMkpoV1BCVHhwci1wNXAwQ0wtQl92SkFyZEhBNWgwalFmV0dBZE9zMk9ZeGtSX1k1Mzhvc25NWGVEaXViUzHSAdIBQVVfeXFMTWJlWUwwczV2LURKcHpLdnZYMEJSa3F4R1J3dFFhbnFtVkE0WWs0TzVvVGkxbEs3R3p1WWs1NUpJTk5UeXlHekp5WGtiMlBVUV9uV3V2RzJqTHczbXU0bmx1czRpTWRPekxfVGR6SDI5d3hrSUhnbENPQXl0YmMxejV2bERRb1V6TUZNbE5lSUhyU1V0Mnhld0tfcldkajVReXlCdF90amtxeFpyQl83WUFIR21OT25qcmJKbzE1TEdkeDFuZVJpcUQ3ZHZTaWFLaXF3?oc=5",
-      "source": "Cadena 3 Argentina",
-      "published_at": "2026-10-23T17:52:53+00:00",
-      "score": 69.31,
-      "corroborating_sources": [
-        "Cadena 3 Argentina"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0866af738df3413a",
-      "title": "Tesouro contraria pressão pré-eleição e IPCA+ 2050 cai a 6,48% - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWo2V3VIRUNUM3pTRlU0Qm5xWHFObXRhNnJSU1pUZHA0X2wxSjRRWGxEOWg5MHhQMW95YnZaTmdMejdXZzBFREt5ck5zTzMtRkFmbmJ6c21yQ3l6V2tlRHB3ZUZtN1I2SGR0UVJZTndFaHpMaDRpNktxLU51Z3Z0ZVVNc2pYbzNHdVduNTVuR3MyYkdNSC0xLVB0aE5uOWFuS3NQOHlhemM0OTVlZlQzWFF0OTJud3JWNmQwVlBabTd3YkMw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-23T14:53:30+00:00",
-      "score": 69.22,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "47750c68fb586008",
-      "title": "Luisa González denuncia persecución política en Ecuador y gana apoyo internacional - Agencia Noticias Argentinas",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYnJGLUNweU91dDNnMG4xNUZIZlRsM0IwNUdJZkdEOGNBdmtZT1hhOVhRdWxPS0pSVHBhaEZ1bllpQ0ZITnpGQW9aRU4wOTlkMUlHdmE3VFRvTWZkYk1ieWwyS1RUVWpLWjJ6MGFvZEFJUXN3S2d0QXoybnpXV0taazNZVGlDdUVNQjR1Z1RIWlRfZFhoTXBhdnVzVmdSd21pcWptd2ZsRjh1Q3ZiQW5PaDc2YmpFTVBQRGFGd29zODhwZFYxbEtEc1d1UVpfR1dBRVJKYlJ2WHZrcDRiMGhZRzlXakxqMEtWUVd30gH6AUFVX3lxTFBsSkNMYWJnN0tWTS16dk9zdjBvdkl1X1hGcHZBZnFXZHFseS10OERJbk1laEpjcnAwUFRGQUN5OFdwZUtuNk1MbFcwazdnRDNTVEY4MVo1YlUtZURfT0lMZ1pvT3BFZmVHVlJGTFp2QWxUQ0l3b2xzdS1Zc0gwVHJwWFExR2pmdFVVMmY1UWNoR1dmdUdvN1dRbEhyZEJiMEZnMGpWRk52ZUVoek5DcjlkaTlLLTNUN2RPdk0wV2xVQzZINnNfMzU0Y3Q4ZTRKa1ZuS1dtRjhoQ09aYU5uem1HaDQ4NHBFR1VoeEZTbTFEV1BfVHFTTHVITWc?oc=5",
-      "source": "Agencia Noticias Argentinas",
-      "published_at": "2026-10-23T17:23:59+00:00",
-      "score": 68.8,
-      "corroborating_sources": [
-        "Agencia Noticias Argentinas"
-      ],
-      "signals": {
-        "source_count": 1,
+        "source_count": 2,
         "social_metrics_available": false
       }
     },
@@ -88,7 +162,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1JEMGR0RVYxQUo4X1REN2YyeC1TakdGcjA2RTdFcUFHZzJxMnpTYk5wY1dhdnhMbUY1M282eWc0ZU9yOGh1VFE0ejNmRndreXZfVnRBVTF3SGxRcE5uNkE2Y0VqWW9aaHFQVC1Fc3hFTHY1ZllRbGFGNi1LRWw2UjlXdDFSS3NsUmVvdzFYcmdRb2NaQlU3cWJCMHJqS050S184NE1DUTRKZG9NVFBobXFnd3lSbVhaUVB6Y3MxVWx2ZWxlczBPSnJVeUM?oc=5",
       "source": "Diario Constitucional",
       "published_at": "2026-10-23T16:21:53+00:00",
-      "score": 67.71,
+      "score": 62.41,
       "corroborating_sources": [
         "Diario Constitucional"
       ],
@@ -103,24 +177,9 @@
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQk9tZUQwOUpxWWU0RjlMM3ZsNnd1cmVnS2hRblZHN1ZHcmVvN3F3OHFfcjNWRGVhRG1EYURNVU5oYXJITzdGY1p0Q3Ftb2ZLU3o2cjEwN1FTckVVUDhjckVFdG1RWW5ueEI2UkxiTUFPUGRNS2ZvOTg5dlJKQ1MwdFQ0Q2NTMUg4VG5ldGlDWWJPOXZ3ZU12V2dJVmJaTGRXcm5Gcm5hYW5ZaUtUUWNneWh4UjdRUlE0aWJER3dVQW9heWE2MXRkTWxSdmJMa0lKTGdGdDRYejF4VG9LUnBTMlpsN1dFSkFWMVEyTWcxdG9TVm0wUUxqMUVYaGFtM2NxN3NVRTFVNGt2N0hIQzVqT20wUk9Bd25tYzRBWWRzRWk?oc=5",
       "source": "Universidad Externado de Colombia",
       "published_at": "2026-10-23T15:35:45+00:00",
-      "score": 66.92,
+      "score": 61.74,
       "corroborating_sources": [
         "Universidad Externado de Colombia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6386005918603711",
-      "title": "Pressões dos EUA também desafiam a soberania do México - Brasil de Fato",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdF9fUVh3TDlITUFMUC1vZXREcU9WOHZjNENpVUZQYzFSNG8xMDZTOXVQYmhIemswbU5iWVBJTFhBa2Z6RVFLeHQydHVDR2toRTROWnJrem1Ydlotajc5QnQtSDBmdy11SGFZT1JuWWVDc3FPVnNNWXJCdXY3WDJfVFh4ZFZnYU1HcVFIRGhsMlFhd0t0ajRNTklSU3pzUW1SY2l4eGx5dVU2M0Y2WktXbXcyV1FrY0tqcFlHS0k5bzVlN3FkbGpWY1B3eDVodlcxNXJuU2RlTXc?oc=5",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-23T22:21:00+00:00",
-      "score": 66.45,
-      "corroborating_sources": [
-        "Brasil de Fato"
       ],
       "signals": {
         "source_count": 1,
@@ -133,54 +192,9 @@
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONE5Od0tCRWo4aG1mNHAtM241RUlxUVczck8yR0dvMF9GbE83dEplUmI0cWxDN0J6M2ZpNW9aMktNV3RHVEFOYVRtYTVrd2xqMFo1VjZKLU1jazBoaXZmYXhsbGYxN2hkVFVmQXlNcG1qR0RyS0tpMVRFMTBhQ2ItMzk4cm5PcFk4OUhmQXk0S01TeFlpTncxVnNMT05Ia1VtU0VSdjFuVTQ2aXBXZkNpeVdJOFdwdGFLVnJjcllhRjdnNzdGMVloMV95OUE3dDZkekp1WW11RXlIdDBGSUlFQjJiVmFjSDZHMEIzMHV4UjJlTlE3dkprWnVDOHFvMWFmbEROQUpSMlpVUDRiS3lJN0ZoMlg?oc=5",
       "source": "Terra",
       "published_at": "2026-10-23T15:03:00+00:00",
-      "score": 66.38,
+      "score": 61.27,
       "corroborating_sources": [
         "Terra"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "be9d6b32b849f961",
-      "title": "Fundador do Novo declara voto em Lula contra Flávio Bolsonaro - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDh4d1Rpd1hCU0E1Wl9vdUVWY1ZHQ2dGbERvZ3JYU1dpa2F3bUZrYUk3Zi00OHR4VkpCTGZ0TzBXcldJa3B5bmlQLXNBSFo3T1ROTkVLcDZBYWc4V1h4bWNXUDFMelBlM2M5eE1PU21tYmZKSEpvY3dXczNOR1dHUHpsbnRqbGtUVE05VHJkVF9QLUI2SVJ2eG80SmVWcW1FN29oTzM1QQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-23T19:43:09+00:00",
-      "score": 66.35,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1932ae82b0687702",
-      "title": "Internacional. El Faro de las Resistencias (2) - Resumen Latinoamericano -",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBSd1V3SlgzNUpTbkpzWjZ3VmZibFlxbVNLX3d2REFYc0lBTmlYVkcwbmtNN3AyRjRlaU56cUNNUjlVQ0xNSWJ2TTNFaWNlUjlNeC16d3pIZ000dWFtUGFHb0E3eXJaM3NubGVBRmRJUjJkY1M0UGhkN0JfLXFweV9sN2R5U2EtZENHeklWaUNoNHNSZW5BczJ3?oc=5",
-      "source": "Resumen Latinoamericano -",
-      "published_at": "2026-10-23T22:13:48+00:00",
-      "score": 66.3,
-      "corroborating_sources": [
-        "Resumen Latinoamericano -"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "958277f823fc658d",
-      "title": "Nikolas percorre Nordeste para ampliar votação de Flávio Bolsonaro - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTVqRlZ4Y0NuVFNvNW1wTGV2bTNQVENJNUFlRUN6SEFQYW9zR2RTV3Zid2YxZFl6UVhDQU1WVHZ2ZXpZaWJiMUx5MmJkeG5XNkY0Snl0bzRaT01XVEdPMklEZnR1MGR2d3A3SXFfSHhNdEVueHFqbDd0d3dsQ1ZKOU9hVy1CWDN0SUhzNExua0ZUMjJtSUNHdkZ5aXJ6YXJsbU8yaDZLWFdRSmhEM3c?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-23T19:38:08+00:00",
-      "score": 66.25,
-      "corroborating_sources": [
-        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -193,7 +207,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajFVTmFnV2NGcHhkalJqbVNidkRwZHlQUmk3VlBxM09IMmVxRGJQb2FZS0hUUll4WlpNcEd5WFJwNXhQaXZGUVExREpVZUFRMlpfT3lYcFFYTFo2cFpLc0JVTGdiemh0TzBCWUxHZmRVUEpjbzJrZDdoR0tVbUFUSnN2NU9UbEhXai1TcA?oc=5",
       "source": "Agenhoy",
       "published_at": "2026-10-23T14:33:19+00:00",
-      "score": 65.89,
+      "score": 60.85,
       "corroborating_sources": [
         "Agenhoy"
       ],
@@ -203,14 +217,44 @@
       }
     },
     {
-      "id": "7317c25f1f3c9d5f",
-      "title": "Renner anuncia data do primeiro show solo após a morte de Rick - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2JqQXlLbFhvZEg5a0o5X3FNSkdwcXl0cjNNUnpHNjQ5bVdCNDRUVDAwNENpYkYwc21FQUhoSU83d05pNzRzc1dTbGt5NGtHYzBmUWdORTFvNFhDSGNTTm9oMGdiUWp3VWtUMHF0c1pQS0hVX1hjME1hclhaN25EX3A0TWFqcnEycGZLQzNZOW5KVkhMVVVHZllQcFhkWmtqbVdHM091NWpHSlVyVUNvdC13?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T18:17:00+00:00",
-      "score": 64.75,
+      "id": "be9d6b32b849f961",
+      "title": "Fundador do Novo declara voto em Lula contra Flávio Bolsonaro - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDh4d1Rpd1hCU0E1Wl9vdUVWY1ZHQ2dGbERvZ3JYU1dpa2F3bUZrYUk3Zi00OHR4VkpCTGZ0TzBXcldJa3B5bmlQLXNBSFo3T1ROTkVLcDZBYWc4V1h4bWNXUDFMelBlM2M5eE1PU21tYmZKSEpvY3dXczNOR1dHUHpsbnRqbGtUVE05VHJkVF9QLUI2SVJ2eG80SmVWcW1FN29oTzM1QQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-23T19:43:09+00:00",
+      "score": 60.53,
       "corroborating_sources": [
-        "Metrópoles"
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "958277f823fc658d",
+      "title": "Nikolas percorre Nordeste para ampliar votação de Flávio Bolsonaro - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTVqRlZ4Y0NuVFNvNW1wTGV2bTNQVENJNUFlRUN6SEFQYW9zR2RTV3Zid2YxZFl6UVhDQU1WVHZ2ZXpZaWJiMUx5MmJkeG5XNkY0Snl0bzRaT01XVEdPMklEZnR1MGR2d3A3SXFfSHhNdEVueHFqbDd0d3dsQ1ZKOU9hVy1CWDN0SUhzNExua0ZUMjJtSUNHdkZ5aXJ6YXJsbU8yaDZLWFdRSmhEM3c?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-23T19:38:08+00:00",
+      "score": 60.45,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "35e67d5fd3b3dce0",
+      "title": "4 pesquisas desta 6ª mostram cenário indefinido entre Flávio e Lula - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejEtV2RLS2pULXQ1V2dzUndBRjY3NWk4TEZfYUhVdnZqZUxTYTZXc1A3LUNPTTBzNjk2V1BHRW4wNDZveUgtSVk3dHN0SUpVOGpnb2Y0M1gwRF9rRk1HNG8yNE82Ym9aWFhUUFlreEhobWJpbnFFR1Z6Nm9nSnJvQ2hDUkU1ckdaMDFNMjZMbVFGYkE5M3lNUGFpSldMU3c1NU12TkF5QndKaFVoRU1sUE5TeFNadFU?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-23T19:31:03+00:00",
+      "score": 60.33,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -223,7 +267,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMG80WnA3ZVlSYzV6akdrbUdQYkp6OG5wOU9ETWNtUnNiLVJrUTQ4R1pYNDVhcC1pMGlKQ2tRUDFoanlrNXI3ZXhDdmhhQTNheDExTHdyemNTOWpNX1F2UkJwLWx4SXRWbkItOEl3aTZIVk5CZzdsaFVHOVBZX29ZUFd0eUdpVTB0d1BrVEpFckhBMXVlaUdOUDVlNFZUcjVsMW15Z3V5SFJWTWRRa0RhRkFjdzhGZFZWdVpGQnhmWFpuNGV3TUtfRw?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-10-23T10:00:00+00:00",
-      "score": 64.68,
+      "score": 60.24,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -233,14 +277,14 @@
       }
     },
     {
-      "id": "1464be27609f2071",
-      "title": "Confronto final: Lula e Flávio se enfrentam no último debate antes do segundo turno - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUElrRWFSdkluRUlBaGl1UHEtaFcwdXVuR1g1bFlFOWRfb2RqT1BSbGpQVUgxVUR1QzJNcnkxajlZQWFBTHk5TmtnMjZlRWVMVEktbHdjR2VIRFM0ZG9NX3dmUmowR2xqa21LbFV6UzZMWklFNDA2TllWQWl6ajZ3b0pKTVFrbm1SWk5SUVQ3OFdaRDAzeTNqcnNSOVE1OHhqdzdvUmZIUXR4LUJhclE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-23T17:42:59+00:00",
-      "score": 64.14,
+      "id": "6386005918603711",
+      "title": "Pressões dos EUA também desafiam a soberania do México - Brasil de Fato",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdF9fUVh3TDlITUFMUC1vZXREcU9WOHZjNENpVUZQYzFSNG8xMDZTOXVQYmhIemswbU5iWVBJTFhBa2Z6RVFLeHQydHVDR2toRTROWnJrem1Ydlotajc5QnQtSDBmdy11SGFZT1JuWWVDc3FPVnNNWXJCdXY3WDJfVFh4ZFZnYU1HcVFIRGhsMlFhd0t0ajRNTklSU3pzUW1SY2l4eGx5dVU2M0Y2WktXbXcyV1FrY0tqcFlHS0k5bzVlN3FkbGpWY1B3eDVodlcxNXJuU2RlTXc?oc=5",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-23T22:21:00+00:00",
+      "score": 60.19,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "Brasil de Fato"
       ],
       "signals": {
         "source_count": 1,
@@ -248,29 +292,14 @@
       }
     },
     {
-      "id": "b407f755153a35d4",
-      "title": "La destrucción de las ciudades como arma política - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczJ1TjVzWTE2bVpxZkhIUW5tYVNIWENPZklHakEtX1h6T3lNZEZZcTAxSXhXRGMyNUd3TjVmUnZXb3QxQjlRSE5SQ2FFZTRlVER1RFFQRjc3T2RDZzFKOWl0d2FfempRTnQzdUpHcFltZGxJanJiTTJ3ZDAzSGRxVWwwcHVRZXFsTWtJa25CelhoWHI4TTZz?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-10-23T12:35:26+00:00",
-      "score": 64.0,
+      "id": "1932ae82b0687702",
+      "title": "Internacional. El Faro de las Resistencias (2) - Resumen Latinoamericano -",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelBSd1V3SlgzNUpTbkpzWjZ3VmZibFlxbVNLX3d2REFYc0lBTmlYVkcwbmtNN3AyRjRlaU56cUNNUjlVQ0xNSWJ2TTNFaWNlUjlNeC16d3pIZ000dWFtUGFHb0E3eXJaM3NubGVBRmRJUjJkY1M0UGhkN0JfLXFweV9sN2R5U2EtZENHeklWaUNoNHNSZW5BczJ3?oc=5",
+      "source": "Resumen Latinoamericano -",
+      "published_at": "2026-10-23T22:13:48+00:00",
+      "score": 60.06,
       "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2c792294cdfd4fbd",
-      "title": "Cidade onde Bolsonaro venceu Lula por apenas um voto em 2022 vira destaque no New York Times - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUxaeDNRRGl0NlJmNjJUSE14dV9BX1pqNzNLc0tRVXgzTnZUbzB1eGw5ZWdZeTdLQ1ZrVFEyUEw5X21YVFVESnFCN21BRGV1dWhhbVpMMUplYm8tQTdnVE54TnY0eVNFLVRkTGk2Y3poZTc4YVBFNE5vT0RTRUZKejJuUy1IeXJjU2l2aVhPejhRYlZyVmNtNXMyODR0cGRDeW9jM2pVRQ?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-23T17:17:58+00:00",
-      "score": 63.69,
-      "corroborating_sources": [
-        "Brasil Paralelo"
+        "Resumen Latinoamericano -"
       ],
       "signals": {
         "source_count": 1,
@@ -283,9 +312,54 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNUNiZWFjQmh2MlFoalZmeVBWandjektlZUg5eGpISDN5RndmYld0T2pqQkNOWU9kMHN1M19vMjl4ZGNhdDBCenBYUUNYQVBQZWZPUjc1QTBHVGZzbHZpZnd4YnhZWEZPdlNyclR3QnY2TmJzdEZHY1hoYnBLOWp6aHJ0TlR0RE5rV2M5c3hPNWZCRXhOYVhfRWhCZ2s5ek5wazM1RmNZRjJiOXYwbV9pZEhXNHNtOXQ0WjcycG5HNUJUSks3NU1ONg?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T20:32:00+00:00",
-      "score": 62.94,
+      "score": 59.88,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b407f755153a35d4",
+      "title": "La destrucción de las ciudades como arma política - Política Exterior",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczJ1TjVzWTE2bVpxZkhIUW5tYVNIWENPZklHakEtX1h6T3lNZEZZcTAxSXhXRGMyNUd3TjVmUnZXb3QxQjlRSE5SQ2FFZTRlVER1RFFQRjc3T2RDZzFKOWl0d2FfempRTnQzdUpHcFltZGxJanJiTTJ3ZDAzSGRxVWwwcHVRZXFsTWtJa25CelhoWHI4TTZz?oc=5",
+      "source": "Política Exterior",
+      "published_at": "2026-10-23T12:35:26+00:00",
+      "score": 59.23,
+      "corroborating_sources": [
+        "Política Exterior"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1464be27609f2071",
+      "title": "Confronto final: Lula e Flávio se enfrentam no último debate antes do segundo turno - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUElrRWFSdkluRUlBaGl1UHEtaFcwdXVuR1g1bFlFOWRfb2RqT1BSbGpQVUgxVUR1QzJNcnkxajlZQWFBTHk5TmtnMjZlRWVMVEktbHdjR2VIRFM0ZG9NX3dmUmowR2xqa21LbFV6UzZMWklFNDA2TllWQWl6ajZ3b0pKTVFrbm1SWk5SUVQ3OFdaRDAzeTNqcnNSOVE1OHhqdzdvUmZIUXR4LUJhclE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-23T17:42:59+00:00",
+      "score": 58.63,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8a2b6601c1b11f5a",
+      "title": "Folha, juristas e relatora da ONU criticam restrições a canais políticos no WhatsApp - Portal UMBU",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2xEczEtYVBjYzBxNGpuZUVmdnJLaXp4WEhKV2lzQTlsYWpJSFB0Ykg2YkdtMXgtTmhWM21oZXBLMHQzUTFHTV9qMVZYM2U0TWxTTmxOUENHdnZQVllYbXBmS0h4MTFuLW1jMlN0Z0lfSXhNTEUyR3hNWlBmLXBwTm5URnhoY25XTGYwWTNjdWZqSWpQcllYUElTNFpDSFExSlBSZFhqcFpDaElXeXNR?oc=5",
+      "source": "Portal UMBU",
+      "published_at": "2026-10-23T17:13:00+00:00",
+      "score": 58.18,
+      "corroborating_sources": [
+        "Portal UMBU"
       ],
       "signals": {
         "source_count": 1,
@@ -298,7 +372,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkxUZ1h5dUlKbVlRY1dBaERKaFJQV3VTamFBX0MtSFIzRXJ3SkFXVVVnZTZaS0tVMmFHRmFWQk4yNzdfai1WV05SMjlMZ0Y1UUNLUW5JUnZDOXNJRzN1ektqSVRqWWpPU0xOMEdnZUpEVmlmOHpBSVNOWDFSMm5BbV9tb2UySFRTd0tyZ0V2bllwcUNRdUdGQ3UyNTdDdjAzcmdjZlBBNy1fTXVOa0hvWnh3V2pTUF9mQkHSAb8BQVVfeXFMUHE3alJXcFp4MVl4ZklJUzFaZEI2LUt4dXQybWhuNDlHMU9lU1RBamZYdDVOMi1FbU9FRWdNNlZ3SUhPbkxJZHZFc05IVGYxdmhGb3NFbDNhNm9CaEtKZ3g5NTJWVW0xN3YxRjRPeWdackxlSzJlMEJRamV6V2h3bWlkNU9TUzd1eWdYLWJ4QVViZUQ4Sk9fb1JOZ2FiUEpvNUg2Y0tJNlJxOGJjUmJyel85SlkyRUpscFlVOFRSMW8?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-23T16:20:00+00:00",
-      "score": 62.68,
+      "score": 57.38,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -313,7 +387,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjRiVHBYWjRoOWU1S1pRYlhyUWJJSG85VEhnWHVVd3I4MlZoeHJ1NHVWZkluWF9tRUJZODBPbldPVDBNNjFlNjdzdUYxZlFWM3dnNmphd3lQQlNqVjFYTnp3MmpXNnAwaWhfeWI2Q0VzNS1rNElac0hnTzNheXFIanY1UWNCcnBhMm8wUTNKc3Y3UXNhWXlzNk1uLTB2RU9ET1p1Rm5FaGxZUQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-23T15:29:00+00:00",
-      "score": 61.81,
+      "score": 56.64,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -328,7 +402,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWUNJb1BjU2sxdC1SSl9oODZnZEFXVWM4UXJPaXdtYkVRbUc4UURVZ255b0ZOaEU3TjViazN0dHRma0pFa2tGaVBuSGNURlltUW1IaGhaaHEzaUNIUC1vUFhhRlZ2dXAzQ041czFyUTRadHZySEpDV1dNd2ZEZnQ4S2xkcTg2WEZYd2xrdVpuMFhjcDYzUE4zQUs3cllaOU8taUV2V1BqUHRzMDJ4eTNaV2o1aHVHMTA1dy1Ka3QzMWF4YjVuNG1lWnZQQnLSAdIBQVVfeXFMT1dYejlXcUlmUV9Kd0JOTmNzZUs2dzRGSGFUc0tsWnozaXZEVEw3YXV4b08tWmp4SC13cnoyZ1R5S1hwU2RrS0VsWUVaUElnc1NtVUFRRHBqc1MzeFMycVpaejNVNEtTTWZHZnVWc0EzUUI5UHZDUzBnU0xVWnNCWE5kWmNKbThLOTZYclNxWFdDemEtQ1FTVm1uRkRzODA3aXMwTWJFUWpoU2haQzRkcjhEVmx4NUdabHJhakk4X1FjRlZ4aHlGZ3M3cFJqNlNFUWdn?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-23T15:10:35+00:00",
-      "score": 61.5,
+      "score": 56.37,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -338,29 +412,14 @@
       }
     },
     {
-      "id": "7e0e0288b840655d",
-      "title": "Real Time Big Data: Flávio mantém quatro pontos à frente Lula e 95% já decidiram o voto - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzN5RncwZ3kxNGt4N3hOWnN3LUo1dmNlWkJ5eVRtbmI0ZGFZYThuTmd0YW9sT0p3dHBUbFRQRm9qdW5nMHR2QjdNR1FlYl9tUGc0eDBjVjRsc0FMU2hwLXpPV2NqTkpuZ2ZEeFRKOWZxZk5ORndwYWp0Qmx4SDEtS3ZWMnNiVm1INmlRbzAyeE13TGtoTUcwTzVuVTByODkybVFhaVNR?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-23T14:47:50+00:00",
-      "score": 61.12,
+      "id": "94e5aba064fe35f7",
+      "title": "Escola com veto a cabelo tingido e regra de tamanho de saia: quais os efeitos disso na aprendizagem? - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcVhkcmxLcm43TUhqckNTSzJxV25wMkx4UWhYX0J0dlpMakdSTFZuQnduNXZGNHVYOFpIaHcxVE9mUmZMRW5wMmY2cFAwenJUTUNIZHJmdzJGV1dlUTk2a1JmdkY3MzRrWjZFbWpCWV9QTlZuY0pFODQ2MW9XRmdBS0RMb3lTM205VllrTW4tUF81SFlUUFdUS2hZdU1uX28yNjNySndORXdpS0theWtPR1pPSi1MV0VMQ291dXJuNWluNi10VEhaaWVobTd5RjRMOGVoVGlZOXJDNjhlM043SDkyVnnSAeoBQVVfeXFMUHF5ckJNeXNoRENHZFRHMk4zWVFfdE9wWlJnRllsdk80UXdSb1JGbmdHUENLYnZibi1VMWlKWmVLcG1QSlViTzJkWFhKY2R4bVlBY0lUT05UeVJMVVE1ZzQ0SGJIYnZ3RkliMGVmWDBZQk1MYVp3Ml92RlNtaTI5eERQV0s1dHpXZDdFcUZYZDhnOWxDNFk3RUl6NXd0WlJKSnJucEx6T1cyd1prMENIOVRURTZTWW10VGF1M19xeG14Z01ncDZ5clc2Zng2Q01jYXhxZnhnUmlrMEl4NkZDS3BmRW5aS0RKSEN3?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-23T15:00:00+00:00",
+      "score": 56.22,
       "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1f337261f5fbd610",
-      "title": "Why Is There No Minor International Theory? - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5VEk3VUdQeFpLV3dOM191STRVM2pqb2hkTmpyUFJYSWNfWTU2d0xCRG82UGp5ZFJXQmZTNG10ejdfSE1lVmszamFjOEJ2NGdCc1liZVh1em9NZm5sejhrSXZaWWZoTGhaV2c?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-10-23T17:19:51+00:00",
-      "score": 60.72,
-      "corroborating_sources": [
-        "E-International Relations"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -373,7 +432,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjh1WGE1bldORFU3VmRKcHE2WEhOaXZXUHZraTRHOGtmeTI2WlFfWV9hcEYyMXRsM3g5M0FHLUZ0TjlfZkhfWFhkX2NHWFRsVmdhdW5fcDVFVG8tay1SdGlvTldPWllmZFNUYWtvcm5jSEVYUmR1N1B3NG1uTXFMQWwtOUhRUU5sc3R0S0V1QWxSOXp2SC1rX1p6djJaSjRTcV9Vdk1Qd2NNNHdjemxKS19rT0w1OTdXRlYzbWRLV21ZY2vSAcgBQVVfeXFMUHNZZDlPSS1DeTJuTEZvV0U0QWlJbjN5a0NINjQxbU1uUmZxRzdGOWN6R1ZFOWc1NmdraWJoVjNoXzdRd25tcnliNFJZcU5mSjdpYXZzNjFlcEVWRzlqNUt3V1V1YWR6OEFabHcwaXZuWHRRcDlDal9jWHlYMWZrQWM4Q3pGMDZvOUdITXZRdGdENFRoLU5JUnFIaDdBM254clN3b1BMMEJHQzZEaEJIemh6T2JJYkt5dllLc3IyNmRxUTA3WU11LWg?oc=5",
       "source": "Perfil",
       "published_at": "2026-10-23T08:30:00+00:00",
-      "score": 60.4,
+      "score": 56.14,
       "corroborating_sources": [
         "Perfil"
       ],
@@ -383,72 +442,12 @@
       }
     },
     {
-      "id": "8f640020fafad5da",
-      "title": "Datafolha, 2º turno: veja intenção de voto por região, gênero, idade, identificação política, renda, cor e religião - G1",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOE9PN05uRng5NHdISTROam02X0JCLUJ0ZXlURnBDWlIxaTNGZXZPN0ZxT3FqLW5KMDZPRjFfVm44WlNUSUZqaHQxcndRLTBDTnp1amNEQmF6eDQxZlVsZ1ptSmltVkpzN09CUkR4UHhhLUlGejQ4blFMbnRBUnZJdXFDUzhQOXNpT0U0cnZtdXppV2l2aU9kWmhMX1hSZGIxc2RkYjltNUJ2Q2QzSUwzTFQ4VkQzOXZXd2pNOXFrNFFfaE1KYWMtcDYydWIxQ0QxaDZxcVpxVkpTZ9IB6AFBVV95cUxPLWFiVWtnNEtVRXJfY0RXY0QwdmxvalBZMmlWd2RHVmpoaXpMTW1zbUg1M29ybVZ0ZkZwSEdwWmY3TmNIRU5qQ19haGIwaEJBc0QxZklsNjlRTlJ3LXpvZDBXZnFZUHZndlJxb0V5ODhIYllXbk1HR1l3b0xqNWt3bzBUakh0RGZDYy1VWWJNdnVQTVl5dVBiMDBvLXgyYnBxN0hSdFFkMkpOdng5VlliSlVFOU5ubjNHeU5uTEtDS09qTkREZ3c3WlhETXZXSmxZbGkzd0tDb2FPejBfTFM4WHhfSlg2cWNN?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-23T03:01:33+00:00",
-      "score": 59.18,
-      "corroborating_sources": [
-        "G1"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7cd98af58504940d",
-      "title": "Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkpkamJyT1B2d0tLbXZHVkhnV1FXTWxfTk5wNnk4b2doOWtmWVh2RnpWSGs5WF9CMG1ZS1ptM0hBQ3U2SGZQcHZLVDh3Mmo4MDdKaTVWOEZiWnBiTk83anVXX19vRDJnVk5pWkJEaDZ2c3lWUmlqWmhEMEFPT210RHM4S25sTW9CTm1CQ3JSVUEtVGVCTl9GNXJmMDd2cXdhOG5JZ0dfQV9jdEZZM28wNXVZazZ2TUR6S2d5UThVTkJZeEh2Q3hwa21uZ1k1bVJ4cFBPZg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T02:00:00+00:00",
-      "score": 58.46,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2e19f3905280002f",
-      "title": "» “Writing International Relations: a publishing webinar with RIS” - Universidad Nacional de San Martín (UNSAM)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUVwLWgzb21sX2E3aXJVUDk5aEpLOGM2bG53Zk5QN2ZuZHZrcUJtbWdrTGFCbnB4cE82T0tWRm5Ebjg5VDFKaXJBeFN2QUthT2lnd0RWRng5ekVRV2xHWmtmWG10SHd3OFN3RXhIX3NpVG0zUjFnaVpJUXAwV19KZHVkTjJ1ZTFDdnNVZ1h2ZkF3VlpnbmJJbXc3eW15T2JkNENCRk5XYnlfS2pYYk9PRQ?oc=5",
-      "source": "Universidad Nacional de San Martín (UNSAM)",
-      "published_at": "2026-10-23T14:42:54+00:00",
-      "score": 58.04,
-      "corroborating_sources": [
-        "Universidad Nacional de San Martín (UNSAM)"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "278f71131110d20c",
-      "title": "Brasil e Índia são parceiros estratégicos, afirma pesquisador - Tribuna do Agreste",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmstSWhPN1ZGUkJqRFJPc0pzQllkbzgzcFo4elNDYmF2VnhlRVI2VVVxeU9nSWVmZzFhOFRnN3c3WDhDU1U5bnRDaENTQzRWZndvREh1bWVpREMxcnNTN1ZkWXBPTGE3dW5xRHRhLWdwajkwU1ZsNGF5RnVVOUJneWdSV3h3dEtnRG1jdlJpeWpDTUt0S2l3UnJSb1pIU3RnYm5RcUc3MHp2M05Qc2tPOTZwZml2UGxud3NLeVRR?oc=5",
-      "source": "Tribuna do Agreste",
-      "published_at": "2026-10-23T14:40:00+00:00",
-      "score": 58.0,
-      "corroborating_sources": [
-        "Tribuna do Agreste"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a3ca94f8fadeea01",
-      "title": "PGR se manifesta contra divulgação de visitas de Vorcaro e mulher de Moraes ao Senado - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkhfTVRRa3hYSmdHTzZ4TXJTcm9vRkZZOEJQTzlwMXMzdW01UTllemJiUkhoeUExaGZFeTlXbTRhTDB6MFpSQU11X3NuSkJTT2FYeDNLRWtHRnQtVV9EMWV3czVYa19BWGxUcnZnWXpfVnpRMU43NTl6MFhWdnNHSGZSTWs5VExhNEs3Vlcxd2ZBWjB3RVdBcXJpVk0yMFFzcm5aSTJfWFcwdUNiZ2EyRE5uSnU3Ui1yWHFDOE5Bc9IBxAFBVV95cUxQWjE0TlhvOUZ4VVNiSUJTUUd1NElTWlVGVjJrb2hRQ2pxSlN2YS1Jc2c5amhKTXNXQlNfSmcwckJDMkhpamlSX1hvdTNWRkJkTlBYM2RNVllOQ202UjVaNldTQ21oOERRYXhSazlxbnlFVU9IbHhoUGEyUWRSYmlleS1uYnpaUlVtelN3SkxKV0lReW9WZTlkc1FLWFhScnVPUmtha2gwWTNtdWktMVVsdVNoVjRTTWRvZGVmRHRCY3VXOUtQ?oc=5",
+      "id": "f64163ef7f6ce7a2",
+      "title": "Tesouro Direto se ajusta no último pregão antes das eleições com queda nos prefixados e IPCA+ - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWo2V3VIRUNUM3pTRlU0Qm5xWHFObXRhNnJSU1pUZHA0X2wxSjRRWGxEOWg5MHhQMW95YnZaTmdMejdXZzBFREt5ck5zTzMtRkFmbmJ6c21yQ3l6V2tlRHB3ZUZtN1I2SGR0UVJZTndFaHpMaDRpNktxLU51Z3Z0ZVVNc2pYbzNHdVduNTVuR3MyYkdNSC0xLVB0aE5uOWFuS3NQOHlhemM0OTVlZlQzWFF0OTJud3JWNmQwVlBabTd3YkMw?oc=5",
       "source": "Estadão",
-      "published_at": "2026-10-23T00:47:56+00:00",
-      "score": 57.64,
+      "published_at": "2026-10-23T14:53:30+00:00",
+      "score": 56.13,
       "corroborating_sources": [
         "Estadão"
       ],
