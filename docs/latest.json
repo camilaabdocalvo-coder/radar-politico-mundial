@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-26T04:53:49.178517+00:00",
-  "next_update_expected_at": "2026-10-26T08:53:49.178517+00:00",
+  "generated_at": "2026-10-26T15:14:21.080418+00:00",
+  "next_update_expected_at": "2026-10-26T19:14:21.080418+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "59f86c0d1c2d6cf3",
-      "title": "Lula (PT) é reeleito presidente, projeta Datafolha 📲Leia mais na #Folha: folha.com/politica 📷 Marlene Bergamo/Folhapress - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWWlNMWFfeFVWUkNkZmtIcXRTRFhhbnAybXVPS3lydEVHbWo3YTY3bE1wX0dZYV9qRTF1OHpPMnNMYldNelBBUzhHX2h1RHhFN2c?oc=5",
-      "source": "Instagram",
-      "published_at": "2026-10-26T03:02:18+00:00",
-      "score": 84.21,
+      "id": "47b9c3a66ba5d579",
+      "title": "Miriam González, Democracia 21: “A Sánchez se le saca por el centro, no por los extremos” - El Generacional",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3pfd1ZIakVOMm9ObmpTZThWdDZaejcweDZfZWNpekZZc0xfUHlCcVVNa1h3dm51aGkyeHNvTHFXLVV5aGtST0JacDZDcUp5TGlyLVBrbmt6S2k3QlR6RHJPSUxRMElGNDFONWhVWFBlUm5NQ0VhZGtmV2dsQnhDQVJIMEJDQlZKUHRXczAxNTd3U2lEM2NRSkFWVHFyalpGQ2ROdXhadk5VUkhiQnBrc3U4Zms1azk1TlI1aE1OYmZYMUFieU04T3A3VWdhUDlXV051NFpYRmI4aWwyN1Jv?oc=5",
+      "source": "El Generacional",
+      "published_at": "2026-10-26T15:06:13+00:00",
+      "score": 75.31,
       "corroborating_sources": [
-        "Instagram"
+        "El Generacional"
       ],
       "signals": {
         "source_count": 1,
@@ -21,12 +21,88 @@
       }
     },
     {
-      "id": "0f092f7f299986fb",
+      "id": "bdd916fc72ec4a65",
+      "title": "Presidente do Irã parabeniza Lula e exige relações mais próximas com o Brasil - Diário Causa Operária",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVNLWWh5MTczdjJFVHFOWXdrMGt6bm9PcW9IQWhaQm8wOF9XT3FzRGpwRC15QVRJNU5NVGJKQld2cVViYXp4aTFNTUVOV0ZCNXlzdVpZMUNxN3lPZ0RiXzBDQVFvdEJuZzlrakp6bkVSTlE5cTdRb3plR0dXT1BZZFY0S2lxTkVWblhWS2dHOG44dzgtaTV1Zm1WUW93TUJ4bWlpRUhsRnJXeW5uWDNna1ZB?oc=5",
+      "source": "Diário Causa Operária",
+      "published_at": "2026-10-26T14:21:10+00:00",
+      "score": 74.38,
+      "corroborating_sources": [
+        "Diário Causa Operária"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b4a410d402249e51",
+      "title": "Vitória de Lula sobre Flávio Bolsonaro ganha destaque na imprensa internacional - Diário da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazhwQmlDM0JCWi1PMGhtc1NPWWtMdkJ6cjVoVnlPS2VRQ3Z2ajRvbW1CLTIxU2gwRFZHSHQxZjhmZVA1N2ozdzVOOXNSNDlCSmoyUDVCZDNVdV8zaGVsWnBZT0hWemhEelRUQWFQanJfMTQ3VVpvME1VYzhIRWQ5Q3JuN1B5Ul95SXlTNVZmVGFCalJ0UllnYU1MTXowdVZMOHBKVUZHd1VhMVoyaE1XVG9IYjhyRjQ?oc=5",
+      "source": "Diário da Manhã",
+      "published_at": "2026-10-26T14:47:00+00:00",
+      "score": 74.21,
+      "corroborating_sources": [
+        "Diário da Manhã",
+        "Gazeta do Paraná"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "699c1fddc2e919d6",
+      "title": "Presidente del PRD felicita a Lula da Silva por su triunfo electoral - El Nacional — La voz de todos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXNmdlpBUlpEeUp1SElzVW05SVk3WXJzSFduazFJczZQeTdaazFodlBmd2c5Qjl0TXRkUmtSR3hLdVJLQ19lQnV5dVN5ODlGSDk0SHIya3BvZGtqYjQwTkFTemtmZWJfUmZjay1xekw1b0gtZk5wWURJdHBLdlF5dUYwaWJUdzlGNzVYMThEYWRkRlVBNm8xT2ZmLVktYzhtaTV5eE1uMTTSAa4BQVVfeXFMUFNZbVpOZzhSZEpSWDBSYkU3R19FcldqWWxMWEF1YTNoa21lYVNKeDZWWXBUYzFLdTcxb2JBYVZkRXBFa01oV2g4OFkzSEg3b3R5TDRHM2twbzVyUHktUklOc2VTTnZoZEswbUNMYUJIODcxclNpT0V4c0N5R0p4OHExc2NFTGZhNElnc0h6eXUyWlVXMGdYUEtxSVVOMkYwYmhjWkJBRTItMXBYdnR3?oc=5",
+      "source": "El Nacional — La voz de todos",
+      "published_at": "2026-10-26T13:58:56+00:00",
+      "score": 73.93,
+      "corroborating_sources": [
+        "El Nacional — La voz de todos"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "15ce3a2ace43f7ff",
+      "title": "COP17 de Biodiversidad en Armenia: los hongos ganan terreno en la política global de biodiversidad - Fundación Terram",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTBrZVZNNHRrTTB4bFVQNEZEZGZlc0lsVkdtd1A5a3hDMmhfZXBHTC1mRzFSZ05BODBaWnZwSEZld3NjTENucUY2alVnY2lXS1RBTFdyaUtlTllIQTM0d21aVXJ5SWxCOXJGZHN3emg4MW9Fd3M4RmxpSFM4dVRzY2Z3RXBkamJaSWl5SG40M0ZhX2Jyb2FQc2Roa1JUVFN0Y2pBY0RRbTBCbUZpZEFnaGwxNFVJN3JNdHUtSg?oc=5",
+      "source": "Fundación Terram",
+      "published_at": "2026-10-26T13:25:48+00:00",
+      "score": 73.27,
+      "corroborating_sources": [
+        "Fundación Terram"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "40a3193990a9d8da",
+      "title": "Pequim reafirma compromisso de ampliar relações diplomáticas e econômicas com o governo Lula - Brasília in Foco",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTZUS0pVcTVUZGpTNU1Ya3JkbnlSVnJ5cWRtcGhteTlUVF92UERKWnNzWHlJaEt0aFFYemg1R0lPVndFSC1HX1hDVU44V2k5T0l1MS02OC02V3dRTHI0WmZJdG1sV25XMWJTRXlDQ3pWWmZvX2NRVjVIT1pTOHBtZEJ0YTJDZ19rczh3aE45UlBfYl94RVk2cm53eWhLVGhoS3QzMld5cmZPSFl6RmRaOXJLcFJNVmkzeklUTA?oc=5",
+      "source": "Brasília in Foco",
+      "published_at": "2026-10-26T12:53:46+00:00",
+      "score": 72.64,
+      "corroborating_sources": [
+        "Brasília in Foco"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "25e920265d60aee9",
       "title": "“New York Times” diz que Trump deve ficar fora da política brasileira - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWs5MzJnUGxmemE4NlkwbkdJcXNpNjVkMEFrTkg4WkxJWHFyb3JKYlBMajlTbFRVT1F4UGlPVk1QRllQZVJsZnlOVHdoZk5HU1hlZXN5TGxKVm5UWUlMajJteHl5UUZySFA5NVFOWEVWdGhnZkI1ekxMQzZtRXYybmo3cnNnV3RMVDI4SFJPdU1BOEd5UHZtUmEtS3p3VHhCcGRRSFFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX21oOExTTHNsZzA1eFA4YkRqYUhmTzVIQ2ZaX2pYanBQYlV5QU5PNDVLdjRZUHBOeklCcjRqLThISkRZTFpTQXlJM3drMXhsRXFON0JFaWpWblFCSWpmRGJYeTg3U1hOQnp1c0VGc095dllaOENpMXhQem9jZWwxdnc2Nk90bWFkQVF4cE9lM3RTWl9kV1FGdkFXMlE0ckN5S0VlOHNlUGlUdGNpZ3hzYw?oc=5",
       "source": "Poder360",
       "published_at": "2026-10-26T01:07:12+00:00",
-      "score": 81.29,
+      "score": 71.18,
       "corroborating_sources": [
         "Estadão",
         "Poder360"
@@ -42,9 +118,159 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSllSTUlpcXN6Q2NIaUJvSmZfdThmNGw5c1lsM01sWjNfWDVXZmQ5WXJ6eEhjTXZ6Q0F2NEUwTHVWR2tSYVN3S3luSEJobTA4SXRFN3Qya2Y3bS1WME9nSDQySXlhLXo5Vks3VlN6UlRUdHp4dWxTLU5lMFRBMmRWamV5clN4T2ctUy1SRFFQNFlNclpyWWZYWmdMdHJ3NDJfd0QxbXFJYlBkcWZOR2Y5dkltN0JrNE9Wa1NKaG5NamZjcXdGdTQyb1Bublgwek10emduTkR0bmk?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-26T00:05:00+00:00",
-      "score": 80.84,
+      "score": 71.01,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9e4ee70f0d5a70db",
+      "title": "Eleitores do presidente Lula (PT) acompanha cada pequeno aumento nos pontos percentuais do candidato à reeleição com aplausos e gritos de ordem como \"Eu acredito!\" e \"Vai virar\". 📲Leia mais na #Folha: folha.com/politica 🎦 Geovana Oliveira #politica # - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTzlLUkdwNjRrUngzalJGOXA1MFVQMmVCWFZad3l1Z21PRm5OdGNZSm9KSmp2amFmRl9sVVZCQnh5Wl9UOTFPcHQxRmRKeTV3TDZnUy1R?oc=5",
+      "source": "Instagram",
+      "published_at": "2026-10-25T23:59:18+00:00",
+      "score": 70.94,
+      "corroborating_sources": [
+        "Instagram"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9355d99caa5b38aa",
+      "title": "Veja as principais promessas de campanha de Lula (PT), reeleito presidente - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHE1TGF2Nk5qS2FWUThHMEgxaE4xb1FjQUFuLTFtc1ZMRENFV1U0MWtMd0ZRaW5BejhkejRDNHpoRWd3aUwtRm9EdlFFdGpSdC1MYjU3TG9yZ05Zc0Q0R3JrY3N2YThRMG5OLWN3VEVTaXhNZV9ja3JDZ0lRZEFoQ2hzbjFKc0NMRVRxX2FrbzlTMXlCcmpmQng4LVBxNE1HaGRsdng5MXdxUzV2SjdrN1cxNERFQlFTVGR5R3lB?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "score": 69.27,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5b4db8996e44117a",
+      "title": "As propostas de Lula para a política externa no novo mandato - GZH",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOX1BQWXhlbVZ3VFU4YTdhUGxsZWVKbVlQZ3pWY2V4NkJyaVVnNy04b1pTSTh4dlItaFRsakJRSW9XVlBGTjlvel9CVkdBWERNTDVWTVJMY1F4OXBCdmRoNmljQ0drS296U2lfNGNyclFpak54MWtvS3Z2ZExwVDlSNkYwX09OdXJacUlBUmxnbWRmZTZHeW9vUWYtOVhYM0xFTE9RaDNYZlFNeC1BQ0lYTHBHb0YtZ1pTSzBfQVJNZzZRNkxoMERwVDdVUWFIbDdqUUtKSllvazY0anZDNGp2LXEydTJiRkFneDlGcTVNVUhrSEUxcDBB?oc=5",
+      "source": "GZH",
+      "published_at": "2026-10-26T09:34:11+00:00",
+      "score": 68.92,
+      "corroborating_sources": [
+        "GZH"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "efa76e440ed88c62",
+      "title": "Lula toma posse para quarto mandato em 5 de janeiro de 2027; entenda mudança - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejVkcURxNFNnYnhhU1VrNFJQOFhBay1rbzE5WDV3ZkpjMlM0M29XbXM2dDY3ODlMNjlYZ3RYZ2ZSYXBwYlIwVW1lam8yb1FHdWh6SjMxQVNvVGlkWkZSUEpCc3czTFJhekZ5LVN4U0FERW0xVU9nRFViV3FNWTFhR2tIbTRkU28yc3VtazRYMjVyRzhILVpVdVFTcHM4SU1SUGJ0VDRNUGpIajNEamEzZzdQOUlQanJwNkVaMWV5dlhfejg?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-26T13:05:00+00:00",
+      "score": 67.86,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "903dee75b4b94c4e",
+      "title": "Lula faz história, mas terá país dividido e oposição no Congresso - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWw2bHlJN3NXTzN4bF9LbjFYWXl0SFhTZXlfYUtQNEZqZkVYdjZCRVBzSjU1TDl2WklvejVpODRnc2dlM2Ztd1VLMzlIRTBPQzJRTzJ2RG9xMnZCdUlIeEJZYTMxTFFRSUltdmNjeGxHTVE5NDBoMjNhQkI5UFdlaWp0WlVlZFFvLXQ0S1IzOEswblQ0VXZVSXBRRlZzQ1k?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-26T05:30:00+00:00",
+      "score": 67.81,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fa50eb493246121c",
+      "title": "Lula recebe felicitações de líderes de esquerda e de direita pelo mundo - Vermelho",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGdwSHdEX29YZlV3UnVtMERGUExDY01GM0F4MmJ4bjhUR1BpNjEtVTlVMVc2emRENWJSYllwVDFhQ2xITnBacDAzQUR3VFp0VU5pcl9MbmRFb0J5MnBRMUhaa0RuREMwTkdveS1RVEVfcUNsVnpaMnpkMWpfQVVVZFR1R2Q4bV9JRW1adzMyeEdjMXZkdzRBTGY4OTRfd0tFckNTZlFkR013LUU?oc=5",
+      "source": "Vermelho",
+      "published_at": "2026-10-26T14:40:00+00:00",
+      "score": 66.77,
+      "corroborating_sources": [
+        "Vermelho"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ae30a155f589a7d4",
+      "title": "Imprensa mundial repercute vitória de Lula: “Surpreendente” - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0FDa0pwZ3d3ZUFKTHFhdVRCWFR4VFNYbE9jZE4wZk5rdzBfRm1hMnJ2LUNJR1FxVnZQNHpIc01jOVNNT21tMlI5MkJUZjZsMmdKOGdZXzVNR1FPaXd5QU9CREF3a2FWZkxseklWLUdzOS1ZOVlEb1JfUHQxX0tSSFpWbmNaeWRCME5CY1Q5V2tqeXA0NDZUZDhVSlUydTBJUV9SS0ZucG_SAbABQVVfeXFMUHdZbWhZbnJsM19PMzA5ZjU3QXU2VGlySER6VHdJR2pMRGhURFlRa3dvVXhmbUlGUUwtMy1hSFp2b3h0QmJONjlwZEp1STFtZ1E5ZkRNQUd2TUxKcHpGMGRwY2JuYlJuWG1HcVIzWHpsRUUtMExlRjRCM3ZSaU1OUnhDcXB0ZmFxUEd5bThBLUtRMVJVVnZNWGFabnBqTlgxMjNsb0o2TjFyQW5xWm1RU1k?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-26T14:33:00+00:00",
+      "score": 66.62,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c3910fa6ceae64f8",
+      "title": "Eleições em Israel podem mudar o líder do país, mas e a política externa? - SÁBADO",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFVaWXNUUDB5QUpiUU9hc2h6dzBqMHFSWl9yZS04VDVLX1RhMGVUWVREQmxhX09HVEFWalF2VFM2VW0zSm45RHhrZDVTbVlUcERqc2dhcEItZEY1NEF5NmF0cW5TVkd6VVZPU0NaWDU4cC03dkptMjlPTm5VdG9EMDVYVnlfZERnS2NkYzkta0ttYzdjcnE3cGs3ekN4WktyTmpvdzBQd3BobTQ?oc=5",
+      "source": "SÁBADO",
+      "published_at": "2026-10-26T07:01:26+00:00",
+      "score": 66.29,
+      "corroborating_sources": [
+        "SÁBADO"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9bfcfdf9d539bd3b",
+      "title": "Modi parabeniza Lula e anuncia interesse em ampliar parceria entre Brasil e Índia - Diário da Guanabara",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU054YXQ4N2dGOEtFSzlEenBkRzQxY1Y4ck5lWWdwQ1pjVmhXVXFhcU52WklQRVZScFFrRXlnczFkZVFhYXpwVElocE1DQWNDYWZTYmZsSGdhU1RrWG9hQVlnT015Q3UtbEdCQXg4U2IwU0EtdG1iRk93akI4TS1SSHJ4bzRSakxVZDQ0OTNwMzZINXljdnF6ZHVJQ0xrSkZwd2FCdHZlRHdOa0pOd040?oc=5",
+      "source": "Diário da Guanabara",
+      "published_at": "2026-10-26T14:06:02+00:00",
+      "score": 66.08,
+      "corroborating_sources": [
+        "Diário da Guanabara"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e5e9f90f57b302eb",
+      "title": "«EL TRIUNFO DE LULA FUE CONTUNDENTE, SORPRESIVO E HISTÓRICO» - Rioja Virtual",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1RlNTFlTUY2U3ZvLVNRSldjN1UwbjhzR09OWFpLX0hGbEtYTmlLUGx3RDlQcWF2YktqVjZnUXZtMFNVWFYzVTRaOGxtNG0wZDliMXl2bGw4Y2M3X1dlY0xDVlllcHlEYU1ua1FqWVA1eGMwbFE2enFFc1BETWpRXzl5bTh4ZjF3S0o3TUdYMA?oc=5",
+      "source": "Rioja Virtual",
+      "published_at": "2026-10-26T13:41:00+00:00",
+      "score": 65.57,
+      "corroborating_sources": [
+        "Rioja Virtual"
       ],
       "signals": {
         "source_count": 1,
@@ -57,7 +283,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1NtYVJ0SmxJSlJzZkxWTjg4U01JY2VtakwySlBpSnVNcmJRUHdYTlg2Ri1DNDR3eDFEaGgzY05UUXF6Uzg4QWNnVTFJb04xaXdTUEw2NFVXMjY0aVFIYXh5WmttcjlRb3VGaGtrZjd1YWZmZEZLcU9EM291UFdRLXBHZUk2bVJoa1hUOHNyTnBVNGQ3SHN2OFVzeGRrWmxuS0d0SkdYeVJ3MGtuUk9mckNsRG90Y3NqekE?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-26T02:49:00+00:00",
-      "score": 75.95,
+      "score": 65.34,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -67,14 +293,14 @@
       }
     },
     {
-      "id": "63f2f42028dcab70",
-      "title": "Lula da Silva es reelegido presidente de Brasil para un cuarto mandato - Identidad Latina Multimedia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTjhpQjdSVXJyNVZJUUVSV2NCcGFpTGNGVHkzTU16OTAzZ3BvWFlTZjFrT2NvQUI5aTRpRkxnMmsyM0lHNHFiRkhhaFRGZGd0dTJmQ00yMGEwUmVqTGVzc25iVGpMdUFJdFA0OUJGZlU0cG5pbmVNNW9vMzlYc1BRckhOSjZlenN5cW1IM2R1OVl3LVpRYUptNVhYMWg5VUhFdHk4NlNNems4T2s?oc=5",
-      "source": "Identidad Latina Multimedia",
-      "published_at": "2026-10-26T02:54:36+00:00",
-      "score": 73.06,
+      "id": "536300d6d048a983",
+      "title": "Lula’s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQlVYUWs3WUNDbWIyNDQ5dzFNaUdfbnpDRFNzWlR6dVVxRFJKTDNzY3hFWGZaa19iMmRHcnpmSlBZNjdlTDMyczFEMmxpRTd1MDJHQXpUQ1ZOR3FaZFl6dHZDZmkxZmJXRk5oRDh2cE5Sc2JNS2t4Y3NEZEdwdnZLUnFkVXBHQXRvNi1zRjV5VG5Sb0h6THJnYXI0NDEwNGZhRGNOaFdKU3lsaFZCNm1iQVZ6Mk9LRllUWXo3WDk0TG0yWGFzaWxXdG5fTmdCdWUteFRJd1BfYi1IRG53UFRobVdyZGtTb0U?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-10-26T13:14:44+00:00",
+      "score": 65.05,
       "corroborating_sources": [
-        "Identidad Latina Multimedia"
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -82,14 +308,14 @@
       }
     },
     {
-      "id": "f6cd6e9f32e1c792",
-      "title": "Ministros veem erros do TSE e do STF sobre prorrogação e esperam contestações, mas descartam anular eleição - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSXVzeUtMN0ZSQnhlcXJpYkFCcDFNWURydWpmejhZSmZtV3hVdy1Hc1JyOFk4NzRhOXZiRnZuTGl6MzM4eEMtSzlmVG9lWEJLcFE5UndFVzYyOVdHWE55WXhWUUw5TXI4NjloUlZxbkd0NXc2ZkNFT3RKVnFzaWFzTVluX1VONG15dE5va3hsYVhrZkNuTUpOdXNfSF9STHJPQUVhSWVXUTc2TnJtcFFySkw4XzVrSm9peEpZUzZnRm5wSDI2ZkZaa2RIUnVlRnMwbzNld1UwN2xwaGJxQVVOdXhRdWdzSUx1QkphOQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T23:10:00+00:00",
-      "score": 71.85,
+      "id": "9b8e93fb979b4052",
+      "title": "ELEIÇÕES | A TV Folha transmite, neste domingo (25), uma programação especial ao vivo sobre as eleições de 2026. Durante a segunda mesa de debate, focada no futuro do STF (Supremo Tribunal Federal), a colunista Dora Kramer disse que \"uma corte d - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TWWh6cXhHeW1ZTmtuM0xrN3FwX0swbmpDeWV2RTlCSXFka00yWVRhdFNnTzZWWkVnbm5xMDVYdzRvLXB4Q0pzcVRTMlNtUEVzM1ZiWlZB?oc=5",
+      "source": "Instagram",
+      "published_at": "2026-10-26T10:30:00+00:00",
+      "score": 64.93,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Instagram"
       ],
       "signals": {
         "source_count": 1,
@@ -97,14 +323,14 @@
       }
     },
     {
-      "id": "c2deca872d745b92",
-      "title": "Lula da Silva es reelegido presidente de Brasil - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeExDQTdHM3VFMGNkdWx4NFBoUlJ3U1dRdnZxSWRpYjlLZjNDR3RwanZadUtLM1hvNVBSZkk3UmJ4RTdTdFFhbUNzdTZHQmNmdE1XbUxaeUEzQVV5MG9yZDVBXzZOdFlxSS04RS1qcVpwMEdpZnJZMm5pWWdTeEI4UlRZYXRIYzdydExEelBXV1ZESVhaU1J6QXJEck5mSV9JWTFXbVZCVUMyaTdjblVrTA?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-26T01:13:39+00:00",
-      "score": 71.12,
+      "id": "07ed74fee9c80811",
+      "title": "Imprensa mundial repercute reeleição histórica de Lula - Portal Terra da Luz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2UtX1hNMEg5WkJ1WEhwamZ3WHloQm1yZmdNNmlMOTRvM1lINGE3NHNkNnUxb1NkekxpR2ptRjJUNE0yWmFwYWZydldMc1VrLS1zaUY1NU1HQTl5TEpRdmNzZm5Iakpwc3NzMV93SGN6bXZYX2s1ajBWX1JKSVBSbkpRcWxMSDY2NGIyNDlwTXFhX2NTSWFlMlZxS3pVUQ?oc=5",
+      "source": "Portal Terra da Luz",
+      "published_at": "2026-10-26T13:00:36+00:00",
+      "score": 64.77,
       "corroborating_sources": [
-        "La Patria Bolivia"
+        "Portal Terra da Luz"
       ],
       "signals": {
         "source_count": 1,
@@ -112,14 +338,14 @@
       }
     },
     {
-      "id": "a133deeb7c87fd00",
-      "title": "Imprensa internacional destaca vitória de Lula como revés para influência de Trump na América Latina - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbU5IdXI4X0pRZVBUZU9Wdi1IQlRnWDM2OUlKdlluVDBqMHJYd3dQS1YtTURXVkhzQ0V5RFhrU1FaU2wzd0VmMEFBVVBfWUpjM05yZWxIY0JvcGFreC1nWmlTTDktWldzaXRlUWI3V2RvUVo1d0ludHkwZkcxSmc1RWRwdjhQaW1HOE12MnlLaDZNckFWdk5HX0tzaWlDSFhlMU1PRDRiZ3owaExHYjFwYg?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-10-26T00:59:00+00:00",
-      "score": 70.84,
+      "id": "6b83b9ae6bf20560",
+      "title": "Festa reúne milhares no centro de Curitiba 📲Leia mais na #Folha: folha.com/politica 🎥 Catarina Scortecci/Folhapress #politica #videosdafolha #reportagem #eleicoes2026 - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tQ2EzMXh1ZlVLU3RsZmpuZnU4U2R6bG1PMnNqQURHa2c0LXlhVWlnOVhpaVBlUURoLW14VUsyQzMtTVhtZ25oTXN3NC1YZEk3OWdVRzZB?oc=5",
+      "source": "Instagram",
+      "published_at": "2026-10-26T02:03:47+00:00",
+      "score": 64.68,
       "corroborating_sources": [
-        "Transmissão Política"
+        "Instagram"
       ],
       "signals": {
         "source_count": 1,
@@ -127,210 +353,14 @@
       }
     },
     {
-      "id": "ee3ed8907f8a495a",
-      "title": "‘Dramática reviravolta’ e ‘surpreendente’: imprensa internacional repercute vitória de Lula - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEg4cXZsSW8xdEMtRDN2R0pMVG1ycWZiZjZNSk1HSndnZ3EyaC1nVHc4RFg4Uk4zRTB1YWZVcE5SQXZlMWtFRzduZm1zbjRudlNTaDBDNlRhY0RWTUFiaWV5WkhLZkYyM0xDd201UXZJU2lJMTNkUkhsODgtNUdZWW16SFBVVHlqa0dnclV3RTVCdmpuWWwzNkY2bzZOMExpZ3VjRjQ3VU1fOU1PdVVBcEJMU3hjelZLZEJfYklRTG8tMEYwaS0xQkVuc3RGTmU4aXBz0gHYAUFVX3lxTE1iaXJaNE9yUmQzaml0MVZSLXN5N24tVHI2Vzc0RHVlU0o0Sm1iTXB0M3dod3Z0WmFqYjBRVElzSXFWTExKR21aYjQtQ0pjVXJOb3dRb2dQd19iTXFLZDFFY3VyUWt2QTdqRHl2M0FXZVNNcmlCUWh0UjVQMXpUNDE4bjJYc0JsNFdMMEg5Wl9Dcnl1UklHU2ItcmE2bms3UkdBaGhySl9ZeFZOZjh5WmY3RmhlblF3cm1XRnhKRXdVd1dINUt3SXJjaWlLU1J1R2dIVk9JUVh0eg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-26T03:44:00+00:00",
-      "score": 69.05,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "903e440863687507",
-      "title": "Imprensa internacional repercute confusão após extensão da votação no Brasil - Brasil de Fato",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNTNQWjJOY2E3WmdNMTMwMXlTSnRQUG4tZnVtLWUySG1zcVZLN3ZXemJHRzdBQ2FVZ1NyclpmZnMzM0hmWXB5R0pQVzVrR3FDdWxjb2d0SXNQQkVUQ194bU8tMlFJQlZvS0huLW9xS2g0bThWcHBHMnlycThXTU56X1kyTExqSWozeEhrVGNGb2NycTd3c0VVXzRuMFh6SmpyQzZmNDQ0QzdwZ0w5NDVnRl95UnVBVDZ2QVV6Nw?oc=5",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-25T23:16:00+00:00",
-      "score": 68.26,
-      "corroborating_sources": [
-        "Brasil de Fato",
-        "G1"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b6d1064f1cbf92c2",
-      "title": "Proponen mayor participación juvenil en política exterior y cooperación internacional - Plaza de Armas | Querétaro",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUlhVEUyVFdFaTNNU3BTNUlRQUk4aDk5US04ODJmalRkaDJoTzJQZ25PalZfM2N0OWYtZU5GRVRHaGp3X3dwcnZhQ2VaTnVmRy1JQ194aWRQMTF2dThXa0R6RVJtVkd3cnhUQk5ZT2h0R1JwM3NrYUZ1d3BrMU5mMGFFLVE4LUZzVjlSdDBCbl80a0tkaDZCeEwxdlQ5cTItS2NkcF9ycTFRYTc1LUNsX2VQekg?oc=5",
-      "source": "Plaza de Armas | Querétaro",
-      "published_at": "2026-10-25T22:29:11+00:00",
-      "score": 68.14,
-      "corroborating_sources": [
-        "Plaza de Armas | Querétaro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "90dc19d2e27cd3eb",
-      "title": "Em 2015, eleição na Venezuela foi prorrogada e chavismo perdeu - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXdTWUhGcVNmbzJidkRWanc1Q3hNS0xjUHF6Q0dIelg5U0czTHJxMWstYVNMQzNvMHJfQzZPNHJwMGI3SFMxMktKRWZBSXo2YmJyTW5DQlBwVy1IWG9zMEZzN3cycXFjdjRQSEhCOVZkdll4azJ0MnBtUVNrVE8zb1pDM3RFZDBCbTQzY2t3emlnSjNZM2dvRm1WeXhvb0lJYVJPdFlzUVlwV191djZFTlJVMy3SAbwBQVVfeXFMTVRfa1ZOOWZsQll2VkwtdTkwUWRDY3R0Nmg3UXZmWEtjZ09Fa2F2SDg2YW5GZXRhaXpTUW1DaFFEcU1tRXhFRGRsTUhxU2d0UmhlR1c5T0NDUXAyRHBlUkxzc0EwWmVwcElUNkFrVnNwY2NpZk5KZkJUSWVpRHIxTHJYMkFtTHkxTTdJbVBqTzhpdmxTUEpIQzlPM1VjTUNyZDVldk5sN1Bic29kZi1SalBLNmdlSmhBMi1kNG8?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-25T21:59:00+00:00",
-      "score": 67.61,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7f087da8ff65ea3d",
-      "title": "Lula recibe respaldo internacional tras su victoria en Brasil; Trump guarda silencio y Bolsonaro cuestiona el resultado - Revista Fortuna",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSGZzVVRJLU52eE5yem5QZDVQZmt6d0toWU9sQ1ZmSjhqN2Z0RXBWOXhqWmd6YjQ1ZElVM3pXYjJPM1JaY3V3TVVnakN5VUVMMG1wYU5kTmVGWWtVN3lib2F5RG1obTdyODhtajZ2cFlsQnlGYWtyUzdZVl91X2tpVHliekxoODBTbHJQRFpJRVFxOXNxVjdvU1hRci14SWpvbFUyZmZPSzAxcXF6X2JGdnhsSUtRS3BsVVdtY0lvLUhkRGc1N1RrelE3Nm0tcEpFSWljbEpfdzFBZlV4NVJlSk9tbjFxckFMRTNvbEJ3aHhyQQ?oc=5",
-      "source": "Revista Fortuna",
-      "published_at": "2026-10-26T04:51:34+00:00",
-      "score": 67.43,
-      "corroborating_sources": [
-        "Revista Fortuna"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "999a77d4ba0b6f33",
-      "title": "Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift - PBS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYndmZXdwY2p1QUc0UV9vbmpEYnE0V1g2VHBzejRJNnU3aUxZYWNLZnhxdl9CUk11MHVCSmpnQzdxTTN6OG5pNGplLWhwb3NORDVyZC03ek5sWExwLVhfM0lCM0NQcE4zRFljSG80RS1IZ1gyVmViSzVpT3dnQ1lZaGJmR3RfVGl0YWxWX3FuMzVOWWxOUFhfLTJ3TVY5SWo4ZUZPQWFLbFZab3J6QzRsZlpEWHJEVzlOU3FQN010V2xNT1ZlXzY3dE5VUnLSAdIBQVVfeXFMTzU4T0VIVm1QbzQ3UUhYU0J1YWM5ejMwQ0hoclEyR0VhWTNheGl5Z0tLNzZ4aWI2Nk4tNEdqWWMxY01kcHdLNkVQbk1JelRFTUlra0JPbHB1U21ZcnFuN1NwRm5fYVhDWGl2T1YwVXZPWElkWDN3OHJVYXp1T29EVENMYTEzdExqX1VabTV5b0Jua2dWMEhzQVFfSERveGNMR0p4dzh6TUlDUmYtQjdnTkV5RTdGUXY1ekk4czdBdlVvUkdsbEpUZkQ3ajFtZnoxTlV3?oc=5",
-      "source": "PBS",
-      "published_at": "2026-10-25T21:35:34+00:00",
-      "score": 67.21,
-      "corroborating_sources": [
-        "PBS"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "267eb756f93372f2",
-      "title": "Internacionalistas analizarán retos de la diplomacia y nuevas formas del poder - Universidad de Guadalajara (UDG)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVZFSzY3dno2S3h6d3I0SXlldkdYYm1aQm92VzVHUWUzUEtCY3JEd192YmItM0lwUWlRODVCbHB6T1NweEVwS28xSHplaXlSUmxrc2U4ektYcVZsWFVZTXBtdzVZT0h3WmUxRS1jcUwzbkZFbjUxUUpSZTRUWWVDcWRucExCRTJOX2VRQll1WjlZUlo0eTlqVk1yZGN4WUpnUzZ1MlhDRmQ?oc=5",
-      "source": "Universidad de Guadalajara (UDG)",
-      "published_at": "2026-10-25T20:49:41+00:00",
-      "score": 66.44,
-      "corroborating_sources": [
-        "Universidad de Guadalajara (UDG)"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "866459df478122e7",
-      "title": "Vitória de Lula derruba ativos brasileiros e deve reverter ganhos pré-eleitorais - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1hZZ3AwanV6VGdNaXRYSjNLNE1Bck5kckVCLXZabk1iSjRvTUEtYlViZ043WEZKTUlTZU5aVTc2Y3pIUGdfdGF0YmFJdW96bzNBeGd6a2xiU2R1cTRxeHVDcUJoV2FuT295eElMYVQ4ZUx3alVGbl9SY18yNmZ5VVVnbm80VUpjejc4TGRQMldlOEtlYU9yNHU5amZ0QkNOdEpza2xnNndBMTlXM0JkR0NjQVMzdl9TSHJUZ3E3amt0dUZoVW9ob3hSVlA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T01:19:00+00:00",
-      "score": 66.22,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0e2f1ce6626efb99",
-      "title": "Prorrogação inédita de votação após relatos de falta de ônibus pode levar a contestações jurídicas - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGlSZWdIc1ZWZmdON2F0S0V1TlVHNTRwZkZoa0U2dTdaLU1kQ1hKcGUyRnBLbDY5QXRzR1dqbUtVd0pzc3hMNzJ0MFRXQUxLYkw2NlVRY2VJVXlxX1VYdXBCMjJZc2FIVTdKRkR6a3hVbGcwZkgzd2NlMUZXbFR2THVXVWVNcjNtNGhRT1RXZlo1Ql9yR2t2NTRSanBaUFJlSldkOU5TTFR5VG9GVFdmSmVGcW5wQ29raFlhRHZtSDk5Q2s0M1VxXzlhWVRFYXowUTNDT2xmN3RMTVItdzZILU9B?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T01:02:00+00:00",
-      "score": 65.9,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c658248df7681bda",
-      "title": "Lula vence em 50 países e Flávio em 23; acompanhe votação no exterior - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWlpM1VNS3dVYVV6SDBNcklHb3NaempTWEltYW9vbHA1MmZ6SWo5MG9DV2pmUDd4VUlBSDMwZ01KeHhpTjBWbGxkTW1QUktRWklVZWNLQXJpRmxhazFES1E1UF91eWhHVjFvQW1oMDJ3M3VrSFhxYlEtQVBRMzJ5QjQ0NDBISHV5aHgxMGNCNXZpa1dK?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-26T00:47:55+00:00",
-      "score": 65.63,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "26ea60d24fc428ac",
-      "title": "Balcanes. Serbia: la rebelión estudiantil ante las urnas - laizquierdadiario.cl",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0pqejhsMjNuUmh2UldnYmdSQkZvR2tYY21oMDVrbVdwR0pZVjVsSWhieXdoejZ5emRiQkd5TVdEejFSeVZFd01SRHRyck84akFYSE9UQ1Z0NmNDdjBBX19zZGhhVG94bTJZM0gtNWtROTk0TVRnaHhyVDhaN2xCekhURFc?oc=5",
-      "source": "laizquierdadiario.cl",
-      "published_at": "2026-10-26T03:02:31+00:00",
-      "score": 65.22,
-      "corroborating_sources": [
-        "laizquierdadiario.cl"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2ad4e0763c903e67",
-      "title": "Segundo turno tem registros de episódios de violência no país - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmNfaHBIUDdNVkpjMG1oRFNwaGgxdE5seEsxeTEtMzdyYlVmZjVjT0hrZ1hXcjAyRkx2LTJLMVllbGpjRXJkVUw1OEd4ZThZdUNrekVuZVA0WEJtS3hoSGo3Y2ZrcnJIcGpoY2piWGpNdkZOa2t4QnJQOWlpWW5HNnFXenJJOTJRdGdRODkwTGRmbjc5M1A4ZV96UUxfSENpSnJfbExWRjZhTW5nS0ZmczI1VFV4ZndXMFY1NkhzUkQtbW9hZmM1ejJLNA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T00:13:00+00:00",
-      "score": 64.99,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9e8563b3bf40d34f",
-      "title": "Veja as promessas feitas por Lula para a economia durante a campanha - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3E1aDJacEFWUS1yaW9DS0RLOXFlcnU4U2pJZEtNempCVW5qYnVBR3E2NlJzbjJ0Szh4RzAzbDgyY2NvVlA3b0NYSlVtTlpIQnhwM3ZLSzltMGk4VklsRUYzaFZpYnR3c0NZcWtxS3V6X0Rtdm4yU2NROFJHa2pRMWVTZjA4ampBMWxzcl9JS3AtNWt4MGw0UFk3VmFmU0RsME9tOGNlRFdGSnMyOEhTRGNBSEU1c3QwZmpVNA?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T00:03:00+00:00",
-      "score": 64.81,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1241ff15a2588e37",
-      "title": "Decisão de Zanin gerou incerteza Brasil afora, e muitos eleitores não puderam votar após as 17h - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQkxwWFpkN3hBSzkxUl9YTnNrV2U5eVhEQjU2YXF6SkZFNWRlVXN3ZUhoeTNBQzJEMG5jVWUzSUFCS2NIeU9GTHRrX3VNcDZOY05MTTh5NEJvQlhDVDJocFBQRTBMUkd0LU5fVHpRTG5MV2tQWVMyTWp1N0JQbzV6eUFBTmRpQ3ZFWUNmbW9VeWZvckJCZHU2bzExdk9Ca3ZGZDBsaHBSNHZ1RUJmeEVfcGZYUXBObHZSWThqMDlaal9MSXlTZFl2ckFVR2tEMWlGU0kxYm42UDFRSDg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T23:37:00+00:00",
+      "id": "9b41d75284dfee75",
+      "title": "La transformación de la política exterior china bajo Xi Jinping - Diario Red",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeGJyN1BXVk1xODU3YmRSdm5menFhZnhfbjRJUkllbTFuQVJKanRqLUw1a3hvM2huVWdFbmdYLThHR2lMRDhPVThmVHhDX25fa2s4V3dyVUx2NFB2ZHRubmNsMk9WV0pQdGJhT3loeHA3SWtTOUQzNUN0bld3YzRCLTRDQ3lKSTFxQlp4NmFHdFNVc1FjdzYybjVhMTdMMDdnZFYyQXRSbTVVWWJwejNiNjBQeUs5VVBTVXI1ck9nWkFSTGhnbjRXVNIByAFBVV95cUxPeGJyN1BXVk1xODU3YmRSdm5menFhZnhfbjRJUkllbTFuQVJKanRqLUw1a3hvM2huVWdFbmdYLThHR2lMRDhPVThmVHhDX25fa2s4V3dyVUx2NFB2ZHRubmNsMk9WV0pQdGJhT3loeHA3SWtTOUQzNUN0bld3YzRCLTRDQ3lKSTFxQlp4NmFHdFNVc1FjdzYybjVhMTdMMDdnZFYyQXRSbTVVWWJwejNiNjBQeUs5VVBTVXI1ck9nWkFSTGhnbjRXVA?oc=5",
+      "source": "Diario Red",
+      "published_at": "2026-10-26T05:00:00+00:00",
       "score": 64.34,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Diario Red"
       ],
       "signals": {
         "source_count": 1,
@@ -338,14 +368,14 @@
       }
     },
     {
-      "id": "4fef47a9eae8a72f",
-      "title": "Celina Leão é reeleita governadora do Distrito Federal no segundo turno - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHl3NWtTbklQMXNkRkFjci1nTUd1M3MwZk9GVmw2ckIyR3V5TWJTaE5nYnFXaXFWcVFWejhxeXZuRkNlVGJlbGVaVU1MR3NoaGtobnFYSUlpX1ZOazBIVi1CSHlRTkxHaUk4U0xkRzVVcDcwb1dXTzd1dkFIdWQzS29ianlJYTk5Z0xwVjA2aEp6SmhDZlY3RGdYd05EeHFzVGZBTVRyX2M5Mkl5cjI1MFJSUTg?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-25T23:04:41+00:00",
-      "score": 63.76,
+      "id": "39f2f408c679e8e4",
+      "title": "Trump ante las urnas: el poder también se juega en el Congreso - Identidad Correntina",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkhPQ212aXBCNVBwclFMN05Cb0xneW1fNTNCa0FaakRwUFFCQm8tY05vSkR3R0prQjJOQzRya04wTlp4TTZmeFhpMUFYaTZSZ1pmNFFOeWZWZHZ1dzZYa1RuZTdQUGZJRDFEV3F0QnlIZ2dFUWZsd2lXRE1QbVpWVlJVTU1LRlFZMWJwcmk1OGI3NzZCOWFhNGRWel8zZ1dtTnhROF8xZ0xPd3ozZ21tZ2RrQS0wY1dl?oc=5",
+      "source": "Identidad Correntina",
+      "published_at": "2026-10-26T12:24:40+00:00",
+      "score": 64.08,
       "corroborating_sources": [
-        "Brasil Paralelo"
+        "Identidad Correntina"
       ],
       "signals": {
         "source_count": 1,
@@ -353,14 +383,14 @@
       }
     },
     {
-      "id": "cdab26a4c85cfdda",
-      "title": "Trump vota antecipado em eleições para o Congresso dos EUA e volta a falar em fraude, sem provas - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaDltYUF5aTMzbllDTWxLUXVtTEw3c1pSQ1QzTXZmYUpfc1BMQ2wtb0FaT3ZnSEx2Nkk0MjEyZF8yVjJJQ3VCRFVLdV9YcnppbW82MDM5LU0tS0ZtSlg2YlRESHVRXzJnTGhyWTA2d0xQX2l3SGFsVWt6T0s4bzExWVk4MkVUTmdfYXNUTHE5UWQ3XzhjcWlsbXFGY2NkQUZUTXA2R3hhQ2tNSVZlcm9SaW8td0NTdnJxZTgtcDVVYm1WT0tDTV84bGRBaHlDM2VCYVN1Y3pRang0UjYtM0E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T14:30:00+00:00",
-      "score": 63.64,
+      "id": "f3a9d086cb50c282",
+      "title": "O Brasil diante de um mundo em conflito - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2s3Z2tiUkU2YUd2OG5jSWpvMjV0eVM4NnZUTWVfaVVrM3YxUUxRYjh3M1ZPNkZ5ek40UFdRMTI3QzJEQkcxN2dhTEEtRzZ0TkVDaWczdjIyRmlJWFNhZjZFZUdrUGJoWVZBWW9jb2ZSOUJabDEzNGE5d1lBbnJaaXN5dWg2M0x0NFp1Yld3WjltTThO?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-26T12:09:00+00:00",
+      "score": 63.78,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -368,14 +398,14 @@
       }
     },
     {
-      "id": "83955a2ec5aaa983",
-      "title": "Transporte Metropolitano de São Paulo tem gratuidade estendida até 22h na CPTM e 0h no metrô neste domingo por conta das eleições - agenciasp.sp.gov.br",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZ3VibHhjN3liaUktRjNiUW51cklQTEhkTzg5SE1HLWVMWFJIZ2RGeXRvenlZTHNPMUsxNUZNRWZiTDJ2ZVZGbWFXTW1Vb01aUjZOV1hLMk1naWVwNGduME9HYmZkNXctV3Bod1Rva0VXUmUta0ZkdVhfSlRrQjNPdlFodmk0cnZCWWx6M1VKQmNpNUZsTEkxU2hBenJIM1U5VzFNQVdlUGFWSTlBZDdoT1VnSmdwMjgxYW9zM1FWRW5rUDFBaXlVNGtZMFdBd1RsRTFYU0xjdjFCUzNYQXZtQWp2bXkxMXFONF9sVVV5QkM1eXVVLWZjTVBWMHh1cE9aVV9MNThVM2RFN3hQRjlYblp3?oc=5",
-      "source": "agenciasp.sp.gov.br",
-      "published_at": "2026-10-25T22:47:59+00:00",
-      "score": 63.47,
+      "id": "315bc23ae96066b6",
+      "title": "Elecciones en Serbia: la observación internacional tendrá una prueba después del cierre de las urnas - Aurora Israel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNlBqLWw3WXFfeC1VR3pYN2pla1JCdVUydnMzTl9ubHFJbC1WcUs5eXI1aEdOVW9KWnZOZ2xHc0Vkdl9FQWtPbUcwb3JDcUFoQkZiclJabXpvRFNRWE9CdHNwM2RYT1hKcXVBTTFpN3JnN0VOVTU2QnVDS21Zbm5GM2NB?oc=5",
+      "source": "Aurora Israel",
+      "published_at": "2026-10-26T12:07:12+00:00",
+      "score": 63.74,
       "corroborating_sources": [
-        "agenciasp.sp.gov.br"
+        "Aurora Israel"
       ],
       "signals": {
         "source_count": 1,
@@ -383,14 +413,14 @@
       }
     },
     {
-      "id": "d05efce6fa7f49ba",
-      "title": "Imprensa internacional destaca vitória histórica de Lula - Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHpVUW96QUpKT2JUbWw3WG54V3MyY1BQT1QxcnB4Z2JCb0lfSDRXVHRhZ0E4VkpSX0tzZnZkdnMzbnNzRnZXUTN5VjlkNWwxNmJBNUlxQzJveGczdVVGVVdGNUc0WUg5TVdXNmdhWDltV2hndGFPTXhNTTdfVXVPcVI3VjJBQjR3Z1U0UHlxYnNzWWFuLU42SmlZYUhVQTNXTllZNEQtY0JPWUdkMTRPVXUtVWY?oc=5",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-26T01:30:00+00:00",
-      "score": 63.42,
+      "id": "92b61a3da6979927",
+      "title": "ASSISTA: Lula vence Flávio em virada inédita. E agora, o que acontece com o Brasil? - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWlmTXhrTWZLeFN1Z3dQRVdGYmtmNmVfZUo1YXZvdWs2dXU5cjRyNG1TbXBWX05Wb1FxXzhxMHp1S1k1Qkg0WDZCYXliaTBYa3p5R2RLSXF5UmkzTVRRak90WWxCMnhYazAyODRaZWhWSDF3aFZ2aXlvbWdEdF9FWUZHclRtSGNZN01LcVZmQWdnMXJKSkRzQUZuVGEya0U4b05wWXk5dGZMdW9VdXNpaTY2LUx0aHVYWVHSAb8BQVVfeXFMTjM5VDFOcXdWQ3VOYk9qUElrejNKRV91czBDaVlYSXozZ3VadTdaSTlUMXVQMm1uOWpqVXg2V1dnM3Z5c0JfU2FnUDgzbzVKMmY2Z1JyRS1Pc2pwUDZFYlJvTGR3YmdpWWpuTDBqMDU2OWszMG1KSnlFaF9xM1I2Ql9PaThTYlo4QndZN0g0WlFqZEJyekp6aFBLTUZzT3VmMUlzU0YzemZVSmJkazNVbEd2RXZObGZtUlRNdVhRRzg?oc=5",
+      "source": "InfoMoney",
+      "published_at": "2026-10-26T12:00:00+00:00",
+      "score": 63.6,
       "corroborating_sources": [
-        "Agência Brasil"
+        "InfoMoney"
       ],
       "signals": {
         "source_count": 1,
@@ -398,14 +428,14 @@
       }
     },
     {
-      "id": "00af9b6d21ab762d",
-      "title": "Imprensa internacional vê reeleição de Lula como freio à guinada à direita na América Latina e revés para Trump - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRm5Ec25POFBVSlZjQUNWajIxcWxpUklKMk5MeWx2Q0Rqa0k3dWJaZU0zbk1fOVBINEx1ajZXS3JtcWxKbDZrTGI2YUdZVHhPaU8zSzc2WnJPSVV5cS0xanZEVG5QRUhCWTdIMlU1M1YtUDQwb3M4dTlOejBQd0xiNlZtdGpoRmZRbm0xV0NQTFUwYzIzWTNwZ2pERlRUSGJSUVUzNS1oSFQyWUdOc245Slg1Wms2UXFnelltYWhJZGZqRlROTXNWT0VaelI3UXhwdnQ5aUJfWVhpcElwVjhucG1rVHc2bTd2QjZZa3cwSGVPOFZFLW01bS1SS0dwSWw0bnowWmx2ZXJfcVRROVhWT0RB0gGgAkFVX3lxTE5LeXcwSVhiaGZQUThKZ1VyX1dHMU1DOVdEdWVoMVNXdnBuU1pFRUVpOUFVZUM1TldWZE42bzQ4SW9QVTdXQ01WQ09nSlh0TkRDdVNnUkdfaTlaNmhmYVowbDhMTEh6eVRiQU0wVTBXRXpCb01aRml3ZklmMlppc1VtTzN0aGtYbWl3VEFkeE5DTDVCT1B5MURJR2ctZFViakRvNmhNTmhPaUVmNFBWYkZQSUl6VzlhMFVaUTh3eG43STg4aDZGcmVfQ002WTdPaTRiQzMwOGxfeHpMdHZQY05IUE9UdFNTU1hvejd4VUcwYS1RVXV0VEVMazM0LXdWeXotdHdMRzRjRFN0SGl5UkZNZU9FTV9tQ2wtNzI2MXdkdA?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-26T01:06:57+00:00",
-      "score": 62.99,
+      "id": "b90db11342075545",
+      "title": "O que silêncio de Trump sobre vitória de Lula diz sobre relação entre Brasil e EUA - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWmpzcV9FeGJsMTRTQUJYQ3ViWF9WOVdtX0xWVjJrb0RvNklMWnBMaU96cGl1c0NKSjdjT2FaMUR0WHBKUDhpT3c3Z1BiNURQT2QyaFB1UTM1MEZPQ0k4TDVDaw?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-26T11:58:08+00:00",
+      "score": 63.57,
       "corroborating_sources": [
-        "O GLOBO"
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -413,44 +443,14 @@
       }
     },
     {
-      "id": "5f28d492746f4c17",
-      "title": "Economia, STF, Congresso e ruas: conheça os desafios do próximo presidente - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM2xOWEdiN21vbXBISlhmVVIybmRkQlh0ME5WMTdGenZSd3FvN005aklhZ29CSVNOckpETGtuazk2MHl0ZEE3R1Z1UTBuVG5yWllQd0ktU29NNUl2MU1fdnBINjdwNHpwRDJ0cFN0Mzg4Rk1VdEViOEFwSmJFQkc0Y1dYVXVESnFVOTJaY3N5SWNmSExHUjZoYUhYM25scXRKd3FvMjQwc3VBc0ZQU0RDSGstdmEycjAyVWlhX2VB?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "score": 62.79,
+      "id": "ca0dc097de71d204",
+      "title": "Carlos Thadeu | 2027, um ano de ajustes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jaGJ2eXp4c0NMZVRFRl91MDVPb2F2YXhQaDJGWEtiTnVvWmtiNTVoZGFpY2dnVWFGdlA5TVptb0JES1dXajBRMGluWWJEZGFPRTU4ZGozaTJtVEM0SGdEblBvMnpmTWxJdDZ3?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-26T09:01:41+00:00",
+      "score": 63.35,
       "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2c1dbde43aef229d",
-      "title": "Após peso inédito na campanha, política externa colocará o novo presidente entre o pragmatismo e a afinidade ideológica - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNU3B0YkxvdTQycnpYQTFvdFlNVENfSW8xeG5JTjFFRGJkMkIzSWIyWDVWdUpuY0NHUk5TYU9xYzU0bkNhbTYtaHFFQU9DNXY4cTdBeHFYa09oNGtPM0pENFlXM19XdU5MZmY4ZEZIVVFGS3dObzYwaE9hbzNmYU14TXh1WjNGS2FmQm5SSkh4RVFDMkg3QjJiLUJubXdBT3JWNkRTQzNYOUxzWkpuLVN3WTI5czQ0LVlxcTVBdzFvZTlDTlpwM2hDUXlXWUFUWnEyQ25JOHZoMGxCT25XLTVpSlhpTHdFaWNZTzRLSU8wclB6emRjajJKN0d2Z2xjRnBoSVJYbFMtRV9TMk5WTkQ2N1NtUVVjc0VTSExV0gGqAkFVX3lxTE82d0pobjIxT1FteDNOcjhFY0pCcTFKT0c1WWJDbHI1b3RWallVUGJlOUZsYnRKellJdlEwUEs2dVBvWFowdlhiT0ZqN080Q1labWVQcTdCY1R1cXFBLWcxTGZJam9nNjFZclZEYWp1R2ktR25rV014TC02dzMtWHA4RUsyVTZkcFAzbktKdllQX1NtOUttdjFHSmpfVTRtY2JPM0hiS1lucnNUbklOXzFObFRHNHh4NVBXTnRDcThXd2gtOXBveWVTc2ZDclA0TW9XLWNINTdyUzZ3R2hRc254TVFpX08xRk50Ql9HOGZvNzJsX0JnRkJtVV9Ld2k4YmFPU240VC1LUDdTTGxMQzhwSzIxUnpyZ1BqUklPTkUtRkVtT1A1YUpMQVE?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-25T06:30:00+00:00",
-      "score": 62.63,
-      "corroborating_sources": [
-        "O GLOBO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3c7a635d17d51d80",
-      "title": "On Christ the King and the idolatry of politics - Catholic World Report",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSnhyRnM1NF93YnRSc19DZmV6ZFRQRnlablVfZ2kxT21zMVpnTVltZ1BfUi0wUXBKWXVmMmZvaEMxZ1RNTzd1Z2ZJOUVhSWV6dWdqbjYyZEhHanljQlVEdDhZZmcxaFRITUEyeWRRWm43cE53YjF2ZnRvSFBzdzgyV1F3TkZBN0NXMDl0WnNTdDZrT0w0ZU5iLVJNTQ?oc=5",
-      "source": "Catholic World Report",
-      "published_at": "2026-10-25T16:03:49+00:00",
-      "score": 61.98,
-      "corroborating_sources": [
-        "Catholic World Report"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
