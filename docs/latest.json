@@ -1,19 +1,139 @@
 {
-  "generated_at": "2026-10-28T05:49:03.815471+00:00",
-  "next_update_expected_at": "2026-10-28T09:49:03.815471+00:00",
+  "generated_at": "2026-10-28T15:09:19.934085+00:00",
+  "next_update_expected_at": "2026-10-28T19:09:19.934085+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "58e7622be63734e0",
-      "title": "El Papa denuncia en Asís «una preocupante rehabilitación de la guerra como instrumento de política internacional» - InfoCatólica",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EMnlIU2pDUC1BZ0tqMzVMb3RfYmVFSGgyeG1xc25wWU81b0lZREwyZnRfaGx4ZS16MjVTeklQOUhXOWR1YkxnRUpYMkN5YTlSamJlQzZzZ2FlckF5Y0E?oc=5",
-      "source": "InfoCatólica",
-      "published_at": "2026-10-27T19:02:08+00:00",
-      "score": 71.83,
+      "id": "da27ed4818841cf4",
+      "title": "Five election developments shaping global politics - Operativ Məlumat Mərkəzi",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYm1SRkRYMm5fNVVsUUtCYUd5bndvSkE2NVEydl8wcmQ2dUpTcnV5Z08zVFFjYUcyaXEzQWg2MGw0RFlkQXI3Z2tzZjdVY1V0WVhFS2ZVWEMtdlpWU0J6ZnF1Y0RMUTd2cms4NVREaHBPNnhhazVILWlfRG5kUmE2M08wcVRXRUtvZS1tZmYwcw?oc=5",
+      "source": "Operativ Məlumat Mərkəzi",
+      "published_at": "2026-10-28T08:03:04+00:00",
+      "score": 75.42,
       "corroborating_sources": [
-        "InfoCatólica"
+        "Operativ Məlumat Mərkəzi"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b9e8e93d7420c8e4",
+      "title": "El petróleo sigue al alza, Tags Precios, petróleo, guerra, política internacional - Transcamion",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVnczbmJ4dUVuTm9jMEZyWjBvTVBJQzEzX1d4WHhuZEVIcEtoU3lEOU5ZaXNIcTNHMy0tWlZPdHhsZTF1eWdzWk8tdE52aU9qcnJhSjM2WnpMRHp3Y2Izb3F3cS1lYkxqUk9rSlM1UkRGWnNldVB5QkY5c1RpQXdqbkpLUlF0TlR2aV9UZ1ZVMXhveUtzQXlUYVpVOWNkcG1GcDRtSzd2U1ktejlzQk9xSGhNcHF0MFNJOEI3M3ViazY5VG0yemZFV25jLU1fZkRhcUNST0dGblFCdw?oc=5",
+      "source": "Transcamion",
+      "published_at": "2026-10-28T07:04:40+00:00",
+      "score": 74.43,
+      "corroborating_sources": [
+        "Transcamion"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4149c7e3bc6896e0",
+      "title": "Carignano, sobre la salida de Bolsonaro de Brasil: \"Lo mismo podría haber hecho el presidente Milei\" - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWRJQWRoSkg5TTI1ZWdNbHA1UU81ZFU1bkZiQnNscGNXek52TklreE5EMnBUWHhjMXRueWh6eVU5Wlhuajh2SGNfeklCcFFEa0hjcndJZWdLVkVFMlA3NmI3VUlPQVBraUNrSlU3VUgyOHhZVEVzYkJNcHpiTmM3VnB6SGFaLVZDMUN6NGxFQ20zRkg3el8wdkJTMFE3NFhtdWZ3UGc3V0VYemk0Q0VJT0pSTnVPOS16VWRBejZ4ajU2VzZGS1duSk9XNFZsTXlKZEs2THY4QmlHb3BzRnhNOXF6QlTSAeoBQVVfeXFMTXc1Z1laMWc0NmR4TFd1anVvZDVFMDB5WU9sd1VNZzZkZ2llbGZSMnpHN0FsWUdtUG5UdzhHenl5eVlUNGFrVDlqVTk1VXhhV3ZkYlJEUklYQ2FSTkxJTkN1aVNfQzlRUVRobkdMX3M0TnYzeEFEX0NnRXFmVWNPR2FXVHNrR0kxQlQ0LW4zZ0hSWXREVTNFUzg4ZlNYbU1YcS1sdmpOMkZmeDNXMWQ3WHlxNUx1T1FINThOQWFyQW1CRzJUTUVoVGJFZWtFRDkzX0FRWXpNbWR6anA1Wk5Rb3Q0OERPcHNBRUlB?oc=5",
+      "source": "Cadena 3 Argentina",
+      "published_at": "2026-10-28T14:09:06+00:00",
+      "score": 74.24,
+      "corroborating_sources": [
+        "Cadena 3 Argentina"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c92168ef2ac6caac",
+      "title": "Israelis await final election results as Netanyahu remains far from defeated - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaElEZy1kTHk0TUxVRzY4RTctb0txdW1aMU55dUJXSkF1WmVlM2tka2k2OTBTSnlqNVZWVXYxTE13engwTVB4dUxQaE51Rno1X3kwWWFORHBSckJwNlZIUVQ4d185cmRhUXhKNEcxNEstdWEyNTJaNk1yQm1XemszMVFqcExHVUFvZkJjV0c5dDlzcmZVWnRqaEJDcDM1X3ZlallZMEJzeUhEMm53TXVMSklWQjMtUW9jQktVY29keUhOTVIzNk41ZF81RTdFV3BjVnBZcVlJdw?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-10-28T13:08:37+00:00",
+      "score": 73.03,
+      "corroborating_sources": [
+        "Daily Herald"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "968f308718d9f551",
+      "title": "The global war on citizenship - Vox",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEJ4b0tXOE1sdnk0ZTNOcTU2N1FzYmRfaGd1YTA2N3p5aGNoemJoOXZ4TTVBMFlkSjZXV2FFbzJiVzhRODlIT2U1VnpqVTdxdnRvUTZhN245dW1wVEdBQjVHVloxSzlYNW0zNGF6dGhsRnVnamxoazRFWS1uSGVkVW56eUdEaFJoUWdpZmw1U2dOZ2N1V1JB?oc=5",
+      "source": "Vox",
+      "published_at": "2026-10-28T10:30:00+00:00",
+      "score": 70.02,
+      "corroborating_sources": [
+        "Vox"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "11499bc66b01188b",
+      "title": "Políticas para setor elétrico custam R$ 48 bilhões aos consumidores em 2026 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0FocUN6ajBrTjFyTERKR2FWdXlWV3lWRXBtd2JLSklxcjd3Q2tPcFZkS1I2amZsa3pqRWVVZ2JtVk5OY09CRk5iSFFiZlYxaENOWUJhRVE2UVZwNExzdGlDVkRtbHRUWGRvRW1xODExbjBYVEYtem9DeW1BQ09qSUhOOEh5R2pMZzg4SGUycG5oRXFNcGh2YXF2YlFONlg1VFhFN2loLWVJekVhY1BBTHBycFBfQmFC?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-28T14:02:16+00:00",
+      "score": 69.1,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3942e8745a8acc85",
+      "title": "União-PP declara apoio à reeleição de Alcolumbre para presidente do Senado - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXQ0bUF1QTh1M2JNOHlRa0FzSW9tdy02TVVFSTYyYXk4b1MzbmFwRUxsdUlYckE1eng1NUJqaldmdWl4dm9ram9jZ0JLZWZOUW5pZE5UNkZWZVY3MnlMWjBkVkpiS0traFgzX0FUSkJ4d2lyMTR4UEpqZjQ0cHZndHdfVVdMVXNtQ21BV0p4ZkhvbzIyR2xpak9FLW04eTY5bk9TcW9YdVhwU0wzYVBfX9IBtgFBVV95cUxOeFZvU0F4WDQ1MmY2S2JMUzRsa29QZHdYdU4yUVZFeXp0RWtGX2REampLX1ppQ3RjM3FWcXNuOGR1QWFfbXNua0FxdEhEQzZONkFQUTg2aktiSGx4RG0yREFMUkZYSDdSTTM5aTlCOGVCbmF4VlREMms2U0Zra1p6Yl9OSlRFS01GcHdFcUxHOUVtMl9xeU9TdWJlUGVoM3R5YkdKZ21Dc2xUZ1ZkNEQ3RG12Q0Vqdw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-27T20:34:43+00:00",
+      "score": 68.34,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b68dc05678dd67db",
+      "title": "Onde está Flávio Bolsonaro? Veja o que se sabe até agora sobre a rota do senador - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0pybjhNQlhiX3ZBR04wU3AzVmlsVlk5cXBJUTNBZ25DSFdtUWFQakFnTE1VdFNFS3d4eVNXYnZxNklfMkZCcnNsVVhFZUs0bUNaMWVEOTQ0cG5laWdMN3o5VFlNcmNQWmlpelJKUVhIRXViMm9DREhzOTM2dXRvWHR4bWNtaXAyUnkyOGZxcl9PdjhpeGpvVThtZW1FY096Vjh4cnZ1U3RmWE5uYWwtbmF0WWNqMkE5RmJPYXRKWQ?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-28T12:38:41+00:00",
+      "score": 67.45,
+      "corroborating_sources": [
+        "Brasil Paralelo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5bd93b8a52059df1",
+      "title": "Analista admite novas eleições em Israel perante impasse político - Notícias ao Minuto",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUW5SQi0yUmw4UU1IeDMwb2lmZ0w5VUEyS0lvNTQyci00dUhwQno3X0xRT1duSzBFQWYzcC1RNW1TdE5VemNkV0xaVml2NFpUMnAyY3RJcUEzMXNOSl9rN2FmUU9VOEZ4Sllkb2pDb2ZDSm53LV83X29fRjlpLTBTRHltYThSRlBfS1dRamF3ZURFOGpqNE91UGRuX2xhb01RM3R1U0RPZktqOWpUWi1Md1l3?oc=5",
+      "source": "Notícias ao Minuto",
+      "published_at": "2026-10-28T13:17:00+00:00",
+      "score": 65.2,
+      "corroborating_sources": [
+        "Notícias ao Minuto"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnZJVlVtOGF3RHlCQXdRTlkwS29paGJGLXRJX3JfWmwzWTZiXzcteHZDX0RDTF82elhuYVFDTDBoNkNiRmFGUFp6WjhYRzU4Y09MN0x2YUY0akVRcGtZRUlzLU5DOV9hbzlSN0NUNl9Iai04Q0g2YlNKdXo3Y2MzT09WcHNseHdJMncyczVrdjhVZUEzVkE?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-10-27T15:24:00+00:00",
-      "score": 71.63,
+      "score": 64.74,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -36,14 +156,134 @@
       }
     },
     {
-      "id": "ad444cde7ba466dd",
-      "title": "Qual o peso da eleição de Lula no cenário internacional - Nexo Jornal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGFkcnI0cmVKMDFLR2tTdk1fcU5xZlpsdTZRYW1SR1JYV2x4RVVaaXZJTDBqVmNHdDRkRTZGYmZCMVVuLU54Y1lreE1BMjJnaG1vWnZxZ1lHWjR6TUhUQjNKeXRPcHNUdmZRREtrNFlRMHBweVFwTHhLb3JPemFNRGNlc0E1N2RhVjdpRXVDZXVTVHZlY3RiVXVFVEs1WC1CYVlNTzdR?oc=5",
-      "source": "Nexo Jornal",
-      "published_at": "2026-10-28T00:53:20+00:00",
-      "score": 69.72,
+      "id": "4c89c23acd20eea1",
+      "title": "'L' de Lula vira símbolo de mobilização da esquerda internacional - Estado de Minas",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzlmY1NkYkRoZWpETHZzS0VKdjh0LVRDNERTOFliV2tvN2hoX3NOcmlkcVJ2VlJjaFk1TmtSNXFJVmxFT1V6ZUpBVVhRQXlEc3prcDVTdkVYSVhLTjVqOGlSOVJaMTN3YnFaN0p6YmhnNnVzVnFnaFl4RzV6eG9keWRyek96Q3FHdEZYOFdiSmFmOGdnVlowTWNoLUFKcTJiV1JQN250cUdqbk1oUFdLWHJEOUo0Z9IBuwFBVV95cUxNWE1IbUJtdzBVb2lVd1h2cE1mRDJCRDNZTnFjRWNwY3k1cG1vOXRMbjRGRW5kd0VFX3Z1MGdLQXFVTGJvUFJQWkdEcFA3bjhTSl9NYUFzdjNpY3FyanpQdTlLTTlVOU91THE0azJBcXZFTXFxeC1kLVVTS1N3S0R2U21kU21kTmdKR2hLUFFVUWVLYzczQTNyTENmRWRfRFlrRVBIeXhScy12Yy1SQzJuQ0JKWFB0dl9fcWtn?oc=5",
+      "source": "Estado de Minas",
+      "published_at": "2026-10-28T12:42:00+00:00",
+      "score": 64.51,
       "corroborating_sources": [
-        "Nexo Jornal"
+        "Estado de Minas"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "79ac83b44ec97940",
+      "title": "Imparável: comitiva da Venezuela quer encontrar Janones - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWpTbklQb3NYVVRHdUhGUGdIS0xDSHAtc1o3MDZ4dDR3S0JfNXdLQlItM1l3aUlzYm0yaVlnX19iamlKSEtyU2F2ZTVUbFZtcjI4YWIwdHRRUWRkblVwb2hWQVdVOE1GbHVZMzdiSHdxVWwxdU51M1YwZDVxZ2FaS1ljZWJVVWhLNzNYbHd2R1V0VHVldUVlVzk0NXJOWTB4YVYwdzRXbw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T10:00:00+00:00",
+      "score": 64.47,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "58e7622be63734e0",
+      "title": "El Papa denuncia en Asís «una preocupante rehabilitación de la guerra como instrumento de política internacional» - InfoCatólica",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EMnlIU2pDUC1BZ0tqMzVMb3RfYmVFSGgyeG1xc25wWU81b0lZREwyZnRfaGx4ZS16MjVTeklQOUhXOWR1YkxnRUpYMkN5YTlSamJlQzZzZ2FlckF5Y0E?oc=5",
+      "source": "InfoCatólica",
+      "published_at": "2026-10-27T19:02:08+00:00",
+      "score": 64.21,
+      "corroborating_sources": [
+        "InfoCatólica"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4325310079ce42bc",
+      "title": "Israel: Netanyahu lidera eleições com 72,4% dos votos apurados - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNktZMVRlVWstMm03LWZHYk5JeVZHZGVfandsT2kzclR4dWlGdF9TZ2pCUUlXcy1LVzlBYTE2RldRU1RSMDZHSlJ1T1JMMTdqTThrVmVBcDY4MXRvTENSM0h0Rzd0dHBtUUJIWWxZSER4TWF2QXhsTmFSWVJsWGU2TnY1VkxiUEJ3dG1YN010M1JjZldPLWVsX09QUU01b3QyaWpSdGhHRjdlT0pQd1R4eDFB0gG6AUFVX3lxTE9heTNmQ2g4V2l0ZlNieDNuejJ1M3hfM1B5ZEIyRU9pcElmd2l5NVBndEQ5ZnJFU05Td01RQ0otaDBrd1BKdEdzS0hjSVpJM01tbDNfclU2TzB6VHJLMTVDaHl0cm5feXBoV2kxYkQtR1l6RHd0b19hbWR5amJvTGFNZVQ3SmxXTDRoejVIZUNVSVRpSTI0YTBucWZ0SFZYN2Rqdmg5X3pzcVlVQXVmeW9uU0o2WldHbncxQQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-28T12:09:00+00:00",
+      "score": 63.87,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "08bbb2a0f580a7ef",
+      "title": "Leia como a mídia internacional noticiou saída de Flávio do Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGp2dmE2OVpLLVJjRy04a21RYWRkNzBDdVBiVENNaGhvUzJaY0FlazdLZHd6dVdWSG9SZm5fQlBZRUhSWU5kUHJWUXRxSXJEVkhRZUxHM1ZWVlhkVW1kcUJHeUtUT0pqY0QxQy1tM3ZXVmp5OVZCQ0JrYTg1bUl1R2pVN2Z0QjlSVDJqSVpVckY3ZTlpaEUwREYzNWNtVjB6Ym02RWR3M3hkLVE?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-28T11:37:02+00:00",
+      "score": 63.26,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3ee8d3c611f9476e",
+      "title": "Brasil tras la salida de Flavio Bolsonaro: \"El bolsonarismo queda sin liderazgo\" - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUkpoY0Y3WGl4SWxoYy1jNDlMQ01LemRxd2t0eGZtSm12RzV4bXpHaF93TVhWMDNINUh2M2Zld3Z6TW45a0VETkdsdXQxM2daQ196OGJaek9fNnBScENPS0pCaXE4R0tFbl90VjRRRWpwbEJuZmZzZVRjU2dKcXg4YTRFelFCUXRKa2hmbzZOZlJtcXB6aGNqeTBqeG9EN3J1OG50SEZhaFdJRGg1TE1menlIWGV0ekRfTnFkQW4wUll6YURnSUlJSDl2UXFBOVVkZEgwR0530gHbAUFVX3lxTFBQaE45Q3ZybGhMVEVHNElOME5feV93eTVlSms4QXhzcXBfYkJISmNzLVF6bTlJY2ItUms2endqeExQZXktQ0M2Z0RGT3BZenh2cHcxaE9QNmRBaEs5WGtwS1ZuWTlicXJoSUN0aGxYMzA4bnR5N0FlWWdKcmFObUc3WXo2bmpCUmpfWG5Ra0ZPWGpSWFloM0NtVy11cHdMV1VlVkpYSEg0SHk1Wkk2c0EzQ3o5VHIyTTNRT1VSQ1I5Z1g0VHlJR2JBOTg0Uk9nTmtEQlNXZ2l0SkxrUQ?oc=5",
+      "source": "Cadena 3 Argentina",
+      "published_at": "2026-10-28T11:10:17+00:00",
+      "score": 62.76,
+      "corroborating_sources": [
+        "Cadena 3 Argentina"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "78ee64cd615e1dcc",
+      "title": "La Coordinadora pide a los partidos políticos que refuercen la cooperación internacional en las elecciones - Coordinadora Valenciana de ONGD",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTZaSS1idVR5SE43TFhwcU5kMXU4N3FfcWx0VUw5UGhRQzdMZ3RnQUhBR0ZobzlsYV9MOUhoYlYtYmJCZkF4RnRNaV9Oc3NmdUJ5ZC1CVTl2R3BoczlsMldoWWZsSGZscnVYNDgxdkwxYWJON18xTzBmV1dTVW1laHA3N2wzMWdSS2lWV3QzMm5sTTJOdHJ5Zy1TLXk5Uy1pX2pFbWUtbzd2bE5JSVhsQmU0RmhkTFRlZlhldU40QUt4S0FFa2xxSWMwcEVNTXhUOUJIQU1HRzM0UkYxWHFlUHl3U21DVnJTVUNZXzdwTzNrWTZkSW90emhaLTlKdw?oc=5",
+      "source": "Coordinadora Valenciana de ONGD",
+      "published_at": "2026-10-28T10:43:42+00:00",
+      "score": 62.27,
+      "corroborating_sources": [
+        "Coordinadora Valenciana de ONGD"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7b030c92c287e005",
+      "title": "Trump diz aprovar concessão de visto para Flávio Bolsonaro - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1pYa3JENS1lRmNtRW9hSXF3MGN1dzUwR2NjMF9MZEJqd0JFd1lfQmpCVmF1WnExYmF5TXIteHFzRXhLeWxXRURybzRZOXpiZWkyampVQURwNXF2UmZlR24tY1NHalBKZHpuR0dPRW5IMi16SjlwLW9rTTVpbVdrU2RNRzZFT1FQdU9CMFlfQ0VjajRFYmR6WV9sSldWQTJWSlBtcFZIalZETUVkRlNKZtIBuAFBVV95cUxNWE5KQ3ZDQmVEOF8zN1FzOW1wNXFZY3BkZGE5Z1JNc3R2NHVVTmFsaklLTmRfeDBUNVhnd0xUWVlGdUpZMWdOaGN6RHZnSU1ZWTJKdVFIOV9MRGJfcHlac2JZMmdQS1JqWDNjMEpvS3dENVYxRy1VNVdpVkJET2EzUmlteVZvR2hiSlJUWXIwS3dmeGJXbC1yRUc1YUxQNmJCTEpmVjhhNFE3aFF1MjU2OW03bHdGTXRl?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-28T10:38:00+00:00",
+      "score": 62.16,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "45ed5d30911c6e5d",
+      "title": "Argentina diz que Flávio foi para o Equador na noite de terça - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU001c3JOYnhnZ2dfWmNaVkhONWtXb1BDXzJ3a0NUTEZsU01TcW91SWhsR0xKMERPOHNKRUV0a3ByVzZsLURaVzZ5aXdSVFpraXA3NXJQNTdIdjIybm91RDM2UW9vY3c4Ry1FV3A5OXFGVUxCZmxtS0pQTVpmSTRtLTJpT3A3SC03eWs1R2ZYdzJCQVV3OUcwbjNlSTllZEVNVGV2d2lMVXVNZGZDNTM1Z2oxZVhfQ3JzNzFn0gHDAUFVX3lxTE5hMnlzOWlGaW01aVRVU0tmX0pHbzR5cDJLY1NuM0lzWEROOTFUT1k3ZXphZ01iTUtaV3hOZVA4dFZVSXRtRC1vSC1QUEhfNzM2VlBySEktdzVzOXNwY2pZM1NoMDRpeTRCME53UEV5SXF1cG5FbktCa0lHeEJkeEpraWpWSk5jLVZMR0lHUzBodUxLaWhHRmQ1enU0ei1YWXJRYUJHWWhoemFfYkhfb2w0NWJzVnZ5WnhGNm56bTNtbnZoMA?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-28T10:33:00+00:00",
+      "score": 62.07,
+      "corroborating_sources": [
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +296,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWtEZGI0QVg3bFdTVFVnczdVSFBJY05Rc1phQlRqbk16bHpNbWhuTExSMzF4aTdmODh5MU5JVzY3cUNYc0JiODBjbXd5UlZkZzBhTkpVekNMVDBUd2czX2pGMjVRUk1hTFNSeVJOZ0dOY01uZ2k5T3lSbTlMNXpkLUx6SjBZYUZNMVJ0MXBpbFRUWkRPOVEtaTUwUnp3X201UHhCVnhNWnc2ZWF1R1hqY2FVZHpRZ25sVEV2MkRicHAxcm1Y?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-10-27T21:59:00+00:00",
-      "score": 69.68,
+      "score": 61.41,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -66,14 +306,29 @@
       }
     },
     {
-      "id": "6af00f855fc71358",
-      "title": "Análise: \"Vizinhos\" esperam papel propositivo do Lula 4 na política externa - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDlibTc2R1dydG5DeTVXSnNMMkphX0ROM0Rza3B4T3VEekJHMVlWM0hsSUVpV1VCMUZ1MjFsOUxOWENQVmJrZzgxS2Z3LWlvV0VxQkY3VGxlRVc2N1BrSzN1VEduTG5IVERPc1RWaFpNOXZoRGJCcXNKRVhBTXRFQU5jS0ZWVVlMOHQ1bURRRkMtXzVXckpGMUpESlhaeWw3ZTNoLVJQQlR1YUJMOG9FWFZuYm9HTUU?oc=5",
-      "source": "CNN Brasil",
-      "published_at": "2026-10-27T23:57:34+00:00",
-      "score": 68.72,
+      "id": "f11a5ac56121a3b6",
+      "title": "A Contemporary Perspective on Realism - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUVliTzFLVGk4WTVpa2ltT3VaNF9EYlpFWmltVl9hRGhzYzFtYldnU0RlME9lNFFfd0oyaEZlX3l1c09WcE5GRVc0MDFYdWE4aG1qdXpHVmFfbFBYMHljdk9ydWJaSGxEUlBTRw?oc=5",
+      "source": "E-International Relations",
+      "published_at": "2026-10-28T09:44:33+00:00",
+      "score": 61.19,
       "corroborating_sources": [
-        "CNN Brasil"
+        "E-International Relations"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ad444cde7ba466dd",
+      "title": "Qual o peso da eleição de Lula no cenário internacional - Nexo Jornal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGFkcnI0cmVKMDFLR2tTdk1fcU5xZlpsdTZRYW1SR1JYV2x4RVVaaXZJTDBqVmNHdDRkRTZGYmZCMVVuLU54Y1lreE1BMjJnaG1vWnZxZ1lHWjR6TUhUQjNKeXRPcHNUdmZRREtrNFlRMHBweVFwTHhLb3JPemFNRGNlc0E1N2RhVjdpRXVDZXVTVHZlY3RiVXVFVEs1WC1CYVlNTzdR?oc=5",
+      "source": "Nexo Jornal",
+      "published_at": "2026-10-28T00:53:20+00:00",
+      "score": 60.75,
+      "corroborating_sources": [
+        "Nexo Jornal"
       ],
       "signals": {
         "source_count": 1,
@@ -86,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VOHh6SlhVaE1MQTBncEpiam5xNW8tRTJleEstbDY4NnZCeEU2dDkzX0lMUmY0MjUyanA4dGYwaXVvSFZKTm5fa2cwdm4wWlFTOXBWQlVSbjJtdGJqZlNXb29fOA?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-27T20:45:00+00:00",
-      "score": 68.46,
+      "score": 60.46,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -96,14 +351,59 @@
       }
     },
     {
-      "id": "98b9edaf15b2ea59",
-      "title": "Polymarket Promo Code SBWIRE Get $25 Bonus for World Series, NFL, Politics & More - Golfweek",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemRZM1dlb21qdlh6eko1ZDBFSG1YaU5GTXNRMDlnLVdiWms5aHhuc29nZm5xZHBYam5WR2FrQy03WXlva1BVbGNZN2ktLThGY0JlYWRBVTdrWlVyWE5SOUo0YlppbTBPRWhZZjFLd2MydUt0QjZuV1BUU3BHeFcwMzNvaU5aVFlOSE9DbWZpaUR5Y0lEZ0NyTmNfUUhzOWNlVGgtVmZTRGN2ZnNQUk5WNg?oc=5",
-      "source": "Golfweek",
-      "published_at": "2026-10-27T22:52:18+00:00",
-      "score": 67.58,
+      "id": "6af00f855fc71358",
+      "title": "Análise: \"Vizinhos\" esperam papel propositivo do Lula 4 na política externa - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDlibTc2R1dydG5DeTVXSnNMMkphX0ROM0Rza3B4T3VEekJHMVlWM0hsSUVpV1VCMUZ1MjFsOUxOWENQVmJrZzgxS2Z3LWlvV0VxQkY3VGxlRVc2N1BrSzN1VEduTG5IVERPc1RWaFpNOXZoRGJCcXNKRVhBTXRFQU5jS0ZWVVlMOHQ1bURRRkMtXzVXckpGMUpESlhaeWw3ZTNoLVJQQlR1YUJMOG9FWFZuYm9HTUU?oc=5",
+      "source": "CNN Brasil",
+      "published_at": "2026-10-27T23:57:34+00:00",
+      "score": 59.98,
       "corroborating_sources": [
-        "Golfweek"
+        "CNN Brasil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "271a2792def6291e",
+      "title": "Flávio Bolsonaro deixa o Brasil, segundo fontes da PF; aliados denunciam perseguição política após decisão de Moraes - Goiás 246",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRjFSbE1ZTFM4bTkwOERsOUdROHM2eXpkSEZTR2p0SFJoLU5id1pqdVlhLWd3TmxYOTllR3lscDJJWWRpRDBRRFlsUnpKTUhYY21sd1pqdXBiYVFBVlBkclNDWk0tMWs4RDdIYnp3TU42QU10Vk5seThwM2V6WUJYbmtKeHgzcHdlOGF3TW1TOWNvMkd6M3B2dGhCWUt0bVVFbG9FYTRRNmQybF94SkR2REFnVUNzR0NTcUQzYnoxX09Bd05WSHV0cExLRVFXM25iU3prUUo1QkpYZUU5M1VDTDJpS1UxbThJMGhlTWRZUjVkSWhFQTNxZnp1VFFKZw?oc=5",
+      "source": "Goiás 246",
+      "published_at": "2026-10-27T17:20:00+00:00",
+      "score": 58.02,
+      "corroborating_sources": [
+        "Goiás 246"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7a42fad94e7edd35",
+      "title": "De Trump a Milei: Qual será a política externa de Lula 4? Especialista comenta - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHd2TFdpOTVUbVlURnVYbkNmeTJfLU5EajNCUEROSDdWbER0dFRha3lydHppNlBHei1iT1FBVGZoWXVBSjNKaExXNkV4Y1BOYzRsRThkUWh1WWtJQVNWQUp2OVVrVmRLY29RR1lJc3hVcGtiNkdlU2ZEZGVWaUoxZlNWYktqSUY0VVZPUmtsM0xlRkZDZk1RbnJHanNyRjB0TUVDOVBOdzVPeEdUZThtWXcweUgzQ1g5RFpxR3Rn?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-27T20:45:50+00:00",
+      "score": 57.48,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7420c33cb9690154",
+      "title": "Presidente de Azerbaiyán: “La política de dobles raseros debe eliminarse por completo de la política internacional” - azərtac",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYjBLNHBFN29wNFBYZl9iNExrUzMtVGZpNDU4MUlvekxGYW8tdlRHcUhlY0JRaHlnT1psc0lXTldwZm04Mk1qZ05kaEZ6dVpQd2lZcklEM2Y0cXFtaldXR0M3SlRzMXNrQ0tPX2NkUkd2eWpvME1nM0llSjVnbjJJTzJhN2hwTEZSdmxRZk5TNGR4R0d6bTBhNzJNeC0zYVVXX0JZbENvWmhKeS1XZ1p2MGtsX19SR0tzREhiTEgwdjZiSWlMRWd3MHhIODZ1aHF5WE93QzFpa2J6QUtWU1E?oc=5",
+      "source": "azərtac",
+      "published_at": "2026-10-27T07:18:00+00:00",
+      "score": 57.05,
+      "corroborating_sources": [
+        "azərtac"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjJ4UEVMamJ6eW8tcmUyVjlIYkx0RHA0QXJBV1N4d3g5TEZVOGJKMkJSUnpkS0pGNlBfNUxaTUxNMGlqMFhMcmxneDdZWUpSMXhlMmpRZlBHVnFfVTctNDVFZGN4dXlKZnpIRHZ2V2tRRHJlYW1vZ3pIbWtRd05UZHdaSzIxRlRSTHlObVc0eVVUb20wYVVqR0NObEdfSGlRNFUxR1V0U0JTUV9RdVZ0OFhvY2dvNkpiOGpnM25nM3AyOHl0cmhZSkFnaw?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-28T05:23:20+00:00",
-      "score": 66.94,
+      "score": 56.78,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -131,39 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1FOS2FscVkyb3JIMDg5RS1GWW5Ta0pxRV9FZkdXQThuamtVRjZrTWNhcFM3bThHWWphcUF3bHI2LVVtbUR4S2tXcWFaTzkyVHpScjJLdXFKYzBjM2xyWkQyRFNGaG5kcy1xUUFBeExkd2RDVWExSkxOTmNQY0JhZ2xHRkFLazlaN0NsNnlPRkpCcjViTGkzOU5Dai1mLS0xOG9UQlNWeFJ4b3dseGpvZTR1YWlXX0xtV0VNaA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-28T02:00:00+00:00",
-      "score": 65.95,
+      "score": 56.7,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7a42fad94e7edd35",
-      "title": "De Trump a Milei: Qual será a política externa de Lula 4? Especialista comenta - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHd2TFdpOTVUbVlURnVYbkNmeTJfLU5EajNCUEROSDdWbER0dFRha3lydHppNlBHei1iT1FBVGZoWXVBSjNKaExXNkV4Y1BOYzRsRThkUWh1WWtJQVNWQUp2OVVrVmRLY29RR1lJc3hVcGtiNkdlU2ZEZGVWaUoxZlNWYktqSUY0VVZPUmtsM0xlRkZDZk1RbnJHanNyRjB0TUVDOVBOdzVPeEdUZThtWXcweUgzQ1g5RFpxR3Rn?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-27T20:45:50+00:00",
-      "score": 65.47,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "271a2792def6291e",
-      "title": "Flávio Bolsonaro deixa o Brasil, segundo fontes da PF; aliados denunciam perseguição política após decisão de Moraes - Goiás 246",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRjFSbE1ZTFM4bTkwOERsOUdROHM2eXpkSEZTR2p0SFJoLU5id1pqdVlhLWd3TmxYOTllR3lscDJJWWRpRDBRRFlsUnpKTUhYY21sd1pqdXBiYVFBVlBkclNDWk0tMWs4RDdIYnp3TU42QU10Vk5seThwM2V6WUJYbmtKeHgzcHdlOGF3TW1TOWNvMkd6M3B2dGhCWUt0bVVFbG9FYTRRNmQybF94SkR2REFnVUNzR0NTcUQzYnoxX09Bd05WSHV0cExLRVFXM25iU3prUUo1QkpYZUU5M1VDTDJpS1UxbThJMGhlTWRZUjVkSWhFQTNxZnp1VFFKZw?oc=5",
-      "source": "Goiás 246",
-      "published_at": "2026-10-27T17:20:00+00:00",
-      "score": 65.29,
-      "corroborating_sources": [
-        "Goiás 246"
       ],
       "signals": {
         "source_count": 1,
@@ -176,279 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZGpUTGhRNm5wVG5KeHJWQXl0RDdUUTAwdE5OVFN2SzQxWU9sOF9Kb3gxbndBUVJ6Z2Myc19ZRkpxTEFTZkxoY0czaG8zQmUxck5GcTN6RmNueDNYR25xaWdCYkF4eW1xNzEweW5wSUlSZC1ma21sOG41bmZ1U3J3ZXAtUVFTTk0zdGhGN2duOA?oc=5",
       "source": "Aleteia.org | Español",
       "published_at": "2026-10-27T18:41:16+00:00",
-      "score": 63.51,
+      "score": 55.96,
       "corroborating_sources": [
         "Aleteia.org | Español"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "006008aae2926fb1",
-      "title": "Mar del Plata será sede de una jornada internacional sobre geopolítica y relaciones internacionales - Radio 10 Mar del Plata",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTU0wU0NqYzAxY1otSk9aZ0hkQVdWTkpFeUJoZjlHVjVKaUtLZnBlcjFMUDRZOFhFVTVHRXBnejJPUTZmNjFBTkh2Z1NJZDZIN3o0SkRtd3BvOGVKNV9hZWd3VXoxMzZKMU1xN2RJN1RQOGQ1ZGZCSFpjZENTT0llOU1Nc0ZHRUtTdTU5WjBvdnlwWkFCQXFVZ01JYUFLM1JRTEw5dE02WTJ2SnprZ2VyVjNnYXFJVFBIeHB3R2dhOGFXS1k1RGZyTTUtS1VYQzQ?oc=5",
-      "source": "Radio 10 Mar del Plata",
-      "published_at": "2026-10-27T18:28:09+00:00",
-      "score": 63.31,
-      "corroborating_sources": [
-        "Radio 10 Mar del Plata"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7420c33cb9690154",
-      "title": "Presidente de Azerbaiyán: “La política de dobles raseros debe eliminarse por completo de la política internacional” - azərtac",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYjBLNHBFN29wNFBYZl9iNExrUzMtVGZpNDU4MUlvekxGYW8tdlRHcUhlY0JRaHlnT1psc0lXTldwZm04Mk1qZ05kaEZ6dVpQd2lZcklEM2Y0cXFtaldXR0M3SlRzMXNrQ0tPX2NkUkd2eWpvME1nM0llSjVnbjJJTzJhN2hwTEZSdmxRZk5TNGR4R0d6bTBhNzJNeC0zYVVXX0JZbENvWmhKeS1XZ1p2MGtsX19SR0tzREhiTEgwdjZiSWlMRWd3MHhIODZ1aHF5WE93QzFpa2J6QUtWU1E?oc=5",
-      "source": "azərtac",
-      "published_at": "2026-10-27T07:18:00+00:00",
-      "score": 62.55,
-      "corroborating_sources": [
-        "azərtac"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "27dd46859fd912be",
-      "title": "Qué cambia para Argentina la derrota del candidato de Milei en Brasil - Primera Fuente",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWs4T21kZ194MW95aDNDZmVBWFpQWms4OUYwbjc3bzFvd0U0RS1Xa1c2aTI2T0lZckJfX3ZETG11YmcwdW9DVGxuUk5KVEFwcVJ5T2QzbWk0QjBiaDdHMkR6V09ReW40WEM1dF9IQkNWdEtjVGU2T2l0ZDdiTUJnNGJsdkc5YWVDVlFHRGZtQ3JlSFkzdHM0RmYzYzY0MnpnSW5uVE9Cd3c?oc=5",
-      "source": "Primera Fuente",
-      "published_at": "2026-10-28T01:23:43+00:00",
-      "score": 62.27,
-      "corroborating_sources": [
-        "Primera Fuente"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d186801d78ef858a",
-      "title": "Cinco estados americanos vão votar leis sobre trans - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVElWQ0EwYkR5R1p6TnA5RUx0UWNxbE9nQ19TQ1ZFc3BpMVRfNms0TzZZaFUyZ191SHJwU2hNNU9uUkRpbzVQMW9uemtaalhjSUJIWmJyNzQzRHgxSWN6M2lRSXdFX2VKY0ZxRm5KaDJsSHBZMzVwc2xYVHhidGZUcnR1QXgzdE5fT2h4Yw?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-10-27T22:18:41+00:00",
-      "score": 62.01,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cbf7e28231ca28a3",
-      "title": "Eleições: Governo Milei diz que não comentará vitória de Lula - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXJPdFk3cWJ6ZEdDSEMtWUh0MUtPQ3dKZHF2T001bjlnQXV3cXZ3MGc3Y2ItMndrZkNad09QX3I4S21GWkdEa09kekdUMU94TnFQbjZQMjduN0k1Wl8xNjA5TlRZMWtvdmJGTUtIR0llbWdMQkJBOVBlRFN5NTgtSXlUUG9zQi1hRzlJbVVTSzRaRHBKZzlYOS1WcGoxMV9SNVVzN1VDTS1DOTRqU3Nla240TdIBuwFBVV95cUxPRUtRLUdiLU5acnhYWFB6dlliUmJXZ2RZZ1gzMEY1anpoMEs5ZjQ5X1RTTlNxTFhObXRwTWJwY0lFZ0ZITEljQUl5dWZlVTE2cVZYckZQTVhaVFAweW84Vno1Tzc1MU9oblhsaU9JbGROdDZ0cmNpQktRQ0ljSDl1QjJGRGxOQWtvZlRKbDdsemVmaXhHb1FUYm00OUpRYkY4dHlyWTZia3RfQ2FUSnQ0amlqZEI5YVN0cVJv?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-27T16:56:00+00:00",
-      "score": 61.94,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c79e97a0a73b09bd",
-      "title": "Flávio Bolsonaro desembarca nos Estados Unidos após fuga do Brasil - A TARDE",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUNORFBWNl9sY0JEN0NMLVd2QnZRNHVGdmllLXN0OFllMnFXMGpyRVRyZ1ZWQV9wRUNuVVRWOGxJcERPaHlsWXJKRnFZNjUtcFduVGsyZmZlXzlScWVYZkZOVlBTd2ptZVhwY3VxT3pwVzhEdkFPbkpFZksxSXA2dU9YZmFzRUpTMnRDQnVIT204bF9qUWI1Wk01Q3hiejBJZjNxcHZwdzXSAbABQVVfeXFMTmhQUW1laE5wMjByMm1CbWVGZ1pvLTQxM2hpUlhMWkJxNVpMVWtZRkdYb1NzOGJya2pESlRqeFhqRnkzdkE0ZWctNldTYndha0ZCRm85Wnd4UFFadDEzeUhYZUhNWjlfZXU2Uk8zWlhjWmlObkdNanpWempqU3lKQVoxTXJBZkdmOXI1VHpXeWNMUzUwa2xBODZIYm1KemxGSU1SVGFnbjAyZWF3OC1ZMEc?oc=5",
-      "source": "A TARDE",
-      "published_at": "2026-10-27T21:01:59+00:00",
-      "score": 60.73,
-      "corroborating_sources": [
-        "A TARDE"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fd54b9a8a2256941",
-      "title": "Netanyahu: ¿puede recuperar su imagen tras las elecciones? - MUNDIARIO",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1h3aDNoazVNUV9ETGVrTDlvVVpiWDE0SkV4Y0pyQkw5YUlHVndMYzVjM2VkNDNjMmlsYi1kNWMwTGpoYXZxWGlWV3h4UHBkdTJHMVloNHprX1V5dkg3eEhxYXdMYmJnYnhUUnRiLVJLajNFbWIwUF9UY2tQcHBrOXB5eUtIaFdFb1FoZlFPMVV3T3QtQlNMNHVTQ2oyREJDN0poaXhndEFJREVjRWNiZThwRGrSAboBQVVfeXFMTVZIS3hvWDlXVHktTWliUGlBSExOeGQ5WFNJdG9TVGxzZG5oeFc2OG85emtWSVRZMWV3Y0NvMWJLT2tDdzl2Y1RfcjlvMTF1RWhQcS1wNnVzVmg2a2lTR245b2lUeXhpSzlvUGhHX1FYdlYtYjZmYzBoeEpWeHkzdHpRQnFqR2RMZDZ3V3Q2T184X0NDQkNDaTdxeXdXdjlNNDR1SWlMY29TMjFyRnBEUEFnQzhPay0tejBB?oc=5",
-      "source": "MUNDIARIO",
-      "published_at": "2026-10-27T23:52:59+00:00",
-      "score": 60.64,
-      "corroborating_sources": [
-        "MUNDIARIO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "18ee9b6f0e622ed7",
-      "title": "Flávio pode perder mandato após deixar o Brasil? Entenda as regras - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmFybGRUQlZzaDQybm0wTF9NQ25uWENzUmhnMmRpbTIzN1dxampYSVRpcXJTUllYVG5fNjI3QjFuNnRIUWNQUDFXbjVSbkpTRFA3elQ4eFM2U2hoRk5saDFycTZsT0RySWpwRHFOMndZVUxkS2tybEIwQVdWM1psTDdqME9YV2tZc215a1VSeW5rYWVudUV4SGpfTGpSRFN6?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T20:34:00+00:00",
-      "score": 60.28,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "42e48836ab80217a",
-      "title": "Flávio e família receberão visto nos EUA, confirma a Casa Branca - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTlLSXlCQnhVdUNYa2tlUFBaTlNuZDhhb3pJYVNFX0tHSFJtMDljTkZJT0Rla0dZUUFHQXphR2IyY0NQbG0zWk5WaEc4RVJGLWNaSTI0VG0tblBTZnJjS1VrUE40VXlqbFJfeUkyUmFNMHl1QU9oQklPaGM4dC1VSU9Wdmh5TjJMcnhzNkNYd2tuelU1V1JYLVgxY0hTcG51eUh6YlkzWkRZVVZZejZiWi1ZNDhobm_SAb8BQVVfeXFMTVVDcTEyNjBhTWJwUXpHMzJfaG5ObHhMNkczWnVIWmN2N3ZIdmM4T0F2LXBPdHBITFJJLVhraWN4T21MWlJWTUNUQU9zaGtHeUxfWG9YNWdqNGpWdnhnZkc1ZWE0VEo3d3ZBU0wyTGczOHp6U2pqNlE1UTlpdVJldzFuVEFXLW5kdzBMelFZSGlaajBubnBCN25uRFNJTFVjaEN1dTVuRnFjOG1CMTNKS0ZrOFE0SW12bDlPUnhXbFE?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-27T23:07:00+00:00",
-      "score": 59.83,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "671783dac9b42b0c",
-      "title": "Netanyahu and Eisenkot stake rival claims to lead Israel after deadlocked vote - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYlFnVFlILTlMSUZDa3E3MkpuU1k3UXRjSUY4NF9ET3lyU01sN29Sb2JTLUd4MW5ZS2RvY0xJcEpGaHpNUm5ueVg2VmpmazBLVVJsNzlZZlVvVks3MkJUcmQ1akVZQkh2YzVoQmFYbXZ5cjlXWC02amotLU94VU5MZE9NY3pTemVEQWZUaEpCWEstaERKSnhDOWt3?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-10-27T23:06:00+00:00",
-      "score": 59.82,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "38592a53c87b3719",
-      "title": "Fora do Brasil, futuro de Flávio Bolsonaro passa por investigações no STF e TSE - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUFOLUtwcFF5U0IwbXhra1VLbFQ4RUhJSG45LTJCT1hiS0N3Z2FpSDRzek9sQ3k0RlliVkJUUWpSSVF4a3VIS3Zsd0Y4MVo0cGtPRjlaRWhmYnd6QThmUFBTMlljZHZENHZ1UWJKZGlNakR0bmN5cm53SmhCR1RxYnJ1T3A4czZKZ09jWXhUOHJuYmwwRHFVUnVZVklSZHZ6Vms5dG5MUURJWk5TVTNoVUhudDhqUHJWRzZ2dW9DeF8zQdIBxwFBVV95cUxNN3lKbkE4N3dUQXBINFdRT2YxdnV5Nm5pMFJoTF9GMnFDRW5MaHRfNzdlZjNsZlIyYzdOb0Y3RUg0aVlzZW55dVFfNXE2SFdxbl9SZndlbVNkTV93ZUJtRUljUzJFaGl0V3Ixc2pQWWhoMTFIeUFyaHJ6VGRjZFVkdzg3MXVIaUwyekhqamV6ZW1uMFU3U3ZpU19QZ01jVGZhc0MzOWZubW1EaU0zQWdodnhtZE9QUTI0VlBnU2FXZzdtLVF3djNF?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-27T19:57:00+00:00",
-      "score": 59.69,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4863966c779e54d0",
-      "title": "Trump volta a falar em “fraudes” nas eleições brasileiras - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0QxM1huaEVPMWhERmZlZmVKZEJ5S21VQkF5dTNmZ2YxaTdoZHFvX1RpVzZNYng0RnlqYmFWbkRoZTJKamczZTRuZU5JU2JsRnVhajJMaS1YeEJOM0dCRXhlRzdBZ3JfZkI0NHcxM25XTjBwQmMtalVELWZrczNjVHVtUkhxRUNLV3pDSEs2RDZXbElEc3psZmdrWGtOVTRIOXQ2NXJiOWlnYm5Q0gG0AUFVX3lxTE1ZcmlnQ0kxNEtjYkZpREhtNm5WQlF0LTUzYVc2TmcwSGpFZkZLR0tPVzllb093cGhFNWgzRElZNUl1SXNFQmZ5dkNVWU9SSnZLZk55U0o1LVVLODNPbDFiWXNDZzNTSzhWc1J3bHRQR00tUDRFRTF4eGo5Rkl4ejQ0cU1xLXJOY29NWUN0YV94QU5NdGw5Q19ObkM0TTA5alNCSVdhTmozMmVuWUNSMDc4bkJLYg?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-27T22:19:00+00:00",
-      "score": 59.01,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d0e72f0109156fc3",
-      "title": "Casa Branca assume comando de operação envolvendo Flávio - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaG84SWNIUmFaeG40ZlU0Vll2Rk41UXpCYWh1MEdoUkswU09RbWNCOXZaUDEteDVUT2FnMjJON0dndDVMWWhWMlBhTzhfSGJWcURYSW5vUW5QaXBITk80M0NybE1ZR053LV9ZTnktZFBGRmpYTmV5ejJOTnIwVEZUNk11b0ZrWmx2Zl85OEpEd9IBlwFBVV95cUxQMHhJb3RRYW8tV0VmTXBSc3NWLW1SVEZyb3ZwUmJVcDdLYURZUWpwN1ltRUk5U1l1NVpGMm9FNFBOcFBXTUMtNE8yV3VBZmRaQXlDdHhEMVdFY0pDbUtDbjZnRFpSWEtrSmdCX1dqRjFJem95ZmZPQ1l2MDl0c3UxZjZndGRNT1VkYkNqVHQzVUtDakFfcV9B?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-27T22:19:00+00:00",
-      "score": 59.01,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e45ca4a003cde199",
-      "title": "Novos exemplares da edição histórica do O POVO se esgotam em menos de 1h; saiba como garantir o seu - O POVO",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb1NpNUlqbmQxUUZqWWlBQm8zTnNueWdyU3lIWmVEbTl6YkN1ZjZBMDlkSzF5SE5tYzc4VEphLWZzcHlHdEcwLXBlbS11X1pwb3ZTNXVUc0N4TU9DTlRnVkxhNTl0dUZyamNSaVF0OWtQVGJSWG8zdVZ5UExGTVNjWmpoM2wzcHQyOXhZVERoRHl3WXA1WThMamRrMzNhVTJtS3MwSzdoQnpORzBJakcwVWphTFpEWVdEQXFHMzhRQzkxRUs4UDRr?oc=5",
-      "source": "O POVO",
-      "published_at": "2026-10-27T19:14:00+00:00",
-      "score": 59.01,
-      "corroborating_sources": [
-        "O POVO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4fabf3b583f66cf7",
-      "title": "\"Operação Alba\": aliado de Trump explica qual é o plano com Flávio nos EUA - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWtGRElVS1IzdW9rSTRFbktqQ19wRHJtMVRKZ0thSkVJY012cW9EVldzWlZZYjYtZFBoaWEzMEZINmFGZ2MzSmY4eWJHOUxGdkp0LVQ1NFFNOERNQ1ZDaWRmVjhJckFQNWt4aDh5aDVxZXB2TW9IVDIzVXBaU1EtTGQtZnhVa2x6cTVTbXJHYzZMQlJJTnF4bzJjck5EdEVwV3BrS2RhMA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T19:12:00+00:00",
-      "score": 58.98,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "33dccf41a30b88fe",
-      "title": "Flávio Bolsonaro deixa o Brasil rumo aos EUA, dizem aliados e fontes da PF; Argentina nega entrada e asilo - A Crítica de Campo Grande",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjFJSUhWRjVtTFk0ekJPR2NzUTRzTUVGaEVtY2NtS2kzOUpsZlhBdGFSSnRmQ2Y1alNWMmV6TzZSbktERzgzbUx5blVTcHV1UHB2X1lCX1BXZVVZRnJrU0lRT1ctazhqY042b1FKM0tKVmtLMHMzdU8yNHdlNjBJbDBXQktNS1VKWGljV21UaW4wUEpMaDVXdkZxc0MzcER4Q2t2ZkZOMm1RNVRwX2tfY0hFOTBMQjhGSGFFR09n?oc=5",
-      "source": "A Crítica de Campo Grande",
-      "published_at": "2026-10-27T18:57:46+00:00",
-      "score": 58.76,
-      "corroborating_sources": [
-        "A Crítica de Campo Grande"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "56351c3df6d546dc",
-      "title": "Lula faz 81 anos e mira legado após nova reinvenção na política - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnZIcjI5TFF1RENjdGQtSzk4SnplNFRpejRUVlpBOFVFZDRXYnEwMk1yNHlMWGFQNnpvT1YtejE5WjJlc1FzNndDNFZoVXRuYXFSdnE4dElVTWxWNzZjYjJfSmJVOWRZckhGcUZBRUJtUUtnVmJCVjN6TThUVHZmWDZYUWZIb2xEbTBYczA3R1JGbjNYcmFRMExBQ29MTTBoWDFWbU1oQnk0QQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-27T09:02:05+00:00",
-      "score": 58.74,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "49bfd6a58f3565a8",
-      "title": "Comissão da Câmara aprova convite para ouvir Roberta Luchsinger sobre caso Lulinha - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU3FvRHZlTDhYRjNpUEI4TEpqTTh2dmNmMUpCMTNWTXEzVURTa2FjX0JjWXBvWTdxUzEzM25peEFHR0dHNjFvcnZoVHlzQVQxVXJsSm5OckVRcnZmWnl4eFJoRXlBYkVOaUUyU1Fza053T3VROHloRzhmQVJ2Mjk1ZEduenNleVViSlk0S0s4NVRwelc3cWJJR295S0l0OE1pVVBHc3ppRFRoNWxZbEd1Q28teGpMV3ZXaGljU2JxNHNuanN2S1F2dGlsbWY?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T18:46:00+00:00",
-      "score": 58.58,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
