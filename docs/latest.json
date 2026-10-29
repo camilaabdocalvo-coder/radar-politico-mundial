@@ -1,19 +1,244 @@
 {
-  "generated_at": "2026-10-29T15:15:36.327516+00:00",
-  "next_update_expected_at": "2026-10-29T19:15:36.327516+00:00",
+  "generated_at": "2026-10-29T21:11:12.501588+00:00",
+  "next_update_expected_at": "2026-10-30T01:11:12.501588+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "534d853029267f03",
+      "title": "Governo Lula orienta cidadãos a denunciar \"discriminação política\" na saúde - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVF4Tk03TW1UTmQ4aGhBVko5bXVjdlVmTmVPa18wRDhORHlsTnBheUpkYlhhNnVSTEhOSGF1UUcwVVVYLVhuMFRRejUwQk44Q0wyRXNJTkVfeEY2cVFaRmlsVXVGa0NGWEdpUjdyMlhiWl9FOHFHRXBmZkZhdV9lcko4ZWVhWWJaTmlxb2FNLUN1VU5kVVpGelhWVkYzZVppT0V0bDZaNU1IMjQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-29T16:36:00+00:00",
+      "score": 81.09,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "23b974255853aa9a",
+      "title": "The Wall Street Journal critica governo Lula e vê 'vingança política' contra Flávio - Revista Oeste",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVENKT3l4WThWRTVsdjZiRUUxNkwyWENZbGZzckRuUzhlNjI3M1hsMzJ2bmpnbF8tY0RhWk4xU2J3SkRGdEZSdE95NXp1QlFaTk5TMVFhNm5jellyUmx0ampqNFY3eVhVWDdEaURjUmJfMUJpTHVzeUE2NVpLcFBkU2J5MFVlTTdKVEp4dUFTOEVoUTFENzlVRDhzcnFxVkNIY2ozd0pBWDFiZzFBX1N5Z043Rk5qUVJIWjBz?oc=5",
+      "source": "Revista Oeste",
+      "published_at": "2026-10-29T12:36:59+00:00",
+      "score": 76.94,
+      "corroborating_sources": [
+        "Revista Oeste"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "335acfbb4330864c",
       "title": "\"NO TENEMOS POLÍTICA INTERNACIONAL TENEMOS EL HUMOR DE EL PRESIDENTE Y SUS CONSECUENCIAS\" - Medios del Aire",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblZJenJHQ0xiOWNEUkpGQmtwWkhjTnZSZ1E2RHh3emlCTUN1QmZIeHV2WHVtbUwyNlVGb01hMXVQVnVBS0N2ZVBKY2phV05HUkc3ckNnVEM0RXRKTGE4eWJFeFpaNTBMWWdpb3JCdEROcWtkVDdtdE5RSnAxaVNybnFpbkgta09weVpYV0RBSnFQX2JOS2dMYXB5WTdGTU9FZ3JCbUQ2WTdGVmNobUs5aWV4azJZTENFbGhlQUdvd3liQk1NUTRPbF9jTzFkUlRMREE?oc=5",
       "source": "Medios del Aire",
       "published_at": "2026-10-29T12:46:58+00:00",
-      "score": 80.48,
+      "score": 74.11,
       "corroborating_sources": [
         "Medios del Aire"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "640e2888883f4f71",
+      "title": "Delcy promete eleições e devolver bens estatizados na Venezuela - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0tGc0hFOW5RWmRieFlvd0JFVFNxT2ZhT1VEMW84M3dONmZuc1JIelhuR0I3UXNRVXpXdmZsUzJ4SzdwRG40OVpwX3RMMXpjMTNJN0p0WVNJWG8weWprVElQVWJ2VjM5V29FN2JhdnJnWW5ub0NBdDUwYjlac2hNMVNtS0luZDFkTnRob2d1Tmp0cGNYVDFva050QURYcFNCdUJabVNiZjN5MVlmX2dPWXM2Y0ZENGZoWnhDMnl4a3FWYnVBNE5CUTFNamlVN0E?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-29T20:20:00+00:00",
+      "score": 69.42,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d4a9f706be91239d",
+      "title": "Noticias de Israel y del mundo judío en español - Aurora Israel",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03aVJZM0JLNVFrYVhEdnRJbkwxZzFZa294QnhCS0FlUkVzOUNnWmRDdm41clQ0X1lrYTFKdW91MG9DbWY5UjVTbFFmVkFSTERScDlhalNjLXc1RXNYOGpDV0VTUDRqUlZISURZQ01LdUQ1MlZxREhJNlhR?oc=5",
+      "source": "Aurora Israel",
+      "published_at": "2026-10-29T21:06:03+00:00",
+      "score": 67.37,
+      "corroborating_sources": [
+        "Aurora Israel"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dbed9d4d96625612",
+      "title": "PT defende atenção a Trump após reeleição de Lula e pede que militância siga mobilizada - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWJNZ3pBTW5PSnZUdG5QbHRiRTNJVzZHaVVaSWEza01IZGNkUFMyRm03dW10aVRJUy11eWdzZ3hydnFSVm9hN0dBdUxUQng0dUlpNk92QW10SzRmbVpJcmlDeGFIaGlmUnZOblBLRmV1UWlyVWNfWWdwZUIySDRmRXFlcmtKQUl5Q1dHdDNNanFKMlA1ckhGVXFFZHdlTkpEWlFEcTdEeUtBZThza2toaXpicEhGQ2NmUHZGMXdlUGZ5aWtlNEdWNWkxb1lNMUExclM0?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-29T18:34:00+00:00",
+      "score": 67.32,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "22e1a95c108f0166",
+      "title": "Sem cravar data, Delcy promete que Venezuela realizará eleições livres - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmVwc2VoaFQ2OUItTE9mdHg3ZDQ3SUJRd1F3NnZQd2ZuMDFkc21GdmFkVkZTb0Y3dXhZaWVYd3ZLZW4zQUJLanVyYW94Q0pBamdpZXlMWTRXQXlSOFJPdi1telNHd3BFYWFwN055S0g2bC0yeVVJalA0QmkyOG1uVjc0d3BGM2R1ZGtiSDQ5OWlid0dzUGRCbVpFbkl2SnFta0tHag?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-29T18:33:00+00:00",
+      "score": 67.3,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4fb5cd7a8e5b43ba",
+      "title": "Dino usa ação de tragédia de Brumadinho para mandar PF apurar interferência dos EUA pró-Flávio - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ2pQbTFmdFJZWTZsSWlPem5fdEZ5R0JHeXZEdXl1NDRsWVNWVngzUXJMdE1pZExmYzVhaW53endsSVFzOFp3ZUwwNVNRNmV2dnFXTkgzb1BCTWNuRmYxakduVVA1MnJ3MWd3RzhKeWpuUy04Smh3RzdQT2h2S19wQkd2QWtDV2k3NHRVSnVzczM0b0RwdmhyTDNiWUtqemdSVkNmS2pVM3NTYzB5ZU9BeUhVdHRnR1pNQmhud0lJQW1ua1NLVnI5RTJ1ZkVwRm0xTjNZSXRlRTIxSzNoV0M5dlpWZkt1WWVX0gHuAUFVX3lxTE85TmlFdmRXUTVYZDJPRkhrLXNzQi1PTTRZS0NyLUJqc3RQbUpubG9oVWU0Q2dXcVNHTEF5alJzSy1RQVJNLW0xQzhuR3Yxd0JJLWo4bWhxRzdZbzN5bS1HRkI5V1dLMlZYdmlfcDdvNnJ2cEdJQnpXbWRQUzZPUzQzdzM4WlE1Q2xQd0YwaVlwYnhwSTVjeVJwaEQzRk9ZSUs0Z3c3T2NveE9qb2QxdlhGVTY1cGpfX0w2LXNCQUQ5cGoxbmROTUJYSTFnNENpbWRNRWtDLXZ2X2JsdEdYdEJBVmwyaXkyWUM1SG4tMWc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-29T18:26:38+00:00",
+      "score": 67.18,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "708c5d6d415915bb",
+      "title": "Trump califica de “desgracia” las elecciones en Brasil y anuncia que hablará con Lula - Ahora Tabasco Noticias",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalpjd3NEUEZ5em5DNkI3UUF5elhpNWI0ZVUxZklzaUUzOVU5X1FsbmN0azJRbzBSU1RVYjZ2TEFzX0dieTYySnZWVEl1NnhFVWgteWZGYzlPTGpKcFdfcXA3eU9wVjhCcWNjYmlwSkttYzgwSXNyV25hVGxWejRHWTZDNWs2WWt6cWMtaDdYX19yS2tmcW41VmdIV2xoZG56endYNDFvQ29sc0liUHc?oc=5",
+      "source": "Ahora Tabasco Noticias",
+      "published_at": "2026-10-29T20:54:35+00:00",
+      "score": 67.13,
+      "corroborating_sources": [
+        "Ahora Tabasco Noticias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b6ac30bd58b0c2f6",
+      "title": "Politics - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9INmNKMkdCVUp2SjBETlNSRFc0Z0dwdjlEcEMwNVR0a0dPdEsydWttTDZ3SERsczFRbVB2TVFyOVViTzNYY0x6YnZhdWxfcVRyeUw1WVNUdE9UN0JqNThycmEwbjJfR1lrVmtkMzBZYkpPMGs?oc=5",
+      "source": "The Economist",
+      "published_at": "2026-10-29T13:48:04+00:00",
+      "score": 67.13,
+      "corroborating_sources": [
+        "The Economist"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "60910dd6f6e08e64",
+      "title": "Esquerda critica boicotes a petistas, mas já promoveu campanhas contra empresas e jornais - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZlAtZXk3bGVpZDVVQ3U2Q2NhRTZ3cExKdmlRRW5HR1p6YjJUQUVNNFhsMEF4M3FCbHFGZ3I1Y0xZamMwaWk5WWs3RjRhRGFFX3o2N0N1eVdMTmZLZ3NnNWVyb2RScVpJZDdpSm9VLTZvbG8wMzNNaGVBc3dqVmRWV2F6eVhaeDRpeG5XWEktTnRNMUlabndXNXphZXhhU0l0YkxxdlV6VXRKTFl6WWk0N0hIN1NaRTZ5aXh1YmhWb1NoM3NFMFZTNkRGYw?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-29T18:19:00+00:00",
+      "score": 67.03,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bd6a4a5874da7cfd",
+      "title": "Four Ambassadors Reflect on a World in Flux - Boston University",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTi1pRS1aQzdWd1lDSXpXelVFZG83bDJ0eGtoNENoWjRtSEhqXzFOdVplUDhYczdfNlB4WXVtaVc2c3FiTXdSNmRrdURYSkREc1BpaWdzY2dLenRBeWNqNUlsTFVCQTF5Q1RFNG5YVGUyV2ExM2NEc2VHMnM5eWFnOVpHdjRmU05ZS21vbzA5eHg?oc=5",
+      "source": "Boston University",
+      "published_at": "2026-10-29T20:15:32+00:00",
+      "score": 66.33,
+      "corroborating_sources": [
+        "Boston University"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "48200912f82abdf2",
+      "title": "ESTi inaugura congreso internacional y feria empresarial y laboral - News Hidalgo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmVOY3gyRVJKTHFVNlZ3dzJBUjFMZ2NjSnNOSEpiMC1uRkJwa3hpMFFCSGc0ME5RWXdIZERRdzFfYUVfNEkxZUNyYUUxOUhleGJiN3ctZmVHSzJRS2xWZFRJdEJjQ1RMTmtmOC05WVlQbTVobzEzNi1mWXROWFlocWpRLXNnNFRXM1A3QUh4d1JicFJ6UlRPRnd6NU5kMDA?oc=5",
+      "source": "News Hidalgo",
+      "published_at": "2026-10-29T19:30:38+00:00",
+      "score": 65.43,
+      "corroborating_sources": [
+        "News Hidalgo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "26cbfe94a560ab00",
+      "title": "Derrota de Flávio dificulta soltura de Jair Bolsonaro por indulto ou por via judicial - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0NKcGZKXzJTVWpsUDhTSTZVakZTZlk4SHdyVWp6ZkV4Y0E0alNEY2UxeUdPTTRzd01oS1ZyRXN2bmE1eUFGVjAxLWlkSjgxd2s2M0daWmkzZ29DNjVwSjFFLVpLME5rM3VybnNIX2pvX3lYTUVrWDVweXJVVGRxcWpqVGo5X3ZrdmxzeFlEVVRuUWxTX1U0SmJXNmNqbE9kUDBYYTcya1pMSl9UeXdaV0pheWlxT3JNQ2ljUzVyelNUNVBxSFNkRjBHakZnS3BI?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-29T16:00:00+00:00",
+      "score": 64.44,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4f1c5d0519375f0f",
+      "title": "Israel y Brasil desafían los pronósticos electorales - MVS Noticias",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0lONXJBb3Jwd3lsYUVtbFpyMkhzZWZXb2U5YzJYZWhZTG1XR3FVblIzVlV0OEp0dGdHdUVITnVDS3BaZWxpX0p1ZHhQMUp3eDdVaXZxU09FdWVnWmJKNEx0bHY4aDF5UzR4Ym1SeDBNOHRqLUxTckVPb01lU0FSVmtsYm1PdmdwdzNPTFcxbDM2dEpTVEhiQmxFVDFqa2N3MjM3c3pvYlRHZE9NcnNIaA?oc=5",
+      "source": "MVS Noticias",
+      "published_at": "2026-10-29T18:35:18+00:00",
+      "score": 64.34,
+      "corroborating_sources": [
+        "MVS Noticias"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "670a12be215df915",
+      "title": "Detienen a un boliviano en Chile con droga escondida en su calzado - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjlFM2lBNk1TM2MtZkRVazd1OEMxYjYzbXBjeW5kLWV4M1BpYldyZTdzZWdwbE5MVWg2Z0dBVjAwbnZWNEo2ZTRadEVScnNfY2xaNUdOc1VmRDNQdXRncEFncWlnSWNqZnVDX2xSTTVhRktWZEdQZU53S0ZTVmd0RHlCYUNTVFBjdVhKblJtQQ?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-10-29T18:17:43+00:00",
+      "score": 64.0,
+      "corroborating_sources": [
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1N5S0VUeUpHNUlWaFltSlFwa0FrQV84S2hLQUhIcGh6a3BRSlBxQTJYUHBSM3N4VVhJUnZtUDR0VGpydE9wc3pkdXJCSWt6R1VXOEdzOVVXUllqbS16Sk9KMVNFRlRqZzROTlB6OTBQQ0lPUHdYU3F2QXJPY0hjV21kbllfRml6Q0h1aHEwOWRoV0nSAZIBQVVfeXFMT0swQnFuMTA3aEpCOWFXU3RQM2xjbU1JS00ycTNMY01hTEdYWUpNV19CZGwwZnc2RXJQMGhQcHI5emFLenJNbW1pN0xIRHphbkI2bGxmNEJFb251ZnJad1hzWkVRR0RlQUpyQjVGekYyekd2elJEYVpKNkgwdjl1cHJWSmxPYUxYTlRydlJSQ3FkLUE?oc=5",
       "source": "Modern Ghana",
       "published_at": "2026-10-29T08:45:00+00:00",
-      "score": 68.03,
+      "score": 62.33,
       "corroborating_sources": [
         "Modern Ghana"
       ],
@@ -36,14 +261,14 @@
       }
     },
     {
-      "id": "a749db7ac70a080c",
-      "title": "Israel elige, América Latina se alinea y el derecho internacional espera - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS00yQnloZEtxekdJMWViRFQ1RWNLZk5XOTNpc0hIdXFwWnM4LURESklWVlFCU05GNDM0ZU1QUWlqZmxTOXZJR3dIQjdXdzVtNzhPNGZkUmlERjFkZ2g0ZlRMRWRUcV9FX2w3ZlM5TWtyNHJSLVMxdTg4V194a1ZjSFEtSjZ1a0hhc3dVamJUaWFwd1oyXzM1QkNlRkVWaTZUczVoZXpkTFdiRjFWYjdCM01ldU9KTnVhdklQMVhsRmfSAdQBQVVfeXFMUE1lZUNERXhfT09vOGlfUmE1Z1JlR3hsSzAtcERBekZYbVZuRDJGYjVUVW00bjVvbkRYV3ZkNmN0TTVjLVBqTTVZdTNiMmhoX0praUt4YWdfdUVzZ0ZIY011eXZhY0NRQnlrQmR1UloyblF0bnNjUWhVN19JSjNWcnBnaWU4SkJpWW1LdXhoTnYxSmlvUHBEcjVRNnVFQklYTjlNTy15ODhjcFpBMFhpbE9ZOXlTT2V5SHM4OHFLb3lCLURRYkNtQVhCUHYtNTZudjRaZ0k?oc=5",
-      "source": "EL PAÍS",
-      "published_at": "2026-10-29T14:39:52+00:00",
-      "score": 66.74,
+      "id": "514bcaf03e33b7a8",
+      "title": "Uno de los fundadores del PT en Brasil alertó por el vínculo entre Milei y Lula: \"De mal en peor\" - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObW42aDdmMmlnU2trdGFDUW5peDMwcGQydmJWZjhfVGQ0enlnZk8ybklPaU4yNnJNRHlLclFwRzFycDlxNkJPQWx1b3BzOXFsMDNfcWVwWWNFNjZVd3RDZEhBWWtHa1F1ay1TR2dtVFZKdWt5VXptMWFmOWw0ZzVUTlBkemZvanY2c3EtVjZKd1Q0LURlRTNCZV84RU1HMWdONzNTWGZBOE1UWmhsVGJHZXZKcjJpbXVQbXR1TVMxWHN3cTFUUHFVcE9wdVkybDUyOXJwWkNNdHhhSmg5aDhtVUhB0gHnAUFVX3lxTE1uV0NmRmpyaXBmelR1TFV6enF2em5wM2R6aGVXV2JobklEUWM1YVd4Nk53SXJCSnFaVXFINWs0S2Q5STUxMWFPWGp0eUNuMjZiTG83Y1J0dUJYT3FuY3cwSzZsMVhwNUhjcTgtd2p5RXhjcjNzVUpkOHJmcjN4MGJ6MmJCVXZ6TGdRMWg3LVU4VHppZkZZdHM0NFUwSEx0Qy0tVk5CaUZ3bkNyNzBaVjZPeXZWUUxyTV9JWW1IMDBaZXRxQTcwdHZQZW4xZFJ5Tks1NUNJOE5CQk9SWXEzX2lLeWlfR3l2QQ?oc=5",
+      "source": "Cadena 3 Argentina",
+      "published_at": "2026-10-29T16:22:45+00:00",
+      "score": 61.85,
       "corroborating_sources": [
-        "EL PAÍS"
+        "Cadena 3 Argentina"
       ],
       "signals": {
         "source_count": 1,
@@ -51,14 +276,29 @@
       }
     },
     {
-      "id": "a1596d56a7d3bb86",
-      "title": "Político brasileño cuestionó el vínculo entre Milei y Lula: \"Las relaciones están de mal en peor\" - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVDJ4RUs5ejBLS09DNWl1SV9ReF9jOTVfdVg4NVlyRHpkMVNuWkZUbHVaUS1oWFhKTzd5a3lyemd5OVVGbFVpOUNQTzZLNGpqRkVraGJyckpLa2tyUndacnhhbWVVVElNcy0tMkpZbElLc2xyOGlQeEpTSF9qYTBVVnBZVVpzMlN0X0NROGZjNnh0YzVLRmFyS0QtTGppbXBBazQ5Uzk4c1JwVEJmQXU1N0F1UzExRDM5U25rX01kdUN1Y0VSVkFJdGtYY3JUQ0hoQXdUSWNibHZFcVk3cThJVmxn0gHnAUFVX3lxTE1sNWJDeHNBYXRpYmw1VTJOMUs5ak1mRE4zYk95WW1yUEFJQzJJRzFoWUNKTnd3QlFrQzM5R3lBU0ZnT1J5QjQwZWhReXc4cmNHRVczT2RZV2o2VXI2SGRCQWdhV3diUlJab2RTd0lXTzVCM1RyXzFpcE0tTVN5Y0s5bVdwU2JWV1gtV2wwbTJjbmJzWTgxeDcyTlJla292YWZVVEpIMjA5ZjlvNGc3X29WeGdrSnQ4cnBFNTR3UmR6RTlGMVB0TVVTVlBlbmx6R3B1LUN3MzR2UWktSzFFbk9FWDl3ZUM1QQ?oc=5",
-      "source": "Cadena 3 Argentina",
-      "published_at": "2026-10-29T13:59:56+00:00",
-      "score": 65.93,
+      "id": "025e77e55c57ca43",
+      "title": "Por que as eleições nos EUA e em Israel têm consequências globais - Terra",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcTI0WlBObWY2SkYtWTVtUUVDZUhlcTF3ZU5ROGs3OXRkekcwR3Z4Y2RtVlF4c1Q2UkZkaFd2ZzVLZ0lzUDdmU3BrdDdUeUR0N0JiUVVELWtKRVYzY2dXTEx2S2F5eHJTSUpucF91b3g5Y2hPRXowM0Q3LV9IbDdFNUZXWGhNb0I4WFZrc1JGb1hyQ0g4S2tydWVReDNDYm42Q2ZpaXRrdFU3a3JJMEF6d3NiNHU2ZEVzRWhrTVJSRi1uS18wZUZNeTlpeVNhMFpFRE5JNFRsRlJTX3ZBLWZCZFVEWXZ1UQ?oc=5",
+      "source": "Terra",
+      "published_at": "2026-10-29T15:44:00+00:00",
+      "score": 61.15,
       "corroborating_sources": [
-        "Cadena 3 Argentina"
+        "Terra"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "517c42694aaaf7aa",
+      "title": "Moraes é validado por eleição de Lula, dobra aposta e tenta acuar Congresso - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY3pkbC1wREk5VkF3bEt3Xy1RZWswdTJodUs2VGtDMy1XM3VUVFRmMlByaU5lRFVydVhXNkFIOHJUUkkwQzlJaDBqV2owZlo0aFlXVXg3UjdKS2REeEFUY2liNUlZQTRWSHZzR3BmT3ZndFJESVVnM3JCOFd0WlpSY0RYSjMwbWRlc3hVMlpvMks2YmJrX1o0Qjk4TGZSaUlvaFNDWFZmTFdOS2JSQnA1dXpTRDJRLVVERWZNOWRrUmdadm81SVp6StIBzgFBVV95cUxNemtqek4zb2lNYzdyOF9RenRpQmhqbnZFNkdFdmYyaTF0OU85bnl6U1hBZjFIcFJBRVFpSHZfWHRXN3ZjeWl5NXlDTWJZRl9BU28xVXUxQVZBN2ZSSEZWOEtRbHpVMTFoNmY2YjlzalE0NkNZYVQtREJibVRwX1VCNVdIdDMzdXNzbU1BeEJlSW5BT19UbVUxNnZza1lXRUwtWm5UVzBTMnhtbFRJRnV0WFBZWWVGUnp5dlVfTXY4Z1U4Nlk2a2JlSTdSS29Wdw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T13:44:00+00:00",
+      "score": 60.26,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjRXVVRfelc1WjB2Y1lWVWQ3UGRWTUp5cHpfRnZTUl9YbE5vVE01cDkzNy1jN0Mxbncxc00xUUg2RUd2RXpwOGVLOFpaVFdIN0p6Rm9kY3BSWmVUWHQ5Mk1uaGxhZ3l3OGZVVE9lX3plbGZwRWZnU0VEZnJ1emlNX3RVY2pULS1iTVgtbDFPX2RKRFdwOXRHWXp5RGRUbF9n?oc=5",
       "source": "The Daily Orange",
       "published_at": "2026-10-29T06:07:12+00:00",
-      "score": 65.39,
+      "score": 60.09,
       "corroborating_sources": [
         "The Daily Orange"
       ],
@@ -86,9 +326,39 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHhTbGJ5MlRUM2FVOHVSOWVWdzduTWE3cXFWM0JIQWJfTHAwRzF2aTA4d0s4LXZWblpWZ0FhQnQzQ3U2NXg0aEhBNEg2NDFETHZCMEFQeGo5MzdYUVhOdHlBbVJiRWR3ZG91U0Z5UVl3dkx1UFF5T0Jma01EbXV5WlV1eUtBVHJhUUtGbHB0Y0MzejU4cVpiQm9n?oc=5",
       "source": "La Jornada",
       "published_at": "2026-10-29T06:06:00+00:00",
-      "score": 65.37,
+      "score": 60.07,
       "corroborating_sources": [
         "La Jornada"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a749db7ac70a080c",
+      "title": "Israel elige, América Latina se alinea y el derecho internacional espera - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS00yQnloZEtxekdJMWViRFQ1RWNLZk5XOTNpc0hIdXFwWnM4LURESklWVlFCU05GNDM0ZU1QUWlqZmxTOXZJR3dIQjdXdzVtNzhPNGZkUmlERjFkZ2g0ZlRMRWRUcV9FX2w3ZlM5TWtyNHJSLVMxdTg4V194a1ZjSFEtSjZ1a0hhc3dVamJUaWFwd1oyXzM1QkNlRkVWaTZUczVoZXpkTFdiRjFWYjdCM01ldU9KTnVhdklQMVhsRmfSAdQBQVVfeXFMUE1lZUNERXhfT09vOGlfUmE1Z1JlR3hsSzAtcERBekZYbVZuRDJGYjVUVW00bjVvbkRYV3ZkNmN0TTVjLVBqTTVZdTNiMmhoX0praUt4YWdfdUVzZ0ZIY011eXZhY0NRQnlrQmR1UloyblF0bnNjUWhVN19JSjNWcnBnaWU4SkJpWW1LdXhoTnYxSmlvUHBEcjVRNnVFQklYTjlNTy15ODhjcFpBMFhpbE9ZOXlTT2V5SHM4OHFLb3lCLURRYkNtQVhCUHYtNTZudjRaZ0k?oc=5",
+      "source": "EL PAÍS",
+      "published_at": "2026-10-29T14:39:52+00:00",
+      "score": 60.02,
+      "corroborating_sources": [
+        "EL PAÍS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5edcef2a1bfacff1",
+      "title": "Após convite da Espanha, Janones é aclamado pelo México para discutir articulação da esquerda no digital - Diário da Manhã",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVlBM0tZTExYaUlnY2VlSjdUSUNsNWJxZ2tjcjI1cXYtNUxZQXdpSFZCZy1YTklaemJDTW5WZTBVWDNQcnpQenE5ZFBxV2ZyTXVXRE1UQUNBazRGTWdqUkNIMkNpVkN2a19mdUg5Y1RGY3Npb1RMVE5aVHBWNmx4SHJ1bFZvaVRPeks0d3Z5d091RGcyaEtaMzNCQW5PSUdBU1V3RzhPMDBPZDZQdEtlaW9jLUVzdHItaklmX2Y2aUFMMnBDU3JOcy1jMWJCS2ZhRzZtOVp5OA?oc=5",
+      "source": "Diário da Manhã",
+      "published_at": "2026-10-29T14:36:00+00:00",
+      "score": 59.95,
+      "corroborating_sources": [
+        "Diário da Manhã"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0RGcVJxYTdGYnAtRWNLMmpLQWgzazNJcV9CT1JkZ0NSTjNjMmdOOENXdTR4c3p6WkY2YmozWGYwM2Y0QmtiTE8zRlhDX2ZmUDBLaFJIcm1nWlBIRVlTVUdEcTVIUXh3NEdBTmpRQlhjQk9DdjRfSTBtZjNlcE50U3V5NTVicG9feEZ1R2x3RFBQQ1JNN2hJNW5LM3RQUXpxTmN4bTZ4bEFWWHFTMzgxUHJnLXFCN1dqNEtYNGltcWNSTURSTmRB?oc=5",
       "source": "BÚSQUEDA",
       "published_at": "2026-10-29T05:10:00+00:00",
-      "score": 64.47,
+      "score": 59.31,
       "corroborating_sources": [
         "BÚSQUEDA"
       ],
@@ -116,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbGRXcnE5eDR4WnN4MkVTdFFEYmpKeDI4VlFQLWNnR2N1N3JDRUhLc0RLemprU2VLdWVpODgwajNLQ1FJWTZBMG41cGxRWlEwa0E4ckk3LXl4RnlDNlNQMzFjMHpKQ040ZklBc2pfaWhaa1NTOVBieUkyRFEtRFZ1QkNUcTBrd180UUE?oc=5",
       "source": "Modern Diplomacy",
       "published_at": "2026-10-29T05:00:01+00:00",
-      "score": 64.32,
+      "score": 59.18,
       "corroborating_sources": [
         "Modern Diplomacy"
       ],
@@ -131,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclluclo4RVYxMW92QXd3MWNoajhvc2lQZ1l4aDN3TFdSYld6aVZ2ejBoclZ4MmN5Mmc0cGp3NElUNFgtaUdyUXdvX1VBdEJ5ck54Y2pUN0N2NVNpSUpJR2ZhajNzb1NHbGR2aXVKc2RHQ0NZNVBnM3JVTTU2X2dxN3RJd0djY3ZnaGxWa0UtSGRBaTB6dzRjaWpWMGdVbERldVhF0gGoAUFVX3lxTFBFQ2lYUFZRZ0Y1QXVTWXdfZW5uNGdCWDFOeW5CbWhnTWtXOWhqX0l3alFqWHJUOHlTWjdQSHlha3hiTE9pOWRjb2Utd1lvYm1Fc00wMkpEUlJZeE9KY1hmVFdleE9lSU9WTlB2cGMwN3lVUmRaRTltQUJGU1hfZ0xvXy1TVThJLThHcjJlemJuVWpvdm1aX0lYb1IyQjlQY3ZLT1A0dml1Yg?oc=5",
       "source": "Diario Red",
       "published_at": "2026-10-29T05:00:00+00:00",
-      "score": 64.32,
+      "score": 59.18,
       "corroborating_sources": [
         "Diario Red"
       ],
@@ -141,29 +411,14 @@
       }
     },
     {
-      "id": "e6dca05df1d967af",
-      "title": "Leitores que desejarem comprar edições passadas da Folha impressa —como a que traz a manchete da reeleição inédita do Presidente Luiz Inácio Lula da Silva (PT), no dia 26 de outubro— podem fazê-lo por encomenda. Desde o início da semana, o jornal - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9idm52QjdfNmdXVzYyOUtUNk13cExFUjRmNGE3SkVzd1FaZ1ZVb0JCV21HbkJHRnludENyWG5ITDNnY1hRRlBBQlM3MjZ0OFkyanc?oc=5",
-      "source": "Instagram",
-      "published_at": "2026-10-29T01:00:21+00:00",
-      "score": 63.76,
+      "id": "f84c113089cfc0b7",
+      "title": "Are middle powers making a comeback? - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aN0NwWG1CMGdSdFdxZXRJSms5Z2hrSzFWTTVQZXdQa1pUSndYNTVOMEFOMkJFbGtZSjk5Z0hDOF9IVlJuUmwyYXFmWl9GVTdBOUJNcndQMmp0aWJYMkxNYl9BbkZUUQ?oc=5",
+      "source": "TVP World",
+      "published_at": "2026-10-29T13:32:00+00:00",
+      "score": 58.86,
       "corroborating_sources": [
-        "Instagram"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "517c42694aaaf7aa",
-      "title": "Moraes é validado por eleição de Lula, dobra aposta e tenta acuar Congresso - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY3pkbC1wREk5VkF3bEt3Xy1RZWswdTJodUs2VGtDMy1XM3VUVFRmMlByaU5lRFVydVhXNkFIOHJUUkkwQzlJaDBqV2owZlo0aFlXVXg3UjdKS2REeEFUY2liNUlZQTRWSHZzR3BmT3ZndFJESVVnM3JCOFd0WlpSY0RYSjMwbWRlc3hVMlpvMks2YmJrX1o0Qjk4TGZSaUlvaFNDWFZmTFdOS2JSQnA1dXpTRDJRLVVERWZNOWRrUmdadm81SVp6StIBzgFBVV95cUxNemtqek4zb2lNYzdyOF9RenRpQmhqbnZFNkdFdmYyaTF0OU85bnl6U1hBZjFIcFJBRVFpSHZfWHRXN3ZjeWl5NXlDTWJZRl9BU28xVXUxQVZBN2ZSSEZWOEtRbHpVMTFoNmY2YjlzalE0NkNZYVQtREJibVRwX1VCNVdIdDMzdXNzbU1BeEJlSW5BT19UbVUxNnZza1lXRUwtWm5UVzBTMnhtbFRJRnV0WFBZWWVGUnp5dlVfTXY4Z1U4Nlk2a2JlSTdSS29Wdw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-28T13:44:00+00:00",
-      "score": 63.62,
-      "corroborating_sources": [
-        "Estadão"
+        "TVP World"
       ],
       "signals": {
         "source_count": 1,
@@ -176,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGxMWG80TU95Tm1YTnREUGpVTUJQT1VOblE2aXNZLXAyYnpIU3UxU1o1NDFESU1KTlFoYnlkeW5iazhOWlluVzUwMFQtNnJmRmpSanp1RUtpVkxwQXJDSW1QOHNCSXF1dEs4aXhKRHY3dkJ1UUFLaDRUeUpqa3J3TTR3Ui1PaXJwMXZKQ29GQWUzTjZwdkF0ZXZ3SVRwQUVJa0NhUEZlWS1KZ29FSU10S08yZWRuSUJfd0FvQ2xsR3RJUmJiZVFscUJB?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-10-29T09:11:00+00:00",
-      "score": 63.49,
+      "score": 57.72,
       "corroborating_sources": [
         "Gazeta do Povo"
       ],
@@ -191,264 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkxKb3BLQUZhNndSNmRzMHBCVnVTcnNlV2l3b2gtVlZGbGJsRW12dHBzVHJjVzhhREZ4ZUh2TU9BekFGMGY4TjdvOUlBQTFPQkY5WkVTVDdsZE10TjJvMWtDM2RmdFVLeVEtRlNBMUUyb0tnUWtzenVqQ3ZZOUZiWGh5MVc1RkdqSWo4ZGswaUw5WG9tbnRaZmZzdWtDZk9HczlOU1BOQlFQVDR1RGdad3dyWXQwYlhoVS0w?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-10-29T02:19:46+00:00",
-      "score": 61.9,
+      "score": 57.13,
       "corroborating_sources": [
         "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1274233f87833c47",
-      "title": "Locating Minilateralism in International Relations - India's World",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94Qmo3aE5mUUE0bGNGMXFVak1GSW1iV2FOQklNenZNWURwUDdBZ19kWWwtMUlGekRjTHA2VHEzaHBuUGttOHhVcGZlV09NaDdFUnh5LWFRS0hJNm1zT0VXSl9qVVBlN3VNUWZZMDZZLVRCd3ZJekg0TTY3S3JzYTQ?oc=5",
-      "source": "India's World",
-      "published_at": "2026-10-29T09:51:16+00:00",
-      "score": 61.2,
-      "corroborating_sources": [
-        "India's World"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "aed6fd06098ebfd3",
-      "title": "Saiba como comprar exemplares passados da Folha, como o que traz o resultado da eleição - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVQ3dFN2bmowaGJVWkRtM1hZOUVkS0FEVU00eU1vRW5VbUF1Tk9hOUhybzJ4Zk9hV0VsQWZfMDdfeUhUcnRTODZ5MUVtbUhFdlVLcTltY1BNLTQ4MzNDUWhHS1VZS3QwbzFIVFhrU0NkVDRySmp1Wml4OTJlVVFqYXhWUXlxZTM1LXZ5dUI0MG84RGRGMkw3aklfSzRyS1Z4bVRsbnFVRXZqb2VxaF81dXo1eFFzTHRUY25CRkVaRF9fRl9oWmtTUEVpWElOcXVxTlE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-28T21:39:00+00:00",
-      "score": 61.07,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a8ad9acf655813a6",
-      "title": "Trump diz que ‘não vai se envolver’ após Flávio se autodeclarar ‘presidente eleito’ do Brasil - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFhjbVVPWnZsZVpTTHRaLTNudVRlbjZQeHl6SVRSd09qRzJ0TUpGTVM0NmtuNnFsdkpORE5NOG40MkQxNk9ndVJqMzlteS1lZC05enB3TzZiTHctNnR2YjkxZTNUck9QclJvcTFpNEJHM1E3YWJ1bnBZamJucE1JS2F0c3FmSWJNOUg5TUdIN004Wm9JaTNRdnp30gGfAUFVX3lxTE1nbGUwTGlvbkxVVTFtVmVMbEdQa01hVXpWSVplQXBwQkJUbWkyazBMSGxFblBBLUNiaWFrUUstWlVpSHpyVVFGZ05ncEtka1RPVWdyT054d1QzLUc4X253RGxQVjBCd1RNTEU0NGJ1NXhzODN6dnN0eDNlZkhNaHRybUdRUzBwME5Dd3ZZbGRpQTJWdDZzc3FXOUJ2OEJrYw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-28T21:10:04+00:00",
-      "score": 60.7,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "08c9d3b90a9f2ec9",
-      "title": "Marcos Robledo y la A3C: \"Adherir a una política que viola el derecho internacional tiene un costo muy alto\" - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHlIN1BGV0VHclliak9XSmRla3JHUDh0dUlCc0hXS19CY1dGcEdwSE9tWU8zV1FCWm9wcnBDdGxhenR2Q0pJQ2ZWZEZjTUhCaWViZnliWUMzM2Q2cm9VekUwd2xOU0Z2Y0tLZU9ENW83Ml85MlA5R29NVFBYMjBCZnlSd0hXOVhHRXVhQ0w5SUhpTjlybEhLS19USGgzb1BweVRMWEh0d2ZHdV81RTZZSFYwWW81TGJkUGY1VUdrQWpkS0lxRzlaQkQ2Q0VyT1IxalJPN1VkOVY?oc=5",
-      "source": "Universidad de Chile",
-      "published_at": "2026-10-28T21:31:19+00:00",
-      "score": 57.97,
-      "corroborating_sources": [
-        "Universidad de Chile"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "412b99208867e843",
-      "title": "Japanese soccer federation official resigns over displeasure with FIFA politics - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGIwSVFtcGd3cUZ2YjhCV29RVXgtXzNyX3BibGoxbl9DcGFzYks3YVk0V0J6S0hzaXJhelNvM1pCUTkybEFyVHhQZWdaZjdGeWgzd1pidHY3QWdFckhzMnotOWhSS2xxMV9CWjlJaDV5a3BMVl92aFltc3ctMVhTYmdOQ21zcFZsaTVBa1hueW53UlhCeWh2XzRHTGl6WUhuN1NVTWl1dERZdngxZkRZRTJFYW0?oc=5",
-      "source": "Japan Today",
-      "published_at": "2026-10-28T21:30:00+00:00",
-      "score": 57.95,
-      "corroborating_sources": [
-        "Japan Today"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a255a51e500ac49f",
-      "title": "Is Brazil’s Vote a Turning Point for Climate Politics? - Atmos.earth",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFF3bzlRUHpmcFBzTlhTUU9wclZXcndqZ1BWT3RXQnNPdnpWZ0F6azFxLS0xdF9ySjlxR3Bnc3o4OW5iR01vc0FZNTItVEl2bDNDZUdqR1ltV2ZabXItVHg0bU1OR2ZQdzNtdTQ3UTRhMEFJWkxseFljb2ZEM29BZG1GRkJJSFE1eUJ5c0NidzRBM21mN3EzelRB?oc=5",
-      "source": "Atmos.earth",
-      "published_at": "2026-10-28T21:12:35+00:00",
-      "score": 57.73,
-      "corroborating_sources": [
-        "Atmos.earth"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0294a857e8700cf3",
-      "title": "Flávio Bolsonaro se autoproclamó “verdadero presidente de Brasil” desde EE.UU. y les agradeció a Javier Milei y a Donald Trump - Diario 13 San Juan",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQY0l0TGgzRkVFOXJpSHNuWnNJVUR3NGdNRUtyZjZmLUsxRGFka1VxN0tiXzBqLTJwSVItRzdMZjFKTU1sQXYxZWxWZk9QNTNQTG5zMEJwbThVRkdSdnJEYVNVakRjNloxOF9YZV91N2xNV0VMOFdXQ1FqT2FtZTRpaElMTnZ1MnZjQUx2bDdFZVVDb210RWM3SVhvUWZPS3owdEZOMjNiWlkxa2N5R25zbzhGNnVjY21LNFp0QTlkN1dyWm1haE1maWNxekRHa1J4MDlhMkZJTEdXUEdmSlBNenpUaWJmQmJCeFlrdTdlRkRhdUg4NDRZVkowSHNmT3BfLV9oeThrRmFXZ3ZuRWV2UXZNZzVKWjVrVWFxbdIBqwJBVV95cUxPa1VYTkZNeVJBSS1WWGFpVzdoOVh1T3FhLVNhaHEweVZYT3pid0c5UUZQWVpSMW1uQ3FTUVBWcUZxUnB1TG1PVk5hMEF1MEdRaWN6am16VEFxRWc1UWhET1lPZzhUSmdQOXZCMVRvd0NWdDF0bzFYYmdlR05LNXZId1UxMXhSZE9hZ1Q0UHNMNzB6cjhHTHJPNjQ3S3dlSTRhSjRNYi01QkhTQWxfeXFmZjBFaHZ6SDVkczg1cV95YTdnd3Vlb3FfUHl4b1FNd05xbEVyLTU5eXZXSEV0MktxbHFpWnlmNXF1SjRrM2VRenFlbWFVZ05ZSUJCcy1MTEJGZUlQeXZOU1dxbEp0NVlya0hKUXMzendNNTF3a2NoN2VJNzNSektCdzI5RQ?oc=5",
-      "source": "Diario 13 San Juan",
-      "published_at": "2026-10-28T20:20:34+00:00",
-      "score": 57.08,
-      "corroborating_sources": [
-        "Diario 13 San Juan"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b9e8e93d7420c8e4",
-      "title": "El petróleo sigue al alza, Tags Precios, petróleo, guerra, política internacional - Transcamion",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVnczbmJ4dUVuTm9jMEZyWjBvTVBJQzEzX1d4WHhuZEVIcEtoU3lEOU5ZaXNIcTNHMy0tWlZPdHhsZTF1eWdzWk8tdE52aU9qcnJhSjM2WnpMRHp3Y2Izb3F3cS1lYkxqUk9rSlM1UkRGWnNldVB5QkY5c1RpQXdqbkpLUlF0TlR2aV9UZ1ZVMXhveUtzQXlUYVpVOWNkcG1GcDRtSzd2U1ktejlzQk9xSGhNcHF0MFNJOEI3M3ViazY5VG0yemZFV25jLU1fZkRhcUNST0dGblFCdw?oc=5",
-      "source": "Transcamion",
-      "published_at": "2026-10-28T07:04:40+00:00",
-      "score": 56.88,
-      "corroborating_sources": [
-        "Transcamion"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e9541f5c72a546ce",
-      "title": "Fuga de Flávio Bolsonaro expõe mentiras e acobertamento internacional, analisa cientista política - Brasil de Fato",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbU81VTZ4c2RBYXpQU0FmUUE2ZU9IVjctdkd3Vnp2UWJ4ZjJtMGZjSHlXY2Z3WnZ0TnllcVBaUFM1UC1zQlFhREJsaV9XNEtlVFR5VmJ3Z3U5ZVRfSTA1alExMTA3V1FMRXBKSVZybHIySGlTX011a2xNYmYyeEluLTlEblRmb3pxQ3ItX3UxMzVmV0l2NHliRDRuNjI1bF8tWHdtRkFrNWxGOHQ1MWtqWU5RcFJwQW9MUmY4N04xaGZQQ1hyZDA4WHBNZXhVVWFEVG1tbjBwTQ?oc=5",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-28T19:47:00+00:00",
-      "score": 56.67,
-      "corroborating_sources": [
-        "Brasil de Fato"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f6a542e26f83b2cc",
-      "title": "Saída de Flávio do Brasil é consequência de perseguição política, avalia Gazeta do Povo - Revista Oeste",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmlONlFJUUota0MwdkJFQjZ5TWRpcy0yU2ZHTEpxb0ZPNG96Q2ppU0dZdGZodGZ3em5vV1d6ZGlmaGhRSGt2VTJhQjZxTmZQN2tON1N6bzdPTS14TXp5Y0lEblFvZG9sX0JLdk45T1BrdU1SeF9jNWRneFdHRlpOZURweXM5ZDJUeTZsS2huYTN3OHFvMEdieXZEcndvTDhYenpoSWE0OXZYNWNicjlObG5MeEJPWlEyUHNvSUVCaXlnQQ?oc=5",
-      "source": "Revista Oeste",
-      "published_at": "2026-10-28T13:22:54+00:00",
-      "score": 55.41,
-      "corroborating_sources": [
-        "Revista Oeste"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "74ef3f09d99966ae",
-      "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law. - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0NLZWtJMFNpUzBjcWpCQm9ROE9jLWkxa250VzZlY2EyYkZfdWxmRjBhZUl1MW5ZUm5SQklka3ZCNWRXR1p5Z1hlWHRzX0NXaVBOT2hLekJpTEFjUEJWa255aGR1anA1SHM3eDl2bGtzQnFHU0FuLUt5NFRxQUdJc2NMR0ZLTDNQRWI3eDE0eVI2LUpVREZ2TloyNXpMRjZxbHBYMEdQWWNPR0RSZ1NFS0I4VHkxSEd1b1dSdm5Lb0lwYmtDME5pZ0VpYURlb3hEWnhiSjRUS003WFk?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-29T03:56:22+00:00",
-      "score": 55.33,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "edd589f09e57a342",
-      "title": "Política internacional: 'Está escalando a crise bilateral entre Brasil e Argentina', diz Janaína - UOL",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HNXVLdWhtSkJTWUhJR1daRzdQTDFZRFF0cUJDYjl2X1BmYzZOVm9yaDQ0TlFvdFhUc0Njd0RDdDd6UnAzLXFUQ3ZYTTAwekpBNWtoNGZUaEhCZlJmMndTeTFseU5GVWM?oc=5",
-      "source": "UOL",
-      "published_at": "2026-10-28T16:27:17+00:00",
-      "score": 54.36,
-      "corroborating_sources": [
-        "UOL"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4934dc17406e1daf",
-      "title": "CNN, MS NOW and Politico escalate legal battle for White House access - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazQwd1EzZ2N0WEtXNGlXNFZ5ZF9DX0lkSWNzMFhoZ25BYnFTLThIT3h0bF9RckJ3WmdnTHlwSHBNREVYLWsyS29Ha0dSRldsVWRreWgtRnhYUEJkMVdBMFVfemNwMXpURWh2czdKTnJWQi10blFnVDU4TzB6T3p4bzRYV3Qtc2JOd09FTUcwWnQ3OVRyUlFDel9mVWFHTUszMTFRZWJxUURBb0otRjRlc2dkcm5Zbm1XR1RKdTZOVV9GSWJ2Znc?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-29T02:40:18+00:00",
-      "score": 54.2,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c2c91b99f867ea30",
-      "title": "Expertos advierten sobre el costo para credibilidad internacional de Costa Rica tras archivo del Acuerdo Transpacífico - El Observador CR",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFR6VFNyUEtMeHZtZEs2ZkhsWmw5LV85dEpMdDVmXzFHNFdUYVJIeFhjbGlNcFQ1Z19KM3B6WHJEOGczVjloVDZUeHZpN3hmUndXUnJKY0ZwTzlOUzhEQnFOVjZuQXViRGlVNFp3d0tqaVpXTmJLaklpaUEzMzJZckU4WER4TVFCRXhYMWFUUzhIel8xQURnWko3bXNBR0o5azR3S2F6U2FJZmhod1M1b21KX1JfRkJ5T2g4cVJ0dVlabnBmRzNxVTluOWdTWk43cXJoMXY0dHE?oc=5",
-      "source": "El Observador CR",
-      "published_at": "2026-10-29T02:39:50+00:00",
-      "score": 54.19,
-      "corroborating_sources": [
-        "El Observador CR"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "eaeef43c6874698e",
-      "title": "Nikolas Ferreira pode disputar a próxima eleição para presidente? - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnZJVlVtOGF3RHlCQXdRTlkwS29paGJGLXRJX3JfWmwzWTZiXzcteHZDX0RDTF82elhuYVFDTDBoNkNiRmFGUFp6WjhYRzU4Y09MN0x2YUY0akVRcGtZRUlzLU5DOV9hbzlSN0NUNl9Iai04Q0g2YlNKdXo3Y2MzT09WcHNseHdJMncyczVrdjhVZUEzVkE?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-10-27T15:24:00+00:00",
-      "score": 53.38,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5596e8a7eedf953d",
-      "title": "Polícia investiga \"lista de boicote\" contra empresários petistas no RS - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU5XT19jNklWQUp3aFNMT1Q2U2oxc2pwaE1aZzRxVHp6YnNmaG84V0J1Mk1HN3MyUjRHTU9qNkp3WXpPYzhkbTEyUnBfUlBkSlkybFdaSFdCeUdHX0JtdERZLW1BUXJtQUk0R2hiWVpXai1McHJIZFVOcUlCQ1k2YXVoWW5OVFIzUTZiQV8tYUk2TkhUcW1TZ2x5Nl84ek8zX09nMQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-28T21:57:00+00:00",
-      "score": 53.3,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "08c30a035412d2c1",
-      "title": "Flávio é mais delirante e perigoso do que os piores críticos imaginavam - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN1FXNjlNUmFER0RJU25EVW5uZlVkbVZremtfalVXeEN4eVY4akdCTmRsQTd3NzRrWDFFMkpNZFJCTDZNOG9ldlVCOUUxdmtRS3RJUllzMDNITXlHa0RLYlR0dzI5S2NyUFdrdmNwUjFYUkYtVGVXME9MVUxVT1BRb1hnbEdMU1ctS3Mwb3l0cGp0RGpiaUctZnlHYklkTHhZemhwdzRTcUxOZFIwWkstQXFDc1N6UU4xTHg3U3JR0gHDAUFVX3lxTE5QTElOaXNYejB5NWV4Q2hPUkZNYmx2UlltNFVFTGNCNUpKSm9LR1hvXzRRQXlFR0I5Sl9DYnpJVkJHUmlVZW9sZkhfMzB2UnNRc3FlV1dRVnBmekozWHZBV2RJeDdSNjJTUk4yb1Zma3pyR0plSzNaUnVsNVRhbXc0MGV3dVRxNHRyV2JUX29admZYVEJBX2pQSHpsNXZtVExmTUtKVXdBS2ktNVZQOEN1VjFPYVpBdUt0U1Z3SndfbkJLYw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-28T21:56:54+00:00",
-      "score": 53.3,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
