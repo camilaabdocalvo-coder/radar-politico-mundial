@@ -1,17 +1,62 @@
 {
-  "generated_at": "2026-10-31T05:51:06.678222+00:00",
-  "next_update_expected_at": "2026-10-31T09:51:06.678222+00:00",
+  "generated_at": "2026-10-31T14:33:50.760266+00:00",
+  "next_update_expected_at": "2026-10-31T18:33:50.760266+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "3a9f1ee18cb0a546",
+      "title": "“Não contrate esquerdista”: homem é alvo do MPT por discriminação política - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaU1JdjdfREFfNkpGVXFKckdveG9yQ1M2OXR5d2ZaVmh1NFF5Nm1XRXAwQ0FMRk5zenY4eFZCd3lpUE5oZDUwa2d2Z3B0dkN2Ny1raUNfajRJM2RMWXdmbWNydEZxM1FSaWhubjFWbXJCOWRvS1ZDdEJnVWdUOTNub2lCS2JBU1ZSVzhCc1NEZHo4NTNEZFBfRkFLVTRkaE5wSUo4aXZSaUJYM2V4?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-31T13:00:00+00:00",
+      "score": 76.56,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "920d4bf72fe9583b",
+      "title": "Polish president calls emergency talks as political fight for top court gets physical - TVP World",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUM3SXdibFVyUXpBZVctbE5RZkVFbGFZUzAyVWVNRFNhVFB4T3R1M29uRmxIajZiU2tlQkQyY0loRFZBM19LMFhQMmpYOWhLc3Y4S19NVDhuVExoZVRkZTRyZWFuVUpXTXpIcU12dDA4dGZ3dXhYUmF4eFoxUTV5eFhUcVRPUVpPR0hTaU5oMDNLWDlrUUk2TmFDa3d2R1hnNU5CRExEVi1TVUlIR0tDQm12ODdveEc3NTA3RWV5NmVibjFsOW9kVDZSZzQ?oc=5",
+      "source": "TVP World",
+      "published_at": "2026-10-31T07:57:00+00:00",
+      "score": 75.92,
+      "corroborating_sources": [
+        "TVP World"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bdd70861dafe62ef",
+      "title": "The world of shame-free money in politics - Arkansas Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWktYZ2FaaE5ieUV1VDJMaURSWnZHbTdyR21vNTY3Ujh0OTM0QkhwWHNtOFFsZWNhNVlUZzNUb3Z1dDR1MGJDQXpJMERnWTUtenNzTVVaYmxuakZPWVJnVnp6cXpKTXFhdFFCZ2FHUXNSWG9JYXc2WXhaOVQwY0lsTEVSRjhzQ3RSWXZrN3M4V3o?oc=5",
+      "source": "Arkansas Times",
+      "published_at": "2026-10-31T10:21:53+00:00",
+      "score": 70.52,
+      "corroborating_sources": [
+        "Arkansas Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "5b86aa020294bc67",
       "title": "O que está acontecendo na Polônia? Crise política leva polícia ao Tribunal Constitucional e presidente interrompe viagem - Transmissão Política",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2Vkbk51VXloeXpvYUVMbjBnc043WnZKTTI5RGl2ZzB4VlBOYlJHd2F0TlVKQUM2a3AwMkwwWlNNZ0xva0Z6YWVoeUdWMWVFeWJiSmI3MXRqTHZUMUphNGFEdEY4ZTZ1b0hDMGFYaWxPYVltU3dzdlFac3hLM2lzQlJOaEJqdnFFYmozWmlGQjNYRFlXRGRvc2dmSDE5ZkxtTUxJYTJwMERxT3FUU0FmY2YweFBqM3JLTHc?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-10-30T23:22:00+00:00",
-      "score": 76.06,
+      "score": 67.98,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -25,8 +70,8 @@
       "title": "Nepal Should Leverage Ideological Diplomacy for Economic Transformation - Ratopati",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnNfV0FDTG1PN01rV2gzOFJ5Z1BrZzJkRko1X2ZkU08yZFdrNHlDSlZsTjVINVJEVE9LTjUtSndvWklxOG11eEdPMmhsWnhYY0FoZ09TcEdISWZ1eldZNEJrY254TDZYejU0Wl9GZTE1R210dldsT3Q3Qjd0dTN4LW8zc1NrV0ZldHF6ZFlqaUdpYlN5XzZzV3VMY1ZoOVlL?oc=5",
       "source": "Ratopati",
-      "published_at": "2026-10-31T05:17:20+00:00",
-      "score": 74.78,
+      "published_at": "2026-10-31T05:17:58+00:00",
+      "score": 65.27,
       "corroborating_sources": [
         "Ratopati"
       ],
@@ -36,44 +81,14 @@
       }
     },
     {
-      "id": "7518e675cf326b98",
-      "title": "Brewers’ World Series parade gets a dose of Wisconsin politics - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3dyaTk3VlFUSHNvZUQ3OEFzYjFYSVc0MEZGS3RrT0xVLWZIcnRsa1JKV3BsUzhXY2c0dmZvSTQ4bTZGR0Ytek93TEJUX2JFSXltNDNRUEtBZGJYQnBQcXFiYURhdTNEbHE1RkNHRWJ2ay1uWTllMGlSbFhKVGg1YzItNmI4VXk2VHVuTW5Uc2ZfeDdaMGNYcWdjcURZdXdub3l6ci1RMXIwbjBn?oc=5",
-      "source": "The Washington Post",
-      "published_at": "2026-10-31T04:51:27+00:00",
-      "score": 74.25,
+      "id": "fd2ff7835fe2ea3d",
+      "title": "Rubio encontra chanceler de Lula no G20 e marca nova reunião - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzZ1RHB1WGo3MmREMTdUTWVselFCUGw5Zm5TdUtUZUtWTUYwNzl1Zk5yODVJYmNyVHZwaHZ0OXJieS05Zk5YRDlkR0RPLWwyYkx1SHZ5UlNCOHB1ZFMyNFdKU3U4TmQtSWw5Wm1mZXZhUERLWk16bWMzRDh0ek9MMDNsNVVPNG9rZGtqOXA1aW5ibl9NckdraWxBV2oxSXVWZGhPNk44ZEZaR05KdzBWTnJ0NNIBuwFBVV95cUxPU3E2RVRLY184amJwUmZTaG1tSXM2T2x1TkpDc3JZNzVWejNSQXdNbnE3NnRhQXZJVzJEem5RUl83eXlqaXpCN3pfRWJuWFF6dF9ELVYzMUJxaC1XSnd4MnJxUVo3UDJlTng5MDUyZmVtcUdrdW51bmx5Z1Zpald2bFhSNlRfYkhQQVhwdXFDUDRvNHJMVUtBU3gySTcxZ2tQMHU0WElmUlJPWUl5M2owZVUtNzJSbHl5ZGVF?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-31T12:20:00+00:00",
+      "score": 64.77,
       "corroborating_sources": [
-        "The Washington Post"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9bc6f6797992a507",
-      "title": "How to talk to children about politics in a deeply-divided world - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaFg4RHhjSWxSbWJSN3pHY2NxbHltdGdDNFUxSnlWSXJKTGhuUmg3bEJIclVEcnpwbHpIWXZwamRKbklpOE0tam94QzdDZThUQnRQY182LXFLQ1FRUUNVMWxYeVdXNC1KMjdpUDFPVDV6UnVWTGpCRXBuU1JyQ0x5UWVBdE5pa1IzLWYzTF94WXlOeXR1d3p1a0NjazVRVFFDcy1EWXB0NU0zY0hYV09PcVBEZ05xRXFvWUVyZHR1VFlUZmh5MElhQTUyekxKYUI1ZkIycjJ3Vzd4ZnhtM0FYOQ?oc=5",
-      "source": "The Times of India",
-      "published_at": "2026-10-31T03:31:00+00:00",
-      "score": 72.65,
-      "corroborating_sources": [
-        "The Times of India"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2390cc88d6839392",
-      "title": "Justice Democrats look to remake Democratic ranks in Congress - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXZ2M2ZfbTlQZ01QbHlqVTFBMXhZcG1ZVlV4OTVsTkk4RG9YSy1pVWNjMFg0aDhnZXg4S1pPTEh0OXpkOC1abHlRbkFDWWNEWFd5d0Q4RVU3RDV0NVV2bWl0TDJrcmpjZUZNb2hVWFlyS0FYRmltVU5HQTh3bVhFMzBCbXNneW5UN3VUMTVTOUhPenVmRWpOSnJJdl9lNnIyblBYa0lBUDExeFRmTTUyU2ZzZEFiWlFERVZwRjV3?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-31T03:00:27+00:00",
-      "score": 72.06,
-      "corroborating_sources": [
-        "The Seattle Times"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +101,54 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOazFnX2stMHRuc21BNlhPLXBMWklNUDJ2R3BRWVJ5ZHdVRjcycWwxOGZfTHpWN2pJSW5RX0l6aTlVcGR5Y3p2SzJNenQ2Z3A3OUZjOWtOSTU3Skx6U2dza0FEMmlULVlTNi1EdnYyUWFnWXhnMl9MTmdEaTJRSWFNS3BEcVJWNFpFdDZnTXJKZXBRM0JpVXlzdzZrNTFrRHVIc1lV?oc=5",
       "source": "Universidad de Chile",
       "published_at": "2026-10-30T18:22:58+00:00",
-      "score": 71.2,
+      "score": 64.17,
       "corroborating_sources": [
         "Universidad de Chile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7518e675cf326b98",
+      "title": "Brewers’ World Series parade gets a dose of Wisconsin politics - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3dyaTk3VlFUSHNvZUQ3OEFzYjFYSVc0MEZGS3RrT0xVLWZIcnRsa1JKV3BsUzhXY2c0dmZvSTQ4bTZGR0Ytek93TEJUX2JFSXltNDNRUEtBZGJYQnBQcXFiYURhdTNEbHE1RkNHRWJ2ay1uWTllMGlSbFhKVGg1YzItNmI4VXk2VHVuTW5Uc2ZfeDdaMGNYcWdjcURZdXdub3l6ci1RMXIwbjBn?oc=5",
+      "source": "The Washington Post",
+      "published_at": "2026-10-31T03:50:24+00:00",
+      "score": 63.88,
+      "corroborating_sources": [
+        "The Washington Post"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7df9abdaf170c35b",
+      "title": "Algerian Ambassador calls for upholding sovereignty, self-determination and human dignity - United News of Bangladesh",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTU2M2ZKYTVOWXdRZ19NajBqUDV1bDRpWEVOMGN1R1JncU5NazJhUEc0ZHdkM0psV3hLMGlmV1hjNENCYXRJS2w1X3pKTkdQN1BZVlcxaHBCVzFZR3h2bmNzeDNCdWxlc1VRTUJ6ZmVrY0JMUkNxNEIzUkJqb0VMbktNY2VKVm1UMkp5cDIyMFR4bmhIcDJEaVdaUVgteUltUUVkQ0FoRWtJME5WOERXRnVQNk1mZ2ZhcDI5NkJYNTdxaHYxbGUtdUtycFN4dUU?oc=5",
+      "source": "United News of Bangladesh",
+      "published_at": "2026-10-31T11:08:06+00:00",
+      "score": 63.39,
+      "corroborating_sources": [
+        "United News of Bangladesh"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2390cc88d6839392",
+      "title": "Justice Democrats look to remake Democratic ranks in Congress - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXZ2M2ZfbTlQZ01QbHlqVTFBMXhZcG1ZVlV4OTVsTkk4RG9YSy1pVWNjMFg0aDhnZXg4S1pPTEh0OXpkOC1abHlRbkFDWWNEWFd5d0Q4RVU3RDV0NVV2bWl0TDJrcmpjZUZNb2hVWFlyS0FYRmltVU5HQTh3bVhFMzBCbXNneW5UN3VUMTVTOUhPenVmRWpOSnJJdl9lNnIyblBYa0lBUDExeFRmTTUyU2ZzZEFiWlFERVZwRjV3?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-10-31T03:00:27+00:00",
+      "score": 63.12,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -101,24 +161,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFhfczl0SWdUZlpYMkxUdXJybE9PcjluY0ltdXRXZ2FycjVrdXl3V25CcVB3V1hpcmVXQ04wS1dqekc1Z2YwcGp1aUk4bzRqWXdtR05vZDZkNGc2WG9EemNSMnVvM3lCNnRsZUhrZHk2dzlTRVFzQ0pBODhMSHpySmR6REI1VFlFR1lyLUFEZkhBT0NaWl94bGp5OWRaX2M1SE1ram1Ga2xFVWtqTGxTWXI1ajc3NjJnTzY3ODNqTnJBVWF1eGJpcHlSbENUYUFK?oc=5",
       "source": "El Observador CR",
       "published_at": "2026-10-31T01:04:54+00:00",
-      "score": 69.89,
+      "score": 61.42,
       "corroborating_sources": [
         "El Observador CR"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4eb6b32c3632f495",
-      "title": "Eleições em Israel devem mudar pouco a política externa do país, avaliam analistas - A Crítica de Campo Grande",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenlvelBSM2kzUENTcF9QVWttZTRQeFEwUWl4VzdNOEcwcGVVSVZsSURUcHJjY3lMcGFrSzE0eTh3WmlsVklYVkJwYS1UYVJHTEZfaG4zQmpNcTlKNUFtUWtsb2lQa2J1dmdiRS04N3A4S0JtZTRYc21yM0R1blJFNkRQVTV4NXdzTWw2RXdRMjNOd0lhekJDT1hXaWgxTEx6aXpuQ2E2V0lYNXI0UmJ2aG51S2JiXy1v?oc=5",
-      "source": "A Crítica de Campo Grande",
-      "published_at": "2026-10-30T23:50:00+00:00",
-      "score": 68.55,
-      "corroborating_sources": [
-        "A Crítica de Campo Grande"
       ],
       "signals": {
         "source_count": 1,
@@ -131,9 +176,54 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1dheHNwS1VVcWVrekpNdFFhdFJJNW14S2k2eGZFV3FYLTRYUFVJSzNXS1RhbW5mdzd1bDIzaXd2UmxrRmxOemJZYTlkTFhhcE9jQkhJb2F4bUMwM0p4YlNfMmZmZ3dtdmFJbUlrTkt5a0hyVHFvZ1NhbUZzREZTVVpzeEVGRU9zV2J0STc3SEpDRWFBYXliMzdyT2J5R082OEtvZ3JTWktCRGRpMklYXzAxbUdod2gy?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-10-30T13:52:00+00:00",
-      "score": 67.34,
+      "score": 61.14,
       "corroborating_sources": [
         "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c0b99fa5b4e2ac2b",
+      "title": "Trump en las urnas y las posibles consecuencias para Argentina - Diario San Rafael",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVpKb1E1a1Z1UDFCOWJvMjByYUx3a3Jldi15d2FacVFjU01xSUVOMmJLNFU4Z2REV2dZR3J6ZlVDdm1KZEZzVjFWd2VwREpGZDhUWmtYYXhic3Z2NkM1SzExTVpjb2lWS0RpNDRMR2hHRnYwMEs5bmNhdVhSVUFWUm1FdHJoS0pyeTQ5aExrTFZnaTFudl84VlVB?oc=5",
+      "source": "Diario San Rafael",
+      "published_at": "2026-10-31T08:47:00+00:00",
+      "score": 60.8,
+      "corroborating_sources": [
+        "Diario San Rafael"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b443d5dfe98d4267",
+      "title": "Política: Vans e ex-agente na fuga de Flávio aos EUA - Portal Terra da Luz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMTZRSnluUlBTVi1TTXVHd2g2aHMtdlZabzdibmIyNTN1MGdsSnlkc2s5ZnhtYmRRWUR1U3h6YUgzY3NXb3oybzdnM2R2QjB1ejc5TlNzWHJHOGhBWDFSdmNmd1M4NkNkUUFtaVNjTkthSmdrZVBJRTFpY1paU0F6VExJbkgzMm90MHhmUVpJcGpVTGZSMUl5LXNn?oc=5",
+      "source": "Portal Terra da Luz",
+      "published_at": "2026-10-30T23:50:45+00:00",
+      "score": 60.38,
+      "corroborating_sources": [
+        "Portal Terra da Luz"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4eb6b32c3632f495",
+      "title": "Eleições em Israel devem mudar pouco a política externa do país, avaliam analistas - A Crítica de Campo Grande",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenlvelBSM2kzUENTcF9QVWttZTRQeFEwUWl4VzdNOEcwcGVVSVZsSURUcHJjY3lMcGFrSzE0eTh3WmlsVklYVkJwYS1UYVJHTEZfaG4zQmpNcTlKNUFtUWtsb2lQa2J1dmdiRS04N3A4S0JtZTRYc21yM0R1blJFNkRQVTV4NXdzTWw2RXdRMjNOd0lhekJDT1hXaWgxTEx6aXpuQ2E2V0lYNXI0UmJ2aG51S2JiXy1v?oc=5",
+      "source": "A Crítica de Campo Grande",
+      "published_at": "2026-10-30T23:50:00+00:00",
+      "score": 60.37,
+      "corroborating_sources": [
+        "A Crítica de Campo Grande"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +236,24 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0xkaTR6Tk93T0ZZQVlPTGtFaGlrV0pFZnBVVTFVVjI1YjZvbWxwd2ZJMF91NmhZZGl4djRTMkJvbThpQXhxWXpvNXZTNXJma05MVVRKanJsOEpPYzNFMjBwdXY3TXREZFRBeHFKM2lSaUFzYzEtRnJjMjBSdUZLdFM2SzExVks1eUkyRFNna2xIU0RTcGF5ekI1RzFUd9IBowFBVV95cUxQU1RmSUpDZ3d3dHZDY2VHX2hiRmFyUnhhbF9lTkljWDg1TEdNbk03LWRmWTVNZ3hhUllBSzdzTzFFdmRpUHdRMmJuaW5BSmM0ZGdKSDkyd2czSm1xSTdFS3pEaFFzc1dwX2FEcTJhZnFQTHYzeXg5ZGQ3QXdRTUxveFFKWWhKNVdxbjBVRy1NdDlCcTBqeW92eTc1c25yM3ZUd3Z3?oc=5",
       "source": "Fox News",
       "published_at": "2026-10-30T22:32:52+00:00",
-      "score": 67.21,
+      "score": 59.32,
       "corroborating_sources": [
         "Fox News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "70b409b78fca35f4",
+      "title": "É improvável que a eleição em Israel altere suas políticas e seu isolamento global - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHJxajVVNnJFdXZLOWdQQkMyNXg0ZUdiWWdQZWFacWsxZTd2YjNsZlc4RlhaTHNYNG0zTmVJOU9abWd2R0t3WnZDTXlyemRMeUxjR0toMXVwYnZTQkpKM2lWdlJRV2Vuc1pScTFMZnJ3ak92VFVHUlNHZ2RoSEYyYW5Gb1B1SG5CN1cyNkFMUHoteDFnN3AxejE4RE9LdHdaYTVmVnVrSnBfZWdoVjNUY2xSZk02blpWaGhJQ3M1eUFTUdIBxwFBVV95cUxQUlZZYUVRbnJyU00wLXBEV1FqMEVkZEJHSEFIZDUzTzQya1VrZ0J4VHRvU01SaXhvd0JmSmFhUFhZelppLUd5WDdSN0hPYVotY01Ea09icnQwQzlxTkhxWDdBX0RURHcyVUJFaG9MTVl2bVFqdk1pNGpxTEU5VlA3OVBycFdqYVNDbHI3UTNOR2VTaF9pNlpaak1nNkhFZm16TlhmMWJYaG45MmgyQm5sY01FeHl1N2FiX0RjR0owSXpTRFNqU29N?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-30T21:00:00+00:00",
+      "score": 58.1,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEFDVDhsODNSaVoyR3NDcS1XYXB1OHp5a29CNzNVYXBvcDM5emV6YmhGeG1UQzBNcVQ1NlVfQVhIWDJPcHdmdTVrR24xMW5vVGRDa1VWUVlrdmJ0VlUyX1VLN0FfQnV6QmJ6cldYSUtoVHRFRzdLbk9KRGp4NDJ5OEY3M1BoM2VqclJjUE55TVFjd0tObWZzYg?oc=5",
       "source": "Boqnews",
       "published_at": "2026-10-30T19:28:40+00:00",
-      "score": 64.21,
+      "score": 56.96,
       "corroborating_sources": [
         "Boqnews"
       ],
@@ -176,24 +281,9 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2ZFOXpDMk5wLTJrT2dzbm5DS2UtdWcxakE2UHgzcDdONk54Mlh2NnptbThhOWllMjRkSDNvVmlLOVB5S3E1SEFDSzRlVHVCVVZZV0VHY0FuQm82aWI1RWNGZFY0Si1YMHl0aklVcVlLbUxWa1JBbnBvTXdNcHlFaDd2VFlGRzAxMjN3dUlCY2w2bG5DX0pYT29xVVlvQ1BWVERZYW5RbFM5TzdwbTNGQ3dxbjQ2ZDZmQ1lOdQ?oc=5",
       "source": "Clate",
       "published_at": "2026-10-30T16:11:18+00:00",
-      "score": 61.26,
+      "score": 54.65,
       "corroborating_sources": [
         "Clate"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "359c480fe6aba5ea",
-      "title": "Vitória de Lula nas eleições brasileiras repercute na política internacional - Portal Salvador FM",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUxUMm1UTURNb2R6XzdENmx1aG94VGJyQmVpQU5nTldsR2lLVnVjcVZlQzFjQkF1M0ZpMlhGNmZ0dzdzNEFncGlRWFVyMWJXeFg0Ny1oc0dkQWwxbUxTdUlVa1k0a1lRc1Bub3VJOHZlNkZ5VFVtc1lPal9XSkpPWmFOU2U1c3NpT0lfTGZCbEFpNlV2eUtWSjg1cUZ0NC1KdFVzR2JYVkRkZG4tWGRvYQ?oc=5",
-      "source": "Portal Salvador FM",
-      "published_at": "2026-10-30T14:40:00+00:00",
-      "score": 59.99,
-      "corroborating_sources": [
-        "Portal Salvador FM"
       ],
       "signals": {
         "source_count": 1,
@@ -206,24 +296,9 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DRGNfeV9kaHc0NE5BeFNxSDBEWlg4QnpEcTZETngtRExqYW1HMndtYk9sOENteUxFTWUyVGY1eUVZOUdhTHN1MlhJVHp5V1g5V2xaNjRrWXlHYV9BdXZNNDZZd3lRLU5uclZIMTRycmZ1cDFvTFBRbWtocnZQZw?oc=5",
       "source": "Rede Estação Democracia",
       "published_at": "2026-10-30T10:30:00+00:00",
-      "score": 59.76,
+      "score": 54.11,
       "corroborating_sources": [
         "Rede Estação Democracia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "10d5557e1bafb222",
-      "title": "Mauricio Macri enfrió un acuerdo entre el PRO y La Libertad Avanza - NoticiasNQN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1RiTXZPNEdwUjA0Tm5FT3NOaW5ZcFRleHMtV3dleDN5RFR3TDdva3ExcURFWEhDRzB3c2trRkE2V1VqeEh1UlUzZXR4cEtFOVphWV9KN3hLUWZMRHlFQkkyQzJGdXNybC1CV0w3NDNZZ3FaQzBuQ3lBOWlGY18tTzk3TGhLdHQ0cmVRaVlBUGl4dVgxR1FwMVQzb2pEZmRyRTZXQlBtZ1FJMjlDM2VpZko3TjFna1FiUVBVN3hURnl3Z9IBxwFBVV95cUxQWVNaQko2b1FIeWkwMVNsUTFkOENJRDBySmN2Ny1sZTlVdV9MSDJRN1gyb2JNZl9QOUF5cXZQN1B5XzV5R1BrTUlSd3VjZl96SWpYNWZrOHE3d0NTR3VFWXBXcnZaQkkwUzk3OXpZQkp4M2RTVVRlcFExNDdjUVhHSHhxSkNGeE11aU5kUHFaZkFjLWJsSWk5NVVpQ3F1Y0ZqVUVGYUpUd0VVbGkyeWtETGpiR29La0NaQU5fdHFGQkFpbVFwV1hV?oc=5",
-      "source": "NoticiasNQN",
-      "published_at": "2026-10-30T22:10:46+00:00",
-      "score": 58.84,
-      "corroborating_sources": [
-        "NoticiasNQN"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVF4Tk03TW1UTmQ4aGhBVko5bXVjdlVmTmVPa18wRDhORHlsTnBheUpkYlhhNnVSTEhOSGF1UUcwVVVYLVhuMFRRejUwQk44Q0wyRXNJTkVfeEY2cVFaRmlsVXVGa0NGWEdpUjdyMlhiWl9FOHFHRXBmZkZhdV9lcko4ZWVhWWJaTmlxb2FNLUN1VU5kVVpGelhWVkYzZVppT0V0bDZaNU1IMjQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-29T16:36:00+00:00",
-      "score": 57.47,
+      "score": 54.03,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -246,14 +321,14 @@
       }
     },
     {
-      "id": "b1fd7027f75b87a1",
-      "title": "Canadá y la UE sellan una 'alianza para el futuro' - Plano Informativo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0pxb3M5aFFTVTFyQm1MUTM0RElzLTZlR05XdjBPc2tfYW1IcE5UUkE0Z0NRYlRaejhpM2ZwbG5yZDhUUEZIRTRkVWFwNzZGNFRST29KMG9sTWJIZTdmTkRtOFFGeGJTT1NjTWVMa3hPd0Jaemx3OXgyWnZOOXZMdENqUl9NT1VOQUVjYW5R?oc=5",
-      "source": "Plano Informativo",
-      "published_at": "2026-10-30T20:37:00+00:00",
-      "score": 57.29,
+      "id": "359c480fe6aba5ea",
+      "title": "Vitória de Lula nas eleições brasileiras repercute na política internacional - Portal Salvador FM",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUxUMm1UTURNb2R6XzdENmx1aG94VGJyQmVpQU5nTldsR2lLVnVjcVZlQzFjQkF1M0ZpMlhGNmZ0dzdzNEFncGlRWFVyMWJXeFg0Ny1oc0dkQWwxbUxTdUlVa1k0a1lRc1Bub3VJOHZlNkZ5VFVtc1lPal9XSkpPWmFOU2U1c3NpT0lfTGZCbEFpNlV2eUtWSjg1cUZ0NC1KdFVzR2JYVkRkZG4tWGRvYQ?oc=5",
+      "source": "Portal Salvador FM",
+      "published_at": "2026-10-30T14:40:00+00:00",
+      "score": 53.65,
       "corroborating_sources": [
-        "Plano Informativo"
+        "Portal Salvador FM"
       ],
       "signals": {
         "source_count": 1,
@@ -261,14 +336,14 @@
       }
     },
     {
-      "id": "fe37932b292f10c3",
-      "title": "Economista Yanis Varoufakis critica STF após derrota de Flávio e diz que Judiciário ultrapassa limites no Brasil - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUjBIUFJiWklXc29fcEJBT3ZHbG1xbUpQVzBMbG1xN0tKYU0wNnZUY2xrVXRfcUY2d0FiQ1RSUHVoUWU2UFhTT19QQXZHRlVOOGRLQ1ZIeEVoMzFsN2dZcnVuNl9mWE9VRTF3X0xuYWlRTHFNWUhmNXFkUUs1bjlpWks2ZjlPRDFaeEhaSEh5Q1NkTHZIN0I5Ni1EQllLU3NoRlZXaW9RNHFrWkVjT3ZLaUZDSmpoMl9CT09wLUQ3NWxUbGxILS1LUkhWY0Ixc3k0T3puRjdfRTFVbS1vcEVESTJvVVByQ18yQ1VkT0JISVVPaTJp?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-30T17:00:00+00:00",
-      "score": 56.97,
+      "id": "769308fc517b0579",
+      "title": "Xadrez Verbal Podcast #481 – Lula reeleito e eleições pelo mundo - Xadrez Verbal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0NZelc5RHlvaW10eDViVkIzY052LUZRTTlmS29uNnhvcGg1Tkx2Zk83c1I4VXFMX1RQWHFuSUtmZmFpelJhZnFzQVRMbTJGVDg0VU1sNUVTUnJjRVFqSmlrS0hkaG1vUWZKSm55RWtTLWFUQ2ZRc0NQNUtTbU5kOG1iZWFkVDB5QVRVMGRmd3dCTUVnUGlpRjB6Yk9BaW8?oc=5",
+      "source": "Xadrez Verbal",
+      "published_at": "2026-10-30T22:25:01+00:00",
+      "score": 51.21,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Xadrez Verbal"
       ],
       "signals": {
         "source_count": 1,
@@ -276,14 +351,14 @@
       }
     },
     {
-      "id": "ea69b6f795e91250",
-      "title": "Inspirados no ‘Exército do Lula’, canais estrangeiros dobram de tamanho em dois dias - ICL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82a0Fsa0V3LWtSdEdOX1c3MG9sWlpKcld5Z1h0WnZRaDljUFlXVzRXTTlYelJIcURzOVFtdVhtNXZ4dEJwZG5UdlpWWU1kTHpQMWFyYVNXX0VNNldIdjFrV1JKZW5pQVVHTU5zMXpNd2VQT0toSnJ1bkxjVm11TTQ?oc=5",
-      "source": "ICL Notícias",
-      "published_at": "2026-10-30T19:04:11+00:00",
-      "score": 55.83,
+      "id": "10d5557e1bafb222",
+      "title": "Mauricio Macri enfrió un acuerdo entre el PRO y La Libertad Avanza - NoticiasNQN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1RiTXZPNEdwUjA0Tm5FT3NOaW5ZcFRleHMtV3dleDN5RFR3TDdva3ExcURFWEhDRzB3c2trRkE2V1VqeEh1UlUzZXR4cEtFOVphWV9KN3hLUWZMRHlFQkkyQzJGdXNybC1CV0w3NDNZZ3FaQzBuQ3lBOWlGY18tTzk3TGhLdHQ0cmVRaVlBUGl4dVgxR1FwMVQzb2pEZmRyRTZXQlBtZ1FJMjlDM2VpZko3TjFna1FiUVBVN3hURnl3Z9IBxwFBVV95cUxQWVNaQko2b1FIeWkwMVNsUTFkOENJRDBySmN2Ny1sZTlVdV9MSDJRN1gyb2JNZl9QOUF5cXZQN1B5XzV5R1BrTUlSd3VjZl96SWpYNWZrOHE3d0NTR3VFWXBXcnZaQkkwUzk3OXpZQkp4M2RTVVRlcFExNDdjUVhHSHhxSkNGeE11aU5kUHFaZkFjLWJsSWk5NVVpQ3F1Y0ZqVUVGYUpUd0VVbGkyeWtETGpiR29La0NaQU5fdHFGQkFpbVFwV1hV?oc=5",
+      "source": "NoticiasNQN",
+      "published_at": "2026-10-30T22:10:46+00:00",
+      "score": 51.02,
       "corroborating_sources": [
-        "ICL Notícias"
+        "NoticiasNQN"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQm1RR0tXZ3BmR3NSekN1T0xaN0hCX1hGQ2thWWZER0pJMHozdVVKSEF4MV9MMTE2cVhTSDZPUVk0ai1kalM0NVdUbXJNRVNQWnhhZ0xSTnV1QnlPZThDdWVSXzJZTWtWbmFlT3VwZFFkV00xcXZEdTJudV9HdFVWM2xZNEtzZUd6Znc?oc=5",
       "source": "NPR",
       "published_at": "2026-10-30T09:00:00+00:00",
-      "score": 55.69,
+      "score": 50.27,
       "corroborating_sources": [
         "NPR"
       ],
@@ -306,14 +381,14 @@
       }
     },
     {
-      "id": "cf6b8f6d175b59c0",
-      "title": "Operativo en Chile desarticula red que vendía autos robados en Bolivia - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHdJYktLQVAyV083c0hxZ1JuWDQzTGxKdGh0V0RuX29OMy1vVFVmcG5ZRDZzckk3bFFRX3dJaEU1NkRHUGJMUi1ydUtNNjZrd2cyOEZHbklNMVRXVFRndDU0cFIxeHF4RHRXMkFSaXVLSGZXcndsX1lERzRmSXNJNU12dl9naWZNZWxpLUpkS29RR0tWWDlqRHN3eENiV09v?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-10-30T18:33:41+00:00",
-      "score": 55.36,
+      "id": "fe37932b292f10c3",
+      "title": "Economista Yanis Varoufakis critica STF após derrota de Flávio e diz que Judiciário ultrapassa limites no Brasil - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUjBIUFJiWklXc29fcEJBT3ZHbG1xbUpQVzBMbG1xN0tKYU0wNnZUY2xrVXRfcUY2d0FiQ1RSUHVoUWU2UFhTT19QQXZHRlVOOGRLQ1ZIeEVoMzFsN2dZcnVuNl9mWE9VRTF3X0xuYWlRTHFNWUhmNXFkUUs1bjlpWks2ZjlPRDFaeEhaSEh5Q1NkTHZIN0I5Ni1EQllLU3NoRlZXaW9RNHFrWkVjT3ZLaUZDSmpoMl9CT09wLUQ3NWxUbGxILS1LUkhWY0Ixc3k0T3puRjdfRTFVbS1vcEVESTJvVVByQ18yQ1VkT0JISVVPaTJp?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-30T17:00:00+00:00",
+      "score": 50.2,
       "corroborating_sources": [
-        "La Patria Bolivia"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -321,14 +396,14 @@
       }
     },
     {
-      "id": "3e473cca5462265d",
-      "title": "Paris decreta toque de recolher para tentar conter protestos - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjN1MUpsc3VUR3FWMVY1Wjc5d1Y5QlpnTkFQMV9uVkMxa21SUlBaZ05rMmJVMlZRRGZGV2pUQkhyUmd3a3VDcGZGTnZPM29IWWJ3UEUzYWtFRjU5S1Z2ZHVsM18ybDcyb3hNdTIyY0RpZkM0U19LT1BLTmYxejJ1eTVxMS0tTlJYQThFenFDQTVUTXBOTmJOSllwWHlxbEFQNlRvMzdVQ3UxXzJqcjFGa2g5VdIBuwFBVV95cUxPT2NYSDBKU2RFRGg0SGpEUXpBcHJUT01YSG1IZ3pBcHhvX2RhaHdCTENZREZfSHBOeGUwWjB5emtueHZOSW1mOE9YSFdlcGdOMEdzTUFIYnhKWVdodWRNMkZVSFFhbUhFdW5kSFdyQTVhZl90cWhYeWo4Y3lZWTIyc2NxRnlHT1dvamtMVTRWZjNLVHFqeE04YndoYUJrUGZsNzBSXzVfN19KWkxjM3Q1bDNFcmFfRlY3YUVJ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-30T18:21:00+00:00",
-      "score": 55.17,
+      "id": "b1fd7027f75b87a1",
+      "title": "Canadá y la UE sellan una 'alianza para el futuro' - Plano Informativo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0pxb3M5aFFTVTFyQm1MUTM0RElzLTZlR05XdjBPc2tfYW1IcE5UUkE0Z0NRYlRaejhpM2ZwbG5yZDhUUEZIRTRkVWFwNzZGNFRST29KMG9sTWJIZTdmTkRtOFFGeGJTT1NjTWVMa3hPd0Jaemx3OXgyWnZOOXZMdENqUl9NT1VOQUVjYW5R?oc=5",
+      "source": "Plano Informativo",
+      "published_at": "2026-10-30T20:37:00+00:00",
+      "score": 49.81,
       "corroborating_sources": [
-        "Pleno.News"
+        "Plano Informativo"
       ],
       "signals": {
         "source_count": 1,
@@ -336,14 +411,14 @@
       }
     },
     {
-      "id": "8a24e43c42b88fdf",
-      "title": "Israel confirma perda de maioria de Netanyahu e abre negociações - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYlBnZnFRR3pVdkRfRFVaWWZHRnl1TUNPRTRWN19pWkp0bVZsUXJNZU9FWE9ONlo4V2VFeE1ZRk5KcC1oUmFjVFFlOVhBZ2hXbktSd1pyemp0UnB4Vm5NYzdHMEJyczRWbjJya0t5anE1N194bE1XRWh2MVpwQnVfYVVXRks0Um9ZR0pFZ002NWxXLXNoSmlpaDM1QXBWYVhCdlZtN3BtZTNlYVBncmVlOTJLTlpUcFpu0gHAAUFVX3lxTE1KdWZhX21vbzZYTGFXVDBxTnFaRWs3cDR0cVlFckFhU1ZtcExfVEpyM1kxcVB1NnUtcElFYVl0MVVRSVNvTVZ5clc3QnhUSnFSQW8zWHBYNVlObEw4VThreFBfR0ZlcGlZRXA0ZjgwZDJudXYtYTJqYmU1cENENGlCN2VoSkZQZXVyRUVFRmdZaWRIQVFTd2JjOExndGloNGljZEJ4OURVcktNbWoxUU15RWJyelFzMzNteDdScldrRg?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-30T16:09:00+00:00",
-      "score": 53.23,
+      "id": "1b07161c90181658",
+      "title": "Filha de brasileira celebra a morte de Charlie Kirk em evento - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVl6Q2szSkxtT1lSMmdCMG94SHFXLUNDcmMxeFFPam1BNlVTcVRGQmlsN3ZYQWRmMnY2bzY2SlJTUThKRFZ4R0JpQ0IyTHlNcFJCek8yQ3RfVER4YnBZTE5ab3NXeWdFZDRJNVlMQVlvTWkwbjVXVkJoNkhtUGZkUEZDUkc4Q0d5TUdvUzZfMy1Fd3l2a2ZVM25XN1FQbXdDYzlDQXhadw?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-10-30T15:31:07+00:00",
+      "score": 49.2,
       "corroborating_sources": [
-        "Pleno.News"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -351,14 +426,14 @@
       }
     },
     {
-      "id": "27351518f347219c",
-      "title": "María Corina agradece a Trump e diz não ter dialogado com Lula - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1daNWNYTHZhUGlxeW9QNUd4ZFJVSUlpS0ZLYlJ0U3BiQmtKX0N0YW53QjdaV0E2SS1qeDZ4UVlhVjFKTV9BSW05bU93eGoxdktOMzBXWl9aYlF3dXc4UlJSbEloLTgwMjdhemhTSU9kODdlZHR4N1dodWNieUkxRmF2UG0xRUhvd0NhVDlCVFRORnotelRjdUZ6eE9mN25wanpqYnpKM2gxWlVlc2lOcmtjRm56d9IBvgFBVV95cUxPcG5KMHdFOEhyejZJbEZWOGd2SWd0cUdJVjc2UmhKTEVqTklLWTFMeVZtRE0zZmw1Qktyb29RdUUySG41WFRCSzBHUDRIYllaQk5rMl9QVERieHZYa2hfYVBtY0RNR2tnQVJBbkZWZWplUEZ6YzlRaWpuTFZHQXVFR1pMQ0ljSmpMalRUY2VFUnNnV2VSdVZLSVdxWWZfeXprSDBDdVV0VzdtTFBFZUlJWXNKSkpDbkRtaXJwVGRR?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-30T15:59:00+00:00",
-      "score": 53.09,
+      "id": "a9f71760178c2c02",
+      "title": "Paraguai mostra ao Brasil por que virou destino de investidores em documentário da Brasil Paralelo - Não viu?",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0dCUmlqSXpfdk9iUWw2NWZqQ0Y1SGFnLUd4V3ZKNFU1RzEtRDRtUjJJYUZqeDNtdy0xWE1vY1lCTjJDM2dwaU1kbjNQVF9nWDluS1ROOVBmOGstbEpSczBGQUVtOTdqbllYYUVTa3VFM09IZnhWZ2FPZi0wRklmSzZ5ZU1Qb0RGVkVaNV9yWk8xcXRVbVV3NVVidXYzMEpJNF8xeFNOOXhUVnFkNDhuNHZaSFZYNlBtcS1J0gG7AUFVX3lxTE93R0JSaWpJel92T2JRbDY1ZmpDRjVIYWctR3hXdko0VTVHMS1ENG1SMklhRmp4M213LTFYTW9jWUJOMkMzZ3BpTWRuM1BUX2dYOW5LVE45UGY4ay1sSlJzMEZBRW05N2puWVhhRVNrdUUzT0hmeFZnYU9mLTBGSWZLNnllTVBvREZWRVo1X3JaTzFxdFVtVXc1VWJ1djMwSkk0XzF4U045eFRWcWQ0OG40dlpIVlg2UG1xLUk?oc=5",
+      "source": "Não viu?",
+      "published_at": "2026-10-30T14:56:52+00:00",
+      "score": 48.83,
       "corroborating_sources": [
-        "Pleno.News"
+        "Não viu?"
       ],
       "signals": {
         "source_count": 1,
@@ -366,89 +441,14 @@
       }
     },
     {
-      "id": "ffeb72814193f6a9",
-      "title": "Relembre tudo o que Trump falou sobre Flávio e eleições do Brasil - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDR0dlQ1Mk1QMDdDNF9iZUlrb2doZ0pDbTNpa0lFLVFNai1VQVZTRFlRUmxld0ZrWFJSWTNkRlZIbGZKNGZtbzBKT3RtbDY0b191VE9qZ01SdGw1ZjlwLVJyWnJsU1NqSGtwSll0djRraU9zNUFVOEJkVDlweDRGVnQ4N1dSYWZGY1M4TE9ldUkycW13UFlrRDRBMjItRGRUM0JJNFdqV29HaTd1VVlyaGF3SS1naTk4RHfSAcIBQVVfeXFMTVczbFM2amNlREdjWV9SdDZwc2wxT3hCLTdKN3BiUFBsYzBiZ05sdDMxNW12akxrbm54Qi1lVDFNZGpGSk5HdWExY3RhXzFHR0JaRjFJWktxakYyWlMxV2V2RXU0N2tfYk1vaFIwNjBuemZoX1V5SWp1MzRPS1M0Y3hhVy1PTnRjci0yUDRtOTNWeDVQY3JtVlhqWlBIUWlQSkhNOC1wdzVWQTZpTWJrX0F1WUZ0QjFlWkEySXpwYzJiQnc?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-30T15:35:00+00:00",
-      "score": 52.75,
+      "id": "ea69b6f795e91250",
+      "title": "Inspirados no ‘Exército do Lula’, canais estrangeiros dobram de tamanho em dois dias - ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82a0Fsa0V3LWtSdEdOX1c3MG9sWlpKcld5Z1h0WnZRaDljUFlXVzRXTTlYelJIcURzOVFtdVhtNXZ4dEJwZG5UdlpWWU1kTHpQMWFyYVNXX0VNNldIdjFrV1JKZW5pQVVHTU5zMXpNd2VQT0toSnJ1bkxjVm11TTQ?oc=5",
+      "source": "ICL Notícias",
+      "published_at": "2026-10-30T19:04:11+00:00",
+      "score": 48.66,
       "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1badee3293119599",
-      "title": "Roberto Velasco representa a México en reunión de cancilleres del G20 en Atlanta; estos temas abordará - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbVhkQlZHdjVpZERaY1k5ZE9VYjluSW40M3JYbktTQW9tcHVFOGJGV1o2UWpBZS1nZ09HQlFMc1pwVkt2aVV6ZGk3czBJeWVBVXhTWTYyeWZLS3hnLVpmUWVYcmtPaFpfQ0kya3Y0aEN3ekJnakhORnFsLWFEWUZiWlJWc0MwVm9UM04yQVJ6ZFAzOU5ka0Jac1R5a0VmQUJJWUpjNERRY29VT2I5QU04UXZaY3Q4QlZhV0RmOFZFalpNVGdxNVN0RE95M1JSaGdsWmZueWZid0VxZ2V3aGpRenduLXRmR2FTZGhON0JFLUg3UFFh?oc=5",
-      "source": "El Heraldo de México",
-      "published_at": "2026-10-30T14:19:00+00:00",
-      "score": 51.7,
-      "corroborating_sources": [
-        "El Heraldo de México"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3e6cf364b4288c8b",
-      "title": "Coreia do Norte é acusada do maior roubo de criptomoedas - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWpfU05ab3Bua0FCM2o4cDc1akhPa2hOb3ZoUXE2dDl6S0JvTTU5ODI3dmVlTkM5WlJZWENVdjNFZFV6NHNMbE03R3M4R2VoZXhVTlhVYTlXZzR5c3BDWFR5NUhjYUxEcDVybXJ5X3lYZ3JhX3lkXzB0c3JXckg5MEpsMHhZdEgtT0Y0SUd3NGtqZHVKX1NXY0JTQ2taYVpJczYteVBrM3BFdldiaGfSAbYBQVVfeXFMTmF5S3ZDTmxrYVJqQ2VaWDk1TU9vb2p2YnNDUzFKbnJOQVE5YXZ5bVJIX2FueHJkb3RhWWd4MHU5QS1fYms5UDQtanozWnRVLUpXVlRiLXRON0MzM2l4bEZVcDZKVU5RQWxpbWJKMUdRajJjbXVNbjRxd2dWVmJUOENlRWpEREpUYzJ0QkhmaWdTYUhXdE8tazBKVWplUW1NcUx4MTBLRjZrNTBkRkFQeUtmUmtJMmc?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-30T14:12:00+00:00",
-      "score": 51.61,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cea81258aed40c34",
-      "title": "Exército do Lula inspira movimentos na Argentina, França e Espanha - Portal Salvador FM",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGpHcEZlamVKRmo2djZRSTljRHBJcW5zVng4b2RPTF92blN4RVprYU1sR2xQUV9RVXRpS0szN1ZkYnQ2RHlKMHZwOEo5QVBTUmc5SF91UTJ5Ymg3eFBWNXFuR1B1eGNfU1hPZzRITWVVYUhld0ZBTm1teC1qbFBTUDRDMEpkQTlSYWtEUGJXMmdMekdicjlvQVBVWW5SeXpScVB4NU5jYXlIVDJhTnVnWg?oc=5",
-      "source": "Portal Salvador FM",
-      "published_at": "2026-10-30T14:10:22+00:00",
-      "score": 51.59,
-      "corroborating_sources": [
-        "Portal Salvador FM"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b18cc761cf1100c6",
-      "title": "Dia 30 de outubro é feriado? Entenda decisão sobre a data - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTXcwQUsyS3VLOEpZamFJVnFwZWdyR2pPLWc3Q1YwWEV1MU1Gd2VnNmxYbHNKSkRrLTNZZWxYZGZ1cldSZmJubDZJYjBlRDA1X1dHUWEteDNoM3pycWxLdlFLelRmZlNudnVUeS10VXNiT2Q1d2o5RVZGMmNZQThZZk5SWHVqalVJV3Z4Y3pTa2dOWDM3b2Fja21yd9IBmwFBVV95cUxNTXcwQUsyS3VLOEpZamFJVnFwZWdyR2pPLWc3Q1YwWEV1MU1Gd2VnNmxYbHNKSkRrLTNZZWxYZGZ1cldSZmJubDZJYjBlRDA1X1dHUWEteDNoM3pycWxLdlFLelRmZlNudnVUeS10VXNiT2Q1d2o5RVZGMmNZQThZZk5SWHVqalVJV3Z4Y3pTa2dOWDM3b2Fja21ydw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-30T08:30:00+00:00",
-      "score": 50.34,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c7cb20793cd6e4eb",
-      "title": "La internacional de la motosierra perdió una elección - La Política Online",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTBaX3pEeEx2cko5c0RreUIxY0l0OWU1bjJKUFlFQkxjcUhsOHBoTUlDZWRCeVY3U2VxNVdmWElJTzFCandYdGV5cmxSY0dlMDZsOGo5TVNDSWRxWmoxQ2xCUXYxZFhwU2g5UjU0TEJaRnBXVmVjTU1nUElGOTh3NlBSdHZWQ0gyZzhsTUI4S19rSERyTGlxRkZqRzdsM2s3b1p4eUdnMFE5Q0sxQkd5X19oONIBnwFBVV95cUxOTzYyYnJkVEFHUkpMMUFBLTlnYUFweWw3S1hkNnBRWktaVlozOUJFMkMyQUMxVTYtQkZPODVpZXNVVVJERjBBclB2eDRkRHBoX0dzMHlUc1BsZDBwSUE0SGVuTE4wcG1DN0kyb2hLOWNtamJWSm9STmVrMVJ4cjhsOC04ZVhpbElJVUNXQ3pXTlJzMmotYUF4VEJTeGthd0E?oc=5",
-      "source": "La Política Online",
-      "published_at": "2026-10-29T23:22:38+00:00",
-      "score": 49.78,
-      "corroborating_sources": [
-        "La Política Online"
+        "ICL Notícias"
       ],
       "signals": {
         "source_count": 1,
