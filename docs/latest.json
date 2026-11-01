@@ -1,19 +1,94 @@
 {
-  "generated_at": "2026-11-01T15:14:52.013930+00:00",
-  "next_update_expected_at": "2026-11-01T19:14:52.013930+00:00",
+  "generated_at": "2026-11-01T20:31:37.309727+00:00",
+  "next_update_expected_at": "2026-11-02T00:31:37.309727+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "d194030da63e6efb",
+      "title": "Os principais desafios de Lula 4 na política externa; especialistas opinam - GZH",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTERDd2taTHVKb0NycHJLZVcxdmFuZW9uTng4OWFnV0hDMWhMUm43SUhTLUZudmtEZDlrbWtOTGt5TXNuREQ1bGp5bU9pbWh6aDBxVGZxOHFlTFNXWkdLSFpRMHd0NjA2ZzNna0duc1pacHg0MGFMSngxMTl3dkV5Q0FEYW05SURBblQwN0Z5dE5Gd2dROFVGRnVZVlNFUkxtUjB0NUpsX3lqMnFEenNucFpMX1lZNTdZVXhSbmZlNUJqOC1sWmhMZy1nNm0tQ0dfV1dlMHFtWDh4dmowOFNkRUQ4cFhrTl9RLTFlUzRUZUZjc3ZWREtWRjFFaUYwQXNNblNSMWowUTY?oc=5",
+      "source": "GZH",
+      "published_at": "2026-11-01T18:31:45+00:00",
+      "score": 73.05,
+      "corroborating_sources": [
+        "GZH"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c48295147a2c3381",
+      "title": "Esquerda quer regulação das redes e mobilização digital permanente após eleição de Lula - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0NYZ0pZcnFKRlRlaG1kUU5fRlJEUVpmYVFqSlJxOFBNa0tsZTRmcmdTTENxM0daOFJiZG5uTVhVY29IQ3J4R0EzUG9sa3puZlBNZlFENFlLNGIxRll2NVZ3U0JYenNQVzV3MFFSXy1fYUdwMnotMHl6N29hQWoyQUMxWlZWdExxMHZXbE5YaGEtbGNWdy01VUV3TUpnTDlvODJhSDc4d2VHTmhGSWUtMEkzVWZqSG1hakdRcnpEaEZOb2pQM2JidnpJZU1Ea1VNVWpV?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-01T15:00:00+00:00",
+      "score": 72.07,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "01ebc7cfe891a80a",
+      "title": "Filha de brasileira no Texas pede desculpas após criticar Charlie Kirk - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUJMU3NndlBQRGh5Q2xGbTJHRGV2eEdrTDVmbnlfQjk4V3plazlkNXFydVUzUXE5ZURZclBjUW5QQ2F5TXRNRXJGZGNLTlZlLVNBQjlMeTBfUFJXWEFlRWN1VWwyNUNlVU1WU1hsSGZ4RjhhYktGdHpYcndrSnNFNnlyemtvZEFNRnhLSWppVUFGMHdSVnpGNEZQbHliYzVtMTRtbktCRzNoZw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-01T16:15:53+00:00",
+      "score": 65.45,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2992213652dba44a",
+      "title": "Geopolitical scenario, genocide & Gaza - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXF2amVHQVhDTEQ3dUJIeEFXYm9zVkhHWVUzZ3ZUanRPcV9VeEtuUC0tVDRieU5QN2xvQ01lY1JvM1dHTzBIdklGd3hMaTNobGowTXVTM0FaT3NuOW5yS2V3UC15Q2lWUmotYjVxX2F3Y1U0OEFiNllIYkx3ZkhTSkhjdkRzd1VtbXc?oc=5",
+      "source": "The Financial Express",
+      "published_at": "2026-11-01T18:34:26+00:00",
+      "score": 65.1,
+      "corroborating_sources": [
+        "The Financial Express"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "7b826126adf7cf82",
       "title": "Opinion: It’s been decades since Kansas made a difference in national politics. This time it means the world. - Kansas Reflector",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcEVXSG0zakwydUQ0ZDB4aXFPVUFicGFqQmZTWFZUbkFVUXdBc3NMOC1Ma2Q2VUFzVlJ2UEFaS0VqOWFrZ3ZKNGpEc0I1Mm9tcVdIN3pmZ3UwX3NmeHRNbE9JQl9IeUFWSUFiQTI1RlYxMG1rei05N3Z0R1hJTlFTeENqX01xSkpiOGFMOTRENzBlS3U1ZFg1bDY4Qk04QVVZaUg3Tzh4RTRuQTdtRHVWYmI0WElYVWFHU0YteDQ0Wm5KMGJfRndNTTRraTVtZFNhdlVj?oc=5",
       "source": "Kansas Reflector",
       "published_at": "2026-11-01T09:40:33+00:00",
-      "score": 69.02,
+      "score": 63.77,
       "corroborating_sources": [
         "Kansas Reflector"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dbf1086b6eaea8fb",
+      "title": "Ciência quer descobrir se nojo influencia posições políticas conservadoras - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMGo1MXNJakpBWnBqdVRHaS1pbS0zamhuSTlabXdLZFNTUnhMUlpwa2ZKZ0VzVmcxeWFJVUc1SEpNTmFlSUpuM2F0b1dKZm83dWg1elBvVUY1eGU5X3ZVMmk5ODNHa09JYXZEc3BYLWMxcjFleHpmcU5HYlpyaEVhSEwwUGhOWXktaWRxMGx5Mk1BR0gwRXlfOGRELV9jQkJiOFQ2ZjUwVzZLenRuUm5QN2x1anRXRWdZWlA5N1Fnd3NEMnhiY00yV2lKUlpidw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-01T14:00:00+00:00",
+      "score": 63.01,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +101,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1hwUVVna1kydzFkZGJDd0FuMXc0a2tjR1k2NzU5MG5hTDZyd3kyNFdNTXl4SGphV1dmMTMwSkVrSzF4R1JLSU1WWXU5MXV5SnlKYm9lWGdsa2pLQTE0aDVJMGpzVmJSOTNSaVc0cnpTX01ad3RJNEcxUmZJNVpZTHJGZFMxTk9LcEppOHpB0gGoAUFVX3lxTE8wOGN5LXVzVUtnaThSZjJQRzRTV3kyWFI2LS1CTXJwWWtKNjN3aGNpbzNGYlhHVk95aHhLYlgyYV8xSDZlejdTWUZMWmVXeEpfUUpPdkdPUXpEUGRQLTd1RnVRTHN4WTlxQXpyX3h5R000V1dZNUFFX1B6RWdEMFczQmY3a0V4ZV9DdlJnVHNSUHdZMzRkQVpRcGptcmJkczVsbWxJZWp3eg?oc=5",
       "source": "Infobae",
       "published_at": "2026-11-01T08:38:00+00:00",
-      "score": 67.92,
+      "score": 62.82,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -41,9 +116,39 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1dQZDFIVmh0aldvUGVmZzl1TXZienZXQnFjTGd1amdFTnhIeTN3eVRpR3lkLUhyRFFBVjBUd1BXMVVOTTRuYVBqZ0JDWkVhLWZQZHlGY1hNazlINy1sTzRSWUNQSGE1RFg0d0ZpdnF6cDRKaDh1MmFoTktBZlUxU180dFdEU3FiUXFoM21Ea2hWMkJ3WVNkT3NDbFlHcTNudkZybnNFQTFYbzg?oc=5",
       "source": "TVP World",
       "published_at": "2026-10-31T20:37:00+00:00",
-      "score": 65.3,
+      "score": 61.64,
       "corroborating_sources": [
         "TVP World"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "98ec72e28c9bcff8",
+      "title": "Após debochar da morte de Kirk, filha de brasileira pede desculpa - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVS05S0FldWJWZVctZ3VKcGcwVUxSa3BPbHhQM09mWUEyc28tUFpTOTlEY1RBc2VGTFUzOWRFbGc3d1l1Rnh2QU9tWmpHMXFRemY4WTR4U3dPNlRMSjJxVnJBcTZWRk1JNUZydW9WaWN4cVN2Wk55aEZMSExpNGNIeS1FXzBmdXhBbDZGQkRGN2c5Q2l2RFQ3OVJRWlF6SWRtNjlBSEZXOHFmQXFpMUlWRWt5TFlmSnQ30gHAAUFVX3lxTE1wbWxsdF9uNzUzaktrY2tVMmRmRC1nUEpoa1htOG1weDd6RHNNUl9lT0JMMXBqcVJYcUc2WV84b2ViaWN6TU4yRWU1cHBXS1VKeG1oR2hZVm11b2N4d3hyOWhtMVQzVE1IVDBuNmxsa0FYZjUtOENNMUFIN2NYVzZBZVpiVzd6RFBjWk8zUk85VktUR2g2T1U2R2xlTWhQcVcxeFJKRjRtMVZZZ3YtVHBHdUhiT2VtRV8zcFd3WFpwVQ?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-11-01T14:41:00+00:00",
+      "score": 60.73,
+      "corroborating_sources": [
+        "Pleno.News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e67e2fe8d09bbb2b",
+      "title": "Hackers viram fontes e desafiam práticas do jornalismo - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjRtUEJhV2s2ZEtNZkl4ODV2MEctd2xKbU5BbjlBN21SUnpMTHJWN1JmZEpTN19fUWhCNGNseTB6MDVINDhDT2c0ZzZCODUtcWNoQ2ZYMGVZZkx3QVF4bGJ1Z2M1SFNrV0gxcDV3aHR0a2ZmZEl1V1FPbUYtQnpwTjdET0VlaGpkZWRDUGQtOUR3elZEZUZvWVVFTQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-01T09:06:27+00:00",
+      "score": 58.24,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +161,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnR1VTRTc1dIenI2enI5UzI4bWN0My10ZTFHaldmbWR0VExjUWh1Tm1uVnJ6dWljMV9xU2R2QmRVV0ZjczhzYzUxQ0l3SnlGVU9BRklxU29jc0tWUXExaVYyX2gxN2tsODVla1NfQ1ZvcXZiYjBuNjhrU2pxUWRnQVhPWEpNZWFvemoyXzhXQ2FCUXZXRWR0TXk3elBBNnY3QXd6SE5ZUmU0RVpGT3JGcGFR0gG6AUFVX3lxTFBvMlJVOWhycXJHMVVNaUV6eWl2Z05BYVdnLXJDZG9zY05zMGYxMVlTNzB6cDA3M3ZQOXpkSUtPT1VTQzZ4MEVlZ2U5X1Fyam1EYkpjSmNjbHFrdTRaYmFPVU4wYnJFbGtSSWQyRXJfQWdRWlNKbjctaExfX0I2ZmkxOUlleV9FTGZkcWVxZTZ6SHBnY0Y1YVJTT3E2RE5RWlptLTZ6NlBramhwVGRpSmJLVjdHX0VjNmdrZw?oc=5",
       "source": "Pleno.News",
       "published_at": "2026-11-01T12:05:00+00:00",
-      "score": 63.69,
+      "score": 58.07,
       "corroborating_sources": [
         "Pleno.News"
       ],
@@ -71,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXl1dGR5UzVEcmRwanM3VzdKYzd5X1Q4QVN5RU5mb1dnMGhQWG00Zk9ONGNISHBBUHlKOXVJTEhpOXBydGEzdXZXVzdMb1RYS3lmVG8yRGttQ3FfcERBdHRqOEdlZXA4SlJSbzl6MVdDQjRyUnRnMF9YZXVTOGhweUREOGJmcnI1R3QwRVFZOWZCTncxZVRqbVN4OU54Y3pCZm15ZGJTU0pQTjZ1dE1BV3NaUUpGRnh3X19EQ2trT2hGTVAyS0lEV2toQQ?oc=5",
       "source": "Universidad de Chile",
       "published_at": "2026-11-01T11:56:33+00:00",
-      "score": 63.53,
+      "score": 57.93,
       "corroborating_sources": [
         "Universidad de Chile"
       ],
@@ -81,14 +186,14 @@
       }
     },
     {
-      "id": "e67e2fe8d09bbb2b",
-      "title": "Hackers viram fontes e desafiam práticas do jornalismo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjRtUEJhV2s2ZEtNZkl4ODV2MEctd2xKbU5BbjlBN21SUnpMTHJWN1JmZEpTN19fUWhCNGNseTB6MDVINDhDT2c0ZzZCODUtcWNoQ2ZYMGVZZkx3QVF4bGJ1Z2M1SFNrV0gxcDV3aHR0a2ZmZEl1V1FPbUYtQnpwTjdET0VlaGpkZWRDUGQtOUR3elZEZUZvWVVFTQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-01T09:06:27+00:00",
-      "score": 63.42,
+      "id": "1af016a1d8601129",
+      "title": "A fuga de Flávio aos EUA impacta a diplomacia? Especialista avalia - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOHNuX1QyQ2ExZ1ZEcllwMlBjTzhSWjZvdkdRZnpuQzV0dVZQWHNFb3M0VTVaS3RqaEtJOVRfNG1hLU1FcFpKczJKc0R4WlowRmRBV1NyMnB2WDRKdkExMGlPVUx1SU94WTBTS3g5eGRSRjFXLWZHQVNnRXpGLWI5UERZZUF4ZWZRRldRVjBqMGYyb20zQlVUcmVYMUh6T0N1Qkd5LVNNNTJtVTV4RFE?oc=5",
+      "source": "CNN Brasil",
+      "published_at": "2026-10-31T23:10:05+00:00",
+      "score": 55.34,
       "corroborating_sources": [
-        "Poder360"
+        "CNN Brasil"
       ],
       "signals": {
         "source_count": 1,
@@ -101,24 +206,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHE3NWxkdmVtdGs4bXJFaHFPWmg2NUItTVZPNDFvWHI0OVNWTGtqRFJ5bU55UnM0UURwTUdENms1NW5aWnVPUGlERElhZFVFOF9KRWNXdG9sZzhtQ0dwdno4elVhcHRabGlKTDc0YjQ0NHREMUdLUVJiRF9rX1YzeDJzX1ZhbzVsaVlBS29iam8wWUJsOHo1eEttZ2Y4VWFVYnFoRGUtYVF6bUs0YUFMeTRfdUVUSnJkSTVPOHNKdmI?oc=5",
       "source": "Brasil 247",
       "published_at": "2026-11-01T08:49:40+00:00",
-      "score": 60.13,
+      "score": 54.99,
       "corroborating_sources": [
         "Brasil 247"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fd0ff3c0083bdec6",
-      "title": "Aleix Sarri: \"Catalunya tiene que decidir si quiere ser un Estado europeo o una extremidad española\" - El Nacional.cat",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGtENEpuSHFkRVpVRXFYdzBOdzhUeXp2aGlKRW1tbG5nQTd0SG5zMGZPekJ5MGRueDl3ZkphR211LTdDZDNIeVczam16ZUh3RmI3eEQyZ2k1aUc1TEdNWlJZQXA4R3pPOFcwMTAxZWN0VGpGcGZvVmtoUzJuLU5sZVVxV0paUzFBY0tMLXN0d1ZSQ2ZZTjVYYURpVWg0VmpINXRIQy1lb3JDMXlZQmljUm9MOHRvSE5FMnAzZVItQmc0V3pvY0M3aUMxdWttbUpUN1BZWHBtNA?oc=5",
-      "source": "El Nacional.cat",
-      "published_at": "2026-11-01T04:30:00+00:00",
-      "score": 55.86,
-      "corroborating_sources": [
-        "El Nacional.cat"
       ],
       "signals": {
         "source_count": 1,
@@ -131,54 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaU1JdjdfREFfNkpGVXFKckdveG9yQ1M2OXR5d2ZaVmh1NFF5Nm1XRXAwQ0FMRk5zenY4eFZCd3lpUE5oZDUwa2d2Z3B0dkN2Ny1raUNfajRJM2RMWXdmbWNydEZxM1FSaWhubjFWbXJCOWRvS1ZDdEJnVWdUOTNub2lCS2JBU1ZSVzhCc1NEZHo4NTNEZFBfRkFLVTRkaE5wSUo4aXZSaUJYM2V4?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-31T13:00:00+00:00",
-      "score": 55.18,
+      "score": 52.22,
       "corroborating_sources": [
         "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "27cb5bce8f4b93de",
-      "title": "Poland’s PM vows support for tribunal amid court crisis - The Age",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaURIN080cEstWW1qeFBYQ3NEaUxDN3U2QlZxSXAxM05BdlhmbmlGWVFmTG41cmEyOGZDWjVsbWZSVEQ5ekZWUkg5cEF3QkhZT0dkb0poN0F1d0xSOG95amdYUFBzQml4Qmo2TDVvSlgtMU9udHVjcXU4M2pTaC1tTmdJbk1CSnJYOWZkOEd2cFMyWHZubXV2dDhiLTNfRy1wVHRuWDlfNVZsdWY0SHdGZUJhd3BHUQ?oc=5",
-      "source": "The Age",
-      "published_at": "2026-11-01T03:04:03+00:00",
-      "score": 54.56,
-      "corroborating_sources": [
-        "The Age"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "50e2dd4a7a58a7c7",
-      "title": "La soledad de Javier Milei: derrumbe en la economía, fracturas en su armado político y traspiés en el ámbito internacional - C5N",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnJHYkJnT01DSVdQMXNGTmktdjYweTVHRVhnOFZocndQYXBZV01mT3ZaNzdxVG5NMzU2TkZJV3F6MzRlb3pVbnhSY2RlaXc3TW9BNTVQT0Y3Q052bnRvamFVbThpRTdJSExZZTJtTEhQbUxMd0F2NHpTMW5GLTZEa2lmUEN3SzRPdHpmQk5SdWZfUTJ3a0tSMUpUWHFXWFBLU2VmVk4yUEhOd1U5d3dnSHRGTC1JWlRSbTdZQ2ZRZGtpdDJxNktfeUdGajNaelBXaUpkb212cWxsczBkVEHSAeMBQVVfeXFMTmp2RWRSYjVKbk1TdF9kRE9hVUJua2V4OFBLbGlnRzJvcDVzTFlWZi1FUmFjcEJqTDNDcnZXLTVrVzc3endEV090b01EZHRLSExvLWFjYl9oT01FdHNLcWh6VzlMTDJrbWZtSzdJMzIxUmZjQzB6cVE5TmRiQnNQMlA5dVBkWXRDYnh0VTZDVWVobERCZFBlU0k1cFN2dFVld1U5Rndmd2d1NUl5MXYwUnpBWWZPUG92XzhTUzQwQUEyQmZyRk1xcGRqRzE1SjNjamQyYmVVbVU2enRoR05ieE5MSUU?oc=5",
-      "source": "C5N",
-      "published_at": "2026-11-01T02:46:00+00:00",
-      "score": 54.29,
-      "corroborating_sources": [
-        "C5N"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "17145c18175f50be",
-      "title": "Banco Central mantiene tasa de política monetaria pese a incertidumbre internacional - El Nacional — La voz de todos",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWZMUlJvdFdlQmtXcWVUMmNMalhfbkhHbFdHMF84QW9SY05qVUs3bTlEX3k1M3h2TURkNUFDM3dMYXpNOFdQbGR3MXlZZFFFMGVvTW5qUk1USkxZZGRQUEs5T1N0WkF2SXZ6NlNzd2ZOZExCZ09FWU9xTFJ0R1dPTWZFU1I0YVdQalA3d0pCbHpqODJPWS0yaGI3UVNRcEhxalNWUllxa3FFTTlGbzBqRnlHbTNhcEM2ai05ZlZwNE1CTVVo0gHKAUFVX3lxTFBkOWJqMmxpc291dU5zSElSSjRZTjVIbjhoTGFVdlN1RjY4ZGZkcE9ZV2JlbnhGR0JoSkpHWFhFZmlZWEJndThSNWRPUXItTUpTQXpicGpmNkhqMkxsa2hrWF8xemVmNlVPZjV4ckUtNmpDUndpM1ZKaVpCVExGZ2FmVWlnMXlXZW1EVy1taVUtdkpFNzZkUjg3RmoyQU0tUzdRak5ERG5FdWFaYlBGakdQUjN3TXFtRm50NDExZThzZ0t1VVdkV245aXc?oc=5",
-      "source": "El Nacional — La voz de todos",
-      "published_at": "2026-10-31T16:09:38+00:00",
-      "score": 54.17,
-      "corroborating_sources": [
-        "El Nacional — La voz de todos"
       ],
       "signals": {
         "source_count": 1,
@@ -191,9 +236,24 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3F3NFB4TTF3M2o2SlU3T0NTc0pnbWNCOUhfSXQwSGlfMDBieVZVSUg3OWI1MldjNWp0Nk9Pc2Njd1o0NWlSTjBCNlpLUml0SkhXeVprbDh6ZU4tZlVZMjRkOWdtTTFkamJXaVBPZUNaRVp2N0xqOGFzSmNRbGdyN0xSUEdsRHQ5d1VkMFl4RQ?oc=5",
       "source": "Política Obrera",
       "published_at": "2026-10-31T00:00:00+00:00",
-      "score": 53.6,
+      "score": 51.54,
       "corroborating_sources": [
         "Política Obrera"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fd0ff3c0083bdec6",
+      "title": "Aleix Sarri: \"Catalunya tiene que decidir si quiere ser un Estado europeo o una extremidad española\" - El Nacional.cat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGtENEpuSHFkRVpVRXFYdzBOdzhUeXp2aGlKRW1tbG5nQTd0SG5zMGZPekJ5MGRueDl3ZkphR211LTdDZDNIeVczam16ZUh3RmI3eEQyZ2k1aUc1TEdNWlJZQXA4R3pPOFcwMTAxZWN0VGpGcGZvVmtoUzJuLU5sZVVxV0paUzFBY0tMLXN0d1ZSQ2ZZTjVYYURpVWg0VmpINXRIQy1lb3JDMXlZQmljUm9MOHRvSE5FMnAzZVItQmc0V3pvY0M3aUMxdWttbUpUN1BZWHBtNA?oc=5",
+      "source": "El Nacional.cat",
+      "published_at": "2026-11-01T04:30:00+00:00",
+      "score": 51.31,
+      "corroborating_sources": [
+        "El Nacional.cat"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +266,52 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2Vkbk51VXloeXpvYUVMbjBnc043WnZKTTI5RGl2ZzB4VlBOYlJHd2F0TlVKQUM2a3AwMkwwWlNNZ0xva0Z6YWVoeUdWMWVFeWJiSmI3MXRqTHZUMUphNGFEdEY4ZTZ1b0hDMGFYaWxPYVltU3dzdlFac3hLM2lzQlJOaEJqdnFFYmozWmlGQjNYRFlXRGRvc2dmSDE5ZkxtTUxJYTJwMERxT3FUU0FmY2YweFBqM3JLTHc?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-10-30T23:22:00+00:00",
-      "score": 53.34,
+      "score": 51.31,
+      "corroborating_sources": [
+        "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "17145c18175f50be",
+      "title": "Banco Central mantiene tasa de política monetaria pese a incertidumbre internacional - El Nacional — La voz de todos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWZMUlJvdFdlQmtXcWVUMmNMalhfbkhHbFdHMF84QW9SY05qVUs3bTlEX3k1M3h2TURkNUFDM3dMYXpNOFdQbGR3MXlZZFFFMGVvTW5qUk1USkxZZGRQUEs5T1N0WkF2SXZ6NlNzd2ZOZExCZ09FWU9xTFJ0R1dPTWZFU1I0YVdQalA3d0pCbHpqODJPWS0yaGI3UVNRcEhxalNWUllxa3FFTTlGbzBqRnlHbTNhcEM2ai05ZlZwNE1CTVVo0gHKAUFVX3lxTFBkOWJqMmxpc291dU5zSElSSjRZTjVIbjhoTGFVdlN1RjY4ZGZkcE9ZV2JlbnhGR0JoSkpHWFhFZmlZWEJndThSNWRPUXItTUpTQXpicGpmNkhqMkxsa2hrWF8xemVmNlVPZjV4ckUtNmpDUndpM1ZKaVpCVExGZ2FmVWlnMXlXZW1EVy1taVUtdkpFNzZkUjg3RmoyQU0tUzdRak5ERG5FdWFaYlBGakdQUjN3TXFtRm50NDExZThzZ0t1VVdkV245aXc?oc=5",
+      "source": "El Nacional — La voz de todos",
+      "published_at": "2026-10-31T16:09:38+00:00",
+      "score": 50.94,
+      "corroborating_sources": [
+        "El Nacional — La voz de todos"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "50e2dd4a7a58a7c7",
+      "title": "La soledad de Javier Milei: derrumbe en la economía, fracturas en su armado político y traspiés en el ámbito internacional - C5N",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnJHYkJnT01DSVdQMXNGTmktdjYweTVHRVhnOFZocndQYXBZV01mT3ZaNzdxVG5NMzU2TkZJV3F6MzRlb3pVbnhSY2RlaXc3TW9BNTVQT0Y3Q052bnRvamFVbThpRTdJSExZZTJtTEhQbUxMd0F2NHpTMW5GLTZEa2lmUEN3SzRPdHpmQk5SdWZfUTJ3a0tSMUpUWHFXWFBLU2VmVk4yUEhOd1U5d3dnSHRGTC1JWlRSbTdZQ2ZRZGtpdDJxNktfeUdGajNaelBXaUpkb212cWxsczBkVEHSAeMBQVVfeXFMTmp2RWRSYjVKbk1TdF9kRE9hVUJua2V4OFBLbGlnRzJvcDVzTFlWZi1FUmFjcEJqTDNDcnZXLTVrVzc3endEV090b01EZHRLSExvLWFjYl9oT01FdHNLcWh6VzlMTDJrbWZtSzdJMzIxUmZjQzB6cVE5TmRiQnNQMlA5dVBkWXRDYnh0VTZDVWVobERCZFBlU0k1cFN2dFVld1U5Rndmd2d1NUl5MXYwUnpBWWZPUG92XzhTUzQwQUEyQmZyRk1xcGRqRzE1SjNjamQyYmVVbVU2enRoR05ieE5MSUU?oc=5",
+      "source": "C5N",
+      "published_at": "2026-11-01T02:46:00+00:00",
+      "score": 49.95,
+      "corroborating_sources": [
+        "C5N"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5b0dcb90835427d5",
+      "title": "A quatro dias das eleições, projeção indica risco de republicanos perderem Câmara e Senado nos EUA - Transmissão Política",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1dheHNwS1VVcWVrekpNdFFhdFJJNW14S2k2eGZFV3FYLTRYUFVJSzNXS1RhbW5mdzd1bDIzaXd2UmxrRmxOemJZYTlkTFhhcE9jQkhJb2F4bUMwM0p4YlNfMmZmZ3dtdmFJbUlrTkt5a0hyVHFvZ1NhbUZzREZTVVpzeEVGRU9zV2J0STc3SEpDRWFBYXliMzdyT2J5R082OEtvZ3JTWktCRGRpMklYXzAxbUdod2gy?oc=5",
+      "source": "Transmissão Política",
+      "published_at": "2026-10-30T13:52:00+00:00",
+      "score": 48.34,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -221,24 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFNuS2ZtWk5CRmFVbU92SW9JMnZKU24yblFUbHBlS2xfWkF0MGVSQ0toaG9pVmtwRlpPSHE4dW94YVJTSnhGcHZUcGZ4UW5vcXlxOUpucW1VWGxIOGx4ZXg2d2R0OHlybExSZV9YampzWUpWMEFfWUNIVGhEXzRQMFh2WElyOW1md1NfZTQ5OVVVTldrXzJRRW5ubzBMdGZWOVN3cnAzbWZ6VklocnI5VW9XaUhIT281WW5YLXFnMk44S1VVYjZtdlAtNnA0ZDYyN18xZU85VDNHZ0k?oc=5",
       "source": "Tendencia de Noticias",
       "published_at": "2026-11-01T00:29:00+00:00",
-      "score": 52.34,
+      "score": 48.26,
       "corroborating_sources": [
         "Tendencia de Noticias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "826a5182d215ae3b",
-      "title": "Protestos e confrontos na França registram mais de 560 prisões - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMF9kVFBYdWNFNHBhaTlDUG5TTm1zMUZBbXNSZ1FrdXVZbzFwcDFabkczMGRyOEFuTXVaZFE4Z0ZGQ3NEN0VNZHdwZG03blFLNFkxT1lCSFJZdHhjd3NhODIyM1Q0WXRMZHRucU9BbkxRb2pCWFBnQWtTUjVFY2p2X1RrX1p1eDN3cTdTRzlKN05XcE8zMF9rVUJfYVBzeVctV0dSZGJuR0k3N3lPYnVNUE9VZFBHd9IBvgFBVV95cUxOMXZSMjhYb2FndkFQSm5obG1hMXZhSlBkaHE4Y09uTF90YmFzVnNWY1dwUGI5aVVjV0I1SFlQaDA1N1FQM3VwQjJBYlhsZi11OEdRUXlXZTRORGk4bXVWZTJHRVc5Q25ZRks2a0E1b1poaFFwNXBUYk8wWXB3VFc2cWFmOVlFZlYwSFRQVXBMNGVlaXl3WFZ4ZEJIUHkxS1JSdW9FaFZEc1BYVFdxdUVVS1U0Y0pfajk2NnFLdUdB?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-31T23:33:00+00:00",
-      "score": 51.57,
-      "corroborating_sources": [
-        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -251,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWktYZ2FaaE5ieUV1VDJMaURSWnZHbTdyR21vNTY3Ujh0OTM0QkhwWHNtOFFsZWNhNVlUZzNUb3Z1dDR1MGJDQXpJMERnWTUtenNzTVVaYmxuakZPWVJnVnp6cXpKTXFhdFFCZ2FHUXNSWG9JYXc2WXhaOVQwY0lsTEVSRjhzQ3RSWXZrN3M4V3o?oc=5",
       "source": "Arkansas Times",
       "published_at": "2026-10-31T10:21:53+00:00",
-      "score": 50.65,
+      "score": 47.9,
       "corroborating_sources": [
         "Arkansas Times"
       ],
@@ -261,14 +351,14 @@
       }
     },
     {
-      "id": "5b0dcb90835427d5",
-      "title": "A quatro dias das eleições, projeção indica risco de republicanos perderem Câmara e Senado nos EUA - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1dheHNwS1VVcWVrekpNdFFhdFJJNW14S2k2eGZFV3FYLTRYUFVJSzNXS1RhbW5mdzd1bDIzaXd2UmxrRmxOemJZYTlkTFhhcE9jQkhJb2F4bUMwM0p4YlNfMmZmZ3dtdmFJbUlrTkt5a0hyVHFvZ1NhbUZzREZTVVpzeEVGRU9zV2J0STc3SEpDRWFBYXliMzdyT2J5R082OEtvZ3JTWktCRGRpMklYXzAxbUdod2gy?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-10-30T13:52:00+00:00",
-      "score": 49.89,
+      "id": "826a5182d215ae3b",
+      "title": "Protestos e confrontos na França registram mais de 560 prisões - Pleno.News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMF9kVFBYdWNFNHBhaTlDUG5TTm1zMUZBbXNSZ1FrdXVZbzFwcDFabkczMGRyOEFuTXVaZFE4Z0ZGQ3NEN0VNZHdwZG03blFLNFkxT1lCSFJZdHhjd3NhODIyM1Q0WXRMZHRucU9BbkxRb2pCWFBnQWtTUjVFY2p2X1RrX1p1eDN3cTdTRzlKN05XcE8zMF9rVUJfYVBzeVctV0dSZGJuR0k3N3lPYnVNUE9VZFBHd9IBvgFBVV95cUxOMXZSMjhYb2FndkFQSm5obG1hMXZhSlBkaHE4Y09uTF90YmFzVnNWY1dwUGI5aVVjV0I1SFlQaDA1N1FQM3VwQjJBYlhsZi11OEdRUXlXZTRORGk4bXVWZTJHRVc5Q25ZRks2a0E1b1poaFFwNXBUYk8wWXB3VFc2cWFmOVlFZlYwSFRQVXBMNGVlaXl3WFZ4ZEJIUHkxS1JSdW9FaFZEc1BYVFdxdUVVS1U0Y0pfajk2NnFLdUdB?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-31T23:33:00+00:00",
+      "score": 47.6,
       "corroborating_sources": [
-        "Transmissão Política"
+        "Pleno.News"
       ],
       "signals": {
         "source_count": 1,
@@ -276,14 +366,14 @@
       }
     },
     {
-      "id": "453af15ab98b6140",
-      "title": "Boulos fala em chantagem do mercado sobre ajuste fiscal e defende corte em desoneração e supersalário - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMHZjcDh6RWVxOGE2cVA0TnBDalZsLUpaTzBSOUUwYmFDcFNEZkNWcHVVVVFDbXRiMXRwaTUtM1lhbDlEXzZLMFlvbUh0aHJ2anY5NzBxLUlVcDFKZ3BGYmlMckZPRmRwakdEOE5WdlU4andDRVhNSmFwUUhGSXNWX2t4bW8ta29ZTlpjQXdwcW5SNDVzaW1zWmRTTk1nU2p5ZWJiTWs4cFFQQlhkUTdUS0JCOXR4RFgtOTBjN29pMHdmWnpwVXFwT3EtNDcyYjRsS3hxaVlvMGVpTndlVkc4a2RjZ05Vdw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-31T15:53:00+00:00",
-      "score": 48.99,
+      "id": "3555874b0788151a",
+      "title": "Lumi: conheça o modelo de IA open-source desenvolvido pela Universidade Federal de Goiás - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNVBCMkVULS1RZHloZ3VCMGtJZGVfVkVGTXB5Q2xBYjZKRkp2d256cUZ0azdaMHIxcDZva2xRSXFCV3BpQUFvN1JzX2czWlhYcFBlZ0JzWnMzSnlxcTlSRU14NnBTeF83UFRfYmZ5REVBcW5TVzhiRDNUUTZkWU5LMTA3T296SWV5YkdNZEhXYWtvN1N2V1B4MXpfRTJLb0ZFMmdXVVA4SXlsaWtkR05XaFpfOW8xQ01STV9kQmtMMVZHSHVrZjRLY2hpOGJid3RHcWxlcWd4dkh5bXl5SVM3NFoxUndUazJHcjcyWg?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-31T17:04:15+00:00",
+      "score": 46.47,
       "corroborating_sources": [
-        "Folha de S.Paulo"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -296,9 +386,24 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlJIY2VudWJ2dEgyclhKU1RKbXB2LTJjTVdCVGtNbmI5OFNxUW44SWQ1QWpEQnRtNy1UaHZrMXo4T3Y0UkJiWUdYb25rZDFtLXZoLU5XdUZoVDVUTXM4d1hMQ2YxMElXSjZSenk0Tlp6bVBKNWh5WVl0Q3gzS3lTUTRjMWQtSy1wNk1waER6T1dlbngzaHJCbGlfeXlRbGNrUHNrSVB3UDRvd2phdEZZNmlaSVRYVjRZVTZPeTJ5bTk?oc=5",
       "source": "The Guardian",
       "published_at": "2026-10-31T06:00:00+00:00",
-      "score": 48.35,
+      "score": 45.91,
       "corroborating_sources": [
         "The Guardian"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "453af15ab98b6140",
+      "title": "Boulos fala em chantagem do mercado sobre ajuste fiscal e defende corte em desoneração e supersalário - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMHZjcDh6RWVxOGE2cVA0TnBDalZsLUpaTzBSOUUwYmFDcFNEZkNWcHVVVVFDbXRiMXRwaTUtM1lhbDlEXzZLMFlvbUh0aHJ2anY5NzBxLUlVcDFKZ3BGYmlMckZPRmRwakdEOE5WdlU4andDRVhNSmFwUUhGSXNWX2t4bW8ta29ZTlpjQXdwcW5SNDVzaW1zWmRTTk1nU2p5ZWJiTWs4cFFQQlhkUTdUS0JCOXR4RFgtOTBjN29pMHdmWnpwVXFwT3EtNDcyYjRsS3hxaVlvMGVpTndlVkc4a2RjZ05Vdw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-31T15:53:00+00:00",
+      "score": 45.78,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -311,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3dyaTk3VlFUSHNvZUQ3OEFzYjFYSVc0MEZGS3RrT0xVLWZIcnRsa1JKV3BsUzhXY2c0dmZvSTQ4bTZGR0Ytek93TEJUX2JFSXltNDNRUEtBZGJYQnBQcXFiYURhdTNEbHE1RkNHRWJ2ay1uWTllMGlSbFhKVGg1YzItNmI4VXk2VHVuTW5Uc2ZfeDdaMGNYcWdjcURZdXdub3l6ci1RMXIwbjBn?oc=5",
       "source": "The Washington Post",
       "published_at": "2026-10-31T04:20:00+00:00",
-      "score": 47.54,
+      "score": 45.21,
       "corroborating_sources": [
         "The Washington Post"
       ],
@@ -326,39 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGdqcFFscnJXMnY3X2xlNi1DX0pyU1FJd0ctZG1NSkt0SnRXTWN4c0ZqUlNsQ2IyTHJiSUVIWUJicWFpUTE5dnZ4TEoyVy1CMk9zdmlsQzhVQVNfNVhDaVhXdk4xdkN1bXdvWnpBSHlzRFRxaEkxMzB5YmpFb2tVNk1SMXBUTzBLTFNrSTEyLXQ2Q2otMllOZVB2UzRNMEVXOHNnVURmdTRQVG9yYUpPQUR3?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-10-31T18:00:00+00:00",
-      "score": 47.42,
+      "score": 44.01,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d3bc339b0c750434",
-      "title": "Rubio nega facilitação dos EUA para saída de Flávio do Brasil - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczdKckNRMzhCbXE0alAzMXZTNHVDMmFnMUl5SHdQSU9YQ096d2d1SHpIdjNESTAwUUVBRGZTUmRkVE51WmY0Z1JTLVZVWTlTb0dTU0FFQTdlQ2c2dUNpMmZSVFRTYnpaRDQ4QnBHZnJOMXItcW5PSGFYSWxzUDV1UWI0ai10eDc2SXYzd2dlNzdoR1lBWElfR0FIOHF5S1JqczBnekFfTmdtdHZsZVU4bmNYd2TSAbwBQVVfeXFMTlFTYWU5dDlCc0l4Q0wxYjg2RV9Rek1DUlQxV3dYS2R0bFRCOThkXy10VVZENDNzd1BZbHAtT3NWMm1WcVdKUl83MVI4YW9HaFFsY0w0THpvZ1FqZ1Zqd0U0cFJNYnVDN050REI1Z3c3UTJzN2NDVDdXeFFpbG1qbzFVemR2dUUtRHRpdFJIZzNURkljR1htNTNHSTVZaTJLRmlIcTlCVWwtR1lMRHVJSlhxV1VaRGMyOWo0Y0k?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-10-31T17:45:00+00:00",
-      "score": 47.24,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2390cc88d6839392",
-      "title": "Justice Democrats look to remake Democratic ranks in Congress - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXZ2M2ZfbTlQZ01QbHlqVTFBMXhZcG1ZVlV4OTVsTkk4RG9YSy1pVWNjMFg0aDhnZXg4S1pPTEh0OXpkOC1abHlRbkFDWWNEWFd5d0Q4RVU3RDV0NVV2bWl0TDJrcmpjZUZNb2hVWFlyS0FYRmltVU5HQTh3bVhFMzBCbXNneW5UN3VUMTVTOUhPenVmRWpOSnJJdl9lNnIyblBYa0lBUDExeFRmTTUyU2ZzZEFiWlFERVZwRjV3?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-10-31T03:00:27+00:00",
-      "score": 46.92,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -371,84 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFhfczl0SWdUZlpYMkxUdXJybE9PcjluY0ltdXRXZ2FycjVrdXl3V25CcVB3V1hpcmVXQ04wS1dqekc1Z2YwcGp1aUk4bzRqWXdtR05vZDZkNGc2WG9EemNSMnVvM3lCNnRsZUhrZHk2dzlTRVFzQ0pBODhMSHpySmR6REI1VFlFR1lyLUFEZkhBT0NaWl94bGp5OWRaX2M1SE1ram1Ga2xFVWtqTGxTWXI1ajc3NjJnTzY3ODNqTnJBVWF1eGJpcHlSbENUYUFK?oc=5",
       "source": "El Observador CR",
       "published_at": "2026-10-31T01:05:00+00:00",
-      "score": 46.07,
+      "score": 43.94,
       "corroborating_sources": [
         "El Observador CR"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ba2fa3c8e8ccfbc0",
-      "title": "Lula vai procurar centrão e condiciona indicações para ministérios a votos no Congresso - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRi1UWmlSclFyc0JpMU1VcHdNNVMwa0dLQXFQOGd5NWliVkhxbDZIQ0Z0VUt3XzF3MzFEYWUwcHdSNkhIQThVOTFfN1dtczNjb25FdWc0RTFvZkp0eXhna3lueERJSC1QVUROejlfX0VqNjNiSEozNjQ5Z09iRTFLTWFjMk1UU05LRkczTHZaNmVFMjMxUlpJcnNENF9yV2l2MVVmM09mQWpaRnNicDFWSmVacGRBSlZIbVI3c2FZdVdrZUdhNy1CS2JrM0Z1Ni14czZn?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-30T16:00:00+00:00",
-      "score": 45.59,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "12c4c35bd4f3044a",
-      "title": "Política: Vans e ex-agente na fuga de Flávio aos EUA - Portal Terra da Luz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXRKTGRvallpYldqUGlTcGNsNDV6emF0cUdtenVhZURuaFFZSDVYV3BtY1E0VlRacGJWX01CdG9JdGtIUU80MmRuU0cxTFRSUFl0M0ZIUTczWGVyLTR5NjhEX2FKU3o2U0hDaFdwc2pmMlJ3SnVJd0g2NTE2Q1h1a0k2OUhpTE96bWxCNm1SX3Y4ZGdqRWg1Y1pR?oc=5",
-      "source": "Portal Terra da Luz",
-      "published_at": "2026-10-30T23:50:45+00:00",
-      "score": 45.54,
-      "corroborating_sources": [
-        "Portal Terra da Luz"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4eb6b32c3632f495",
-      "title": "Eleições em Israel devem mudar pouco a política externa do país, avaliam analistas - A Crítica de Campo Grande",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenlvelBSM2kzUENTcF9QVWttZTRQeFEwUWl4VzdNOEcwcGVVSVZsSURUcHJjY3lMcGFrSzE0eTh3WmlsVklYVkJwYS1UYVJHTEZfaG4zQmpNcTlKNUFtUWtsb2lQa2J1dmdiRS04N3A4S0JtZTRYc21yM0R1blJFNkRQVTV4NXdzTWw2RXdRMjNOd0lhekJDT1hXaWgxTEx6aXpuQ2E2V0lYNXI0UmJ2aG51S2JiXy1v?oc=5",
-      "source": "A Crítica de Campo Grande",
-      "published_at": "2026-10-30T23:50:00+00:00",
-      "score": 45.53,
-      "corroborating_sources": [
-        "A Crítica de Campo Grande"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "445b90dbd98667ec",
-      "title": "Polish president turns plane around after 'coup' at nation’s top court - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0xkaTR6Tk93T0ZZQVlPTGtFaGlrV0pFZnBVVTFVVjI1YjZvbWxwd2ZJMF91NmhZZGl4djRTMkJvbThpQXhxWXpvNXZTNXJma05MVVRKanJsOEpPYzNFMjBwdXY3TXREZFRBeHFKM2lSaUFzYzEtRnJjMjBSdUZLdFM2SzExVks1eUkyRFNna2xIU0RTcGF5ekI1RzFUd9IBowFBVV95cUxQU1RmSUpDZ3d3dHZDY2VHX2hiRmFyUnhhbF9lTkljWDg1TEdNbk03LWRmWTVNZ3hhUllBSzdzTzFFdmRpUHdRMmJuaW5BSmM0ZGdKSDkyd2czSm1xSTdFS3pEaFFzc1dwX2FEcTJhZnFQTHYzeXg5ZGQ3QXdRTUxveFFKWWhKNVdxbjBVRy1NdDlCcTBqeW92eTc1c25yM3ZUd3Z3?oc=5",
-      "source": "Fox News",
-      "published_at": "2026-10-30T22:32:52+00:00",
-      "score": 45.01,
-      "corroborating_sources": [
-        "Fox News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "335acfbb4330864c",
-      "title": "\"NO TENEMOS POLÍTICA INTERNACIONAL TENEMOS EL HUMOR DE EL PRESIDENTE Y SUS CONSECUENCIAS\" - Medios del Aire",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblZJenJHQ0xiOWNEUkpGQmtwWkhjTnZSZ1E2RHh3emlCTUN1QmZIeHV2WHVtbUwyNlVGb01hMXVQVnVBS0N2ZVBKY2phV05HUkc3ckNnVEM0RXRKTGE4eWJFeFpaNTBMWWdpb3JCdEROcWtkVDdtdE5RSnAxaVNybnFpbkgta09weVpYV0RBSnFQX2JOS2dMYXB5WTdGTU9FZ3JCbUQ2WTdGVmNobUs5aWV4azJZTENFbGhlQUdvd3liQk1NUTRPbF9jTzFkUlRMREE?oc=5",
-      "source": "Medios del Aire",
-      "published_at": "2026-10-29T12:46:58+00:00",
-      "score": 44.16,
-      "corroborating_sources": [
-        "Medios del Aire"
       ],
       "signals": {
         "source_count": 1,
