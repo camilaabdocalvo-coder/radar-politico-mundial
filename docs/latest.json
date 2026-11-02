@@ -1,19 +1,289 @@
 {
-  "generated_at": "2026-11-02T06:15:37.213647+00:00",
-  "next_update_expected_at": "2026-11-02T10:15:37.213647+00:00",
+  "generated_at": "2026-11-02T18:26:36.868105+00:00",
+  "next_update_expected_at": "2026-11-02T22:26:36.868105+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "0c61bd366502347e",
-      "title": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObW1ZNWFFRFl6OGE3TzRnTUZhWXlOb1lkR3liRWNDRFJ2M01VYmRIX2N6NlB1dnZrOHAwTVNTVUE3V0JDNjJwanhnakdBTDE1dHlId0RXRFZzWVRFQmU5RWgwYjluR1ZqR3YzZzZia2o3QURHRFgwY1k2UVIwWUtDcjBfeFFyenFUUjBOcHhlQUV4VXA5eXIzM3JaT25uOFlCeEtGUnpPV2RFdVI2bVB2QlZFQWFkbVVCbm5TcGI2VjAyUHc?oc=5",
+      "id": "178ebdccf2562b16",
+      "title": "Estudio U. de Chile revela cómo la polarización entre el Frente Amplio y el Partido Republicano llega a la política exterior - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVFaUW03Y3dPNndmRVFKSEdGT3dCcXlUYUFfUi1zOEc1dFItRFBlOF9iMnBJeHJ0ZzNYSjJqOXpCa0ZKUklJZWxvUFlBYzh3MVNVNDN4VnEzeTVJVlFfbHZ1YjU5N2JvMFpRWThvU3NlZkJNX2MxbVF1Tmx4NFlSQzBESmp4UkRsV2RLTFBWUjdhTjMwd3dIVkpwbEtWNXRSYm1LOQ?oc=5",
+      "source": "Universidad de Chile",
+      "published_at": "2026-11-02T16:49:15+00:00",
+      "score": 81.49,
+      "corroborating_sources": [
+        "Universidad de Chile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e7f0e11927a98e20",
+      "title": "San Juan será sede por primera vez del Foro Federal de Política Exterior - SI SAN JUAN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMG05YzhfX1dQd1Q1Qnliam5HUk5nbjl0ZUVsbE5DTGl6RU51Vmt0Tkd1empsSzk0T0RVcVJEOXJaMjNCcTlieHhieVdQN3Z2MkdicVMtRHRUZ0tUY1BCcXNGQ0Z3Qkp6RUR1MFk5M1B1bWRkY2kxa3IzTl83Q0ZRVUc1N3oyWDJ3eVZKUUJWUDUtTFhIWVppRElKS0haSWFaRllPcDktbnpBVm9qRi03dUppLTdsdGszQWdUM25HaFExZ2Jx0gHKAUFVX3lxTE9aQXVfUmNhbzJaUTJRblUzVzY4ZWE2LUZJd0phUzRWVk5KdGJxckJReEpTMk5MdjVaSEdEV3hHcV9ZODFmQ0VlbkZQMXZXa2M1ajRFWVgwbExqVk02UmdxMG1jdUgxalZYaGpnQl8ydjVVRXdxcWRWdTUyUkhrN0RwNUFDTHpSMnRWTVpYbkZFNTdWYXFNSERoTTFva2hLZlc5S09STEpqaXRCaFpWdzd6X0lnNUNfa201X2trTWItck9RVHNDdVNZcEE?oc=5",
+      "source": "SI SAN JUAN",
+      "published_at": "2026-11-02T16:43:00+00:00",
+      "score": 73.37,
+      "corroborating_sources": [
+        "SI SAN JUAN"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6df0eb931f5c3f00",
+      "title": "Dozens of Commonwealth leaders descend on Antigua at time of global political turbulence - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUY2aEQ0dHBqQjhMdzQwUFdLMHJISG90YUxndy1yX05zU0gxNS1TWDZzREdJNC1YallaZ1FQQ0FoY1cwRW84MWVTVE02WVZEV0VwVHNMYVFzUFg3WFlVbVdwUEtrOUdfWnNVVnJxTUVIc1JGYTl2N3FYTGVCSmtEX2F6NGYyendPeXM0aDhhSGplMTUxa2paSWJ0cUw1ajJaOWtaQk13cmdvR0xiUERCMy15OGxnY1lGZGZyYWRWNFkzcVVXUlhWeWxkdlVUSkMteVE1ZGptdTBJUQ?oc=5",
+      "source": "Los Angeles Times",
+      "published_at": "2026-11-02T16:06:07+00:00",
+      "score": 72.64,
+      "corroborating_sources": [
+        "Los Angeles Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b6dec069170f5fc4",
+      "title": "La alta representante de la UE para Política Exterior y el secretario de Estado de Defensa británico coinciden en reforzar la cooperación en defensa frente a Rusia - ABC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHNKVW1GSFFBVzB6dlM1OFBCdGY1a05OTUlGczRwUENLeTRIUDZacm9jczV1c3NEOXotNkNUU1lXNkpFaTFJX01KQmJnWDMtV3M2bkZvVlVxcUZfaFBFeWNNUGtlWTVCQnVibngwb0lJR2w3bTNYN2V1dzl4YnhhTUxIcjVyZ1B3SG44VTRKNGVGWGVIWXNQRE1DYk1JSnlqd1oxeDRrY3U1SlNfbEFyUU1sWQ?oc=5",
+      "source": "ABC",
+      "published_at": "2026-11-02T14:12:46+00:00",
+      "score": 70.49,
+      "corroborating_sources": [
+        "ABC"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3c52093dba8d64ac",
+      "title": "Vientos de fronda para Trump - Política Exterior",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qelcwcnhCbnRrUDhERmFvTkp5Z1VxTG13YWpndDJLanVBcjl6aTBxY2ZYS196a2trUkpEeGtfQ0J5bmlPS2J4aURUUmhNeEFmbFFDUGc0OGl0a05ya0xPZmJtTEtVZ01PcnFILVRWaGd3LXdSUTJkUmM5OA?oc=5",
+      "source": "Política Exterior",
+      "published_at": "2026-11-02T13:51:54+00:00",
+      "score": 70.1,
+      "corroborating_sources": [
+        "Política Exterior"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9df7a08050a46322",
+      "title": "Kremlin afirma que Trump mantendrá su política exterior - Jambalaya News Louisiana",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVWJzMlVaanRfMFRVdk9WWmJLaEh0TXRYbkFCUElPTGl5ZFdFNlBqUldremxIRHZsU2hCb1otclU2bEdqTTh2TnVrRzdEdE9FSmhwLVhOZkR2cXpZRGJIT2RoZ3hWcHlJdlpoeW5kMWVBYUFScHg2ZGM2bVNTY1RMY0pRblpJYWdaWWI5RjBmckZWYl9KMWtqemhkLWNiaTVGM2hxajQwTEQyM2xtMWNac1d5U0QtQTIwX2d3UGZDS2NMMDlqVHlqZ1NNOFNncHBPLXRpR3Zzem56TFd3YlROWlZfaXkzQ05nSURORA?oc=5",
+      "source": "Jambalaya News Louisiana",
+      "published_at": "2026-11-02T13:50:00+00:00",
+      "score": 70.07,
+      "corroborating_sources": [
+        "Jambalaya News Louisiana"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2222c28c6d48010b",
+      "title": "Decenas de líderes de la Commonwealth se reúnen en Antigua en plena turbulencia política global - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2lXZzJncExQenFiTXVPOFlrdkU2ZHJwMVFoYzVMaWY0dWQ0dDBKQklDSDJGSVpCakxEb0ZhSG1KRi1MZXg1Q0dISGFSVXNzVHZ5NjdjUzROSnZlcHdFZ0w0eU4wbHY2QkRQYUJBbldaVUt0X2hoY3NadlBHWE11UFQ5a1JuZV82SW94d3lsWTJpZUZEbUtfY1lqMDJzSHlKdlEzekdjYlJLZnN3aFVMMzY0RUI4elFJenFjXw?oc=5",
       "source": "Audacy",
-      "published_at": "2026-11-02T04:00:00+00:00",
-      "score": 72.74,
+      "published_at": "2026-11-02T13:25:00+00:00",
+      "score": 69.61,
       "corroborating_sources": [
         "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f388b2e43bfe85e3",
+      "title": "Rusia recuerda que Trump seguirá en el poder y marcará política exterior tras elecciones - Globovisión",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN25yTFpwd3hGZ3A1NEJranNkODhNeENYdDFFUUhHNUtuZmlSQmx5MHdDMmRlUmdvVjJGSFNMeS15MTAtcmU5NmRUOXpLWUdBSHVEeW5JWjRnMUxQRmg1bVE1VE9yRVNYWk1XMFZLRGdEcElMb1luejJHTC1HaXR3N2htOWJ3ZTdpU3Jpd0dGZm9HbDJRMlZJQmpBM29GU2E1TW1fRUhCRlNOXzlXd0c1SHRVRnJiLVVsQi1LLUhLOFduMGxGaFY4NVFXeU93em9MZVE?oc=5",
+      "source": "Globovisión",
+      "published_at": "2026-11-02T13:22:04+00:00",
+      "score": 69.56,
+      "corroborating_sources": [
+        "Globovisión"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ae86adce4494797c",
+      "title": "Albanese warns world leaders of growing threat to democracy after Haines attack - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbEtiQmJweFJHQnI5ZTVhVlJGdjRGVXFMMF9Hd2lRMjg5NFh4WTA2eDRLQTNMbk1aRWo4Nm5iZl9XQW9rVXgzdGdnQ3ZZTU9aUzM0ZHI2Y2h1dTlqa1B0cXBLT3l0NF9jNW9fQmVUUS14a2w5cEEwYkd5NW9TaWl4MEpVOHhWYlhlNTQtTHlVeTRyeS1sQmYyLXEwRjJBYUlEV3lpOE5MM3RMQ2NDUkZRZkJRbEY5LWdfWlk3RUlvbGZXbVZWSmo5cE92U0o0VW40N1NBTHk5bw?oc=5",
+      "source": "SMH.com.au",
+      "published_at": "2026-11-02T11:30:00+00:00",
+      "score": 67.58,
+      "corroborating_sources": [
+        "SMH.com.au"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "33f24f0af36e318e",
+      "title": "Elecciones en EU: si republicanos pierden, México sería blanco - Imagen Radio",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFJoSXpkNU1kcXJpeDNZQ2Z2RDdwUzJ4d0NHcXpvMFM4bGJOcVd2STdiUTlVcll0anVGOVV6anpCdTJXZkpoeTRQVWxlUi1iQ3REN3pZOHBnemxqRXRSSUlLMWhqams4X2hGMFIwdkxUVEs5bEtpbUJkZ3NrV01Rck55R0NCTlk0WFNoN3pMNWdoTERuR2RrazFBX0hud9IBowFBVV95cUxNXzN1OE1yMlFCYU9OV2Ywd2JzVFdVN3lCMjdLVTZWYTFLaW4wVGVWRVU1WG9nd0UzTm53SzJSTVlDUzNlenI0ZE84VS02Zks1THdFMWVpZ3hpZzNPWVJaamUxenpFM0I0bUJVblQ4Y0IwMnJvYXpJUVBZaTdUbGY4Q3dnaDJJcGpZcFZxM21SdEpXRHZrUk11eFpmNklvVUhzS21z?oc=5",
+      "source": "Imagen Radio",
+      "published_at": "2026-11-02T17:17:46+00:00",
+      "score": 66.06,
+      "corroborating_sources": [
+        "Imagen Radio"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8e4e88ff5e221b9f",
+      "title": "Columna de Nelson Hadad Heresy : Elecciones en EE.UU. y la política del poder: el retorno de la hegemonía - Opinión - Cooperativa",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNXRJelVjNlM1SVMtLTdtejBpWEZTYm1qT1VJbHVXZG1fVTMxczAzRTZhN09uRDJJR0V4TERsZEVwYjRqcC1nQ21UWWxrSm5BRC1GOG8xREc3MU5Gd0pMUUE1dHM4VXZVZlFXbTZkQTNvNXI3UFdPS1drVXNpUWN0UDFRcW9TR29KOGFiVjJrci15cGo0QjMyNDZrakZBa2pmOHhsTWpHNW1UV3FDUTVCN2g0QjAtOHo1QWNKYkloTVBmZFl2eVFSRFhnR3kyaGpvOWJ1MmZOYnV2b1BYa3cw?oc=5",
+      "source": "Opinión - Cooperativa",
+      "published_at": "2026-11-02T09:52:30+00:00",
+      "score": 65.95,
+      "corroborating_sources": [
+        "Opinión - Cooperativa"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "af3aa2ad5ca1c321",
+      "title": "White supremacy in the modern world: Politics of hate and division - AMUST",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPem56N0xwc2JlRzRoTGwtOFZFdmRtbjhyRnd0M1dEY09yZTQxY0IxWmw4UlZUZW9NVHZOVU9tb3NmV2s1b0d6cXNLSUZKOTNVQ0dFUC1OOEEtOU9VN0cweFo5MjRiVTMtYXdLSHBPalhNODVYMVNPWWJLNDg1d2FzTG1LYU83M2wwdy1fbXFDeFQ3clNrNW5saTVYeGZQbzF3?oc=5",
+      "source": "AMUST",
+      "published_at": "2026-11-02T09:50:20+00:00",
+      "score": 65.91,
+      "corroborating_sources": [
+        "AMUST"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4cc3f10fa543aaf3",
+      "title": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0NGZmtfaVZ5aXBmRmo3bkFQazM3T2ROLVU0dERDbk5xVE8zUnAxUzVOWWVSd0VJVE5UbHJKdEo0NWplbExrYVpmZm5aWk56emppRmZtNHdKa1MxNWxmb1pjY0w0RXdlcUlWcE0zSTZXNXNDdE1LelFWbDJ2Umk4ejZVQUM3QWVMZU1odFVCVDdwY2d5cmZuM1doWndsUl8xbFk3eGk5SldXT2RMWHo1bndlQi0wZnNDNzd5MGVzdG9SQkHSAcgBQVVfeXFMTTZwejhJYlZycVJ1SE9UelNZZFhQTU1tQ2VHSlBwdmRCZk5iOFA1VFFGZkFQTV9oSjRsWmFsVkw3VDl5YmFRa1JyM25nT0hBUWtUSUt5NWVjRVBVMXNLTFEwc2J0LVFpOTNFckhnalNncndMSmttSkN6Z0U1ZzRMRFUtT2hxa3ZVUmQ4ZTFEUmlnMGdpdWpfNUlINzhGZUNHb1B0VUZ2TnVQRGVaSTFOVnRJeVhiVzUyTExDcDlBVjVoV2kyZThhRno?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-02T09:42:05+00:00",
+      "score": 65.77,
+      "corroborating_sources": [
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5eb2a3224c89cad0",
+      "title": "Cucuteño conquista reconocimiento internacional por su trabajo en comunicación política - La Opinión Cúcuta",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0ViS2otZDl2MFg0elNLb21EZnZJaFhwWlF5bk1TaFYzYWUzdmVaV29pNVFVN2h6LTdfeDZQM1lNUldmV05WY3hna0R4WFNtdlRqYTBmaWtySW8tVEhOc045WVJCUlhhbHR5LW1mRlA0ZFptZDdYNW1MWkEySWJaZHJ4bERSMGdRekVTeEp6WF85QmZXTjFSSkVUSDFJSkFlOVlFTHNjWjg4UWhiTWR3dFFZYmZJQQ?oc=5",
+      "source": "La Opinión Cúcuta",
+      "published_at": "2026-11-02T09:01:02+00:00",
+      "score": 65.11,
+      "corroborating_sources": [
+        "La Opinión Cúcuta"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "59419a328ed8cc08",
+      "title": "Cristina Kirchner no descartó competir por la Presidencia en 2027 - Radio Facundo Quiroga",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnRNVHplOWxJdUtrUWVFM2hQMWNCZURiaHE3VkFOZmZxcXV6amJpdHNwQW9fVUdmczRMb2xrZU5hOEJxU3FuVV9iM3IydGhrQlcwUkpRNWg1eVFHMmtyTUIwNHFDckw5Zm5SaWZPdlY0Q0Z1X2FQOWN3UXA2OXZ5UjhkZ2JoVFZzR3hGYUlUNWRpd1dPbFMxSw?oc=5",
+      "source": "Radio Facundo Quiroga",
+      "published_at": "2026-11-02T16:16:16+00:00",
+      "score": 64.84,
+      "corroborating_sources": [
+        "Radio Facundo Quiroga"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "890896a471568990",
+      "title": "La UE y el Reino Unido buscan fórmulas para estrechar su cooperación tras el \"trauma\" del Brexit - El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1XWjRLOGdWZV9nbUh5UGZJRlZtM0NXSHJhcDJmZXR2Mi1KS0cyTnNwVndmQ2hROXd0V2FQeXl0RWVxTlI2b3ZtQkFna2hqX3pPdU5Ob1VYSzdZU1FUT0d4b2RNUHZRU21VSERZbkdzZU10UVNGaXRGX1Vkb0RkRlF2WmJZZnE1eVlKdUJWTGotYmdXLWdXZ1BLUm03NHk2LU1ENXJZcm80VlZpNXZWcXNaN3owVWx3ZWdSQ9IBvAFBVV95cUxPVFVraWxvZTYycXVHcEFGWHZiSjZ1T3c0WXdta25BUTRPWkM1YUxEbExYLXZsZ3VESXB5eExVWjFsTW1OQjZOakhRYlVsZGkxNTNEeU9JckNaS3owY3lDYzBlSzJkZmhpOE14LWczdzZ1bGFYOWJlT3VteXdrSEllWUdvR2tSVDU2NlNZaXEwZklENzNGR2h6YTRpeW9lNFBOUmpYLVFUYkRFSFU0bU1zVml2NVFIdUE3TkVZZg?oc=5",
+      "source": "El Periódico",
+      "published_at": "2026-11-02T15:40:17+00:00",
+      "score": 64.14,
+      "corroborating_sources": [
+        "El Periódico"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6a93485837505332",
+      "title": "Cristina Kirchner quiere ir a elecciones y anticipa una derrota de Trump - Revista Fortuna",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1JxWWNWRHF3TmktRlFsUjE1YlJDclI0bE5UZ0Jtc3h6N2dPNGdfRXJ5U3BIMHJfRDNlbnFBUVNYWDRGcFVjRkhkWE9vTV8zUW9fOFByY3k4SzFMSmk1bzk1Rk5QS25jS0tlX21nbWUwYk04YnpEVnpiS1cxQ1JQU1dHMGJyc2xad3RXQk1rRTlDRGpsNmM4X3ZlS05Kc3ZiSTZoUzlBOGUzdW9BNy1OTVM1aUY?oc=5",
+      "source": "Revista Fortuna",
+      "published_at": "2026-11-02T15:34:28+00:00",
+      "score": 64.03,
+      "corroborating_sources": [
+        "Revista Fortuna"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2b52eac2faa321e6",
+      "title": "Rodrigo Paz en Madrid para la Cumbre Iberoamericana - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZERHU1d5X0hWSDJXU25rSmVkZG45Ny1IcEtxcldsOVhMOWpka1ZtWTFXUktKeUFldGxEYlFXT1U3UHRFanlHLU95NUx6WXM0VzFNSFZyNG5BY0xlQ044VVNQOG94YzNueVV3OTlmUXRzWEVKcEpPemxkT0JwMXhfN1ZVb0NUVVlPQjZlbFdPUFBQMm1qdHc?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-02T15:33:43+00:00",
+      "score": 64.02,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3d75004c8832b237",
+      "title": "Tucker Carlson Claims Netanyahu Is Pushing Trump Towards Nuclear Strike on Iran Within Days, Warns of World War 3 - International Business Times UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEt1MkdudEVTUGN3SGVyUkdIZm45MzdZLTYwS215d2J6b1h4dGduMklqSFdZVlZTdldiSG1oUjNfVXVOaGJkZTdUOFhUaUhLM1hSSGttV2E1SGFEdDhjckZRNmRDU2Vxek5HMi1XUVNUdmlfZUoybmhsdkFkZHBfRTh4aFpNLW9ZVnUtWA?oc=5",
+      "source": "International Business Times UK",
+      "published_at": "2026-11-02T07:51:00+00:00",
+      "score": 64.01,
+      "corroborating_sources": [
+        "International Business Times UK"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +296,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3ROVGhRak05ak5aN3R4THhGeTRtSzljZklMMkJjQThDSGk4V3BQV3BpdXVsYVMzY0J3Zi1COG5SZVg5cGhyUjZoMW4zS1pjUVVXY1dhbWdZdXdEdFhYV0pnSmR2S0RJaHhTa0RwNHpDMTM5N1E4RkhqVjdYUjdXcjlZYmZYRjRsWFF1MlAyZGNKd0V3TEJYQl9KYjVIWFUtdXYtd25QVzY?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-11-01T19:16:36+00:00",
-      "score": 71.64,
+      "score": 62.12,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5106d4262b14ddfc",
+      "title": "Calaveritas internacionales - Excélsior",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aRENXV3JscEZIZ0JLRURoWGNEREJsQi1TQXhkYzIwRl94LThqQTRHUUh5Mk0tOWxGYWp3eUpTdUktajc5OG96d3hneC16UlpSVnVXRFhRMHZoamRud05xSk9LX3Y1aXlRTW1oU0ZXUUFGS2xJYmt1YU9n0gF_QVVfeXFMTmdCYk5LT1dCRmJNeEx5WU1GSmgyODJocHpvdVhTdTItWjM3U0hDUENlQUxuSFNWYm5pZmVvNHZ0TlgtRVhWMXRPUy13SWl0U01wTkV5eXVEbmR6dTdGb1ZnLXBoSUIyQk1lbS1BTGVHVEplZ2VidmlSOWFJZE9YTQ?oc=5",
+      "source": "Excélsior",
+      "published_at": "2026-11-02T12:00:00+00:00",
+      "score": 60.1,
+      "corroborating_sources": [
+        "Excélsior"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +326,69 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaXFreUxYUWp1TkZNQ01lT211Ri1UZU9lV1dkc2kyUVF0MEhrWXEtTXZKYmRjVUxQU0RraEVhUTdJcjBUYU9TcHZnem12aXBSUzBpbXBTd3VhanZrV2RScTI2ek5ncVVudnJ2YXYxc1ZVNWRWSFBkZThUZ3BNTWRDakdnNFNtQjdwTVBIZWxaYmtmTi1BMlIxTHZSbmJRTWZIVWFsSVdrM0tqdlBIOGpDU0pxMmw?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-01T22:53:13+00:00",
-      "score": 70.14,
+      "score": 59.62,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1c71cd4335f6e743",
+      "title": "Trump ya tocó piso en niveles de popularidad: expertos - Milenio",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXpjNThyaHQ4dmtPalJWVmNzM0xpZi01U1FaRWM0YjRrSUE2WGVvSXJINkhra2hjOUNTUF9PcUNENWdDNXRLQXg1aDBCWko1bVhVM21EWTh0enowb2lLSjlaRHRua1BjOUx5T3dPMVVUREd0LVZtLWd2dFgxRWxySVZXNTRwWTNFOU84NTlmSDlpWjFuamFv0gGXAUFVX3lxTE5NRkxZUEp6R0xmeW1RR2ZKenh2Rk9wQUhYY0M2WDhucmMyMUZKYUJ4N3FQX0lmSmlvamo1czhtM0NiRW9PQ2xoUVlpS3ppU3QyeVluZHM0Uks5U0tULWprODJuY0ZTYXA5NkxWbTdzQy1qXzBxYWFNZElpTFJDcWozWWdOd29QWm9EY0h3ZHlyWC0tYmlFUWc?oc=5",
+      "source": "Milenio",
+      "published_at": "2026-11-02T09:47:54+00:00",
+      "score": 57.87,
+      "corroborating_sources": [
+        "Milenio"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f6a3ca0575f40251",
+      "title": "Como la rémora, pegado al tiburón. - Agencia Comunas",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02ZlVRTkREaGRHZnJRQ0xHZkxVOVNaU05ZaEhjdkdtaFliOGJDUXktMjFwQ1VpWnlhRTg4Nl9aOHZ2dU4zQ3FhSV8wdTNzamxZRkpmWUw5WDd1aW9wZnQ1M3dWYUcta2QyLXJpZGJxVUI?oc=5",
+      "source": "Agencia Comunas",
+      "published_at": "2026-11-02T07:35:52+00:00",
+      "score": 55.77,
+      "corroborating_sources": [
+        "Agencia Comunas"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c48295147a2c3381",
+      "title": "Esquerda quer regulação das redes e mobilização digital permanente após eleição de Lula - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0NYZ0pZcnFKRlRlaG1kUU5fRlJEUVpmYVFqSlJxOFBNa0tsZTRmcmdTTENxM0daOFJiZG5uTVhVY29IQ3J4R0EzUG9sa3puZlBNZlFENFlLNGIxRll2NVZ3U0JYenNQVzV3MFFSXy1fYUdwMnotMHl6N29hQWoyQUMxWlZWdExxMHZXbE5YaGEtbGNWdy01VUV3TUpnTDlvODJhSDc4d2VHTmhGSWUtMEkzVWZqSG1hakdRcnpEaEZOb2pQM2JidnpJZU1Ea1VNVWpV?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-01T15:00:00+00:00",
+      "score": 54.47,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1ded3be3d14c7906",
+      "title": "La UCLM busca atraer talento internacional y llevar la alianza europea Colours a aulas y empresas - Lanza Digital",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMEdnb1V2SFJmTndaYVFpZGZqQVNya0NTc1FWdlZxQTh3em96b1hNTldKVmtjNTg4UFM5VHpoSGdXYkoyX1R6VTZrWl9qZmxQWTRJeUhFUktaeVdnR2xEbWNwN3c1ZlB6dU84Y19ZbTBPWGVWc2dFWDY2Zm1yNDB2SmFrc3pWTFFqaUhyRTR1Wm9zbzhUOERVNVd2N2JKTG9MbGJXRWRCalpiZ1k1cGpJR1lnTEpfWEc4LXVEQ0dfRERYV2FkU1MyRHl4eGNUc2Nta21GRmtkcm5VLUZESmFvb0lHeTRqZGljVXhLN9IB8gFBVV95cUxOQTVzekQ3RkhqNGNBSm9jTDhQWmpGY3pjOVcyQ2VON0REd1RDdGZ6SFpqLVNJX21uT1NzM2wxX1Rabm01LU1FTlg5OHhSUFJDeS1Ub05GcEh0amhuSDJ3Rlk2dVFqTTkyaEFmQXFUQnpRR2lsMDBmUHVTZVp4OUlaMEVCZmV5TFVianZYbnhZeHBCeXhWQWFRazZNZGwtVFdDMklZTDZCVkJ0dDdwZ2hHdzVYeUp2azhzZU1RSEFKcEhWRThQTDdfbENYQlBjSFdpdmhiQmcwaTZUQk9yZUcxd1dtNDFDU3B4LVZLYzVHaVUydw?oc=5",
+      "source": "Lanza Digital",
+      "published_at": "2026-11-02T06:00:00+00:00",
+      "score": 54.33,
+      "corroborating_sources": [
+        "Lanza Digital"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFR3eFNiVUtIWHlpQkhmSGdLamtaTVp2bXhCajlLSkxjOEtjZmxab2lUSTRmOVloM25HYjdEWHR3el90X19CT1FMeEI4VlJmMC1ja0t5dk1aZ1h3RU53eVoyV1VXcmtZQl80S3VFV1lKMlFkOGozRWZtRkxkTWM4ek9tdzZ3NlEwQjNlUllhMm5GZw?oc=5",
       "source": "Diario La Hora",
       "published_at": "2026-11-02T05:06:00+00:00",
-      "score": 66.05,
+      "score": 53.54,
       "corroborating_sources": [
         "Diario La Hora"
       ],
@@ -71,9 +416,24 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0R4dnZmM0lORXpGcWI0TjdYNXJBQzdaV2hTYUdSOHFrbWJEdjRHcFRrVGI0cE1hQ2pCal9oWEI5VklWejdnMnpLZUFQTmdPZmZLaFNKOW1ULXVTaDJKTzBrZXFfeTBManVCWExUZHVOY3dNdjVrNkZYc0tPOWdjSE5OUWNldXRrT2ExN250TWRqR09VWExybGxRbV9JTDNiMGhtNUdaV0tkdjBqU1N6cG82akVxNWM4NUFwSW1ZbnJvUWhRWXhiY1NB?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-02T01:04:00+00:00",
-      "score": 64.43,
+      "score": 53.25,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ed7f38df94f1d207",
+      "title": "Boulos critica Tarcísio por resposta ao aumento do ICMS: ‘Hipocrisia e oportunismo político’ - Jovem Pan",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcm85TG1XOVdzX2dOOXlaWGV5WEFLZHZiY1FsUDlRc05DaXcwYVl6TnBnNURvZURVNGFMOUNSbDI4cS1xX1V3UmZvRTk0QWZoLVFKY1BubWs1SVR5bTRZY3UxUWJGRHE2T3lHTnhTMUVoeHlSSFgxSUwwYV9oazhtTTZrQ3FTbURuRGRnRkY2WEgydjJvQklzSzRzMVRaN25DTlNiTXd0TUNOUlpMR013blpfSkFXczNaaEFkWWhKTGI?oc=5",
+      "source": "Jovem Pan",
+      "published_at": "2026-11-01T23:05:02+00:00",
+      "score": 51.76,
+      "corroborating_sources": [
+        "Jovem Pan"
       ],
       "signals": {
         "source_count": 1,
@@ -86,369 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjJXd3M3a21aM0J6b3dEVzRoSlFmdGhoTDZyLUZCSFFHU1NaR3BNU1czbld1SmxvbzBVblRiRWNNbHFMZlFRaGpkdXdBODdDMk9uWGNuRUNLdjdtQTRibnRyWE1JblluUFpoNkxOdU5KRlQxZWNyQm9TZ2NRVS1ZUTl0N3MwVlpNR3Rya0o4RlU?oc=5",
       "source": "The Japan Times",
       "published_at": "2026-11-02T02:28:00+00:00",
-      "score": 62.98,
+      "score": 51.35,
       "corroborating_sources": [
         "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d194030da63e6efb",
-      "title": "Os principais desafios de Lula 4 na política externa; especialistas opinam - GZH",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTERDd2taTHVKb0NycHJLZVcxdmFuZW9uTng4OWFnV0hDMWhMUm43SUhTLUZudmtEZDlrbWtOTGt5TXNuREQ1bGp5bU9pbWh6aDBxVGZxOHFlTFNXWkdLSFpRMHd0NjA2ZzNna0duc1pacHg0MGFMSngxMTl3dkV5Q0FEYW05SURBblQwN0Z5dE5Gd2dROFVGRnVZVlNFUkxtUjB0NUpsX3lqMnFEenNucFpMX1lZNTdZVXhSbmZlNUJqOC1sWmhMZy1nNm0tQ0dfV1dlMHFtWDh4dmowOFNkRUQ4cFhrTl9RLTFlUzRUZUZjc3ZWREtWRjFFaUYwQXNNblNSMWowUTY?oc=5",
-      "source": "GZH",
-      "published_at": "2026-11-01T18:31:45+00:00",
-      "score": 62.96,
-      "corroborating_sources": [
-        "GZH"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3cf66345771d5966",
-      "title": "Lula retoma viagens internacionais com COP31, Mercosul e G20 - TV Sim Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRVpfMzZLX0Rvd3lsQ2ktYnNNdnEzWVlKZ1prVEZ3alNGazBIMGtUdXRYcnpnZWNkUm1rRUo4VWNJNU10VmtaV1JrTTRYY1NkVjl0REVZTGJVdENBcm5tTmF0aW9tb1J2Y1UxM0RKTDByalZod1RRczQ3eVBMdzAyNEtZR1QycEVvNWptTDh6TXRET1pWMXJONlFMRVJndTNobWJPVWpoRkhyZVJ5ZG42V2o2eW1lQQ?oc=5",
-      "source": "TV Sim Brasil",
-      "published_at": "2026-11-02T00:23:00+00:00",
-      "score": 60.7,
-      "corroborating_sources": [
-        "TV Sim Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bc7f0da38bbb03c9",
-      "title": "LEANDRO MORGENFELD: “MILEI VA A QUEDAR CON UNA ORFANDAD INTERNACIONAL MUY FUERTE” - Radio Provincia",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QYjI0eWNkeDlmb0NjTkItTXpzeXgyUzRSRFZ6dkZlQVM5NWZCQnVRMElkN2Q3U1hyVElPUDZHT3Rtd0ljdGJHN1luMUZodFRSaFZES3FtMmN5T0FKQTQ2bnY5bURRUQ?oc=5",
-      "source": "Radio Provincia",
-      "published_at": "2026-11-01T23:27:24+00:00",
-      "score": 59.73,
-      "corroborating_sources": [
-        "Radio Provincia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "02c0f94e99b69612",
-      "title": "Noticias de Israel y del mundo judío en español - Aurora Israel",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUd1ZnRtTE5zVHNHUDlIQlVUMGJUZ3lDOWl1anB6X3JrV0F1dDhuYkhOdWVaOVp1akRiR0VxUmE5a01fQ3ZKSVNRRmdIdHB3ZzFJWHVLZEV3c2dURlZzWHBiazRCdzRKY2xVNzhQbE9TOEZOdkpNdDZKUzdCQlJTWi1lWHZIc0dpUmlGeFVzME5rUQ?oc=5",
-      "source": "Aurora Israel",
-      "published_at": "2026-11-01T22:11:43+00:00",
-      "score": 58.44,
-      "corroborating_sources": [
-        "Aurora Israel"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "954d09797f813a39",
-      "title": "'No compromise': Poland's top court row between government and president deepens - TVP World",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1dQZDFIVmh0aldvUGVmZzl1TXZienZXQnFjTGd1amdFTnhIeTN3eVRpR3lkLUhyRFFBVjBUd1BXMVVOTTRuYVBqZ0JDWkVhLWZQZHlGY1hNazlINy1sTzRSWUNQSGE1RFg0d0ZpdnF6cDRKaDh1MmFoTktBZlUxU180dFdEU3FiUXFoM21Ea2hWMkJ3WVNkT3NDbFlHcTNudkZybnNFQTFYbzg?oc=5",
-      "source": "TVP World",
-      "published_at": "2026-10-31T20:37:00+00:00",
-      "score": 56.15,
-      "corroborating_sources": [
-        "TVP World"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "01ebc7cfe891a80a",
-      "title": "Filha de brasileira no Texas pede desculpas após criticar Charlie Kirk - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUJMU3NndlBQRGh5Q2xGbTJHRGV2eEdrTDVmbnlfQjk4V3plazlkNXFydVUzUXE5ZURZclBjUW5QQ2F5TXRNRXJGZGNLTlZlLVNBQjlMeTBfUFJXWEFlRWN1VWwyNUNlVU1WU1hsSGZ4RjhhYktGdHpYcndrSnNFNnlyemtvZEFNRnhLSWppVUFGMHdSVnpGNEZQbHliYzVtMTRtbktCRzNoZw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-01T16:15:53+00:00",
-      "score": 55.98,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "98f0a09972e6bf68",
-      "title": "La sinceridad no es una política exterior - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1hwUVVna1kydzFkZGJDd0FuMXc0a2tjR1k2NzU5MG5hTDZyd3kyNFdNTXl4SGphV1dmMTMwSkVrSzF4R1JLSU1WWXU5MXV5SnlKYm9lWGdsa2pLQTE0aDVJMGpzVmJSOTNSaVc0cnpTX01ad3RJNEcxUmZJNVpZTHJGZFMxTk9LcEppOHpB0gGoAUFVX3lxTE8wOGN5LXVzVUtnaThSZjJQRzRTV3kyWFI2LS1CTXJwWWtKNjN3aGNpbzNGYlhHVk95aHhLYlgyYV8xSDZlejdTWUZMWmVXeEpfUUpPdkdPUXpEUGRQLTd1RnVRTHN4WTlxQXpyX3h5R000V1dZNUFFX1B6RWdEMFczQmY3a0V4ZV9DdlJnVHNSUHdZMzRkQVpRcGptcmJkczVsbWxJZWp3eg?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-11-01T08:38:00+00:00",
-      "score": 55.15,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2992213652dba44a",
-      "title": "Geopolitical scenario, genocide & Gaza - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXF2amVHQVhDTEQ3dUJIeEFXYm9zVkhHWVUzZ3ZUanRPcV9VeEtuUC0tVDRieU5QN2xvQ01lY1JvM1dHTzBIdklGd3hMaTNobGowTXVTM0FaT3NuOW5yS2V3UC15Q2lWUmotYjVxX2F3Y1U0OEFiNllIYkx3ZkhTSkhjdkRzd1VtbXc?oc=5",
-      "source": "The Financial Express",
-      "published_at": "2026-11-01T18:34:26+00:00",
-      "score": 55.0,
-      "corroborating_sources": [
-        "The Financial Express"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "98ec72e28c9bcff8",
-      "title": "Após debochar da morte de Kirk, filha de brasileira pede desculpa - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVS05S0FldWJWZVctZ3VKcGcwVUxSa3BPbHhQM09mWUEyc28tUFpTOTlEY1RBc2VGTFUzOWRFbGc3d1l1Rnh2QU9tWmpHMXFRemY4WTR4U3dPNlRMSjJxVnJBcTZWRk1JNUZydW9WaWN4cVN2Wk55aEZMSExpNGNIeS1FXzBmdXhBbDZGQkRGN2c5Q2l2RFQ3OVJRWlF6SWRtNjlBSEZXOHFmQXFpMUlWRWt5TFlmSnQ30gHAAUFVX3lxTE1wbWxsdF9uNzUzaktrY2tVMmRmRC1nUEpoa1htOG1weDd6RHNNUl9lT0JMMXBqcVJYcUc2WV84b2ViaWN6TU4yRWU1cHBXS1VKeG1oR2hZVm11b2N4d3hyOWhtMVQzVE1IVDBuNmxsa0FYZjUtOENNMUFIN2NYVzZBZVpiVzd6RFBjWk8zUk85VktUR2g2T1U2R2xlTWhQcVcxeFJKRjRtMVZZZ3YtVHBHdUhiT2VtRV8zcFd3WFpwVQ?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-11-01T14:41:00+00:00",
-      "score": 51.67,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e67e2fe8d09bbb2b",
-      "title": "Hackers viram fontes e desafiam práticas do jornalismo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjRtUEJhV2s2ZEtNZkl4ODV2MEctd2xKbU5BbjlBN21SUnpMTHJWN1JmZEpTN19fUWhCNGNseTB6MDVINDhDT2c0ZzZCODUtcWNoQ2ZYMGVZZkx3QVF4bGJ1Z2M1SFNrV0gxcDV3aHR0a2ZmZEl1V1FPbUYtQnpwTjdET0VlaGpkZWRDUGQtOUR3elZEZUZvWVVFTQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-01T09:06:27+00:00",
-      "score": 50.48,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4636144762d3a6e2",
-      "title": "La Cumbre de Cancilleres del G20 en Atlanta concluyó sus deliberaciones sin un documento unificado - Diario El Argentino",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa0lQTXVjOV9yZWM1czdHTjdJS1VQWjNjY3c2ZU1Lb2U5alB6UF9mbVdzXzR5eERSTGIxbUJqRnRPNFZ5R3hVbWZPTVNpRnNYMmtfMU5vOHJ4M3YxYkRPanBNVTBlTXM0YVA0blU0Q0ttRHAwcHY0UHpQdnVKZU9VbDBUTVlMT0ptVXJ5SHNDVFJTUGZZTHg2T2RVcXdHeHhwaUgxYzdqV05uWWNaY0xENTNFX2wzcEVQSWNkbVotTUJHcExvSTJYWTdTNWhOWGd4cWpZTGZKXzbSAdIBQVVfeXFMTUJiMEotMjRtb0dhT1NmNS1zS0xsWS1UeHlCLXBrYUxxX3hHdWc1aXNSaUxNLUs5MUtPZGtXcTBoZVVpNnJPLWRMbzk1YTJ4UWhJcXlCdVkzS21Mcm9nTEVtTWlVaUlwSjdKdGFNZHRLb3IwZDJ5Z0FFZGxQcW5LZ0VHQUdDZWNicUdkeUR5T0lPYzZ0ajFpcV9jOEJ3aDhTRFpZT0VzT1JEamFRa25fWk80ZkM3ekRORXFnY2RnYjZNOWJtdXJiR2I1eVFuR3ZvQVZB?oc=5",
-      "source": "Diario El Argentino",
-      "published_at": "2026-11-01T13:00:00+00:00",
-      "score": 50.34,
-      "corroborating_sources": [
-        "Diario El Argentino"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c8b63ef62e18ba25",
-      "title": "Trump diz que Flávio pode ficar nos EUA “quanto tempo quiser” - Pleno.News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTnR1VTRTc1dIenI2enI5UzI4bWN0My10ZTFHaldmbWR0VExjUWh1Tm1uVnJ6dWljMV9xU2R2QmRVV0ZjczhzYzUxQ0l3SnlGVU9BRklxU29jc0tWUXExaVYyX2gxN2tsODVla1NfQ1ZvcXZiYjBuNjhrU2pxUWRnQVhPWEpNZWFvemoyXzhXQ2FCUXZXRWR0TXk3elBBNnY3QXd6SE5ZUmU0RVpGT3JGcGFR0gG6AUFVX3lxTFBvMlJVOWhycXJHMVVNaUV6eWl2Z05BYVdnLXJDZG9zY05zMGYxMVlTNzB6cDA3M3ZQOXpkSUtPT1VTQzZ4MEVlZ2U5X1Fyam1EYkpjSmNjbHFrdTRaYmFPVU4wYnJFbGtSSWQyRXJfQWdRWlNKbjctaExfX0I2ZmkxOUlleV9FTGZkcWVxZTZ6SHBnY0Y1YVJTT3E2RE5RWlptLTZ6NlBramhwVGRpSmJLVjdHX0VjNmdrZw?oc=5",
-      "source": "Pleno.News",
-      "published_at": "2026-11-01T12:05:00+00:00",
-      "score": 49.64,
-      "corroborating_sources": [
-        "Pleno.News"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "045d9bd7049cc12e",
-      "title": "Israel después de las elecciones: la disputa por el gobierno y los límites de un cambio político - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXl1dGR5UzVEcmRwanM3VzdKYzd5X1Q4QVN5RU5mb1dnMGhQWG00Zk9ONGNISHBBUHlKOXVJTEhpOXBydGEzdXZXVzdMb1RYS3lmVG8yRGttQ3FfcERBdHRqOEdlZXA4SlJSbzl6MVdDQjRyUnRnMF9YZXVTOGhweUREOGJmcnI1R3QwRVFZOWZCTncxZVRqbVN4OU54Y3pCZm15ZGJTU0pQTjZ1dE1BV3NaUUpGRnh3X19EQ2trT2hGTVAyS0lEV2toQQ?oc=5",
-      "source": "Universidad de Chile",
-      "published_at": "2026-11-01T11:56:33+00:00",
-      "score": 49.53,
-      "corroborating_sources": [
-        "Universidad de Chile"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4257be90acd5b743",
-      "title": "Rodrigo Pacheco, presidente do Senado, anuncia data para deixar a política - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmZHVlNQcV9neDlkZHoyTHZnbS04RWRQREpoWFJjalNqZEV3cUt1ZTZUZld3dU1pdk5CZFQySjVZVjB3RWNnSlN4dU5KSFBqNUpQTUFfQ1lGc2pLZVRxczZnSzVXclVNM2dYM3J6N2VuRlFRZVk4RUpWamtfMlFjeXVVVDQ4dmprNDBxckFPU1RlVkVSYkgyNmV4WjJoMURVZG9FRXF3X29kT0VfNHhIdTJqSHNpeXR1ajhMZG95dXp5dFdWOFVfQnBRdkVfRERTTkhXelhyd1RkZVhRWnYzS3I4N2ZkOTNIMmU00gHwAUFVX3lxTFBFZWNPeHpiVXdJMzZiT1luWWhJNTY5c1QwT05yOHZwRC1sOXE3RDVoQUFJc1R3Y3hfbW9ROUNNdEtuam00VWNBcHJ5QlJjRGVtVHZrOHFyRXY3NjZQdU9EaXp0a1dSWHZ6dXBkV2xoNHh6NXFnOFhlMHVoekJzaGpKUmVvVXpLOTBxdTBDY0hEcUdGNWtTMTNvZFlSMkl6ZlVMd3JkSWYtWTlQMXdSYlZKNzM2VkF3S2ZrM0tqdm5WZzJ6MWNBamk0Z2hrN3FpUGNMaTBpOUxhS25hUW5Hc0ktTnBkNkQ1Wkotd0JaZ2Rnbg?oc=5",
-      "source": "Estadão",
-      "published_at": "2024-05-08T07:00:00+00:00",
-      "score": 49.48,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9e99d9bc2dc749ff",
-      "title": "La inminencia de una guerra de exterminio contra Irán - Política Obrera",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3F3NFB4TTF3M2o2SlU3T0NTc0pnbWNCOUhfSXQwSGlfMDBieVZVSUg3OWI1MldjNWp0Nk9Pc2Njd1o0NWlSTjBCNlpLUml0SkhXeVprbDh6ZU4tZlVZMjRkOWdtTTFkamJXaVBPZUNaRVp2N0xqOGFzSmNRbGdyN0xSUEdsRHQ5d1VkMFl4RQ?oc=5",
-      "source": "Política Obrera",
-      "published_at": "2026-10-31T00:00:00+00:00",
-      "score": 48.45,
-      "corroborating_sources": [
-        "Política Obrera"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5b86aa020294bc67",
-      "title": "O que está acontecendo na Polônia? Crise política leva polícia ao Tribunal Constitucional e presidente interrompe viagem - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2Vkbk51VXloeXpvYUVMbjBnc043WnZKTTI5RGl2ZzB4VlBOYlJHd2F0TlVKQUM2a3AwMkwwWlNNZ0xva0Z6YWVoeUdWMWVFeWJiSmI3MXRqTHZUMUphNGFEdEY4ZTZ1b0hDMGFYaWxPYVltU3dzdlFac3hLM2lzQlJOaEJqdnFFYmozWmlGQjNYRFlXRGRvc2dmSDE5ZkxtTUxJYTJwMERxT3FUU0FmY2YweFBqM3JLTHc?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-10-30T23:22:00+00:00",
-      "score": 48.27,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3a9f1ee18cb0a546",
-      "title": "“Não contrate esquerdista”: homem é alvo do MPT por discriminação política - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaU1JdjdfREFfNkpGVXFKckdveG9yQ1M2OXR5d2ZaVmh1NFF5Nm1XRXAwQ0FMRk5zenY4eFZCd3lpUE5oZDUwa2d2Z3B0dkN2Ny1raUNfajRJM2RMWXdmbWNydEZxM1FSaWhubjFWbXJCOWRvS1ZDdEJnVWdUOTNub2lCS2JBU1ZSVzhCc1NEZHo4NTNEZFBfRkFLVTRkaE5wSUo4aXZSaUJYM2V4?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-31T13:00:00+00:00",
-      "score": 47.78,
-      "corroborating_sources": [
-        "Metrópoles"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7c3781fb76f7ea25",
-      "title": "Faz o L: vitória de Lula inspira movimentos internacionais de resistência à extrema direita - Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHE3NWxkdmVtdGs4bXJFaHFPWmg2NUItTVZPNDFvWHI0OVNWTGtqRFJ5bU55UnM0UURwTUdENms1NW5aWnVPUGlERElhZFVFOF9KRWNXdG9sZzhtQ0dwdno4elVhcHRabGlKTDc0YjQ0NHREMUdLUVJiRF9rX1YzeDJzX1ZhbzVsaVlBS29iam8wWUJsOHo1eEttZ2Y4VWFVYnFoRGUtYVF6bUs0YUFMeTRfdUVUSnJkSTVPOHNKdmI?oc=5",
-      "source": "Brasil 247",
-      "published_at": "2026-11-01T08:49:40+00:00",
-      "score": 47.29,
-      "corroborating_sources": [
-        "Brasil 247"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b76935a51281dbec",
-      "title": "When Effect Becomes Cause: Policy Feedback and Political Change | World Politics - Cambridge University Press & Assessment",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDhMZjJfbXM2eDBtT09WeUJQUmxzbzJXdFlXWmlucVI2Ti1HRVBJc3ZHNkNZY3dvd0NpclRSYlExT3NLb0U1b24yaWhEekFrSFVfYnhHbTJpYmpXQWYwX2lXdExDbXFndXBlSGtHZ1lfb292WEM0dWFsWnJkSGtCWVRDeEFUdFFKR1lKNENHSzFVT0hWTkUtTFJKZkJwZFduQV9qQkZDa2xtZ3VEZGVfWXkzUHAtZXFHSmg0NEFQNmR0UWZWUGJUX2pLMHpZcHl3WVF3TlRWMmNUTmJoS3diSmlHbkJ0QVk5Wnh1RnpEZw?oc=5",
-      "source": "Cambridge University Press & Assessment",
-      "published_at": "2016-09-10T06:17:41+00:00",
-      "score": 46.48,
-      "corroborating_sources": [
-        "Cambridge University Press & Assessment"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5b0dcb90835427d5",
-      "title": "A quatro dias das eleições, projeção indica risco de republicanos perderem Câmara e Senado nos EUA - Transmissão Política",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1dheHNwS1VVcWVrekpNdFFhdFJJNW14S2k2eGZFV3FYLTRYUFVJSzNXS1RhbW5mdzd1bDIzaXd2UmxrRmxOemJZYTlkTFhhcE9jQkhJb2F4bUMwM0p4YlNfMmZmZ3dtdmFJbUlrTkt5a0hyVHFvZ1NhbUZzREZTVVpzeEVGRU9zV2J0STc3SEpDRWFBYXliMzdyT2J5R082OEtvZ3JTWktCRGRpMklYXzAxbUdod2gy?oc=5",
-      "source": "Transmissão Política",
-      "published_at": "2026-10-30T13:52:00+00:00",
-      "score": 46.0,
-      "corroborating_sources": [
-        "Transmissão Política"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fd0ff3c0083bdec6",
-      "title": "Aleix Sarri: \"Catalunya tiene que decidir si quiere ser un Estado europeo o una extremidad española\" - El Nacional.cat",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGtENEpuSHFkRVpVRXFYdzBOdzhUeXp2aGlKRW1tbG5nQTd0SG5zMGZPekJ5MGRueDl3ZkphR211LTdDZDNIeVczam16ZUh3RmI3eEQyZ2k1aUc1TEdNWlJZQXA4R3pPOFcwMTAxZWN0VGpGcGZvVmtoUzJuLU5sZVVxV0paUzFBY0tMLXN0d1ZSQ2ZZTjVYYURpVWg0VmpINXRIQy1lb3JDMXlZQmljUm9MOHRvSE5FMnAzZVItQmc0V3pvY0M3aUMxdWttbUpUN1BZWHBtNA?oc=5",
-      "source": "El Nacional.cat",
-      "published_at": "2026-11-01T04:30:00+00:00",
-      "score": 44.48,
-      "corroborating_sources": [
-        "El Nacional.cat"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "50e2dd4a7a58a7c7",
-      "title": "La soledad de Javier Milei: derrumbe en la economía, fracturas en su armado político y traspiés en el ámbito internacional - C5N",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnJHYkJnT01DSVdQMXNGTmktdjYweTVHRVhnOFZocndQYXBZV01mT3ZaNzdxVG5NMzU2TkZJV3F6MzRlb3pVbnhSY2RlaXc3TW9BNTVQT0Y3Q052bnRvamFVbThpRTdJSExZZTJtTEhQbUxMd0F2NHpTMW5GLTZEa2lmUEN3SzRPdHpmQk5SdWZfUTJ3a0tSMUpUWHFXWFBLU2VmVk4yUEhOd1U5d3dnSHRGTC1JWlRSbTdZQ2ZRZGtpdDJxNktfeUdGajNaelBXaUpkb212cWxsczBkVEHSAeMBQVVfeXFMTmp2RWRSYjVKbk1TdF9kRE9hVUJua2V4OFBLbGlnRzJvcDVzTFlWZi1FUmFjcEJqTDNDcnZXLTVrVzc3endEV090b01EZHRLSExvLWFjYl9oT01FdHNLcWh6VzlMTDJrbWZtSzdJMzIxUmZjQzB6cVE5TmRiQnNQMlA5dVBkWXRDYnh0VTZDVWVobERCZFBlU0k1cFN2dFVld1U5Rndmd2d1NUl5MXYwUnpBWWZPUG92XzhTUzQwQUEyQmZyRk1xcGRqRzE1SjNjamQyYmVVbVU2enRoR05ieE5MSUU?oc=5",
-      "source": "C5N",
-      "published_at": "2026-11-01T02:46:00+00:00",
-      "score": 43.44,
-      "corroborating_sources": [
-        "C5N"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "70b409b78fca35f4",
-      "title": "É improvável que a eleição em Israel altere suas políticas e seu isolamento global - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHJxajVVNnJFdXZLOWdQQkMyNXg0ZUdiWWdQZWFacWsxZTd2YjNsZlc4RlhaTHNYNG0zTmVJOU9abWd2R0t3WnZDTXlyemRMeUxjR0toMXVwYnZTQkpKM2lWdlJRV2Vuc1pScTFMZnJ3ak92VFVHUlNHZ2RoSEYyYW5Gb1B1SG5CN1cyNkFMUHoteDFnN3AxejE4RE9LdHdaYTVmVnVrSnBfZWdoVjNUY2xSZk02blpWaGhJQ3M1eUFTUdIBxwFBVV95cUxQUlZZYUVRbnJyU00wLXBEV1FqMEVkZEJHSEFIZDUzTzQya1VrZ0J4VHRvU01SaXhvd0JmSmFhUFhZelppLUd5WDdSN0hPYVotY01Ea09icnQwQzlxTkhxWDdBX0RURHcyVUJFaG9MTVl2bVFqdk1pNGpxTEU5VlA3OVBycFdqYVNDbHI3UTNOR2VTaF9pNlpaak1nNkhFZm16TlhmMWJYaG45MmgyQm5sY01FeHl1N2FiX0RjR0owSXpTRFNqU29N?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-30T21:00:00+00:00",
-      "score": 42.65,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e871ed1b564e57e9",
-      "title": "As Trump fans the flames of a world on fire, can diplomacy take back control? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlJIY2VudWJ2dEgyclhKU1RKbXB2LTJjTVdCVGtNbmI5OFNxUW44SWQ1QWpEQnRtNy1UaHZrMXo4T3Y0UkJiWUdYb25rZDFtLXZoLU5XdUZoVDVUTXM4d1hMQ2YxMElXSjZSenk0Tlp6bVBKNWh5WVl0Q3gzS3lTUTRjMWQtSy1wNk1waER6T1dlbngzaHJCbGlfeXlRbGNrUHNrSVB3UDRvd2phdEZZNmlaSVRYVjRZVTZPeTJ5bTk?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-10-31T06:00:00+00:00",
-      "score": 42.25,
-      "corroborating_sources": [
-        "The Guardian"
       ],
       "signals": {
         "source_count": 1,
