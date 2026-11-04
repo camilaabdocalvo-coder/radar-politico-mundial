@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T12:12:52.696677+00:00",
-  "next_update_expected_at": "2026-11-04T16:12:52.696677+00:00",
+  "generated_at": "2026-11-04T19:50:30.422594+00:00",
+  "next_update_expected_at": "2026-11-04T23:50:30.422594+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,9 +11,24 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN25QQW53VVVEcFR6d0RKTmd6dnh6NU1fWjB5QzJkR1pPQW5CVVpiMjFzTUYwSU5nVldGVWFuTExDdF83M0ZaT3MwNExmMmtBTkRYOTV2aWFzQVJTWTR5eU9QV056clNfNF9ReXdtYnY1MjlhZV92bkFSdFdrazJka05ENW5kMW00aWtUbVdkdS11ck9XY0MxOWR2MFktbm40UnhXVA?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-04T09:02:41+00:00",
-      "score": 82.68,
+      "score": 74.82,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f0000bd9c74d8191",
+      "title": "The 2028 election season begins as both parties navigate midterm fallout - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOGFpOUJuUXRIMno1ajU0S2VOQ255SjMtdDI5bTJIZ2FadUtLMzVIMGxISDNkMlQxc2tfOW1NbmZrTi1sRkRCdEwxVE1LWld3Y3NZeUhzX0QtblhNeDNDRmVHNEE1bHg5LXlnc1pQYlNwRFNMSDZGX2toalh3NjY4SGp2WUxlU0VQbFZMbW5PTmVMVVRuT2o0NGZKX2RzM0RMSmVTNWp3VG5Wd0FjeUlBai04NlIwMExpWHVyRlNRRWxuNWxKcjNaMkIxSEhLYkE2cVE?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-11-04T19:07:13+00:00",
+      "score": 74.58,
+      "corroborating_sources": [
+        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +41,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObzJCZ1Eyb3R1dDk4RlgtTWRGaWxZMmdmWHNmYmxYaXN5X2h3ZWhNYkhQTFo2TmxOUlJaY3hpUkJTMnZqMmc0YVlDc3NPdy1oWGJkSVlvcjVSR29PTlRwMlN0Wlk4SVpVajlWUzRYblhfX1p3SU1tc2J1RkJ6YjN6ZXZkaHFfZTFlZVpKNVgwUDRiS3BkYmd3YmhUMlpyOTAxSUJQd0lma2NCa0YxM1FhcGJuOFV4SFlIdlBtbTFOcUhQZ0ExRGpPbTMxYU45YmlIaWh3THhmcWdZaUhQY001TndPeElmMEZ0TzlVUklJaldsb2pYOTVkUzNib0thY2IwS3RkQXYwRVVySzQ?oc=5",
       "source": "Azərtac",
       "published_at": "2026-11-04T10:48:00+00:00",
-      "score": 81.74,
+      "score": 73.48,
       "corroborating_sources": [
         "Azərtac"
       ],
@@ -41,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOTMwQWN5TldhYk5NT01KbHFUdDZ5RkxDYUNmNy1BYktEUV83LTFnek1mX1lJWkkyMlc5dmxwdkpFV3VZTmdTNmYteUliSXZ1aG1nNzR0Z3N2RnVScmMtUXozRDZaeU55TWJYUmlMM3BtVFNROF9ZODF1c3RUU09JTnU1RUtIZ29QLXVVVTlTR0FOMjVPQ3pVSzhSOEtQc2xWR2FuWnl4bGp3NXg2bE1DXzMxZWtoUmROSmZGR25yQWxVdTlfZno1aGluTQ?oc=5",
       "source": "Acesse Política",
       "published_at": "2026-11-04T09:57:30+00:00",
-      "score": 80.74,
+      "score": 72.67,
       "corroborating_sources": [
         "Acesse Política"
       ],
@@ -51,14 +66,104 @@
       }
     },
     {
-      "id": "c54a0960b76f0d39",
-      "title": "Two Native American women break political barriers this election - The Seattle Times",
+      "id": "c29078b57745737c",
+      "title": "Derrota de Trump pode frear política de intervenções na América Latina - Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTlDZVpSMjE1SUZHTDFTUEpTQ3BHTmVnUUh5TE9TUXJzNHI4bjZ1cE1kTzFRZ1BNWWRsN2ZkNG8yb2JzWkp6R1g4VTdnQzZKY1JLZURTMGhUd1JNVHlCRWFGbWMwUmRzVDAyYmpVWTUwX2xFSllnd2VRN0M5NHFsbFU3UnZJVUxjQnRaLU9jTWNBRVFmQW50WHhzSHJZclp4SEl2czVwNGFIODV2SlZ6MndlcTBzbURqMFgtdXY3YS1RcXQxRDhwX3pfSUZ5UQ?oc=5",
+      "source": "Agência Brasil",
+      "published_at": "2026-11-04T16:17:00+00:00",
+      "score": 71.24,
+      "corroborating_sources": [
+        "Agência Brasil"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c27c796917f27dd6",
+      "title": "2 Native American Women Break Political Barriers This Election - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmNVZm5rYlBXdjcwUGs2U2ZQLUhfVUREd2MzX3FDTnd1b3N1UjdrbDIxNV9aOFktaC1kWWZYRGFrbHF1NzlMU1h3QjI0RzZsR2o1em5BZUhhRF9UX0ZIblZjU0dLdk5Bdi1EVFM1NV9sbnk3Uy1GdlNrVExNVGY2MWNaQmdLNUI2ZXlQZ2UwdzR2dzJWYmdHMjlFUEQ4cDIxdk9oWUdSSmh3NTNRYmM0UkRYMjB1OVdpdXFlbkYydlQ?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-11-04T06:56:00+00:00",
-      "score": 77.34,
+      "score": 69.92,
       "corroborating_sources": [
         "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ede62f98de199c00",
+      "title": "Republicanos atribuem derrota avassaladora a políticas de Trump - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblhudnBSTW9SS3RWc1RxUWotSzBDS3JzVHZQakpjN0E5emdmQmQyWk4wSlVLR2NZNGlhdWhFai05NnR6ZGxnWlBBNzhaMG5XOXQ2b2pkV05RUDBnQXRDVDRFdHRpS19WYV9RaTRFbHBOUEdVc0tfUmJCOGpnQk5MZDk1cG53WFZfei0tWF9sZFN0cWRrSDlOV2xYcHNuTXZxa0JMcmxPU3BvX2gwNnczblNiOA?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-04T19:15:00+00:00",
+      "score": 69.74,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9d0280d13ebed464",
+      "title": "El Festival de Sevilla potencia su apuesta por el análisis y la reflexión crítica en las II Jornadas de Cine y Geopolítica - El Debate",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVmc2NDRDQ0Fzb3F6SDBvQjFCc0FTQkhwUl8xT1VIMzRiYm9BLXEwWWhVWmdEQmZJSFNHbkZJNVJoQ2tmdXFhOTBYVG94MnRvbHRUN3ZsMTJoaURIUFJHd01DQ3N5UFYzbnRodmxVOUNUSS1leWVuWlBnUFB0SnhHeVVOMVZnaTR0NjlMcDlua2xBd24wYmNYdmtOZXZRd1JkbjZzMzNzQXlKN0hzU3pZUm0tRFk4SGY1M2JZdV9nbXNMQ3FXSTNHa3JKRjZwTGx5MkRobHZydkNsaDVFSl9SQk9mS1ZwaXdvY0FhNXdaQ3UwUdIB9wFBVV95cUxPeG9FbE5ZVkRIcFBVSjRCX3I5a2lWNzByejdwVjdNeFRQVFpkMnRHNndRSHpKZkt3VmhPOC1tWVpvcjk5dG9RaTQtNlMwUmxCdE94TkdxQi1jdkExS1JBRU54VUFoTnFIV3JPMmpzOXJlVm8wWU9BdHJISVpJLXF1dGN6Y3EzQ1FlYURMeVpicTlvZnZBSng2U1pjY0dRcjVYMGJvSDRfdkluQjREeXZ0WUJsTmtvdnBzeTVOUmJBOUhxUmpXM0p4MUFNa3dDQ2Z2b3ZvZlQ1bW42aXQtTGVUTjdoTTlCUzVhaU5tY2tTbUROYkswTVRZ?oc=5",
+      "source": "El Debate",
+      "published_at": "2026-11-04T14:36:12+00:00",
+      "score": 69.38,
+      "corroborating_sources": [
+        "El Debate"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4253f1eed8650b6c",
+      "title": "Democratas conquistam Congresso dos EUA e derrotam Trump - Portal Terra da Luz",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU0Y0enh2RnJkUFFBMUVTaExSUFNPVXB1WU1SbG8xYXRrZ3puQlR3OERhV0V2T0dqTU9wRTJHZWNxUkp4MHE4RGN2VUY3ZGM1d0tZOTh2bmxzeWpBMDVVMDhTdUVuN1hIR1E5YXlfQXl2SHljVnloVEN4RGlIRHlDMGVoclktTk5KaVQtaXZTWThmQllPSUdHaXFCNnd2UXpCUHBSdkFGcE5vZDZiVlpHQy0yRzZwSGJxNTFtVzFjS2drbkhnNlpRTkx3UlBKVVpNTmVFb21qZGk?oc=5",
+      "source": "Portal Terra da Luz",
+      "published_at": "2026-11-04T13:18:34+00:00",
+      "score": 68.01,
+      "corroborating_sources": [
+        "Portal Terra da Luz"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7a824ae2107e6595",
+      "title": "Eleições nos EUA: Derrota de aliados de Trump gera incertezas na política externa - A Crítica de Campo Grande",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGVRdzIydG55aXp0V2U4dG5ma2toOWlHdlRualpER2dtTWQ5RTUwMGJFTEVuUXZ3LVR2Y1dMbTd6WnhhU2w5VzZjWE1kRWJ5SWRSZ2hodk1kakM1azluZkQzM2xSVVZnOHJFcUgxel9rUnphM2xEeHQzUkRKcE9jdk5oS0U0UFVnVnpXVktNaElQVkVSYVNlaVFXSXJ5VjNueWVPZklibXAwWEV5eGJSa2hZdV9qbE5vV3lXanR0Sk9WaDFsSEQ2WFJ3ZEo?oc=5",
+      "source": "A Crítica de Campo Grande",
+      "published_at": "2026-11-04T12:40:00+00:00",
+      "score": 67.35,
+      "corroborating_sources": [
+        "A Crítica de Campo Grande"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dda9a123dfdd606d",
+      "title": "¿Cuándo toma posesión el nuevo Congreso de Estados Unidos? - El Universo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXZoVjBha1lXUWtLcjg4aGt0QTl1NlRNQ3FYX3MyMzAxSnAwS1lpZ050S0twNFRzZHlSTHNFMHdxS3c5X19naFV2VFdCcl83aUhneTNwX3lYTWZJZ3RreXdfb0VYS0dDRkNEYmFYckVWQlFmWjhSeUN1M0dyMGt0Yl9XOFNjc3Z5LTRnN2hQX3d3WkZvT0NwWXBjZTVJLUUzUHRtcGFpNlhnR3h6blVOQ3VvOWw4Tk9LT3fSAc4BQVVfeXFMTzMxVUtQUWdnNzRnTUNtcWlHLTdZTVBzTXpUa3lFQWFhd1UwU3MyWFY4WXNuT1h1VFczMmY4N3lqa25qWFFyR0hwcGtNRl9WTF8yZjVOaFlWMnc3SjVvUHFJV3ZmYUJiVXpOZWUzdUdQMmpHT1JyRXpsTXlvSEVBVm1EUlhzandJSVh0Nko1ZFNMd3BkcmcwcTNuSnBwVlNweW84Mno3Q2xDTHJ6aGhkcDZUUkxvRnh6RmFPVG5GZ3FYdGVpeF9TT3hYQlJucnc?oc=5",
+      "source": "El Universo",
+      "published_at": "2026-11-04T19:16:00+00:00",
+      "score": 66.76,
+      "corroborating_sources": [
+        "El Universo"
       ],
       "signals": {
         "source_count": 1,
@@ -71,9 +176,24 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ25Kek1xN09ORmhSaFBHaG1sbVktVklhUE45enVudEROQ2hZV0J0QVdlQ1pjd0ZETTcxYXc3RHBNakQyNXhYSW5DZG9PaTk1QlFxOXoyRDhTMTE3eG0tdmprZkNLd1ZVbzNLMmtWYkpxaFZsdmJ5a0ZsN0Eta2lNUG1wSjdsV0lvTElNdFJtdGtUVWEtaHpBMk9tNEk2T2dsVFQtVnBta9IBrAFBVV95cUxQdWpzYUlFQXpOVGNVdGVoLWJrV3lRcXhmcGFuUk1BREI3ckxyS2M5cExza3VLZEd4TFhpWE1MektyMTRiV3JJRFpjZHFENDFLZGNPQ0tUOWN0dnVzeDRjNXdEYmdzMGljVWZUMnVTU2JOOWh4cS1NTDRjblpXazdmc2JkTVh3Y1p1VUdBQmd4dk9RQTkyemVSd3BaWHJHRk9sLW9QMmE3TkNMZERM?oc=5",
       "source": "ABC",
       "published_at": "2026-11-04T10:54:51+00:00",
-      "score": 73.88,
+      "score": 65.59,
       "corroborating_sources": [
         "ABC"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "738bfe6c9fee53d2",
+      "title": "EU enlargement: some are on the cusp, some fall short, and some are falling behind - Eunews",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd1BZZXdPQkt6M3VrdVlFZXdVT2FCZ1A2cWhIOWNZQW4yWEFXak1JX3pHSU55a0FLblhxSjJQNDgzb3FiazEyQ2V2NnRWbWstTjRhNVlQUi1va0xfN3R3cXlUWmphT3hfamxyWEc1LVFNTmdORElMc1Y0M1BUZHpacHRvQ0c1WHdmOEVJUENxbXI0LTBpeWxHdGFpR3pfdU5qZVlZN0poTURDdjhwTW1XMkFrVjgwLVVma3ZDblN1MHFoTW9KY0pUbGdaMlQyNlkwY2JZQ1BKeEVOX0hnb0JqZ2w0Snd0WjhubGo5MWdVZ3oxU1hUUl9jdjFtanhmRFF4Z1FLbg?oc=5",
+      "source": "Eunews",
+      "published_at": "2026-11-04T18:15:18+00:00",
+      "score": 65.54,
+      "corroborating_sources": [
+        "Eunews"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +206,129 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXgwQ3pid1NITHI2NHBORUhRRWlRajNSYWJ3dWdDNG5SbXZvZWltNmhzeDNHM2tzNHR1anF1ZWlEd0RvR1QwM3N1MzdlMHlsSTI4SEZmZlJ5WVJYQXVDbnUxX25yVmQ3VUNKYkQweVdVOGhrdzB5a1lyOU1odEZRZDh1ZGVDUUxZazdieEN4dmI5YVQ1cTVqWDhNWnNjRG5IZU1ILUxMd3lGQzJRdDg2akhhTktoRkFFNXdPUnFPdGVYZkJGUmlCcFRn?oc=5",
       "source": "ANI News",
       "published_at": "2026-11-04T10:46:39+00:00",
-      "score": 73.72,
+      "score": 65.46,
       "corroborating_sources": [
         "ANI News"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1e07e77a92e80419",
+      "title": "The EU Commission brings together international partners to prepare for Ukraine’s reconstruction - Eunews",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGNMMnlzbXlmc0owVmMycFlMMzZiZHdSQ0xnMnkyVTFYbUFZdV9aaGVyR0lMaDhDOU40SzRDZGZ4S3ZrQ0prUjJWWEE0X1hFYVY3QV9EUUl1bGlYaDdmUEppbVdGM1RLWElhWDF6TDN5NE5EcjVPWFJxZ0xVZGRtMWhOVUJKUy0yT0w5UU9vTENmUE53Umg5ajNZckxoRUFnZ0E0QlhGVVhyWkxpMEhzMVplWVlPMnJjeXNUemdhcEh4V0ZfbUt6SS1sM1U?oc=5",
+      "source": "Eunews",
+      "published_at": "2026-11-04T18:09:46+00:00",
+      "score": 65.43,
+      "corroborating_sources": [
+        "Eunews"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9844e1df4d30ebf5",
+      "title": "Zero tariffs and increased pressure on Russia: Europeans’ hopes following Trump’s defeat - Eunews",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFJXMnJmRTFfVnp5NnJVRlVMRzA3YXpyd253eF9ROEZscEJvU0ZFT0oyYkdBcENBQ2pFQXh2YlFUUlVKZ0RmOWtvenhJcHRib2ZqZkNFeWZXQ0k5Y3pfMk41bkNoazZjTlZVU3JwbWxtRUdmbUo3ZXVOSk1MNGhUcnIzeUNzZWxoUmJ2QV91RGtQRENfcWV1cFBLdmQ4aU9WRG1aa0V4bTBuNURSdG5wa0pSZHV5ZTVULXBOaTd2QQ?oc=5",
+      "source": "Eunews",
+      "published_at": "2026-11-04T17:39:12+00:00",
+      "score": 64.82,
+      "corroborating_sources": [
+        "Eunews"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6b0fbd6ea4bc753a",
+      "title": "US midterm election 2026 results in maps and charts - The Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtPUWxwRmtWQkNNSVNGTWxYMFVpNkJyRW04R1E1M0dfOE5fUEFGbXEzQnk0V09heEtiQmYzQkxURjZqZVowcHRLbElQLXpTakt2Nl83elJzOUlYM196WV9HYzJwYWhWcUhzQ2R1VXFtN1kyLU1WdVBSSi1xTVJ6RnBJYTNWWWpmazlTOEF6dkR1Z2dmRlQyQWVvRUpJZGdES2xvc013QkhFZThzTGc?oc=5",
+      "source": "The Times",
+      "published_at": "2026-11-04T10:00:00+00:00",
+      "score": 64.71,
+      "corroborating_sources": [
+        "The Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "324890004c6fc89d",
+      "title": "Lula pode sentir os efeitos da pressão sobre Trump - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3kyMHpqWW1UWGlaenkyOFlBVHAzSlZ4Vi1FYjRNaEI0cm1lV3Flc3dUbGo0YXlzejVQV3I3MXpVSmlRV0R2LUFqOHhnamNsQTZXMk5FLW93Y2pZTUFSWVNSSTBEQ0JOQmdNelF0ZUtsVjVSSktNMi1rX0NWVDVDdXlGZFptTWx0cmp2ckNKRTM5Tm5ySGRpclNINA?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-04T14:44:00+00:00",
+      "score": 64.52,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6256f631355cc624",
+      "title": "Democratas conquistam maioria no Senado e na Câmara em derrota de Trump - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmhZaC0wLXpBb1Jydll2bTdkcHpvdm5XUFYtT1RzX3ViYm43VmRBVFNiVnJJNkJlLUt6NkVyeVgxdkg2bHlyNEVtMjVzM0hrQnBzQVZGaEdXNGM5Sy1TVmZ2SkQzbDlzTjBKVW9hNWdYRy1wam8xVW5TVThpMXU2NkVR?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-04T06:20:00+00:00",
+      "score": 64.4,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "664638fd7a0b9f3c",
+      "title": "Global leaders weigh in on America's midterm shake-up - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnU2MnRBNmoxZWxBNW9SZEpTeTZTbzZKcmpZZW8zSlBCWmxTclRsOHFpVVA1Rld4RjhrY19lbko0aV9TSmVPaUpXVHdwUThBMkRUdkszZGhZNEJOWTlNRWpHWU91MnBhMUg4NWszeG1TMC1uTDhFY01LclBLZjlDMlpNaWtqZ004V0E?oc=5",
+      "source": "Axios",
+      "published_at": "2026-11-04T17:13:05+00:00",
+      "score": 64.31,
+      "corroborating_sources": [
+        "Axios"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1de23a458bf85033",
+      "title": "Para un analista la derrota de Trump \"abre interrogantes en la relación con el país\" - InfoYa",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2tYUnBCeVpzYzdEY3gxNC1oLTZ3THNLQUR4c3lBbHkzR2JoNktxTnFndVhSaVAtbWd0bmozUFhkS0pveXVoaHBkZS12ekhsakxLUXU5M1VsQ2twUGtaTWVhN3RSUWdLZjFCLVBtaXQ5ZWVSNlpfVS1pZXVudzRMcDV1bmhFcjhHT0VaR1NfdUgxM01qbmFQZlhadTRsUdIBlwFBVV95cUxOd2JkeUZEbmh1VjJRQTNJNGUxQk1XR1o0WEYwTmZxbWFMQmEwTkZBNVY4c1NEYmdvSS1FUlg0SmMzX3JUa0c5UjNfOHVORkRuUjZwMlQ3MVJTMDlhZ2M5VTVHMWY2MDlVZzFvb2FQZzM5MGtYZVpIZnpLSGlJbk1MZjlXUXlNT2RrZlJCbENMUVJ1SFhZZEw4?oc=5",
+      "source": "InfoYa",
+      "published_at": "2026-11-04T17:00:00+00:00",
+      "score": 64.06,
+      "corroborating_sources": [
+        "InfoYa"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "676f360e230a2ed5",
+      "title": "Democratas vencem eleições nos EUA com promessa de barrar data centers - Repórter PB",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXh3d2VmOU5IM3VZMnNEWGNzaTVIaTRoeFpHa2Jybnk5R0dScWoxMzZ3YmdpVkRaMmtISzNFcnpaMHhRNWVVVWx1c1c1QzhnWDRtMHNyUDFMc3VhV3haRE5lM2U1eVVHWmtGT1hOa1ZkMEJkSkNRc0ZOM1Vjb2pQa1l1NHY4WkVodjJzdzFWMUU5T0VxaDlsRXJjMXhnZC1rNmtjYTg5NnVlOVFUa3Zac3FLUmpqNmt6bEpZdUMxeTNKdktnLXJuaWlIRmhBSU9mVkdF?oc=5",
+      "source": "Repórter PB",
+      "published_at": "2026-11-04T14:16:00+00:00",
+      "score": 64.02,
+      "corroborating_sources": [
+        "Repórter PB"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNjlORVNGbWw2NWwycG1YcHpSSjhzNkxibFk0eEN1MlVSdEg4cjJqU2ZzSUNkRGpIUVlabEk3X1h3aWl3TWxzSlJjdk9hUi1xRFFYRTJiNnM0czhaei11YWpXMVlPSVgzX1U1R2RRUmR4TjN0RFZoSHJlSVkyaEdiR0g4bXZXSENfTVg0WnNpTnNvdUZVZTZ0OGdHaUs4Zmxhb0tRRWZfSkdVQWUwdnpMN0ZCWXhJMmVFZGdVNmkzZkZzX0xzV0xTbWtTUmRpSDdvVURSMzBTLWlzSEZJM09PMUZYU1U?oc=5",
       "source": "RTVE.es",
       "published_at": "2026-11-04T08:57:35+00:00",
-      "score": 71.59,
+      "score": 63.74,
       "corroborating_sources": [
         "RTVE.es"
       ],
@@ -111,14 +351,14 @@
       }
     },
     {
-      "id": "93808dd891fddd3b",
-      "title": "Elecciones intermedias en EE. UU.: ¿cómo podrían influir en la política exterior? - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXVvckRmMUdQclIydTdpU0w1aXpzWUZmLVQ1WDJ5T0tSaE9Kd2gwUEVIc2pBc1pQN3JqS1ZtUEQyT19Kc1VKY0FOYmVxdVIwWThOWFZZRUJUcWp1QTVxc3A2MEdQM1RHdmRwU055U1pzcXBIZnNhb2tfQWNUal9zeHJEZThLMFY0eDRaQ1lsLWplUHNqV1dBR1FxT3VWYjNBYTdLX0d5NWQxdHE1SGxGNmV1SlpkcUppN2NHS2RsV2t2WEZ6UXpxVVlVSEt3T3JIUkHSAdIBQVVfeXFMTWNHYUNGMVhoVHJMZTh0ZzBHS0kwN1NzNmJrWVo2d2E2SGxlUDU4R3VOd2s3cWtIeVV0eWN4MndwQ2N3T295MlJNaDNMUU5fZktKdnNUTVBEelFCZG5KQ3pRWGNjbjZTTU9ZWXNSTHBRNXp1NTA1VnZqa3BGRWpzRVFyY0JPdU5qUW1naHNjeWlxdnNJbVdDeFMyY3dWZ080NGxwODNSSFBab1EwaWY1X3lWNkM1UlZZVFFwdkkzUWlTVzVYTW5pTWZTcWZtUHlFaGVn?oc=5",
-      "source": "DW.com",
-      "published_at": "2026-11-04T08:37:17+00:00",
-      "score": 71.2,
+      "id": "4c79e3861a6764b9",
+      "title": "Duas mineiras são reeleitas deputadas estaduais nos EUA; saiba quem são - ContilNet",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1otLU9SZFJ5SFBJajNCdko4dGVIN21xTXUzUFJXZ2xRRkQ5cmE0WVRGc09vRnh4blpma3F0MmRFdUtpQUNBNU02UEpGWU8zSzNoUThwU2xJM2JBMVJvMk9VcnlFTHZOVzFzZHZ1Y2Q2Tk84X0lPbnRQNnh5QWhvM3NRbVlOMVFQYXBYdjktSnhVSl9QZzBXMjJpek1OSHhuQmhyUU1ENlZWc1hlWUFSWEZyMA?oc=5",
+      "source": "ContilNet",
+      "published_at": "2026-11-04T13:50:36+00:00",
+      "score": 63.57,
       "corroborating_sources": [
-        "DW.com"
+        "ContilNet"
       ],
       "signals": {
         "source_count": 1,
@@ -126,14 +366,14 @@
       }
     },
     {
-      "id": "e19c975168eb43ed",
-      "title": "How the midterms have just transformed American politics - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUR3YWpvQXh3NmlBNWw0a1UzNU4tdTFqcU9HUGtkMWpuVTRYS2dBQlFqQlhuU2pnYnpXNDN4YjFTZ2hLME12MkxnVzRQOFhGNmRBaDFhNUx6Nl9QTnVfUHhZX29lWkY5S0ZtcjRZOU9WcDZKT0RkR3FWOGpVWDd4M1FqbTEyOXpZUWdod2NETlFnQkRYVmNmMF9wMXpCdw?oc=5",
-      "source": "RNZ",
-      "published_at": "2026-11-04T08:20:13+00:00",
-      "score": 70.88,
+      "id": "dd8a371a3d1b091f",
+      "title": "Derrota de Trump nas midterms é alívio para a agenda climática internacional - Observatório do Clima",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2VBQ3hJbXJzT2lJajdoV251VDdHZFlyVm41aVFoQUo4ZEtzNFdlbkU5SWFwZDBzM2NqXzJOcl8wOTJibFBpdGVGTDFmWGQyQldoeEc0QWU4ckxvYmFuLUo4TU5wcXMwVDhpbXpuMG5uN056ejlDTjVwNVFVeTBPT2lRTFV0bklhN2tKS0xTUllZT0RISjItc3Fndw?oc=5",
+      "source": "Observatório do Clima",
+      "published_at": "2026-11-04T16:23:31+00:00",
+      "score": 63.36,
       "corroborating_sources": [
-        "RNZ"
+        "Observatório do Clima"
       ],
       "signals": {
         "source_count": 1,
@@ -141,14 +381,14 @@
       }
     },
     {
-      "id": "e412f4e5e2f65eb8",
-      "title": "Americans reject Trump: Democrats win control of House and Senate in midterm elections - Eunews",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUg1NVV0SWFGMm1Qd0o0VGo0LWtGV2VpaTlDNFdCWXNLc1ZnMEU3UmNTZEVfSWFDdVRPaDlkX1k4SmVvdzJVOHBxQ09JeEwxRjhEbVpUNXBLNmhSX0RIS3FvejJVS0Y4VFlucF9nY2JHLXVPS2dpcS1WdlM2UHJRemxCODlVSWxqcVRPRTF5ekEyY2h2XzllSk1lN0QzcV9MN3ZRb3dHb21EMHlJcVJ5UXNHSDVKNjNFRHFQWTJ1aw?oc=5",
-      "source": "Eunews",
-      "published_at": "2026-11-04T07:24:26+00:00",
-      "score": 69.85,
+      "id": "de5866780b20f245",
+      "title": "Derrota de Trump: la reacción de Argentina y qué pasará con YPF, swap y los acuerdos comerciales - Diario El Día de La Plata",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUmtZYkp1VE5fc2RreFNFTC1QcjAwNlg0Z3ZvSnJoRnpIeDhVRHU5QnByNVV1Y0NGdDItM0VoTF9PR1dnVEstUGItanNqaU41VGtrSW1yemFoN2pQVGNldzBaazRLbnMweGhOUHBqT3psWTFQMXZoZEJFZHRsS2ZvdVQ0dzVVMGJrdUR3VzM0V0JCbkR4c1cyd2hZdGgzR3JralN2Rm5sNklRNVJXS0Zra3p1aG9lQVU2LUpTWHFlNlBYeWlqUTZRdXdlRUxqaGRsR2ZsNzdHekxUMzQtaWFfZVV1Nk9fc1NyZl9MX0cxeF82UDRRZUs0eHJJdw?oc=5",
+      "source": "Diario El Día de La Plata",
+      "published_at": "2026-11-04T15:50:56+00:00",
+      "score": 62.75,
       "corroborating_sources": [
-        "Eunews"
+        "Diario El Día de La Plata"
       ],
       "signals": {
         "source_count": 1,
@@ -156,57 +396,12 @@
       }
     },
     {
-      "id": "0a866687c4b75007",
-      "title": "Trump perdió el control del Congreso y Milei enfrenta un nuevo escenario en su principal aliado internacional - Tribuna de Periodistas",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNW5mTDRtbE1CVm9jb1F5WmJPMVBwem1ER25YLTFVMHZKMWhtNFhSZXkyREJ5OTctaVJ0eE83Qndldk9VdGNrUlFTYi1VTHhUdUREdWlkNXRfaDhTa1I3M1ZGcVlvN2RJUlVoMkw4cWFJMk9ZWDNuY2ota1JiTTYtSUUtdnJvNzN2YlNkTHJSellpa3ktUGZOa3ktYUpJQnVYOTVKUjhNaC0wSm1XTzVGMFJvUEloeThVcHhyekluVjgwX1JyTGJQbWNFWkZjOFAyQ0ZVLVZwaFh0Zw?oc=5",
-      "source": "Tribuna de Periodistas",
-      "published_at": "2026-11-04T11:38:54+00:00",
-      "score": 66.77,
-      "corroborating_sources": [
-        "Tribuna de Periodistas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b3978dcb1c5ca969",
-      "title": "'Unravelling': From Spain to Japan, how world reacted midterm shocker for Trump - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOW04Sk40eUxpbnhIXzAzOGRSSVU5bDU5VjdPSnJFWGlmMWF1UXZucmEzU3R3aTlIM2drX0Fab2FrbDBjV2pXaXdvRkQtUGUyWlJEcFB4Um1Xdlk5bk4tNmljTGZ3TEJZTzF3WDN4MjhmV0F5ajV4LUU1UUkxN0Y3NFRrRjB0YU1nVEhWR1dGak8wYU1iQ29IMlhacFhYLVd1SnJfSTVTUkdUWFJhcmNkRmhwQWtFSkNSLS1STnpB0gHDAUFVX3lxTE1PVnFYZVJwNWlIcTlRelZYRFNKUVU1ejdTbzN1dVBDVXNfS1A3ckRkMFltRzkxeGp2ZnNhMkc0Ml9FWkRteUxfeUNDMFJ2YVh6b2ZESnhMdzNtTUlDemdndVNBT0k1bDZPY2xmMmtHM08yU0hLV0tRSlh5Y19BVHV0OF9xRldJUlNQclR0djVNaGxZeUxFNU1rVzZVeFF1b3d3Um1aZENzdW9xUDdVbjZJbDlZcDFLLXp1bk9PTl9ZVjNvbw?oc=5",
-      "source": "Firstpost",
-      "published_at": "2026-11-04T11:17:05+00:00",
-      "score": 66.33,
-      "corroborating_sources": [
-        "Firstpost"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ebfb9d723121a63b",
-      "title": "Indonesia detains police generals suspected of wire-tapping president's phones - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeTlmVGZhaUk1dktDUEtMdTVWWDBRY3ZVSjg2WFJvazJ0Nmp3d1pSSzNUT3JSQUtMOFFMdEtRR0FyMkJhVlZkVTk5dE13M2Vsa0ZYemk3QVNxS29UYkRvcHo5N0toTHZFX2dRYzc3SlpmRUFPRUhwazE5S1BqaTEzbk53eEI4SlF1MzBMckp4dUdJdGZiWGJzWjJBMTYtYlBlN0JlQ2VfUXU2RW92aDhFay1WUQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-11-04T04:01:48+00:00",
-      "score": 66.33,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "148551b1f864dc36",
-      "title": "The Senate will get its first openly gay male senator - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGZONnJfaFVmVjd5S3dNeTNkVWFZQ3JEMkh6M0dLSS02OTFVTm9PZ3ZaT0M2b0t3bDJ4LWVtZDRTazYwWUt5V0ZiWTM1b2pMRDFoYUkwd3NvNlc1MWZZZHRPeE92NWVEbnA5LVFSM0FmbTRILWEzMlVQOHpMVTZBRWVwSDZTNnYxT0JYTThIdXN2Zm4zMzVnRWgzY05rN2QzRkZka2RSUFVXeHdSUWxrZkV3?oc=5",
+      "id": "ba98187f9aec9aef",
+      "title": "What’s Idaho’s top gun? Here’s what voters chose among the six offered - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcE1CZExyNTl6VUQyQkJaY3RhRWFzUGdKSEhvQ3BKUHhOdjJCVllWSDVLcjFFVEc1OTRHRjdSeWlwdi1qNjR6dzNveTEzbXRaTzdGNW01bVVmd2szUnRCM00zUEg1TGZUOE5LRlJvWGxhMWF0UVUwTl9uVWhudmtUaGpfSFd3TzE4ekNyWDU4SDNfRW5KNTVNeWNQMmVPWU1ReDZkb3Q2eVFvRUo2R2EzcnF6Vk9LWVZRaC02b3FuZTNLQmM?oc=5",
       "source": "The Seattle Times",
-      "published_at": "2026-11-04T03:13:24+00:00",
-      "score": 65.53,
+      "published_at": "2026-11-04T15:41:20+00:00",
+      "score": 62.57,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -216,14 +411,14 @@
       }
     },
     {
-      "id": "a9ce70bf62e131d9",
-      "title": "Nobel Peace for a Fragmented World - Impakter",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13a2dVZG1aN1FfaGR4WlBFdnBSWk9KMm1mREhVdGw2TlB2MG9FNXNCSENlTGh6bmhTbmtWZ1F3T3BKcGktdjR1Q2lNX25xNkV5TDB3d2Zadi1jVEVYY3dweVdRV052c3M?oc=5",
-      "source": "Impakter",
-      "published_at": "2026-11-04T10:09:58+00:00",
-      "score": 64.99,
+      "id": "159f94a570f85aca",
+      "title": "Acordo entre EUA e Paraguai reduz sobra de energia de Itaipu ao Brasil - TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGNOc3Jvd2dyZTVOZ2o4NUxjc3pEaXFsRlBtX2RlLTBSemw1MXhMdzRaenNEVmNGZEpMalllMWNnRHFKYlIwTkVSMjlKT2lCZng1Y050VGxLZkp2cjFHQ3gzLUJoNk9seVRHUHNublJWS0J0dngycFlzLUdyQm1WT1FWaHkxOFZjdktIc0szX291SzlFVVBrb0FTOVdNeGpSQUo0Rko3T0ZtS1FqTHpOclJ4SlByQQ?oc=5",
+      "source": "TV Sim Brasil",
+      "published_at": "2026-11-04T12:37:51+00:00",
+      "score": 62.31,
       "corroborating_sources": [
-        "Impakter"
+        "TV Sim Brasil"
       ],
       "signals": {
         "source_count": 1,
@@ -231,14 +426,14 @@
       }
     },
     {
-      "id": "4f9d8813fd545bde",
-      "title": "Why some states take longer to count and report election results - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmc2M2pkTEJjOUhoN1lnRXJjcF9CQkhOY0xLMWE3TXBmdnY2LXV1MkEtdDR5Q2FxZHRMNTE5Q2plUWdpeWs4MWJlaGZIaXFRZ081bWFoSFNzMldhei00dmtZRDgwS09YVFlOMEllLTFkYWN5TkpNQWVXbm1pai0tTS1xLXd5VlYxQjQtRnBhRW5XeHNuSFFLb1JyZktDRlpLeUlDR0d6RWJtTDZkSG0yUElJakh1SmlYLVRFWm54LUI?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-04T02:24:56+00:00",
-      "score": 64.75,
+      "id": "13f34297be4c9454",
+      "title": "EXCLUSIV El ranking de los países en las fuentes online relevantes de Rumanía: Las elecciones estadounidenses dominan la visibilidad exterior. Rusia y Ucrania siguen en el centro de la agenda de seguridad - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFZuaUpaQzA2azVsdVM1WmZfTVZuREFPamVtcmxuUUFBM3llUzJCd0I0d3o1WFZmTG1LZ3FjTDNSSEZzdklUTktmcUp4VHdRcmk2X2I1R0c2OVFRVWhGdE1vZDI5WkhScUlZazdLeHF2WGNDTDU4ZEMxZTFiWnVmOTl1VFo?oc=5",
+      "source": "Informat.ro",
+      "published_at": "2026-11-04T15:18:06+00:00",
+      "score": 62.14,
       "corroborating_sources": [
-        "The Seattle Times"
+        "Informat.ro"
       ],
       "signals": {
         "source_count": 1,
@@ -246,209 +441,14 @@
       }
     },
     {
-      "id": "357c70a4f7a05b66",
-      "title": "Un texto para comprender la política exterior de China (+Fotos) - Agencia Cubana de Noticias, ACN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSWpjWEUwR1V6a2ZpUXhOUDVRaUp0Xy1nZlliS05mdVl5SUtMWmZxbmJfUjg4N3NzMkRsSllIR3RHTTd2VEdZSTJUR19kSnUwMGRLazZmYlhTRTRteDVuSm5ZVkNVR01mMXdxcE5LVnFldU1meTIzeDF5OTlXTWMzUVhWMEtnWGpmMm9HLXVaMXk?oc=5",
-      "source": "Agencia Cubana de Noticias, ACN",
-      "published_at": "2026-11-04T02:03:45+00:00",
-      "score": 64.42,
+      "id": "7bff8180568d8d05",
+      "title": "An Improbable Solution to the Israeli-Palestinian Conflict Receives Book Honor and Five-Star Rating - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQnJZN3BRUFlyd2E1MldRdlM3WUZvSWFXSVA2dVFGTG56clRQUGczanduSjRVR3JSdXBIYTNJbm5ldlF2UHR4c2VrZTlpYS1namhiV2JPWU00RzI5cjduRUhVMWNDbHhJVW0wdzVnTVdBWVltemhoT3FmdDVLcngybTU0SHVWblZwOTAteFVTRk5HQVdIT09Xa0Y0NnJaODBnYS1YSjNnVmNIMXpwVUtwNjRuaFJ3b3M2M0RBSHBTV0NfcUllTFpWbFBVRE5RSXBzWkJoUWxLV3JnN3RiWTRfQ0kxRzc3dw?oc=5",
+      "source": "USA Today",
+      "published_at": "2026-11-04T15:14:10+00:00",
+      "score": 62.07,
       "corroborating_sources": [
-        "Agencia Cubana de Noticias, ACN"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6546abf39b9983da",
-      "title": "La UCLM, distinguida en Estados Unidos por su apoyo a la cooperación internacional universitaria - La Voz del Tajo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY3lZLW1mYTB0cUhmdmtPN0xZUTcwMkxWX3lqdWFVVXhuYnRMMWVqX0ZBQ1hDZ1JOVmkzU3ZDZ2FYbFBwRk1JVHM1Zml6T2l3ejJFb040QzJja3U0WHJENlR4aVdmVVhpWWNaSjhrT2R4VmgtUkd2M2N4VTB3SUZHYzFZTlI4M3A1UWo2S3Z4VkxmeFJITWxjMFJQQlZHdEpLWjZ5V3BDU2Npa2FjUFh2Z1Q3SlRHUVhaR2lZRlVUSEM3ZDNjTWt4cDdRQlRGUGp2bVBMeHp6QkhfYmxtX0tnQXRFVFJoY1k?oc=5",
-      "source": "La Voz del Tajo",
-      "published_at": "2026-11-04T09:36:08+00:00",
-      "score": 64.33,
-      "corroborating_sources": [
-        "La Voz del Tajo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5492749d39fa982b",
-      "title": "The Historical and International Foundations of the Socialist Equality Party (Canada): Part 2 - World Socialist Web Site",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rd08xN3hPWGRkVEthZEZzaHp5WFpqb3FOX2wwYzJXcjZsUFZPODZiWXdLTTNkZ3d0M0ZILU54X0dUUmVBaDRxVmx4X204dmk2RlNpRlJMR0l1N0N1c1pvRktCWmFONnBD?oc=5",
-      "source": "World Socialist Web Site",
-      "published_at": "2026-11-04T00:48:02+00:00",
-      "score": 63.25,
-      "corroborating_sources": [
-        "World Socialist Web Site"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7fff7dc49f7f7593",
-      "title": "Cómo puede cambiar política exterior de EE UU si demócratas ganan midterms - MUNDIARIO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEc4R3ktRU1xYm5aekpNd2pVYkZGLWdkOUwwckJMQ0Z3emExUkI3N0lIdnBVeThXLTR3YmVDUWt2S3hqZFZKb194QzI4NFZrRktwWW5VVm5MQXYyZzJXdl9rN1prdk1DcDNjSXhRcVNpTkhDT3ZGYmgteUtUaG5nQ1k0TzRzMlZMdWsxcHN0VzJDaWFVRzVFd2NUYUdNcFJ4M2R2bmRMV0dhTFpwNUhjNWMtekZnSVF5YkJaaV9iNVVkRFB0RFZYOW5XdFZ2bjDSAdQBQVVfeXFMUDhEUnJtbzhFSklkMC1NWVUzcDM2SV85NVlwd1hQa29RUlQ5VVplWnZJWTZvV3NsSnJBcnU5Q05FaVN1YWdncGRHeVZncGhYRWE3Z25SdlJheldTMTJyd1BSX3ZSNDY3UHBhVmItaS0wWHgzUU9GLWlCMkxvYzBXdVdzc25obi1DM0YtSVR1TDJlVk1PQWN4ZUxXUHVhNWZ5TUF1dl9CdlVINVRpdVgwNURKNS1wVkhWNnYzdlVKNWYydTJrWTJVTDdSWjA5X01fMGFIbHU?oc=5",
-      "source": "MUNDIARIO",
-      "published_at": "2026-11-04T00:25:46+00:00",
-      "score": 62.91,
-      "corroborating_sources": [
-        "MUNDIARIO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "96da78d7b4c200ab",
-      "title": "Em derrota para Trump, 'onda azul' nas eleições dos EUA é maior que o esperado em projeções - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3RobTJhRG81SzIzQ3BKOHFWWWtzWFBlV1A4QVBqVWg4bF9XQnRKamNEMzhUcGV1ZmwzcW81SDZYSnAtVFBPaXhoZnRpbllMVWFVR3IwWml2QXhhcjdzdWg2OGYyRElJSWRGQko0WDJ6NWVrWW44WDRtX1BuUVZFLV9WSDFOQ2lrbEdaMGdUcnpDc2ZQWmpfQUYwOERLaE9nSEF1bWlEZmZaX2hQTHRBaGlaVQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-04T03:59:00+00:00",
-      "score": 61.28,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "077d1619bf574d10",
-      "title": "¿Qué pasará con Venezuela si Trump pierde poder o deja la Casa Blanca? - MUNDIARIO",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWTZqNkNlajBsOHBhYjF0dlk1eTlUeXRhLUJnOW1UbFY0TXBEc1dBWGJFVi1NWHRWanZCNjdDNndsRXM0SjdhNGVMUy1rZDVydF92bWNLVWVHeE9pMjhmQ2s2dlhoNVF0QzlvcDVDVnBCYW8xQ242dHhrNXhfZXZSSF9DT3FJLVpvbUZzb0JvLXVVRHdtM2p3QzI2bDNJMGZNZ1RuRUgtdUE3QVdocE5qcjEzSlHSAboBQVVfeXFMUGdoU2lSM3lYWGdlTGg5Z1pEdmRtU1NUdENtdHVqRm1sNXNZYWpQaS1WdnBDcU9wY2RCYTgzd25GTV9Mek5wN0gydWNPRjlUekpPX1p3UUdFMnROcGJsYUc1elo4Y3BtUklZLURXcEZ3bGdOV2hld1hacW8ybXdBTWg3WXlKRE5VSGJqREQ2cWJHM3pWcWhVV21mclYtUXZtcm50Ri1xdElNM19weGw4Tno4MEo0b01hbjd3?oc=5",
-      "source": "MUNDIARIO",
-      "published_at": "2026-11-04T06:01:18+00:00",
-      "score": 60.36,
-      "corroborating_sources": [
-        "MUNDIARIO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "55f22e5a8549c039",
-      "title": "Iberoamérica ante el espejo: cuando las diferencias políticas y de egos deben convertirse en una oportunidad - Escudo Digital",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb0lkSTU2aVJaYU9ZS2ZuX0dNM1dqTDY4cVdNZE5lOER1MmVUVVk5T2VCbkl2SEpJdTBQQXNTUzc0NU5Gd1dGRnRBeXRFT2EzV3lkdERZU1JNdm5sTXVUX3hKeElIb0Q1eFN0UFlTYzBZNUJQb2F2VXBZcjVOWlFmeUxiRzdQUXdEb1hPTWZTLWVvVWlhQ2xsWm9WRXZHQ0hrb3JUcGlIR01aUWdwMXQxdV9RSi0yUUQxTGZXT3BzRTIyYU9zTWpYa1VQQmYteTctMW1OSzVPQkhTQWllV0RIal9hSWhEVVhMS3ZTM3Q2T0VsTzlvSGxaeW9OcU5rTGs?oc=5",
-      "source": "Escudo Digital",
-      "published_at": "2026-11-04T05:00:02+00:00",
-      "score": 59.31,
-      "corroborating_sources": [
-        "Escudo Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "46e0351040b766d8",
-      "title": "China en la Nueva Era: una mirada a su diplomacia y relaciones internacionales - Granma",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFgxNnJJbTFUcS1DT3RORFQ0Mkljczg4SDA0ekR3Q0NzN2plenM2cVc2V05FeDh2VkRxeVdLRW9MSFdtZC1ZOE91cjcyeExxZzNDN0U5T0hlZFFCRWNGRWpnMVpzbGZlMGlGQXlYUGx0UHB2cVd4eDNHd094a19MdWJiWEdrdHh2dWE3S1Q1aERPaW9hWHdLZnJrRE9uY1FlVGlqa19pc3UwaERhY0JQSU1MeEtjUllqdzhWZ1QtM3lnV2ZDTDBlcEM3X1NQV2syd3c?oc=5",
-      "source": "Granma",
-      "published_at": "2026-11-03T19:11:18+00:00",
-      "score": 58.52,
-      "corroborating_sources": [
-        "Granma"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d8742cc390e638de",
-      "title": "Donald Trump, contra las cuerdas: analistas advierten riesgos tras elecciones en Estados Unidos - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0FWc1Z1NElDTks3SXJDVzhidXB5N1hoOTlLUFBBRF9odnF5S0xuMExKdG5PeVpvU0lYbWR6VnB3UHJsODkzZTFncTJrT1pubE9ibDJRdUpGR3RqRVJvVWg1MDAyVURKQWktUUlxSnVQd2xaMGZjMVhKclQwS1ZCR1FKQ05Kem5VZ2VSUXdzV19iRHAwRFVTTFRtd1BpQU5pLUJSelc0aDdtYzdkR2JPdWpsM1RPQzJ4OFVsanpDYm1JOXNFdVFRLUFvTWhpVnpNeEdPRVQwMEc3V1UwWWx6ekdfT2tYWHc?oc=5",
-      "source": "El Heraldo de México",
-      "published_at": "2026-11-04T04:05:00+00:00",
-      "score": 58.38,
-      "corroborating_sources": [
-        "El Heraldo de México"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "412811a9494dd111",
-      "title": "Andrews upsets Graham in South Carolina, flipping a crucial seat - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXBzSHN3ZnU1c1MwS25UWnl1VE1IVXJyeFprWWw1bFpwc2hBcXEyMTZjZVBhRHZYeEU1OE5IVVNUSzM4RnVSeDRDN3Y2ZGotcGxVWEc4TDg3NTZYRjl2UDYwOW13RDY1LU8zMmQ5YzkyM2pRVk1Kc3UtX3A1VjY4UG50ZUVGSkdrMXpKTmRkVnNxVXExVnlMTWNhZGkwQTRPb0RqRkU1UVM1T2xzV1N5VkNiWVV3SkhfUlE?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-04T03:46:50+00:00",
-      "score": 58.08,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "52cf091d38c2e26f",
-      "title": "Por qué es importante para Argentina la elección en EEUU - La Gaceta",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRFBORDJLaGNJbDJJaFdpMlJuMVVrY0thTVlxLVVrVldueGRBOEtnOXRBVUcxT1NfVEx0UVJKR3FDekdab2pVS3JsUHFuRVNiNUFJVl9kZXZ3cGlqTUVRS3BCZHJESkptR29sYlNEbGxOOWtESTZIZF9IaTlpdTJlZno0U2JvMGRQSTFETTRBaGtncjM4NzVBTTBJc9IBoAFBVV95cUxQSjJNcmRjSlkzMmZ4MnpOd1ZDREg1WW9rM3dPd0Q4U0ZNMnFrYlN6SjY0aWc3VFZkdWVuS0thYy1TWHFIaDhnV0lDeUZ0UUNzM3ZhTzltWU5WcmhLT2hQWUthRVdMSGxVM2lJeEVveDYxUlhZd1RsN3AxT0RFbTF0cmNQM0Nqcl9CeUh2RlRLSHotbTAxYVVVUkl1OTUzTkpW?oc=5",
-      "source": "La Gaceta",
-      "published_at": "2026-11-04T03:45:32+00:00",
-      "score": 58.06,
-      "corroborating_sources": [
-        "La Gaceta"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f5630d0d211c6110",
-      "title": "Cristina Kirchner habló de su futuro político y no descartó competir en las elecciones de 2027 - Catamarca Actual",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUHJFblBoaVBuZ2JJV1BHdks4VmtJYVJldmlZNGRCeC1VNG1ha0FQNGQ5NlItTlRZVXRDbmotZzNOdHFYT3NVaEc0TzhKYkJBNWNuejgyTjhFMnNjSmRLeGpfOHI5VU1CSVY5amhPUmdPTVVSU2ZrRE04OWQxTk5iRzlmdWsyWjZyZGJDSzAxdjI5Mk1vd0cxbWc2M3k2eE8zVVlhLXI2d3pTSGI2MHJtRC1XWW1zVEtXOXVTT29CWEtUVzV0NmktbndFSm12Z1k4S3FpZ3AwRHR3cEthLUlCdWdBRUJIMnNvTzV2eUhDTDI?oc=5",
-      "source": "Catamarca Actual",
-      "published_at": "2026-11-04T03:27:45+00:00",
-      "score": 57.76,
-      "corroborating_sources": [
-        "Catamarca Actual"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e2a42a31e84cb689",
-      "title": "Trump is watching Fox News, and he is not thrilled - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGt6TkY4V2M0anVWMzVpaWllaHJZVzd6eEs5cGY4MURYVjBOMmxKNTRWMnZqOW5FMVZYcVBkSzdCcW5NdWdSSS1pODdzMURSelkwNC1OOEpMbHR4bUhmRGItUm1scGl1N0RoSUhuSktpZ01aaWVmM0hiUXJVVWVxeHB2amNnQ0tUc1F0QmJXdWxiUXRLYktUQWlnaERnQXRab1VrTW1uWm1Ja2hK?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-04T02:54:41+00:00",
-      "score": 57.23,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0444ef73d5041c72",
-      "title": "Impacto de las elecciones intermedias en la política exterior de Estados Unidos - laGacetaOnline",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnowOEZGR1FwR0hlb2pZVUZLUFMxZDBCS3BHV0hod01CdzlHeGE0TW1aN0oxWk9wNVJHNDhEeDNfZ2hzNG5JUVN4RkV1VXFWdDlNNnlKYVpjWXdEX2xzZ0FJNFE3X2xHa01XcERKbjZsLUtiLW9XVHFidlFDWWR4N2xDX3huam9jWlAyMmpWM3oyNXNjWDFNVWlqdnBsakZBYTBtMnpySk1lMXQ4WWxNNVhHMXVpQ2NVaWcwbUQzVWFvZw?oc=5",
-      "source": "laGacetaOnline",
-      "published_at": "2026-11-03T16:31:10+00:00",
-      "score": 56.52,
-      "corroborating_sources": [
-        "laGacetaOnline"
+        "USA Today"
       ],
       "signals": {
         "source_count": 1,
