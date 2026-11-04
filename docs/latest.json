@@ -1,35 +1,19 @@
 {
-  "generated_at": "2026-11-03T19:30:47.375432+00:00",
-  "next_update_expected_at": "2026-11-03T23:30:47.375432+00:00",
+  "generated_at": "2026-11-04T00:37:49.139130+00:00",
+  "next_update_expected_at": "2026-11-04T04:37:49.139130+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "1474ec50fc343767",
-      "title": "Protests as Commonwealth leaders descend on Antigua at time of global political turbulence - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGF1VC1seHVMdm9xZTdyRG1zTUM5T1hvQTZDVHh6RWJuc0JmdU9VRVpqUGZwOENLYU9sN1JDRnRzM0lUSTJSdXI4YWk1SEVwcElKOEo0LU50VHVFbXlGMTV0ZzduRjNlR1J2Y0RIRm9WblVPLW5pM3gyWmFJeXllZTFfVGVfNndqQkZFWDFnTkFDcGNYNmc4bkNn?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-11-03T18:21:25+00:00",
-      "score": 81.35,
+      "id": "b45e92077434f5ff",
+      "title": "Ministro da Fazenda questiona preocupação do mercado com política econômica após reeleição de Lula - Portal VV8",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmZRRjl2cW1mWVpQN1ZtSlpvNWQ0cUowQlBOaV9rTmF3ajF2b0cyZlh2TmlWVDRKNHl4dXJ5cjJlVGR3WmFSY3cwcFl6cGhFSXhtT3J1NUpIVDI5TDdPZDVCZnRyMXExSUtKM2I1OEZhZDVHMjhpUmxIN1ZwTnR3U0h3S1JwWDZJdnV1bV81RThRdzFKZU5KSHZMMXFzd0ZjNDVfUHVRLUZXRVRwSDJnZy1fYVZNZ3o1YkFLSElETTl5Z1RZekRvbndMeF9wQnllV0Nz?oc=5",
+      "source": "Portal VV8",
+      "published_at": "2026-11-03T15:18:10+00:00",
+      "score": 76.21,
       "corroborating_sources": [
-        "The Seattle Times",
-        "Yahoo"
-      ],
-      "signals": {
-        "source_count": 2,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "46a12eb37f2f5445",
-      "title": "Impacto de las elecciones intermedias en la política exterior de EE.UU - laGacetaOnline",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnowOEZGR1FwR0hlb2pZVUZLUFMxZDBCS3BHV0hod01CdzlHeGE0TW1aN0oxWk9wNVJHNDhEeDNfZ2hzNG5JUVN4RkV1VXFWdDlNNnlKYVpjWXdEX2xzZ0FJNFE3X2xHa01XcERKbjZsLUtiLW9XVHFidlFDWWR4N2xDX3huam9jWlAyMmpWM3oyNXNjWDFNVWlqdnBsakZBYTBtMnpySk1lMXQ4WWxNNVhHMXVpQ2NVaWcwbUQzVWFvZw?oc=5",
-      "source": "laGacetaOnline",
-      "published_at": "2026-11-03T16:31:10+00:00",
-      "score": 71.89,
-      "corroborating_sources": [
-        "laGacetaOnline"
+        "Portal VV8"
       ],
       "signals": {
         "source_count": 1,
@@ -37,14 +21,74 @@
       }
     },
     {
-      "id": "0e143dea14f91822",
-      "title": "Jornada decisiva: Estados Unidos vota en unas elecciones de medio término que definen la gobernabilidad de Trump - Política y Medios",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdzVXb0FsX0NtY3YyRllhY3JPV3RlaDd3dTZyY0daSmhVd2VuQzV3TTdSZndsM2ZXVkV1WExvckNpbzFJT1lCYk5wWU1TTHlnc00ydURXcmE1dXFTSFhQT0JDcTBsam04RXlxZURySnVIVF92UE1SOGUxS2UtWXR6Y20xOHZ4SlJnSWl1ajhUQUFRemg1cW1YeDJ0SUhRcDkzT3owUVBXenp3ckllMlBVVzBJZWZJOUNTcXh0aE96ZjNZRTRwMkI5U18xTnJVS180bU5Yb2VmSU1STldZUTg3dVI3cEtad3Nr?oc=5",
-      "source": "Política y Medios",
-      "published_at": "2026-11-03T16:30:28+00:00",
-      "score": 71.87,
+      "id": "7a2e7834ed44adb7",
+      "title": "Índia troca política climática por industrialização - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHB5bTNhVDRLNWp0cXZzdlVjUmFBSnprdVhfYUttSTNwLXNOUldSUGJra1Y4VFFPYTZ2Y0dCWDBfdnU1a0ZNVl92UnZsM3VsdC10bURoVjhQNU41TFpJMjdiU2dYRUNJNV82RGY2R1dGZVVSZXhTa0tvV3hGdWNtWl9jV29PM0xoYW9tNjBHcmZ2bXVvUFBPRlR0YmVpWUtCUFA2ZEIxT2ptUmc?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-03T18:03:00+00:00",
+      "score": 70.96,
       "corroborating_sources": [
-        "Política y Medios"
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "46e0351040b766d8",
+      "title": "China en la Nueva Era: una mirada a su diplomacia y relaciones internacionales - Granma",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFgxNnJJbTFUcS1DT3RORFQ0Mkljczg4SDA0ekR3Q0NzN2plenM2cVc2V05FeDh2VkRxeVdLRW9MSFdtZC1ZOE91cjcyeExxZzNDN0U5T0hlZFFCRWNGRWpnMVpzbGZlMGlGQXlYUGx0UHB2cVd4eDNHd094a19MdWJiWEdrdHh2dWE3S1Q1aERPaW9hWHdLZnJrRE9uY1FlVGlqa19pc3UwaERhY0JQSU1MeEtjUllqdzhWZ1QtM3lnV2ZDTDBlcEM3X1NQV2syd3c?oc=5",
+      "source": "Granma",
+      "published_at": "2026-11-03T19:11:18+00:00",
+      "score": 69.16,
+      "corroborating_sources": [
+        "Granma"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "357c70a4f7a05b66",
+      "title": "Un texto para comprender la política exterior de China (+Fotos) - Agencia Cubana de Noticias, ACN",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSWpjWEUwR1V6a2ZpUXhOUDVRaUp0Xy1nZlliS05mdVl5SUtMWmZxbmJfUjg4N3NzMkRsSllIR3RHTTd2VEdZSTJUR19kSnUwMGRLazZmYlhTRTRteDVuSm5ZVkNVR01mMXdxcE5LVnFldU1meTIzeDF5OTlXTWMzUVhWMEtnWGpmMm9HLXVaMXk?oc=5",
+      "source": "Agencia Cubana de Noticias, ACN",
+      "published_at": "2026-11-03T18:42:27+00:00",
+      "score": 68.65,
+      "corroborating_sources": [
+        "Agencia Cubana de Noticias, ACN"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "840c2ca72e1618a9",
+      "title": "Ex-presa política venezuelana faz alerta sobre Lula - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJTSzBiemRnaEozSmswcWZLZmpvVUU0STdBTEhuTGZ6SVBZaUxHX2hpWW96bXU1bGhCNE01S1RRRGF2dnJBQ0ZnckpwOXl1VWRtekJBeWdGX2dnQkdMQmpxUmlNOEl6cHJnaDJsQnRJSmI2Y2pHdy1UUWZkNWRDWFdjUzIzZFBxRm5mYTNlRmJFR2dhdGNfNFVsa01NczVJaWJV?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-03T15:04:00+00:00",
+      "score": 67.98,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0444ef73d5041c72",
+      "title": "Impacto de las elecciones intermedias en la política exterior de Estados Unidos - laGacetaOnline",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnowOEZGR1FwR0hlb2pZVUZLUFMxZDBCS3BHV0hod01CdzlHeGE0TW1aN0oxWk9wNVJHNDhEeDNfZ2hzNG5JUVN4RkV1VXFWdDlNNnlKYVpjWXdEX2xzZ0FJNFE3X2xHa01XcERKbjZsLUtiLW9XVHFidlFDWWR4N2xDX3huam9jWlAyMmpWM3oyNXNjWDFNVWlqdnBsakZBYTBtMnpySk1lMXQ4WWxNNVhHMXVpQ2NVaWcwbUQzVWFvZw?oc=5",
+      "source": "laGacetaOnline",
+      "published_at": "2026-11-03T16:31:10+00:00",
+      "score": 66.4,
+      "corroborating_sources": [
+        "laGacetaOnline"
       ],
       "signals": {
         "source_count": 1,
@@ -57,9 +101,24 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZDhteDVvaWQ0dHIyWXR4V3BYWlkyNzd6ZzNoMFNBai1GZmxVMTY0ekhERWNSUU5lei00MVc0X0xXTVZPOHE5WDhmWEtUZTEtMGpON1dhd011ckFrUFpwekRmdVFSQjBUbllIQmdTZHZSOFJOcXR1OVNJQXFmQzZVWnloTVFSODM2b09kT3VwSWRuRWVjVmhoS1BsRnk4YU1fVGRwNjlEclEzRlg5X2xNWEtZbzhVenNnQWpRVUZndzRNQktBbVgwSmN6Wm9WMlVFOC1pR2trUXp5NW1HR1FXb3k3Z0w5X0lqZ0hMR1Vn0gHzAUFVX3lxTFA3SE1QeWFCc1hBNHQxSEltWjZkM0RBUGVOLTdvbW9ScGhJTWJzVm84a2lTVk1sQW5xV0JDQkRZUEEwUXN6RkVtWDlTTWJsd0k2SVc0MEY4eFVJY2NRQ196T0wyLWlfY3QtYkh0MU82TTUydjRqTWlJc1Y3OUhzNVRQNl9ycmxwcGVjc3YxVEdDcFVnNlI0dHRzU3lTQVNDcHVwYmpXQVpKSF82WkFYS1FJUExvVUVDQnZsSDJrQVF3SHpyeC1UeVlGUDE2S3hZNl83UW9wblBnRzNqRVdwOHFvWFkxTndsUHhyaDQ3eVdjSHA4MA?oc=5",
       "source": "Cubadebate",
       "published_at": "2026-11-03T15:35:24+00:00",
-      "score": 70.83,
+      "score": 65.48,
       "corroborating_sources": [
         "Cubadebate"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6eed490898cdadc6",
+      "title": "La SIDE recluta agentes: cuáles son los requisitos para ser miembro del Cuerpo de Inteligencia de la Nación - Minutouno",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeGNRX3lTRFh3ZmItbEF3MkNRZlNrZ2ljQUlkVE1HTzE4ZXI3RU15ZDc1TGdtTTJBV2ZpUkZfUEV2WEpwWTMwQl9Cdmh6aVJZN2VoQkl4bDQ1Wjl6WmFoRXFWT0lNc2M2X2s2aE0zZzFzQmFMRExiX1NLbURlcVJGekJicWc0eGJoaFpaWWxKVDRVNUJoY3lEN0V4eTJIdm5TX19ZZXlOcUc3b09DOGh0QUpNaVlvUkMzNTdWUTF6empBRHhFc09yRWpKTFVUTEhtYXE2UjFB0gHWAUFVX3lxTE54Y1FfeVNEWHdmYi1sQXcyQ1FmU2tnaWNBSWRUTUdPMThlcjdFTXlkNzVMZ21NMkFXZmlSRl9QRXZYSnBZMzBCX0J2aHppUlk3ZWhCSXhsNDVaOXpaYWhFcVZPSU1zYzZfazZoTTNnMXNCYUxETGJfU0ttRGVxUkZ6QmJxZzR4YmhoWlpZbEpUNFU1QmhjeUQ3RXh5Mkh2blNfX1lleU5xRzdvT0M4aHRBSk1pWW9SQzM1N1ZRMXp6akFEeEVzT3JFakpMVVRMSG1hcTZSMUE?oc=5",
+      "source": "Minutouno",
+      "published_at": "2026-11-03T22:51:00+00:00",
+      "score": 65.31,
+      "corroborating_sources": [
+        "Minutouno"
       ],
       "signals": {
         "source_count": 1,
@@ -72,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVG0zbzBDS2YySTVyUHFBdGFVaE8wNUNtNUZwWGd1Mlk0N1J3NXlpbS1yNlRXYThHanp6RURuaXRUeHVOR0s0UVh4SHdrQmU4STZqNW1LTFFSRzFQZDNOU3BGNlVMcmtMY1FqN2d4UWdha3dKc09yMElmN0MxWi1sNnpNRjdYYUxkNHAwTGdDN1o1ZXBmODY0UWx4andhZVc5WFJJVG9aeUdTZnBUSDJ4dG5uYTY3U2FNRW9j?oc=5",
       "source": "New Statesman",
       "published_at": "2026-11-03T15:12:48+00:00",
-      "score": 70.41,
+      "score": 65.12,
       "corroborating_sources": [
         "New Statesman"
       ],
@@ -87,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMlBuUnlyaXhNNWVYQnpEQ1BicURtSmJNb0NTNWh0YmZNcTZLdUVnd3JHNmNjZ2syUzNqZFRaZlFaTEdxT2pYbjZaenRyQTRTTnRjcnQ4NUtHR3pqZXNKNldfazJhajNhSGN6NFh1ZUpQNFI5WnpmbmNwMG9wUXVBanRsTUtyYVQwa1FNN09rS25uUQ?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-11-03T11:00:24+00:00",
-      "score": 69.01,
+      "score": 64.3,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -97,14 +156,104 @@
       }
     },
     {
-      "id": "a2f7d471763d6b58",
+      "id": "9428d2a5b6f0af9f",
+      "title": "Researchers find deceptive bots coordinating online chatter in several major races - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcWlwNzJOdFdTUzRiQ003V1d4eGdrV05JSmtCVURBUUFKVmt0OXVTYm5ZdjhkVnNWVTFLNnRyWnBoN1ZiSDZmaXFVM1ZXZmhBaXo1VWNhcUJ0OHU3UzMwQk5xLV9uRi12YXZjMmpnR18zUWtvMHVydmpDWWloT3FMcVMtd3ctUGkzT2dTbEVnX2JnSkRqQVUwNjh2VndxYjB4V2QtNHFvcWY1OXdSeWNzMkFDcEdKNkhhdmZKQ0lmLXZwTExzbnlXOGVwRmFIUkZqYzBNejZpODI?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-03T21:47:15+00:00",
+      "score": 64.06,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6c9b86d04257520c",
+      "title": "Carcereiro conta em livro os bastidores dos 580 dias de prisão de Lula em Curitiba - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW1XblhfMVFMNU5sTzhCMTlEaFNFUko0ODJCNVY4NUp5TU9LODg0VW0tcGNnSmEwdU15azcwUmg5eXZJYWczeV9mUEhlbUtrd3dOY2VjZV9pVmlNLTFxZjNBRGNacmNHX2tJbE5OekZQX2JaZXJzTmxtWGpHWmhyQmJZejFJMmtmQXFRdG52VkJUUm1DbURMR2hoejRvZ1RpOWItLU12emFQZ1p3X1lzakpmLVgtZVpKd1BtUE11bw?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-03T18:23:00+00:00",
+      "score": 63.31,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "477ef5414b5f0daa",
       "title": "Midterms nos EUA começam com disputa pelo Congresso - Portal Terra da Luz",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcU5VSXhBMG9CSjJlUVZSYUNsTmVPZ3ctWm9IWklMNkRkbkJZajh4SmJ0SGlFMFUxYl9JWTJ1M1VPVDNfR0laWFhQYjRHR1pTLUNVRFNvWGdoOC1xbU9ybjgta2YtbzB6NGlJTDVidVR5NHdhTTYzX0tIZlBxX0FBbUQ5RnEtZFQ0TE5iVFQ0cVlOMDdEb0dNRlN0a2dQTXRiNHdqTWxubGRuOWN1UnRNblB1Q0pMdFhr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX256UWtMTGFlOVRMUG9TOXExQzVzSktSRXZGcmQxMmNFUlJObENBV2pQVWVLb1JUMzRPbXNKdTRGSldIVUFzUVpEWGhnQmZycUREc3R1VTNrZE94MWpsdEFWTG14RDgxLS1WM0NCSkV5RVl5ZTM1bXdYZUVGazlyelpZMG1uS1Y4MUxIUjNkOFZKNE5EOWhNLUY1QzJ6SUVZLV9qODVQTktXN1BUaUlKeDNEN29DdW8?oc=5",
       "source": "Portal Terra da Luz",
       "published_at": "2026-11-03T12:40:50+00:00",
-      "score": 67.7,
+      "score": 62.77,
       "corroborating_sources": [
         "Portal Terra da Luz"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "02c3f4cbb1004833",
+      "title": "Black Friday 2026: saiba a data oficial e como evitar golpes no comércio - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcm1weFozS2t2b0ZueExRa1VMOXpzenowRG5RRHMwZ0twN3lXMUpCYk9idF8yNV92bWhwRURPZmVyRkZKcG1URWR3S3plMGJhcWlWZ0lsVGpRejVWUVdzanVPdmtxNVhkd0FnOGh4Q1BLbmJPQlAzck5wNzFhWWtqcWQzNkx5U2Exam53SV9jZWFwTGlDVlc3VnMxeE5xSGtXNXFkdWRVNzRSeEZhT011WDN0VEVxdw?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-03T17:31:00+00:00",
+      "score": 62.41,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3625a6a9047f435f",
+      "title": "Janja vai ao STF com Paula Lavigne na audiência das bets, no dia em que Lula convoca mobilização - Rádio Corredor",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTUZVLTladTZadkVnem44Z2xVUGQtWGpoNFo1TGQ3YTZNTUhrQWFpWFBjV3dyeWVJQzg2S2EzVHgwdkR1S09xMXhtNElUcnV6NWdoa05VaDFNeVFweER1TndTWngtWF9qZ1dkamJyQUVMTnVQNXZON3J5RENwNkNlSUFZY2xldw?oc=5",
+      "source": "Rádio Corredor",
+      "published_at": "2026-11-03T16:59:25+00:00",
+      "score": 61.87,
+      "corroborating_sources": [
+        "Rádio Corredor"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c77f4fac98ef9565",
+      "title": "Peligrosos precedentes - Proclama del Pacifico",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lS1lwMUJ3NWZhem1SVjhwVWRvYUZpQ1BmUFk2RWFjTVJDZlY4T092NHhHb05odVRZcVhtTXkzdWh0MDRod0wyWDVZRWxERi1ld2FfZDBrYThvQmxHb2IxZEhXWl92UQ?oc=5",
+      "source": "Proclama del Pacifico",
+      "published_at": "2026-11-03T19:46:31+00:00",
+      "score": 61.8,
+      "corroborating_sources": [
+        "Proclama del Pacifico"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6bbffe8a38ba1f5a",
+      "title": "O que uma derrota nas eleições de meio de mandato poderia significar para a política externa de Trump? - Tribuna do Sertão",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdXhhVEs5dUFadG1fbC1rQXhyVXJ0MUZtLU9iLXpLcWQwYWNwbnNNUk1zdjhuR3hfQk9Zbi1OXy01ZkJFbGRzaDZqWUdGWmFNOHY2VTZWSnZZaHh5c1g4VC1Cd0Q2RnlzY254OGhLVWRBbi1sQ2NrRE1fYXpHMkc0Sm9lTVExbHctTkYtbU1acGpaRjdPMDNINHRiaTMtTFRTaTJZcDNudWFsY2loa3hmeS0tLUZSQVF1SlFlVDlEMllST3JqNkdKM2hNajNyaFRERHhxZEREZXZDZ1N3SnB0MFo4b2tydFR1clNWMExmNUlwUUU?oc=5",
+      "source": "Tribuna do Sertão",
+      "published_at": "2026-11-03T11:17:42+00:00",
+      "score": 61.55,
+      "corroborating_sources": [
+        "Tribuna do Sertão"
       ],
       "signals": {
         "source_count": 1,
@@ -117,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTmNfN0JiTzczSUR0a19GcWlLeVF6anhGaDZ5ZnlNZHFpR0FaWHVITUttcTJlX3RoUU1aYmk0eklScXVPVlB1N3RJV1JGY1ozYUxLOHlfODhseDFMcXE5c3dYUVhLREVlWWV5QWdtMWRydjhQQUZxbHRnU2xoTkUzOW5vTzZIV0xQM3hkRk9MNGdCVHhlX19GTGRJZjhiM0lWMW1NWV91SVhXNV9XM1FOblFiRFp4ZENybnJ0ZElaeEMzYmt4ZUtJTTlHLV9JVXZnS2N1ZDlleXRIZDFZcTBlWTRxWDZMNGQtaEhZaGpMODZCazNOS194WThVSEtSM1pKem5HOFdWR2RLdmJ3RW9MMDFB0gGmAkFVX3lxTE45YTUzNkgzcmxQNkMzUzdwa2xReGxFZFZrRUVIMFctNHBqNFU4Wkt3SW1JVEJCbDVJSlBwbGlSZlRxb0d1NHU4dlFlR2xqRlpoS0MtMU9GSFR6ZC1tTmZKS1lSQmQ0eHNOY3VlOEtUWEFjSUVuZWJvQVJOLThXRXo2QW5zYVlfVkdOcU13NnJpM3g4R1NGVnUtZlVGZ2ZibDdJMDQ3ZkRDUTEwRVNkUmJRNk1yNnlORnV5Nnc2YVJsYzZ3bFRWcG5WdE5sMU5uZ1J3bTdXWWhCS3Y5ZXA1NFNUQ0tHU1htdUtWUF9HWG5iTXFudVZLMGR4Smt4cE13MjlOY2l4WjVrNWxOV3dJMUliZ1BPSUk5dHo1Y1BvdzBVblFLZ0FuZw?oc=5",
       "source": "Cadena SER",
       "published_at": "2026-11-03T19:25:11+00:00",
-      "score": 67.36,
+      "score": 61.41,
       "corroborating_sources": [
         "Cadena SER"
       ],
@@ -132,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFpYZ0puUUVaVVBKOTVFaVgwMWhwUEIzNEpKMF9BNFl4UmFRVUhJUVVDVkdWVXl5SjVBMFBDbkpBZFV3bnhYcmtjVDhVRk1WSkluUmJTRm10ZE9QSEdueWsza1c0SlVYMXMxb2J4RmNBa0E1VGNNU3pySHFMTEgza1JsdFA4bjhsRFhadHY0Sll3ejhXSjlPcA?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-11-03T18:50:37+00:00",
-      "score": 66.65,
+      "score": 60.79,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -146,10 +295,25 @@
       "title": "Detienen a dos militares bolivianos en chile y los investigan por presunto espionaje - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVV6alJYSG8tZ0hnREhlaXhSM0hfSTBnRHVVM1hNOWlDNWZ4djQzMG1OYWdLRjIxTW9RZFBIcFJvMkhJQzlTa1BvVjh4LTJsRGxObDlZRmRwTEEwcXluOU1nNXlzUERJVDFPcktBdU96TUlTWVNUVjk1WkR1VG4ySno5dEVYbFpuU0pSQUV3UldOSGVN?oc=5",
       "source": "La Patria Bolivia",
-      "published_at": "2026-11-03T18:03:43+00:00",
-      "score": 65.7,
+      "published_at": "2026-11-03T18:30:44+00:00",
+      "score": 60.44,
       "corroborating_sources": [
         "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "261eb83f04271e5c",
+      "title": "Saiba o que motivou Marina Ruy Barbosa a apoiar Lula nas eleições - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2ZKSTBabTJ6OThLdWlXNDMzS0VKeUd5SGJqcl9oTFk5UVlwbFptZ09LNVRxc3VjTkNGR2lxeFMyRXl3NVI0TjVjTEpjUmdFV3hYOUw3Y3lNb0FhMHlMNVN5OGJ3WHRyQm1YQ19WNUpubVNackx6WVVGdkthdTJ3eHprZDZ6TFFKMHlLTGdvNTdkSFRzOGVVMFpZVG9SLW5ZeHpfUlF6ajJsdjF6T3JmMFZ3?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-03T14:56:00+00:00",
+      "score": 59.85,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -161,8 +325,8 @@
       "title": "«LA DEBILIDAD DE MILEI ES QUE SU PADRINO ESTÁ PERDIENDO FUERZA» - REVISTA PPV",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaXByMnVNREx4VlkyRmJ3dTV0LXVIZXJ5ZVphME9HcXFIc3d0ZjlIeXoxYXQxc19tdGVNWFZVNjBpQTJER21rX3NxSU9CQl9KczNyVnVrc2tpdU5iREZ0TThpUFhVaHg3MG94MURxazJHb3UyQVRBSmJPVmM3a3JPZktzOHZmRUl1R0hrM0ZsRGgwUQ?oc=5",
       "source": "REVISTA PPV",
-      "published_at": "2026-11-03T17:45:52+00:00",
-      "score": 65.34,
+      "published_at": "2026-11-03T17:47:23+00:00",
+      "score": 59.69,
       "corroborating_sources": [
         "REVISTA PPV"
       ],
@@ -172,12 +336,12 @@
       }
     },
     {
-      "id": "f1de02ff5e4c9bd8",
-      "title": "Veja detalhes não contados da briga de Marina Ruy Barbosa e amigas - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWU9KZ2ZxSGxhVXlkQlBsMFVWTzNhX0ltbzFkX3J3N3EwN0laaVA2UkZ2RHZVM0ExZ3RhbTJuQldiOTFmUjFLMGlFaDBsUGN2SXdEQUpMWldRcHFQNGVLMzRWT1o1QmptZlJWSklJaV95YWR3c3I1N1JiM0RRV2pvZ3E5S2hGSmVSSlFJaGpuNGRFc2dpX3RQZ1NTNDZQMTJyS2F0VXhXTXZLVkxKOWl0RDRYTQ?oc=5",
+      "id": "02ca78d6695c5993",
+      "title": "Sorteio da Mega da Virada terá data e horário diferentes. Veja o que muda - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ3p1Q3lfSUJLQTlGMk8ybWNBY3hIWjJWaDBKS0t0TTVOWmxlUXZzUjM4bzdJYWJ4R2lOSkMtOTkzdGExZzY2enowanRvZ08wc0ctRGxTTEJyQVBRZFgtc0JhSHpNbmJWVi11MnBmbzZJdGlWcHdCalNQQjJZN3VLVTFydzVma1FvMi1KUzE1cmNTSm40SzJIRHVOcHBvbExIU2VLdU1Ub1ZZQQ?oc=5",
       "source": "Metrópoles",
-      "published_at": "2026-11-03T13:53:00+00:00",
-      "score": 63.96,
+      "published_at": "2026-11-03T14:26:00+00:00",
+      "score": 59.38,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -192,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFlWX2FOSlBzSG5MX18tLW4tb0hqUDJZaDFqTmh3QksyZk8yd3NzUl84SG1VTUxGanFqRHlVVWsyaXdIYmhzYzBoYnoya1JQMm81a2txYncxUlNzb3pBcXdiU3ZXYTB5d0RuOUd5YlAwb2JIeG53OUZGc1pSUmNOX1ZuTFNBckJlN2pQQlB5WDB4MDlwemRtbVAxUXRCNTFMU1ZuMHU5R3oxYjZCYjd6TzA4U3ZsZnFZMkZF?oc=5",
       "source": "ContilNet",
       "published_at": "2026-11-03T13:37:42+00:00",
-      "score": 63.69,
+      "score": 58.63,
       "corroborating_sources": [
         "ContilNet"
       ],
@@ -207,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxObmI0OGdheGx1TFFXZ0JrTVJGdEZmaDJNdFlFLV9YTTdkMWVoU1FzX0g1cVQ2TzdQZlJCekZQLWMzY3VuTkdRa1d2S3dmWVJOZnhQNGl3aWdnZ3NhdjhHOWFGRUFJdk8wWGhzWXNhd0dfaDlrRXZ6Rl9YbkQ1VS1Zak41cy1yWkhZcW12Ry1zeU9QSVZDRVdya2p0VjJETER6dXhRSkRJVG9sanh4VXpQSTZBRkJtRmpzZzZDRXk4SXdhYmxhMG9fOG1ab2ZGal9NM1FNTmU2WG91M1dMbTJVLWhFOFNLQ000SDIySmxlcEhEdzhpS0tXRm1sYkVBdlh2TFIwNVJ5X2ZlNkJYTHB2VkpibS1ZWWd6QmFzeW1pTnjSAaYCQVVfeXFMT3BXWnEyb1haZXYwYmItSGhvcEhERjZYeXZKSnhPQTBCMm9tbzZTWTZRU2M2TkkxbnJnTXdhemZ5ZXlQT0M3M3BCb3piTG00QXRBUHdfcXlCMndrbGF6RnAyeWVvamF1ZkUzbFNocURNa0dLNHVWUWx0WWdBcjBqT1pmejM0dWRqd1hVcjJmbHg0RjZ3RXk2YW1iWUZ3dDZYRG9LZFhvcGZLY2pmOE1kNGRGLUQ4X2NPSmlDRFh6dWxXQ2tkQjdiek5CU05XUlpvSU1rcFM0WFI3UHlkMXhLSnB1aVpUQ2RRRHBLU0JBVDl3T3c2RnVMblZVYkhfdkFyclN4dW5GRUhPQUEwbTdhUHR0RTIySnJQeWtKLVpRWS1DaE5EeTRR?oc=5",
       "source": "El Español",
       "published_at": "2026-11-03T16:10:04+00:00",
-      "score": 63.48,
+      "score": 58.05,
       "corroborating_sources": [
         "El Español"
       ],
@@ -217,104 +381,14 @@
       }
     },
     {
-      "id": "84a91065a698dbde",
-      "title": "A la espera de las elecciones en EE.UU., caen las acciones argentinas y el riesgo país supera los 800 puntos - La Voz del Interior",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREI4bjRsN0N1YWdSdXp6WWNwYmk5NzY4bGNwSl8yX2ZZZW8wckg2V1BaZmM0N3dMazhqV2FYeGl3bjFvSnhCYUx2Qm1uM09vbk9iQ3dkMWJzOGFjUWdGLXVWMTIyNjFJOG9DbVA2SHY4QkR3VTV5S3lKREk4UnJWZlk3d3YzMU5Jd1MwcHVYMC11azNUeUxmczN5eEFRZHRtNW9ZRUxVdmhkWEhaRlpyN3habVM4amVSTTFXaUdpU1RmMXRwUHZ4Sg?oc=5",
-      "source": "La Voz del Interior",
-      "published_at": "2026-11-03T15:34:48+00:00",
-      "score": 62.82,
-      "corroborating_sources": [
-        "La Voz del Interior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5bf4bb68e8ae66f0",
-      "title": "Ibovespa chega a cair mais de 2% com temor fiscal e eleições nos EUA; dólar e juros futuros sobem - Folha de S.Paulo",
+      "id": "f9afab5a00da08a6",
+      "title": "Bolsa recua mais de 1% com temor fiscal e eleições nos EUA; dólar fecha em R$ 5,486, maior valor do ano - Folha de S.Paulo",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWRYcTJWdnVLaHUyNmVqSUlqUmVaR19XRHJab09qYkxreElPWjA4M2wtMnVHb3pfSFZoNzd0bnlkbUV2dm1GYWdpY0dIaFp6UVM2M1ctZmdNaG5DSDVWUmduWWl0cURoYS1KS280a1AwVnZNRTlCcFlyZUNmWEVSeUtRU3NKeGI5NG85elNHc3JEdWE2bzJLOUdmQjZ2T01FZmk0bV9QbkthQWNZYXh6VS1NZmEzbFdudk1uVWdiNzQwTU9ld0gwdzVLN2JhUEZmMnIw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-03T12:45:00+00:00",
-      "score": 62.77,
+      "score": 57.83,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "07ee31420ced705a",
-      "title": "Ministério muda classificação de desenho bíblico - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkZGUTgtcFp0bTJmYWFGM0ZVSDdkaVJSVzdTRXVabkRka3RxMjIybFNRU2s5ZnJYcTdQQ3ByNG1qWW9TcWZIdlgxUDFqLS0yRm9KNV9JWmw2eWZHR2E3TlIxNmNLdlVBMzdKOW0xN0t2VjgtbzBBaU04NUl2bjk0QVBMdXNSRTNyeHpnejhKZVhXRHIwMVE?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-11-03T12:10:24+00:00",
-      "score": 62.18,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "32a40710e4bbf1a7",
-      "title": "Justiça quebra sigilo de documentos sobre a morte de Tancredo Neves 16 anos após pedido da família - Brasil Paralelo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQejNlaGdULTltRWo2OVRNMHBoNTFVM0hhLUstaXNLbl9ybERiekI4eHVFTVBUazNNVU9CQWtUcVVaMm1vV2xWRmVaSU80MXFvLV9GMWNXSl9fRGduX1JURV9XbTFCNUVVRlF6UFpfSEdKZmFTaExzOFVGeHhsbEtrRE1ZOVRWUDdLWk1WQk5hZHdWTDB5YXdYcVRtOTc?oc=5",
-      "source": "Brasil Paralelo",
-      "published_at": "2026-11-03T11:45:24+00:00",
-      "score": 61.75,
-      "corroborating_sources": [
-        "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ebbd98dc8da2e837",
-      "title": "[Audio] Pedro Basbus analizó las elecciones de medio término en Estados Unidos y su impacto en el poder de Donald Trump - Exclusiva | Plataforma de noticias",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbmZibmtFa3NoYVVoYlFDOXh1ZFdkWVR6eExudDA3RW5GTGFRVjJaVFJRdWd5YWZYRFBKZkJ6YVlqRkUwNFJmeW9FSTN4VGRNU0h3SlRRdlBDZnFxWGZHREw4cktlS3daMFUxYmJyN0gwQmt5LTBDSTZQbFVPMF9MQ1R3aThiYzJZeTZlazNTaHdiX1ptVldjQ2J6dzI5SHdrQTF5ZlBRd3EtTjdzRDVSS3JJOEppQ2tONW1tWUVENUFad1Y3ckg4eVAyMFNaV0JVcGRuSFktb3BlNlhiNGM1dGlnZVY1aTUtV1JSeDdn?oc=5",
-      "source": "Exclusiva | Plataforma de noticias",
-      "published_at": "2026-11-03T14:23:34+00:00",
-      "score": 61.51,
-      "corroborating_sources": [
-        "Exclusiva | Plataforma de noticias"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "12f0f0c7f9a8735f",
-      "title": "Will Global Interdependence Make A Comeback? - The Jerusalem Strategic Tribune",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15cFBWRkFwQXk4TUtnUm1CaDZpclJjRVVyb1pEUXF4UXJsX1laTms4dDNBWHlaRzA4MFNJMjZueWFwZmp1N3JCcDd1bWVRN2g2R3JuREdDcVpDaXY0R21RdFhZV3lnMG91WnMtVWE1djFSUlFN?oc=5",
-      "source": "The Jerusalem Strategic Tribune",
-      "published_at": "2026-11-03T14:22:12+00:00",
-      "score": 61.49,
-      "corroborating_sources": [
-        "The Jerusalem Strategic Tribune"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3507dffd94b46c38",
-      "title": "Política internacional, economía y elecciones: el primer día del ‘World in Progress’ en cinco claves - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlhEYTR6SEUyRF81bVVpMmY1N1lyeWVKN1B2b2wtVkxKd0FlcDJ2bU1mSUZPRlowbEhBckY0cThidDl2ZkpuYjRhazc0Mkc4Smk0ejM3NEtLWGtUZU1HYS10WW1nU2V2ZHRXRkNwX3FWWDNBUGdaZWFjYXRyRXE2b2JVS256OGVWVUw4dVRVY0Vrc185MXFaVU5XNVJGWHVWVVJLM2F0UjlsUUJTSXRZdHlOeGUxY1BSWVI4Nk9ndWJqS2t0TWpPNjVmR3l6UGNnVVJ3UA?oc=5",
-      "source": "EL PAÍS",
-      "published_at": "2026-11-03T05:55:00+00:00",
-      "score": 61.32,
-      "corroborating_sources": [
-        "EL PAÍS"
       ],
       "signals": {
         "source_count": 1,
@@ -327,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRmQtVi13X2wzai1oTGRTVnJRX2kwTFBXdGhjcnJKQ1Zzczh2dkRKVFRZRVBiUjNVUW5POEw1V3dxLXpoMF9iOWpGa0VDM21zUkQzZTdhbmZuYWdkLTlhRW45bXFPNHFxVmxSM2ZuSFBwTmdIRVZpUVhETS1HYTRQdjVHRnFsTFVtV3lDdXcyWGhtcE1DdXRfcnV3RjBFUGN5eEt3QXJpeWNudkx5Si1zWElTRUhFXzduNUxOODBObHYxdTktN004ckh3THNFUS1hbFhyMGJycFlQY2lnejN4UU1R?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-03T02:00:00+00:00",
-      "score": 61.14,
+      "score": 57.48,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -337,14 +411,14 @@
       }
     },
     {
-      "id": "c6a4d00bd7adbf3d",
-      "title": "Elecciones en Estados Unidos 2026: ¿cuándo se sabrán los resultados? - El Informador",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmlTNXdaYTMyM3hZVVIzbFVUYm13eUw1RlpWcEItLV8xdV9uNjV2MEN2ekZQbTl1VlltdjFHZEppbnVtSkRHYlhNM2VGcWJ5NWdZWEJTZDU4VzVFaVAxN1BCWEJWTkRaMGZ6MjFEdjg2Q1RlNkdTeDNoei1KSXZYRS1tRWs4X0p2NXJTTll5UVlhZXhMdFdmYUNwNXBZYjRRbnFoOXpXZGM1ekxUWlBjTWEtN3FSblg1eTYzYUNYaThOUQ?oc=5",
-      "source": "El Informador",
-      "published_at": "2026-11-03T13:49:09+00:00",
-      "score": 60.89,
+      "id": "84a91065a698dbde",
+      "title": "A la espera de las elecciones en EE.UU., caen las acciones argentinas y el riesgo país supera los 800 puntos - La Voz del Interior",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREI4bjRsN0N1YWdSdXp6WWNwYmk5NzY4bGNwSl8yX2ZZZW8wckg2V1BaZmM0N3dMazhqV2FYeGl3bjFvSnhCYUx2Qm1uM09vbk9iQ3dkMWJzOGFjUWdGLXVWMTIyNjFJOG9DbVA2SHY4QkR3VTV5S3lKREk4UnJWZlk3d3YzMU5Jd1MwcHVYMC11azNUeUxmczN5eEFRZHRtNW9ZRUxVdmhkWEhaRlpyN3habVM4amVSTTFXaUdpU1RmMXRwUHZ4Sg?oc=5",
+      "source": "La Voz del Interior",
+      "published_at": "2026-11-03T15:34:48+00:00",
+      "score": 57.47,
       "corroborating_sources": [
-        "El Informador"
+        "La Voz del Interior"
       ],
       "signals": {
         "source_count": 1,
@@ -352,14 +426,14 @@
       }
     },
     {
-      "id": "178ebdccf2562b16",
-      "title": "Estudio U. de Chile revela cómo la polarización entre el Frente Amplio y el Partido Republicano llega a la política exterior - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVFaUW03Y3dPNndmRVFKSEdGT3dCcXlUYUFfUi1zOEc1dFItRFBlOF9iMnBJeHJ0ZzNYSjJqOXpCa0ZKUklJZWxvUFlBYzh3MVNVNDN4VnEzeTVJVlFfbHZ1YjU5N2JvMFpRWThvU3NlZkJNX2MxbVF1Tmx4NFlSQzBESmp4UkRsV2RLTFBWUjdhTjMwd3dIVkpwbEtWNXRSYm1LOQ?oc=5",
-      "source": "Universidad de Chile",
-      "published_at": "2026-11-02T16:49:15+00:00",
-      "score": 59.92,
+      "id": "07ee31420ced705a",
+      "title": "Ministério muda classificação de desenho bíblico - Brasil Paralelo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkZGUTgtcFp0bTJmYWFGM0ZVSDdkaVJSVzdTRXVabkRka3RxMjIybFNRU2s5ZnJYcTdQQ3ByNG1qWW9TcWZIdlgxUDFqLS0yRm9KNV9JWmw2eWZHR2E3TlIxNmNLdlVBMzdKOW0xN0t2VjgtbzBBaU04NUl2bjk0QVBMdXNSRTNyeHpnejhKZVhXRHIwMVE?oc=5",
+      "source": "Brasil Paralelo",
+      "published_at": "2026-11-03T12:10:24+00:00",
+      "score": 57.31,
       "corroborating_sources": [
-        "Universidad de Chile"
+        "Brasil Paralelo"
       ],
       "signals": {
         "source_count": 1,
@@ -367,89 +441,14 @@
       }
     },
     {
-      "id": "043d4aff5ae38917",
-      "title": "El Gobierno se prepara para una derrota de Trump, pero no cree que esté en riesgo el respaldo y tiende puentes - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU2RDeDRCd1hzOGhrbGdoLUQ5VWdOTUdhaTVZQ18tVy1jd1E1TEVCWlJmaXFuMjRBOEhqWlJTUndVYjB3NmVmNEtsSVJTcnhDQllhczJTeUNvd1F3eGNqamNKdFBnSWFkcVpTTEtILVhsOFhleEp1bFJyR21PR2VXRFItUFpPbm5UMC1EeFlFQkNyekZWTkxVQktUZlEzV1dFanlaZGQya0d0WFJOQ291XzF1QjRKdC1rUWZzaW1pMjhGMUp2bjd4Q3RIUGxfNHlDczZWb0JoU01WeURsLWc4aUNsSlUybkFaN2fSAYQCQVVfeXFMTXg1MmN3WkR5M0tQVl9FMnhXNXZNNjUtWnlUNFV3eVFUYnp1dWZ3X2FNTXJub3l3ZXFaczNyUkFYNEt0N2VxdTdWS0Q1NldCa0FwS1h0RlJzcWRoYTRONllwQ3VfLTRlU2hUNUZEOXAwSTZDclppOXhncHRXaGRvMUN3aVlCRW1zMDBvQnBvWFM2dHNmVkFFNmFiQlNDT05MbDVxWnpFSGVnZTBVTldPeVJHQnpjYWxhaV8wY2gzb003S1gyOUl6YXQ3b0xSZ2lUbEFXMVpHdnBkeDRBY1gzNGowMzhmSU12ZUxZWm4wU2tCMkFrYVg2dmM0Si1rdWkzUkNhNng?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-11-03T11:51:00+00:00",
-      "score": 58.85,
+      "id": "3507dffd94b46c38",
+      "title": "Política internacional, economía y elecciones: el primer día del ‘World in Progress’ en cinco claves - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlhEYTR6SEUyRF81bVVpMmY1N1lyeWVKN1B2b2wtVkxKd0FlcDJ2bU1mSUZPRlowbEhBckY0cThidDl2ZkpuYjRhazc0Mkc4Smk0ejM3NEtLWGtUZU1HYS10WW1nU2V2ZHRXRkNwX3FWWDNBUGdaZWFjYXRyRXE2b2JVS256OGVWVUw4dVRVY0Vrc185MXFaVU5XNVJGWHVWVVJLM2F0UjlsUUJTSXRZdHlOeGUxY1BSWVI4Nk9ndWJqS2t0TWpPNjVmR3l6UGNnVVJ3UA?oc=5",
+      "source": "EL PAÍS",
+      "published_at": "2026-11-03T05:55:00+00:00",
+      "score": 57.23,
       "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b98ae4c812b6b473",
-      "title": "Internacional. El Faro de las Resistencia (6) - Resumen Latinoamericano -",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnFlQ2VLdTVJdnU4OVVyZkE0RU9UdzVOZ2hjLWhGcmN3U0tmeTViRVJLQkRfRE13M2h2VEZtRzBITlRKLXBHaE5qdGdTbHRvTndxTFBpSldNTWY3UTM3dXN4NlJtLWZ3NS1Zdm1PTmEtZVQ5ZEdjTGtrLUFYWDEzYURzeF9UNW5RWm5tYjZ2c3pPMU5ORzgySA?oc=5",
-      "source": "Resumen Latinoamericano -",
-      "published_at": "2026-11-03T09:04:04+00:00",
-      "score": 56.14,
-      "corroborating_sources": [
-        "Resumen Latinoamericano -"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6c8d948754c986f6",
-      "title": "El Gobierno oficializó a Juan Navarro como vicecanciller a más de un año de la salida de su antecesor - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUkZxbTRFUDBNTDAtUkpITWN5a3VaQkYyNFRoTlEweGNWZW1hN2dEdnp1bVJZWDVFUEloemE2QUpIMnVIV3U3QnVkZ19FME4wSTFvdjFqRTN6Z1dQbEVoal8zQjJNQmZUWVk4WnNvUjJ2UjM4LWtlOVM3bjNtbUpzSDhaNnFWMkgydGw0dkt3SW4yclZ2RUhWaVZkcDhSa0IyMFFBamlScVpZQWdFTzVpN2lGaXVRNkZMTlJwNjNVb1NBcDFPamVzQ0Fvdy1XWHRZNUI1NzdWRFIxTUNhMy1kNS01VdIB_gFBVV95cUxNLXJvRE1tSVI2bzY0VzJrbGd4VFhjOUx1SzdUa0FPS2xYRXFkVEk4VkZJcDJTSE9xbnQ2blBkby1zVVBSLWlWVXgxSW16SlpPS2xaYjhET3VGYzN5d0xYTWNTbWNSUXFNam0zVFNWTXhCdXZ1VG5BZlZ1c050NE0zWmI5ZFlPaVhuYVBHQzJpT1lxZEZ6S19rbWJPQmFSVUk4b0dSWi0tTHA2TW50QWJvdzc5Z1BDalZuSmRULU41bFJhOEliLUw5cW1kV0FpVHpvTWNmZGJQSllTaG1IRzVBcnRMbHRoQWx4Tll1OGtvTlprbklpNkRDeXptVGhCUQ?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-11-03T08:55:00+00:00",
-      "score": 56.0,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b395f0a504ac8bea",
-      "title": "Récord, negocios y política en la natación internacional - Página|12",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXN2TkRfSnJTNHBZZGxSUXdMM0l5YW56N1RjUmRJSmhCVWxuZlgyZTNlUUs3NnA1RGdCZ1cyM1U1VEdFZm5UWFhmNXQ2c3gyY2ZIVzNiNnE0d0F2Y2xfMklSVnhoQUIweTk0Njh0YmNXbmd3bGppYVJYYXFMenpBaGxZTEJjQWRzc25SS2Zfd3JCRmtYWmwxQ0JSTQ?oc=5",
-      "source": "Página|12",
-      "published_at": "2026-11-02T20:58:49+00:00",
-      "score": 54.54,
-      "corroborating_sources": [
-        "Página|12"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6b87206e417f42a1",
-      "title": "Decenas de líderes de la Commonwealth se reúnen en Antigua en plena turbulencia política global - vanguardia.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNi1SX1NIZnZQaWNFNkZoaXhSSEtaWnk1N19ZWFBmVEtuOUlIUDJBUFd3VFlLX3BJWnROb0dSek9XdXRXVC1EN2FpNVA5VGZaZU04NEw4dllfZHd6Y2xNYVl3RVExamhSeTFSNGxEYUJuVDZiNUo4a1ZwR0xiaDhZS1BRWEhDSE5LQ0xmMzRZN085WGRCVkt3VlktSnhUakRSSTJpZkxIc3VVc2U0R2paZHVxd2NFUF9HN3ZRWGJzSTR3cVB3WTZKeWE3QW9mcHYtVXVoNW1raURFdzhPZV9mZ2NaS0VQTUtFWk9r?oc=5",
-      "source": "vanguardia.com.mx",
-      "published_at": "2026-11-02T20:42:55+00:00",
-      "score": 54.36,
-      "corroborating_sources": [
-        "vanguardia.com.mx"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3f4eae0cb940d015",
-      "title": "Las ‘midterms’ van a ser la clave de toda la política internacional y nacional, dice una persona que no sabe lo que son las ‘midterms’ - El Mundo Today",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbGlNS3d0c2Z5alZqX3dXYWZIVW00RzNWSE1Cdm11N0ZycnVUR2FGT3QzNjdiM2poZENwVjh5cVZlYmQwV0owLW5KVFI3eXVGX3Y1eEs2VmMzNU4zdUZXMURPT3hkbHZmcmRlSGhHdlEwMldSMXc3b1dwT042N2RZSEQ3ZlkyR01ySkt2REZ3Y3NFX1lnZTJ1TUpPX0lNeVdEbTN3OGJ5RTZtS1lOTWFLcFZ6Ry14N1YxcUg0TWxhNm1WVFllYmlrd2djQzJTQ1l1NFAyYjctdy1fcTNxTC13UDlxd1JJYnl2NjFuTEdBX0dCSktiM1ZTaFNOTQ?oc=5",
-      "source": "El Mundo Today",
-      "published_at": "2026-11-02T20:11:49+00:00",
-      "score": 54.02,
-      "corroborating_sources": [
-        "El Mundo Today"
+        "EL PAÍS"
       ],
       "signals": {
         "source_count": 1,
