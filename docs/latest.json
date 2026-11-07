@@ -1,19 +1,154 @@
 {
-  "generated_at": "2026-11-07T14:55:20.099931+00:00",
-  "next_update_expected_at": "2026-11-07T18:55:20.099931+00:00",
+  "generated_at": "2026-11-07T20:15:29.206062+00:00",
+  "next_update_expected_at": "2026-11-08T00:15:29.206062+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "ef5bedcd1d8998f0",
+      "title": "Breaking: Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDJyaEFYMVpPQ3czSHdJYXRwNUozdW9mdzYxMVZLRmFhbG1meWVQMmNKSVNCRXBkYmJZS3VYU0Q2bUR1VGg4eGZGckxRcURja2dyc0NfY2wwaWpvMUNNV0JuZnd3SXNCdldKeUxBZ2x5UHhYV0JIRGR1NzN6SlU5V3N1M3AtNVh4aXFyeTVfM1ZwajVSb3J5ZUhIV0JGeDZsall1dVp1X0VYbm8?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-11-07T19:41:50+00:00",
+      "score": 82.78,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "19c537f00c8ffe9b",
+      "title": "‘Trump está convencido de que o Brasil não é mais uma democracia plena’, diz Flávio a jornal dos EUA - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEpFR1JvM1RCMVFzanZKckk2eGdidkdFMDVYZlM2bGZsZzJkbGg1OTZkc0VMRGUxbnVnb0cxQmoybDBGcHFUYm9VcEpDQWViT3dsbWlVRlhJMDYtbEpwQ0lVUVJJVHE5Z2l4Q2ZWN3l3VENjRDlfRC1CNW5CUE5rY2VsbTdxMllLS20xbkxROXJnN3hZNlV5TWtudVlKUdIBowFBVV95cUxQamNmMFUxelZEdkZtLWJ6ejZvaE1FeFZEN04tdFZXb1BRbDZFRHhvLXF6QnY3R0VnR19qVzlTdHFtSnRJRDIweTVmSTlOTkJjOW03Uy0wV1BwWjBTSlhWdW4yaXFQVVVSTWMyUHV4SGVtTkpxbzhybTZqZjZNWTNRbkNUVDlkWnhKY0p0Rlp2YWZsdkRfSm5VTVliLUVQMDJPVzlv?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-07T19:29:00+00:00",
+      "score": 77.52,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e5b52b2cbf290d98",
+      "title": "El nuevo péndulo de la política internacional - El Nuevo Diario",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajJWMlpvVkRad1Z5MUd2WkxTYS1WSUZCX2tOVHlLMV9QX3FXeUlWaWpUOGJjSjkwZnFCU1JtNmhvRXRoNE4zUnFBeTkwMDB2UlhGVDVwMVFQcThWUnhQTFViS2Z4MXJsamNDWjRsa2xxVVdRcHMwZXdoYzRKeC12dg?oc=5",
+      "source": "El Nuevo Diario",
+      "published_at": "2026-11-07T19:07:11+00:00",
+      "score": 74.08,
+      "corroborating_sources": [
+        "El Nuevo Diario"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "86a3d964a9906b3f",
       "title": "Netanyahu pode perder o poder em Israel após oposição reunir apoio de 67 deputados - Transmissão Política",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGthVl9jR0dJRUpLWmJMQ3R1N0M3SnNrREJDUE52dUs5WUdkcV93MmQ3NjlYUlc1N0J4dVdfTmJFRmpZRl9XbUlBV2JJamMwUTBJUmM4N2YwMkZObVZLZUFGaF85NkNWNW5VTXRGLThEOUN0Mlp5RlRIQjVlWndXbVBWcHA5NHQ4Yk0zZDNtTXRyWUYxcUp3NU5FWHJmczhLZHB3U0VfZTFoTXFxTFk4Y2xjQQ?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-11-07T14:13:00+00:00",
-      "score": 74.6,
+      "score": 68.52,
       "corroborating_sources": [
         "Transmissão Política"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3118959dd47da452",
+      "title": "Santa Cruz lança política de diversidade e comemora cinco anos de promoção à educação antirracista - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeHZzVURqZy1vZzRSTTNuWHh1VDRmSFIzVk95VXZaVWlSZFRoSG00aFM1UmNMdmlfVkNFQjlJcmh5SGtadlFlZjJGSDlqRUZYMG40UDFRLTN5WUZDOFl1TVZHcElFQTh5NjRlcXhJblNFUEpLNHJGd3lvb0YwdU1jN2drcVdsRV9XWHVac0dvb3U0VTk2VDBDLVVmRlMyLXlzSlR5NXAtcDN4QVpNOWJlX3VDeVZmM1JHdE9lbG9WSUNMcTFUQzQ0WWR3TFNabGprQTlsRUtyRDI1Z1dOZ3pHR9IB5gFBVV95cUxPb1p5a3dITVFhaUJ5YnYybGg0dXlZSV9qSVFONXhxSmZLYkZBUUdVM0dNLXBQb1FiWjZFRlZlVW1yTVBQV0VYX2RLWEpnY055TUVVR1pSLURURk0xRE9oaW5yaTJUdk0yTTJTdVpoNFVkZ0pVYmxtM1BRVVRVNnNDZlFGUVBPLXdsSENmWXNRZlRTRVBiWFRpQ1FFWVEzZk1IWjRSRTVFQTZsRWtjZWhwZ05hY1V3VEVWaVowcFI4Sy02V1h4UXc3QlZGbEE3SnotZTViWkpUa25yZ3hDZWtLdk5vcHVQdw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-07T10:00:00+00:00",
+      "score": 67.32,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "06544470850bf2b2",
+      "title": "Bucha and Gaza: selective morality of international order - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUZadDRWTnFmVGk4bDZEblNPX0FIenBIUVpGZi1YdnlSb1NtMjZSdVF3UmZPRGFZUEhKSXJtWVo1YU5KcmZXbW5YWm9TY0paY1hIWmN2X19udVZ2WUdBNUhvN2xKWjZfSjR0d1pUSUxERXo3Wlh1WWpmMUNVWW1LV0Q5OGVtZVpFZlNzTldjdjRhOW0yQUF2Y9IBoAFBVV95cUxQYUJFZXcxaDRqOFdoVzVMZmJBWDRGNnpNVWs3cC1Wc2x2blByNHVHWDNDbnN6Nm5mMzN0OFF3YmRhY2x3TTRXTG1uM1RfbVk4aTdZMUNSaHR3azVpQ2pENEhSMENUV19EOXMxX3ZHd1BTZ1JFcHlQU2xqZnJnRmdiSmRIUzd2V3hxWVVXeExET01OLWV2MG9WaU1nT3BUbUY2?oc=5",
+      "source": "The Express Tribune",
+      "published_at": "2026-11-07T20:03:05+00:00",
+      "score": 67.22,
+      "corroborating_sources": [
+        "The Express Tribune"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "515cac4bee9e5988",
+      "title": "Com ‘Dark Horse’, Bolsonaro tem ‘universo cinematográfico’ que mistura dinheiro público e privado - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2FOWUlIOVBiQ1dyYko5VzZzZEJvbkhNNUtRMnRFNFV5dzFMM0ZtMHRSRUhNRlJXLVhvZmFpSVotNFg1UFI2emtka2ttWmx6NnpCWW5FMFdpTmFQcTJ0dHNjRVZIVUFYLWRUYVN5VkpKdkhhQXlnTU1KZGhfSUxaNTJxQVF6clgzM1JDWFZQZFhHeFN6Y1ZaclhtN09xeW5QZEZoc2VYZkhVUG1DNFV4NkpHTnRFUdIBuwFBVV95cUxPcVhId1E5Z0VEcEV6RzAzTDRiNlpFcFVaRnMtV3RWSHh1R1ZzUHphdzhBQkp3UUhOWXBjSnE4Y2tET0E0cjFmMFgxRm1jZFY1R1BzbVV1bC0yUFZBSmw1Sm1hdHZRTzJNWFI2UWdGSFZyb18wMTB4R3M2b1hpWWtveVRDWGNGdmlXbUFscVVsOGlJMXQ5ek1ucnhidGdTelJLYW1rTDB3Y1ZMRk90R2t0VmZYTXpCcHRlUWhz?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-07T17:28:00+00:00",
+      "score": 67.12,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b3974430f1a5be52",
+      "title": "Donald Trump: ‘Los demócratas andan amenazando con juicio político a pesar de que admiten no tener motivos para hacerlo; es extorsión al más alto nivel’ - El Universo",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNY3NJNW1NOGNlTFB6OF9OakVqVXRnOGthM3FPcHRtYy1QX1M2R3NJd191V01UNjZfZFB3cWlrazJYVWszR1FaRGpLakVZWlV6dWoxMmhuR1dXUlNQMkl6TG5HVG9KSGRjNm9iR1RBZk1GSzBiZGd5ZW8wNEczbzVPUUd6eXNaM08yTjZSSUhUSGhUNHE3Q0xsOVBDTW9JYmpwVG1hYVJIWHZnQlZIVUNkcnRuNDAxeDkxUlduN3VkNnhBS0hPUlVMRC1uNExLVGN3cGpuZFJsTDJFaWJEOGhWenNSM3lwZUxwRE45SjlvdTZic0d1NjBaZWhmdE83QndJZjVhVGx2b0hRMXNRUG1MQXoyZmFjOHRsZ2Z2UU1VUks0eEpiU2EzMEc1NWR0dS12WXZidtIByAJBVV95cUxOWXVyb21iUjlDeXhqTEgtQmpselJtV2tUY1RjM2lVcjFUN2RrYXoxUHhpeWFkWUNzZVZIVXYyYmN0Q2RMUlQ1aVhtZEgydW5YUXYwVUc0R2J3cWFuM3BYRHFDVGJyc0xDNnJGVEt3aEZTLUlaMGFGWTJZc3lZZFlhaUI4VDBDZndfMVp0YTQ4TDZKcG9uRWlBMUpscUE0RTRvUTNybkJMQlN3UFdydE9KaWY1RnBWbTJDLThSV0hzMk9vTUZ0TGRJYU8yVDFyS3RBdGJGNVpkQ2ttQjMzRzhBb2lfOVU4NHpVUWFKYkNId2p3Ui1McW5KZVcwMmQtOHBXY003Rm5IMEE3NEZMM3E0UEFwMndMZ3pvQW1ZUHBJb29aQ3IxVjNCR0gxQlFFLWFlTWhBbC0xSGVIX0VKazBwVXJUNk9lUEtY?oc=5",
+      "source": "El Universo",
+      "published_at": "2026-11-07T18:37:00+00:00",
+      "score": 65.47,
+      "corroborating_sources": [
+        "El Universo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d5d3864fcc7af43c",
+      "title": "Editorial. Milei se queda huérfano - laizquierdadiario.cl",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TaFhEMUxGVFU1ZGl1N0wzMjVqalg4blY1cXk2eU05eGI1ci1YZDB1RmtHZHdXbUxMSFdwek9hNE52TTMtQWxmVlNMN3Y1akJNZEpaa3NMbVN6RFZPTnFPVlN1LXlYSkk?oc=5",
+      "source": "laizquierdadiario.cl",
+      "published_at": "2026-11-07T18:32:26+00:00",
+      "score": 65.38,
+      "corroborating_sources": [
+        "laizquierdadiario.cl"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c5bd1844eab0be10",
+      "title": "La redactora jefe de Estrella Digital, Ángeles Moya, participa en un seminario sobre comunicación estratégica y seguridad internacional en la URJC - Estrella Digital",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcExmREtDLWJxZEI3elpmUmpDVGNlVXMtVDZ1dlNsLTV3SjdCcWlJWkI3UmpNZXdNQ2plWVBqdy05TlRkcVFkY1NIZF9rdV9nbkZOMlJuX0V2b0R6aW1XOWIxVHBFaVlyU1BRb3ZrZ2JGMUZzNkxodDJfbVV4cGI3Z2FUdDBXRVg3S3dRbzZMcGdudC1PMHBmaFRoWHRXLXVJZmVwc05FNW1Yb2JwcGNDVEtENkR4NjB6ellOLVFnXzBvSEN5a0RuRjFhSlNhaGQzQzNoUlNucGdLZ9IB3wFBVV95cUxNRF9USXNFWWgtUVdnb2l3Uno5MnNQTzJvM21tWkRuR2tka3pmYVBiOUl5Q1QxamZKQk1YSU5OZEdoY2YzQ2NjWk1odEVYYzh1STY3Xy11OTlqMDZuYllNel9Vb3ZDX3BLMlhRZUI3cmJ0Z3VTSlRQVldzTUd6RHNrWF9KNy1pZDdmLXgtQ2NINERHUmpqVGxmbjNidTdqQU5lUDlBUWJRVHhlWHZESkgxd2hkRG5NU29GSFFPUjZaQ2U4eHoxWDd5WG91MTAxdGh1RUJOLVRZN3VIWTBNdjRz?oc=5",
+      "source": "Estrella Digital",
+      "published_at": "2026-11-07T17:56:08+00:00",
+      "score": 64.67,
+      "corroborating_sources": [
+        "Estrella Digital"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +161,24 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElLZU04UUljaHU4OW5Ka3ItMW9VeVk0S2pwb2Myd0tNWjFhZHZWTWVVNHd4TmtrLVBKV05iVS1IbnhlZTlLWS1Ed3lVeXJIWl9pVlRUNjd2R1BWZzdmY2xGTk83SmFHVjdPeGN6OW1Ea2dEbllVSGdXb3U2ZmRucFJBNVJ3WWgxYmc2bl9uYlBHbFc2U0NKRWxOOWJwVjlkZ3FkNA?oc=5",
       "source": "Good Authority",
       "published_at": "2026-11-06T21:42:06+00:00",
-      "score": 66.37,
+      "score": 62.53,
       "corroborating_sources": [
         "Good Authority"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b3a6d84b193be5a3",
+      "title": "Internacional | Asesinan a un diputado opositor y a tres policías en Guatemala - El Informador Chile",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSC1rTUp1cjE2SzZkQlZXUTNtOGRmODdiZzMwMkdSRHFlbm5Fbm1LbTNGV0NjSjNVZVhIc2J0WnZmbjAwLUNWVEtqTkFPYjV4T0FaYlBPM3ZZcGc1UXlFNlMyQk82ZzJUQ0tOSllsY3dDcllBaVR2RW10TFFlR3RSdVdxZjlQWHFnTkc2RE1UdURiQWlMSEtraVV1bTk1MUFjWHpNMnJkcE1uMW5wX1FXUmw0U2FmV204MkN1Qzd3?oc=5",
+      "source": "El Informador Chile",
+      "published_at": "2026-11-07T15:20:40+00:00",
+      "score": 61.74,
+      "corroborating_sources": [
+        "El Informador Chile"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +191,24 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRi0tVXhuR3RtMWFYM3poMjlGamR3UUxDM0hlVTBsbmJfRnB6X2hKeVV4ckhFSlZGOHRPejExUmNmRWx3aWZGQzJoTDM1bHdIQjRmb29CRU8tZkZsNnlRbDNtQUFCbnd6NXBxRDJrUTFXOGhlQnVxRE9iSVB6VmRReV9wWHpCeG9pUGd1NmMxR2xOX09jTGVZZ2diMlBrY0s0QmpTejlqR3kzZk9kX29aMDVDS1JQcUZtZzJlcW02dw?oc=5",
       "source": "El Informador Chile",
       "published_at": "2026-11-07T12:58:42+00:00",
-      "score": 65.11,
+      "score": 59.24,
       "corroborating_sources": [
         "El Informador Chile"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "60f66105db675d2e",
+      "title": "Saturday Sports: LIV Golf shuts down; Russian hockey teams banned from World Juniors - NPR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamk5eVJHdTJNZXVYNzkzN1RUMDRoNE9BWmM5bUxFVkVRandoZjB1b01ORk5qcHFfN3ZSV095ZHEwVnNNX2d4d3pSYjR0al9xZjdxT0VSQU8tdi0yVmZYbUFLWlZPZ3JMbDM0RW15dG1HZVhUQW9vUllRMms5bEdpX1BVc0RSRXBicEtHQmxELVlEQmdmVWxkMmJtemV2RlpTWWhEZ2hFcS1kSi1ZbjVhNllqQmFva2pUM2tDNjRPeWg5cHI5SlE?oc=5",
+      "source": "NPR",
+      "published_at": "2026-11-07T12:41:00+00:00",
+      "score": 58.94,
+      "corroborating_sources": [
+        "NPR"
       ],
       "signals": {
         "source_count": 1,
@@ -56,69 +221,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1NTanRKTVI3ZUtVMEJHbjh3cElxMmgtQjdZREZvQTN4M1dTTHJpbUhqVzlBS2ptZFB4bVhQeGRBeVpHQk42LWUtN2RtZDhZdjJvbzIzaGFqZzRXQno4NWtFNzZyOGoyaWpDWU14Ni1DWXc3SE9CUFMyd1pVa0VGZExGcnhHQUo1YXpmeG9nSFppZWh5TlZQakFFSnlvXzA?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-06T23:36:06+00:00",
-      "score": 62.88,
+      "score": 58.83,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c816792428bb8b6e",
-      "title": "Trump: Soberbia y arrogancia - vanguardia.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tekFLczNxNG1VejV1VXp1ZDBOUkc3V1lvb2k2YVY5OXZoN1hiRC1Tb2tnRWlocUdYVE9oUGY0NnBzd3VjYVVndGxYaTdtaFFLdFVrZXNMWE15bXBGeHFmWnl5Z3JXT3F1LTdiejBVYl8wdnBUR1BjYWxvc0w?oc=5",
-      "source": "vanguardia.com.mx",
-      "published_at": "2026-11-07T11:00:00+00:00",
-      "score": 62.83,
-      "corroborating_sources": [
-        "vanguardia.com.mx"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3ec47f64f93755a6",
-      "title": "El efecto dominó de la derrota de Trump: Vox, Meloni y Le Pen toman distancia - MUNDIARIO",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTNya28waUdta2dRUWt5UEp4a0wtWnlYZkUyM01YVjZ2dEVYU3I2YW8xcmtaVWFqOHJrM0QtUE9WSnhJSDlsOXA3Q0xjWEFkdUhmbXNGZll4aHVjVUJrcVpnMDJBZ0xtUXJkTDJMUmdFdTVEV0xOdTFRNUdPMzYwTnJiY1oyQmVvUmgxX3RkZnNlTnFnNTJqY0ZmY2JLVWJWa2hCOUR3aXNKeFJvSmRHUzhrSXRRWU1qVElJbXlyRlFZUdIBxwFBVV95cUxQa09nT2VlaS0yMUdnd2tEYmxmT0Z6X1RBZE1xd3Rscm5SVDJrSFVoTXBnM0lFbWp3Z1ViR3h0Y1JyTjA2Q2RUWG1uMFFfYlRrRkdlWHZSOUdqYjhha25rNmpvazB1ckhKcS1Ibzhlam9EVnJjRTJkT294dHNIQkZUS29EbVJrMlF0MU1aR25UajRQV0RQbDd1dzZhcURSQkQyaVZTSnVvTk9iUGhJZGI5c2R1d25YVVg0Nkx2NkxBamxodlNvSkQ4?oc=5",
-      "source": "MUNDIARIO",
-      "published_at": "2026-11-07T10:42:33+00:00",
-      "score": 62.51,
-      "corroborating_sources": [
-        "MUNDIARIO"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b055bdac209fdd36",
-      "title": "The World Cup Is Over. The Drone Threat Isn’t. - RealClearDefense",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTZMNS1RdVRaRE1FM1RVc1JSVUdpQTNFS0tGcVZ4eUV4S09FY0VTbElFOGNLaEktRllfeW11RnBjX2pzZHJFeVQ5MEdHdHdBUVMzX3hSeWVERkhmbTZPMVpncmRmV1JmcnZFanFFTFU5bnZTRXU2NG5McFRBT3NOYnJidmtRTm9EYjgzQkt6STRVZFYxMTQ3bmJ2N21ScGU4NWVuNGQ3THlFTkJNZXN5SDkwN2lYQzBUdGRmMw?oc=5",
-      "source": "RealClearDefense",
-      "published_at": "2026-11-07T10:17:16+00:00",
-      "score": 62.04,
-      "corroborating_sources": [
-        "RealClearDefense"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3c303c1c13dda794",
-      "title": "Meet the 2026-27 Student Government Association Board - The Institute of World Politics",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemhwcjdEWFpJRlNJTUlEMFJrUjFueGhBczg1QlVsMEtwY2FtVWVZTmlWc2dzSDZkZVhmTGx2OE1NY1JpTC1NSGYzQkk5cTM4WWZDVURrazNKLXo0bWEyQzItQ3d4dVhDUmpmT0N6YmsxYVJHYVdZZmxEVzJOLVhaZV9qblFSZTFTOG5KVHFrR2NJd25PNjhueGVxV2RIal84TWUw?oc=5",
-      "source": "The Institute of World Politics",
-      "published_at": "2026-11-06T15:07:07+00:00",
-      "score": 61.71,
-      "corroborating_sources": [
-        "The Institute of World Politics"
       ],
       "signals": {
         "source_count": 1,
@@ -131,9 +236,39 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUpTd01sTGtSOXMyYTY1enM2dXAtU3hUMzdxUkRzTmNfMlpJU3h0N3Zva3dQSk9zWkVodG9mTzR0cU9la1pZRjhsUExtRXpoUGV3TVJLQU14QXFJNVYxY1A1MjR6SmR3WUdoSzVmdkhjaDVoODZDN2VfTXBJZ2xxTWZVd2dJVVFtVTJwb2FwV2xqaGV6eng0aHdR?oc=5",
       "source": "Vietnam.vn",
       "published_at": "2026-11-06T13:42:23+00:00",
-      "score": 60.81,
+      "score": 57.74,
       "corroborating_sources": [
         "Vietnam.vn"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "c816792428bb8b6e",
+      "title": "Trump: Soberbia y arrogancia - vanguardia.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tekFLczNxNG1VejV1VXp1ZDBOUkc3V1lvb2k2YVY5OXZoN1hiRC1Tb2tnRWlocUdYVE9oUGY0NnBzd3VjYVVndGxYaTdtaFFLdFVrZXNMWE15bXBGeHFmWnl5Z3JXT3F1LTdiejBVYl8wdnBUR1BjYWxvc0w?oc=5",
+      "source": "vanguardia.com.mx",
+      "published_at": "2026-11-07T11:00:00+00:00",
+      "score": 57.27,
+      "corroborating_sources": [
+        "vanguardia.com.mx"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d453637a1b966e58",
+      "title": "El efecto dominó de la derrota de Trump: Vox, Meloni y Le Pen toman distancia - MUNDIARIO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTNya28waUdta2dRUWt5UEp4a0wtWnlYZkUyM01YVjZ2dEVYU3I2YW8xcmtaVWFqOHJrM0QtUE9WSnhJSDlsOXA3Q0xjWEFkdUhmbXNGZll4aHVjVUJrcVpnMDJBZ0xtUXJkTDJMUmdFdTVEV0xOdTFRNUdPMzYwTnJiY1oyQmVvUmgxX3RkZnNlTnFnNTJqY0ZmY2JLVWJWa2hCOUR3aXNKeFJvSmRHUzhrSXRRWU1qVElJbXlyRlFZUQ?oc=5",
+      "source": "MUNDIARIO",
+      "published_at": "2026-11-07T10:42:33+00:00",
+      "score": 56.99,
+      "corroborating_sources": [
+        "MUNDIARIO"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +281,24 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3F0WkVKNDlYNXFFOWhwYmNwVlgwcl9remh1aW4yU3lxdzFyVmY4ellyVUI5Q2U4VjNoOVhsdVE5Vlg4eGZ4RzFjakZObXk2VXplN2RxZEF6T2dGUFlOVEd2eTQ3TndINE1kbVZ2SGlXYmtzZVQzTzJfYlhtNUtoOWdyRVE1Q0dNVWtmOQ?oc=5",
       "source": "Vietnam.vn",
       "published_at": "2026-11-06T12:15:28+00:00",
-      "score": 59.93,
+      "score": 56.98,
       "corroborating_sources": [
         "Vietnam.vn"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "46e3f08878b86f4b",
+      "title": "Governo se antecipa à ANP e aprova combate a fraudes em gás de cozinha - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUNKUWw1WEppRVd6SlE5ZUZaWHUxUnQ1a2FwRHlwRnRlM0ZKVFZ6SGxZUEpta0gzcE1GcG1XMndPNTd2a2UydTNuRzN6WjFMbF9ocVgyemd4TGgzcWJvNTBpdjFoeUlQOHBoTFNaN0t0VGViOHVVa2U2UU9KNGJqUkVUVGNvMnRzRzFkSU1VSFI5Nm5KS3JTWXZ3ZTIyZ1dVZTlSa2pwek95N05DY2I5NGgxcw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-06T20:03:06+00:00",
+      "score": 56.45,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -161,39 +311,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVNXOXcwMHJDZUlEMUJjZ0xjYXoyOW1kdjA0bzB4cTZJWU4tQXZzU2pRYl9zUU5OVTJXMEVsZUxXTFVjSlh3WmVOUktMRWhhcE40d1A5RjdXUWdjLWZaWHJkRldnUmZlY2VqQmpKaVNPakJRRVNGNmNjb2NPQks1ejVvVkp1QjlYQzR1WGlNc1RqOHFBMGNRbzZvdTBzbVlaSGZB?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-11-06T23:32:55+00:00",
-      "score": 59.84,
+      "score": 55.79,
       "corroborating_sources": [
         "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5bf7dbda5def8dd5",
-      "title": "Diputados rechazan renuncia del presidente Peña en Paraguay - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmoteWc1b3lfVy1TWHliWjBMRDQ3bWd6cGhycU92THJVb3JzeDFmYl83SF9MUDdSaG8tSXRsU0tpTFRyQVRmODF4andWNHk4UlozYzJsaUJEalBha3BvTHlqdGZQdUtCWV94YXg5TEx2T1lVVWxwZUMyMG1QUGRNYW5FclpCWk12SUlkc0FUUHl2RUFIem5lSUpnbHc2Mm1sblV5dm5R?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-11-06T21:10:43+00:00",
-      "score": 57.97,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "54fa619867305347",
-      "title": "U.S. believes woman close to Nvidia CEO was a China spy, NYT says - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEJIRTdxaFJuR01ITHFWNTZhME5WSDlPRWxpY0gxVm80UWMzUDVOSlZ1MDd3S3BuZEN2T2d0d1VZTWFFam40WnplUjlreWhiWUFGbFowLVM3RGEzQ0xpcVVFaUcxQmNkbUt6SEpsdjBudWRoTzc5ZXYtOWxkR1NhejlqcGdwOGlSUFloRGtCWndaMHRJWVdUNkc1Rjk4dXBWZWdlYXRuclJQeDJicFZtZFItNjlKX2pwR2g3QzBpTQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-07T05:34:48+00:00",
-      "score": 57.19,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -206,9 +326,54 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGg3Y1BYYmNGdE1xT00zWTNaYWZrYWVXZUZNd3AtMEt4YzQ2SkEwRmRDY1FXWlFqY3U0bmlzcXAtbDc1R1UyVlBUbjNxS1J0em5fRWcwS3ZJaTlSLTBVdUhpN0VNNldwV0xMV3pCRDFkVlMtb2J5QS1JTkU0Z2t2R0FDYWs2amtFR0R6UzFKOTZFcWRTT1RWNHExUkVScjNjNGhQTmtIOWtHcUFyUlZmZFc3aEJsRjZCTDE2c2RaY2FSeGJoZTBhdHFB?oc=5",
       "source": "Clarin.com",
       "published_at": "2026-11-06T20:06:49+00:00",
-      "score": 57.16,
+      "score": 53.49,
       "corroborating_sources": [
         "Clarin.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "919b934bfe83713e",
+      "title": "Trump perde o Congresso, mas mantém o poder para impor sua política externa e comercial - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzdxLVJqNC13bEdPUW5peXFkYXljZnJJLXctSDY1YndGVlhJeWF0dFNvRk9PMklzN0lSNFZwOUUtRHp3Z1AycDNzckhRUnNzWFZDTG45cXRPYUJpSlNQdFh0dThFSVdyM09Ha1hBTEVpcjNWTFJ0aXhFVkh3d2toMGY4allES2l5aWg2QkZiRnA1QmI2VlNaeTB0TnlZTHJEd2I3ZnI2cVgtbWpkSk1ueUwyemYyTHRjNVVfZ9IBwgFBVV95cUxOajAxTWkyeGpzZkhVRC04YW0zMjBJT3VpMU5oaHVEbzdkX2g4WG9IVU5yT2xLZU5xT1JfTmNpTGVaOTlEU3llVnZIWWVlTER2N3JXUmtsYXVIT1VLRm5mVDRUVUJweUFVZThJTWgwcVhtRV9maHJzVzhzVFpMd2dlZ2NvRVJyZWlTLVBaaGEyN3BJZUFKZGJDbWhKdG8xMEgwUkRTeXFVSGhMVVJrZnNUWVJZZ1ZCeDlPcUtwcjJnVl9WQQ?oc=5",
+      "source": "Demócrata",
+      "published_at": "2026-11-06T04:00:00+00:00",
+      "score": 53.18,
+      "corroborating_sources": [
+        "Demócrata"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "54fa619867305347",
+      "title": "U.S. believes woman close to Nvidia CEO was a China spy, NYT says - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEJIRTdxaFJuR01ITHFWNTZhME5WSDlPRWxpY0gxVm80UWMzUDVOSlZ1MDd3S3BuZEN2T2d0d1VZTWFFam40WnplUjlreWhiWUFGbFowLVM3RGEzQ0xpcVVFaUcxQmNkbUt6SEpsdjBudWRoTzc5ZXYtOWxkR1NhejlqcGdwOGlSUFloRGtCWndaMHRJWVdUNkc1Rjk4dXBWZWdlYXRuclJQeDJicFZtZFItNjlKX2pwR2g3QzBpTQ?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-07T05:34:48+00:00",
+      "score": 52.41,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fc29d7ea2381451c",
+      "title": "After the US midterm rout of Trumpism, the world struggles to trust America again - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUc2T2hHRlEwS2IyaV9RLWEtR0Z4VjVYTDZESkUxUnFjT212d0kyb2VDYzU1QXVULTg3VWx5bGFYRVFyeWZydmcxRWpQMmdKNzE0WENxOEMxRHp6eWNKTWNfcTN6c2FYdkZESFpjNW5NeFE2dVJKODR0RmxmYloyNHhCQ3pQWFJsUDRIVGFtakJpQl9FdklWUXUzeWRHYy1aWWtHekJ1cnVMaV9lZlRQUlNtbFNuUDRTX0FVOWZxNVd6dEI5TFRoc1liVS1qcnNndWtwRnJ3?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-07T05:02:11+00:00",
+      "score": 51.96,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXpxMkxTazhBRG1TaS1pN2w4OW9ZYm5wTzdvNjNKcC1qZlJsN0Nka1U4VFZSaERrZHFibWU5dnFSRjl4NUlqRWY5YlVVeERQY2lYVjZ2cjh0dC1MeFI0d0czQnU0ZjM5UC1wbm5PemQ2VEF6ZTFVenJOdDRjNWRXUGJYMmQ3c1d3cXBQazZxU2Y3NFVoT2VuNDZn0gGfAUFVX3lxTE0xX0pKejRtdDFPUnNDTFdtdlI0aWZka1h3WFVrc1pVcnd0MklKcmI0bFZvQ09uU1ZNUnY3cEhXaExPZFEwbEVSRTRTT1ptZTEwMzdpQ05ZTTVUci13UElEYmpXUjlkWE1Cemx0Znp4NnRrMmhuM3MtTnAyMEtkMXNTVlZzUjRlcnQ5ZGl1bk5XTElzb0dFWXVyN3g1LXk2RQ?oc=5",
       "source": "La Vanguardia",
       "published_at": "2026-11-07T05:00:00+00:00",
-      "score": 56.64,
+      "score": 51.93,
       "corroborating_sources": [
         "La Vanguardia"
       ],
@@ -236,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQVpXZ1VhSl9IczB0aFh3S3g2TV8xdko2dkJyVXZOcngzY1VhVGFfYV9vN3lUaDBQMVFkNllFWkhMcWRCbDJ3R3EzUndna0x0Q3dQeENNZzlvMklEYmxLUUhRZWlQZmtrUTdNd3JyQ2hOZmVLWWJBdVJPQXc0NnlDT3p2dVZzYWFfMzZ2MVpUVy03dUxPdG0wOFlrS2RxR19QZjE4aEd5MG8?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-11-07T01:03:00+00:00",
-      "score": 56.09,
+      "score": 51.87,
       "corroborating_sources": [
         "Metrópoles"
       ],
@@ -246,14 +411,14 @@
       }
     },
     {
-      "id": "919b934bfe83713e",
-      "title": "Trump perde o Congresso, mas mantém o poder para impor sua política externa e comercial - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzdxLVJqNC13bEdPUW5peXFkYXljZnJJLXctSDY1YndGVlhJeWF0dFNvRk9PMklzN0lSNFZwOUUtRHp3Z1AycDNzckhRUnNzWFZDTG45cXRPYUJpSlNQdFh0dThFSVdyM09Ha1hBTEVpcjNWTFJ0aXhFVkh3d2toMGY4allES2l5aWg2QkZiRnA1QmI2VlNaeTB0TnlZTHJEd2I3ZnI2cVgtbWpkSk1ueUwyemYyTHRjNVVfZ9IBwgFBVV95cUxOajAxTWkyeGpzZkhVRC04YW0zMjBJT3VpMU5oaHVEbzdkX2g4WG9IVU5yT2xLZU5xT1JfTmNpTGVaOTlEU3llVnZIWWVlTER2N3JXUmtsYXVIT1VLRm5mVDRUVUJweUFVZThJTWgwcVhtRV9maHJzVzhzVFpMd2dlZ2NvRVJyZWlTLVBaaGEyN3BJZUFKZGJDbWhKdG8xMEgwUkRTeXFVSGhMVVJrZnNUWVJZZ1ZCeDlPcUtwcjJnVl9WQQ?oc=5",
-      "source": "Demócrata",
-      "published_at": "2026-11-06T04:00:00+00:00",
-      "score": 55.53,
+      "id": "95a1877dec37948c",
+      "title": "‘A global political awakening’: how gen Z protests are sweeping the world - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmxxcUcweFA2WWlycmN5WFE2RV9hcW1nS0wzeEdONXB3UmpDdUtzdnlFZnQwUHFHaTE4UGNCT1ppa2pTZnY3Y3VEZ2F4U1lMdmljbW00T2MzY0djc3JxcGpFM3AyTFdRZXlpZHlaRDJEWlFMcHQxLUdBUXNjUjY0bkZaQ3pqQQ?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-11-06T16:02:00+00:00",
+      "score": 51.02,
       "corroborating_sources": [
-        "Demócrata"
+        "The Guardian"
       ],
       "signals": {
         "source_count": 1,
@@ -266,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzA1aC1tTy01eHRsdlZtRFItUlMwaHlXN0d0MFh2YnZkTElYYlB1OWhqdUEtRnRLS3JubmlYYTJoUF9vRzFhMkE2WjFOSDNic2dRZXZ1eGhBZWZ4ZHBqbEZSRWU1YUFPYkVHSUFVSTZhSHUzandVZGp2dDhtNHI1bjkxN2szYTNrOUw1aURRSlpsZGNUd2VhMDFoQ2NWdHFVdUJaQ0dpNXVtR0EwTUFmLXhlbEhaaHc?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-06T23:14:33+00:00",
-      "score": 54.59,
+      "score": 50.58,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -281,174 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGdBdzViMWNNdXZfaE5lRzN0VHpDWlpHV2JrSHBsYThRRjE0SWotN2VidmwwR29lR2dVaGV5VDRuaTkzMUZoMEExb0ZBRjNtWS11R0lsWVBHd2RCdzQ1b181UURWM1pQa1E5eWFnZU9MbUlETjZRTWNxNWNWdVRkbVZZdlZBVzVieUN4Y2JiWExySExmVjh0cHdXUGJFbG5NUmJEVTNCOGpfYmQ1eXl4OUFnYm9tc0M5cDN0NWlHckhEUERrZXgzQtIBzgFBVV95cUxNbl9XdllyRnVTMWhiTjFlRGdQZmtycFJDcC1XN3EzZGY0UmViUGlNMGp4S1pacWdzUEdUbkl0OUZRbUFTNFhYU0FPZ3o4emhBV3ozdzMxNFdOV1Zva1BzMjc0clkteHM3U2Z0ZVhkdUh4bG1WRW4tUHFqTGZuSGlBUi1Dckh4c3hMUVU4WVpLVFBybnkzV3hkVXhMem9HYjZJMFMwb1pDZW91Q3BnUjR3bXlNRGRwSkFjVGhpTmFUZVZ4bV8zUG9ZLWQ1czBCdw?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-06T23:05:48+00:00",
-      "score": 54.47,
+      "score": 50.48,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "95a1877dec37948c",
-      "title": "‘A global political awakening’: how gen Z protests are sweeping the world - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmxxcUcweFA2WWlycmN5WFE2RV9hcW1nS0wzeEdONXB3UmpDdUtzdnlFZnQwUHFHaTE4UGNCT1ppa2pTZnY3Y3VEZ2F4U1lMdmljbW00T2MzY0djc3JxcGpFM3AyTFdRZXlpZHlaRDJEWlFMcHQxLUdBUXNjUjY0bkZaQ3pqQQ?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-11-06T16:02:00+00:00",
-      "score": 54.3,
-      "corroborating_sources": [
-        "The Guardian"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "643b774129da4406",
-      "title": "Paraguai prende Peña após impeachment; vice Alliana assume o poder - TV Sim Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFZubzBZcVFCNkVybG1qNWY2LVpGN0VXU2VBOHc2MkI3QWRiNW1WTE1LeXk2eUpmajd2WUVJUTh6X2lhUi1vclNCUGJHa3lsNU53M09jeUluUWhvYUVZRVpMT1hmOE95SUxiMjlTUFhvcGY3ZVZNQ0RiWXJwY2o5TEdhTy11bXBlOG1NeUJJYUszRDFoRkVGTXFnUGZIdlRHX0VfTzFPZDEtdllzNXpwSnVxaXM?oc=5",
-      "source": "TV Sim Brasil",
-      "published_at": "2026-11-07T01:53:00+00:00",
-      "score": 53.8,
-      "corroborating_sources": [
-        "TV Sim Brasil"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fbd0ca70d46491bc",
-      "title": "Política exterior que abre mercados - Revista Mercado",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NTjloTEhxSnBmWTZxNG9pYXN6Y0t3Y09pMlV2YWJ3eWxPbWdMa2Ywc2FWOUJKQ18xTThUdFJ6SlZUYUVCRGNTclUxSTI0ZVhqU0d2cmhVOVgyVG5PbUdWNWxIM1MxcDhHcUtPWkU1T0oyeHBZQVE?oc=5",
-      "source": "Revista Mercado",
-      "published_at": "2026-11-06T15:13:38+00:00",
-      "score": 53.78,
-      "corroborating_sources": [
-        "Revista Mercado"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4741b6963a6a8bb2",
-      "title": "Pedro Alliana asume la presidencia de Paraguay tras destitución de Peña - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzBsVVFoM2VCLVlEdFhQRjZyY2ppVWY5V3hLZ1dISXU5RllUZUlRVWJtZHBGV09rbk5nQ1F4WEl2TjJFUmw0WWJtVWlaeC1rNFpWLWFIZndYemhpdHNMYmZyT09HcENuX1FxNE1LRF9GR3pSeGNHY1J0T1pfalZUQ244SWJfbG5PNktfV2dZVjJQODlLNzdpNVFJSG5DZVM4NUpDRGhB?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-11-07T00:50:43+00:00",
-      "score": 52.91,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c25e1fc604175e81",
-      "title": "Após derrota republicana, Trump escolhe arquiteto das deportações para chefiar gabinete da Casa Branca - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1VkUURQXzJMeGRNdmFpRS1JdF9tR1puaFpieDlWQlF5Q1J1MjlSWE1LQW9UTXV0Z3JZbi01MGVMS1BMYno4V2FqTkQ1Z0hBRk0zSzNDdFdxa2tkUGhmUWZ5dk00RFhXS3RCWGlTcGNkb3VESF9ua0pxRF9lTXNYaTJBMVVObWExcE1ad3gyc1hNQnZKTG1nTzJzV2UtTDdrNG5WVGR0ZHNuZS14RUtTd2hSSmlDU0owY2w3Y0gwVHZ3NDEyUEV1U1J5NFZLWHdEVzJ5YWsydw?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-11-06T20:59:00+00:00",
-      "score": 52.82,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "165dd127bda0a6b7",
-      "title": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNjVURFRPMW1JaHBZSFVhcjEteDV1dDFmQ1Fyei1EVnNlVF9pdllOejFjdVpsR1VIQlYzeDNjVVFIYlZ1dzhHMlh4RTVaM0pMeUN5WTlPY3k1VTlrazlJWEFuTy15UzFGTkYxc2ZlN3VjSWlmcFZ6d192NWxRYjVQUXB6VW1ZT0EtSUMzcWd1ekt5ZUJza0dWc00xOVV2a3E4Mmp0NW5vSWpkRW9EalU2LTNBamp5TmZvb3p4RXdhOXgyS1pHQTZ6dlZmc0FNekp1Qm9SVEZlQzE2Wm4tLXE4bGJ2V2ZsMEZCRlE?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-11-06T13:20:16+00:00",
-      "score": 52.59,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4bdc19a601018e66",
-      "title": "Caro André Lara Rezende, preço não se controla! - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1ZMWVo2TGZJbXB2c2FialQxZVMwNzlOUlVrVGt1OHM2UWxfSnY1OWxXWG94M1NrWXduNDllRXJlNHF2bS1nalBCTDN0Ni1TMmpkaWpfcW5xWEh5aEpNeFE4aUxzRjVHNGdUZjNaVDFBNEN6bEw3YmltNGhIbGdSWnRZanJBWGRLZThBdUNDQ0VjSmtpbElWcG1mOA?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-11-06T20:08:00+00:00",
-      "score": 52.18,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "68fa871cd2c065dc",
-      "title": "Lula diz que energia elétrica “do povo” não poderá ser usada para data center - Correio do Povo",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWFHWUNoTmxoTEZGbmFRZnp4djlVakN4RVlQUVozclRkRHctakZzSXhhTjRQSlNQUm4zQkhGMTlNbnZJVXEzOUVMRTRUTFFYV0FPcWllNTNVaG9yLVlaOXFSbHhBS0NFRnRjYktCSlBLNXdlU2pDNzRMc3RvdndtZkxHRmUxQTdJTUlTdW5kM3V1a0Z6YmNTeUN6VnVfelBqM09tUjMxR3VOeDNEc3dzUkdVdEZIMUhIWEFOamExQ2JFYTlIUEl0SFNObVZobmxKZTBQWmZvWUx4NTFzeG5Z?oc=5",
-      "source": "Correio do Povo",
-      "published_at": "2026-11-06T19:58:38+00:00",
-      "score": 52.06,
-      "corroborating_sources": [
-        "Correio do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cd5476ce9889fd36",
-      "title": "Who is Stephen Miller? The Trump hardliner promoted to save Maga - The Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeG05aG12Z05NSjVpNEhVMHpuS3VpeVg4eWo0NXdqTng4allWV1VXODc1SXRkeUFsakFJTEdjbXVJUVp2OTlWd2l3WS1PTVc0MmN6WVJJZDRRU0ViS2I3cnQtcU5KbER5bW9abzY3WWc0SThQdnd1YjRMbUtHWk9PbjlWN0VxdGhTREdVUWJuZUVPMHI0eUZLZjdqRXhuSEV1RUZfZHgxYmlheTFhVlhUWjRTX25GTGdLanVHVUdn?oc=5",
-      "source": "The Times",
-      "published_at": "2026-11-06T23:37:39+00:00",
-      "score": 51.9,
-      "corroborating_sources": [
-        "The Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "330319896b60df2a",
-      "title": "Se cocina una crisis en el servicio exterior - Plan V",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmg3alZGb01TLUczcHFSenJNYkJTZWNiTTh3MEpOOWtRLUNDX2lrM1dVTC1zZ1JuMWE5Q0F6N0ljcnhOSWExbERkc3ZkT01xVUZ2d3FhOVZGSTNMT2N0LUxqYVFMb0wwMDVIMHRRR2tsLUcxbllWRmNEWDFXYUV5NE55d2ZHbDZIVnFCc3dR0gGTAUFVX3lxTE5URzdOYlY2c3dXSDVyX1VaZzZoaEc3OEJ4aTNLVUd1aGFqMW0wRUhkZXk5cjctZVphb24zdGpJRmxYWXBJSkNfSUw0WFBxYjZWWnhtcTJrSi1RWTY0b3RyWXhSLXlUVWNmcHlJMm13MXRDSDN4R05EWUh1akpXQ2lCVE9QbFhlR21rQmJJTzdHbzJKQQ?oc=5",
-      "source": "Plan V",
-      "published_at": "2026-11-06T23:37:06+00:00",
-      "score": 51.89,
-      "corroborating_sources": [
-        "Plan V"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f7ce70085dcce918",
-      "title": "Blue Wave, Green Tide: Politics in an Age of Liquidity - Fair Observer",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGlaS1NVSkQwNF9INEYtc0JOMWdVRmJQMEgzZGM4TmtjTzhwM180bFFYM1FpRnBad1FHU1NHaldSLWhZODFCM3pGSThIbzZKLWluUWVKaVRYaV9YYTZWS0FCcEkyWUhMcDRYSUZ1Y1pkNVlHMlhSWGZsZG94cWFhaVozMTJiZEpIVWIydUZycDV6bFhFNUQ4dXFMTDl2M3BTVjc0?oc=5",
-      "source": "Fair Observer",
-      "published_at": "2026-11-06T10:43:00+00:00",
-      "score": 51.03,
-      "corroborating_sources": [
-        "Fair Observer"
       ],
       "signals": {
         "source_count": 1,
