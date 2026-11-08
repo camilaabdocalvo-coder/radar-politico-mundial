@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T23:40:59.189097+00:00",
-  "next_update_expected_at": "2026-11-08T03:40:59.189097+00:00",
+  "generated_at": "2026-11-08T06:09:31.959268+00:00",
+  "next_update_expected_at": "2026-11-08T10:09:31.959268+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -11,7 +11,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZ1Q3SHFBOFQtWkRvLTUxOS1seERmSTVrUi1BNEpuNC11UkV1TWJPV0wxYTE1Wm1VbklnbXNZYnBFT0JjTDBpbEdjUHR2YUVEdllzMjJOVEpQWDlRNkhwVWw3MWlfMkpVVEtHdXcwYw?oc=5",
       "source": "CNBC",
       "published_at": "2026-11-07T22:36:37+00:00",
-      "score": 89.45,
+      "score": 82.26,
       "corroborating_sources": [
         "CNBC",
         "NPR"
@@ -22,14 +22,29 @@
       }
     },
     {
-      "id": "e8103927bb2496f1",
-      "title": "Israeli president invites Netanyahu's opposition leader to broker new government - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdS1VX2RvWWpQczJyQVVUSC1oVmxZNGlGc3EwRVdELTl1YXBoamVGYnlmWkpLTy16LUxLaWZQb2k1cWdlVTB2VWczSUUzUmplb2NDWmh2dHJ4VjhoSW54U0tkTWRQd3pCSUVCbUZyX3d5TkxoSEpWdUlGZUoydkU4ejF0Z29zNHJfakJwVFBLUWFqLXdNTVFheXJidmMtSVNTbzhHVlNaZ210T2RFM2I4dzNzTkFnVmIyc0tfR3VaSmtBZw?oc=5",
-      "source": "NPR",
-      "published_at": "2026-11-07T22:12:09+00:00",
-      "score": 81.66,
+      "id": "cf3fd09e7d0cd95d",
+      "title": "'Un Donald Trump acorralado puede volverse todavía más irracional en su política exterior, más agresivo': advierte analista - El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEFZRkJOT0JuN3E1Vy1EUG1YZlEwcTBhbUFPLUE5aUQzcHJnLVcxOUlOajNMMzVaVXV6VVE3N2pXTHFlWGxUUkVyUWNXV0ttd1JBNzg1MHd2Tnl4eTJSNlN6cGdSSDJFWDhubC1yTlVJR190WlJuZktsTUdXY1A3ZmhlX0ljUEliaVdIbE9RX1hnZmI1MjVPdmRpU2cyUERqeTRPXy11ZzhPY2NEaHpEdGhUVjJhS3ZYZWUxVFNCellpZVFTQTd0dkNTbTVGcVFZMUNtYkF3YnA0bzV1Z2I5clhYcEFLakYwR2fSAe8BQVVfeXFMT1pnU0xELS1sRXlmNXlRWlpCNnNUWllaTnI2SEwtVGdUWjNMbllfanZ2YTNwc2s5QnBTb0tGSWY3MGVIbzROSTBBcTZtbk91c3FqWkEzQVZybFZHemlxcEJvYm96M1dxTkNtMlhJclZTMGZtRGJUWC1XcEQ3U0lxLThySFRxQ0ZXRWRsUnZia213S3Y0R0FLM0xaX3RkMXpUcDJzcG1HSHE5UWdZaTVqaTcwa0U5WDk5Ty1Pcjd3bGJXMHZOcnJrQ0ZoUlRXNXRsUGYtQk96NFRpZWFNbXFQb1ozamFzcGd4SGlTSzRUNDQ?oc=5",
+      "source": "El Tiempo",
+      "published_at": "2026-11-08T05:01:00+00:00",
+      "score": 74.07,
       "corroborating_sources": [
-        "NPR"
+        "El Tiempo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b7f93a935c89fca8",
+      "title": "Sánchez, lastrado por su \"valle de los caídos\", se aferra a la política internacional, a Cuerpo y a Illa para remontar - El Español",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQkVsX1NhWDVNcWtNZUpkN2hxbDBvRnN5X0NsbTA5X2VYRms3UE1pSEwwOXJlYWZOV2FGeWd4d3N5Q2pNZUR2NGNjbnh4NWRFNllWQ1QzeHJ6MkdDWE02SThXMDFGRGxCOWdUelFLOHZfb19fWXd5cVpjNlViZUoxY1dCeXlGZmU5VU5WSlh6ckxlakV6U01hUVpzNFU0dlhDY3RyTDhOdG0tOFRPejBEbldlMTBMdFdQbXFiaFVKSW1BSEN4cWpob2RLUmRlOHhvTmFKaEVlQUNIYWJQa2t5VUtZR1BkT2vSAewBQVVfeXFMTXAydC1lc0d2Ml82ZlZiZ0tPOVNVV2wzLWVHOS1PNmxaWjZJNm1xYklSQjhpOEs0N1h1VzBqWUZ6SktmMDBLdU05ZzUyemdrSExZZjVvYkptNlhubk90XzVXSFlOWFJLVF9sRWlMcXg4OEZDbEtsRnduNjBaN09SVnd2TXNhcWptM2RKLWw2RjlsWnE0akhVczI3TWdIR0hvWDEwSEZ6el8zVmM2NVdvSGczNHd4QVhqUTNFY2pmcnluRmFjeEpZaVY5RjFJQV8xTUE0TTdtYlZJazR4aHZUbVVIVzJ0Z3VFLXIzcTA?oc=5",
+      "source": "El Español",
+      "published_at": "2026-11-08T04:00:00+00:00",
+      "score": 72.86,
+      "corroborating_sources": [
+        "El Español"
       ],
       "signals": {
         "source_count": 1,
@@ -42,7 +57,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDJyaEFYMVpPQ3czSHdJYXRwNUozdW9mdzYxMVZLRmFhbG1meWVQMmNKSVNCRXBkYmJZS3VYU0Q2bUR1VGg4eGZGckxRcURja2dyc0NfY2wwaWpvMUNNV0JuZnd3SXNCdldKeUxBZ2x5UHhYV0JIRGR1NzN6SlU5V3N1M3AtNVh4aXFyeTVfM1ZwajVSb3J5ZUhIV0JGeDZsall1dVp1X0VYbm8?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-11-07T19:41:50+00:00",
-      "score": 78.76,
+      "score": 72.13,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
@@ -57,9 +72,24 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3dpVHlPMndvSGFDV3JWMEhKMXhSdFl4VlhpVGE4MVZfNWNQYm5tT09qYlMzcUZ6SWZPUHhZQTBQOGtUa0J5NDRmX3J1N3VsaDNVNDJfSXFwV0FKemNTS0E1LWJPanoyN2g2T2ZqM1hRUnluTjVfLVl4Y2JmdXpIUlZnTGhtT2lfMEpSbDQ1T1hFbzAtYzFQTFFvQkNfZ2ZLaHZLbTJGQ3haZmdkMDNwTnhhTmE1WEpFWERrN2lTSmFPVFJOZDg4alFacTNJUQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-07T21:54:00+00:00",
-      "score": 76.3,
+      "score": 69.25,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2a52c84b0df28b95",
+      "title": "Paz y el nuevo presidente de Paraguay revalidan agenda bilateral - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0hsZE5RazJFYXBEWktucWRORkR0ZlB4dW1BN1l6X3NQTktnUTdJS1p0b21MVHJCVHhISXEtelBmZUpBV2g5dDh5VmlwRUw5SW5QTF9lWG5qQmswUUVXbDgxVC1aNEQ3V3VQMk1LLXczbnlacmxscG1HOEpqZnk3Q2hpeDRYdnFUWXg3YTcxNm8ydFpHNmxFQXJQQ1BIOFJzQy1VSW1kdlhCMmJK?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-08T00:09:44+00:00",
+      "score": 68.57,
+      "corroborating_sources": [
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -72,7 +102,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamdhU3NucTFJMndZeGpmVC1xU3ZBQ09odW05N0NsY3hBTGhCWjZCQmQ0ZWFDYlRwVWtTams5WmZrbVdqSjRZOS1mU2FSZmtXcHdQZG4xUl9TUklqT0pocnJrZ0lfTy11STVWZ1Nka2FrVk5TN2ZvN002dmJJdVhmenpBWllJNmM5N2Fma3RhUnRNWHdkNTRjN0QwU1B2NE96aXZKWnIxLTVidHB6ZjJtd0xXSzF0Tmx4UTY4VGFkVDZ5YkE1S21YVWZ1aEs2R3ZY?oc=5",
       "source": "DiviNews",
       "published_at": "2026-11-07T20:49:42+00:00",
-      "score": 75.05,
+      "score": 68.2,
       "corroborating_sources": [
         "DiviNews"
       ],
@@ -87,7 +117,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUotamktNUlPQTNONzdJOTB1ZDhENXd6Zm9rYTk4U1NfYTRQQWxOZk0zZ2E2SGxydlh3bFQ2RlBmM2VHbHE1dU9zanVCUG5wV0lNemVFMVNZRkFIdDJiZXdsWVgzSDJjeERRaEhqS0hjMml2LVFDSEhhMXEtSzhDdEpPRExfU08zMmZIMjJ6emJKLTJmUmhXRVh2Mm1lRE1mS3c5SG5tRlN6TGRmOGktTnhONjRmcU1CcUhYT1pGVnBwcF9U?oc=5",
       "source": "Forbes México",
       "published_at": "2026-11-07T22:50:00+00:00",
-      "score": 74.43,
+      "score": 67.19,
       "corroborating_sources": [
         "Forbes México"
       ],
@@ -102,7 +132,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEpFR1JvM1RCMVFzanZKckk2eGdidkdFMDVYZlM2bGZsZzJkbGg1OTZkc0VMRGUxbnVnb0cxQmoybDBGcHFUYm9VcEpDQWViT3dsbWlVRlhJMDYtbEpwQ0lVUVJJVHE5Z2l4Q2ZWN3l3VENjRDlfRC1CNW5CUE5rY2VsbTdxMllLS20xbkxROXJnN3hZNlV5TWtudVlKUdIBowFBVV95cUxQamNmMFUxelZEdkZtLWJ6ejZvaE1FeFZEN04tdFZXb1BRbDZFRHhvLXF6QnY3R0VnR19qVzlTdHFtSnRJRDIweTVmSTlOTkJjOW03Uy0wV1BwWjBTSlhWdW4yaXFQVVVSTWMyUHV4SGVtTkpxbzhybTZqZjZNWTNRbkNUVDlkWnhKY0p0Rlp2YWZsdkRfSm5VTVliLUVQMDJPVzlv?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-07T19:29:00+00:00",
-      "score": 73.52,
+      "score": 66.93,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -117,9 +147,24 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaGhKM2tNMjR2STBLa184aGJXaG80eUUzdWZJb1A1c0hhaUxINi13VW44aFdMeThDTTJVXzBZZFpwTTFKaC1MdmNBRmtGRjBPSlQzV2tZRW5WVzJrS3lIazBFZFpqcXYycUlVYXg0NjR2ejhNV3NMSzlHTUJWSHVaUEp5bVpJd1o0eXlEWE1UQzNXUkV2bGZ4M21OQ2FraVRrdW85bndzWHI5YlI0bjZ4XzhOQjhaUDNrVE05QnUxR0VlbW8?oc=5",
       "source": "TalCual Digital",
       "published_at": "2026-11-07T21:46:38+00:00",
-      "score": 73.16,
+      "score": 66.13,
       "corroborating_sources": [
         "TalCual Digital"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "4f36fc431f53d52b",
+      "title": "‘Exército do Lula’: Janones e governo tentam manter militância ativa para pressionar Congresso e STF - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHBBTWR5TXJfckJiQUliVkxuRl94MTNNam1CSF95YTBRdDVXcXNGQjhZcGNUeHBHbTZtanJEY1hEMlJvRkxHN3NPY0xVemJvUkdzcWNLSjJzcEtIbW1RODF4OHNoY014YVN3SzZSaThaN2FiMVBxTFEzZlRtV0ZrbXhvbE5wNXdicFdJTkdNak1CLVQ5SEJYNnlhWFNGQ2VudzQtRmpJT3RfbUY2T2NLMFZmRDNBcWVZS1pfODBsdW83NWdPdFYycFZHM2ozaTTSAdQBQVVfeXFMTmptVUU5WEwyZVBISlg5U1Y3ZTJ2aUFLYkV6TmJnV01oQ0JaWExwWEtLYXh4aVYxSW9oZm9XZHBBcV83YmFwTHhkcWV4aGJOT0N2cjBqZjZxR3lINk9nVEtQYkZUWTJhazRuUWFxSUpVdng1MHZva0JRVWxwRjVxSUVSLVRvZ0lRTmJoaHVlT2tZSUlQcklRSGlXbXRrdElPQjJNZXVFOGRhdW03UFlLdHktdFVkdzVIVi01OUdzRUV3cVFTT0lwU3BDQ21wM05hb2pvenQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-07T08:30:00+00:00",
+      "score": 66.13,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -132,7 +177,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2VoTGxDREZIQ2l5bk5LN3hhZnpVVnE2WHpqQ29UalZYal9YT0ZiSVNIQ083cWdIQ2JCT0tIOVZJMmptZFRTRnQzclA1QklTYllwZWlKb01kNHJ0OXl6d3NlZ3RIbWVWaWlpZEJTTzJnU2J2T2pUNXdScGJyTUtXQ3hxamhPUUdZNTU3QkVPYw?oc=5",
       "source": "Jewish Post and News",
       "published_at": "2026-11-07T21:11:39+00:00",
-      "score": 72.47,
+      "score": 65.56,
       "corroborating_sources": [
         "Jewish Post and News"
       ],
@@ -147,24 +192,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZER3Nl9idVJGQzZ2eWFwMDQ3T1dLUm5LN3dBcmZvaW1aUG9MdlB6M0d1N0dqWGtfZUR0TjJwYTg0QkVIWHRWeHpxMWpIUk1DMXhZanJzenRobnBsekFYR0k5dEZFR2JiYlRNS2YyR3JjV25NTGZCR3VUQlBNR01IS1lwTTNSeHRodWY5LUlqeURQNFg4UVkxeUJPSTJvVkZ6eXpYeHZzdF9FNzZUTXdaZmpXVHR4R2tuM2VRdFpOWnY4N3FFS2lrczA3RHQ4dndDejVrWjEzYzIyOWhrbWQwS1I2cFoxQ0VZMkJaX25OUUswVGpWaEE?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-11-07T20:57:25+00:00",
-      "score": 72.19,
+      "score": 65.33,
       "corroborating_sources": [
         "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4f36fc431f53d52b",
-      "title": "‘Exército do Lula’: Janones e governo tentam manter militância ativa para pressionar Congresso e STF - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHBBTWR5TXJfckJiQUliVkxuRl94MTNNam1CSF95YTBRdDVXcXNGQjhZcGNUeHBHbTZtanJEY1hEMlJvRkxHN3NPY0xVemJvUkdzcWNLSjJzcEtIbW1RODF4OHNoY014YVN3SzZSaThaN2FiMVBxTFEzZlRtV0ZrbXhvbE5wNXdicFdJTkdNak1CLVQ5SEJYNnlhWFNGQ2VudzQtRmpJT3RfbUY2T2NLMFZmRDNBcWVZS1pfODBsdW83NWdPdFYycFZHM2ozaTTSAdQBQVVfeXFMTmptVUU5WEwyZVBISlg5U1Y3ZTJ2aUFLYkV6TmJnV01oQ0JaWExwWEtLYXh4aVYxSW9oZm9XZHBBcV83YmFwTHhkcWV4aGJOT0N2cjBqZjZxR3lINk9nVEtQYkZUWTJhazRuUWFxSUpVdng1MHZva0JRVWxwRjVxSUVSLVRvZ0lRTmJoaHVlT2tZSUlQcklRSGlXbXRrdElPQjJNZXVFOGRhdW03UFlLdHktdFVkdzVIVi01OUdzRUV3cVFTT0lwU3BDQ21wM05hb2pvenQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-07T08:30:00+00:00",
-      "score": 70.99,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -177,9 +207,24 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajJWMlpvVkRad1Z5MUd2WkxTYS1WSUZCX2tOVHlLMV9QX3FXeUlWaWpUOGJjSjkwZnFCU1JtNmhvRXRoNE4zUnFBeTkwMDB2UlhGVDVwMVFQcThWUnhQTFViS2Z4MXJsamNDWjRsa2xxVVdRcHMwZXdoYzRKeC12dg?oc=5",
       "source": "El Nuevo Diario",
       "published_at": "2026-11-07T19:07:11+00:00",
-      "score": 70.12,
+      "score": 63.59,
       "corroborating_sources": [
         "El Nuevo Diario"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bd6b630e71d48480",
+      "title": "Trump threatens Democrats over their plans to investigate his team - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcE9wSUJoYUp0emUxX2hDS2VJdUREb3F3elk0dmRxMkFjakExbmptTUVxZTBiOWxmc3Z6SFpZUW9FTnhOQjh0NmtiR2R3YkFudGNiSGpTSVRZcHNmdjU3NUlxTzFGZGt2a0E5QjJxX2RpS1M4c1VUaEdYLVlaUFY2ZFlCX1M0S3R0dnRyc2t3cTlFamQ4YS1ITktGVGdjQVQ5VXhsMVY5RHVWeERHWUhaWXRIVzNYdWQwOUE3ZEtiZzlVd3M?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-08T01:16:20+00:00",
+      "score": 61.76,
+      "corroborating_sources": [
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -192,7 +237,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGthVl9jR0dJRUpLWmJMQ3R1N0M3SnNrREJDUE52dUs5WUdkcV93MmQ3NjlYUlc1N0J4dVdfTmJFRmpZRl9XbUlBV2JJamMwUTBJUmM4N2YwMkZObVZLZUFGaF85NkNWNW5VTXRGLThEOUN0Mlp5RlRIQjVlWndXbVBWcHA5NHQ4Yk0zZDNtTXRyWUYxcUp3NU5FWHJmczhLZHB3U0VfZTFoTXFxTFk4Y2xjQQ?oc=5",
       "source": "Transmissão Política",
       "published_at": "2026-11-07T14:13:00+00:00",
-      "score": 65.07,
+      "score": 59.38,
       "corroborating_sources": [
         "Transmissão Política"
       ],
@@ -207,7 +252,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeHZzVURqZy1vZzRSTTNuWHh1VDRmSFIzVk95VXZaVWlSZFRoSG00aFM1UmNMdmlfVkNFQjlJcmh5SGtadlFlZjJGSDlqRUZYMG40UDFRLTN5WUZDOFl1TVZHcElFQTh5NjRlcXhJblNFUEpLNHJGd3lvb0YwdU1jN2drcVdsRV9XWHVac0dvb3U0VTk2VDBDLVVmRlMyLXlzSlR5NXAtcDN4QVpNOWJlX3VDeVZmM1JHdE9lbG9WSUNMcTFUQzQ0WWR3TFNabGprQTlsRUtyRDI1Z1dOZ3pHR9IB5gFBVV95cUxPb1p5a3dITVFhaUJ5YnYybGg0dXlZSV9qSVFONXhxSmZLYkZBUUdVM0dNLXBQb1FiWjZFRlZlVW1yTVBQV0VYX2RLWEpnY055TUVVR1pSLURURk0xRE9oaW5yaTJUdk0yTTJTdVpoNFVkZ0pVYmxtM1BRVVRVNnNDZlFGUVBPLXdsSENmWXNRZlRTRVBiWFRpQ1FFWVEzZk1IWjRSRTVFQTZsRWtjZWhwZ05hY1V3VEVWaVowcFI4Sy02V1h4UXc3QlZGbEE3SnotZTViWkpUa25yZ3hDZWtLdk5vcHVQdw?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-07T10:00:00+00:00",
-      "score": 64.25,
+      "score": 59.18,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -222,7 +267,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2FOWUlIOVBiQ1dyYko5VzZzZEJvbkhNNUtRMnRFNFV5dzFMM0ZtMHRSRUhNRlJXLVhvZmFpSVotNFg1UFI2emtka2ttWmx6NnpCWW5FMFdpTmFQcTJ0dHNjRVZIVUFYLWRUYVN5VkpKdkhhQXlnTU1KZGhfSUxaNTJxQVF6clgzM1JDWFZQZFhHeFN6Y1ZaclhtN09xeW5QZEZoc2VYZkhVUG1DNFV4NkpHTnRFUdIBuwFBVV95cUxPcVhId1E5Z0VEcEV6RzAzTDRiNlpFcFVaRnMtV3RWSHh1R1ZzUHphdzhBQkp3UUhOWXBjSnE4Y2tET0E0cjFmMFgxRm1jZFY1R1BzbVV1bC0yUFZBSmw1Sm1hdHZRTzJNWFI2UWdGSFZyb18wMTB4R3M2b1hpWWtveVRDWGNGdmlXbUFscVVsOGlJMXQ5ek1ucnhidGdTelJLYW1rTDB3Y1ZMRk90R2t0VmZYTXpCcHRlUWhz?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-07T17:28:00+00:00",
-      "score": 63.34,
+      "score": 57.11,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -232,14 +277,29 @@
       }
     },
     {
-      "id": "06544470850bf2b2",
-      "title": "Bucha and Gaza: selective morality of international order - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUZadDRWTnFmVGk4bDZEblNPX0FIenBIUVpGZi1YdnlSb1NtMjZSdVF3UmZPRGFZUEhKSXJtWVo1YU5KcmZXbW5YWm9TY0paY1hIWmN2X19udVZ2WUdBNUhvN2xKWjZfSjR0d1pUSUxERXo3Wlh1WWpmMUNVWW1LV0Q5OGVtZVpFZlNzTldjdjRhOW0yQUF2Y9IBoAFBVV95cUxQYUJFZXcxaDRqOFdoVzVMZmJBWDRGNnpNVWs3cC1Wc2x2blByNHVHWDNDbnN6Nm5mMzN0OFF3YmRhY2x3TTRXTG1uM1RfbVk4aTdZMUNSaHR3azVpQ2pENEhSMENUV19EOXMxX3ZHd1BTZ1JFcHlQU2xqZnJnRmdiSmRIUzd2V3hxWVVXeExET01OLWV2MG9WaU1nT3BUbUY2?oc=5",
-      "source": "The Express Tribune",
-      "published_at": "2026-11-07T20:03:05+00:00",
-      "score": 63.16,
+      "id": "eef0d4b94c467ecb",
+      "title": "Chalkboard Politics: What do political scientists actually do, continued? 🎧 - Good Authority",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElLZU04UUljaHU4OW5Ka3ItMW9VeVk0S2pwb2Myd0tNWjFhZHZWTWVVNHd4TmtrLVBKV05iVS1IbnhlZTlLWS1Ed3lVeXJIWl9pVlRUNjd2R1BWZzdmY2xGTk83SmFHVjdPeGN6OW1Ea2dEbllVSGdXb3U2ZmRucFJBNVJ3WWgxYmc2bl9uYlBHbFc2U0NKRWxOOWJwVjlkZ3FkNA?oc=5",
+      "source": "Good Authority",
+      "published_at": "2026-11-06T21:42:06+00:00",
+      "score": 56.74,
       "corroborating_sources": [
-        "The Express Tribune"
+        "Good Authority"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "fd9ef68d8e6db66a",
+      "title": "La derecha mundial enfrenta una etapa de turbulencias: derrotas electorales, caída de popularidad y crisis de gobiernos - Crónica",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeWwtNU9leGdOTDd4cWJlMldSNWNYQzRBVGNyNFBrb0FxMF8yU2YyX0ZqRkhnVmJ6MXRGYXN5bGIxSjd5aE9MaDhiVEhNQjFXSEdIcEFqOVE2ekFjY2hJdnJTby1pdW9fNElWcGFxM05pZ3RRRFBXSktFa3Y4RG42Q0M4akJwU1Q4YnpBU21xS3VhRTZUZjd5SnV0Ry0yNlpMVTBER1Jyd1lsTzBtem9YRFJzMVJqdWxqRVU4TDhPc0x5QlU0cVNQT3lhbEpBQnlhMExPUDhHSEVEc25mQlJDaW9kcXVUZw?oc=5",
+      "source": "Crónica",
+      "published_at": "2026-11-07T18:39:00+00:00",
+      "score": 55.16,
+      "corroborating_sources": [
+        "Crónica"
       ],
       "signals": {
         "source_count": 1,
@@ -252,7 +312,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNY3NJNW1NOGNlTFB6OF9OakVqVXRnOGthM3FPcHRtYy1QX1M2R3NJd191V01UNjZfZFB3cWlrazJYVWszR1FaRGpLakVZWlV6dWoxMmhuR1dXUlNQMkl6TG5HVG9KSGRjNm9iR1RBZk1GSzBiZGd5ZW8wNEczbzVPUUd6eXNaM08yTjZSSUhUSGhUNHE3Q0xsOVBDTW9JYmpwVG1hYVJIWHZnQlZIVUNkcnRuNDAxeDkxUlduN3VkNnhBS0hPUlVMRC1uNExLVGN3cGpuZFJsTDJFaWJEOGhWenNSM3lwZUxwRE45SjlvdTZic0d1NjBaZWhmdE83QndJZjVhVGx2b0hRMXNRUG1MQXoyZmFjOHRsZ2Z2UU1VUks0eEpiU2EzMEc1NWR0dS12WXZidtIByAJBVV95cUxOWXVyb21iUjlDeXhqTEgtQmpselJtV2tUY1RjM2lVcjFUN2RrYXoxUHhpeWFkWUNzZVZIVXYyYmN0Q2RMUlQ1aVhtZEgydW5YUXYwVUc0R2J3cWFuM3BYRHFDVGJyc0xDNnJGVEt3aEZTLUlaMGFGWTJZc3lZZFlhaUI4VDBDZndfMVp0YTQ4TDZKcG9uRWlBMUpscUE0RTRvUTNybkJMQlN3UFdydE9KaWY1RnBWbTJDLThSV0hzMk9vTUZ0TGRJYU8yVDFyS3RBdGJGNVpkQ2ttQjMzRzhBb2lfOVU4NHpVUWFKYkNId2p3Ui1McW5KZVcwMmQtOHBXY003Rm5IMEE3NEZMM3E0UEFwMndMZ3pvQW1ZUHBJb29aQ3IxVjNCR0gxQlFFLWFlTWhBbC0xSGVIX0VKazBwVXJUNk9lUEtY?oc=5",
       "source": "El Universo",
       "published_at": "2026-11-07T18:37:00+00:00",
-      "score": 61.57,
+      "score": 55.13,
       "corroborating_sources": [
         "El Universo"
       ],
@@ -267,7 +327,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TaFhEMUxGVFU1ZGl1N0wzMjVqalg4blY1cXk2eU05eGI1ci1YZDB1RmtHZHdXbUxMSFdwek9hNE52TTMtQWxmVlNMN3Y1akJNZEpaa3NMbVN6RFZPTnFPVlN1LXlYSkk?oc=5",
       "source": "laizquierdadiario.cl",
       "published_at": "2026-11-07T18:32:26+00:00",
-      "score": 61.49,
+      "score": 55.06,
       "corroborating_sources": [
         "laizquierdadiario.cl"
       ],
@@ -282,39 +342,9 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcExmREtDLWJxZEI3elpmUmpDVGNlVXMtVDZ1dlNsLTV3SjdCcWlJWkI3UmpNZXdNQ2plWVBqdy05TlRkcVFkY1NIZF9rdV9nbkZOMlJuX0V2b0R6aW1XOWIxVHBFaVlyU1BRb3ZrZ2JGMUZzNkxodDJfbVV4cGI3Z2FUdDBXRVg3S3dRbzZMcGdudC1PMHBmaFRoWHRXLXVJZmVwc05FNW1Yb2JwcGNDVEtENkR4NjB6ellOLVFnXzBvSEN5a0RuRjFhSlNhaGQzQzNoUlNucGdLZ9IB3wFBVV95cUxNRF9USXNFWWgtUVdnb2l3Uno5MnNQTzJvM21tWkRuR2tka3pmYVBiOUl5Q1QxamZKQk1YSU5OZEdoY2YzQ2NjWk1odEVYYzh1STY3Xy11OTlqMDZuYllNel9Vb3ZDX3BLMlhRZUI3cmJ0Z3VTSlRQVldzTUd6RHNrWF9KNy1pZDdmLXgtQ2NINERHUmpqVGxmbjNidTdqQU5lUDlBUWJRVHhlWHZESkgxd2hkRG5NU29GSFFPUjZaQ2U4eHoxWDd5WG91MTAxdGh1RUJOLVRZN3VIWTBNdjRz?oc=5",
       "source": "Estrella Digital",
       "published_at": "2026-11-07T17:56:08+00:00",
-      "score": 60.84,
+      "score": 54.52,
       "corroborating_sources": [
         "Estrella Digital"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "eef0d4b94c467ecb",
-      "title": "Chalkboard Politics: What do political scientists actually do, continued? 🎧 - Good Authority",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElLZU04UUljaHU4OW5Ka3ItMW9VeVk0S2pwb2Myd0tNWjFhZHZWTWVVNHd4TmtrLVBKV05iVS1IbnhlZTlLWS1Ed3lVeXJIWl9pVlRUNjd2R1BWZzdmY2xGTk83SmFHVjdPeGN6OW1Ea2dEbllVSGdXb3U2ZmRucFJBNVJ3WWgxYmc2bl9uYlBHbFc2U0NKRWxOOWJwVjlkZ3FkNA?oc=5",
-      "source": "Good Authority",
-      "published_at": "2026-11-06T21:42:06+00:00",
-      "score": 60.34,
-      "corroborating_sources": [
-        "Good Authority"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b3a6d84b193be5a3",
-      "title": "Internacional | Asesinan a un diputado opositor y a tres policías en Guatemala - El Informador Chile",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSC1rTUp1cjE2SzZkQlZXUTNtOGRmODdiZzMwMkdSRHFlbm5Fbm1LbTNGV0NjSjNVZVhIc2J0WnZmbjAwLUNWVEtqTkFPYjV4T0FaYlBPM3ZZcGc1UXlFNlMyQk82ZzJUQ0tOSllsY3dDcllBaVR2RW10TFFlR3RSdVdxZjlQWHFnTkc2RE1UdURiQWlMSEtraVV1bTk1MUFjWHpNMnJkcE1uMW5wX1FXUmw0U2FmV204MkN1Qzd3?oc=5",
-      "source": "El Informador Chile",
-      "published_at": "2026-11-07T15:20:40+00:00",
-      "score": 58.17,
-      "corroborating_sources": [
-        "El Informador Chile"
       ],
       "signals": {
         "source_count": 1,
@@ -327,39 +357,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1NTanRKTVI3ZUtVMEJHbjh3cElxMmgtQjdZREZvQTN4M1dTTHJpbUhqVzlBS2ptZFB4bVhQeGRBeVpHQk42LWUtN2RtZDhZdjJvbzIzaGFqZzRXQno4NWtFNzZyOGoyaWpDWU14Ni1DWXc3SE9CUFMyd1pVa0VGZExGcnhHQUo1YXpmeG9nSFppZWh5TlZQakFFSnlvXzA?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-06T23:36:06+00:00",
-      "score": 56.53,
+      "score": 52.73,
       "corroborating_sources": [
         "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3b11e136a7dafff0",
-      "title": "La huella de la política exterior del Partido en la Conferencia Internacional de Partidos Políticos Asiáticos. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUpTd01sTGtSOXMyYTY1enM2dXAtU3hUMzdxUkRzTmNfMlpJU3h0N3Zva3dQSk9zWkVodG9mTzR0cU9la1pZRjhsUExtRXpoUGV3TVJLQU14QXFJNVYxY1A1MjR6SmR3WUdoSzVmdkhjaDVoODZDN2VfTXBJZ2xxTWZVd2dJVVFtVTJwb2FwV2xqaGV6eng0aHdR?oc=5",
-      "source": "Vietnam.vn",
-      "published_at": "2026-11-06T13:42:23+00:00",
-      "score": 55.99,
-      "corroborating_sources": [
-        "Vietnam.vn"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7c7081554aad9a2a",
-      "title": "Internacional | Tropas de El Salvador en Haití: la estrategia regional de Bukele - El Informador Chile",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRi0tVXhuR3RtMWFYM3poMjlGamR3UUxDM0hlVTBsbmJfRnB6X2hKeVV4ckhFSlZGOHRPejExUmNmRWx3aWZGQzJoTDM1bHdIQjRmb29CRU8tZkZsNnlRbDNtQUFCbnd6NXBxRDJrUTFXOGhlQnVxRE9iSVB6VmRReV9wWHpCeG9pUGd1NmMxR2xOX09jTGVZZ2diMlBrY0s0QmpTejlqR3kzZk9kX29aMDVDS1JQcUZtZzJlcW02dw?oc=5",
-      "source": "El Informador Chile",
-      "published_at": "2026-11-07T12:58:42+00:00",
-      "score": 55.9,
-      "corroborating_sources": [
-        "El Informador Chile"
       ],
       "signals": {
         "source_count": 1,
@@ -372,9 +372,24 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3F0WkVKNDlYNXFFOWhwYmNwVlgwcl9remh1aW4yU3lxdzFyVmY4ellyVUI5Q2U4VjNoOVhsdVE5Vlg4eGZ4RzFjakZObXk2VXplN2RxZEF6T2dGUFlOVEd2eTQ3TndINE1kbVZ2SGlXYmtzZVQzTzJfYlhtNUtoOWdyRVE1Q0dNVWtmOQ?oc=5",
       "source": "Vietnam.vn",
       "published_at": "2026-11-06T12:15:28+00:00",
-      "score": 55.3,
+      "score": 52.53,
       "corroborating_sources": [
         "Vietnam.vn"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b3a6d84b193be5a3",
+      "title": "Internacional | Asesinan a un diputado opositor y a tres policías en Guatemala - El Informador Chile",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSC1rTUp1cjE2SzZkQlZXUTNtOGRmODdiZzMwMkdSRHFlbm5Fbm1LbTNGV0NjSjNVZVhIc2J0WnZmbjAwLUNWVEtqTkFPYjV4T0FaYlBPM3ZZcGc1UXlFNlMyQk82ZzJUQ0tOSllsY3dDcllBaVR2RW10TFFlR3RSdVdxZjlQWHFnTkc2RE1UdURiQWlMSEtraVV1bTk1MUFjWHpNMnJkcE1uMW5wX1FXUmw0U2FmV204MkN1Qzd3?oc=5",
+      "source": "El Informador Chile",
+      "published_at": "2026-11-07T15:20:40+00:00",
+      "score": 52.3,
+      "corroborating_sources": [
+        "El Informador Chile"
       ],
       "signals": {
         "source_count": 1,
@@ -387,7 +402,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUNKUWw1WEppRVd6SlE5ZUZaWHUxUnQ1a2FwRHlwRnRlM0ZKVFZ6SGxZUEpta0gzcE1GcG1XMndPNTd2a2UydTNuRzN6WjFMbF9ocVgyemd4TGgzcWJvNTBpdjFoeUlQOHBoTFNaN0t0VGViOHVVa2U2UU9KNGJqUkVUVGNvMnRzRzFkSU1VSFI5Nm5KS3JTWXZ3ZTIyZ1dVZTlSa2pwek95N05DY2I5NGgxcw?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-06T20:03:06+00:00",
-      "score": 54.36,
+      "score": 50.92,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -397,14 +412,14 @@
       }
     },
     {
-      "id": "c816792428bb8b6e",
-      "title": "Trump: Soberbia y arrogancia - vanguardia.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tekFLczNxNG1VejV1VXp1ZDBOUkc3V1lvb2k2YVY5OXZoN1hiRC1Tb2tnRWlocUdYVE9oUGY0NnBzd3VjYVVndGxYaTdtaFFLdFVrZXNMWE15bXBGeHFmWnl5Z3JXT3F1LTdiejBVYl8wdnBUR1BjYWxvc0w?oc=5",
-      "source": "vanguardia.com.mx",
-      "published_at": "2026-11-07T11:00:00+00:00",
-      "score": 54.11,
+      "id": "7c7081554aad9a2a",
+      "title": "Internacional | Tropas de El Salvador en Haití: la estrategia regional de Bukele - El Informador Chile",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRi0tVXhuR3RtMWFYM3poMjlGamR3UUxDM0hlVTBsbmJfRnB6X2hKeVV4ckhFSlZGOHRPejExUmNmRWx3aWZGQzJoTDM1bHdIQjRmb29CRU8tZkZsNnlRbDNtQUFCbnd6NXBxRDJrUTFXOGhlQnVxRE9iSVB6VmRReV9wWHpCeG9pUGd1NmMxR2xOX09jTGVZZ2diMlBrY0s0QmpTejlqR3kzZk9kX29aMDVDS1JQcUZtZzJlcW02dw?oc=5",
+      "source": "El Informador Chile",
+      "published_at": "2026-11-07T12:58:42+00:00",
+      "score": 50.4,
       "corroborating_sources": [
-        "vanguardia.com.mx"
+        "El Informador Chile"
       ],
       "signals": {
         "source_count": 1,
@@ -412,14 +427,14 @@
       }
     },
     {
-      "id": "d453637a1b966e58",
-      "title": "El efecto dominó de la derrota de Trump: Vox, Meloni y Le Pen toman distancia - MUNDIARIO",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTNya28waUdta2dRUWt5UEp4a0wtWnlYZkUyM01YVjZ2dEVYU3I2YW8xcmtaVWFqOHJrM0QtUE9WSnhJSDlsOXA3Q0xjWEFkdUhmbXNGZll4aHVjVUJrcVpnMDJBZ0xtUXJkTDJMUmdFdTVEV0xOdTFRNUdPMzYwTnJiY1oyQmVvUmgxX3RkZnNlTnFnNTJqY0ZmY2JLVWJWa2hCOUR3aXNKeFJvSmRHUzhrSXRRWU1qVElJbXlyRlFZUQ?oc=5",
-      "source": "MUNDIARIO",
-      "published_at": "2026-11-07T10:42:33+00:00",
-      "score": 53.86,
+      "id": "88c0b2b00cc17360",
+      "title": "Santiago Peña destituido como presidente de Paraguay tras juicio político - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVNXOXcwMHJDZUlEMUJjZ0xjYXoyOW1kdjA0bzB4cTZJWU4tQXZzU2pRYl9zUU5OVTJXMEVsZUxXTFVjSlh3WmVOUktMRWhhcE40d1A5RjdXUWdjLWZaWHJkRldnUmZlY2VqQmpKaVNPakJRRVNGNmNjb2NPQks1ejVvVkp1QjlYQzR1WGlNc1RqOHFBMGNRbzZvdTBzbVlaSGZB?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-06T23:32:55+00:00",
+      "score": 49.7,
       "corroborating_sources": [
-        "MUNDIARIO"
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -432,24 +447,9 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzdxLVJqNC13bEdPUW5peXFkYXljZnJJLXctSDY1YndGVlhJeWF0dFNvRk9PMklzN0lSNFZwOUUtRHp3Z1AycDNzckhRUnNzWFZDTG45cXRPYUJpSlNQdFh0dThFSVdyM09Ha1hBTEVpcjNWTFJ0aXhFVkh3d2toMGY4allES2l5aWg2QkZiRnA1QmI2VlNaeTB0TnlZTHJEd2I3ZnI2cVgtbWpkSk1ueUwyemYyTHRjNVVfZ9IBwgFBVV95cUxOajAxTWkyeGpzZkhVRC04YW0zMjBJT3VpMU5oaHVEbzdkX2g4WG9IVU5yT2xLZU5xT1JfTmNpTGVaOTlEU3llVnZIWWVlTER2N3JXUmtsYXVIT1VLRm5mVDRUVUJweUFVZThJTWgwcVhtRV9maHJzVzhzVFpMd2dlZ2NvRVJyZWlTLVBaaGEyN3BJZUFKZGJDbWhKdG8xMEgwUkRTeXFVSGhMVVJrZnNUWVJZZ1ZCeDlPcUtwcjJnVl9WQQ?oc=5",
       "source": "Demócrata",
       "published_at": "2026-11-06T04:00:00+00:00",
-      "score": 51.85,
+      "score": 49.65,
       "corroborating_sources": [
         "Demócrata"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4b5306878c5e0fde",
-      "title": "Milei y su apuesta en política internacional: sus aliados caen en desgracia y sus enemigos ganan poder - Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGg3Y1BYYmNGdE1xT00zWTNaYWZrYWVXZUZNd3AtMEt4YzQ2SkEwRmRDY1FXWlFqY3U0bmlzcXAtbDc1R1UyVlBUbjNxS1J0em5fRWcwS3ZJaTlSLTBVdUhpN0VNNldwV0xMV3pCRDFkVlMtb2J5QS1JTkU0Z2t2R0FDYWs2amtFR0R6UzFKOTZFcWRTT1RWNHExUkVScjNjNGhQTmtIOWtHcUFyUlZmZFc3aEJsRjZCTDE2c2RaY2FSeGJoZTBhdHFB?oc=5",
-      "source": "Clarin.com",
-      "published_at": "2026-11-06T20:06:49+00:00",
-      "score": 51.4,
-      "corroborating_sources": [
-        "Clarin.com"
       ],
       "signals": {
         "source_count": 1,
