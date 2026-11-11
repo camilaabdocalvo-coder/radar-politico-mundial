@@ -1,19 +1,124 @@
 {
-  "generated_at": "2026-11-11T16:13:53.726703+00:00",
-  "next_update_expected_at": "2026-11-11T20:13:53.726703+00:00",
+  "generated_at": "2026-11-11T22:46:12.780269+00:00",
+  "next_update_expected_at": "2026-11-12T02:46:12.780269+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "c78dc52f245b48ba",
-      "title": "Delcy Rodríguez fija postura sobre soberanía y diplomacia verde durante su participación en la COP31 - Notiprensa Digital",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdHZJTU5vVE1HenF3aDBPdWZwOERFYjFXRWdSajRwMU9xeE9sWXNEcU5pUGFrMGw5QWVPTlZTSFZaUEFhekwtUHdPWVhXLVJXa01udG5tdlBNa21MdnN6Nkx0QUpxZmt0azlQTkFfOVBiRC1abFQ5M1FaUVdxc1htWG9hYmozdlJMVktDVTN3NlVNellzOFEzOFp3QnhDcEF6VHBmMk5JemxrT3o1bktzWDdLSW80Nk5aZ2dLX0p1dUZkbmZlSmpGMG94cw?oc=5",
-      "source": "Notiprensa Digital",
-      "published_at": "2026-11-11T15:12:10+00:00",
-      "score": 74.21,
+      "id": "6248fcc00062ae55",
+      "title": "Senado aprova MP da renegociação de dívidas do agronegócio - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVg3d0xKTzVmTkgyMU5sSmM5SDlrejhNbkExQkp3dzZNaFRuZjU5X1M0dzFZeUhJM2FDbl9LVEI2ZmRxV3lIRHo2dkFxcjFGYnBwMzQ3aE9LNEpCcEFsMjVISFd4NkhBQzJqZzd5My1NSVFMU2tPb0d2UTI5ajZhOFl2XzNJdjlEWjZFbnF1VnIyRWZXRzlROHdNaHBCVDlDNkFjc3N3?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-11T20:56:49+00:00",
+      "score": 76.25,
       "corroborating_sources": [
-        "Notiprensa Digital"
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d19f9d524eddf8d6",
+      "title": "Comissão quer ouvir ministro de Lula e Andrei sobre relatórios do Master - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaExmU3NvemFFa1FVVEdHMnlZcktwRVZUMUtRSkc1dUtsbkFEY3NiOHEyZTBVSUlZTXhpWG55RFltbzNHV0dHWS1rODg4RGV3YVNpbUY0ODRfRUJuY19wX25GQXdsTTJhWTdfN19qbU1veFM4V1AtM3ZWQlJGS0JOWmw3TFZTRlZtaGRwTWQzT3JsVmRKZURCTUNhRm5hZzZrLTk2V0NGakJXNUhwYVRyNHk2dkhaQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-11T20:36:51+00:00",
+      "score": 75.86,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "59f198bf7ed7e39d",
+      "title": "Lula ressalta na Turquia que vontade política, investimento e cooperação internacional são fundamentais para proteção das florestas tropicais - Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNeDdJUlpDcXFoWVd0VVBVVGtTb2UyeHo2Z0hSQ284RmdwdWZYRVNmSmdielo3SDFiZGNlRV9LekcycHdXOHJQTXIxbnpnaWp5eTBXa2Q1M0x3WFVVR1JvVDhOSktiNFM3QWNBdFBfRnRBT3NQM01zUmhlWDVRdUhLaG1qckI0MzZwV1h0QmJfd0RFcnNpVnMwVFg4NGNMMzVXX2FjMjlpT1FmdlA0My1oOTBOZ3l0Y3pBT0IyLVdfNUNlaVVfV2RhRUpBRHYxTWd0YWRjX0JiaGhaNnRwaHhKQV9kMFJCQWllRlpqVFoweFRuWGoyelBkZDNWalhITDlHNGZadHI3WGJzcEpHUS01OHY1clQ4YjNsQ3NPM3d1cmM5QmVYYi02ajZ1MmloWHpLV0VqVGd6RQ?oc=5",
+      "source": "Governo Federal",
+      "published_at": "2026-11-11T15:43:26+00:00",
+      "score": 75.48,
+      "corroborating_sources": [
+        "Governo Federal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "aa2c0e1a9c79292b",
+      "title": "Why the world needs a new diplomacy - Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUp2dkV5dnlYNThwVk5JdlVzYkRhaU5Ta0JiNnNLZXRudHZTWC1VSjdtSkthQWdfV2cyNm5tUXYwTFBxZ2JYdWFtUWxjcmdweDVibFp1SzlZVUJCVV85bzJlaXBmZEFoeGgtekF6SU80dWkwa2VabWFfUmxJZW1ab21hbUdVVFBNQmNkeTAxRjBkSk5vN0E?oc=5",
+      "source": "Daily Nation",
+      "published_at": "2026-11-11T21:00:00+00:00",
+      "score": 73.32,
+      "corroborating_sources": [
+        "Daily Nation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7453096bb5e2aeeb",
+      "title": "Peltola’s lead over Sullivan grows, but Alaska’s Senate race is still tight - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQakhUbGlYUGNmb0RFaEh5ZG5jVldKMVhjNURGMTZSV1BmX09mMXdFbHFCaGdkcmNPSUh5dFlYd2d5UHU4QUowTmhsT1BYUkpoYTJncFJaSmswcGloZTFrOVlGMVl1S3dTbHgxaEtYTlpvTE5hcU5lWVptNG85cm9oaVM1SnpRaURWaGE2TFl3ejkydkt1ay1VejBqYWdYNWtvOHktNTlsamltQ20wS1NFM1ZZQ091a25sdHg5Y1B6UUYtQTBjajluaGYtdw?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-11T18:26:57+00:00",
+      "score": 70.39,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ab9ba4285c99cc8c",
+      "title": "Alceu Moreira cobra previsibilidade para mineração no Brasil - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWFpWGtrOXFSeTlZV3VsN1daM2lranh4X1hMVzRTMnQ0T0lTQzZxSFZmVXBCMXdPNkRmdkZFOFViQ2k3LW4zc1oyMDZrcnE2NVZRQllROWlpU3h0Q0hfQ3I5MTFfcVg3elViUzdsallIOERfN3pfcVB3dGxfbGJDeHZqZXdrZjFGeVNYTVNYSEtPZDM1M0hrTnpFVnpVUzUwTmc?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-11T21:10:47+00:00",
+      "score": 68.53,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e3bb4e4aa1dc7288",
+      "title": "Importar 90% do potássio é risco à soberania, diz especialista - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0tJNnRLdXVpYnhtT1NtaHI2b0V4UHF4d1pPUV94aml1N3NxeGc2Y2l0Z25MQWpSdi1Sc2ZpVktsdExsTTFUdmpyTkFlWG9GaHVWU2tVWk8yZ0NHVGhnRGFlR1NvX3ZzN2RDTDNNc09Pc0RCbFM2VHpEUnRaREE5cUpQcjRnS09LMlRLanQzQkxZNFdFQ3dlVGMyMTdyT2Y2S0pv?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-11T20:51:51+00:00",
+      "score": 68.16,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3c06b402fde6395a",
+      "title": "Lula inaugura política externa 4.0 e cobra países ricos na COP31 - JOTA Info",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0owQWpWUVRPaTlsOUE2aGNtak1SaHlEdHg4OHRZaG5PZGQyNWxrSFNLem03OHp6YzVaSlhhZ29Rc0dCdTFXR09VbGpJZ202Q3BKUWYxdjhvNU0wRUhjNEU5eEpFXzQtT1R3dkplOV90TXlvX0h0SWRzOGtUb1l0aWkzU2gyUXcyd3RhSXNNM2RDVmp5OC1KdWJsMXA?oc=5",
+      "source": "JOTA Info",
+      "published_at": "2026-11-11T15:16:25+00:00",
+      "score": 67.02,
+      "corroborating_sources": [
+        "JOTA Info"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWGgxd0ttYkxLVnBZTzYxTzZFMzU2XzVqMEdJZk1BX1h6Tk9vdFdCZ2pFLXlxeDZJMzhpM0E3cjZVbmp1Y0JCcnlZRTZGd2x4ZGhOdGxqalBmRlJ6VEkzcGxvc2NBVjZBYllPMnpsNjNaY2xTaERKVnlqVi1pSk1fbjJIeHhXVDZTSTJGVDlueWhJRXF1OVpuX3I5el9hR0lrcWtxdEYwNVlwa1BKWUxyUkRlZWN3cGVNYlNHYkdwcnM5STdFQ1N3ZXRaMTBOM3BTZXdjWGljS0JKT2hOSEJXeFRNQ1B3S3F30gHuAUFVX3lxTE5hMU1JOEotSkVtTktOTjROcmFyNUVSVEpLeHFFcHc5TlNEOE1QQUF4UXlDZGl3UlRJcGxnTC1TWnpqVmxsUlNGZ1BOZ2JJeVd4OW5OcFdJY2RUbW43eng3OXpsVVNmaGl3bDB0dmZyUk9RN3pIWHRGbEV1MUt3QVYzRTY0WnpObk5GZUwxZ195eC04dFpOUDZMS3RENnFYaUQ2a256akdJR0lEWElFa21qSkJLM0c1a2ZVeVhIQzIwd0VjcWQ2ZjJPLTJmaFFOZVNlcXI5ZTdiSTMwdVh2NGsyUHlWYjdlNWtCZGU0V0E?oc=5",
       "source": "Diario Las Américas",
       "published_at": "2026-11-11T14:30:00+00:00",
-      "score": 73.36,
+      "score": 66.24,
       "corroborating_sources": [
         "Diario Las Américas"
       ],
@@ -41,9 +146,39 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGJ0eUZRSXdFUEFJQVhFdEJIWVdlYnVjR3pLZjFHZzdrVTlPU1VTZElDQ0xnMVVybXRfU1gyckNXSWZWUW9YaEhiY05vZEVPWXVhSUFldmcyYkVZOE9GM3B3T1RVSzNnbjhmZnhLZzFoQ3RRTDBDLVhHa0toRy1NYnptZERITkxEeFhuTGUxVEFVbVU1em05Z1duSl9hTWZ5UGNMM2liUEpGc3pIbkhBcm9SdlFqTVZKTmI4NUZyako5NWtRdU1DQXVDQQ?oc=5",
       "source": "La Jornada Maya",
       "published_at": "2026-11-11T14:03:51+00:00",
-      "score": 72.85,
+      "score": 65.81,
       "corroborating_sources": [
         "La Jornada Maya"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9ee5a7b8c8e36d88",
+      "title": "León XIV y Milei: una especialista analiza el mensaje político del Papa y las tensiones con el Gobierno - La Gaceta",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObzBLS0w0VFZxYTVxVFZnc2F2TklXdnlqTTVuREdJTlpnUFZ2U2xwMzBnY05EY0FtaHBzeG92NGhkMDd6ajd2ek0xTzZsSmhHSUxNTTFMRjRCZENuck9teEFCajZuV0lQZFlZT3FhdjJ1cWdySnhXNHR5MzJnTy1lbEt1X1o0dkU1SmdSN3JxclgzX0ZlU2VLREh0eXBLb1hCS3drdWNDbDh4Q3BLdXNzYXBaaEU2aHZVLU5tTlppSG1DMVpZZGRNeG85ONIB0AFBVV95cUxPN3NIcl83cWo4YnlBTk80SU9WOXRKRFU1UGdWY0hBaFBvWUllZnhpRVF6c2pxa3hoV1RGREhGaUZuUzhBMGdhV3czTnFOTWo4UUNseVUwdGxRSWVwRERuekZjWGVwc1c4Skt4LVpMQk5GMGk5ZXhJVnRCZ1hhbWVLMVVJbG1kLWNrTHRYNzYwUk5wOWFvM1l2QjM3MzkxNF81dHVZUmZCc0JGU2VJWlNBVzduOWpZWE9ldlREZWdOb0pMRHZlMUQwLXdYUVkydGRR?oc=5",
+      "source": "La Gaceta",
+      "published_at": "2026-11-11T21:02:32+00:00",
+      "score": 65.37,
+      "corroborating_sources": [
+        "La Gaceta"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "83344aca632d2917",
+      "title": "Young Australians join global wave of student activism - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2UxWkFqOUVTcFhQUWZRWU9nNTYyY3JRLXR5VnNhNUpnUmNvX2QzTi01SnkyeEZZS2lpWXYzZjdQVnNIVVNYZGM0aVFFMGhYVlJBS1NjUXBrQU55YVhnS1JkOXkwaHFIWllQMFdtZ2h0V25lR3JuUENhOWdqX1oxLUNGMFNxZl9QM20tQTJfOHIyZlhXcE5FdmZRbF83dXdMbjhoSzJ3?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-11-11T21:00:00+00:00",
+      "score": 65.32,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdlJSZTF3Z2VUZjktZVZqdkh3TkxjOFBVS28tQzQ5SmdtMjg4aEE3VVJrWWotVkY2MmZmVFkwS0pQVk5GZWhYMkM5UGNMaDBxTm1BbG12QWpJTUl1VkYwVldmaWx4RGlKQW8zV1J1YnplV1VqUF9XQ1p2VTB2Q25odkhNekt5M0VIYXBiSUpVeXVWWXY0VXJ1TlpGTDJselp4ekM5YjJoV0NPanhCTndFYmZaRmljYjZwc0ppWVlaMFlxdE0yWVFKVV9XV0cxNnZWbUIydVo3ONIB8gFBVV95cUxOOEJTNmFnWkF3dnhJdGFUbnFUYUU2M3VYeEhGMEV3bFN1R1FCUElPWkhOYktscFJGZ2x2dUJYZ2l0VXRfVklsa0pJUExDZnVnbVFIZy1GS0lmdzROU2Q2REYtOXQ0dGVLWkYtTFJtcVFyLW04QUphbUM1T1ZIcUxaMy00ODNyMlZfQ3pBQm4wd0gzTjdRc2htMWJoOTUtb2c1Z09sMFU4bEFZTmw3SUZyNVhmM0RmMzFHOGxkTWJ4OHFfZVZxWk5YY1FZV3pVX3d1SUR2SFliZURUNXdFQTg1em5scTljam9Xb2w3cXBCWklDdw?oc=5",
       "source": "Infobae",
       "published_at": "2026-11-11T12:30:00+00:00",
-      "score": 71.05,
+      "score": 64.31,
       "corroborating_sources": [
         "Infobae"
       ],
@@ -71,9 +206,54 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXZsbENxYXhURkhyTzB2eF9PVHNPR1lrRzNPVGF5dkhoV3lDOEUwZFQ1OFJXeUdWaWdIbnV6b2M5N0ptZEFZRUZEdGQtbExlRzUyR0ZOMDN3ZVVzU25pUldmNUE0d3lQUG9GazcyY3c1dG5pMnB0WDQ5SkQycE04UU80TUhTNkFIZkE2OWVwcHRYdmR4RE9fV1E3alhxNjNBRGs2ckdIbw?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-11T09:08:45+00:00",
-      "score": 70.44,
+      "score": 64.3,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2728f34731d736b6",
+      "title": "Brasil sobe em ranking climático após \"notável queda no desmatamento\" - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVJrY1NNRG5FZFAyQlRabUJzbXhnUnVudjVlYkFubk50Mk4zNnlFWDNNNVI5TWlYajdpQVhrdzJic2E4WDVMcDl5aUxNWXdZT1pCd2ZWdTFfaGhCNE9vaUY1LVJ6aGNTc1pxanU5eVYxVVB5dUgtczZNNndnMEpSOWlHRWFVYjlnUTlTM3BKMDN6N1BFSHRXTUJaWERoZVJTdGZZ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-11T17:17:00+00:00",
+      "score": 64.12,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "39ecdce5b807a2cd",
+      "title": "A Milei no lo salva ni el Papa - Prensa Obrera",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2Z19RLXZYR0kzdXpfV1IzRHVGOHI3ZTJUM3V1WEZSM0R3WERSeWl2akdyR3lOekZjYlJVMlp3R1ZQdmY5NFdsdzZQZmtqeTI1RmxkUGFWdWQwVzU5MXhZUHU0RVk0cXZIdHpVeTVvWFc1N2M?oc=5",
+      "source": "Prensa Obrera",
+      "published_at": "2026-11-11T19:12:15+00:00",
+      "score": 63.23,
+      "corroborating_sources": [
+        "Prensa Obrera"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5253fc3df2495770",
+      "title": "Exvicecanciller ecuatoriano destaca iniciativas globales de China para impulsar un orden mundial multipolar - Confirmado.net",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUV4X200XzFNVmlNbmVpNk5aeXhjVDJPYmN4TnZJLVFfLXc3WjlNUkpJd1lrTnlKQkpNRTNoTldkQlYxUWd6VXNhcHdHLWJMSEtaSi1KYlpxcVByRjQwQUJHMEdNOFI3SzlCeVV0M0ZlTEp0NWdtRGR4cXNNdzFXSXVyZkJaTEpLN280STRkd0JOMjRYOGtjaEwxWVlpMjBrNDJiSFJoTV9nREpJXzIwOHUyOGZqdVVwbzlHY1FSaWRMWWVGeWxLLU5iVQ?oc=5",
+      "source": "Confirmado.net",
+      "published_at": "2026-11-11T19:03:06+00:00",
+      "score": 63.06,
+      "corroborating_sources": [
+        "Confirmado.net"
       ],
       "signals": {
         "source_count": 1,
@@ -86,9 +266,54 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0NBRUo4SEpUVlpMaHBxUV9xeGFkdjV0SnZ3S0JNeERyMm1ldGdGNXZiQWFidGlmcTJfV2lQckk1ZlpPNnlibDUycjZpejQ2TGRQdEhrZ2FiNXBiUEdOYVZpSzdhVkxUV0RHd0FqXy1Md3hFRkZRQnJUN0VqYm5TVDQ5YXlCcHlCVlVMc1FkQ0MzZnpMYXFLV2JVQ183WmYtWWNXRW42VWc1TWFTWkw4?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-11T15:51:13+00:00",
-      "score": 70.01,
+      "score": 62.61,
       "corroborating_sources": [
         "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8e17cc90507cdda0",
+      "title": "Judge slaps DOJ effort to derail ‘Broadview Six’ hearing, calls AG’s evidence production ‘noncompliant’ - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd01lemNuYVZHV2x1MjN5dV8tX0Ewemd5U2pVSmE0TjJzeVdLNWNNLW15RXdtb2lfNEpmZjZrREliZGZsbTB2OHJGdmFrdk5JMHVXYTNaMndGMWFFWXVEUmpVTzUyS1VYQzdyVkRfdVBWb1dsQUxDYVhMckVJZG1tTE1yck41UGlZUmlCM2c5d0tzZUM1QUw2LUlKMGFBUG9YNUNkQmdnM3FPUmpBVWlCd0ZPOVNWRklQYjZhVmR0dGd6ZEpzUE1pUmxPMUllMGZVaUhOajNvSEI1eGxIZTdoZzZyWjJiMkoyRi1TOGlKMEY?oc=5",
+      "source": "Daily Herald",
+      "published_at": "2026-11-11T18:01:53+00:00",
+      "score": 61.93,
+      "corroborating_sources": [
+        "Daily Herald"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "48999159bd7336f4",
+      "title": "Mapped: The World’s Most and Least Democratic Countries - Visual Capitalist",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjljVmJYRGQwR0owZUluOFlJdExMTFBlUzZyTkYzUFFKeUJoeVNuWVByMnI4OW5FaFhoell3ZTM4amdPNzhnLV82T2hDQkZwdEhwMjZxdm9ZRjdILXVFU1RZbEI4amk2d3U4Y0ZSMERhWHlqcl9vTEdOaEV1cEhwa1pB?oc=5",
+      "source": "Visual Capitalist",
+      "published_at": "2026-11-11T17:12:22+00:00",
+      "score": 61.03,
+      "corroborating_sources": [
+        "Visual Capitalist"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bec71c25bc885e5c",
+      "title": "Book Review: The Last Humans – UFOs, Global Security, and the Threat to State Sovereignty - Inside Outer Space",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEYyNVltdldMZ0NKQUNxWHFEbG1YZUtVT0xRaENyTzlBbDIyYzJrVjZhTFhfZFlnQWlBeWJ2a19iNXhiX3llYXRUd1hxVzJkY0E4elFfVEdQM0FuR2RPME14amx4a3otUy1fRnlRMnE4UUdtc2Q5SHpLQjJRT09lSEdxV2lqTzNRT3pxY2pibzZRbEFiMElWN3pqUjc5REhTRXc3M29fMG91S2doSlpqSUJDSTc?oc=5",
+      "source": "Inside Outer Space",
+      "published_at": "2026-11-11T16:27:46+00:00",
+      "score": 60.24,
+      "corroborating_sources": [
+        "Inside Outer Space"
       ],
       "signals": {
         "source_count": 1,
@@ -101,69 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT0h5NGFieElVX1VRckNIclRSUUxGV2hWUi1iZUVHUHdELVZTZ3A0SnJrdWtRYU40b3FfSGRBT29tbDFScmtLQkFzVGZwREFhYmlJUkpSNTRaY3RfellXZlBJOENwQXhtanVZMzBaTF91QzREQWg3M081Sm90MGN3azFGTkRLcWpsT3p6cjN2S2JVLU1EN2I0bXpyLUlleU0zcG40UUxoZVEzVWhiS1FqVlRUWnJVWk05MDhWa0hKRi1xNFZlZEo4aGxaVnJMb1pSR3VNNzBlbTUyLUVISmdwdTV6VkZLVzF6N0VDWA?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-11-11T13:44:11+00:00",
-      "score": 64.46,
+      "score": 57.49,
       "corroborating_sources": [
         "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "35d10e605b1f544e",
-      "title": "Republicans reject impeachment resolution against Pete Hegseth - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXd1Wlp5SklXVDdKME1ZRlVsLUdsTzJvSTgweEVjNWp1QVBEMTNydE15akM2Q0NpWkVXeHJ2SzA2bXc3cmpySWRETUVuU1FhWHBaR1VpSEJJVnItanpPS281SnhVTlFmTHNxMldLaXRZRGUtY1BPWk12UllJbVprNHZpNXE5RnprTTd1d0ZFb2pZSzNDVmdWS2JhZ1A3bktpUGdCcll3ZFU2TFZ2OURHZ0VqV1Q?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-11T13:09:37+00:00",
-      "score": 63.8,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8bedd6e2d8e8b5eb",
-      "title": "Ojo al piojo: Irán declaró \"terroristas\" a la Armada y la Fuerza Aérea argentinas por las provocaciones del presidemente - Agencia NOVA",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15VVpmaGowLWZEbWRxaVZvbnJOUk1XdWNDTk1vdkNmdVVtQllyR2E5dDRsSUk5YWcxWDNIbHp4Z2pQMHNfNnBXRjR4Y2dZR2dMYXRYUjNtcnYwS3Q4SFJ1RjVjOVhtRXlYeFUxVlBGSlVvYUlPdlB6M1FMSWQ4Zw?oc=5",
-      "source": "Agencia NOVA",
-      "published_at": "2026-11-11T12:55:29+00:00",
-      "score": 63.53,
-      "corroborating_sources": [
-        "Agencia NOVA"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "067daef844e1f696",
-      "title": "FT: Alice Huang, suspected by US intelligence of spying Nvidia CEO worked for a decade with a financier penalized by Chinese regulators - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYy1zU05ySDBQRDJoZUcwd2xpZG9VMnNhLTJGQTVRMW82TUlRZ2E4SF9jRlMwM3ZJM1lyNXdHcGYzQUhIN3J2Q0J6SUVnaERocWFMMVVQRXNUaFZxdTRrbnA2MnBlajFKd0l4SEp4a29SMndTZEI5azZnOG9XdUhFeGFuRmFTQU1YeTlmTFVzV29PdTRHTDVVUVlNWm9Qai1VcllnQndpM200WG5EZ1FuX2txWk9SaVdXZ1pxTGc1aGpJRVd6TE41RWxsMA?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-11T11:53:57+00:00",
-      "score": 62.37,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ba3618c5dd71d262",
-      "title": "Brazil’s electoral court fines Meta R$7.5 million for failing to comply with orders on Lula and Flávio, but finds no deliberate bias - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjZ3dG5paWdGbWNuQVRUZXVCVzF4U0xqcHhHWGV2YUhOX3BBYks4UEJMZ3oyVUt0Tm5ZUnZWQjhnaEVPUk9DcUptOVBUNVVxcTlZU0JSN2hkTlQxeWg3UkFIaWFWbEdnMFBTNWoyNlVoaGNBbkNCdDF3cGdYM01XendUanlxNnYwZ0NFc1JNMEU5emkzbXZBOV9xb2FQRklxZXM4UQ?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-11T11:52:47+00:00",
-      "score": 62.35,
-      "corroborating_sources": [
-        "Plataforma Media"
       ],
       "signals": {
         "source_count": 1,
@@ -176,9 +341,24 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qTVBzWmRqbE1hNXpLYjhzbEU0T2JlbUVtSHBLSkkwMElBUk1Wd0QzUXAxMkk1ZkI1N3VWUGZQcU1kWUNERzNDbVItME9fTWhxVUN0ZFY2QlVCa0hnTzNuOTgxUTZzQmxuZ3pfUTlxTnJxazNsZFFzUkVDdTg?oc=5",
       "source": "La Nación",
       "published_at": "2026-11-11T03:00:00+00:00",
-      "score": 61.64,
+      "score": 56.46,
       "corroborating_sources": [
         "La Nación"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "067daef844e1f696",
+      "title": "FT: Alice Huang, suspected by US intelligence of spying Nvidia CEO worked for a decade with a financier penalized by Chinese regulators - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYy1zU05ySDBQRDJoZUcwd2xpZG9VMnNhLTJGQTVRMW82TUlRZ2E4SF9jRlMwM3ZJM1lyNXdHcGYzQUhIN3J2Q0J6SUVnaERocWFMMVVQRXNUaFZxdTRrbnA2MnBlajFKd0l4SEp4a29SMndTZEI5azZnOG9XdUhFeGFuRmFTQU1YeTlmTFVzV29PdTRHTDVVUVlNWm9Qai1VcllnQndpM200WG5EZ1FuX2txWk9SaVdXZ1pxTGc1aGpJRVd6TE41RWxsMA?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-11T11:53:57+00:00",
+      "score": 55.75,
+      "corroborating_sources": [
+        "Plataforma Media"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUc2OUI4LS1hTURnYTZYNTNUX2RBdDdkNUc2cUxaelZ3YUZnQmw1alVScWlXTUZQMkhGVVRjV19kX0JhNDludlFscUVneHBhOVVVc20zNkJRUWEteklFVnhveVBnSU1iOE41aFROUVByajVNN3FIcWNxMXBrNWthNWUzdzNtNjlIOHp0bHFZeURVU0lTSEFFN2lWaEhpd2llV1R4X0YwTHRPSnBrOTBaZEVuZDMtUS0x?oc=5",
       "source": "Atalayar",
       "published_at": "2026-11-11T10:00:00+00:00",
-      "score": 60.32,
+      "score": 54.04,
       "corroborating_sources": [
         "Atalayar"
       ],
@@ -206,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZV9PbUJ6UFpyVGVZV05hQmduVTNCM2hfV1djcFN5c1pBdU80a0wzU0VXQzI0YnExQ3MxN3pxRDJ6ZmFwaVV6UVBSekhiTzhSeG1RaXFoaDlKa2x6dDdJa0pSQXNPNEM3RGo0ZWxLeTBGQjRJdDZ2dEhMeE9YODFjWVFNSkI5SVo5OV9FZGZNWXRCTllHd0xxNGJOMWJKWldQUnBaY3h1RlA2aEszd2ZUUERRdlpzTGZPVEFCbg?oc=5",
       "source": "Asociación Almendrón",
       "published_at": "2026-11-11T09:32:13+00:00",
-      "score": 59.84,
+      "score": 53.63,
       "corroborating_sources": [
         "Asociación Almendrón"
       ],
@@ -221,9 +401,24 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbWZfdGZrNW5XcXNFWUNqN1pHNm1zaVR0Z1RTUHNZbmR6U19YeUl2SXNrSVdNbXdaaC1Id3lVazUwQ1RpX1hOX0FwcEVQdGtBMTNJQ0dMYlI1NmVTaG9mTV9qSDRmdm9HRC1QMU1US1VodWZKWkRUVVFiekRYU194RlhSRm9FSF81a3pYVklidzFBRnU4MUhSSlY3QVR0OTUtRkpmUEY4Q0JCNTlOTXFtb3NuTjBLV285ZHRzeWZ6bnFlNC1taVBSd3pFNjVSN0U5Uk9rdDFnNEVOQVh6aHJLSlZpcGFUeWc?oc=5",
       "source": "Brasil de Fato",
       "published_at": "2026-11-10T21:50:00+00:00",
-      "score": 57.47,
+      "score": 52.99,
       "corroborating_sources": [
         "Brasil de Fato"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "11bfb7f4d7f40f73",
+      "title": "Filhos de FHC pedem busca e apreensão contra homem que filmou ex-presidente - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU9PMW1EZFhlNXBzUTQxOGN3ZnFSbFZoN0ZMNlNReUNPbmsyM2VSRUZOejJDMGp2WkloNnNmWDdtSzhTQ3NNUEhNWWxxcUxadHpKTkZMaG5mN2N2bDZLYndsMXhrQkhRX3UyTDhUOVpBTElJSkRUbTV4UEVDazZuNE9NRXY1VTFNclZMOWFqNE5JaVlBSHZXRmtlM3JkQ05BenVDRUhENDVIMnRISzZqMUJR0gG3AUFVX3lxTE1nVTlES2JPQlQ4RXJIM3BzUXRxc25waTJoVW5ycXJKTmVhdmNsLTZQY01UMkpPTVpVckFvT29vaEgwLTV4TldXVXZScXpCa1hoSHJ2V0hWZzNTS2puSzZocjItamdDVVRGYXFxWDdkN211VWJsbDVabkhRbnlzdk5YTTYzS2V5MnU1TlZmMXZUYW91cjlEa0tSZVdDbjYwa2hmQU5iOE53bk5PbUJGUDB3Z19pX21ncw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-10T16:11:11+00:00",
+      "score": 52.72,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaldvT05DQU12SXFFRjQ5OTlGUWdBY2dxODY1ajFVeUo3eTUtdk1WYkZVTXpUN1J3Zk5makp0dE9ZbU9FRjRvVjlpZzQyY1hSYW84dWRTcW1Yc0hXcTBQdi1lX2hGcXNlcEtqNlV0S2pEYUZKSnRlWGJJaklDLVh4LWkwWjlleDM2WVpGNWtyblppemJyOTBad3R6MUgxN3JEbUxMeklZRWlPbDlJLWRhRlk0OG53aWh1RDhucXZUelh0NGhwOFZIUEVoa19sX0l0SFhOQldqQWxQRFJnblZfWlVB?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-11-10T21:06:19+00:00",
-      "score": 56.93,
+      "score": 52.54,
       "corroborating_sources": [
         "Daily Herald"
       ],
@@ -251,204 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWFReXZZMm83YzItbU5YbDEtbElLN1NZVlh2VVJOeHNrU0hYUWFkN182R2JESnNKbEdSTGRXNDZSZ1ctdzBRWEYtUmQyTmthZ24teDBGYk9QY1dnZ2ZpTzdQZkN2cVNuVng4RWpQdmN0WVNmeVd1SFp0NHFzUjFYTHd4cGxPZXZTYXZrSTJKS2R6TmctTzI3Zk1qVnZjcDJNX01JT3hJMTJVYjlkYllMTVcwVHp1STBIMlhpd2l6d0J4bUNWdEZYZEZwQ2wxR0ZsZUwtRmNfZEFxVU15VVlVVDdLWnd2eXJIbzVEY3I5elI2bjUx?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-11-10T21:04:33+00:00",
-      "score": 56.91,
+      "score": 52.52,
       "corroborating_sources": [
         "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "11bfb7f4d7f40f73",
-      "title": "Filhos de FHC pedem busca e apreensão contra homem que filmou ex-presidente - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU9PMW1EZFhlNXBzUTQxOGN3ZnFSbFZoN0ZMNlNReUNPbmsyM2VSRUZOejJDMGp2WkloNnNmWDdtSzhTQ3NNUEhNWWxxcUxadHpKTkZMaG5mN2N2bDZLYndsMXhrQkhRX3UyTDhUOVpBTElJSkRUbTV4UEVDazZuNE9NRXY1VTFNclZMOWFqNE5JaVlBSHZXRmtlM3JkQ05BenVDRUhENDVIMnRISzZqMUJR0gG3AUFVX3lxTE1nVTlES2JPQlQ4RXJIM3BzUXRxc25waTJoVW5ycXJKTmVhdmNsLTZQY01UMkpPTVpVckFvT29vaEgwLTV4TldXVXZScXpCa1hoSHJ2V0hWZzNTS2puSzZocjItamdDVVRGYXFxWDdkN211VWJsbDVabkhRbnlzdk5YTTYzS2V5MnU1TlZmMXZUYW91cjlEa0tSZVdDbjYwa2hmQU5iOE53bk5PbUJGUDB3Z19pX21ncw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-10T16:11:11+00:00",
-      "score": 56.55,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "83f0b10d887f5383",
-      "title": "ICE deportation flight carrying Iranians turns back and lands in Arizona - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT1ljd0c4VHlvX1ptc2VzeGF5QVozZkQ2Wm5Ld1lqZ0JPckI2bFdNUmEzUDdrbFFfUm1RRnlZMjBkMkJUOFVfTlFQdWRYMElzV0NmSkhRMUhOTzIwbTE5ZUJwRXNfX3NnRm51a0g3ZkJLSm85cUlHRDlTUnZwVWV1SDk5OTg3Ni14OXBCdDVpMGZYZzRVb3FxZzN0QXNTN0ltZTZDS2Q5Yi11S0VVajZFdUJ6UTFMa05vV2Q2UjFNWUp5Z09pbXdPS0dLNA?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-11T04:18:36+00:00",
-      "score": 54.79,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "58dffcd4fd4e897d",
-      "title": "Mauro Vieira encerra participação em reunião do G7 em Paris com encontros bilaterais - Diplomacia Business",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMW1iaWJtNWdPS3YwcDh4TkJPMGJWX2dnSkNEZjZqWUlyTHFOWUM0SHFKN1pnYVh2RGI5eDd1V0RRcDRqZlFaMjdNdFNxSkRTeDdHQl8yOXZnaGJRbFRsYjNLaEJ2Vk5iZmYzX0V2TXhhaWJaN29qY0h2bEtaZi1tbl9LdUNnS1ZadGdsY25wX2dETFZXN0U4Z2JaUldPTkVBUmZ6QVZONHFrUDNPSTBjZW9EOGVRTjlCbTJvMmREY2NFV0RvZFE?oc=5",
-      "source": "Diplomacia Business",
-      "published_at": "2026-11-10T17:39:23+00:00",
-      "score": 54.51,
-      "corroborating_sources": [
-        "Diplomacia Business"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e5023d83e849dd59",
-      "title": "El PP se inspira en Trump para sus propuestas de política exterior - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ01lOGc3SHlTTVV2dzU1NlpwVGdzUmUyUjY0c2lxYi1rTzNOcHIzWFU5OXJQSWhLeDVxVF9mY2FINjVPSkVMRXo2dmowRjFHQm9COE5ROUVnZHc5SzZLbnJSWDJWdGhXX2N1VF9GbHFlcE53dlN2UXhwWXlQaWtCR1BUMXpGMVIxbTVGYVZTb0lveHhTUHpKTHpMempwV0lCazlzUlZmNm15RzhhY3JWQnZTU2dqdEJ0dVpqcdIB0AFBVV95cUxQR19XYXJUZVZENkJ0aV9oRHhkTXdNXzJZV1lzMWFKMkhJQ0ZwNUFja2FRV19FTXJ3akU4NERJazM2bzR1Q1VCanRBSVV2WVpuVzRxR0dTdVpyeTBEUzFWT2ZuTm5HSlVWd1NlWFVHTHplRXFGQ2JTcGlFT00wcTRsZGtXbUVSd3lRUGE3QU5wbEs4Q2tBeENOYkZFbzRVcjllRUZpcW4xbmhSX2ZoSlhKSVVGa0JjOElwbnpwWEVOSGtHbndVd0d0Y3lCalBDeU16?oc=5",
-      "source": "Cadena SER",
-      "published_at": "2026-11-10T17:18:52+00:00",
-      "score": 54.29,
-      "corroborating_sources": [
-        "Cadena SER"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c03a4918d6acda14",
-      "title": "El triunfo demócrata y América Latina - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmVWNlFNaV9hZWhGTDN6ZndrdmZ0cU4waHZUTUtnMDRQejNBN2hLYW1KRFBtY1JnTnJjcGRucEVPSnlacXp4eFFWeHJ2U2ZVUEtLeGNJVDJfeXY2eEUySmx6MnBDZTRURnFBM0U4dnhibUprd2NvaTNuZzRGd216d21BWDJGcmF2WWVlSG9LajMxN3VEWkY0RNIBngFBVV95cUxORnpqQUpFZnBLdkdDNjNHeVR0TWhfTmx4b2gxaHNRV21tdnhMMVh1N0tWV19RdzRVanpaT2t6bDlRdmV6blF6dDIxLWNuU0RBVVFVNWI1bVFHNE83MVZKbmJZR2dTMEl1NUV6b3RDNnZzSGszSmNpdDRILWRYazJIQUNJbVMwb25kX1pQRjlRXzRjWDM5QVNzZEcwMVA5UQ?oc=5",
-      "source": "El Economista",
-      "published_at": "2026-11-11T02:47:36+00:00",
-      "score": 53.46,
-      "corroborating_sources": [
-        "El Economista"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f38368c4243e0c9b",
-      "title": "Appeals court rebukes Justice Dept. over demand for journalists’ LinkedIn data - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQME96RkFsb1podGdFTS1YUHlCNGFYSFRMX1RGUExaWlNtS2JZcDhPMW55V2dEQ0FBZGNUSVFDQ21NQVBXOGc3NWFTcndxWDdlT1hYd2lfR3dhNk96RWZKQkVaZUUtaXFGZnAxUS0tdHpQYXJ6LVlwT01QcEpuTXdCcV80QzdSZWZkXzNDcFhCc2tEOExtWWUzaHIxZVh1Y093MmEwakNSQ0pwdnNCTDNWWWZoUWszSzA1dXFuTTZkdVBPVndPMzhDODJDclExYjBl?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-11T02:18:16+00:00",
-      "score": 53.04,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7d7cd47eec077dfd",
-      "title": "Microsoft pede a Trump que não proíba tecnologia chinesa em data centers - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3RvY2xTM3Q4VjRWQTdEd0c5azVZYmxkZGNwRDV1V1AxVGVMR3didmJkNVR3N3h4NWxNUVVYZGR0ckdZTmd6SEl5MUhMTEZnZEZvLUdBd2d0MFhfT3JlQXBScU9fdkQ3OXdJZ3ByVWNESUJNaDdMYUZrdzgtOWg2eUtlclZfV0h4Ym5BYk9RTWRUWkh2ajlpV1RHTURrV1BmNlV4azhMSzZzWlBrYzJQTHhETzBOWHJXVGpRcV9TWTJFeEduY0cxZUJnY2Vrd9IB0wFBVV95cUxQNlpvajZsMWlWdkd5c2twQW51LWprRVhGTzVhRk0ydFZxNWhEdmxRUlQtNEZndVBuS2FXbS0yc2tuMzI5UEd4VVJ3VWszR2hkNkRlSkc5TnhyXzh1ekxkdkF2alpKVzF5enBidDgtZEtQdHVLWUptSmhLaUNmNHdwWkhQeTdoQUZBSjRqV2k2TzJwZFRoSWZaYzZDSzFaTDlvR0ZjeW1QdlhQUGRMblczWkdjcVRJekg0NWVwSXJyTzlfdXBQMG5SbHRWVllJM3NITjlz?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-10T22:00:00+00:00",
-      "score": 52.6,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a390aebcc47b16e5",
-      "title": "El mundo vuelve a mirar hacia la democracia: México ante una nueva oportunidad histórica. - Senado de la Republica",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWNJclg2Y21XbzhKeE9XNFlXbVpNU2NaU0tDekxjNVVSZkFTbHVXOGFlaVEwclpUSmtmN2dPSFRpYVJZRG1Ba1BJUHBtS285UnlMMThIOTY5S3NsQWZjVXRhMS0zTncteWU2d3dtSUQ3NDg0VDlJM3dPM3dHRzdRdllpRzlLcHFxRWN2S0RNT1NaT09XUHZmY3BMbGhLcEJHMXozNWYtM0tjTTFIUVc5eE1tQldPQWZX?oc=5",
-      "source": "Senado de la Republica",
-      "published_at": "2026-11-09T21:28:36+00:00",
-      "score": 52.2,
-      "corroborating_sources": [
-        "Senado de la Republica"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b092badb04998557",
-      "title": "Advogados de Paes se reúnem com Zanin e reforçam pedido por 2º turno no RJ - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGlsMXZHM2xuWm9uSlV5My1KWkk1RTFsSHBPVXo5ajRXbnF3MS1mSVBqUGlELWh2Q0lpSkVkbjhSenJpTm8zSnQwazVBckdIbzdPSkxEZWFfMHgtaklPMWtWelNCV0RQN1B0ejRxbjAxS3NnVWQxVVhqV2dOUkpxaFlzdXdzeTlOVnYzN3dKWTlFdkZKOTJveXo3M2p5STFHUk04ODNPRmI5VlJkMEFvU3JfUVVMNVpjV3M1UFV2S2tUdw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-10T21:02:00+00:00",
-      "score": 51.88,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ec9d94165b77fa70",
-      "title": "Los resultados del medio período - El País",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOU1uWHFUdDJWVGRXZFVWeXhiRXE2cUlnV0RVaHVPbXR4R1dMck9yWEwwcDc1dGdtSzVqTGpCWWpaZ1FFZ3RmLUFuTlBpTDA0d0ZnX25FeHZudnRGSVlIbHVfU0VzV053VmFXWHhoRmtpN0FxUC1RVXhsakFVZno3ZGdrdmctRlBNLXBVYmJtWDVMQdIBlwFBVV95cUxQM3dvcl9fWFpjSS1ENjVydkgzcU5RSXpOMUZ6cWVUbkVwajYxYlZsN1lhUG1GUXN1ckx0eFhVR2hlTG1GQ1M3MWpHR1AzZDZmdGpUX1I4ZGhuTVFmTG15dkZwM0ZUQ2FzaVJTUUtyTDh1SkI1S3hMQk13MVBEMFp2WEFlcEhxVlR6VHNhUWVmOHJWbndTYkRn?oc=5",
-      "source": "El País",
-      "published_at": "2026-11-11T00:48:21+00:00",
-      "score": 51.79,
-      "corroborating_sources": [
-        "El País"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "440b9ae2bc3e87af",
-      "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb JFK Gravesite - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkdCQnlwYklQTXpDdE9RUDk3WmtGY2NfQktXNnpRQXRaeHdLcExOb0FuSHdURXpub0RrOXQ5ZUtmS0M1cmtkV0ZDOFh3cGtIVnNsZEJSUnBrQ0dnSG5uUGp1clJ1QlNjRGs0UjdkeFVZcGZCY3RDQng5dklyaDZlcUhnU3VoR0t1ZG9rb3dsMTlKellXdXdZblJ6NWtRQzNibGlrU2o2cUxoeFh0R0w3bjVnUlMweGRFWnBVSUI4ZTFwWVlxVHdsYVY5QQ?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-11T00:12:31+00:00",
-      "score": 51.31,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "468528fd7f7bd71d",
-      "title": "Canarias pide auxilio a la UE ante la crisis migratoria: \"También somos frontera exterior\" - Diario de Avisos",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanVveHlrWGxUeFZpUTNoWHVhb0xWMng1MjNDYUZJems1RGVvT1RxdXhvdFJqWlFYcGZ2eExuVHN5QTBBbUsyTWlFMVV4RGJRcHhzV0pRcmE4NnJMdDRubkc2RzdOcXNlZ2JpX21XYzFCa3BZN1ZOb2dPMXZEbm1GatIBhgFBVV95cUxNSWJZbnExOUlLWWY4X1E4eFltaGRsSC05aXlJV2xGM3NILUUtRWY0NVk1UnMzVHVuTXZLWWUzbWxnNWtITkpaWVFwdEo5NjFBTGx4dzNwTUdPY1F5VE9wQ3JfcWhNa2VXbWQzRHY5Z0dOSHR6ZG4xMHFTaEhrVmxqUXFILWJkQQ?oc=5",
-      "source": "Diario de Avisos",
-      "published_at": "2026-11-11T00:08:58+00:00",
-      "score": 51.26,
-      "corroborating_sources": [
-        "Diario de Avisos"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "eeb45a08b7f451d3",
-      "title": "Estados Unidos en alerta máxima: evacuación urgente y crisis política en medio de tensiones globales - Negocios.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMjF0UTZvYjVnYXpFREs0Wjl5cjZVeFBmZC1hWm1nZmtfMVk1NlNkajdQNU5GdklTRUlIaFBTYXZxOHdvSUNMWHAzT3h1LVV4b3hwNEEyMEx1VmFhVGhOaDFINDhScXFPUnE4YTVEV2t3UTYtN1dmeXZEa0ZTTlZmcXRVRHcwSEdMUDYyQm9fbFkwZGkydTdMMm1JQWg0Q2RWZXRRYjhqczk5YUhnR0x1NFE1aWNFdmZ5cGNMbGktekFiMktpdnhqTVhyem94Zll4YThiQmVYbDUxSjlIbEI1RFVhYVFYQdIB6wFBVV95cUxPaHJEZUZlOU93eGV6cGo2YklEUW1nV2tueUZYVVRLRktIUWU1UGRDYm1oejFmYkpwakhHdW9pYWROcDNWbHJGS2VSZHFsVFF4T1puVUNZS2k4WkU4dmo0bXU2YXRVSDJEdHpzdkNmRE9VWUNCYjBLeWQ2OThTTFBySy1PdnNOTXFoUnBSMUhaU184eVlEZDBFNllTUnk2YVEyTjVRTjB1Y2lDREItdDg0b29yWFdyMVMxRXE4LUozWUtMa0lEbUtVQmxmdDluT282UHNDaEdydGdDUDl2cll5WjZrZklXQkc0LW1F?oc=5",
-      "source": "Negocios.com",
-      "published_at": "2026-11-10T12:24:12+00:00",
-      "score": 51.25,
-      "corroborating_sources": [
-        "Negocios.com"
       ],
       "signals": {
         "source_count": 1,
