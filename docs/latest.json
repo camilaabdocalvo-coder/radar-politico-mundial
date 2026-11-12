@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T22:46:12.780269+00:00",
-  "next_update_expected_at": "2026-11-12T02:46:12.780269+00:00",
+  "generated_at": "2026-11-12T07:17:42.057086+00:00",
+  "next_update_expected_at": "2026-11-12T11:17:42.057086+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
@@ -10,8 +10,8 @@
       "title": "Senado aprova MP da renegociação de dívidas do agronegócio - Poder360",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVg3d0xKTzVmTkgyMU5sSmM5SDlrejhNbkExQkp3dzZNaFRuZjU5X1M0dzFZeUhJM2FDbl9LVEI2ZmRxV3lIRHo2dkFxcjFGYnBwMzQ3aE9LNEpCcEFsMjVISFd4NkhBQzJqZzd5My1NSVFMU2tPb0d2UTI5ajZhOFl2XzNJdjlEWjZFbnF1VnIyRWZXRzlROHdNaHBCVDlDNkFjc3N3?oc=5",
       "source": "Poder360",
-      "published_at": "2026-11-11T20:56:49+00:00",
-      "score": 76.25,
+      "published_at": "2026-11-11T23:26:22+00:00",
+      "score": 69.65,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -21,14 +21,14 @@
       }
     },
     {
-      "id": "d19f9d524eddf8d6",
-      "title": "Comissão quer ouvir ministro de Lula e Andrei sobre relatórios do Master - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaExmU3NvemFFa1FVVEdHMnlZcktwRVZUMUtRSkc1dUtsbkFEY3NiOHEyZTBVSUlZTXhpWG55RFltbzNHV0dHWS1rODg4RGV3YVNpbUY0ODRfRUJuY19wX25GQXdsTTJhWTdfN19qbU1veFM4V1AtM3ZWQlJGS0JOWmw3TFZTRlZtaGRwTWQzT3JsVmRKZURCTUNhRm5hZzZrLTk2V0NGakJXNUhwYVRyNHk2dkhaQQ?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-11T20:36:51+00:00",
-      "score": 75.86,
+      "id": "2a6f692b3fd502b7",
+      "title": "White House threatens Congress, saying aggressive investigations could be crime - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnJIYnprLUJaZ2dfcjFHTkFmMXcxaExoTm9BeVF0d0lHUHJncjJjVXJwejNfd1hxVmJLR2kycVpIeS1wdV96YkdLQmt6VE5zRjlic2x5eUxhNmZPT2ZFSkE4bXgyWGUxaEVuQ0lWWUZ5Z3FKSEgwZW9LTXpQOFhuczJkdm1kZFVHWjVXejJ0dXNtSWtUOVhwQ3dUM2tIN2JDS2JwenhOSnlQei1WWjgxVmhRbVJOdzdoVEVJZUNZSDQ5S1R1SFdhTndwZGxERGdxS1BN?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-12T01:52:00+00:00",
+      "score": 69.18,
       "corroborating_sources": [
-        "Poder360"
+        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +41,39 @@
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNeDdJUlpDcXFoWVd0VVBVVGtTb2UyeHo2Z0hSQ284RmdwdWZYRVNmSmdielo3SDFiZGNlRV9LekcycHdXOHJQTXIxbnpnaWp5eTBXa2Q1M0x3WFVVR1JvVDhOSktiNFM3QWNBdFBfRnRBT3NQM01zUmhlWDVRdUhLaG1qckI0MzZwV1h0QmJfd0RFcnNpVnMwVFg4NGNMMzVXX2FjMjlpT1FmdlA0My1oOTBOZ3l0Y3pBT0IyLVdfNUNlaVVfV2RhRUpBRHYxTWd0YWRjX0JiaGhaNnRwaHhKQV9kMFJCQWllRlpqVFoweFRuWGoyelBkZDNWalhITDlHNGZadHI3WGJzcEpHUS01OHY1clQ4YjNsQ3NPM3d1cmM5QmVYYi02ajZ1MmloWHpLV0VqVGd6RQ?oc=5",
       "source": "Governo Federal",
       "published_at": "2026-11-11T15:43:26+00:00",
-      "score": 75.48,
+      "score": 67.68,
       "corroborating_sources": [
         "Governo Federal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d19f9d524eddf8d6",
+      "title": "Comissão quer ouvir ministro de Lula e Andrei sobre relatórios do Master - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaExmU3NvemFFa1FVVEdHMnlZcktwRVZUMUtRSkc1dUtsbkFEY3NiOHEyZTBVSUlZTXhpWG55RFltbzNHV0dHWS1rODg4RGV3YVNpbUY0ODRfRUJuY19wX25GQXdsTTJhWTdfN19qbU1veFM4V1AtM3ZWQlJGS0JOWmw3TFZTRlZtaGRwTWQzT3JsVmRKZURCTUNhRm5hZzZrLTk2V0NGakJXNUhwYVRyNHk2dkhaQQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-11T20:36:51+00:00",
+      "score": 66.92,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2d7bb9c3ce9596ee",
+      "title": "John Downing: Ireland’s well-mannered social turmoil is the envy of EU leaders facing fights for survival - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY1dIMjl2XzRsNFRSTmdjeHZiUzdsUl9KZks1R1dybFpwRDZRdkFXNHpHSkx6RVFSRllMeE04VkJtOGNiNVEtSFp0eWJ3S0dJZ2ZBQ1ozbVNRWDRPZHBUbnZOZjlzdzRpbFBlQWJIekNnM2h3VlVLV1JOSFYtTUQxUGF6c0tTTDUtOGF4TVE0UVdwalNSTFJQMTg1SDhpdnJjOUZBTUt0amxfTVlSSmxjVVNvUjhwZno1eGZod25xeENVYVdxRUdWUGVfS2RhcnZKRjlRMWRvVnI1YlVlZEtvVzZEcEdKMERwZ1RfcXRUbmlOS1c5N181bnBINA?oc=5",
+      "source": "Irish Independent",
+      "published_at": "2026-11-12T05:30:00+00:00",
+      "score": 65.29,
+      "corroborating_sources": [
+        "Irish Independent"
       ],
       "signals": {
         "source_count": 1,
@@ -56,9 +86,39 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUp2dkV5dnlYNThwVk5JdlVzYkRhaU5Ta0JiNnNLZXRudHZTWC1VSjdtSkthQWdfV2cyNm5tUXYwTFBxZ2JYdWFtUWxjcmdweDVibFp1SzlZVUJCVV85bzJlaXBmZEFoeGgtekF6SU80dWkwa2VabWFfUmxJZW1ab21hbUdVVFBNQmNkeTAxRjBkSk5vN0E?oc=5",
       "source": "Daily Nation",
       "published_at": "2026-11-11T21:00:00+00:00",
-      "score": 73.32,
+      "score": 64.28,
       "corroborating_sources": [
         "Daily Nation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6a1fdf332b059ed8",
+      "title": "Tereza Cristina cobra regulamentação de programa de fertilizantes - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0NBRUo4SEpUVlpMaHBxUV9xeGFkdjV0SnZ3S0JNeERyMm1ldGdGNXZiQWFidGlmcTJfV2lQckk1ZlpPNnlibDUycjZpejQ2TGRQdEhrZ2FiNXBiUEdOYVZpSzdhVkxUV0RHd0FqXy1Md3hFRkZRQnJUN0VqYm5TVDQ5YXlCcHlCVlVMc1FkQ0MzZnpMYXFLV2JVQ183WmYtWWNXRW42VWc1TWFTWkw4?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-12T01:44:10+00:00",
+      "score": 64.04,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9f6ae97fb94a7e29",
+      "title": "As 'armadilhas' que Lula terá de desarmar na política externa já a partir do ano que vem - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BdmxHWTRBNkNyWkdFNUJkN1htaWM3enRYTGYxVXB2Z0hGV0lKMWdJcktvNDJWSTdnbW5aeXk3VTZOeVFWc08zUldiUDNBOTFxZHJHVWpMWUh0MDNGZFE2M01XRdIBaEFVX3lxTFBwbl9abWtZeWJzWEtYQVEtNTVLb2l0QUM3cEo4Ykt6VjF4a1BzR0QxdUFjT3VEV2dZamRDOVJBaTZMcGNPbHYtNGU4NEg5blQwbEp4a2lrWG5uaFR6NHZJM3FoWExFbXZm?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-11T19:56:28+00:00",
+      "score": 63.3,
+      "corroborating_sources": [
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQakhUbGlYUGNmb0RFaEh5ZG5jVldKMVhjNURGMTZSV1BmX09mMXdFbHFCaGdkcmNPSUh5dFlYd2d5UHU4QUowTmhsT1BYUkpoYTJncFJaSmswcGloZTFrOVlGMVl1S3dTbHgxaEtYTlpvTE5hcU5lWVptNG85cm9oaVM1SnpRaURWaGE2TFl3ejkydkt1ay1VejBqYWdYNWtvOHktNTlsamltQ20wS1NFM1ZZQ091a25sdHg5Y1B6UUYtQTBjajluaGYtdw?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-11-11T18:26:57+00:00",
-      "score": 70.39,
+      "score": 61.97,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "12d6e9242951a4d5",
+      "title": "Trump administration wants to sell public lands and shrink the federal estate - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1JrYWhyanhpUU9XTVZWVnBLQ3V2NU1KMlJNVGRJaExwYzhIMjgwYmlrNDhWbVBPTGhWbHA4QVJTUFdJSVphdjdmYUk1ejVMY2lLc3ZOUEJrN1FBVTVIXzBwazlvRk1iektBRzZ1eG9GWHBEWFNqdENKUkhnRElJNnJHNVdoUzBkNlBiblZJcW5pc2pCdU9sRTE4TWJjT3phc0ZBNFNIelFvNjNpR3IxNUxOMXlJUGsyRWczR1NNdExwZkxTV18zMFd1eEZiV280TXc?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-12T02:21:34+00:00",
+      "score": 61.71,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -85,23 +160,8 @@
       "title": "Alceu Moreira cobra previsibilidade para mineração no Brasil - Poder360",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWFpWGtrOXFSeTlZV3VsN1daM2lranh4X1hMVzRTMnQ0T0lTQzZxSFZmVXBCMXdPNkRmdkZFOFViQ2k3LW4zc1oyMDZrcnE2NVZRQllROWlpU3h0Q0hfQ3I5MTFfcVg3elViUzdsallIOERfN3pfcVB3dGxfbGJDeHZqZXdrZjFGeVNYTVNYSEtPZDM1M0hrTnpFVnpVUzUwTmc?oc=5",
       "source": "Poder360",
-      "published_at": "2026-11-11T21:10:47+00:00",
-      "score": 68.53,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e3bb4e4aa1dc7288",
-      "title": "Importar 90% do potássio é risco à soberania, diz especialista - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0tJNnRLdXVpYnhtT1NtaHI2b0V4UHF4d1pPUV94aml1N3NxeGc2Y2l0Z25MQWpSdi1Sc2ZpVktsdExsTTFUdmpyTkFlWG9GaHVWU2tVWk8yZ0NHVGhnRGFlR1NvX3ZzN2RDTDNNc09Pc0RCbFM2VHpEUnRaREE5cUpQcjRnS09LMlRLanQzQkxZNFdFQ3dlVGMyMTdyT2Y2S0pv?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-11T20:51:51+00:00",
-      "score": 68.16,
+      "published_at": "2026-11-11T21:11:30+00:00",
+      "score": 59.46,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -116,9 +176,24 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0owQWpWUVRPaTlsOUE2aGNtak1SaHlEdHg4OHRZaG5PZGQyNWxrSFNLem03OHp6YzVaSlhhZ29Rc0dCdTFXR09VbGpJZ202Q3BKUWYxdjhvNU0wRUhjNEU5eEpFXzQtT1R3dkplOV90TXlvX0h0SWRzOGtUb1l0aWkzU2gyUXcyd3RhSXNNM2RDVmp5OC1KdWJsMXA?oc=5",
       "source": "JOTA Info",
       "published_at": "2026-11-11T15:16:25+00:00",
-      "score": 67.02,
+      "score": 59.31,
       "corroborating_sources": [
         "JOTA Info"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e3bb4e4aa1dc7288",
+      "title": "Importar 90% do potássio é risco à soberania, diz especialista - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0tJNnRLdXVpYnhtT1NtaHI2b0V4UHF4d1pPUV94aml1N3NxeGc2Y2l0Z25MQWpSdi1Sc2ZpVktsdExsTTFUdmpyTkFlWG9GaHVWU2tVWk8yZ0NHVGhnRGFlR1NvX3ZzN2RDTDNNc09Pc0RCbFM2VHpEUnRaREE5cUpQcjRnS09LMlRLanQzQkxZNFdFQ3dlVGMyMTdyT2Y2S0pv?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-11T20:51:51+00:00",
+      "score": 59.16,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -131,9 +206,24 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWGgxd0ttYkxLVnBZTzYxTzZFMzU2XzVqMEdJZk1BX1h6Tk9vdFdCZ2pFLXlxeDZJMzhpM0E3cjZVbmp1Y0JCcnlZRTZGd2x4ZGhOdGxqalBmRlJ6VEkzcGxvc2NBVjZBYllPMnpsNjNaY2xTaERKVnlqVi1pSk1fbjJIeHhXVDZTSTJGVDlueWhJRXF1OVpuX3I5el9hR0lrcWtxdEYwNVlwa1BKWUxyUkRlZWN3cGVNYlNHYkdwcnM5STdFQ1N3ZXRaMTBOM3BTZXdjWGljS0JKT2hOSEJXeFRNQ1B3S3F30gHuAUFVX3lxTE5hMU1JOEotSkVtTktOTjROcmFyNUVSVEpLeHFFcHc5TlNEOE1QQUF4UXlDZGl3UlRJcGxnTC1TWnpqVmxsUlNGZ1BOZ2JJeVd4OW5OcFdJY2RUbW43eng3OXpsVVNmaGl3bDB0dmZyUk9RN3pIWHRGbEV1MUt3QVYzRTY0WnpObk5GZUwxZ195eC04dFpOUDZMS3RENnFYaUQ2a256akdJR0lEWElFa21qSkJLM0c1a2ZVeVhIQzIwd0VjcWQ2ZjJPLTJmaFFOZVNlcXI5ZTdiSTMwdVh2NGsyUHlWYjdlNWtCZGU0V0E?oc=5",
       "source": "Diario Las Américas",
       "published_at": "2026-11-11T14:30:00+00:00",
-      "score": 66.24,
+      "score": 58.7,
       "corroborating_sources": [
         "Diario Las Américas"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "33b085d68bf433b9",
+      "title": "Natalia Pettinari: “El Papa está dando un mensaje opuesto a la motosierra de Milei” - Primera Edición",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN240c1Q5elRMejRwSDJncFI1LUxCODNPY01BSV90NDExTXUwQU42SWN1MjJsV0FiNkJXYWZqbXBld1J5VHZ5VGhIdUdlNnFTUkYwbWJGd0VlV0ZhQUR3NHJSVkl4cmNKQ2VicFl0SGp6V3M4clRfN0tOWHQ1ODVjRWlPNkVmclo0c2Fqckd2dkZpNF9nYWlCT2UxaGRsa0NNSG43OTNKaU1SYkxvTGVGeGRpc2hJYUQxdWMtSmpZN3FlVllWQWRNVTZn?oc=5",
+      "source": "Primera Edición",
+      "published_at": "2026-11-11T23:22:33+00:00",
+      "score": 58.59,
+      "corroborating_sources": [
+        "Primera Edición"
       ],
       "signals": {
         "source_count": 1,
@@ -146,9 +236,69 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGJ0eUZRSXdFUEFJQVhFdEJIWVdlYnVjR3pLZjFHZzdrVTlPU1VTZElDQ0xnMVVybXRfU1gyckNXSWZWUW9YaEhiY05vZEVPWXVhSUFldmcyYkVZOE9GM3B3T1RVSzNnbjhmZnhLZzFoQ3RRTDBDLVhHa0toRy1NYnptZERITkxEeFhuTGUxVEFVbVU1em05Z1duSl9hTWZ5UGNMM2liUEpGc3pIbkhBcm9SdlFqTVZKTmI4NUZyako5NWtRdU1DQXVDQQ?oc=5",
       "source": "La Jornada Maya",
       "published_at": "2026-11-11T14:03:51+00:00",
-      "score": 65.81,
+      "score": 58.36,
       "corroborating_sources": [
         "La Jornada Maya"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "80d4c4e6d8248e98",
+      "title": "Mario Cesar Carvalho | Semana que abalou IA tem sexo, espionagem e surra política - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXZsbENxYXhURkhyTzB2eF9PVHNPR1lrRzNPVGF5dkhoV3lDOEUwZFQ1OFJXeUdWaWdIbnV6b2M5N0ptZEFZRUZEdGQtbExlRzUyR0ZOMDN3ZVVzU25pUldmNUE0d3lQUG9GazcyY3c1dG5pMnB0WDQ5SkQycE04UU80TUhTNkFIZkE2OWVwcHRYdmR4RE9fV1E3alhxNjNBRGs2ckdIbw?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-11T09:08:45+00:00",
+      "score": 57.8,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f0471192ae13b99d",
+      "title": "La ministra francesa de Alianzas espera continuidad de la política exterior tras Macron - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdlJSZTF3Z2VUZjktZVZqdkh3TkxjOFBVS28tQzQ5SmdtMjg4aEE3VVJrWWotVkY2MmZmVFkwS0pQVk5GZWhYMkM5UGNMaDBxTm1BbG12QWpJTUl1VkYwVldmaWx4RGlKQW8zV1J1YnplV1VqUF9XQ1p2VTB2Q25odkhNekt5M0VIYXBiSUpVeXVWWXY0VXJ1TlpGTDJselp4ekM5YjJoV0NPanhCTndFYmZaRmljYjZwc0ppWVlaMFlxdE0yWVFKVV9XV0cxNnZWbUIydVo3ONIB8gFBVV95cUxOOEJTNmFnWkF3dnhJdGFUbnFUYUU2M3VYeEhGMEV3bFN1R1FCUElPWkhOYktscFJGZ2x2dUJYZ2l0VXRfVklsa0pJUExDZnVnbVFIZy1GS0lmdzROU2Q2REYtOXQ0dGVLWkYtTFJtcVFyLW04QUphbUM1T1ZIcUxaMy00ODNyMlZfQ3pBQm4wd0gzTjdRc2htMWJoOTUtb2c1Z09sMFU4bEFZTmw3SUZyNVhmM0RmMzFHOGxkTWJ4OHFfZVZxWk5YY1FZV3pVX3d1SUR2SFliZURUNXdFQTg1em5scTljam9Xb2w3cXBCWklDdw?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-11-11T12:30:00+00:00",
+      "score": 57.17,
+      "corroborating_sources": [
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0b3a62404cc2b09e",
+      "title": "Commentary: The fascination with Annie Andrews from the other side of the world - Post and Courier",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSDFFb1pDUmk2SHhXNUtZY0lZdFB6Vk9GdnZfdjhUZXJMY0w4N09OSGJIQTBzdVpQQXYtRmRyRmx0STdPZ2Jfd1VzUTlXU3B4bEZRVkctU2QwOThmUngyaVlLT2txX0w2blZuZHZieTNLdlFLY2ZBSElrS1BGOGFpVzlYd0pudUxqVzc5OFJpVzZKT3hLUElUMUxDVjE3UzIxRGdoYWFpUGhzUFdCZktUY1QxZHhTOEtjZ0R3eWRlZ0MtaWlVTFgtYVJndW0waUh3QzNqb2lQYWZnZjQ?oc=5",
+      "source": "Post and Courier",
+      "published_at": "2026-11-11T21:45:00+00:00",
+      "score": 57.0,
+      "corroborating_sources": [
+        "Post and Courier"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bc1850f4fcb45d43",
+      "title": "Bolivia y Brasil colaboran en la conservación de la Amazonía - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUdxUldxX3VmekVNMFZOVE1kWUVHNWR3aVRFZ1U5bEpMU1FfVkNFeEczcWUtOXNpMng1ak9VaXVVd1dqR0FwS3dPQlpBWFJoZmV1VXh4UHU0Z0dNZDBfd3J0MmI3clhQeUhzZ2lNZmgyMjBOWXhjaGFicDRwa3lzbWVOb0dvajlaaHd0NFZfMXRDV3dqdFZkRlVQXzA3UQ?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-11T21:09:00+00:00",
+      "score": 56.43,
+      "corroborating_sources": [
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -160,8 +310,8 @@
       "title": "León XIV y Milei: una especialista analiza el mensaje político del Papa y las tensiones con el Gobierno - La Gaceta",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObzBLS0w0VFZxYTVxVFZnc2F2TklXdnlqTTVuREdJTlpnUFZ2U2xwMzBnY05EY0FtaHBzeG92NGhkMDd6ajd2ek0xTzZsSmhHSUxNTTFMRjRCZENuck9teEFCajZuV0lQZFlZT3FhdjJ1cWdySnhXNHR5MzJnTy1lbEt1X1o0dkU1SmdSN3JxclgzX0ZlU2VLREh0eXBLb1hCS3drdWNDbDh4Q3BLdXNzYXBaaEU2aHZVLU5tTlppSG1DMVpZZGRNeG85ONIB0AFBVV95cUxPN3NIcl83cWo4YnlBTk80SU9WOXRKRFU1UGdWY0hBaFBvWUllZnhpRVF6c2pxa3hoV1RGREhGaUZuUzhBMGdhV3czTnFOTWo4UUNseVUwdGxRSWVwRERuekZjWGVwc1c4Skt4LVpMQk5GMGk5ZXhJVnRCZ1hhbWVLMVVJbG1kLWNrTHRYNzYwUk5wOWFvM1l2QjM3MzkxNF81dHVZUmZCc0JGU2VJWlNBVzduOWpZWE9ldlREZWdOb0pMRHZlMUQwLXdYUVkydGRR?oc=5",
       "source": "La Gaceta",
-      "published_at": "2026-11-11T21:02:32+00:00",
-      "score": 65.37,
+      "published_at": "2026-11-11T21:03:12+00:00",
+      "score": 56.33,
       "corroborating_sources": [
         "La Gaceta"
       ],
@@ -176,39 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2UxWkFqOUVTcFhQUWZRWU9nNTYyY3JRLXR5VnNhNUpnUmNvX2QzTi01SnkyeEZZS2lpWXYzZjdQVnNIVVNYZGM0aVFFMGhYVlJBS1NjUXBrQU55YVhnS1JkOXkwaHFIWllQMFdtZ2h0V25lR3JuUENhOWdqX1oxLUNGMFNxZl9QM20tQTJfOHIyZlhXcE5FdmZRbF83dXdMbjhoSzJ3?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-11-11T21:00:00+00:00",
-      "score": 65.32,
+      "score": 56.28,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f0471192ae13b99d",
-      "title": "La ministra francesa de Alianzas espera continuidad de la política exterior tras Macron - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdlJSZTF3Z2VUZjktZVZqdkh3TkxjOFBVS28tQzQ5SmdtMjg4aEE3VVJrWWotVkY2MmZmVFkwS0pQVk5GZWhYMkM5UGNMaDBxTm1BbG12QWpJTUl1VkYwVldmaWx4RGlKQW8zV1J1YnplV1VqUF9XQ1p2VTB2Q25odkhNekt5M0VIYXBiSUpVeXVWWXY0VXJ1TlpGTDJselp4ekM5YjJoV0NPanhCTndFYmZaRmljYjZwc0ppWVlaMFlxdE0yWVFKVV9XV0cxNnZWbUIydVo3ONIB8gFBVV95cUxOOEJTNmFnWkF3dnhJdGFUbnFUYUU2M3VYeEhGMEV3bFN1R1FCUElPWkhOYktscFJGZ2x2dUJYZ2l0VXRfVklsa0pJUExDZnVnbVFIZy1GS0lmdzROU2Q2REYtOXQ0dGVLWkYtTFJtcVFyLW04QUphbUM1T1ZIcUxaMy00ODNyMlZfQ3pBQm4wd0gzTjdRc2htMWJoOTUtb2c1Z09sMFU4bEFZTmw3SUZyNVhmM0RmMzFHOGxkTWJ4OHFfZVZxWk5YY1FZV3pVX3d1SUR2SFliZURUNXdFQTg1em5scTljam9Xb2w3cXBCWklDdw?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-11-11T12:30:00+00:00",
-      "score": 64.31,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "80d4c4e6d8248e98",
-      "title": "Mario Cesar Carvalho | Semana que abalou IA tem sexo, espionagem e surra política - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXZsbENxYXhURkhyTzB2eF9PVHNPR1lrRzNPVGF5dkhoV3lDOEUwZFQ1OFJXeUdWaWdIbnV6b2M5N0ptZEFZRUZEdGQtbExlRzUyR0ZOMDN3ZVVzU25pUldmNUE0d3lQUG9GazcyY3c1dG5pMnB0WDQ5SkQycE04UU80TUhTNkFIZkE2OWVwcHRYdmR4RE9fV1E3alhxNjNBRGs2ckdIbw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-11T09:08:45+00:00",
-      "score": 64.3,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -221,9 +341,24 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVJrY1NNRG5FZFAyQlRabUJzbXhnUnVudjVlYkFubk50Mk4zNnlFWDNNNVI5TWlYajdpQVhrdzJic2E4WDVMcDl5aUxNWXdZT1pCd2ZWdTFfaGhCNE9vaUY1LVJ6aGNTc1pxanU5eVYxVVB5dUgtczZNNndnMEpSOWlHRWFVYjlnUTlTM3BKMDN6N1BFSHRXTUJaWERoZVJTdGZZ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-11-11T17:17:00+00:00",
-      "score": 64.12,
+      "score": 55.97,
       "corroborating_sources": [
         "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "707533b864b01435",
+      "title": "Rodrigo Paz destaca potencial hídrico de Bolivia en la COP31 en Turquía - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczZ2OHZYVkZNeEctYVFjUXJ1d29kYWdUUFphMlp6YzJTekNaSmV1SEFvelRRZVpvenh5Yl8wOUdqZjZNRmdJbVZRRkU5cFJBSTNPYlhmaHhNZkl2MlBUWm15NTE1VlotakRPekZZZlhIYTVPRU5pRnFpVV9vX0ZFTlBFMFVSOXRKbWprT3NVd29vVURFbHlnOGc2Q25fTUhqYW5UUg?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-11T20:09:52+00:00",
+      "score": 55.51,
+      "corroborating_sources": [
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2Z19RLXZYR0kzdXpfV1IzRHVGOHI3ZTJUM3V1WEZSM0R3WERSeWl2akdyR3lOekZjYlJVMlp3R1ZQdmY5NFdsdzZQZmtqeTI1RmxkUGFWdWQwVzU5MXhZUHU0RVk0cXZIdHpVeTVvWFc1N2M?oc=5",
       "source": "Prensa Obrera",
       "published_at": "2026-11-11T19:12:15+00:00",
-      "score": 63.23,
+      "score": 54.64,
       "corroborating_sources": [
         "Prensa Obrera"
       ],
@@ -251,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUV4X200XzFNVmlNbmVpNk5aeXhjVDJPYmN4TnZJLVFfLXc3WjlNUkpJd1lrTnlKQkpNRTNoTldkQlYxUWd6VXNhcHdHLWJMSEtaSi1KYlpxcVByRjQwQUJHMEdNOFI3SzlCeVV0M0ZlTEp0NWdtRGR4cXNNdzFXSXVyZkJaTEpLN280STRkd0JOMjRYOGtjaEwxWVlpMjBrNDJiSFJoTV9nREpJXzIwOHUyOGZqdVVwbzlHY1FSaWRMWWVGeWxLLU5iVQ?oc=5",
       "source": "Confirmado.net",
       "published_at": "2026-11-11T19:03:06+00:00",
-      "score": 63.06,
+      "score": 54.5,
       "corroborating_sources": [
         "Confirmado.net"
       ],
@@ -261,29 +396,14 @@
       }
     },
     {
-      "id": "6a1fdf332b059ed8",
-      "title": "Tereza Cristina cobra regulamentação de programa de fertilizantes - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0NBRUo4SEpUVlpMaHBxUV9xeGFkdjV0SnZ3S0JNeERyMm1ldGdGNXZiQWFidGlmcTJfV2lQckk1ZlpPNnlibDUycjZpejQ2TGRQdEhrZ2FiNXBiUEdOYVZpSzdhVkxUV0RHd0FqXy1Md3hFRkZRQnJUN0VqYm5TVDQ5YXlCcHlCVlVMc1FkQ0MzZnpMYXFLV2JVQ183WmYtWWNXRW42VWc1TWFTWkw4?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-11T15:51:13+00:00",
-      "score": 62.61,
+      "id": "19603df6c0ea7c7b",
+      "title": "Escola de SC demite coordenadora e pune professores após foto fazendo o \"L\" - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3lZRnRhaVptRGMxYWxZV080RUpsaDk4Smt3eU9oYkpha1FaamFNcWxDeDFQOVZ0cGxOeS15Vml4cmN2dnIwUDJuX0xKMUdOMHV4UjdGdnAwTWZCWTlxMzIwTExNUXJieFdDeGViM185RzJlbjg5bnBwamVIVHhwX1JVdDdKekZxYzdzX29GQUV3cUo3MU4tSno3STRkQlItYlFpVEdjSE5hY00?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-11T14:07:00+00:00",
+      "score": 53.4,
       "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8e17cc90507cdda0",
-      "title": "Judge slaps DOJ effort to derail ‘Broadview Six’ hearing, calls AG’s evidence production ‘noncompliant’ - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd01lemNuYVZHV2x1MjN5dV8tX0Ewemd5U2pVSmE0TjJzeVdLNWNNLW15RXdtb2lfNEpmZjZrREliZGZsbTB2OHJGdmFrdk5JMHVXYTNaMndGMWFFWXVEUmpVTzUyS1VYQzdyVkRfdVBWb1dsQUxDYVhMckVJZG1tTE1yck41UGlZUmlCM2c5d0tzZUM1QUw2LUlKMGFBUG9YNUNkQmdnM3FPUmpBVWlCd0ZPOVNWRklQYjZhVmR0dGd6ZEpzUE1pUmxPMUllMGZVaUhOajNvSEI1eGxIZTdoZzZyWjJiMkoyRi1TOGlKMEY?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-11-11T18:01:53+00:00",
-      "score": 61.93,
-      "corroborating_sources": [
-        "Daily Herald"
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -296,24 +416,9 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjljVmJYRGQwR0owZUluOFlJdExMTFBlUzZyTkYzUFFKeUJoeVNuWVByMnI4OW5FaFhoell3ZTM4amdPNzhnLV82T2hDQkZwdEhwMjZxdm9ZRjdILXVFU1RZbEI4amk2d3U4Y0ZSMERhWHlqcl9vTEdOaEV1cEhwa1pB?oc=5",
       "source": "Visual Capitalist",
       "published_at": "2026-11-11T17:12:22+00:00",
-      "score": 61.03,
+      "score": 52.9,
       "corroborating_sources": [
         "Visual Capitalist"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bec71c25bc885e5c",
-      "title": "Book Review: The Last Humans – UFOs, Global Security, and the Threat to State Sovereignty - Inside Outer Space",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEYyNVltdldMZ0NKQUNxWHFEbG1YZUtVT0xRaENyTzlBbDIyYzJrVjZhTFhfZFlnQWlBeWJ2a19iNXhiX3llYXRUd1hxVzJkY0E4elFfVEdQM0FuR2RPME14amx4a3otUy1fRnlRMnE4UUdtc2Q5SHpLQjJRT09lSEdxV2lqTzNRT3pxY2pibzZRbEFiMElWN3pqUjc5REhTRXc3M29fMG91S2doSlpqSUJDSTc?oc=5",
-      "source": "Inside Outer Space",
-      "published_at": "2026-11-11T16:27:46+00:00",
-      "score": 60.24,
-      "corroborating_sources": [
-        "Inside Outer Space"
       ],
       "signals": {
         "source_count": 1,
@@ -326,69 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT0h5NGFieElVX1VRckNIclRSUUxGV2hWUi1iZUVHUHdELVZTZ3A0SnJrdWtRYU40b3FfSGRBT29tbDFScmtLQkFzVGZwREFhYmlJUkpSNTRaY3RfellXZlBJOENwQXhtanVZMzBaTF91QzREQWg3M081Sm90MGN3azFGTkRLcWpsT3p6cjN2S2JVLU1EN2I0bXpyLUlleU0zcG40UUxoZVEzVWhiS1FqVlRUWnJVWk05MDhWa0hKRi1xNFZlZEo4aGxaVnJMb1pSR3VNNzBlbTUyLUVISmdwdTV6VkZLVzF6N0VDWA?oc=5",
       "source": "Daily Herald",
       "published_at": "2026-11-11T13:44:11+00:00",
-      "score": 57.49,
+      "score": 50.11,
       "corroborating_sources": [
         "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "82ce380cbcd2f903",
-      "title": "Es la política, tarúpido - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qTVBzWmRqbE1hNXpLYjhzbEU0T2JlbUVtSHBLSkkwMElBUk1Wd0QzUXAxMkk1ZkI1N3VWUGZQcU1kWUNERzNDbVItME9fTWhxVUN0ZFY2QlVCa0hnTzNuOTgxUTZzQmxuZ3pfUTlxTnJxazNsZFFzUkVDdTg?oc=5",
-      "source": "La Nación",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "score": 56.46,
-      "corroborating_sources": [
-        "La Nación"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "067daef844e1f696",
-      "title": "FT: Alice Huang, suspected by US intelligence of spying Nvidia CEO worked for a decade with a financier penalized by Chinese regulators - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYy1zU05ySDBQRDJoZUcwd2xpZG9VMnNhLTJGQTVRMW82TUlRZ2E4SF9jRlMwM3ZJM1lyNXdHcGYzQUhIN3J2Q0J6SUVnaERocWFMMVVQRXNUaFZxdTRrbnA2MnBlajFKd0l4SEp4a29SMndTZEI5azZnOG9XdUhFeGFuRmFTQU1YeTlmTFVzV29PdTRHTDVVUVlNWm9Qai1VcllnQndpM200WG5EZ1FuX2txWk9SaVdXZ1pxTGc1aGpJRVd6TE41RWxsMA?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-11T11:53:57+00:00",
-      "score": 55.75,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "fc5aa4041520d752",
-      "title": "El declive del populismo y el análisis de las elecciones de mitad de mandato en EE. UU. - Atalayar",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUc2OUI4LS1hTURnYTZYNTNUX2RBdDdkNUc2cUxaelZ3YUZnQmw1alVScWlXTUZQMkhGVVRjV19kX0JhNDludlFscUVneHBhOVVVc20zNkJRUWEteklFVnhveVBnSU1iOE41aFROUVByajVNN3FIcWNxMXBrNWthNWUzdzNtNjlIOHp0bHFZeURVU0lTSEFFN2lWaEhpd2llV1R4X0YwTHRPSnBrOTBaZEVuZDMtUS0x?oc=5",
-      "source": "Atalayar",
-      "published_at": "2026-11-11T10:00:00+00:00",
-      "score": 54.04,
-      "corroborating_sources": [
-        "Atalayar"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "499e35e15ac2ae22",
-      "title": "No es un choque, es un océano: replantear la respuesta estratégica de la UE hacia China - Asociación Almendrón",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZV9PbUJ6UFpyVGVZV05hQmduVTNCM2hfV1djcFN5c1pBdU80a0wzU0VXQzI0YnExQ3MxN3pxRDJ6ZmFwaVV6UVBSekhiTzhSeG1RaXFoaDlKa2x6dDdJa0pSQXNPNEM3RGo0ZWxLeTBGQjRJdDZ2dEhMeE9YODFjWVFNSkI5SVo5OV9FZGZNWXRCTllHd0xxNGJOMWJKWldQUnBaY3h1RlA2aEszd2ZUUERRdlpzTGZPVEFCbg?oc=5",
-      "source": "Asociación Almendrón",
-      "published_at": "2026-11-11T09:32:13+00:00",
-      "score": 53.63,
-      "corroborating_sources": [
-        "Asociación Almendrón"
       ],
       "signals": {
         "source_count": 1,
@@ -401,54 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbWZfdGZrNW5XcXNFWUNqN1pHNm1zaVR0Z1RTUHNZbmR6U19YeUl2SXNrSVdNbXdaaC1Id3lVazUwQ1RpX1hOX0FwcEVQdGtBMTNJQ0dMYlI1NmVTaG9mTV9qSDRmdm9HRC1QMU1US1VodWZKWkRUVVFiekRYU194RlhSRm9FSF81a3pYVklidzFBRnU4MUhSSlY3QVR0OTUtRkpmUEY4Q0JCNTlOTXFtb3NuTjBLV285ZHRzeWZ6bnFlNC1taVBSd3pFNjVSN0U5Uk9rdDFnNEVOQVh6aHJLSlZpcGFUeWc?oc=5",
       "source": "Brasil de Fato",
       "published_at": "2026-11-10T21:50:00+00:00",
-      "score": 52.99,
+      "score": 48.24,
       "corroborating_sources": [
         "Brasil de Fato"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "11bfb7f4d7f40f73",
-      "title": "Filhos de FHC pedem busca e apreensão contra homem que filmou ex-presidente - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU9PMW1EZFhlNXBzUTQxOGN3ZnFSbFZoN0ZMNlNReUNPbmsyM2VSRUZOejJDMGp2WkloNnNmWDdtSzhTQ3NNUEhNWWxxcUxadHpKTkZMaG5mN2N2bDZLYndsMXhrQkhRX3UyTDhUOVpBTElJSkRUbTV4UEVDazZuNE9NRXY1VTFNclZMOWFqNE5JaVlBSHZXRmtlM3JkQ05BenVDRUhENDVIMnRISzZqMUJR0gG3AUFVX3lxTE1nVTlES2JPQlQ4RXJIM3BzUXRxc25waTJoVW5ycXJKTmVhdmNsLTZQY01UMkpPTVpVckFvT29vaEgwLTV4TldXVXZScXpCa1hoSHJ2V0hWZzNTS2puSzZocjItamdDVVRGYXFxWDdkN211VWJsbDVabkhRbnlzdk5YTTYzS2V5MnU1TlZmMXZUYW91cjlEa0tSZVdDbjYwa2hmQU5iOE53bk5PbUJGUDB3Z19pX21ncw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-10T16:11:11+00:00",
-      "score": 52.72,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ddcc366485b8bea8",
-      "title": "Hegseth slams his potential impeachment as a ‘political spectacle’ as House vote looms - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaldvT05DQU12SXFFRjQ5OTlGUWdBY2dxODY1ajFVeUo3eTUtdk1WYkZVTXpUN1J3Zk5makp0dE9ZbU9FRjRvVjlpZzQyY1hSYW84dWRTcW1Yc0hXcTBQdi1lX2hGcXNlcEtqNlV0S2pEYUZKSnRlWGJJaklDLVh4LWkwWjlleDM2WVpGNWtyblppemJyOTBad3R6MUgxN3JEbUxMeklZRWlPbDlJLWRhRlk0OG53aWh1RDhucXZUelh0NGhwOFZIUEVoa19sX0l0SFhOQldqQWxQRFJnblZfWlVB?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-11-10T21:06:19+00:00",
-      "score": 52.54,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "28e79395bc8d23d8",
-      "title": "Democrats have gained control in more states. That could change the way the US elects its president - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWFReXZZMm83YzItbU5YbDEtbElLN1NZVlh2VVJOeHNrU0hYUWFkN182R2JESnNKbEdSTGRXNDZSZ1ctdzBRWEYtUmQyTmthZ24teDBGYk9QY1dnZ2ZpTzdQZkN2cVNuVng4RWpQdmN0WVNmeVd1SFp0NHFzUjFYTHd4cGxPZXZTYXZrSTJKS2R6TmctTzI3Zk1qVnZjcDJNX01JT3hJMTJVYjlkYllMTVcwVHp1STBIMlhpd2l6d0J4bUNWdEZYZEZwQ2wxR0ZsZUwtRmNfZEFxVU15VVlVVDdLWnd2eXJIbzVEY3I5elI2bjUx?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-11-10T21:04:33+00:00",
-      "score": 52.52,
-      "corroborating_sources": [
-        "Daily Herald"
       ],
       "signals": {
         "source_count": 1,
