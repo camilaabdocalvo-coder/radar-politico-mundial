@@ -1,17 +1,107 @@
 {
-  "generated_at": "2026-11-16T18:37:22.391404+00:00",
-  "next_update_expected_at": "2026-11-16T22:37:22.391404+00:00",
+  "generated_at": "2026-11-17T02:57:06.937055+00:00",
+  "next_update_expected_at": "2026-11-17T06:57:06.937055+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "fb0baa154f12eb3d",
+      "title": "Alertan deterioro de la política exterior de Colombia en cien días de Abelardo De La Espriella - Acento",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFZJYlNNNlNMdXdtcW5TMDFNVkk1MklZX0g1a05lTGlyRzFYZ204U1VLd2RwaHM0UUx2TzhIVFlURkdZaFZjX3o5Sy1JcVEyV2Voa3puMGFyQ1J3OFdIenhQQkotcXRPYUowenRLYWExTDFjdUFyaW1WWndxTW1RYjZMcVU1RF9IYUdUU1d5cGRsa3hkejB2OXIzX0tuVGdEcWFaTzF5enNMeFItX0NDQmNyM3VRTGtpbmMxcklTZm1aQksyRFJySUhVYWdMcXViSmRBWTVPVGpKNDTSAdsBQVVfeXFMTVBWSWJTTTZTTHV3bXFuUzAxTVZJNTJJWV9INWtOZUxpckcxWGdtOFNVS3dkcGhzNFFMdk84SFRZVEZHWWhWY196OUstSXFRMldlaGt6bjBhckNSdzhXSHp4UEJKLXF0T2FKMHp0S2FhMUwxY3VBcmltVlp3cU1tUWI2THFVNURfSGFHVFNXeXBkbGt4ZHowdjlyM19LblRnRHFhWk8xeXpzTHhSLV9DQ0JjcjN1UUxraW5jMXJJU2ZtWkJLMkRScklIVWFnTHF1YkpkQVk1T1RqSjQ0?oc=5",
+      "source": "Acento",
+      "published_at": "2026-11-16T22:30:09+00:00",
+      "score": 70.24,
+      "corroborating_sources": [
+        "Acento"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "599813c743ac583b",
+      "title": "Cabello: El eje principal de la política internacional de Venezuela es poner por delante los intereses de nuestro país - DiarioVea",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTTdyYWt5cDFuZ18zNW5qZEg4d0VHV0NYT1FpM0RsYk5qU3NZdmI5Zl9SeDgwdVctN3ZXd1E0ekNzc2d2TklZUWU1c1B2dHpiQ0NGNWRocC04eGpUcHpiTTJVUVNZZXl3YUlIeEo0ZG1BTDJ3TjJlZXVlLWt6ZHpVbkc1dmQxMHVNR3lCcVFlY2dDSXlKOW1YVl9ib1hjTnhuY1hzZFpuQkVETmZ6Mml5bmxhWU5VZmRXcG1wT2g3Qm9KZ3VwWjZtMDhpMkZVZGk4Q3hOT1lULUJGMlU?oc=5",
+      "source": "DiarioVea",
+      "published_at": "2026-11-16T21:01:58+00:00",
+      "score": 68.65,
+      "corroborating_sources": [
+        "DiarioVea"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6d10a85714ada81c",
+      "title": "Exdiplomáticos y exministros cuestionan política exterior de De la Espriella: \"Cien días de retrocesos\" - CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQVR6Z1p2SXJTME1nRUdCa2F3ZzZhOEM2bHRKMFFhN0p4bEdlWXRpZzZyZG5hRm1oS1hMZ09GUGN1dmY0QWxnVTkwblo2VkphZkphSzFycnRYQ1dIYS1XU2huTzFuYTZ1S2JSMTRBNHFFWjIzUTJVLTJldjNKZ2FSXzZVODJSb252SzJEUGxwNGtwU2p1RGpLYThUY3F1UjF4R2VjcUZtUDN1RWFVT3hKR2NmanZDaV9oWWZZblZock1uUlBLNUNLbER0ZG1ZSW9fMWRsUlJQZTNaV1V4Qm1qSzdWeFFSLWt5dkZlZWhJYw?oc=5",
+      "source": "CAMBIO Colombia",
+      "published_at": "2026-11-16T20:42:32+00:00",
+      "score": 68.31,
+      "corroborating_sources": [
+        "CAMBIO Colombia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3763423cecad4ac1",
+      "title": "Elecciones: Hay que hablar también de política internacional - elDiario.es",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRThXcWZ2QTB5cDVjU2ZHSzZ1QjR1cEZmNlZYamFhM1BydFYtZW5hb3dtUGFFOWwwb09tTS1HYU9uODNMM2xFSlNNZnJheERNNFlQT1pGNDljUkJHMWtYZ0N5OHN1TWlCX09xMWlnVTkwQlZnUFNQMjdGNGJPVDNOR0d1eWVDWTZtd096WDkyVFpjVTVXNUp5QmRFSU5qenlIanRlM0o4RXQ2dlZXeVJR0gG0AUFVX3lxTE5jbVplcVlYOEx1YlJHS2VRRlNJMkhSQzJ1enJmNmdtazg2SHlYMGtaWGtOM1VERzd5czlJMlA2TmJKQ1RpR3ZjN2xCUDdiY3MtUWM5c1pIaTJTUXZxMjJETWM3UW9lQ25XNE5kUno0R2YyVUctSkVDcUdxazRURUZYSHRVQ0FFNWVCMkZmWVFjZk9RSXZHQ2JuRm9JV3BIS0plZnFrRmMyTnlJUkpLR1YyNDZROQ?oc=5",
+      "source": "elDiario.es",
+      "published_at": "2026-11-16T20:36:01+00:00",
+      "score": 68.2,
+      "corroborating_sources": [
+        "elDiario.es"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d4a7699faa4d1cdb",
+      "title": "Brasil na COP 31: Defesa da ciência é muito importante no momento atual, pontua líder em Política Internacional do Observatório do Clima, Stela Herschmann - UFMG",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRWliLVNqbVlqVzBramdRWXhtZ2hYOEtJYWtja2FnTUt2d2xnY1l6SHh3MzNRcldBUUJPakFyVzFwOURHN0FCNlUwTEh2UW5VclQ0NkFBcmNxaV9ZdHl2RGx1XzhrM2tXX2JsTmY2TUpNNldiRjZSWXVPT1N4dGVxdGFERWV0anItTnpEWGF6Vzh4NFRpVV83WEZpenhkeXk1ODlKQ2Jxd1VPeHB6eUdzdWpzVG1HSlZKY3o3M3I1T0V6VnUzcjZqVTJQaHZQd2JFWXJsVkw1aWoyeU5ndGlHX0E3VHpGU2ZSbGJyWjFDMkozX1VYbmFBc3ZldUpxOG5zQmt2WU1rbUFnU3hYQi1EYzc1NTY4NWFmZVV6bFpZcVFvMm13ZkdZSW1BQjllSGxDZkpkaHdZZTJnaXNJaUU5SExqclZDeG9KeEVpcFJzVU5Hc3RWb0E?oc=5",
+      "source": "UFMG",
+      "published_at": "2026-11-16T19:59:00+00:00",
+      "score": 67.56,
+      "corroborating_sources": [
+        "UFMG"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7bef176b5339b042",
+      "title": "Yemen's pro-government forces retreat to defend key port city of Aden - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmt0SDJJeU1fdU1Mcl91N25LdHdQUEdtOUJYUkF0N01IZ1JMLVZsLXZ4bGpnZmctdUQ4bHVLMy1PWG5lbmE3eVI2NlZKY1RlTGZxWDVIZGtSS3gtRkJEaHNwR2p1TVNQdENINm9JT0JyQVpRUjhaMTdLV1owcEhsd1NqR2VDby1TVUpJaTRTT19CMTB1MDRiel9wRnZrRjRrRTVv?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-11-16T19:26:06+00:00",
+      "score": 67.0,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "bce2a5ea1e234b61",
       "title": "In Twin Asia Summits, Trump Eyes the Wrong Prize - World Politics Review",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XMGJtWEI1N2dsYlNuR3k5RFNvUFpER3VqNWFuMVE4c0t6d2N5YkdoU3poeDBidi02UzRYakt6cmJXX2I5SFFyaE1jOUJqQ29LcDAwcVZPQVRmZmlzMUpFSFBlT1RuMGdsN0RQNEEydjh1eEVVQ0RsU2xn?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-16T18:13:41+00:00",
-      "score": 74.99,
+      "score": 65.79,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -21,12 +111,28 @@
       }
     },
     {
+      "id": "9906361ebdea0190",
+      "title": "Trump-Putin-Xi summit: Only three countries are pleased about the upcoming predators’ ball - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVWF6OS1iS0tINzh1dzVsWkY0cUxyWmE2S3NJNFFBTW55NGNZMkUxY3JtYnRwZnZPUXNYbmU4c3BKR1ZRank1YkdwMjJuRjQwcHBHc0xpaUVSS1pybWloVEkwajF5alBuZklfVFZNVmpCYXZTbWE2Ri1kX183QWdmQXNaam5ZbTYwWnZUREZhMFBwbE5uZ0F1ZzFQejZScTRoR0V4Q011a0lBSDZGNE94cjUzY1pIMkNzMTlTYmJIRy10N1RtdlcxYmF3?oc=5",
+      "source": "SMH.com.au",
+      "published_at": "2026-11-16T18:00:00+00:00",
+      "score": 64.87,
+      "corroborating_sources": [
+        "SMH.com.au",
+        "The Age"
+      ],
+      "signals": {
+        "source_count": 2,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "5a2c216190cab8df",
       "title": "Café Diplomático cierra su ciclo 2026 con un análisis sobre la apuesta de Abelardo de la Espriella en política exterior - Universidad Externado de Colombia",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPbjZ0RG9vaVRjemNJMnZBVkxGSmU5dXNzLVVpWmx0a0lXdmlneDAxRlZVVWZ2QXpLN3FPMnRuMngzb19XLW9vS1YwajRVVktqRmtnSXpMd0hFMkltQWN0alFQbnZYYjVrc1I3WElubFBvWlNjamk0WjliR3E5YzRYLVJqUXctTnkwVjBvdW56RUZfa29YLTFNZVU5MEhtaWtDd2xPRE1fU1gyR3IwRkgtYk10b2lsZ1hSZVpZeEQzRUphck5pUTNfeTVtX1pvQUYtQ0RlVVVLdzRkN1hkcjFESklJQU9UcF8yR0tJbUF0S1pRMURCNi1iOWxrZmI2NktIaDRnS2llMzNudnU5Q2tlWnJtd2YyMU14SWxvWGhfMHB5S2g2LTZTMi1DTTU?oc=5",
       "source": "Universidad Externado de Colombia",
       "published_at": "2026-11-16T16:32:59+00:00",
-      "score": 72.96,
+      "score": 64.18,
       "corroborating_sources": [
         "Universidad Externado de Colombia"
       ],
@@ -41,7 +147,7 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90NlAtTnJvRWhnQXh6OXBMT3lNampEbURoZ1pacnlSV3JqdnIyZzZjeFc3dldlYUtjQmNla19ZbjBleDh1NGcwdzJaWHJSTkRlOUo0bU9nb1RfeUlHb0ctSnY5NGI4MXVNbWRpX19pWmY?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-16T13:57:17+00:00",
-      "score": 70.0,
+      "score": 61.84,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -56,24 +162,9 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjR6d0d4Yl95VktvaU44ZzJnN1VIRFdlQkFEem5DSnczdzNrdUR6LUZ0N3FDRDA1QnM2cTd3dHBKNjF4WEZmMkdxM2Z1dDhyU3dvZi1qdUhIeEhJZm5SSmpMUVRIZEQzMnZMbDVSMThaRkJxU3ZtQmFSbUstYlZ5T1BCb3E0WmxtLTFN?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-16T13:38:56+00:00",
-      "score": 69.67,
+      "score": 61.57,
       "corroborating_sources": [
         "World Politics Review"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "1a75a11ac27dc56a",
-      "title": "El ejercicio de la diplomacia - El Nuevo Diario",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ud2tvdUZsWlJvX2hzandnY2RBa1ZhbHFVSWpiQXFzVi03VXktLVUxeVVYNjdZQzBJbUJ1cDJNM3FwaFdnUHRSQkdmSkpHMDBXdHpoX0R3bDhhMm12MFc5Q2F4SzNDWUtyNzFwa2RB?oc=5",
-      "source": "El Nuevo Diario",
-      "published_at": "2026-11-16T13:35:37+00:00",
-      "score": 69.61,
-      "corroborating_sources": [
-        "El Nuevo Diario"
       ],
       "signals": {
         "source_count": 1,
@@ -85,8 +176,8 @@
       "title": "MEDIO AMBIENTE Y POLÍTICA INTERNACIONAL COP31: el cambio climático ya no discute solamente el futuro, también quién paga la cuenta - Identidad Correntina",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOanJaWkFHakQ1ZzUxT0oweUxZU2FqQ3M2ZGVnNWJnRFFOUEVlQ3dzOEl0R1RhakRhdkRsejNISm4tS2hYclhuazFMUzEtc05UQTdhZS1uMHl2SWFkbE5iRzUwSDVVUzJlYnQzRFhvZWJFNS14bFd5WkloYkotMUw0RGdwbG90R284XzdGMVU5bjB0RklFemVJQTN6bG1QRTlCNTNfVWJ2UEMxNFNYUlB1N2dBVVFlcU1BQTdKc3Z3bkxCNzM1bTM3bE1ObjJ5Wjd3bnp1M2VFbUhVVXVIWEVpdGJ2Vl9CVXdPcnBKbk5ybjlCSnNkM2NvdWdQUVB2YW9kWENUUG5QNXhTWEtUZ2c?oc=5",
       "source": "Identidad Correntina",
-      "published_at": "2026-11-16T13:25:37+00:00",
-      "score": 69.43,
+      "published_at": "2026-11-16T13:26:03+00:00",
+      "score": 61.39,
       "corroborating_sources": [
         "Identidad Correntina"
       ],
@@ -101,7 +192,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcVJmU3h5YXJjMUpvRTdMUmhlV2ZEVjFROEZyN1h5dFd0YzVHTm16SG9qNGlNM0ZJNXdtNzEtb0JBNzdsMXBPdm4xWEF3SjVHc2ZwdnZQNXZiWmNMOXBtNUpMb3QtN1FzcnVkNURtcnV1QkVObkFvei0wb3I1U2lrTFhLSnNzTDhfdmMxWXJYRExiZFU2eXgzZHRrSzBzSnM0TWxQdE1naXBKZjJnSmpwWUVwdUp4a3pMa3d5dnBmV0xIdmpqWGE3eXRDcVVRel9FZ1hZVHhibldWbUlXVWU1eEJWZGY5OWs?oc=5",
       "source": "Eunews",
       "published_at": "2026-11-16T13:19:49+00:00",
-      "score": 69.32,
+      "score": 61.3,
       "corroborating_sources": [
         "Eunews"
       ],
@@ -116,39 +207,9 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaW44UjlMUkVDenJzZzd0QjQtQTRlLUV4SVA3WV9ZT0prOWdrbFpacHJyQTQ3QlFXZUt6WkotaUxieG9pX3V6cGpERWlqS3c3d3dsbTRzcmxGazQtZHc5RkpKejNGdl81RkluYUFrY0pzam4zRUxUYzEwUEZLeUlKUWVvWEY2djB4TVpPcEpSUkZSendrVk40cmJCWE5aRGM3bWpha1oyMXdmal9PaDJWLU9R?oc=5",
       "source": "La Nación Costa Rica",
       "published_at": "2026-11-16T12:45:00+00:00",
-      "score": 68.7,
+      "score": 60.81,
       "corroborating_sources": [
         "La Nación Costa Rica"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5a4bd6bab7e64a30",
-      "title": "Diretor-geral da PF autoriza investigação contra escrivã que o criticou nas redes sociais - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXl4Q2NKOUlxZEY3R1JCNEY0YnpDUEZ2ZUlWSjFacnR1QUdxVndEVWx6Y05UVWxVaFdiNmRvUXZDb01hZkh5MkJtXzJ5aUFscGs4bDJYYTNBa0tlR3NJdHhtLVBuYUhsVDRJWDM3REF3WEVSM1EtbTktcEhUZ2NQbldZUzF2Rk9EdXE4TUVKZ0RjbWxUNmlnRXZER3JnMzJCdlo1Mm9EbjgzMzF3WEFjQm9hLXhXakdKX1dSa2RsZG5ZbTVx0gHKAUFVX3lxTE01WmlkN2swVFZkdFhYR3hPN0VSMDNreGxUQVdVYnpfT05WZ2pOcG4xQUFuaVRIbklPWXlsV2JmMFBoUkl5al9WbXdKWlhiSGdER1RQMDhQNTJ6TlJwcW5KVVVWMWNwZGdPNVNhOWRJTF9Vcjd5QXJEV0xJRnVOazB5T1d6aGR4bXc0NlUwb1V2VGd3a0FVcElnZy1qVVVJRzJ4MlpJUnQ2WlVoMWpnc3V1eWloMUZkM1FhSGVpc21zUEV2dTNBQlptQVE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-16T17:02:58+00:00",
-      "score": 68.55,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "84583b215ab2354e",
-      "title": "Pedro Ruiz (79 años), cantante y presentador, estalla contra Pedro Sánchez por la crisis migratoria en Canarias: \"Ni medios, ni política internacional, ni respuesta solvente\" - OkDiario",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOekpTc19Yb1pWRVg1Q3lLWlhGVmhmM1VyQWR0SEM5OEtXMlZobGU2Q2p5dWViNnhIa3FiX3MzeGE0YmFjVUl1OU14VnJVQ0NoNTN5NDhfVUpCelF0ZzM3aFR1ZW5iVG96VzNhSzlzS1JuNHpUWVhYZDZ1VzhaS193WURma2NfS3V3WWI4QVI3c09JanJGUTBuWGlWMWx2UnJyWVJ5QktNTlFTSGJVTTEwQ09GVnFIN25JeGVra01BcDB4Vk5vQ2VwdUxlcTViNmNUdjlMS2E1VDhXY2s3Y0I0WTMzNF94QWVfRy1RU0JWVVNvLUxhSG5BOXQ1djZlalpxUGoxSFVJalctT3llZkpYR1kzaVZTbHZHenc?oc=5",
-      "source": "OkDiario",
-      "published_at": "2026-11-16T11:47:32+00:00",
-      "score": 67.7,
-      "corroborating_sources": [
-        "OkDiario"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +222,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVAyUEpDRFdWMlFJX1ZuQUI3S00yeFJKb1lqM2VuWTN3aGY1NnRlZDZOR25WdEdlYnFEUmRNNHlJNTA5bHkxT1gtWmFOUHU5MXkwdG9fUWRtWWpJY2ZvOFV5NmF2bkhWYUt6bTJnWlY4Skx2eGxnejhIQlJ1VG52UWtmOE1meUlvQWRLc2g5SENjbWFpSW5rQW5jOHdzZ2JYY25Bcg?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-16T08:17:00+00:00",
-      "score": 67.24,
+      "score": 60.27,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -176,84 +237,9 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmFSVHM5NnZRNFFYU0lJRVBDWER5Y2NndUgwVzhPemRGWXV1cXZ5cFp3ZndKeXJZc0Z2VmR1YU5MMWdQYmo0QWg3cWRNX2JYWDRlSk9xNFB0WkIyTXNoYkcyU2NRZkY1SmtCTjRULVBCd3FWS1V4UjJndTF3YzZlRHN4TlFtOS1wa0ZYUWdFV3M?oc=5",
       "source": "Informat.ro",
       "published_at": "2026-11-16T11:19:50+00:00",
-      "score": 67.23,
+      "score": 59.63,
       "corroborating_sources": [
         "Informat.ro"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b5f01f9b19c2cebd",
-      "title": "Trump-Putin-Xi summit: Only three countries are pleased about the upcoming predators’ ball - Brisbane Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZUdNbldiTk45czctcWotcjUtejBQMFhJZ05uUUxIa2tMU3RFR2ZBWjNlZ0F3UTllVFRrT0w1d2xlczlsTlNmeTFEb3ZraTQwTG04a0pWWTU5ZGVuMUpzODY3SzN2OGVnUmZkZ1lKNHN3eFc0WS0wNDhKdXJGdm5XRFB2Mk5pVy1NV2I1QU54SHJJY2pwNDhUOEEzR0NPNXJSUVM0UHpXZG9fcmRWVE9DU3BZdjgySVhoOHdkaFl0V2cteXlxR2Y3M1NnazZnbDZuYzgybVBwWQ?oc=5",
-      "source": "Brisbane Times",
-      "published_at": "2026-11-16T18:00:00+00:00",
-      "score": 66.7,
-      "corroborating_sources": [
-        "Brisbane Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "16d4b387a11af9d8",
-      "title": "STF encerra ação de juíza contra jornalistas por reportagem sobre dívida com empresário - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTm5LZW1VcVNJdmE2YUx0SERWTE9ON3pIbDlobHc3S2p5dEFOVkhfaWYwS191VXMwN18xcjdLdWM0TXRXUXVCQU9LMEZtdzNzYUxsR09kQlYzSGNmaThWZG5qR2xxQWd5LWQyeW9kZEI3WGJYMjFSOE9mSmlmRnBWOWV0VDR2YTg3MDI2YzFTNWFwYXAwMVhObkt1V0FERV8zTUdSR0lLeUotRUJIN20weC1ONUxEOGVWdEhMLUFBZXV6WnFrM3FNcS1vSldfMlhjRzBV?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-16T15:20:00+00:00",
-      "score": 66.55,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a2d63f3eadfc4dd2",
-      "title": "Sánchez y Lula hablan sobre la amenaza ultraderechista - La Verdad de Tamaulipas",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSzM2Z0dYb3N1OElvUmltVmR2SzJIUnNIbU5uaW5DalVpNHZsaGRZM2RsNXJpZks2RGY3NnFtMVVEOXhKRExZRjBEcTctek55QlpBQ09NMFZIVjM2SUtyZUdwRUY1dnhVSnVVVXBqdGxtVll4ODdheQ?oc=5",
-      "source": "La Verdad de Tamaulipas",
-      "published_at": "2026-11-16T17:02:05+00:00",
-      "score": 65.53,
-      "corroborating_sources": [
-        "La Verdad de Tamaulipas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7506a3bc7d105b3d",
-      "title": "Justiça de Minas Gerais confirma vazamento de arquivos após ataque cibernético - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0VVVlYxTkI3S3JwZWg3RHlYbENLbFlVbzNfY3MxMHBZUUJCbkpMbUptUW5iTHNVY3BIQ2NEZjByNUZQaVZxV3ZnYkNBSkZpN3h6dnhoZVFvTjU1MFNWbVN4ZTdqM0pnTjROSGdGZE0tRkxYN05LaURydnIxc3pZdjZNT0Q3SktwS1VkTGNESDlUNnlRYVA3WHFqdU5MUndqZUFMdXBMU2FkSDJqZTBYbUpVaTE0SDJ4Uk1QZdIBwgFBVV95cUxQMl9UU19LcmtNWGhjMlF0SHVRWDdZOFFJMVFaVDZXcXU5YU44bjBjUElOcmgwT2NkMzhaRDdMSWpwTHpyODE1QnlBZ1oxVWU0TFJpbThOYno3YV9sRkZ6SVFSQTh6UUNoaHRrNjZVTFR6WnhjR2ozZTVVek9DVFpVZnltUDFrblc4dml0LWVFLU1mdUpmYmxaT2JwOHllRGZodV9Gd2NLeEwxeU5nZmJJcTUxbGdYREhTUWVBVE1pMVk5QQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-16T13:57:00+00:00",
-      "score": 65.0,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "70e11fc3ab9e366d",
-      "title": "Trump habló de una posible reunión con Kim Jong-un en su gira por Asia - Diario Huarpe",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlhcVN6NFJvcXR1MGdtWW00OXM1YlZNRmU2eVZ0Mzl3LTNkS0lmQWxBY09oajhqeWZJY0ZyRXA4eDFtdFdaN3JsdW1KT1BZckZvN20ydUFhRWNWMU0tMXVxejRPQ0hQaFotQmxmN0ExbER2MGJxTV92bUp0NUVsc2xKemNDWW1HUTdOeHBjbkk3Ty11TG0xT2hQM0ZwR0ZLTWVlMjRpSlMwN2k0WTdNUHpqUHhtSFdUYnA2bg?oc=5",
-      "source": "Diario Huarpe",
-      "published_at": "2026-11-16T16:32:32+00:00",
-      "score": 64.95,
-      "corroborating_sources": [
-        "Diario Huarpe"
       ],
       "signals": {
         "source_count": 1,
@@ -266,9 +252,39 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ2pMcUM3TnZxeUVJZElSdXV1WGpZQTNDdmNaNWhpV19VelpyQWQ2dVp3RGNqSGFnTWZ6bDg0dGpHODJaYmVPcmNSS3lBUHYyaEY1X1hqZVlGcFJrRTdXZjhzUllfMThVZXgxOUNyZkNWVXozUTJLOFhNVV9YaFFaNl95R0tId1lia2lqbWc3cl9WMU5LWXhjdS1qQ2ROc0xTXy1HTWpISVROUGg4bk1aMkZQVFFzVGJidFRjQlhna1pRUWpOX1ZNQ0Zfb0pXaldFZUt3LXRiWjhmbFZhQnJBY0JTemtkYnd4V2RNVUhB?oc=5",
       "source": "Opinio Juris",
       "published_at": "2026-11-16T09:01:01+00:00",
-      "score": 64.94,
+      "score": 57.82,
       "corroborating_sources": [
         "Opinio Juris"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d983efd17e84ad67",
+      "title": "Paraná tem baixa adesão a políticas climáticas - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2k1TEhnUnE0WS11TDdFRWJZYzUwcFh1XzJsUU5KRjdOdTZ4Uk9KMFBScVphZWlVZVpRYjMxV0wzbVpMeXdHNkpPR21iYVV6OW9HOG5WYzdVelFjWHlhNlpsTkNwMFcwbDlOSU1hMEw2bEdHa3RyOGwya3dtM2U2TXpycEZxUGY5TjhUUGJHZzdsSFlnbEVBb1huaFMzMU5BbHNnc3BjcUU3TGptYmdLU0JpWnp5TUZ1OEJVeFNSc1lkR3dkaGc?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-16T14:41:00+00:00",
+      "score": 57.48,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7506a3bc7d105b3d",
+      "title": "Justiça de Minas Gerais confirma vazamento de arquivos após ataque cibernético - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0VVVlYxTkI3S3JwZWg3RHlYbENLbFlVbzNfY3MxMHBZUUJCbkpMbUptUW5iTHNVY3BIQ2NEZjByNUZQaVZxV3ZnYkNBSkZpN3h6dnhoZVFvTjU1MFNWbVN4ZTdqM0pnTjROSGdGZE0tRkxYN05LaURydnIxc3pZdjZNT0Q3SktwS1VkTGNESDlUNnlRYVA3WHFqdU5MUndqZUFMdXBMU2FkSDJqZTBYbUpVaTE0SDJ4Uk1QZdIBwgFBVV95cUxQMl9UU19LcmtNWGhjMlF0SHVRWDdZOFFJMVFaVDZXcXU5YU44bjBjUElOcmgwT2NkMzhaRDdMSWpwTHpyODE1QnlBZ1oxVWU0TFJpbThOYno3YV9sRkZ6SVFSQTh6UUNoaHRrNjZVTFR6WnhjR2ozZTVVek9DVFpVZnltUDFrblc4dml0LWVFLU1mdUpmYmxaT2JwOHllRGZodV9Gd2NLeEwxeU5nZmJJcTUxbGdYREhTUWVBVE1pMVk5QQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-16T13:57:00+00:00",
+      "score": 56.84,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -280,8 +296,8 @@
       "title": "450 cisternas retoman operaciones tras levantarse bloqueos en Chile - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUlQTlE2X3JiaDBIcjNweEI4RWt6UC11dFFjNDU1U0xBRW1mOVZkak5PRU5LUWFxcUxCZXJ4TzY5NlpMQjAxVUpiS19Ba00ta2RuYkQ4OWpZNFRFWjlzeTQ3WHpCTGY5eEFBMEI1ODdLWkkteU5iOVA3VnA5S0lUSFk3N3dmZmQ5dUlzTVBvcVVvcTN5VVZBSkVwY3hkdw?oc=5",
       "source": "La Patria Bolivia",
-      "published_at": "2026-11-16T16:25:11+00:00",
-      "score": 64.81,
+      "published_at": "2026-11-16T16:25:59+00:00",
+      "score": 56.07,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -296,69 +312,9 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xRndiNVZ2cnNwUWdmMHJYTkFyVl9NYVZ6azNtZzljSUM5Ry1pQUY3SU1lbnU5MjRHQW1zVVNyUmVRQnRRd1pmbWlpMXM5UEFsek51MlZmelZHRm5KYUZqYnhrWms4MFdfcWdhNFlxbHJpYWI3ZElvemNwaGVBTms?oc=5",
       "source": "Expresso",
       "published_at": "2026-11-16T16:18:01+00:00",
-      "score": 64.67,
+      "score": 55.95,
       "corroborating_sources": [
         "Expresso"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6f0d25ad1be50bf2",
-      "title": "Trump heads to Asia for deals in Manila and Shenzhen and a first-ever nuclear meeting with Xi and Putin - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUwwNUhLalM5YWE1ZzJuUnZaVl9PZFhmN01pV3ZnaVQzMzlYNUd3NnZNbFJrVDgxZFdIOTk5OERZTHhTRVR1MzN5TE12STVqNnJzQjBBT21VcDBvTE9zQnpDd2Z2WFhsU0VvNmlfN2pzWjNaMTFUVmJQRGlFcW9qSXUxT2xiSW1Ycm9YZHNmMmZ1YUY2X1JlWS1QQVpPcHhyVy1R?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-16T16:12:42+00:00",
-      "score": 64.56,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "b364770795c49d32",
-      "title": "Dólar atinge R$ 5,78 e Bolsa recua com 'plano Moretti' de ajuste fiscal no radar - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDFubEdxeDdHdHQydzBvbkh4WDVVbXpOSk9PZ1FmQnFxY3F1VDcyVE5jdUlNNy01c1ZCRW5VSkdHcy12WTRkeXhVakY4THl6OU9YLU5SNmhwSV94TTNPVHFtRUZXT05WeUdCeEFIbGo5ZTh6QlJTTjNsOWh4X3ptVnpoZHFCSWhDZ0c5RVVxYzRpLWhZRlVjbXZ0MFp0U0EtNGhBQVo4MkhIOEZTN3pYMXdkcUhxUQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-16T12:53:00+00:00",
-      "score": 63.84,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d73737377cc98a11",
-      "title": "Quaest: 39% dos brasileiros se identificam mais com o centro político - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEIyWVBpTjRtY3I4RlBXZWdIb05zQTNHSVdDWlg5c1p4RkU2bkg0cDdKLTJVb1dOcFJlSk41Sk9aVnNkaWVxekYwUjUxc1VVMTRTbjlxYXRZeF96ZEx0UmVEZms4YTBYY3Jia3hpdWlXYU9fdXNCUkExMF96OVgweHNIRzA0Y2oxbjk3SnozX1JyVkRIUzF1MkFSd3N6OTJoM2NUaUt1T0dRd2F5eEJ5R2x0NklTZGc?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-16T12:45:57+00:00",
-      "score": 63.72,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f642bd77b66b5988",
-      "title": "Lula vai manter apadrinhada de Janja no Banco do Brasil - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmhZd0xJdGlET3ltXzBLc0tic1MxZGM0TUpMVzgzNG1VVng1RFcyQlIybEZMWGR2R3dwSFROY1IxT0VXX1hMX1VpN2RKYVNGZ0lBYVV4M05FQVhQcU04TnRvTzktNUxGblpnSnBXbUMtSmRDMVNMeWZ3VEZkMFhjY2lJZ3pkNkdodnhYSFV4RkY1Qk0yN1Z4dGdlLTdKeDVmTmtyMWFPUDRzUTRtbWs5Sg?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-11-16T11:48:00+00:00",
-      "score": 62.71,
-      "corroborating_sources": [
-        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -371,7 +327,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGlvMnQ2WVRBMkgwbGE0aC0wd2JISEhaRFQ5YVVneEFfU1FpNmphZlBUYWYyWE5ndU5WdG8tODRpTnQwbzl6NzMyNUlfR0NZRzVyRFp0QUREVHNkcUtDNW96bTFnZlozRi1wTzR0WFFJczZ6SllNZzlMdk9LSDd0eGR1dWFfMWVs?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-11-16T06:23:04+00:00",
-      "score": 62.51,
+      "score": 55.89,
       "corroborating_sources": [
         "Política Exterior"
       ],
@@ -381,14 +337,29 @@
       }
     },
     {
-      "id": "2a68d7a4e523cf5a",
-      "title": "Trump busca aire entre los gigantes - Agencia Comunas",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SSmctOGswb2htRm5QTDYtM2JCLXpHOW1Bam9yQlJPTWhDVy1tNjMwTnBoUzNMYjFQVkdoUTQ3T1BSd2hOM1llZS1saHZ1U1J5c3RIaS1xd2podnZCZkZDQ2dINFZqcDdTVktFSy03Y1JUVTg0?oc=5",
-      "source": "Agencia Comunas",
-      "published_at": "2026-11-16T14:15:00+00:00",
-      "score": 62.33,
+      "id": "6f0d25ad1be50bf2",
+      "title": "Trump heads to Asia for deals in Manila and Shenzhen and a first-ever nuclear meeting with Xi and Putin - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUwwNUhLalM5YWE1ZzJuUnZaVl9PZFhmN01pV3ZnaVQzMzlYNUd3NnZNbFJrVDgxZFdIOTk5OERZTHhTRVR1MzN5TE12STVqNnJzQjBBT21VcDBvTE9zQnpDd2Z2WFhsU0VvNmlfN2pzWjNaMTFUVmJQRGlFcW9qSXUxT2xiSW1Ycm9YZHNmMmZ1YUY2X1JlWS1QQVpPcHhyVy1R?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-16T16:12:42+00:00",
+      "score": 55.87,
       "corroborating_sources": [
-        "Agencia Comunas"
+        "Plataforma Media"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bd3cb780c4e8b5e4",
+      "title": "Moraes barra visita de Rogério Marinho e Tereza Cristina a Bolsonaro - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmg3bHdCdEFGTDdtRVItbjlERVk2dDU3SEhYemlZU1lOcGZuQmI2azFOV2taenpHUUcyZzRNeUtWMDhDX3NzalVxcmNWZWFUUlNadTM2a2psT29BNlFXNS1vS2Q4SDEtUDhpX01OeURMNEZUOWR5U25KeU9hRUo5VnQ3QmdJTFhvZTN6c0lwemh0aDhXdVZKMTQtTk90YmZELXZaRENoQUk3bG1sVjBpLQ?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-16T12:37:00+00:00",
+      "score": 55.7,
+      "corroborating_sources": [
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -401,24 +372,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTDNfT3B2Y2xGN0Rhd1J3OW1RUHJIV2ROdnptZ01TTVVQUlVKY003R2dfZHJCWk1xSDhPR3NiaXlJYVF4NXltaDRlM2NUVWNSRkQ2cnRsa09feDlOUkxUcnduTV9nWFVfZFZmQ3FaSXpPNVNCZUgxaVhYcjRHMVVxeGV0VlMtczRJTHBKTHptMzhfeWZHMU9EVkYwc2NjWmFhRWx5QTZ1eUx5VkFlYWRJSHhaUlM2bFFTcExZ?oc=5",
       "source": "RTVE.es",
       "published_at": "2026-11-16T06:00:00+00:00",
-      "score": 62.17,
+      "score": 55.62,
       "corroborating_sources": [
         "RTVE.es"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "863dad965792e5c3",
-      "title": "EH Bildu prioriza en su programa \"el reconocimiento nacional y político\", la vivienda, el empleo y las pensiones - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMEUxSGIwNlFjR1liNmtNc1F0VEhFbTZzX1NKN2t3b3J0c25TNVZ3QThnNm81eGVLdEdzQmpLUVJZM214UzlkMjVjai1FM1hjVVlPSWdwWXQ5TWtGZktVMFNMQVpiQ0s3UGZBX0FuaDBKSGtNSElRX2xFRUl5aEtVcDVIMXh6UW51enNoc2RWb3lmbGJJLXZCVUxQU3BRMHZpem11ZFdSb0pIc3NETVZiWXMyZGtndGV5b2lPSHVfTzI0RWJHTGU5Smp6WGFLXzBkdmlkNEx5LW9PeEhncFUtLXU1US1xZWs4Vll0OEFXVVFfQdIBjAJBVV95cUxNYmptbGtkRzhWUlZHLVJhbzlHVTQza29CRk9rcG9QQU9wR0M5UlljZ0lsVDRSVF9SWGcyODJONnhSQm9sVGJrMGo0V0N4NUxWemJGWlk4LTBweGs2MVUzODhYSTQyZDFlNHdhcE9oWUszUE5KTHU3V3ZuSEhvMTZMc3ZESE1iOXZwdmxmQXdBY3NLOF9QS0NjUDl1TC1tZ2pjNUJTbVBISHNuZEtRZVR1VEZfMkl4NnRVOGlmbWg4c3RxeVF4anpFTUpZZWo0U244UnFiMy1Md0wzYV9lTHZHWEREdUw4VWFQMDB3a2JSMThzNERfdHlBUTJmakFka3pKRlpfcEFRNTBDTm9M?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-11-16T13:48:00+00:00",
-      "score": 61.83,
-      "corroborating_sources": [
-        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -431,7 +387,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3pORzFJN1FTeDRJcU1BUktFNjU2S3dBLWp6dnRQRkFwUDd6aHNkQUd6eUc4QnRrVGh0OTdmWkVmS2lpZ2dCZUJXOV9tMVZiWEZPMVd5cnNuWDFNNFhOQjdPd254cmRlU25oWC1OMGJpTjg5V21jdnRFeHlwNm9oMHFpV1pvaDQxUGhYOXcxUW1Idy1CYWI4NUQycVgwSzRXckg1S0tDWlNjMlZKUzR1WVUxTWLSAboBQVVfeXFMUHNoNks4UGlpSG5DQmVxQlZRR200N01KT0NOc3BXbEJWVjRJLVc5T1g0OHRwTElfZ1Fua2tQNXJvRFRMVDJxVWxUc3RTMXU0U2h5LWNOOWxPbXhYTVFpTVJtRkEybnN2NDR0RUtRd0xJaXdYT0dGWkl3TkF1dlhoRDlHbjVrcDhMSnp2TG9pQWdiSHdaTm5QZUVxZXVDc184eC1xMmMzZzc3dTFGeUlSUk82Wm51aE9wa2JR?oc=5",
       "source": "La Nueva España",
       "published_at": "2026-11-16T05:00:19+00:00",
-      "score": 61.3,
+      "score": 54.94,
       "corroborating_sources": [
         "La Nueva España"
       ],
@@ -446,9 +402,54 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc3YwVFhBSUp3dXJENFZLYnhwaG10cUl4UU9TYXhaSG9pSExQM2lGV1M1NVRKWmZTdG1hakI1S2lwZkFGTkNIWm00SmxKS0tWYU9WSVB6Z0Z1UjRuLXVTT2lVclhVOGFPQkNZSmxESlJ5cXBiVmdkX0xhdFI1SGUza2xrVkZFR0xwY1VKQWpOcHRUM1QzclEtX1BqV2V5cjY4TGZGcnVNX0E3LVRzOUhsejZGam4xS3FVdXZicG15Q2RKTGozdlh6MWZzXzNWN1UxNDZwdmJUYVh3ZkRzVnF2S19sSVRWVEVKZVHSAf4BQVVfeXFMT1czamRwbC1SRFRBSjJ6bmR1WHFyS3JiMDNXdElITkl6TjNNQUpxWjRBZEZaMWVLU1JmeVNkbmUwYVE4ZEJOZm5BTkRQRGxDT1pWallPT1I5X1ZkbTktY1FXYnRjaDI5U0lBQTNtSVFyMlU3TDlTUWM2NjA0SmQ0Y1p3M0EyU3ZyRWZ6NHFSRTB5SDdpa0VuVm9vVnBzOVRGbngxcGZWR0R6T3otbHRiMVdfRHc4c3J0dFRZcGxhbUhzb0FMYzU1em5McF94RmY0NnBDNTdyQXNtMV9PRkVEZExYZzFSNmtoV0N5aFVQMjJlZmdpeFBOdTJIWmRfVlE?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-11-16T04:30:01+00:00",
-      "score": 60.87,
+      "score": 54.6,
       "corroborating_sources": [
         "EL PAÍS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2a68d7a4e523cf5a",
+      "title": "Trump busca aire entre los gigantes - Agencia Comunas",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SSmctOGswb2htRm5QTDYtM2JCLXpHOW1Bam9yQlJPTWhDVy1tNjMwTnBoUzNMYjFQVkdoUTQ3T1BSd2hOM1llZS1saHZ1U1J5c3RIaS1xd2podnZCZkZDQ2dINFZqcDdTVktFSy03Y1JUVTg0?oc=5",
+      "source": "Agencia Comunas",
+      "published_at": "2026-11-16T14:23:27+00:00",
+      "score": 54.22,
+      "corroborating_sources": [
+        "Agencia Comunas"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7673b472759b3e9a",
+      "title": "Los demócratas preparan cinco frentes de batalla contra Trump en política exterior - El Debate",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZEdkZmxzR1kybUItSzlJeWpqdUNHS3JXcXF0RU5HelNzT3dycVB5RUM2MHZOcG96TnJYRFlTSG1vOXN6VDFhQmhwbWIycW05N3FfRlZaMVp1d21KOHB5WTV5UDZJTlhBMjkweWNwRHlkNnl5ZkZ1X2R5c0djNGtZTmhvRENSQU9paFVnNE9FR2hLdFFmdUVmV0h0TTBpSWhVRTV1TnV5OUN1VlZKMTg5MGIyNm40X09OR0d4Si1vNjlwVEg1YkYyc0ZBM2_SAdIBQVVfeXFMTmZNUmpMbE9ySFppY1REYko3Qmt5RWY3cjctYXdJMjN6Y2Z0bTY2U1NZLUJxTlI0NDlJLUxLd3JObmYwU1NsOUlFWGRKd2dMWXViMnVEc3I2Qlp0QnRjRElST1FGRnZlRkFMX0hBWnlpcUh5T3ZPcVhURzZsYk9wN2ZtYnNEMzd2QnNLWmlfQmlWTzNFLWlwcEs2cUJrbEhmUFhtRFd2LVQxZDlkS1ZZaU5rbUs4ZzlzMlYwTFAxV0VaSlRZVDh5WTRPTDVTamZWdnNR?oc=5",
+      "source": "El Debate",
+      "published_at": "2026-11-16T03:20:00+00:00",
+      "score": 53.83,
+      "corroborating_sources": [
+        "El Debate"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "863dad965792e5c3",
+      "title": "EH Bildu prioriza en su programa \"el reconocimiento nacional y político\", la vivienda, el empleo y las pensiones - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMEUxSGIwNlFjR1liNmtNc1F0VEhFbTZzX1NKN2t3b3J0c25TNVZ3QThnNm81eGVLdEdzQmpLUVJZM214UzlkMjVjai1FM1hjVVlPSWdwWXQ5TWtGZktVMFNMQVpiQ0s3UGZBX0FuaDBKSGtNSElRX2xFRUl5aEtVcDVIMXh6UW51enNoc2RWb3lmbGJJLXZCVUxQU3BRMHZpem11ZFdSb0pIc3NETVZiWXMyZGtndGV5b2lPSHVfTzI0RWJHTGU5Smp6WGFLXzBkdmlkNEx5LW9PeEhncFUtLXU1US1xZWs4Vll0OEFXVVFfQdIBjAJBVV95cUxNYmptbGtkRzhWUlZHLVJhbzlHVTQza29CRk9rcG9QQU9wR0M5UlljZ0lsVDRSVF9SWGcyODJONnhSQm9sVGJrMGo0V0N4NUxWemJGWlk4LTBweGs2MVUzODhYSTQyZDFlNHdhcE9oWUszUE5KTHU3V3ZuSEhvMTZMc3ZESE1iOXZwdmxmQXdBY3NLOF9QS0NjUDl1TC1tZ2pjNUJTbVBISHNuZEtRZVR1VEZfMkl4NnRVOGlmbWg4c3RxeVF4anpFTUpZZWo0U244UnFiMy1Md0wzYV9lTHZHWEREdUw4VWFQMDB3a2JSMThzNERfdHlBUTJmakFka3pKRlpfcEFRNTBDTm9M?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-11-16T13:48:00+00:00",
+      "score": 53.71,
+      "corroborating_sources": [
+        "Infobae"
       ],
       "signals": {
         "source_count": 1,
@@ -458,7 +459,16 @@
   ],
   "source_status": {
     "configured": 10,
-    "successful": 10,
-    "errors": []
+    "successful": 8,
+    "errors": [
+      {
+        "feed": "Folha de S.Paulo",
+        "error": "HTTPError"
+      },
+      {
+        "feed": "Poder360",
+        "error": "HTTPError"
+      }
+    ]
   }
 }
