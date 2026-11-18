@@ -1,17 +1,107 @@
 {
-  "generated_at": "2026-11-17T23:31:39.373346+00:00",
-  "next_update_expected_at": "2026-11-18T03:31:39.373346+00:00",
+  "generated_at": "2026-11-18T07:36:18.145499+00:00",
+  "next_update_expected_at": "2026-11-18T11:36:18.145499+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "7d9f2a559b599fe0",
+      "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVdBZWdQNDliVmVCcXVUZnU1SFMtM3pYcllDRDhsbkg1NzA4eTlWSVdCU1hyNXJxT21iaDRLWEJYVWtwVDVNbHhIVFhqTlR4U25BVUxRd2V6eHllTEpJX3cwSnI4TG9lNHZTazRuVE5GaGZJWFZvVnk1RWNUVjcwNW4tSFlxOHQ4YVpjZktZY2FEY2p2eDA4LTUtcTRUV3lZZ21ZQ0d6ZjV0RmJUaEh6YjJOaFZDaG9jVUpsekh1YWdwVFN1Y0JDMndwakxqcUJKWmZCXy1qc29qMXhsaGVzNmd2Zw?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-18T07:22:39+00:00",
+      "score": 75.19,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "25512bad8a67a2d4",
+      "title": "Opinião - Políticas e Justiça: A concorrência desleal pelo tempo de adolescentes - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0xoVS0yTXpIWlZ0eEphcEVISE1Za3JqX0xxWkVidDdFZGhxWl9qR3BSdzgwYzNOUDJ2Q0Q5SUtkYllJc3J1S09sejh4VTBPbjExdnNCWm9CSkQyd3lpbnQxMlZIMHgybTkxeUdBek1jOEZTb1B3N2JaWTRnRk5pbWZSVHFUWHB4UENBLXdQTEtkTjVqQzZnSWlSM1RRUnk5cjRJdVJlRmtPRGEyTUpHNHliS3F1RHQ0X3Fz?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-18T07:00:00+00:00",
+      "score": 69.73,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9d88734364ab69f0",
+      "title": "Tarcísio avalia manter delegado Nico na Segurança Pública, e PM vê riscos à implementação de PEC - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWktmdW9pU19TSmhwVm9YTzQ5dEhldlVGdzljajFLS0JTWFpuc3A2VWdLbmxpdGxNbkUzNkZtT2ttVTBSVVRaaGZvbWVxZ2IwYk9fRDRia0dyYVFtWE9ZdGVraktXUkFlbE0yMU5DN1ZTMmRrU19wWi1kU3c1TzlycmlCTnhZaGxmc3N6bnpRNFRHZmxqTV9wZ2R5bGpMMWoxYXRIcU0tSlZJN1loLW1DMG5Qb01Ea01NeTJ6Q2hlWThwMXBQV05RNGFwZHhRUXRpdHJDekJGTEFrSUJ4WkE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-18T07:00:00+00:00",
+      "score": 69.73,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8dce003f19d7f1a4",
+      "title": "OPINION | The Trump-Xi-Putin Trilateral: The return of great-power politics? - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWJFZ1dBQzVYc1Foc2s3QmV5S253MTF1MGw3dzN3TkF5RmJvakVPOWNRSjB5ZFhvajc4NFp2MnM3Y1dwTDJPTVR1NEFBWl9jWkhXQnlTYjZ1ckc3cVFtREVwRW1YRE9DTGV5VWFVQzVJTzVnY2xVampfbTBwUkxxci1KNTZmSjFmelhWZFZrNFJSRjlzS09kU3h4Q1RkTjBBVGtkb2RkUGY0MUtranBJR3FiRmNxQTJJTFBxQtIBwgFBVV95cUxNb29IS3p3U0FQRHRVNmd6eFFXSWQtaE5vNUE3UFdrM2psNVJJcDhWNVdGZ2R5NnJweVVjdmlYSThucU05SWJNN3FfRVRpZEY0Mm9WTUtWV3FUSndvc2dpU2xkYl9WSXd3eER4U0UyT3hFOFkwQ2dacmRfaUJlaXZCRjRHaTZWbFh1ZzVCRHFMU2d6bGFqdU02LS1qbkxoYVZRN3AtMHZKN1NzZEpTOUJVdVZIM09aXy1CVkMyNzRpbDBadw?oc=5",
+      "source": "Moneycontrol.com",
+      "published_at": "2026-11-18T02:27:13+00:00",
+      "score": 69.48,
+      "corroborating_sources": [
+        "Moneycontrol.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7d1b7065be3d867d",
+      "title": "Trump, Xi y Putin se sientan a negociar el futuro del mundo con Europa fuera de la mesa - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQjJwWWxzcV9WazRfRWMzTEZIRlVYTG9oNUc1MXdJYjh4MWZZMm5xV1JqcnN3RFRTNmREeDkwMEVpNGV4ZXY3MXNZQkNwOVNSYzZHWlZwWUs0ZHdRdDZPTm93bTlvaFNZQ3ZsYTJ1dFR1amFaQUpqeGd6MEpvRzUzTWVlWUNaa3g3TXRXM2FRTE02LWlhSTFNMFBMLWF6VG1VcmNVdXl3R0NsVVJPTFhvYzZlZDRFWFo3cFgybNIBwgFBVV95cUxOZklodm5rb0RzZUlpMHZJR0RxbnFjaGw2bWJDT01uRE5kdlByOXF1V3BLZDA0ZDVxNE95QUNQeEZwX21FbV94eU5wZkVvYnhaTWx2ZG03d1RaeWZDVHpNWmlQMTZCQnA4NThXeFJKdkJoNlJSLXRyMFlHTWo5RHc2Mnl5LTd3U25sVXJsOElzOERUMkNJbm9iX3dOUzIxY0dCWW1QSGY4TWJGdTRCTUw5QzJIR3MwUXFXalR3V3hYVU15QQ?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-11-18T06:49:16+00:00",
+      "score": 66.51,
+      "corroborating_sources": [
+        "Elplural.com"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ad502ab2ba827ac2",
+      "title": "La soberanía latinoamericana frente al regreso de la fuerza - Nueva Sociedad | Democracia y política en América Latina",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnQ4b2RQMDFpZTg5cVhyVVhQX2VKRlVBTi1lMTlacE1tbFpQUVRMRllCbC1Ebi1FMGJLYlhBcE9CbmExcURMWG1pZkF6YTB0cVdIYklWODBGZzNqSEU3RzVmUU9LcU9WQlhlY1p6SG9SaHc3VlI4cnh0azNnYUlXeWl6bS00QW5kNDF5UVFZSQ?oc=5",
+      "source": "Nueva Sociedad | Democracia y política en América Latina",
+      "published_at": "2026-11-17T13:15:37+00:00",
+      "score": 65.51,
+      "corroborating_sources": [
+        "Nueva Sociedad | Democracia y política en América Latina"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "46073def06839144",
       "title": "La estrategia ártica de la UE necesita un pilar tecnológico - Política Exterior",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHNBYkJYZFJnUFI5cnF0SVAzeE1CQ0NkYVJKYlFEX0lEUDJLT054aGwwVW1YUU8tZjZaZ0F0TGNBODlNcDEtQnFseHpfR29VZk4xTGhWa1NRVHQ5SnNfcXpTR0tWa3dweDU4aWVzZHFjTTZiRE9VQlNKcVBRMFlubFhjMVUwN090UXptUFpQTXdKUXpCRkFacw?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-11-17T22:28:07+00:00",
-      "score": 74.17,
+      "score": 65.39,
       "corroborating_sources": [
         "Política Exterior"
       ],
@@ -26,9 +116,24 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnNSbUVmZ25EenU2bE5ZZE1sSzVpb3J4TEQxcXNEbFFPZVFjcGFtcG16SWxyS1NxYUhpNkxTZXVnZ0R3dUdfTmw1NkJhRldJTVp4SzdOUjVhQnVPTms2aVRPdWE0d1IwaGVyRGc2Z2tIMEpfMVBLTG5XUVo0TlRqMnp3RWszd3l2UVQzNVJxZTBJMmxQYVBwTGhGbGpZQmVRdGlyOUhZS3d3Q3FFWW5JdzNYbDVRd2tUSG5DSGJLZ1lldVJaaXBqWXZNMFh4b2FpZkRB0gHYAUFVX3lxTE1xZVBuY1BDa1NPNktXTjZDREFmVzFac1lRWDlXYmNfVFRDRGxDVDhXMy1jdURnV0NRQ0JEQ2VOVHBuX1p1UnJ6VUdpTUJpamI2dHdFYUhzVllzVl84SmQ5X2wzUzA2ZDhBZUlBTmdJRGlLbmFpakN5ZDlIZmlzUG1wRHd6aVZMYUNoaFBsVkx5V2QwSnVveWdPT0l3Mkd2WVpBM0RrV2hzQkszT3hBWVJBY01FMWZkcFhDVnlobFYxeTBXUVhVdFU4X08xaEVBNG82dWYxaS1UUg?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-17T18:14:00+00:00",
-      "score": 72.32,
+      "score": 64.52,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8e978f0a8773e1bf",
+      "title": "The World Ahead 2027: What to Expect? The Economist Predicts Major Shifts in Global Politics, AI, Iran War, Economy, Climate, Healthcare, Space Exploration & More - The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTC0zb1ZrbzFNR0Z5bEJQcHdjYmZnQ0JJUzFES2tpeURoMkJJVlJHZkYwem0xMVdfT2ZNOHdSTXJ6bHprY1M5MWtSSEF4bzRRaGF3d3JuazRfYlp1VWczdDlXSmtDQmVaa3BZTTJUY1JrYUJNeG1WT3hkSjlITGFnZmR6c2JjU0JONWdnMXpwbU5ZemR2S0JZd2xEWGJmcGlLcUtycW85RktXMDVPbkhjeFoxVWpvR0htLVJOS3Rab0RDeGVQNGJydEQ4U29KZld5enlLZWU0emM2VVdOX05DRW80SXIxa05wcjhYSV9GdmhueWdNXzg4d0R3aUxJSnFJUjRpSGh4cUw1bGZJNE4tb1B6NzFRYm9oNnRUSV8yTGswdjDSAagCQVVfeXFMTk84WnFYX3l2U1FydDhFSEVvUERqeUZsUzlIamNqZHhlY09vSW1wSnE4VE9pSFB4eU5JZ3FsNFI3YkVNbll4dHdKWEhvSExlUC1McXVzTHpzSURpaXgtM1dyVW0yNWZGY1FJNlZKZGRQQkZwbGtTNlkwYW10OTR4aVQxRzlseFB3VWMxanNUQkM1WTZKNlo1MS0tVkpadUtuQXcxRnNrdXIzUkdfYnhObGlfTm1zVEkzLW1uY1o1V2hzTWhwU2RXaWlxOWVDWlpmV1A0dEdXSmluamJISW82N0pKb24zRlFpUmp2SkRrN1JNMGFNTmM0SXpPMHJaSWJ0UWk2SkpoZTJPNmt3Zkc3N29hR1cyeU5UNDllU2QzUnpfa2lBV2RJNkg?oc=5",
+      "source": "The Sunday Guardian",
+      "published_at": "2026-11-17T11:48:46+00:00",
+      "score": 64.44,
+      "corroborating_sources": [
+        "The Sunday Guardian"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakVjcXZvdE9qSENldXRPb0NfMEtRaV9lejRpM2hOUnZuelBmQkEzQ2dITXJrS084ejlnSnl6UWxFbFNkTGlKcFc2ZGhKRDR1U1BzUGJjZmhsM04yYlptLUc0Z0dEMlAxTUU0Sm91VW44b21DcTlLRzVkTGRzUnM5Z0RYVUEwTEU0QTNhZHl6eEpldnlCb1hsR2t1Nmw5QjTSAaQBQVVfeXFMTlFTemtWZE53cnFqMU1BSWRBVC1EWF85c2ctOHlUVG9OWXF3TDFieFBIdmF1SUVicnh1eVZRYk5lUVgtVkhsNzRLc3Y4OEhGMFp2R0o1Q3AxVUlNX2pCMng1RmFDQTloY2xLNUVfX2pTWE56ZE5Uejc4czNzOHlLWElDTlp4a3dpa05pSGFOZTJZbU83WFdHM3dZY2F3Nm5XYmRKcm4?oc=5",
       "source": "Imagen Radio",
       "published_at": "2026-11-17T20:54:04+00:00",
-      "score": 72.31,
+      "score": 63.9,
       "corroborating_sources": [
         "Imagen Radio"
       ],
@@ -51,14 +156,14 @@
       }
     },
     {
-      "id": "ad502ab2ba827ac2",
-      "title": "La soberanía latinoamericana frente al regreso de la fuerza - Nueva Sociedad | Democracia y política en América Latina",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnQ4b2RQMDFpZTg5cVhyVVhQX2VKRlVBTi1lMTlacE1tbFpQUVRMRllCbC1Ebi1FMGJLYlhBcE9CbmExcURMWG1pZkF6YTB0cVdIYklWODBGZzNqSEU3RzVmUU9LcU9WQlhlY1p6SG9SaHc3VlI4cnh0azNnYUlXeWl6bS00QW5kNDF5UVFZSQ?oc=5",
-      "source": "Nueva Sociedad | Democracia y política en América Latina",
-      "published_at": "2026-11-17T13:15:37+00:00",
-      "score": 72.31,
+      "id": "dafb6bf858501222",
+      "title": "Restrição de compra de chips pelo Brasil não inviabiliza data centers, mas atrapalha - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX3BzU1d6a0M3MmNsRHhZWFlXS3c3TlVGRTNwYTFXdjEyM1ZSZlg4Sm5tT3VyM0s2WDM5MDY5SDBGMnB1eTAwaEk3QVlITGM2dmtfMEpleHhGc25UdXZ0RTQxbi0tdTVubmZCOElBUEt5aXpyTHBvMDNPVWc2M0JEZFQ5X1U3NFlJN3RmNHMtb1hhdDQ1dFlCbV82Z2JRbW5BclBRNnNrdWFYX1NxckoyZ1RlbnV5V3djU2xFOUszYVktWjNaR0xkUjh5Si16M0NKaFHSAdcBQVVfeXFMTmR1Ul9Nd0hpMTZoMC1ucG5OeXhCWU9WUk9TMmVmQmhremF1UHQxejFFZlZqQ0VzSXZYSVpVak9RRUEtYXJQNzRZSmVtVmNKTW11WVB3UzlNRy1mUHpXbVJ2T0tZd1JUdEpfQ2JVRzZXR09SZ1puMVpVV2NIdG03M3YwakRtQ1hfRElwajBkMVoxTllZeFB4ZmwwMGFGTmdnZUUxM29tdjFISm1BaUdIRXZDYkdLcjlLOXE5RnA0VmRqMktXMkZCOElMdS1VeFR1Wmt0QlNSRUk?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-18T00:59:00+00:00",
+      "score": 62.92,
       "corroborating_sources": [
-        "Nueva Sociedad | Democracia y política en América Latina"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -66,14 +171,29 @@
       }
     },
     {
-      "id": "c1380631d33a1259",
-      "title": "Iran War: JD Vance says there is \"no daylight\" between him and Trump on Middle East conflict - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWF1T1RRYTRsMURrYTJfWDBZZEVVXy1qdUZ1TzRQQ1JGaDNaRnRIOHlkaVpFNDJya3p2ZnNidjljMGFFLTY0NXhJVVR5MjBXaGoyX3VZSEEwMDhlYnF1cGpKS0FNWlJid3UwNURWTUVDOXhqLVhqNWxJN0dsdGxGYjFqS1FTb2ExM0FVVTY0ZjI3NGpacmlGeU1FeVAxNXkxWU1lckxiWWhBalVadWZENEhoUk94eFlSNkxfdFBwOTB3NlcxTTVxMEZoUWE3TzJtNHc?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-17T16:46:24+00:00",
-      "score": 67.78,
+      "id": "ef5b8294bfe5275c",
+      "title": "Lula troca Cuba e Venezuela pelo imperialismo espanhol - Diário Causa Operária",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzcyZ2tHZEQ2bzNUMG1NUWk2UnIxdkd4dkZVbnpFLUtWOURXWk1CMFZ1Y1J1V0hPa0FuU3lZVUp6dzhuNWhqUzBBS2FnbkdVMzUzR0Y4aVFJc1BGRFpPUlZsS09RWFRnZEpGUVdaaVFfNGFmVDJsUzZUTlFkVUZtNUJiUjZvQS1xakVYWTNmeElpZkk?oc=5",
+      "source": "Diário Causa Operária",
+      "published_at": "2026-11-18T03:00:37+00:00",
+      "score": 62.08,
       "corroborating_sources": [
-        "Plataforma Media"
+        "Diário Causa Operária"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "5ca05b653ab30fd6",
+      "title": "🔴🔵 #ElInformativoDeExitosa📺📺 | La presidenta Keiko Fujimori continúa llevando a cabo una serie de reuniones del más alto nivel en el continente asiático, a fin de generar mayores inversiones para el Perú. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 3 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUJQUkowYzBDTlNQMm95d2NxZzFzUzltUEdzSkdqYXhEMThfMEtPOHBtMnNienRRYlNpV0pBZHdWVWttMU9Kc3FQRnl3eWJaaXdHWHhYbVRzcFVMVDd4b3h2S1MwUlE1YlBzU2ozYkJuYzQzVnI4dFJGMWktSWIzMFV0ZEc4WXF3dElxODRlemxGQ3BfREpybi1qNHhyQUY3d2lheVYwZ0dFaVVqc2VNNTJjNXRMbTMzaUhFb3pWdldpYmFqclJVVXJjNVduYXkyWWZvZXFmRmlmVTBQcUVETkVUZUc?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-18T02:50:33+00:00",
+      "score": 61.9,
+      "corroborating_sources": [
+        "Facebook"
       ],
       "signals": {
         "source_count": 1,
@@ -86,24 +206,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTmI3VXFqZWtDbnJ4a2dGYkh2X2ZybHVwV1J2Ui1MTVMzc05tX0x1VUJnbnlUTjJua2FlY0dKR0RsbTFtNDNfbEpjaWkxVEhOS3g1QkR3eW9GMzU4MnBXSXBadlFhT3JETWlvNkYwck5OQ0NjQTVLZVZXc1I3ZFRGR0tUZWpzLVF5cjhmbElsdjQtdDZPZUU1WkxqY1E3aEZRa2NfajY4YjlyVEFRQUhlT2ppTThtTmVfYUJ2c0h1SzBGZzdNX18yeUlYU19ZaG5rRG5VTzEzWExWSzNyTm5xNHY1UGJGRWFSS2taeXVLS3BIdHJtcURF?oc=5",
       "source": "Noticia Zavaleta",
       "published_at": "2026-11-17T16:33:47+00:00",
-      "score": 67.56,
+      "score": 60.11,
       "corroborating_sources": [
         "Noticia Zavaleta"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "116ad6f1c6a7184f",
-      "title": "La APEC pone a prueba la estrategia internacional de Trump: ¿puede Estados Unidos recuperar su liderazgo mundial? - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObG82aV85SUFwVWMwamxLUnRibzAwalc5VHdyc21xcVdCQmJjaXpENXFYVW9mZnRZcnBrUmFDelRBV2JTNlZXWkhOSU5hOXZhalVkeFBveW5UWGNsQ0lzNG1jV1hzb2dBQXFSUWJTUzh3TzhPMzRyWFd3VDlkOV9WSnpHbE5WNHh1MUdJNFpOMVVJd3VYREZPWnJYZDRCRTZsc1d0Tlo3YmlZeVlGbWF2V01Lb19TUFNYanBQMi1DUXdRVXhkTUxud0lycDdrRkdvR2RRVnd3cFFLMTVvYkdF?oc=5",
-      "source": "Universidad de Chile",
-      "published_at": "2026-11-17T22:22:43+00:00",
-      "score": 66.06,
-      "corroborating_sources": [
-        "Universidad de Chile"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlFydEM4cVFkOWNYbHEtUUhWNGxmVWRfOEMzRnh4SFlCYUV5N1Jaa2tkdWthSDZvVGpZUkZoWkI4T1RScWZXX2NENVozSy0zbk8wbml3SmVJQzBzcDZ4eTB5OV9RWkpTem1nUk5NZE5aaUxnVjkzRlBwdWgwLXRfd19Jd1ByZzJkcWhaSmN0RWtFQzdkNjlBSkhnLUNwNWFYYUZRUExZcGw0OVZQTzZkVUhybWFzLUwyZGRTOWlhQjVUbTFSeXI4SGFJUFg0RlUzNlE?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-17T11:00:00+00:00",
-      "score": 65.25,
+      "score": 58.87,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -131,7 +236,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1plWVR0ZDhLREwyaHBFTkoyRldnV3E2bUJyU3FLVmdCVzdPMjYtdU1OTzBBRkp5Q0dlcTRzcjNWbUN0bVpmOEFDTmU3VTd6emR4QVIxUjF5OVEtQkV1elpoZkhPMXRrdU1YT180bVVHV0s5T19LUWh1c05sV1haLXJBRUF2MTdGU09SMEpEanB5N3ZSRVZWeHdwSjFJTDh1clRLS25XcEJoYnBNeW1GakJR?oc=5",
       "source": "Vietnam.vn",
       "published_at": "2026-11-17T14:05:06+00:00",
-      "score": 65.09,
+      "score": 58.14,
       "corroborating_sources": [
         "Vietnam.vn"
       ],
@@ -146,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWQ21LWVBCeWtNYldTbkVsTG9ocWQ1VjFuS2R1VkpNdnM4SDUzS3plb3k3LUxETHJqU2hJYzFyYjJROUFwNkJhOWdKZzRwN0U2aWg4aHJpMHg5aXNaM3lJQXBVbHVCNWwxNDB2cU55RnMwVmlSNVdLZFlQc3hOZw?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-17T13:52:19+00:00",
-      "score": 64.89,
+      "score": 57.97,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -156,14 +261,14 @@
       }
     },
     {
-      "id": "a58945d5701c09c5",
-      "title": "Pope says he hopes for less war after US midterm elections - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1dlS0pOTy1fclBjNFc5bHJxaWRMTkJCWG1lSXdRTmU3czM3V3Vya0dzeTVDNThET0xRVTVleXZmaG01bkJUYVVNc1ZfaVBYV0dzRjc5M2VQbUVtdUhIRFJjbVFYQU54NVY4dy1LWXNYaGEyYk1BbEtKMmlURldvTGE3dE1KalJnRl83blJzdjBjU2lXcTZBWmpVQndwZw?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-17T13:28:05+00:00",
-      "score": 64.51,
+      "id": "116ad6f1c6a7184f",
+      "title": "La APEC pone a prueba la estrategia internacional de Trump: ¿puede Estados Unidos recuperar su liderazgo mundial? - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObG82aV85SUFwVWMwamxLUnRibzAwalc5VHdyc21xcVdCQmJjaXpENXFYVW9mZnRZcnBrUmFDelRBV2JTNlZXWkhOSU5hOXZhalVkeFBveW5UWGNsQ0lzNG1jV1hzb2dBQXFSUWJTUzh3TzhPMzRyWFd3VDlkOV9WSnpHbE5WNHh1MUdJNFpOMVVJd3VYREZPWnJYZDRCRTZsc1d0Tlo3YmlZeVlGbWF2V01Lb19TUFNYanBQMi1DUXdRVXhkTUxud0lycDdrRkdvR2RRVnd3cFFLMTVvYkdF?oc=5",
+      "source": "Universidad de Chile",
+      "published_at": "2026-11-17T22:23:51+00:00",
+      "score": 57.32,
       "corroborating_sources": [
-        "Plataforma Media"
+        "Universidad de Chile"
       ],
       "signals": {
         "source_count": 1,
@@ -171,14 +276,14 @@
       }
     },
     {
-      "id": "226f548ed3122f59",
-      "title": "Las 10 claves de la portada de The Economist para 2027 - elsalvador.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTl6Qm1ibUxzUHJpZ085YzVaS3RXb25JUXpXMzVuSTlldUhsSHlBRmlNbmJrTHk2RE8wNFBNXzYzbmJxSS1wY0x0MUV4cGNsVU5NLW5tQUpBLVpwRER2bVdSSG0yT2Y4TDFMaG5oUzl4NU96bGt0a2NPTjdfSmVNY1B4N2plenBXZmRxenNGM3BXcU9RREo0MmhDdk4xdw?oc=5",
-      "source": "elsalvador.com",
-      "published_at": "2026-11-17T20:51:21+00:00",
-      "score": 64.26,
+      "id": "14d241847a02d861",
+      "title": "Gazeta Agora: Alcolumbre e Motta pressionam Moraes sobre Lei da Dosimetria - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjVoSkZXcjk3SjJjdXlqaXVzd2Q2R3RaSk9tTGZHRFdBX3FLcVhsaHIxVlFpa0RCa0RtUE5vT0NTNXNyZGhEN0pwZHM3SXlZNW9EMVBmRDBTZXNLOHN1bzN2NWtCbXNXUVoyZUVwQjdXOF94cXNRbU15U05NR3N6Zy1xQzl4M0VQWm1VUHlndnN4V2NJLUZ6SG5mYTZwbnlBNGdXYWpMZ0ZwUm5qZmxqY3VhRVJQUWxRX2tV?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-17T19:06:00+00:00",
+      "score": 57.27,
       "corroborating_sources": [
-        "elsalvador.com"
+        "Gazeta do Povo"
       ],
       "signals": {
         "source_count": 1,
@@ -186,14 +291,14 @@
       }
     },
     {
-      "id": "ccd3d868050e973f",
-      "title": "In Mexico, the Biggest Threat to Morena’s Grip on Power Is Itself - World Politics Review",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRDJ6QzV4MlItY1BKdnBTbkFCTEV2TXlmejdQUnBxZ0F2M0dXTy1LV2pxWFQzMTBON013OHpwNTBHejc1XzVBc2xvdVczTGZrTXNEQ05YNGZ0ajFZalB0dDhVYkxlZDU4Z1NEOGdTTUJVcnFrdlVOY2h0bTByOGJRcHY5cw?oc=5",
-      "source": "World Politics Review",
-      "published_at": "2026-11-17T13:00:00+00:00",
-      "score": 64.07,
+      "id": "70e3b4d6fcb4dea1",
+      "title": "Presentan en San Lázaro el libro “Logros y retos a 25 años del Acuerdo Global México-Unión Europea” - News Hidalgo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaFJiLURVM3dRRjlHZVA0dGFlVXBieVVtX05DNXRGUFduWDlkdGotbEVBck9fLXN5T0EtZUxlSVUwYVI5SFZIMVI2X2ZSRkFQSV9QTEpBNk1UaXE5bERGOFYzTlVRQWE1OFhYMHIxMXZ2V2I1c0JNMXlFclBDZzhnTkJUTWlfZHdINEZobWgxNzNuZEN3RFlNVWpkWWFEZTczQzQtRjdfRk5nRkhyak1WRzFiNnU0MFo5ajFSaGhNRGV3Yk43Q1ZLOQ?oc=5",
+      "source": "News Hidalgo",
+      "published_at": "2026-11-17T22:00:12+00:00",
+      "score": 56.94,
       "corroborating_sources": [
-        "World Politics Review"
+        "News Hidalgo"
       ],
       "signals": {
         "source_count": 1,
@@ -206,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMDdLejREbUd5ekptcGhBZkVRY0dfcDFQTjNyRTlTU3RSMkMxdnlnTFVObTBCQjNmZW16S1h2VWtFUEl0SzV6SjhQd3RzTjlYNWN6NXo3ZDgtcDRlTGVMVW5vcXB3YnQ1VHdDVXZzVlZiWlBGd2JNREtsVm82LXpfN3RFNklUdnF2QnoxM3hUWnl0YU1ocHlaLTRGbmREZm1nUldhb09PQUFNSjQ3MU4tbzVWYTRtRlp4Uk9DSF9ldUZPSkpqYjdFUl94SmhHbG5tZ280?oc=5",
       "source": "Punto Capital Noticias",
       "published_at": "2026-11-17T12:22:24+00:00",
-      "score": 63.49,
+      "score": 56.85,
       "corroborating_sources": [
         "Punto Capital Noticias"
       ],
@@ -221,9 +326,24 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUC1iM3ZRbkZxWlFzeExhZENWb0hEb3lDc3NSUU9YSDV6Q2JocUNLWV8wV3Z0b2NzempfLXhuUHFYemppaGFVNzBjaHBxTWctRTE3WEhaQ1hzak1adF8zN2ltN2NCc2ROa0pxSktaejM4ZWwydE05dWM5RXBxajRVSThBS0g4UmF0YjdjMGxraEF4ZDZYTUpJTTJ2VGtRNnJjWTI2NG9mYmZBM3hRdEdfLW1nYmlEQ2JsdkhNMmZ3RV9nT2xmSGc?oc=5",
       "source": "En Agenda",
       "published_at": "2026-11-17T12:12:55+00:00",
-      "score": 63.34,
+      "score": 56.74,
       "corroborating_sources": [
         "En Agenda"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8fb5ecd6b8a6b163",
+      "title": "10 claves para entender la portada de The Economist 2027 - elsalvador.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTl6Qm1ibUxzUHJpZ085YzVaS3RXb25JUXpXMzVuSTlldUhsSHlBRmlNbmJrTHk2RE8wNFBNXzYzbmJxSS1wY0x0MUV4cGNsVU5NLW5tQUpBLVpwRER2bVdSSG0yT2Y4TDFMaG5oUzl4NU96bGt0a2NPTjdfSmVNY1B4N2plenBXZmRxenNGM3BXcU9RREo0MmhDdk4xdw?oc=5",
+      "source": "elsalvador.com",
+      "published_at": "2026-11-17T20:51:21+00:00",
+      "score": 55.86,
+      "corroborating_sources": [
+        "elsalvador.com"
       ],
       "signals": {
         "source_count": 1,
@@ -236,39 +356,9 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOamJwUHhBbmRlYURoTmZLTUlMNnAzbjVsTlFOOFNjTWVSbUhkbTN6N1NwSHdNeENzdlJ3X0Y0T3lxdDhobUlSSmZ3Y3ljSV9td0VwNTVJUHhEUXk3dXRVdmNNODR0d1VQY1FNQy11dmgzelpEWFI3OHVmbUJnVlpsc0Jla0RQQmlFV1M0ZkdDeGkwVkkxOGpLdA?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-11-17T16:19:47+00:00",
-      "score": 62.32,
+      "score": 54.92,
       "corroborating_sources": [
         "Brasil Paralelo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6dc1adcd77f35c75",
-      "title": "Kara Frederick es nominada embajadora de EE. UU. en Bolivia - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVS1TWHJ1aXNNdC1VdTJmMXZaVEpWaHVXb29lbXY3UUd3S2Rvcmk2NEdPangxOFVXeDRvMjBaYTlnQWlndENvWVFRbmVMd1l4eTlyNkhlbV9QRGV4WXI0RmlzZVNQVTU5WVE0T2NWN01VekQwdFh1dG9rVDMza1JYc2dkSjRjN2wzOTB0Zmlob2tqM1QyRlBubTNicHAwQzkt?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-11-17T18:41:37+00:00",
-      "score": 61.82,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a56bfa62da0f9c8e",
-      "title": "Senador vê interferência de Andrei contra delegados e tentativa de acobertamento na PF - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzB4c21NQjhfS3hKRzI3bmpoUHVnU1dkV3E4aXp2c3g2SW9ocjN0LWlhYUY2XzgxQkxVR3d1SVBIYmVJTVVTWEZCcFFKcGRPZTR0Nkd5Z19TTm81aHlSYzJNd2ZqTDA3VjNmRFNjT2doSVExdGNwSEtaSHpJbTZEY0RRZnlZQnJraUtRbHd1b0ZhQnZ6UVFoLUtCMFdWektqSm10bk5yN0puUmtnQ1FXcnBCTDV1aVVZVXhtZ2NRbXJMckNYTjVZMmFhN0FaSFZSckE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-17T15:30:00+00:00",
-      "score": 61.48,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -281,9 +371,54 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclExSV9OWDJOdWNoMmJ6YldFLWh6TmNaUE9nVlNvajBvcTh6ZFU5ZEt0elY4T0l6dUh1V0pnRWp3c1d4VEhMY2M0dlh1alJBWjc0WE4zczA4SXhiWVJacFNRZnIzekdHWVRfQXhxbVotSWVYTy05MUs3SHhQdEVobzJZQlVRRF92eWdNd08yREpzb2VvUGZCT0VubXpJM1JuV0FNTkxoMjFVVnVf?oc=5",
       "source": "Página|12",
       "published_at": "2026-11-17T09:00:00+00:00",
-      "score": 60.53,
+      "score": 54.49,
       "corroborating_sources": [
         "Página|12"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a56bfa62da0f9c8e",
+      "title": "Senador vê interferência de Andrei contra delegados e tentativa de acobertamento na PF - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzB4c21NQjhfS3hKRzI3bmpoUHVnU1dkV3E4aXp2c3g2SW9ocjN0LWlhYUY2XzgxQkxVR3d1SVBIYmVJTVVTWEZCcFFKcGRPZTR0Nkd5Z19TTm81aHlSYzJNd2ZqTDA3VjNmRFNjT2doSVExdGNwSEtaSHpJbTZEY0RRZnlZQnJraUtRbHd1b0ZhQnZ6UVFoLUtCMFdWektqSm10bk5yN0puUmtnQ1FXcnBCTDV1aVVZVXhtZ2NRbXJMckNYTjVZMmFhN0FaSFZSckE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-17T15:30:00+00:00",
+      "score": 54.25,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6dc1adcd77f35c75",
+      "title": "Kara Frederick es nominada embajadora de EE. UU. en Bolivia - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVS1TWHJ1aXNNdC1VdTJmMXZaVEpWaHVXb29lbXY3UUd3S2Rvcmk2NEdPangxOFVXeDRvMjBaYTlnQWlndENvWVFRbmVMd1l4eTlyNkhlbV9QRGV4WXI0RmlzZVNQVTU5WVE0T2NWN01VekQwdFh1dG9rVDMza1JYc2dkSjRjN2wzOTB0Zmlob2tqM1QyRlBubTNicHAwQzkt?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-17T18:42:03+00:00",
+      "score": 53.92,
+      "corroborating_sources": [
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3cc9463072837ea5",
+      "title": "Cancillería afianza la proyección internacional con avances comerciales y políticos - CANCILLERIA :: BOLIVIA",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14OEZxeHB2VktoNlp0WFluVFdTWFlLQ29oeDFUelZxclFIYXFfd0VqQWs2RkgxYXplUXkzR1M3Y0JFZXA4MDVuYXRkT053YnBBZUlBZUViclBFU2pm?oc=5",
+      "source": "CANCILLERIA :: BOLIVIA",
+      "published_at": "2026-11-17T18:04:16+00:00",
+      "score": 53.38,
+      "corroborating_sources": [
+        "CANCILLERIA :: BOLIVIA"
       ],
       "signals": {
         "source_count": 1,
@@ -296,39 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUg3UHVyNEpwVjVpRV96RDlnUURIS3ozaG1KUFRNOG5uRmNYT0tSc1E3VTFPR3VCVmNxcjlDQXdpX2Y4NzNQMDVPMjlQclN0a1NZMnJCSWVWTWxyVXh0UlpWSFJHcjM3WjdfRWNWSEZENXJnUWlXNFJNejRFdkoxaUl6cUhTdW5OUkxNSzJ4bDdpYm95cXU1dy1MVmxtbEtCb2tZQ0xYSXJmVWJW?oc=5",
       "source": "U.S. News & World Report",
       "published_at": "2026-11-17T17:23:41+00:00",
-      "score": 60.43,
+      "score": 52.8,
       "corroborating_sources": [
         "U.S. News & World Report"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8b7e80a264a582a7",
-      "title": "Um ano após prisão de Vorcaro, investigações contra ministros do STF não avançam - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVlEQmNwalZ3TlNoZGlNWEJMZWpXcW9QQ3F4SkFPYWF3d3UtWTFtTENnS0NXTkduRmNyb2xDdUJwY1p0NTJMS3J0czR1UnRGV19mYmQ2aFlscktOWF9kZGZBZmtCbDJxMTNaWG5mdHA1VGVCTGcyN0hrSGFWMVk4VWVHQU1zQ0l2WUx3MTNUcm5VeFRZR21oblZkbm42SUQ5dmxjcVVMMjNXdEh5b3Vubl9SNENra0HSAbwBQVVfeXFMTUZYd1JTcTg1T0dJeFhkNVI5T2g0VjdEQl9pRzZwVWtGcmRnWmJ1c0ZJQ0lwd1c5cG9YOHhSSk9qNHEyUE9Vb1ZTRmpIVUxqSUJPZDFjYk1vMGRHUFZkS0RPZXFvZTRPRnJsZEhvWXNhRzlBdnpibUViNFR6R1c3MXNoaGc1aV9mTk5FLW9SSlp6cVdKV1pXeURiSUZCOGZUbzFtSzhyWVE4WXVma0JCRERGc090aHdXbGhueGY?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-17T12:34:38+00:00",
-      "score": 58.67,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f53110f9ed74ff85",
-      "title": "The ex-spy in from the cold: Putin heads to Trump-Xi summit - RFI",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmpPTEREVnFwV1RSMzFIOGI1eTFHbUZwZnEtYVcxalNSSnNXODdEdmEtbEpWS1JvcHczdVBmSEdxN3hkVHlOVkd3UE5yOGZTYnpST3RPZExpV09nUTNXQjFFRzZSendseGtjWklnZkFESGhmbUxHdEEtWUtNSEJWVUJvb0V1MS1ZbnRHSy1GZGNTVGsyeXA5enB4X3lSS0FTeWROdXRmT2lIam5G?oc=5",
-      "source": "RFI",
-      "published_at": "2026-11-17T15:05:48+00:00",
-      "score": 58.08,
-      "corroborating_sources": [
-        "RFI"
       ],
       "signals": {
         "source_count": 1,
@@ -341,114 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNHQ1cElkanVLUW04SWluMWZ6X3RzRUpFcklINHI1LXNPdTZSUDRUZzNBUWhFRUhjS2JFcFQtWDJtV2VSaWxJV3o3ZThnSHNUdGRvSnJjVGxmVlVOSTZVY0EzMkZSc0RrLWRrZ2NyZHlvVHBqMEFpMXM5OHpDVEZDVENtc0xtOE13cjc0OUNTaXh1cVZCSFA4YXVjUXRLTWtpMHpRUkFyZ1ZTWGU5Y21CVnp6NDR4MHZQZDR4Zk1DM1pLcDVrWDRESHR5a3ZUd25EbXBIZ1RGdGxZV2x3cXk5clNhUTZ0SHd1dUNj?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-17T01:00:00+00:00",
-      "score": 57.54,
+      "score": 52.71,
       "corroborating_sources": [
         "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d751c83ed34925f6",
-      "title": "Semana clave en política internacional - La Región",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDRHYWRzWkEtbmdUOG1FTzZqcjZ3V00yRy1lVm5JblJOa1JEVEsyUDRSSC1ROEdVd2FORm02c2hkbG5YaWM4SWNDUDRrSG1IUGI3YmtMUHMzUzREWm9iZnJ5UWljSVpWVEMtVWhUN0s4X1NuQVZOZkRiRXV4SFFJbExsWmZyWEJCZUxDbDA3THRTYXV6aEE?oc=5",
-      "source": "La Región",
-      "published_at": "2026-11-17T05:10:00+00:00",
-      "score": 57.5,
-      "corroborating_sources": [
-        "La Región"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d6aecf0a56a60f59",
-      "title": "Sáhara Occidental: cuando la influencia política prevalece sobre el derecho internacional - El Salto",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkc5ZW1UYS1wZUNDS1I0Q1ZRZTQ4c2FXTVJ2TjV0QUtJVmNsVXpqbVRsTlpXVUgwbDVXejdDNDJpUXo4ZW9ZaUp3ZzM2a01fdm1TUXpDdTNiOWRwSy1uZnhXSGc4dHVEdkFEbk90NkVkV2d6bFZ2TWRWeFVHTnlldWQ1OE9yWE1LX0tlNGxpYmxNTXhtZnhOaWNDekZxQ21nR0cwMThxZ3JIa2NOSUNjUzBfUVNFNHpoRmpNQndDc3Yzdw?oc=5",
-      "source": "El Salto",
-      "published_at": "2026-11-17T05:00:00+00:00",
-      "score": 57.37,
-      "corroborating_sources": [
-        "El Salto"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "51ba6ac2738822c1",
-      "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies - Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVJZYXRwU1NtVklVaXlhTXgtUGlheHZTSHZDSnZLcGxrcjNPRDctUU5zS1Jnb244ZlQzZW51a0hqMi1TRlcxYUtFZWJjUXV1dUR0Y0RPbzJYZXB2Z2hOcDFWcVVkckNnZXZDUHJ6YzRmUzh1OUxzVkQxS0tsLVJlYlB0R3ZMS0I1azBDVVM4RWZ5NkdYd0VvQm0yT1B5QXVoWDNXN2JfaWtHd04zcEJZdWJUNGpvcDUwN1FiUExHdVlYYTVmZlE4NFMwUnNrR1lvYUpMZWtJWHRGSnRVbV8yVk5IUHh1UU1DQTZKRg?oc=5",
-      "source": "Daily Herald",
-      "published_at": "2026-11-17T13:43:17+00:00",
-      "score": 56.75,
-      "corroborating_sources": [
-        "Daily Herald"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5d9e6339b8d32543",
-      "title": "“Reduzir os juros é a única saída”, diz Lara Resende em novo artigo - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXJtN3ZwUDdrd2FTNlVVQzhiSXdYc0JBWWpFWFdfYk1iNXQyY3lGb0huNTVnLXdQUGFnZ2lJVjRQQUx2bi1EYW52YmFST09QdGZRTno1UDV4ZENVeFkxYjR0TDhjZjFGSXJ0N1VsTWRhMnZvT3pMb2dBQmFMSVJNTmFnWXlkSHlRcFNRRDNHQ2VnR25LRlc2ZHg3aC1YMXJJX0JSa0dJLWRzZHlM?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-17T10:11:45+00:00",
-      "score": 56.55,
-      "corroborating_sources": [
-        "Poder360"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "f7778f1a6a33ee79",
-      "title": "El papa León XIV reveló qué le pidió a Javier Milei en su encuentro: todos los detalles de la charla - Nexofin",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkxJWjE0dEM4dktZNEFKalZRZi1sQnZtYXhGM0Z5Wk83YzVaLXRmMElhdVdPTTVucEdfSXVQQkR2dlBlQnZxWllKeGNGRndBdjNBWnRJMmh4S0lhOHljbk9Oa2RmaDdWUW04MHNPa2FaYUVPbk84UlN3YVN3ZlRYYUJtbDQydkgtOGoweGVtcXExekJnWndXT1dtbl91LWhaZll0RHFTYUxCeF8xdlB2aGR6UkxuWW9EXzFqWTBRc05UV0F0eGpnVThza2ZLSXPSAdQBQVVfeXFMTVd5OURGUF9JY2s5UnNSUkxKenhuSVgxY3FtNy1FbWRFc2NWWEJBOUx0YU1zU0oyWjJyYUxsd2VxbkZidGdjMjhkZ0Z0WVUya3paMlZpYmJ5SXRfSFFzV2NOSzBYMmFERzhMSVRHZXh5LVFvbHk5SXN1NWtSZFM3bnNlOEJGTS1GMlJEcWRVbFlwYlM5cFpqd0ZEYnlNYllzSnhDZ005Q2FpVmw0NFlzRHExa3hjQ1ppVUZDU0Vra2lLdjVSM2ljVTNlU3BZYm82SGhPeHQ?oc=5",
-      "source": "Nexofin",
-      "published_at": "2026-11-17T11:40:01+00:00",
-      "score": 54.85,
-      "corroborating_sources": [
-        "Nexofin"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c59c0aae00bcd286",
-      "title": "Realism: Tragedy, Power and the Refugee Crisis - E-International Relations",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92QV9WdjRKSUtLRmtDNTZoT1dwaWJNNndFSUpPSi1sbkFfWlhfSnA4dmQ4WU5BcUM2cDFMYlNEVEZSRGtjWmJYclNUNmRrT1EyNUNrenU3QnB4RG5XUk1QbFUtWlNKTlRpd0ZKdw?oc=5",
-      "source": "E-International Relations",
-      "published_at": "2026-11-17T11:05:30+00:00",
-      "score": 54.33,
-      "corroborating_sources": [
-        "E-International Relations"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c54d42d5482ff1a7",
-      "title": "Denuncian retrocesos y subordinación en política exterior de Colombia a 100 días de Gobierno - teleSUR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybGZnOU1jV0lDbi0zcXM0ekI3aWlFSzN0TmNIbTBPXzRqR1pOVWc0enQyOHpoak5Od29kZ3YwUUY1cjBNVURsamgxY2Vxd0dpemd1dkNNOWRMRjVuTm5VTTl4clJZMUtZdG5EY1ZxV1hQQ3ZZNHAwYTJqU0Q?oc=5",
-      "source": "teleSUR",
-      "published_at": "2026-11-16T22:33:00+00:00",
-      "score": 52.96,
-      "corroborating_sources": [
-        "teleSUR"
       ],
       "signals": {
         "source_count": 1,
