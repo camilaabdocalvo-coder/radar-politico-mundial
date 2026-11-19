@@ -1,23 +1,127 @@
 {
-  "generated_at": "2026-11-18T17:17:47.660992+00:00",
-  "next_update_expected_at": "2026-11-18T21:17:47.660992+00:00",
+  "generated_at": "2026-11-19T01:53:17.614533+00:00",
+  "next_update_expected_at": "2026-11-19T05:53:17.614533+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
-      "id": "ae021e5dd664cf1a",
-      "title": "Frente Amplio defiende una política internacional basada en la justicia social, la paz y los derechos humanos - La Rioja",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3VYYWdud2xEdFp2X3RDM1pYVHVjamc4bGEzSUJTeHBRcXFtdExqYTFseHM4dlVYOFBacHRBVFBGa3hLVk9EdGRNaVJqRzFTWjg4a0RQZGZPdVlYTjhXYzcyZEkySzdHb2xKNVBTbXFPYWgyMnJZWWdNMUJvNDhpVTFQdTI5MHVnSDZ6YmI4blVIQUVRWnBfTlppUDZXVFlGZTlPSW1UZW5qME90ajdHY3RB0gG3AUFVX3lxTE5HUUdTVGw1b2VmNDloQ011VjZpV0VqSHMxZVZHSjIwc2ZmVVlFQjdXaGNkcXh1TGVFX3NMR3k1d2JLbzhEazY1S0Q3TXViVHBQRWxsSnZFRXFmbDBTRmtoWWFWRjFVcDdwdmQ3aENVUlptTklFelVGYmVaUW9FT1ZPbmlVRURUOUlNY0dWaWRxQVp4SlV1bFpISUhoOUR3TzFtQi10UDFSUExxc2NLbjZBRzFpMGRJOA?oc=5",
-      "source": "La Rioja",
-      "published_at": "2026-11-18T14:58:05+00:00",
-      "score": 79.96,
+      "id": "0adc29892b3b6e82",
+      "title": "Opinião - Martin Wolf: O lado bom e o lado ruim da política climática - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjZpa3hrcDV6cjFlemoySE9GTUFTWTBBb1o4RnNEbERtaFlSelFWblBUY08xTF9qd0ZxbDdQUUFXVjkzd0pxY3IxNk5xM1JYSkJEX2NjLThUTUlwUzN5VHNOMm9Jc01maWRjV3JNQW1GUUJTajRLaWtMVEhwMjF6TjVhbDhHVWxST056SjFQeTVVSTVRMm9lLWxzSEtqb0o3bVFSTEcxeXljRFBIelE?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-18T23:00:00+00:00",
+      "score": 75.01,
       "corroborating_sources": [
-        "Europa Press",
-        "La Rioja"
+        "Folha de S.Paulo"
       ],
       "signals": {
-        "source_count": 2,
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6aca13fa3cbe661b",
+      "title": "Internacional. China llama a Rusia a afianzar alianzas política y militar - Resumen Latinoamericano -",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREVWYnZhNVBpMVhjV2pSOUZLdnBJV09qTTZuczl5Z1ZsbjExQVB5U21OVC12ZTJKMlhUZHNKMGdBZ2JXMVZXd3k1ZUh2TWVlUm9rS0NyVC1mcXBzNzZiZ0lJSGFSanVqMmFfbi1oanBzalRVa1hBSmtkcVhuUWJDU1M3Qnphbk40eGRibkNYOTVhUnRlRkVQc2U1NGZBS3o3dGlQbnJZREQ3LUhqN3BtNFZtSVNXaEpGYkZ6Y05JMXE?oc=5",
+      "source": "Resumen Latinoamericano -",
+      "published_at": "2026-11-18T21:24:40+00:00",
+      "score": 70.21,
+      "corroborating_sources": [
+        "Resumen Latinoamericano -"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0d601c40cb95036a",
+      "title": "Governo volta a avançar sobre big techs. Senado adia votação sobre ajuste - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkhYVEtaWEpzdUw5NkZVUXk1NDVJX1Y2YVl4bFdtRTlaVmo3SGdiUzY5WW1nYU81cVd2amtCYV9BLWd5a1JQYlZySDczd1B1MTY5ekJOZTdxWUdERm51dHF0OFk0S1JlNDhSUFVnUVVOa24zcXR0eWVVdWlFOWZkaUZPajhNU1h0WC1Nc1RhMTFLdw?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "score": 68.86,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "26c498a390b83eda",
+      "title": "Vorcaro tratou de ingressos da F1 para filho de diretor da PF, diz site - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEtmMnh1OXpINm1ZdVAxTTdqWE9tMlFVYklocFloVzFTb3Y2dWFTWHp3QUFkUFJ3dWtvaktPbG1Yc0ItOWRtNkY0M0dPRDZkVEdwQUZudTRyX3FoemFqUVRhbWZGcjdPNTNGS0JzN3V6a0pCNDVPWTdrTXl3WkpxSVF3TWF0T0FTenVwcmItZElpb2k2RW54dHVXblNtdjhCbGhjSVhsczZzb1XSAbABQVVfeXFMT2s0SVNPSU91ekJHWEs5OVZZRFUwZ2dYTDdOMEU3NTRKdjJTb0lXSkxXMlVVWEEwOVg0YWtNazhUYmlEYkJtQURoZEFhYnpZd0VxaTJoMDFLelBUazVjUkV3cnhzQjNueG1LUmJBR1RRMFg2VFgwcjgwLVRNYm8yNUJiajJMcDhuTUZ6b3g2UUpZajlCTDhsdko0d0dyRHFXRDZaSU9FbFA4ZHRuVF9nWVU?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-18T23:27:37+00:00",
+      "score": 67.54,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0894fad65d29674f",
+      "title": "Canciller Bula reafirma que la política exterior de Colombia es soberana y orientada hacia el interés nacional y hacia el beneficio de los colombianos - Ministerio de Relaciones Exteriores de Colombia",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZnMwaUI1NEtmVlllOHZ6bFlPM2V6Zm04U3o2TFhZLU5lZUUwX19Ic1g3V1VUUG9QMmRoSmZYcTJVSURra2dOWkZOMVFXRWtBLWs3Undoc3MyUjhSRXBaakdmZ2JCNjVCa2RfQ2ZRb1d4VVppSE10aTlBbUhabFBwM2ZtVjNhZm1lZXZWaXV3Q0NaYzVsd1dTZUZVd0toUGdtamhjcGF3Tm1BSHFIY1hXaENsSDBVTEVuSU5jWEhDNVAwcm5FR3RGcTdVWnE4N2l2b01aTzhOVFZWYUFlWHhkSG9qdEFKMEZleDhKZ1pCOS1FV2xBcWJ3V2tVSXNjTl9qelBxZGJZS1Vlc3dEVUx1dlZDNUxBX3ByRXRqSmRsaUtwSFNWUTVvRjg2TGQ0QQ?oc=5",
+      "source": "Ministerio de Relaciones Exteriores de Colombia",
+      "published_at": "2026-11-18T18:37:50+00:00",
+      "score": 67.26,
+      "corroborating_sources": [
+        "Ministerio de Relaciones Exteriores de Colombia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2b57c3495733f7dd",
+      "title": "Humanidades presentó el libro Una teoría de la política mundial, del académico alemán Mathias Albert - Gaceta UNAM",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaldxaDd5MUIzSGRWNURWRU9RRXhFSl9temROYnlsTXE4TTFuTXlKNzBjaUdLckpJSC0yTHlSb04wbXI5Y01EUmNpTkhKQ0hzVDhUVnZSWHpBMlpWNzFCRVRfTVhCMWFGSm1QTUFveVZ0OVJ5aE5iR1Z2bGs1aVJGclR2NEJKWl8ycGpuX3lmQl9qN251ZTZ2YWg1eVhyZHE2UHBKRVBLZDBwN25mc2NIb2o3RjN5b0V5eUF0OWpMSFFvWWRyZ2c?oc=5",
+      "source": "Gaceta UNAM",
+      "published_at": "2026-11-18T18:01:54+00:00",
+      "score": 66.65,
+      "corroborating_sources": [
+        "Gaceta UNAM"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "98894b3cd5b75e8a",
+      "title": "Frente Amplio reclama una política internacional basada en los derechos humanos y critica las expulsiones de migrantes - elDiario.es",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSDF2dllUbWFUNzFvSHo3QW5rN1M0d3dkTkN2TjF1a1FEUjVlMXlmRVJsakFYaUZrNEZsWUZXbVJaZjdsTExiZnY4bnJoTHk2OXBUdkcyeHJDR3BfZjhlTi1kRjBOUWJ6em5rdUJNamZyQm9RRFZOa2thUnUycmFGeFZwTkFBZERYN05EYjJZaXh5WXRVa2N4d1FhX1Q2QkJNbVFkRmhER1dQazBrbmFaYnBCMndpRGNLeFptMDB4VERTMlJ2OWkxbVlMaFBtOEx5V0V3QnRudmEwM1VWcklGetIB5gFBVV95cUxNekI5NHo1VGtweTdreHR3dzhrcmtLSWZxZFhSVExfbDNQZDdjUGIxTUhCV2Znejh0cnNMSk9rZnVrU0dsVnlXbE9FSHlWOXRKZ3RGb3RrOEFobWRDV0VpTmMzRVltWEZsbXJTZlZ6dHBHelJiQ1VlcU9GYmdDVmN4ZVpUYUtFcmg4d2trR2V5QXIzOUZTczh5QVNHbm1LUDRvV0Rzemdyem4tQ0FDUTE5akpsVGl6MGlEX0QzWURBeFpNX3VKWEJpZzRpYWd0YnJGaHlNNndnVTNOYXFQcGhwa1c1Z1JDQQ?oc=5",
+      "source": "elDiario.es",
+      "published_at": "2026-11-18T17:10:22+00:00",
+      "score": 65.8,
+      "corroborating_sources": [
+        "elDiario.es"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "817bbdba7c3c5fd5",
+      "title": "¿Una nueva Yalta en Shenzhen? - Política Exterior",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fd1Z5LWMwRVBqSm5TUkQxcUIzeFRKOW90MWFqOWVUMDBySDlDTWI4V3ljVE9GTVptV2FEYlVHMGtDeTZ0TlJwQlVJWTFQR0pZZU0tLU90cHpPaUVxVWdETGxpb3h3cWVtS24wVG9B?oc=5",
+      "source": "Política Exterior",
+      "published_at": "2026-11-18T17:02:21+00:00",
+      "score": 65.67,
+      "corroborating_sources": [
+        "Política Exterior"
+      ],
+      "signals": {
+        "source_count": 1,
         "social_metrics_available": false
       }
     },
@@ -27,9 +131,24 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNVJPUzRTNXZodHF3aWR5amkyV1V6WVdQZlhHVlFvTjY0Y2RrMHBIcXlWRjNPeUVydnRPYnJPdU9PZzhvcGg4VWMxWXpqUHU4WXJLMlF3WTdYbzR6VndrZ2IwanJaUy1XRXpoaWtwc1hTc1RFSFVHMDBfN1VOOGpSaTdZTzBxOHFkMngyLVo0ZzBlSkNvTHpDaWRQdS1EaVVsdnJUbFJfbnNyNXRNU0otdDRNekZ6UlJxLWJyTjdsNkVscDdiNmgxQjhzNFZFVFR2a1A3ckVWaU91aWQ1T3NabFVkbGRBeHV5cWh4RklCV1FHWllNbklualpRVFoyUjR3YWJvUkRrcVU4STFNOHM4cVF3bC00cFZ4dXfSAZ8CQVVfeXFMT3pLZnBPUmplNjBiT2ZjYjgwWHVIVk96YWdINU1obEtnU3NGTFVIQ3ozckNLQjRuSDJTVEN4MkZfQzFrbmZ2UEI5ckMxRWF2WDZ1Q2tLTFdudUtBNlNjTXZ3NENOZnVXcEt1SWM0ektQQnd4TUtEbTlhQVYtZ3dvY0ROMlF4NHZ3OEJjZWN3TVhFWXBqR1hqdU9FamxoUEZaaTVMN0M4Z1J5eTdUcV9aai1pdHJ2Tm9LUkQ4amJqNnJNMnpXZ0xkZ3lGV2RSaDA4UEtnUTFTT1V5NHRIZlBKei1CTDdHTDZ6ckY3MElfVEY1bFBadVRtMHZhaDgzb0ZyNFViV0RGXzItRHl6dGN5VHM0V0NXY0RzbklfcHp1SFU?oc=5",
       "source": "El Tiempo",
       "published_at": "2026-11-18T16:24:13+00:00",
-      "score": 74.37,
+      "score": 65.05,
       "corroborating_sources": [
         "El Tiempo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3972e59697d158e0",
+      "title": "Comissão aprova convocação de Mauro Vieira para que explique atraso de salários no Itamaraty - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVTBkZ281aG9hd0hKU3c0aDdtY3BXWlFSODNONGRnRjBua1FaTXZZbXNpTGZFLTlrSzZXLTRWdEhDWVlqVzJIdHFBZHN0WU0tMFQ4R0lZNU5wb2RST0dQb1Zld3dfdWdpVTR2OEE1aHBfY2tidG1zSzU4Zl9Ia3JWTWg0NTA0eXh6R0pHeWRFQ05IYmNkYlJPeWJBczdFbVlqVGZvMngzR2ZqUzBzd0I2QkdubTNMTVZBQjZIUGtoSTFfLUZGdzF3eW1aaVU1LTTSAdQBQVVfeXFMTXFuZkNTX1pnT3VfSkdQYzZuOHFLQlZMQ0ZnbjEtMm9PbjM1WGM0MVplZms0WlRCcFFsbDJzTVpSVURaUlhrSWRUWmxKVTdnc29iZERsS2RRam4wb3RnZWNrUVZ4b25pekxkZ04wTzlleDJ0eThWcl9LTE1xeGswbE83WXlvZkZmdzFtcmRQdThYYzA4cG9PZDZucUdYYnV3ZS1hVW1uTThrdTRoOGd1TnBRVmtYNV96UTU4VFRZSFJlOW1fSHE2Tld2SmZld21EREFhejc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-18T21:14:08+00:00",
+      "score": 65.02,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -42,9 +161,39 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMGVFMGZTcVJOOUxLT0UzbHowZEFxWnUwSG1KTmFHNFdaczVsRGhnS29maC1TeHVnSEVuWUFSZmVNUFJXNjBQdmFwV2hJcDRvTzIwMDBDMnNNcWlUdkRPa2JnNWNmMzhac3VBdFA3QVhSQ0paM1FobUJZblFIV09YQ2JQS1p6aDBzSm5HOHFudU90a2t3VHhxZmRFQ1NfTnF6V0Zhd1hHVEhQRzFuYVZqejVBb051ai1JWi1tN2ZfUGl0XzQ4X0E5V2tITHJFLVl5Y1ZKNkd3SDFZNHU3enp2Zm13UTdtOUJoc1E?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-18T13:00:00+00:00",
-      "score": 73.41,
+      "score": 64.93,
       "corroborating_sources": [
         "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ae021e5dd664cf1a",
+      "title": "Frente Amplio defiende una política internacional basada en la justicia social, la paz y los derechos humanos - La Rioja",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3VYYWdud2xEdFp2X3RDM1pYVHVjamc4bGEzSUJTeHBRcXFtdExqYTFseHM4dlVYOFBacHRBVFBGa3hLVk9EdGRNaVJqRzFTWjg4a0RQZGZPdVlYTjhXYzcyZEkySzdHb2xKNVBTbXFPYWgyMnJZWWdNMUJvNDhpVTFQdTI5MHVnSDZ6YmI4blVIQUVRWnBfTlppUDZXVFlGZTlPSW1UZW5qME90ajdHY3RB0gG3AUFVX3lxTE5HUUdTVGw1b2VmNDloQ011VjZpV0VqSHMxZVZHSjIwc2ZmVVlFQjdXaGNkcXh1TGVFX3NMR3k1d2JLbzhEazY1S0Q3TXViVHBQRWxsSnZFRXFmbDBTRmtoWWFWRjFVcDdwdmQ3aENVUlptTklFelVGYmVaUW9FT1ZPbmlVRURUOUlNY0dWaWRxQVp4SlV1bFpISUhoOUR3TzFtQi10UDFSUExxc2NLbjZBRzFpMGRJOA?oc=5",
+      "source": "La Rioja",
+      "published_at": "2026-11-18T14:58:05+00:00",
+      "score": 63.7,
+      "corroborating_sources": [
+        "La Rioja"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "874437f5b4fc392a",
+      "title": "Colombianos en el exterior sin defensa en el Congreso: Alejandro Murcia ni fu ni fa - Colexret",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLU0yWlUway1haEZDM2RtNk9iV0drVjVCbV9JYzhUVmRUcUJuY1I1cDJrMl9VWW5TWUJhclpiRG9wVllhVkdPeW0xbXRJZExJUU0xX3hqWTRLVnZ3amxYMllvRm9hMTVfSkZDbUx2S1Njb2Mwa19obXJaSnltOTgyRTNaMi1hSE92N1ZrclNwZkFkelllTjU1RQ?oc=5",
+      "source": "Colexret",
+      "published_at": "2026-11-18T21:34:22+00:00",
+      "score": 62.39,
+      "corroborating_sources": [
+        "Colexret"
       ],
       "signals": {
         "source_count": 1,
@@ -57,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSnN0RG90U2VybkRkSXJkX3d3RWpyMURCd1B5ZzlSUjRBQng0RWFUZWFTZ0ZBLTU2X3pjSnRNN1NCanUtSjBDeURnYTdZY05vZ1dvQmlMOGNsYTQ2YjZfaTJ1cE01a1VFYV91OGtGU3JqTGpjN25TSHp1TjVEaDh0aEt0b0xFWm5SZWVpOFZRRWRMdjdXWFphWlZ5Rm55UV9RVkMzdkhhMlZBMWZvR1ZjZ1doVUFHQjZIaDhGQ0FkZnJkSUHSAcMBQVVfeXFMTUpzdERvdFNlcm5EZElyZF93d0VqcjFEQndQeWc5UlI0QUJ4NEVhVGVhU2dGQS01Nl96Y0p0TTdTQmp1LUowQ3lEZ2E3WWNOb2dXb0JpTDhjbGE0NmI2X2kydXBNNWtVRWFfdThrRlNyakxqYzduU0h6dU41RGg4dGhLdG9MRVpuUmVlaThWUUVkTHY3V1haYVpWeUZueVFfUVZDM3ZIYTJWQTFmb0dWY2dXaFVBR0I2SGg4RkNBZGZyZElB?oc=5",
       "source": "CiberCuba",
       "published_at": "2026-11-18T13:19:07+00:00",
-      "score": 70.77,
+      "score": 62.21,
       "corroborating_sources": [
         "CiberCuba"
       ],
@@ -72,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1FwTTlTdW00NHdmMWlsdjhPOTg1Wlk4d01IN09KaExkU054aFdRVlh3VHNJWW1SdVpsakxlZkxfTkRaVGc1bF9BQV9KOW9mc3JrUXZjWDJmdUtNbkxsZk9Zay1PMG1kT1VrNEhELTU1bGdpUHl5UmNxc2tfd25pNV93?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-18T13:05:00+00:00",
-      "score": 70.51,
+      "score": 62.01,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -82,14 +231,14 @@
       }
     },
     {
-      "id": "2d65db3da9b534c3",
-      "title": "Tarcísio escolhe Natália Resende para ‘supersecretaria’ de Planejamento, Orçamento e Investimentos - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN0Voa3BWel9DanRFTkljNDNQX3A3eGMwbHFLeFM1VXh0WkJkM3IyTUE5eFhGUmtiOGV3VFZnMXVPdVUyUmFDN3VISUNQN28tb2plTXVoVEZXWi1SZ2RTX2lyY1dnSXQzUDZSakRyT2U0WU13RTJKd0RPNTJnT2V6R0RGdnJUdDBLa281S2o2WG9KTGRHdU4weHZsWmxnaFM4SjdTelU1Z281RHNUZGpGekZWTjV3RC1HS2plOXhXdHVvWnlPVzZEWDYyTFjSAdIBQVVfeXFMTnN5TkMzRnpNYVhDb01ybU0zbWlFa1NUbkRZbnVtaThUNjR5eTdiaDFfcnkyVGkyRlJKM0xOWnhPLUJ4RWdING9uY3ViRVpyWGZZbTJuV2M4dHEwNDBxZ1gtZW1ibmh0NGtBSEtJaU5hemNNX09aS3NObXdDZDhDSk03YkE1bm9ENDhzZUNwdWdyTzh6LXRsS3FUdi1xT3ZuSFM0QmU3SXJEMGgyUXdWTGtqNUlTT2J3ZjZmaUhpdUdIZlBqdU5OZGNIRkh3WUliSThR?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-18T16:47:15+00:00",
-      "score": 69.84,
+      "id": "0dffc8b1e636e14c",
+      "title": "Saiba quais ações estão na pauta do Congresso nesta 4ª feira - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZF8tLWcwU1cyWjBaODQ1c2tBbnMwV3hmU1oxeFRLTVBoZjRVdUpnVnI1Q1NiblE1LUZiVnNlbDhZRGhIM2Mxc1Zwa01XdlhrbHhLcnFXS01aUlBvWWVNZEFsajhYM0s3Q2xHbGJTZmNNMjBWTnp0SnAtYllpdldZZHVRYnRiWWpYZ1oxSXUwdHFiR1hQMlkyZG1vVml4SWE3TzVsYTRBcFpnTjA?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-18T09:28:27+00:00",
+      "score": 62.0,
       "corroborating_sources": [
-        "Estadão"
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -102,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTkFIblg2RWYxNHVLYndzREpBU09FaDJzWkJlR3hlbE81RGJSSXVnZDdGcElJTUNNaXdncldIMHp4dXo2S0lLSWRxSUZBRDJ3V2NZdmVvUmRfYmZycHlCZjNTbVlNbFpkTnJTdEVpTmxMSEktRU1QU1JZd005bkR0S3JtNzdnczlYMEhiVmw5NUFIanRlVXpacVJiR2w2T1I0bFhkOXhlUkJETkF4c3AxalUyRDYxTFlJWDUyMUVtZ0JlMlhiNDlhamJfRHN6TnZYd3dGMVV4T0dCVk9MN2hoTjdWRmbSAeoBQVVfeXFMTmZ3NzdmN3FibHpfWG5LSFVISEV3bGVGR0JzQkVfaDM5LWlCNW1qMWtIOVAyeEl3aEdUWFdHeWtJUjJLX0F0UzlMWE80Vi13NmpPSHpkR2xDUDJESzI3TDZDb2ZMRUIwNlpOYkJuWmIwNTFJYi14SEZid2F2UlBaU2FXTHBGLUdwRDVtVTljb19ReU91Ni1xNWQ3VUtRZGlUQ0RXaXV6RUhRd2ZDMkVJM1N2bzlrYXhzVlZiU2ltZ1R4TTgzUEVFUjNsWjIxd3QzZmVialVMZGhkS2ttRXYtT2QxdlRRaFNEZWhB?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-18T08:30:00+00:00",
-      "score": 68.72,
+      "score": 61.24,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -112,14 +261,14 @@
       }
     },
     {
-      "id": "f5b5ecc207ab579d",
-      "title": "The politics of hope in a broken world - Resilience",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkdoTjc3NVROemEweDVGbzlPSTd2eGlUOUpBWWgwWHBrWk5pM19jNEpQdXFXUzN4Ul82Y3R2eV9qcHp0eXpSY0lnY1p2dnphczRjRzVQRUpuOUlYeXhHM3ZxbUN1THdKSjB4TUdzUFJ5N0hNWVJHREhrVU5VbDZUdEhXM2JwMXozZy04VXV3?oc=5",
-      "source": "Resilience",
-      "published_at": "2026-11-18T08:07:06+00:00",
-      "score": 65.35,
+      "id": "2e660f8479c2deb4",
+      "title": "Frente Amplio reclama políticas internacionales basadas en la justicia social - La Rioja",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQk9TRGZJTzhudDkyUkNSS3ZZU2hvOGtRQ2szSHVBNzhTS2xXWWdCT3FRdFJxdkx0T1pRNDYzZEhYcHp2YnpPUG1pUHpScDNpZzZHX2V5Y3hRb0pRaWsxaWpYZk1yUDRZSUcxVWhnY0ZnT1VRcFc2czhpWjlGUzd4ZVBXVGpUNHVRUUpNSEhhOUhGOWpnY2pTd1g3T1VZMUtDcGJuTzM3U2FPa0kzbHpER3h6YWw0b0g1eGoxLWVhY3ZQVGkyNE8zcm1namrSAdIBQVVfeXFMTWpZa09uTmczbko2Z2t4V0VaNEFOUkdqOWYyemR4cmVMa25Udm02cnoxaWZEZHd5OEhHQ2JZTC1xMjQ3QW4zcC1sd3VlLWtMNm1YX3Y1b3ExMmF0OGhIWmhRbWRDYnB4b0xsYmZlcUdiWHZwQnpZRDlKbHJ2WEFiZzMxUlowMXVna0xrR1QwcVR6dm1WWHh6aXNSRVFmSlR0aG1weUcxQmNEU25EUXNuMnFNbVNubGgwdFVISVdHNWtDeWtnZHltRlJ0NXZHQno2TWV3?oc=5",
+      "source": "La Rioja",
+      "published_at": "2026-11-18T18:53:39+00:00",
+      "score": 59.53,
       "corroborating_sources": [
-        "Resilience"
+        "La Rioja"
       ],
       "signals": {
         "source_count": 1,
@@ -132,9 +281,69 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3JWYlRfcXRnU3lLTlFmTjRmeW5lQmR3RFFaWm15TldOMUZUZHRsR1NKanZWeHJ5X2czVXdhcEhRRVNyN2xmbVc3Tk5Mdm1LSVc0WlR5Yl9OX25mdkhyZElzajBKZ1Zxb0NRYmRpekpDLVNuWDBsQWJwOVhkTG5LYUNqeU5FdkgzTkxtTW1PaXJ2Zw?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-17T22:26:26+00:00",
-      "score": 65.13,
+      "score": 59.47,
       "corroborating_sources": [
         "World Politics Review"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f5b5ecc207ab579d",
+      "title": "The politics of hope in a broken world - Resilience",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkdoTjc3NVROemEweDVGbzlPSTd2eGlUOUpBWWgwWHBrWk5pM19jNEpQdXFXUzN4Ul82Y3R2eV9qcHp0eXpSY0lnY1p2dnphczRjRzVQRUpuOUlYeXhHM3ZxbUN1THdKSjB4TUdzUFJ5N0hNWVJHREhrVU5VbDZUdEhXM2JwMXozZy04VXV3?oc=5",
+      "source": "Resilience",
+      "published_at": "2026-11-18T08:07:06+00:00",
+      "score": 57.95,
+      "corroborating_sources": [
+        "Resilience"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "eadf84aa1fb1d784",
+      "title": "Quem é Natália Resende, secretária empoderada por Tarcísio e cotada para sucedê-lo em 2030 - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVgxUHZncGtZZVJJdWpPaEZOV29IR0tWZkoyNjRaWVVOVDNBYkFycEl2dUFYV0d6UnNyVXRrUnJ4NGt0ZUxoNUVIcVgwM1c2bmhKQjJmckRJd3hPZHhUMnlmY2VQN2IxaWxoME03dFRxMjlka05sQVVNOWwxdDRaWEVDRnpyUUNvX3pXWkNsbzhwb0J6WXBuLU5lR1FkY056bEpFenpISzhmc052NENPcmpSMk1INm5ybjBwbWZ0bGZUbU8t0gHKAUFVX3lxTFBwcTNrUlFuUWdSTWhpc3NQNnd1SDBMSE9IUDJvOWtIaC1GemZ3aWZnOGF3MUt6c1hXZFhBb0RDV2FTQ185cnpxRXlGX0JOdEpSblg0aFNVMUVMX2FhQ2gzcVVyTWZZNG9XbjNTZnA5MTJ0cnkzSXN6NlBBaWg1OUU2M1ZmRVdwb3B0d1JsZ1Qtbm40TmVLeHBOTnNDTGJLOXN6UHNHWnRhVVktNGpPUTdWUFJhMlVMY05lOVlOX3BtRjA3RENxcGlWU0E?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-18T13:32:49+00:00",
+      "score": 57.42,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "31ab60f3b6e1d7af",
+      "title": "Lula gasta R$ 133 mi na eleição e Flávio, R$ 115 mi; marketing, redes sociais e viagens lideram despesas - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0hnUnN3OGNUcE8wNUlSRWdpSDZObkhfRk1kSVU1RDdtN0xUbVQ3OXVhR0VnODdJdmpFbmR5SGViVGo5ZUhkd1ViZTJHLVRFM0F5VWNEWEZQNDJVMVUtbXA2YUVyTGlPNGFsbjltamxYNFRKNndEOVlwSHl5NnZHTzBfMWh3cHo3VDVVME8xdWJycHQtdUdwZlctUjNmQ0l6M1RXUXVuamtsSVZsbGpPeEp4RmdZeTRFLUc5WWF6Vm5MdVB4ZEZuS3kwVUVXZUlFQ3ZYOG55TklORXFza2JkT2ZCVQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-18T02:00:00+00:00",
+      "score": 56.65,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2d65db3da9b534c3",
+      "title": "Tarcísio escolhe Natália Resende para ‘supersecretaria’ de Planejamento, Orçamento e Investimentos - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN0Voa3BWel9DanRFTkljNDNQX3A3eGMwbHFLeFM1VXh0WkJkM3IyTUE5eFhGUmtiOGV3VFZnMXVPdVUyUmFDN3VISUNQN28tb2plTXVoVEZXWi1SZ2RTX2lyY1dnSXQzUDZSakRyT2U0WU13RTJKd0RPNTJnT2V6R0RGdnJUdDBLa281S2o2WG9KTGRHdU4weHZsWmxnaFM4SjdTelU1Z281RHNUZGpGekZWTjV3RC1HS2plOXhXdHVvWnlPVzZEWDYyTFjSAdIBQVVfeXFMTnN5TkMzRnpNYVhDb01ybU0zbWlFa1NUbkRZbnVtaThUNjR5eTdiaDFfcnkyVGkyRlJKM0xOWnhPLUJ4RWdING9uY3ViRVpyWGZZbTJuV2M4dHEwNDBxZ1gtZW1ibmh0NGtBSEtJaU5hemNNX09aS3NObXdDZDhDSk03YkE1bm9ENDhzZUNwdWdyTzh6LXRsS3FUdi1xT3ZuSFM0QmU3SXJEMGgyUXdWTGtqNUlTT2J3ZjZmaUhpdUdIZlBqdU5OZGNIRkh3WUliSThR?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-18T11:48:39+00:00",
+      "score": 55.91,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -147,7 +356,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmRhbUNWYUdpbE51U24xRDRxZTZ4elJEb2p6MmZ2WTJDdGxpWmNHaDNtWGVZOXNLSzNSTVdtcTYycHZuRVcyZDJYazc1R0JhbUVHdVhtZENpeUxiSTV2cU9wdE9UOEZEWlAzRXltbkdYbGRremtyanBZd1ZTWkhzMXNuLXROOWpOaHVzaVhaemtkNkQxOEVIbWtXNGI3c2dCcTRGTlJ3UnNqZzkzZkxaS2NYaXJlRjhQclhB0gHAAUFVX3lxTE5jZTlZWnR0ZUFLOVdGRXM4c3NRc3Q0cTZuUHBocVZ0UTZwM042bnlPQ3JYekxBUHdJR3FfVGs4R1NhSlBzU0E1TUd4OEczODBialFjMl9YdFpudWZWTWh4dUdSbmRzWEVsUFBTeE1fZGlXcEdqOVE2ZFduSVN4YlUxQXpqdEhDY0J3cXhZaGdpbk5Qa2wxMFRuVVFTT0NlMTFxQTFDeVoxWU5EejBrWkR1a2VPTXllT2ZPZDhjcVBIdg?oc=5",
       "source": "El Diario Vasco",
       "published_at": "2026-11-18T14:48:31+00:00",
-      "score": 64.47,
+      "score": 55.56,
       "corroborating_sources": [
         "El Diario Vasco"
       ],
@@ -162,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IVWZqNDVDV3JlbUxFWUx0VTJXbzdRSTFXYVJuTEdpWTQtMnlQVjhuSktTVFQ4MnNzalFYbXBfcjcwYUJOSEo4ck5xQWZiUjBuM0dqSm43WWtQRHp2QWNEX21Ec3kzd3lHUWc?oc=5",
       "source": "Informat.ro",
       "published_at": "2026-11-18T14:25:39+00:00",
-      "score": 64.03,
+      "score": 55.21,
       "corroborating_sources": [
         "Informat.ro"
       ],
@@ -172,14 +381,14 @@
       }
     },
     {
-      "id": "2bd6d460a59b32d7",
-      "title": "Poder360 oferece ferramentas exclusivas com acervo de notícias desde 2000 - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNG9EemFtLVNraUdEcGJxcGJwdWkzZ1J6ZHUwRjJHNDNLbzdGSVF6YjZSSWxvd2pCMHpsdDV0alFSTVp6TU5ueEN5dGY4djRTNnpSM1N4QWhwbTJ3dTBDZ3J1LUJWWXJxWjZQaHZrcEkyZ2RYdzVyOWN6SnV0Q2QzVVd1U1hwa2FsMWszTWVHSFF1dmgzbnlyWGYzVkF4c2QweWE3enp2dGNPX01NVUJlYg?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-18T09:10:58+00:00",
-      "score": 61.4,
+      "id": "73a3d92cd2802f38",
+      "title": "Tarcísio mantém dirigente do Republicanos na articulação política e confirma outros 4 secretários - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbllsQ1hmMF9pT2ZmZ0tEWVpnQUEwbno0Tmx4ZUJ2cS1UMjZRZGJLWDduREw0RXhpNFYwb2xxdTlhNDR0UTJ0NmdIUjB2MmY3ZGtuUXFzbzNtZlJhbnFlOEhDR0hBU2ZySE13MWZUVHpWUGtTdkJ2VWVlRUFTWHFEaVkySTVyY2pNZWFIZ3V3UUJhREFSTzlZcUhrRUNObl9nTEl1dWlfeHlCMW5yY284V2VwWTFBby1UeDkyN3ZkSC1uakZxdVpsa1JObzA0a285ektDbXBxaklqSEJKdGNWdw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-17T23:14:00+00:00",
+      "score": 54.94,
       "corroborating_sources": [
-        "Poder360"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -192,9 +401,24 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVMtbFBMekhITUx3ZDlGaWZPYW9qSW5UeUFGMENxaERFTFU4M3RWMnF1NVRjZEloY1Q4WkRDNWs4RG1QaWU3M1NSUm9GOF9qYmpqbkpReTZ3aUFCVGhDeEljTlRpaDNCZkROZEEzTENpRUF3dG54RTJwYnctaVZQb21EUFlaYTZINlNPZTFHQVM3UUJBTkF1OGZ5ekFfRUlVZW1aQVU3YVNMVXEtN0FDZG02cVhVa1RVWHN0d3puZDNGdw?oc=5",
       "source": "Talla Politica",
       "published_at": "2026-11-18T02:49:45+00:00",
-      "score": 60.58,
+      "score": 54.19,
       "corroborating_sources": [
         "Talla Politica"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "2bd6d460a59b32d7",
+      "title": "Poder360 oferece ferramentas exclusivas com acervo de notícias desde 2000 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNG9EemFtLVNraUdEcGJxcGJwdWkzZ1J6ZHUwRjJHNDNLbzdGSVF6YjZSSWxvd2pCMHpsdDV0alFSTVp6TU5ueEN5dGY4djRTNnpSM1N4QWhwbTJ3dTBDZ3J1LUJWWXJxWjZQaHZrcEkyZ2RYdzVyOWN6SnV0Q2QzVVd1U1hwa2FsMWszTWVHSFF1dmgzbnlyWGYzVkF4c2QweWE3enp2dGNPX01NVUJlYg?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-18T09:10:58+00:00",
+      "score": 53.77,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -207,39 +431,9 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVdBZWdQNDliVmVCcXVUZnU1SFMtM3pYcllDRDhsbkg1NzA4eTlWSVdCU1hyNXJxT21iaDRLWEJYVWtwVDVNbHhIVFhqTlR4U25BVUxRd2V6eHllTEpJX3cwSnI4TG9lNHZTazRuVE5GaGZJWFZvVnk1RWNUVjcwNW4tSFlxOHQ4YVpjZktZY2FEY2p2eDA4LTUtcTRUV3lZZ21ZQ0d6ZjV0RmJUaEh6YjJOaFZDaG9jVUpsekh1YWdwVFN1Y0JDMndwakxqcUJKWmZCXy1qc29qMXhsaGVzNmd2Zw?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-11-18T01:24:47+00:00",
-      "score": 59.42,
+      "score": 53.28,
       "corroborating_sources": [
         "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9d88734364ab69f0",
-      "title": "Tarcísio avalia manter delegado Nico na Segurança Pública, e PM vê riscos à implementação de PEC - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWktmdW9pU19TSmhwVm9YTzQ5dEhldlVGdzljajFLS0JTWFpuc3A2VWdLbmxpdGxNbkUzNkZtT2ttVTBSVVRaaGZvbWVxZ2IwYk9fRDRia0dyYVFtWE9ZdGVraktXUkFlbE0yMU5DN1ZTMmRrU19wWi1kU3c1TzlycmlCTnhZaGxmc3N6bnpRNFRHZmxqTV9wZ2R5bGpMMWoxYXRIcU0tSlZJN1loLW1DMG5Qb01Ea01NeTJ6Q2hlWThwMXBQV05RNGFwZHhRUXRpdHJDekJGTEFrSUJ4WkE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-18T07:00:00+00:00",
-      "score": 59.28,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "32769e3ce7fc83fd",
-      "title": "Israel parliament elects Eisenkot ally as speaker in blow for Netanyahu - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUY5cFZVOG00bGRSdG1sSWtjdjZ6NHVfbWtnbHJvRHhlX3luT2EwaUNtTWN2YUU3V1hvc2NDRV9zaXdoNDdGS0xJRHN6aUhUYXRkUjNjalNfUGlFOUJfbHFVM0o5R3VibEJJdFdldkhjMmhSaFR3XzhpeUxlSUZkakdRcG56aG9yN1VPUTM0aFJWVzNvdVN1eWR5NjRRNFlN?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-11-18T01:10:00+00:00",
-      "score": 59.23,
-      "corroborating_sources": [
-        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -252,204 +446,9 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmQ4SXZiSVhnaW1fOVNZT0xjZjE1M2lSNnA0V0R2UTNDS0x5aWNua2tnajZsSGNFZ0dieDZCZF9XZVdMV1dXa1lLUHZTVHF0eXpmNzBGeVQxRWRnaXpncV9yWHhfMlI4Sjg0cWpBc3JyNWUzQXlaWVhINjVINlFrcUZHM1ZyZmhOMlY5VU1ENEpLXzNyZEV2RUc2enI3aGZFcmVleXFuZHhvWkswZHpYdFpfOEt0b1hPd1Ixd250OFNZMERU0gHKAUFVX3lxTE5zS0ZHcTFtVmhlZUR2S0tlNUVsanc1al81RG5wTFpFd25uTlR5N191a093LTU1dUp3MmRtRzVKdFNPZWZoZWJaUUtEdzRjWEZzYXphbUdFMDJkY0gzcDhaUVF0RXJ4UDF5eW9zWW44Q1d5YWNnYW04SkpwMVJGTU5yaTByWGRHWS1ValY5eG00SmdQN1JkY3g4eDVFTFhURjVoajcyZmlUZkllQ0ljN0dsSzZZT0l3Q1FXbTdwV2hfUU9VSmJFY0xHUWc?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-17T20:05:51+00:00",
-      "score": 58.45,
+      "score": 53.15,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "90573d37f99984e3",
-      "title": "Crisis talks keep Dutch minority government together after tax dispute, prime minister says - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWtUSFN6ZWNLWGJoUWdBQlc2ajJFZHhzVzZLcHdFcWVqR3l1Z0xLenFxU0EwZjJheXVaaEhKVUQ4RGdlODVYRlFlV3ZyNGhxaWVicmhaY3JRYlhFWW1QOU94Q0dKdjdud24td2VqZ3F6dnhwaDFGYmRYWERySUl1ZHlvWVFhTDdZVHBEV3N0SHRwdVg2cWJpelhvamxCbVVhLWZ4Qk9XRWJJUkMtVS1HSTRJS0trMVlOZDBrWQ?oc=5",
-      "source": "Audacy",
-      "published_at": "2026-11-17T10:26:00+00:00",
-      "score": 57.57,
-      "corroborating_sources": [
-        "Audacy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5883a4daee7d81db",
-      "title": "Governo Lula retira urgência de projeto de bets para destravar votação de ajuste fiscal na Câmara - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnNSbUVmZ25EenU2bE5ZZE1sSzVpb3J4TEQxcXNEbFFPZVFjcGFtcG16SWxyS1NxYUhpNkxTZXVnZ0R3dUdfTmw1NkJhRldJTVp4SzdOUjVhQnVPTms2aVRPdWE0d1IwaGVyRGc2Z2tIMEpfMVBLTG5XUVo0TlRqMnp3RWszd3l2UVQzNVJxZTBJMmxQYVBwTGhGbGpZQmVRdGlyOUhZS3d3Q3FFWW5JdzNYbDVRd2tUSG5DSGJLZ1lldVJaaXBqWXZNMFh4b2FpZkRB0gHYAUFVX3lxTE1xZVBuY1BDa1NPNktXTjZDREFmVzFac1lRWDlXYmNfVFRDRGxDVDhXMy1jdURnV0NRQ0JEQ2VOVHBuX1p1UnJ6VUdpTUJpamI2dHdFYUhzVllzVl84SmQ5X2wzUzA2ZDhBZUlBTmdJRGlLbmFpakN5ZDlIZmlzUG1wRHd6aVZMYUNoaFBsVkx5V2QwSnVveWdPT0l3Mkd2WVpBM0RrV2hzQkszT3hBWVJBY01FMWZkcFhDVnlobFYxeTBXUVhVdFU4X08xaEVBNG82dWYxaS1UUg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-17T18:14:00+00:00",
-      "score": 57.19,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "46073def06839144",
-      "title": "La estrategia ártica de la UE necesita un pilar tecnológico - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHNBYkJYZFJnUFI5cnF0SVAzeE1CQ0NkYVJKYlFEX0lEUDJLT054aGwwVW1YUU8tZjZaZ0F0TGNBODlNcDEtQnFseHpfR29VZk4xTGhWa1NRVHQ5SnNfcXpTR0tWa3dweDU4aWVzZHFjTTZiRE9VQlNKcVBRMFlubFhjMVUwN090UXptUFpQTXdKUXpCRkFacw?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-11-17T22:28:07+00:00",
-      "score": 57.15,
-      "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7d1b7065be3d867d",
-      "title": "Trump, Xi y Putin se sientan a negociar el futuro del mundo con Europa fuera de la mesa - Elplural.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQjJwWWxzcV9WazRfRWMzTEZIRlVYTG9oNUc1MXdJYjh4MWZZMm5xV1JqcnN3RFRTNmREeDkwMEVpNGV4ZXY3MXNZQkNwOVNSYzZHWlZwWUs0ZHdRdDZPTm93bTlvaFNZQ3ZsYTJ1dFR1amFaQUpqeGd6MEpvRzUzTWVlWUNaa3g3TXRXM2FRTE02LWlhSTFNMFBMLWF6VG1VcmNVdXl3R0NsVVJPTFhvYzZlZDRFWFo3cFgybNIBwgFBVV95cUxOZklodm5rb0RzZUlpMHZJR0RxbnFjaGw2bWJDT01uRE5kdlByOXF1V3BLZDA0ZDVxNE95QUNQeEZwX21FbV94eU5wZkVvYnhaTWx2ZG03d1RaeWZDVHpNWmlQMTZCQnA4NThXeFJKdkJoNlJSLXRyMFlHTWo5RHc2Mnl5LTd3U25sVXJsOElzOERUMkNJbm9iX3dOUzIxY0dCWW1QSGY4TWJGdTRCTUw5QzJIR3MwUXFXalR3V3hYVU15QQ?oc=5",
-      "source": "Elplural.com",
-      "published_at": "2026-11-18T06:49:16+00:00",
-      "score": 56.12,
-      "corroborating_sources": [
-        "Elplural.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "07c27002526cc2a9",
-      "title": "Nikolas diz que pode deixar PL se partido apoiar reeleição de Hugo Motta - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXBlNHlrbHFjam9FM1ByNGhmS1BPd3BMUEJ4cXBGLTIxcTBrdDljRDJMY0xsR2NEbW5FNW5qd0NxMjNZVDFfcnlBQkhaZzIzdmtpREtzWlkyMzFLOFNTb0dYZjNIUWEzOUdCMkRxTzVYdnhVNkRNSnhsUEVQdHdtMFBNT0FyMWFHWDRDQzNoQWNIM0RhZDF1MGFvLWRZeW5scWVLaVVyckNtZWlFZDFVRjBkQTNmdw?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-11-17T15:24:00+00:00",
-      "score": 55.39,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "dafb6bf858501222",
-      "title": "Restrição de compra de chips pelo Brasil não inviabiliza data centers, mas atrapalha - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX3BzU1d6a0M3MmNsRHhZWFlXS3c3TlVGRTNwYTFXdjEyM1ZSZlg4Sm5tT3VyM0s2WDM5MDY5SDBGMnB1eTAwaEk3QVlITGM2dmtfMEpleHhGc25UdXZ0RTQxbi0tdTVubmZCOElBUEt5aXpyTHBvMDNPVWc2M0JEZFQ5X1U3NFlJN3RmNHMtb1hhdDQ1dFlCbV82Z2JRbW5BclBRNnNrdWFYX1NxckoyZ1RlbnV5V3djU2xFOUszYVktWjNaR0xkUjh5Si16M0NKaFHSAdcBQVVfeXFMTmR1Ul9Nd0hpMTZoMC1ucG5OeXhCWU9WUk9TMmVmQmhremF1UHQxejFFZlZqQ0VzSXZYSVpVak9RRUEtYXJQNzRZSmVtVmNKTW11WVB3UzlNRy1mUHpXbVJ2T0tZd1JUdEpfQ2JVRzZXR09SZ1puMVpVV2NIdG03M3YwakRtQ1hfRElwajBkMVoxTllZeFB4ZmwwMGFGTmdnZUUxM29tdjFISm1BaUdIRXZDYkdLcjlLOXE5RnA0VmRqMktXMkZCOElMdS1VeFR1Wmt0QlNSRUk?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-18T00:59:00+00:00",
-      "score": 54.08,
-      "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4142cd4f84b4cb4a",
-      "title": "Cinco indícios que contradizem afirmação de Lula de que o Irã não quer construir uma bomba nuclear - Gazeta do Povo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3E4R0hFN1Z1NG9UWE1mcnEtNmtTNFRtbkZBXzdfTEVpMUtyX1IxcHpFeE5DVEtDNENXVkVVOE5VYzN5SnN5cWc4YmkyNjZqYXhQaEVyejFrQXV6dWY5LU04d2dxQjlzZ3lWblN1ZGFUclZaVkZQaDBEMGxmUjZjclk4Yl9mM2dzSXZoLTZwdDYtZUJFeG1WVzZ4SFN6ekEtUVVrdUQxWW12bFpBNC1iOF82eVBES3J4YXdYYjBjZ3VsLTlVQl9CZUZlb2RlcmRVSjA4?oc=5",
-      "source": "Gazeta do Povo",
-      "published_at": "2026-11-18T00:59:00+00:00",
-      "score": 54.08,
-      "corroborating_sources": [
-        "Gazeta do Povo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7e2651e707e2dee6",
-      "title": "Pedro Sánchez se reúne en Madrid con Lula da Silva y Yamandú Orsi: democracia, comercio y cooperación internacional marcan la agenda - Noticia Zavaleta",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTmI3VXFqZWtDbnJ4a2dGYkh2X2ZybHVwV1J2Ui1MTVMzc05tX0x1VUJnbnlUTjJua2FlY0dKR0RsbTFtNDNfbEpjaWkxVEhOS3g1QkR3eW9GMzU4MnBXSXBadlFhT3JETWlvNkYwck5OQ0NjQTVLZVZXc1I3ZFRGR0tUZWpzLVF5cjhmbElsdjQtdDZPZUU1WkxqY1E3aEZRa2NfajY4YjlyVEFRQUhlT2ppTThtTmVfYUJ2c0h1SzBGZzdNX18yeUlYU19ZaG5rRG5VTzEzWExWSzNyTm5xNHY1UGJGRWFSS2taeXVLS3BIdHJtcURF?oc=5",
-      "source": "Noticia Zavaleta",
-      "published_at": "2026-11-17T16:33:47+00:00",
-      "score": 53.11,
-      "corroborating_sources": [
-        "Noticia Zavaleta"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4dcdf0357db1a46f",
-      "title": "Así fue la pelea entre canciller Bula y congresista petrista por decir “inrresponsabilidad” y “magnesio” en vez de manganeso | El Colombiano - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnJOUEZnLVZBN1NuOFl3NndoNk9LOG94OGl5ZGZvalBfYWN0MWw2NlgtY0ZqNnJHZ3BDczl3Z3dQTTlqTG5mZExhWVJsMjNaMUR0czNCc3pqTFFuM3JQbXhMejFEM0NBcUR4WnFmWFJNWW1lWjN0ZXJlQ0NibUpGRTI1aVhTMkJEQmt3Z2JPeTlINnh3Rlprazh0T3kyeTNJUFFkbDRaRmp1czZTUS1UQ2VfSFM2VDRwTFJmUjNHbmdKdFRhM3ZPUnZ2cF_SAdIBQVVfeXFMTUxKUGZ6M0RBTU9LYllvUFM0RGdqenNqc0U4YkNzUDFnSm45UTNzc0hYbTRmUDBLeG9BN1hwalMwZ0ZQRUpoUm9UVTFYTmtySG02U0doREpXM3BZbTdOVmlwS0lMQzN0NEh0eUNxeGlsVWdPUVd2cm1tWEIwUjBRSXFhRjRLTDJIaUluU2ZyUkhnYUNHcDRrNXFpY0oxc3dGVGNQdmJFZDFkZVdPaFM5bGFfSS1NckdmdVlNSWd3ZFY2VTZKZHVHOWFiRGk4alZyWmdB?oc=5",
-      "source": "El Colombiano",
-      "published_at": "2026-11-18T03:14:39+00:00",
-      "score": 52.93,
-      "corroborating_sources": [
-        "El Colombiano"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "38ea2e2e3cb4d617",
-      "title": "Trump administration says it will not use ships to deport migrants - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkR5Wmg4RkhFOXcydURJM2V1bG10a09JR0ZRODQ3TDN6NThWMU5xN2pLVWFrSFZHY2xmZTVTYkRfTDJIa0JGcC1ibDFfaGw5ZmVWWmhYTEJGSEt2WHFMYjNLcWZORXdjT0RSVTVCWFJYTXpBQlQycGlxU0pCV2hOaVRxbU12dnJMbW00QjZrVXh4c1hRUDFiLWNBRkRyN2xPMHFmVEZsaVViNFlUcUxQd19veFU1V2pFLWRXaUFhVEJQdlU?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-18T03:11:29+00:00",
-      "score": 52.89,
-      "corroborating_sources": [
-        "The Seattle Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c4b9a395fb42881f",
-      "title": "Opinião - Deborah Bizarria: Talarico e Hamilton ampliam agenda dos cristãos na política dos EUA - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlFydEM4cVFkOWNYbHEtUUhWNGxmVWRfOEMzRnh4SFlCYUV5N1Jaa2tkdWthSDZvVGpZUkZoWkI4T1RScWZXX2NENVozSy0zbk8wbml3SmVJQzBzcDZ4eTB5OV9RWkpTem1nUk5NZE5aaUxnVjkzRlBwdWgwLXRfd19Jd1ByZzJkcWhaSmN0RWtFQzdkNjlBSkhnLUNwNWFYYUZRUExZcGw0OVZQTzZkVUhybWFzLUwyZGRTOWlhQjVUbTFSeXI4SGFJUFg0RlUzNlE?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-17T11:00:00+00:00",
-      "score": 52.87,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ef5b8294bfe5275c",
-      "title": "Lula troca Cuba e Venezuela pelo imperialismo espanhol - Diário Causa Operária",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzcyZ2tHZEQ2bzNUMG1NUWk2UnIxdkd4dkZVbnpFLUtWOURXWk1CMFZ1Y1J1V0hPa0FuU3lZVUp6dzhuNWhqUzBBS2FnbkdVMzUzR0Y4aVFJc1BGRFpPUlZsS09RWFRnZEpGUVdaaVFfNGFmVDJsUzZUTlFkVUZtNUJiUjZvQS1xakVYWTNmeElpZkk?oc=5",
-      "source": "Diário Causa Operária",
-      "published_at": "2026-11-18T03:00:37+00:00",
-      "score": 52.74,
-      "corroborating_sources": [
-        "Diário Causa Operária"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5ca05b653ab30fd6",
-      "title": "🔴🔵 #ElInformativoDeExitosa📺📺 | La presidenta Keiko Fujimori continúa llevando a cabo una serie de reuniones del más alto nivel en el continente asiático, a fin de generar mayores inversiones para el Perú. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 3 - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUJQUkowYzBDTlNQMm95d2NxZzFzUzltUEdzSkdqYXhEMThfMEtPOHBtMnNienRRYlNpV0pBZHdWVWttMU9Kc3FQRnl3eWJaaXdHWHhYbVRzcFVMVDd4b3h2S1MwUlE1YlBzU2ozYkJuYzQzVnI4dFJGMWktSWIzMFV0ZEc4WXF3dElxODRlemxGQ3BfREpybi1qNHhyQUY3d2lheVYwZ0dFaVVqc2VNNTJjNXRMbTMzaUhFb3pWdldpYmFqclJVVXJjNVduYXkyWWZvZXFmRmlmVTBQcUVETkVUZUc?oc=5",
-      "source": "Facebook",
-      "published_at": "2026-11-18T02:50:33+00:00",
-      "score": 52.6,
-      "corroborating_sources": [
-        "Facebook"
       ],
       "signals": {
         "source_count": 1,
