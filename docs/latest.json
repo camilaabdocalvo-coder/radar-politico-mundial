@@ -1,19 +1,49 @@
 {
-  "generated_at": "2026-11-21T21:40:45.475292+00:00",
-  "next_update_expected_at": "2026-11-22T01:40:45.475292+00:00",
+  "generated_at": "2026-11-22T06:57:12.393674+00:00",
+  "next_update_expected_at": "2026-11-22T10:57:12.393674+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "ddc0ad676af0d9bd",
+      "title": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFV2UW0xbFFGc3RmczdZdXdtZXUxaVFXX3lZRzA5R2hhT2JYVllVdWx0SHpFNTFsZlFaMzNNY1VXSGdGTlRwWEtFd2JYQy1qYjlwZnBUUVVvS3hVc290V3NBVlg5ajRHWG4wd3BwSEhSSlo0Ny1taHgwRTBCMi1oT3Y0RE5Sb0ZQWUFsdXduM0JEbnVMUjdrb0VOWXNFMmJGejFrUHlKTWnSAa4BQVVfeXFMTWRkU18tWmp5M1VieXhQZl9YUTVtRW1yRTRkUGdyVzJSZ1hLTkF5bktXMlhVQWRGRWlEc3YzT21kblRLdWQ1OV9FcFRkNFc4TWptTWtnMDdScmQ4UmpjcFJfUjkzdDlMb0JwekhBUXkzRDBOck5TSy1fdjBiS2VYazV6MG5pZ2lUTW51djJyV3Y2clZRQlcxbWVlNVBnOWlEN2p1S3liem5MM1JKWDNB?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-21T23:56:52+00:00",
+      "score": 78.52,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "a5e916beda843739",
       "title": "Victorian election: Greens’ “progressive” promises conceal pro-business, pro-war politics - World Socialist Web Site",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsX3VBV2o0RUxsMGNGTi1oYUE3bm9feHlxQVpjNkRVT0E3Z3hFeV96d0ZCU19nRndaTzZab2wwQ3RFRzJfY2tvT2ZqVHlsMkpyLTAtaWR4bTlVakJUMUNIQ19SMzVPZFkz?oc=5",
       "source": "World Socialist Web Site",
       "published_at": "2026-11-21T04:22:05+00:00",
-      "score": 74.3,
+      "score": 67.98,
       "corroborating_sources": [
         "World Socialist Web Site"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e9ce8a4b1ef80882",
+      "title": "Ciudadano boliviano herido regresa de la guerra en Rusia - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2dHLXJXT2dLM1VQR1FkaTlMUDJ3SFd3STN2bjFCOXUwU29rWi1rS25RR1ZKeXpoQnBHSEJ5QnZVcVU3elJWS2FkYU1heW5pVUxuUHhRN2xpSkZMYVh3eEN5X1VHbE9HT0tURGl3MUJadnEzT2dqLXVfUXhqTXQ5am1DMmNKc1k0YU81MWd0U0JNM1ZTQU9HTmJwZTg5UU0?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-21T23:09:36+00:00",
+      "score": 66.72,
+      "corroborating_sources": [
+        "La Patria Bolivia"
       ],
       "signals": {
         "source_count": 1,
@@ -26,9 +56,84 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmRzbjZSTnNaUVpuOWthcnRUX1BnVnQxZzlTT1d0dkFwY2dGd2Z0LTNHNTdIZlA5aDZJa2tpWGVoei15cU5rZGNKTktpemk3VktwTzFGbWFyenpuTGppNTZDSUFGZ1RJSVBMU3prdHZibGFOSzNzYnV0ZU5OeFhHZU5LNUl6UDFUcEJuYmRlUmh6RkJMZU5nX3BEMmdpc1plX2JQbzRHSGJmRFRETklwQVJvYWNycnh3dzAtbnhpUEt4VzZfa1RmM3VzQ0M?oc=5",
       "source": "Gazeta do Povo",
       "published_at": "2026-11-21T16:31:00+00:00",
-      "score": 72.46,
+      "score": 63.61,
       "corroborating_sources": [
         "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "69c12c0ebbea303f",
+      "title": "Corrida global por data centers abre oportunidade bilionária para o Brasil - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzB0TnBjM0FHQzVuM082Znl2TUlSRVBicGtUczF3T2VOMFRQZTV4NXVyWDR4Z0RvbnhWc0IwVUV3LWp0a1FtWFBRNkhISWo3OVFGZ1hLOGJKNnBueVZlNUNLNUNRWWV3bVB3TXhOd19VSTZwelJWdDNCQ2Zwc1lEYV8ybnJtSFB2ejI2bG9CQUJZa0drNlFBLTU5M2pIWkJLZ1E?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-11-22T00:52:00+00:00",
+      "score": 63.48,
+      "corroborating_sources": [
+        "Gazeta do Povo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "1e0eb119120f8ac1",
+      "title": "El mundo ya no tiene un solo dueño - Acento",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2V0NTV2bHo3VjVZUl92MG1KZzA4eUw4VU5uaUFFVjlOU0FDY3pNTGJMbmVLdnlsM3hXYnBGLW5QVVM1SHpjMzM2dW1aQnE0azJZdm9RakdGMzYxTjdwaWhwSWVucmRLZUI4UjBVT1V0a1NUeGt2ZzNFYW9ZOVpNZ0NDa9IBgwFBVV95cUxQd2V0NTV2bHo3VjVZUl92MG1KZzA4eUw4VU5uaUFFVjlOU0FDY3pNTGJMbmVLdnlsM3hXYnBGLW5QVVM1SHpjMzM2dW1aQnE0azJZdm9RakdGMzYxTjdwaWhwSWVucmRLZUI4UjBVT1V0a1NUeGt2ZzNFYW9ZOVpNZ0NDaw?oc=5",
+      "source": "Acento",
+      "published_at": "2026-11-22T03:03:28+00:00",
+      "score": 62.86,
+      "corroborating_sources": [
+        "Acento"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9a6fec883cb56876",
+      "title": "Sarah McBride, barred from Capitol bathrooms, wins top post - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSFdLTmlqRlMtbFZzaFJLNVljN3FGMzlTbExwRmVfTDFSX0s1bTZsVlVhMXpja3dJeWV6aDNGZVM5SzNmQkJEUmt6RWUtQWpZREZyam5tSTFEaXpQc1oybkhsY01hNmJoZG9DOTBNb1Z2Rm5FRnQwTnNxbFREc2JQblR4d1YtbEpvRVNYSy03Qld1T3hXMzl2enAzNm9oaEpPdXlrQzN3Q256b1RIdXpFZDdXMlJ5NzA?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-22T03:00:01+00:00",
+      "score": 62.8,
+      "corroborating_sources": [
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9cd8b7f94991ef8d",
+      "title": "Shenzhen y el regreso forzado de la OTAN - Artículo 14",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcVYxbG5lWmROUnI4NW9xS3BMMlBWblBYYjlvQkxidGphMjB0Snc2aHV2N1NqdmZPcm9wcGptbkVPM3NZdUFDZVE0Sks4bllmc2Z1MXBKb2FLZ0gzMm5qUTNkNnZpMFpuMENVOGpoMDFLTEJnMVVGNFhvWWNIekU4WTVMQmx3bVotRThjZnNIaXZDOVNIVUZxR21B?oc=5",
+      "source": "Artículo 14",
+      "published_at": "2026-11-22T02:49:00+00:00",
+      "score": 62.59,
+      "corroborating_sources": [
+        "Artículo 14"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "723e2a1831c155a1",
+      "title": "Las tres facciones que luchan por definir la política exterior de Trump - Descifrando la Guerra",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IVkZYTXZyamx6YWU2Vy1XX2tfWThtMkI4Yk9CNjFNbVAzbW9YYURqOENqTXlqaVRYUHluU0dndjlaclhrWC1TRVpDQzBSVGRqXzRwZ04xSnJLazRmUWlrQUREd1VnbGJCNWFPalBrTWM5TEhlRTRwQ2Y1SDU?oc=5",
+      "source": "Descifrando la Guerra",
+      "published_at": "2026-11-21T06:42:31+00:00",
+      "score": 61.42,
+      "corroborating_sources": [
+        "Descifrando la Guerra"
       ],
       "signals": {
         "source_count": 1,
@@ -41,9 +146,24 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd25YRmpwRHlQcUJSeWFreHJhdlRXZHNVY1ljZnZfai1mamVaY2xJX0RxYkJ0TmhnRzB5RmRvVlpfbno3UVZfUnJ1NThTV2YtZ3hOVjdPRl9xUEt4Q1Jud2RralFYamJrb2tqTktBWXBES0tHVUEteWt3NlJ2a1h5X1JkWmxuR0tGa2YtaFdvcw?oc=5",
       "source": "The Voice of San Francisco",
       "published_at": "2026-11-21T17:14:14+00:00",
-      "score": 70.25,
+      "score": 61.22,
       "corroborating_sources": [
         "The Voice of San Francisco"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "301c768097230a68",
+      "title": "Morre Phumzile Mlambo-Ngcuka, 1ª mulher vice-presidente da África do Sul - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG54cy1QNVo1bFNPTTFybUF4WC13WGxkNU1NYnM0TzZsTHgzRW83eXNFLWUwSUlnTVM2VjdBM1F3SE1qaG5OZHpMSE9jZ2ZJUlpwc0ZqTG5TRFpSLVpXSHVXeUlKNVBpUGs3S0JuN2k4NnVKZ05td2poakJfTExiREJvaC1jbWdnWEkwUEM5dHkyV3RwczhyUkZIZWVrXzJvc3gzS1drMA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-21T12:31:00+00:00",
+      "score": 60.44,
+      "corroborating_sources": [
+        "Metrópoles"
       ],
       "signals": {
         "source_count": 1,
@@ -56,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDFSamM3U2VlRmhIRlNxRkM0dUR6Q1dqMTR2Z05RcnBIVDNaWV8wUXpaNkVZeFRlTUpvNjRpbEdhZ2pfR1NkRnQ1MHR4Z0JCdjYyLW5nRVJxNng5eHVMRjBRNkVmTkxwcm9LdFZWQUNvMEk2VkFRc3BPUXBoOWFJUm5hTG5pMGotY0lJRUQxM2Y4UlB6ODFXaUMtLXF3M1Zrc0k4VXRpNndrYjFKRXRFa0ZQamNzWU5GWENsU29KUnBLWjYxREtKYXRkcWRCQQ?oc=5",
       "source": "Diario Armenia",
       "published_at": "2026-11-21T15:52:18+00:00",
-      "score": 68.77,
+      "score": 60.08,
       "corroborating_sources": [
         "Diario Armenia"
       ],
@@ -71,24 +191,9 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcXR1Y1JDbk5zZDVoV2M4SXlTdjJJVGxudjRxVmhRM2RfaklhUXV2SVFpd0pZUkVIOHJLTjBNQXVPeXFmQVNNWUhkOUpHcUtYMEg0LUhsaFRpZUY3ZzN1RGNRX3dGTlNEZVNZeFQxazIzT0MxcHlERkZPZ0tQTnhlS3Eta2p1TktHa082MEJ6cmtyQ2cyTGhqYm1Vc0xEc3FtT0FHclA1bVVrR1oyaW5aZTVORUhpTEJ0UTJwaFNJa21tX2Nac05aNjhGN0RSVmJ6ZnlSTFlSUUJnNHYtcWliWWtSSzB3UDhnbU9ZcXVWLTZPZ9IB9wFBVV95cUxNbWNuV1d0SEdwUXVkeFVjcFNMcFFzZDZYS3ZVSVR3cExvbDQ1T0VNdHQ0anJ1X245MFpvSG1ocFNSLW5ZTzdlbThmbmZIY0VfeHh3bHE2ano4SHRka2ZMZ1kzR1dwbVdZX0g4Q2ZWQ3Y2RVFhYTU2dnIyN1Bydjg1VEZqM0JyWnhVR2pnN3JBazBnbkJDNHRGVlRCNGRsYzhUVlZSWm5rRXBPRzVLY3NtVFIta1EyakxoQTROZFMya090dURVdTMzR1hSNTRiakNHSkN6OHFkd2ZEYlBJYVR3NFkwRWExc2ZSZzEyMGZKcDJzOUl2MU1F?oc=5",
       "source": "Estadão",
       "published_at": "2026-11-21T20:00:00+00:00",
-      "score": 68.43,
+      "score": 58.67,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "723e2a1831c155a1",
-      "title": "Las tres facciones que luchan por definir la política exterior de Trump - Descifrando la Guerra",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IVkZYTXZyamx6YWU2Vy1XX2tfWThtMkI4Yk9CNjFNbVAzbW9YYURqOENqTXlqaVRYUHluU0dndjlaclhrWC1TRVpDQzBSVGRqXzRwZ04xSnJLazRmUWlrQUREd1VnbGJCNWFPalBrTWM5TEhlRTRwQ2Y1SDU?oc=5",
-      "source": "Descifrando la Guerra",
-      "published_at": "2026-11-21T06:42:31+00:00",
-      "score": 68.17,
-      "corroborating_sources": [
-        "Descifrando la Guerra"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +206,24 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVXBwZnBJaHMwY0VpdnY1ZXVEQ3VVNTdPRlJYZ1l4UjFSazY4ZjlpYnNaRXRRMmNTRUNrdzkwTkE0MVlCS01Xc05HZUl1NmhiQ2VyaDUySXlyaGVvWFJZN3dHMll0UmxTbGlpSGd5M3NiRkl4V09ZMl9FM01aTEZKb2hHV0x0T1ltdm5rSkJ1OTBmNUJTMXR0cHM5Z2lCY1ZESEZjVkNfRUFIeExNcGw4TVFIY0hDNHpZbU9FWjExLVZCRVJYZmJ0UzVQZVVrcUMtQlNJZ2p3Snl4V0NYUnRV?oc=5",
       "source": "O Antagonista",
       "published_at": "2026-11-21T19:33:00+00:00",
-      "score": 67.89,
+      "score": 58.26,
       "corroborating_sources": [
         "O Antagonista"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "3cf2c4b2bfcc776c",
+      "title": "Brasil lidera avanço regional e mira boom de data centers até 2030 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzVCYng1VDdfZ2U2U1Uza1FRQ3FITXNjNzVBeWNOekpfcmR4Q2tRWHJ3Q1lKZ0ltbHVfU2dBaV9qSWVzc0VUN3IyZWE1N2hUMW1HbEY5aENYbnlpWVVhTk15RnBwWENsSUhnLURTblR2UnEyVTQ1dEgySVA0THVPMmVBMW5SVlh5cTl1aUVkUzUtaXhXUllCemc2X3RiNXN4bHNWZVBXZEIwVkZsNF9HakVpamk4dERIX2c?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-21T19:00:00+00:00",
+      "score": 57.76,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -116,84 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZERZOFVfSkMzTFJLWEI2WFdkNk1jOG5qN0E1NG9DMm9NcVRubUxmRmhncUVaQkduVXZZT1BLeFA5b0cyMnN5cU15bWhhZ2lPWlg3dkpCVmtOcHJYSkVtamNUREZpTk9jWWx4YXBaSFpfWVFDR0lHdHYxdFdWbjNobUdITkxYdjhtd2lHSWVwQ3RPNXRWSHdKUGo3RXNSbkZxcEtuSUM4WTBoZ29aQjg2eQ?oc=5",
       "source": "Nanaimo News Bulletin",
       "published_at": "2026-11-21T12:33:53+00:00",
-      "score": 65.41,
+      "score": 57.48,
       "corroborating_sources": [
         "Nanaimo News Bulletin"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0baf1c8d5454f457",
-      "title": "#PolíticaIrremediable | “Las negociaciones que hubiera podido entablar la presidenta Sheinbaum con el líder supremo y anfitrión de la cumbre APEC 2026 chocan frontalmente con una realidad” ✒️Lee la #Opinión de Román Revueltas https://mile.io/4AOG3 - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGFZRTdpUUQ3aWp0amp5S3d3aFZSSDh4U1pfWXFTS3VfV3luOWRaUVhVakhoRmpEbWFoRUt3NE95amk1Nzdoenl1cU9EbENhdTY5UUtjZWhnbjlEZkM3VlFvSU80UUt5Tkg1ZVExYTNtZnBwaVBvbWY4V0NqNm96RnRnLWNUWU1QcFpYbEtsLVg0MTh5SXB0ZUF3UmJRb2UwN0w1N29vamNoQkFCUURobkVFUHpxQk43b2pERTNvUDhGM3FBSWFGZk9iVUJoUnIwWHBYYUZFYWotcmdLcV90U3ZR?oc=5",
-      "source": "Facebook",
-      "published_at": "2026-11-21T19:12:28+00:00",
-      "score": 64.49,
-      "corroborating_sources": [
-        "Facebook"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "96e0618834347612",
-      "title": "México en China: la soberanía también mira al Pacífico - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0RxdVpySTlsYTZESUpXRHREQUpYY1lub01BNzRXMnNsRHNJd3N4VTYxRmMwUkp3ZFA2TnMxVEpsYmhXUk5tbm4xNC14ZGluZVBVekxiMmV6VHY1OUVWNFZndWtseG1DQTdlY1ZkWTVWMzZ6OHMwYUloVVVBQ2sxQlIyQ1NPVE5VTnJzZU1fSW15YjBhUm5tN2g5MDA?oc=5",
-      "source": "Infobae",
-      "published_at": "2026-11-21T18:33:00+00:00",
-      "score": 63.73,
-      "corroborating_sources": [
-        "Infobae"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "065f68e99f58ac56",
-      "title": "Grupo de Puebla: ¿Quién controla la inteligencia artificial? Expertos mundiales se reúnen en Argentina para debatir el futuro del poder y la democracia - elciudadano.com",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQ2NWTG5DaHZyVUxNM1ZRek5aa3NtcHFRei1KSkd5bUNJYzN5STBGTFlTUTQtUHRrbzVWdEgyU2NuQW5VSUZESTNEY29ueDhzOWFVbjd2ZjdLdEQ2VUF4X0lYSGZQS0QzUTFTbmk4dEZvTVBJZ0YzQll6azd3RjlGY2YxOVBMSEFlYW1SbWJtVEFVMzdwNmpWLVZuczRKVVJwVTRVUHA2V0FUWFIwWjFLRWlWNzliaTVRTFFDcy1Qa05PN2VKMXU5d1ZLQ3JtMThjU0lGLUNqa216LXZNYnZUMm1SOFFRMGRYWlVhUFdkcngyWTE2allDLTE3T0JuVmZzdjU2NFd4Z0d3OFk0aWJnZVZ0YXR2SUJtbFpIYVlGNGVHZmc?oc=5",
-      "source": "elciudadano.com",
-      "published_at": "2026-11-21T10:07:35+00:00",
-      "score": 63.12,
-      "corroborating_sources": [
-        "elciudadano.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a31e164dc0fe868e",
-      "title": "Inside a room with Trump, there's no mistaking who holds the power - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmRTQk9KTVVvc3JqQUM0X3BNVFdlc3V5RVY0eXVNOXk3OFJoV3dOS1ViQlFvSkhDaEh0M0swZDU3aVFfNXFVRzI0Um05cjZsOUxVaHZicTRubURIS05fMElFcGVlMlZwSGJHNUtodVROSVhuNVloRjFlLVdocEhEM2YzeEpqYXotT19hZkFiYXVLQ25XU2NHS1lR?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-11-21T18:00:00+00:00",
-      "score": 63.1,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ff4deb2a7040ebe2",
-      "title": "Embate na esquerda sobre ajuste fiscal lembra disputa que deu origem ao PSOL em 2003 - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVBLb01DQXh3b3ZpVklGdkdUVGktSUtqRlhhRHdhNjdNU1REY3dieGJVZ1pEX1ZCWlRMRF9FbVNua3I3UVpZdXlKU3pZVllrSlVMWFlzaXU0Sk4xX2pmSk4yeEozRU5Cb0QtUU03djBHcXp4WDR0TjdZQjJ1TmJaMzNGQndnTXFocmJWZTd2SlRzdVRPYWlSU1pjc0x4NDB1S0V2bjNiWFVBWG9EUlpjOFVtUWRLaWl0RUQyUzM4eG1JWDFCaXVjaEVZTFBUdVlLYWthWHl5MV9vRDVfNDU4RThERXBlTDJ3ZUHSAe8BQVVfeXFMUFd0Z1VZczNmZ253ZE9DZnFBUzYzV0xObXBiWVpzUTBUUTgzMExyVmhjSVJ0NGREMTdtWHFtTENYNXZaandLZHd2Q21tMklwNFllNmN0eFN1WENrMmdyaWN6REFmb1hfcGpmWFBvUy1YcFREcGtrejJadVdoTk1rajFIeG1ySElKNFpsTFJoZXdRZTZ0NTJUV1FBUVdfWEExc1MxbkFqRjhzQ3JFX0xFcF9TanI4eDZwdnBwaVhjb1FMS015dTBlbEtlaWM1dm1kdzNwZG42SElrakR0WURSUlZMLVFMUmhKSHJlTWR2U2s?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-21T15:00:00+00:00",
-      "score": 62.86,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -206,9 +251,24 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzYyRVdtV2NTSzFUdk1xRTJRV3Z4QXVnSmFmU0Z2TEwteHpKR19DOUZhb3JrUm5TWEZfX1FjNm01SmtJSEY4bWoxVEhJMWFIb0RVVjZUbGFubTlkbGxXaXZOcGh5dVVhdG9zUFRXZ3NIOVJMS3JTVmVPMEpfdXVBVUJCbjYwbjZma2N1WmNNTDV1R01qNlNB?oc=5",
       "source": "Modern Diplomacy",
       "published_at": "2026-11-20T23:00:09+00:00",
-      "score": 62.45,
+      "score": 57.0,
       "corroborating_sources": [
         "Modern Diplomacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "065f68e99f58ac56",
+      "title": "Grupo de Puebla: ¿Quién controla la inteligencia artificial? Expertos mundiales se reúnen en Argentina para debatir el futuro del poder y la democracia - elciudadano.com",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQ2NWTG5DaHZyVUxNM1ZRek5aa3NtcHFRei1KSkd5bUNJYzN5STBGTFlTUTQtUHRrbzVWdEgyU2NuQW5VSUZESTNEY29ueDhzOWFVbjd2ZjdLdEQ2VUF4X0lYSGZQS0QzUTFTbmk4dEZvTVBJZ0YzQll6azd3RjlGY2YxOVBMSEFlYW1SbWJtVEFVMzdwNmpWLVZuczRKVVJwVTRVUHA2V0FUWFIwWjFLRWlWNzliaTVRTFFDcy1Qa05PN2VKMXU5d1ZLQ3JtMThjU0lGLUNqa216LXZNYnZUMm1SOFFRMGRYWlVhUFdkcngyWTE2allDLTE3T0JuVmZzdjU2NFd4Z0d3OFk0aWJnZVZ0YXR2SUJtbFpIYVlGNGVHZmc?oc=5",
+      "source": "elciudadano.com",
+      "published_at": "2026-11-21T10:07:35+00:00",
+      "score": 55.71,
+      "corroborating_sources": [
+        "elciudadano.com"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +281,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDRUNlFNOHlOdnZHOW5LdXdvdXZWS3NvcW5OTlN2RU5iUjNwbVVUZnRPc01kZlhDQURHNTFUS1RDVENsUHRnV1ZoR283OVlfdElRd1hHaGdvOTZ4RmdWOVVGRzVJSEE2bE9RR0Y0aXJQeGpfcXJxbU1Sa2J5dzFCN0NORS1JRmhkbkVXeEt2RTBHV0syem8yRmRfLXNHOVpiUG5pTlhUVUdaNWpvR0luRWdQRHNiOXgtS2tLZy1Ib2E2Z9IBwgFBVV95cUxOdXZKQVVVRUxTUGozRV8wRlQyNklnZjJPaF9QSEtScjBkZ296LWtfWVg1cGdtSkZTbG1Qb09KS3V5S1d2YVNKdHJSNWYwcWM3RzAzWDZWckZIRXI4MEUwWUh5Qi12UHBZVWZ5VlNidkRib1lpODFGYXhHQ0Flc2xmUExGUDJUMm9fQ1oyLWhuNV9wclBQUGN6Z2NCZG1NVWxEYWVxeWhiZWQ3RGE0b3I4aG5Ca1A2dTJZdXRSenFyTHF1QQ?oc=5",
       "source": "El Periódico",
       "published_at": "2026-11-21T09:00:19+00:00",
-      "score": 62.12,
+      "score": 54.94,
       "corroborating_sources": [
         "El Periódico"
       ],
@@ -231,14 +291,44 @@
       }
     },
     {
-      "id": "e5347090121482e0",
-      "title": "The Economist: Brasil lidera corrida da América Latina para virar polo global de data centers - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTQ1SGlXVWRqUUFpNVIxdmh5akR1Q0c4ejZ5anJ2WnpWNkhOb0xfdVZMRzc0ZXppM2FJNVRSc2U3NEEzRFFJVnN1R3hpbmM2UG9BWE5SQzdyWExldjRWeU5SbUtVajlpc2lEVmdfcUVkVDd2TFNaNjBKbEhjVEF3WHEtZGw0cURYLWd0NGhRN2h0OG1LNVQ5MEduZFhIZnVIbHZZUmFWME1mZjNZeFA4bDhSNmNuM29uUzUxUHp4YW1HQ0VGRDVwSNIBzgFBVV95cUxQb0Z1WkIzSzczS2NWMmU1MFJzTTcxakh5SWpWcDhoN28tWG13blVhQlMtb1M3Mm5KLVBTYTNlSDVBNmU4aVplQ1dGSDhzUGxfYmxhNTBDcDJSU0MyUXBrRzY0Y3pySVN6ajQ5SHZXMjhHbXF5VC1pdXZaMkhpdmU0Mm8yanZOWXpDNHlTQmRHS0R6Rk1CdTM3aHdFQzdXT196LVpKMWxWSk8xRWVuZTZ1NkNjZkxteEQtSFdfZ19wQ0pvZlYxLVhXQlA0aDRqdw?oc=5",
+      "id": "ff4deb2a7040ebe2",
+      "title": "Embate na esquerda sobre ajuste fiscal lembra disputa que deu origem ao PSOL em 2003 - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVBLb01DQXh3b3ZpVklGdkdUVGktSUtqRlhhRHdhNjdNU1REY3dieGJVZ1pEX1ZCWlRMRF9FbVNua3I3UVpZdXlKU3pZVllrSlVMWFlzaXU0Sk4xX2pmSk4yeEozRU5Cb0QtUU03djBHcXp4WDR0TjdZQjJ1TmJaMzNGQndnTXFocmJWZTd2SlRzdVRPYWlSU1pjc0x4NDB1S0V2bjNiWFVBWG9EUlpjOFVtUWRLaWl0RUQyUzM4eG1JWDFCaXVjaEVZTFBUdVlLYWthWHl5MV9vRDVfNDU4RThERXBlTDJ3ZUHSAe8BQVVfeXFMUFd0Z1VZczNmZ253ZE9DZnFBUzYzV0xObXBiWVpzUTBUUTgzMExyVmhjSVJ0NGREMTdtWHFtTENYNXZaandLZHd2Q21tMklwNFllNmN0eFN1WENrMmdyaWN6REFmb1hfcGpmWFBvUy1YcFREcGtrejJadVdoTk1rajFIeG1ySElKNFpsTFJoZXdRZTZ0NTJUV1FBUVdfWEExc1MxbkFqRjhzQ3JFX0xFcF9TanI4eDZwdnBwaVhjb1FMS015dTBlbEtlaWM1dm1kdzNwZG42SElrakR0WURSUlZMLVFMUmhKSHJlTWR2U2s?oc=5",
       "source": "Estadão",
-      "published_at": "2026-11-21T13:00:00+00:00",
-      "score": 60.84,
+      "published_at": "2026-11-21T15:00:00+00:00",
+      "score": 54.37,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "e0e543e2d2bc6c29",
+      "title": "México en China: la soberanía también mira al Pacífico - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0RxdVpySTlsYTZESUpXRHREQUpYY1lub01BNzRXMnNsRHNJd3N4VTYxRmMwUkp3ZFA2TnMxVEpsYmhXUk5tbm4xNC14ZGluZVBVekxiMmV6VHY1OUVWNFZndWtseG1DQTdlY1ZkWTVWMzZ6OHMwYUloVVVBQ2sxQlIyQ1NPVE5VTnJzZU1fSW15YjBhUm5tN2g5MDDSAbcBQVVfeXFMUG9BX3NqdHlIOG1UeVpiOGlPaW84U1dDV0FpZDdCM0ZKT05jbHZOLTMtVmVhTWF2Mjc3T2VZZ2oxeGhBWlNHYmQ3SlY4aUZjRTZKeGFnUEtfOW84Vm1hZzZ6Y0VielpxVm0zLXNLNVAxMTFnNlhFdTg0YnUydTdzUkZNcHdVWk5Yd096dEE0WUNNTnk5Y2FXTF93R05MMnRoZm5zM2t2dXRhWnRid25kb1dqWUd0eWNv?oc=5",
+      "source": "Infobae",
+      "published_at": "2026-11-21T18:33:00+00:00",
+      "score": 54.36,
+      "corroborating_sources": [
+        "Infobae"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a31e164dc0fe868e",
+      "title": "Inside a room with Trump, there's no mistaking who holds the power - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmRTQk9KTVVvc3JqQUM0X3BNVFdlc3V5RVY0eXVNOXk3OFJoV3dOS1ViQlFvSkhDaEh0M0swZDU3aVFfNXFVRzI0Um05cjZsOUxVaHZicTRubURIS05fMElFcGVlMlZwSGJHNUtodVROSVhuNVloRjFlLVdocEhEM2YzeEpqYXotT19hZkFiYXVLQ25XU2NHS1lR?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-11-21T18:00:00+00:00",
+      "score": 53.88,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
       ],
       "signals": {
         "source_count": 1,
@@ -251,24 +341,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmlYZjhnNkNvMEVXSmgxNUFjQ0dWVFJtUVhCRjRScnBFM0NzVmRRelJzVlQ0YjBUVUVCWFZ5UTVqWTk0cDVoTks0RG10RTB1bEh6M0FDMXVNUmgwcTBJeVc0T2hzWlJNOGVjeGdyVmhPbmRSNXkxNmI3T194RGMyR1UxQm44a0tQQWNTdG1XSWxObnhKb0xYcE00UU95c1k?oc=5",
       "source": "The Daily Utah Chronicle",
       "published_at": "2026-11-21T01:30:36+00:00",
-      "score": 56.17,
+      "score": 50.34,
       "corroborating_sources": [
         "The Daily Utah Chronicle"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "beed4a8154239ec8",
-      "title": "O xadrez de Shenzhen - O Tempo",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWI3VDU1NE8wY1A5RUttbHFIYksxMWpEWjdCVUZQenFETFpmYnotdlJSOWtvNFd6SHpjMGNBM3Mzd3lDbFctZXAyRzBmQ1lMUF9jS1IySFdfUXlkSVd2NXBXdnpCbnJkU3pnaXFjbmNoODZPdTlVSEVqSVFnaFRCX3VpQjBZVTA?oc=5",
-      "source": "O Tempo",
-      "published_at": "2026-11-21T10:00:02+00:00",
-      "score": 55.01,
-      "corroborating_sources": [
-        "O Tempo"
       ],
       "signals": {
         "source_count": 1,
@@ -281,24 +356,9 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTM1MUNfZUZoNWNMNkpxZzlSN3NBQXRQVWloMVU1bUVmSWhNZjdBOV9fWklfTGZOZ0tCYUpCWTlOSkl0d0JGblQ0enFqbk5HQjM0eVJYbElWN0lfTzNWTU1YRmpvSjZiZTM3WUgwNU5PYXBqVVBzdjcxeklyMk5xX1FqalEzcm_SAagBQVVfeXFMTV9qaWFnRVp0RG5HWTk2bnBBLWFEMFp1cmkzWXJPSlJCVk84NG82Q3FHWkVOeUU5RlJ3WG9qN2tHSW1pZ2ZPTmM1YTFobDlLREFNWWduSlpyZ2pKQkpkVGxNOVZ3UU1tbFkwNkQ4TUZ6S3Zld1hGd1J2Y2JpRjhaMWFKcDVaUlgtdTVrcGlXQ1JoRWlaRURIQkhqNGZubnNRVVNhUFNSSFZ0?oc=5",
       "source": "La Tercera",
       "published_at": "2026-11-20T23:48:00+00:00",
-      "score": 54.98,
+      "score": 49.42,
       "corroborating_sources": [
         "La Tercera"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0dcb84becbd633b5",
-      "title": "Geração Z impulsiona radicalização política global à esquerda e à direita - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHJjcEMzMWVoMjFUZzdqR1l3dVZmbzgyZ2ZlRUk0OEE1ZFdOYTM3U2ZNYVNKUUFKUkZHWEsyemdfbmM4Y1RJN3Z3Zkg5U3NRamZtLURtOXJXSkIyaGh5a0xjTDNvQ2FNY3RvWUdpRW9MaVpxSzVSTDlUeTloSG1pTF9rMnVXM1dDLVpYRWNmQnR5S29pcnVwVjNhY3dsS0F2Q2NqMVZLZzZielJyNlZ3OFZEa2ZEYjBON0tMaHJZQkFleHRrRUp6MlJzRXVjUmVyb0ZlS29aMWU0b1pCaUxV?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-20T21:08:56+00:00",
-      "score": 53.24,
-      "corroborating_sources": [
-        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -311,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVdrUlBUcTJqMnFqU1hiUXNVZjNiZThWeEx2SThMT2dZbXY1Y2t1d1B3Z0laTUMwUGp0NzI0VjVCSmNvOGJwd0ZKS3g2RmtFRWxyenN5MVN1R1gxdjBXbGc0b0dNSVdOSU5ZTGEwLThkY3FEZGlCMkJ5TFBTUXNYMkVrQkdkR3prX3B6andOWjdSaEVhNlgydDhLUlY4cXhXaUFINFlBZl9iNDgzdmN1MlZVSGlScFE?oc=5",
       "source": "The Seattle Times",
       "published_at": "2026-11-20T02:12:57+00:00",
-      "score": 51.93,
+      "score": 48.88,
       "corroborating_sources": [
         "The Seattle Times"
       ],
@@ -321,57 +381,12 @@
       }
     },
     {
-      "id": "4c65fb225c1a5822",
-      "title": "Rubio y Stephen Miller, jefe de Gabinete de Trump: de enemigos a arquitectos del poder de EE.UU. en Hispanoamérica - El Debate",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFZ1UzR3dGJ2b05nTFVnSkRseGxvRTJ1Uk1zZ2twd2VyVl8xNEZKOVY0OHVlZW0zdTVHd1NXMW5lNzV5YU5RcGktaU5nSnJkRVJwR3dZamg1QU5xWDc2NW5vTk85ekNpZGxha244SXZJR1Job1ZfRXVzSjBCZnlDeEgtc29fZUQ3TWpRWXNVbG1TTnlpOEVndllEZEZPQW92STZfZm1lMmFFSWJtVHlQV2MtSF9iNGlIMGp6ZFlLQ1JRYXJqUmVQZVlvMWNOU2JpWEE3dtIB2gFBVV95cUxQNDhqWm5FZ1dVOHhObjdWTEZMakR4RHhUMWtCVnJObVctTlZXQmdvV3FoSV8xS0FTMWFyNDBTT290eDVlV0FnN3dXTUtYRG1MczFPVnNKT2drT2pRa2ktNmVlLWw2alI5Wk1uSDNGYzBRaGF5MDBjSWVYMzJpNEdfeklNUEN4NUt3cXh4aXhHdWVHYjJtSVQ5a0M3WkJOcDdsSWd3bmtCZUtkN18yVmFiVTBFYmRqWGlTVmk5TkVnN2JYWWRRNVByUXdaNnJOU0o4TW1XOFM4QmU2QQ?oc=5",
-      "source": "El Debate",
-      "published_at": "2026-11-21T03:30:00+00:00",
-      "score": 49.63,
-      "corroborating_sources": [
-        "El Debate"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "3b2fbda8c1ecdf40",
-      "title": "Pressão política deixa painel de ciência climática da ONU sem dinheiro para 2027 - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnRiN21PeTMzODBNT0xGSW9uWUZMcUM1Nm45blRkWUVhNmQtVmlTRWQtWFVQOUhydjRuRkl2SzBuVG9uTFlyaXdYUkI4MUdNZFdYcUxqd3NncmducmZlb01GNXVqa0FQck9od1dVb2VtVXFPVjM4Xzk2Y0E5dU5YMGpQbW81SnZySGMzdkRmamMzZTg5LWtKZW1uM0FNNDQ5eExYMmFLcWhIMGp0MU9oNEIwNXpPUS0tcDFVam5QYWFsTno3dERnc1R6MEdsUQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-20T08:00:00+00:00",
-      "score": 49.28,
-      "corroborating_sources": [
-        "Folha de S.Paulo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9ef70748042c58af",
-      "title": "Prabowo Tightens His Grip as Indonesia’s Economy Collapses - World Politics Review",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR1NiU2Jqcks5MlVkM2E0QlRHcHBKSGYwdGROTGNVeHpMVk80RG1yZl9sQUc5WmRncEZjQmU1Y21BOG1nLV9UTU9SMjlvZ05qYW5zd0lPTExESTl5MFdNRW1CT25TTlNITHRpWmxlT0ptWHJraDlwNUhqelQxMzJoMldVYS1zblNoaFhXZkc2QQ?oc=5",
-      "source": "World Politics Review",
-      "published_at": "2026-11-20T13:00:00+00:00",
-      "score": 48.63,
-      "corroborating_sources": [
-        "World Politics Review"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "52853fd409b637e1",
-      "title": "Trump ameaça taxar empresas dos EUA que construírem data centers fora do país - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUxSUGJ1Q1BVV0I3OXAwZUl2RkM3bmdZUEJnWWpBT3UtaWwyWklTSVlqMVYwYXNOTkc0Y3NRWVBQTUh3UVFRLUFBaGYtSDVkY1Z5WkxDS01vbmVQN2tlMHVFblJYTGswTnV0Z19wZWZzT1VPUGVEMjh6YXhtemlkWU5uYVBUOFJDamFoOTBlUEhVOUVXMWU3U1NKNWF2YVpJbnI5THNGSjVCQQ?oc=5",
+      "id": "0dcb84becbd633b5",
+      "title": "Geração Z impulsiona radicalização política global à esquerda e à direita - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHJjcEMzMWVoMjFUZzdqR1l3dVZmbzgyZ2ZlRUk0OEE1ZFdOYTM3U2ZNYVNKUUFKUkZHWEsyemdfbmM4Y1RJN3Z3Zkg5U3NRamZtLURtOXJXSkIyaGh5a0xjTDNvQ2FNY3RvWUdpRW9MaVpxSzVSTDlUeTloSG1pTF9rMnVXM1dDLVpYRWNmQnR5S29pcnVwVjNhY3dsS0F2Q2NqMVZLZzZielJyNlZ3OFZEa2ZEYjBON0tMaHJZQkFleHRrRUp6MlJzRXVjUmVyb0ZlS29aMWU0b1pCaUxV?oc=5",
       "source": "Estadão",
-      "published_at": "2026-11-20T18:45:32+00:00",
-      "score": 46.78,
+      "published_at": "2026-11-20T21:08:56+00:00",
+      "score": 48.07,
       "corroborating_sources": [
         "Estadão"
       ],
@@ -386,6 +401,21 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0tZZDgxWnhfb3M2cVczakFRZjNSY0FmSXpiZUlMdnFlcnZoLUlWSW4wWTZwcVZqUGdSWGlzMnZFX0JlMkVSa0JwMlNDNk5lYVdhYmx5Y2EwSUdVbjVfM1VaZEdOYkgxRVp3NU9hTlNWdHNlNUVScm0yb2d3Tm5nRjZtdjg0MEJBc1JMdnRB0gGWAUFVX3lxTE11U1FFRFhFUGVEQkhLLXJyazZPUzFla0lXWWUwbU1sR2N1YTdqczBTcm9wcGotanhJa01TOVBITHY3WU9LUFEtazhWU3NvOGw1Q3JFZW1aeklkZzY2N3hzMnlJck01alhwS25zVnJtTmFlZW16Y3JEbUxLbVJFX2R2TTY4bkZhbl9xOURBdWFFMmI4dEJKZw?oc=5",
       "source": "Partido dos Trabalhadores",
       "published_at": "2019-09-22T07:00:00+00:00",
+      "score": 46.48,
+      "corroborating_sources": [
+        "Partido dos Trabalhadores"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "f61d0570d5c53a84",
+      "title": "Amorim: atual governo está destruindo política internacional - Partido dos Trabalhadores",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGhsa2UyV2hrQ1VFUzhFSEFIbksyd3ZPYi1WSUlEMWlqQmt4czJDdkF1WW92d0xNYmtVWjlwZ3ZWODJreFY5NHcyOWFqZzV5Wkc1bUZkVFVTZFFKY20tRDczX1g2SjdjZ1poTHR1cWVwVG1laTRmQXRHWXUyR05kbi04M1PSAYwBQVVfeXFMTkJkYUpSckgxbFloT0szb3pMaXV6UjV5S2ZDRkRwTjh2dHV6dTlrVTBWRHB1a05ESW1LQ0JROUxCZVZ0YjV6clpxTDI4MkM0eEFFMjVudjRVN0x5b3NVcFJyODctNV9RektMcjNYU2M4Q3JpbU93Ylg5XzB5bjZ6aFh6aFRncEJZR1VQU1E?oc=5",
+      "source": "Partido dos Trabalhadores",
+      "published_at": "2018-08-22T07:00:00+00:00",
       "score": 46.48,
       "corroborating_sources": [
         "Partido dos Trabalhadores"
@@ -411,44 +441,14 @@
       }
     },
     {
-      "id": "483edbe3e43759aa",
-      "title": "Tres hombres, tres potencias y un mundo que necesita algo más que palabras de paz - Periódico Digital Centroamericano y del Caribe",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd3VoaW43T0lyWGxVdzB4R3R4c05ZZzRNeS14X3ZVTG5naHoxYURwaDNMaWF1QTFFNGNRUFFpUUlpX3p3NVRqQjVoYWFrZnpjN2pNMVZLeDJYVzJicUt5MU93QUh4SWZJTl9tSTQ3QVJWV0F5NUhjRFI3QlplMmN6bzVYWDBTUFFUa1VIS3g4ZlBHNzBaVDhLN3dkc2VNekdkd3dzWmVUSWNqSkNQMGNIcU5uNEFQZzZMVG53Ynk2TFA3Y28?oc=5",
-      "source": "Periódico Digital Centroamericano y del Caribe",
-      "published_at": "2026-11-20T23:01:51+00:00",
-      "score": 46.46,
+      "id": "3b2fbda8c1ecdf40",
+      "title": "Pressão política deixa painel de ciência climática da ONU sem dinheiro para 2027 - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnRiN21PeTMzODBNT0xGSW9uWUZMcUM1Nm45blRkWUVhNmQtVmlTRWQtWFVQOUhydjRuRkl2SzBuVG9uTFlyaXdYUkI4MUdNZFdYcUxqd3NncmducmZlb01GNXVqa0FQck9od1dVb2VtVXFPVjM4Xzk2Y0E5dU5YMGpQbW81SnZySGMzdkRmamMzZTg5LWtKZW1uM0FNNDQ5eExYMmFLcWhIMGp0MU9oNEIwNXpPUS0tcDFVam5QYWFsTno3dERnc1R6MEdsUQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "score": 45.69,
       "corroborating_sources": [
-        "Periódico Digital Centroamericano y del Caribe"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "e869a45dba3cf6b5",
-      "title": "Palmas inicia mapeamento da população quilombola para orientar políticas públicas - Gazeta do Cerrado",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGhIQjJjUEstZHJya196OF80a0FkOWR6cUMyMUxuVFJJOW93THNDSVNxNUhVaGsyVmJhRDFzbURJMlpreW9tQ0xBa09DMUFIMkhHTWZrdjZFcC1wbk0wS0JGN09pTE9DZldLSktJemJrb1ZOQW02eDJOb0FHREpSRjBibG5vdzd6aXRIV3BVeElfcHRJcER3Wm5YQWtFcmM4OWk1a2k0TzF0NUl0MTdMTFpBZzRNZVVJcjgwUEpqdUg?oc=5",
-      "source": "Gazeta do Cerrado",
-      "published_at": "2026-11-20T17:31:26+00:00",
-      "score": 46.06,
-      "corroborating_sources": [
-        "Gazeta do Cerrado"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c05dba3ae09da598",
-      "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUwxNV8xX3BDYklDLWx0aEdTNXd2YnI2ZjNKNGY0ZUhGdlBIRUNIOTBybVVuek1OYzBuQkg0OXFJNjRXYjZ4c1lHTTAtUDhjUktUUmJzUHZTOWRIZUt1QmtYZDFGQnRTUEpGeDBtUzVnZWVCVVU1X1VCR0lzT3dxVkpYT1hNVTZiRFE?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-11-20T05:01:07+00:00",
-      "score": 45.02,
-      "corroborating_sources": [
-        "The New York Times"
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
