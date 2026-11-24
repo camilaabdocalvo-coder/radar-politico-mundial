@@ -1,19 +1,184 @@
 {
-  "generated_at": "2026-11-24T02:55:15.897510+00:00",
-  "next_update_expected_at": "2026-11-24T06:55:15.897510+00:00",
+  "generated_at": "2026-11-24T14:55:16.617965+00:00",
+  "next_update_expected_at": "2026-11-24T18:55:16.617965+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
     {
+      "id": "9c370d234136c505",
+      "title": "Festivals, bulldozers and the cultural politics of Hindutva - LSE Blogs",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2ZLd1pJOWdhOVFneWdaRFNVMGJpZlVrMkp1SlFtYzlvd3piM0VPWFJBLTVlYll5ZXBVaDNvY2NHZmJTWVFLRDA5UG9udUpha0VXRTl1X0Ftc1ZnSkFsMEpYeGtKMXBSVmQwMi04OVF1VUVmdHdSZ0FFYjdrOUR6YkIzd0tNeHozNFg5czNLdk1aNTRQdHo0ZlpkSzFLb1FENHNOUEFn?oc=5",
+      "source": "LSE Blogs",
+      "published_at": "2026-11-24T07:54:01+00:00",
+      "score": 67.5,
+      "corroborating_sources": [
+        "LSE Blogs"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7cdcbbb436ee29b0",
+      "title": "El programa internacional del PSOE - Descifrando la Guerra",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlc3UwU25zVDRPZHFJWDN2WGN2OEJMaFBxX19MWHh0TnVSUVlBOUI3V1lLMm9pSnlQYkY4Tk1NZjQ5c29oZHRDSGJuS3llQlpJT2I3R0xsQXE5NG1MV1ZqYTA3M1ByRHBndzZ2Wm4ybGw?oc=5",
+      "source": "Descifrando la Guerra",
+      "published_at": "2026-11-24T07:29:23+00:00",
+      "score": 67.08,
+      "corroborating_sources": [
+        "Descifrando la Guerra"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "bad97d56f005d86e",
+      "title": "Australia and Singapore join forces to regulate and protect AI systems - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTNtemVxS2d4elZQZEF6SlRvb2YweTlfa1pVM3hlbjN3NTBPaWdPZ28xQVFoYnlnLWk1UmxNQnQySWV4NHVXaHBKLTh0ZVNaTURtYlJTdWsxclB2SEU2a0hYU1BvY1NONG0wa0x4X0dFd2lPbEZ5M0FfcUZ4b1dqc1hrQlpwSndKSklMNnFnbFVTNmdNa19ZdXhBUkZiLXZWZzhkd0h1ekstRmdfZ08zbVg1QW5DWjZj?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-24T13:56:17+00:00",
+      "score": 66.26,
+      "corroborating_sources": [
+        "Plataforma Media"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8bc18aa1b2b09991",
+      "title": "On tripolarity - Philenews",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyck1nNXdSWnVxNHdxT3J6V28zOTVxTmVmMW5vNF9HUWVncjJfQzd4Uk1rM29kWlJOcTRfRzFlQmdFUXBYbWI2VWVVOHVhM0E2T0NQSDBUTGlILWc?oc=5",
+      "source": "Philenews",
+      "published_at": "2026-11-24T13:32:41+00:00",
+      "score": 65.79,
+      "corroborating_sources": [
+        "Philenews"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "a3591be5d465337e",
+      "title": "COP31 and A Dying World Order - Politics Today",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za3BYOGYwRDI1SG0tVGI4XzRMbWdPLVFlM1czemNORmgzS3hVdVpiUTloaGJHN0I1aTcyeG9Xb29mNVFpNlFhczMzckhlSDIwU0hYOHdIR2ZGeTdQa1h1Sjh3TWsxb0k?oc=5",
+      "source": "Politics Today",
+      "published_at": "2026-11-24T05:28:03+00:00",
+      "score": 65.08,
+      "corroborating_sources": [
+        "Politics Today"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9de7b84a524a99ac",
+      "title": "La justicia penal internacional, en la mira política - El Nacional",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2g5R1dpOFdZOVItLWFud0gwSjF1NnhaZm05c0pqMGxSVjZDWmtSVlZVLU9vWFlQY1FWN09tSVlVcThvNjhSUEZFX2p3aE95ckxGeTQxVmhzMzNzZGx0Wmc4d1NmaDE2SmRhZmpUQnliT0w1eFJoSXBXaXkzQ3J5c3JzZ29mRzFlVTJpeDliMml3WW11bVkzOVZLTnc?oc=5",
+      "source": "El Nacional",
+      "published_at": "2026-11-24T05:24:41+00:00",
+      "score": 65.03,
+      "corroborating_sources": [
+        "El Nacional"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "dd11d81d1407de53",
+      "title": "Court unseals records from Homeland Security raid at Ilhan Omar residence - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYjRDOHM0SS1sd3gzMXpFRm5aamZZbHZwRW5ZR3N6TjBKQjVpcDlqRkF0bnlja2RoMU9GTWxDSl9Uc25pNVRzeTJxdVJLbDhPZUp3dFF4TlVnVllGa0dOb2s3eHpRQmZITXlGWnh6VnNaSG5xUE9rREg4OFFmQjdrWHVWXzk4cTR4WVl3Z0l1VVJjTG03SEw5WXB4N2F4WE1pMldnLUJWT0FieWJzbHVtS2V5a2N4eTBIM2ZWQw?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-24T12:22:22+00:00",
+      "score": 64.4,
+      "corroborating_sources": [
+        "Plataforma Media"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ddcdc16b051d9036",
+      "title": "China sentences an official surnamed Ma to death for leaking state secrets to a foreign agent, state-linked outlet says - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1ZkNG9Uek96Q1U4TDROZ2Ria29ZblNKV1BKN2FjX295SFZmNVdoRWFsNDhWd3VvNjROZXVVVWZ1ZS1qY0RVOGNDS2xNU2Iwb1RnUXlLaGl5b3NPNTFueDhfRlN0V053YUx0ZTg4Z3dXM1M2bUtDc2RPM3JXdXZnOHFKRGZ4MldmYUp0SzN4ak8tMkhiTnZFR1pKTmRnc2ZvY1ljbjZObzF4ZlBESEpNeDRwQVlPSi1YcERONTRHRXNvaEE?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-24T11:51:27+00:00",
+      "score": 63.81,
+      "corroborating_sources": [
+        "Plataforma Media"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "488598a426610436",
+      "title": "La política de Milei en la ONU suma rechazos - Diario Hoy En la noticia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVlWUUtyY194VEp0SlFnejhldDNvNUthdGZvVGo4SlBtUXRBaTQ5aE5zQ3l1NjkyMzBPSmduVXoyLXl2Zk5fQ0VVS1V0MjFHeS02WWtuY0tLQkQyOGl4eGlpQVFGcnJIcjkyRkxTUEpQeHBPanVHLVN1aGlid29HZzJzb2pzX2JSSHfSAY8BQVVfeXFMUE9TVTAtOVBCbW1zdjctd29KMGpCOFdER3NZbHF4cGhmbXNRR0FzYlJGSHBGWVU0ckEwRXZMSnkwRjZEODBKSERya1BQdmtSYmxTc3IzUHNxMGtGblMwSGRzdnB2Q1hPdWp2LU43Ni1kVU9odDhBcERkWEo3Yl9jRTdtOWF1MjhfM0NlQnhnc00?oc=5",
+      "source": "Diario Hoy En la noticia",
+      "published_at": "2026-11-24T03:00:00+00:00",
+      "score": 62.79,
+      "corroborating_sources": [
+        "Diario Hoy En la noticia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "81e34efe5a6b5394",
+      "title": "Trump enfrenta tempestade política após pressionar por retorno de Huang ao comando da Nvidia - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZkZDS2tSYmdZT3luVG5CbzJUMk12NG1tUk44S1hkWjNDa3Jyb2tiYUNKeVE2SkE2aTZSQ3I1anhLandXNE92emxkTmpDd1RqVFB3elhxLU5rWmxmQWU0LUJ3VFl2Z05pTExRVV8yWUE5eVE1WFpJTzYtSXUyZXRBWkFENVpoeTdSNW1EUlJVdDc0Wlp1WHZ2SERYNFFXSl9rQTdlbjE4M2gyalNIRjQ1NWJGSGJfM0ZQUHVFSXF5SjlJZGNOSWJlU01kUmN1MG1MemdXUNIB2gFBVV95cUxNcmtuaGtiamlaUkFLUGVYd0Nfc1ZiTWJzSTdueWZaSXMxbmJHNjFWVjk3LURWZFBuZHBhNXhRMEVZT3ZkLUlBenVtekpZNTBFeWhDYTZoWWNNUmpXNWdMT3FqQ282SFdNRmtLWDVKalowMXZzMjlEd21Bb3hrNTZMekd3VjNWT2FvRUllX05kT1JtRGZxZFp2NUt2dk52QzkxVENZSS15ampUb01oSGYzbE9LRW5NZ1A2dWJMSHE0UDF3ZDFmMDN3QlNRdm5rSnRXVzNBMnEwcVRCUQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-23T23:07:00+00:00",
+      "score": 62.49,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
       "id": "0707dbd65c72979b",
       "title": "Postulante a embajador de Bolivia en EEUU no acude a convocatoria del Senado - Correo del Sur",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdVd0eWJ3ODVYbkdWTHFrcHIyY05ITktEWEF0X1RwUHpqLVZZam9BdEIzMlRaM3ZGNzNrY0NWajk2b2dudXh3dW90cXptam5jc09jeVFqSTBraHFCRTZMWWw4Sk9mbzd5Q3ZsZXBhSm9abmNicXM4YjdSV1lWdlAzcFJWQUhyZHNfNWgxd1JRb0hDNWs1d19rM1F5eFpmX3FxNVpmbm1BVmE3ZjZMRGthTUpvNUhkSmtkTzA5ckxhRmlnZw?oc=5",
       "source": "Correo del Sur",
-      "published_at": "2026-11-24T02:19:08+00:00",
-      "score": 74.73,
+      "published_at": "2026-11-24T02:13:00+00:00",
+      "score": 62.1,
       "corroborating_sources": [
         "Correo del Sur"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "747b786c6cb12283",
+      "title": "Dificuldade de fazer valer leis contra racismo persiste 200 anos após tratado 'para inglês ver', dizem historiadores - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUVZyajNSRVpNeGVNQ1Zud2daUVlocmZfZFhZb1hrdEFPa0Z1UW05X2UyMURPdjhxV2c1ckMxZnhEZlp5LXc2LWw1aXJ0NWdpbnptTGpJN3ducW50U0sxNWwxN2ZqNnlDVDRXMWJKb0pMdTF1ZXNkSEpDX0ZHa1dWZmRGQ3F3WjdkUl9uTzItVWRnYTZSVUoyWndkR1Y3a2NWckxfVEdUNThoNDlYQUtkdFlKMWhZUm1DUEFpOThNd2JqZF9iejlnVVdPZHROd3Q5U1VvWXJOY3JWTVh1eEdwcXo4SWVMZmJHVmJqS0dGMUdXbURpdXc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-24T07:00:00+00:00",
+      "score": 61.59,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
       ],
       "signals": {
         "source_count": 1,
@@ -26,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXA3ZXI0Y1JVNVhrZ3RIOTVnaGRNSkVDTFdLOWVhZ1NFMVZOdmJEaEszQURETnRxWllBNDV6QjBVOG9WQnJNaHltSm5oN3ZqV3B4aks4cVN6UC00WTlHdURhNkk2czR1b0JMQ0w1cHRNRktyY1JJRFZaMG1kazVDejN0Z1lhY3RiU2psNUdaTk9iaTdUTVl6RFZjX1k3czNqYlBCRGFGTW1GNkZD?oc=5",
       "source": "laGacetaOnline",
       "published_at": "2026-11-23T23:31:11+00:00",
-      "score": 71.42,
+      "score": 59.81,
       "corroborating_sources": [
         "laGacetaOnline"
       ],
@@ -36,14 +201,14 @@
       }
     },
     {
-      "id": "8dec1cd69ad938ca",
-      "title": "Britain Politics Women's World Cup - WV News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVphQmRreXBpV0xHWWlVTHB6YTMtVFYzclNoVHBaLVhBVnJyWnlpLU9mVDJUYUFoNnlLZlBLV0FRRXptVmZBNWNCdnJOV0h0Ui1rZUR4eVdrVC1pR05mVUxrellWaHRYQ3hFOUFUYnlISGVHbHFraDYzeVV6b0JZWUoxX3ZqVXo0ZFJwLTN4a1FUTmwxSWg1UzFrbkJ5aXJDNUpUT1N5SldfZWNDeW1MLV8xc0hWaXBEOXkw?oc=5",
-      "source": "WV News",
-      "published_at": "2026-11-23T19:54:17+00:00",
-      "score": 67.51,
+      "id": "91e1888ea9da4b5c",
+      "title": "Miss Preta se torna a primeira pinhaense na capa do maior jornal do Brasil, a Folha de S.Paulo - jornaltribuna.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZzRkZXllV19kNjZoN1FrVU9qbnp3MjFvdnJyS3VzeWJEVGtOUDJXbmZmOEYyVlpERy1qU2kzODdiNDZvV3J3cVRPNVpfSGliS0MwRFNjRkhoT2dfb2Z6VGlVYTl2N29fWldTdTBBQjRkb3ZrVHVRNTAtX3dYNlZnSHlZN2xPWk91VmNDUGMxYzFqUTMxT2RBV0hxbklGeVgzVk9iMnYzQU1NcHlxc21nWTFVbHlZOC1sREtrMjh5MHZHcjREQ2VRM195X1UxWjg?oc=5",
+      "source": "jornaltribuna.com.br",
+      "published_at": "2026-11-24T04:10:57+00:00",
+      "score": 58.87,
       "corroborating_sources": [
-        "WV News"
+        "jornaltribuna.com.br"
       ],
       "signals": {
         "source_count": 1,
@@ -51,14 +216,29 @@
       }
     },
     {
-      "id": "ed18681053be2668",
-      "title": "Sete cidades irão escolher novos prefeitos em dezembro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGN3OWxZMnQ2ZFY1RzZ4U0NvOWRzdjBKOHlPTjJjNC11YkJ4WnRNTWtJRmc5TzVLLTJIMUx5YXVtR1p1Y29BMEMxNzhxZW5BWEJVRGxIcjhXYXVHOVViY1RTVXdwUlpldmxhakdJVVV1YkE5Sy1rSFFmWm1TMzFwbWpHWjhsRml2MjU1aURvb0JSRUpfQ3VQcUh3MjHSAaIBQVVfeXFMT0FxNl85SHZDNHU1dUw5eVJkZzhEYW9NaURsVFEta08wTFVEWkRxQlJVakc3M3RsNXJENkE2NTgzTi12RU5UcnQzYXVPUE1LMFBtaS0xWmNUMzRWTVJTUDliWll2TVBMeS1kN3dJVHhhTGtNOUgyMUc1MEtyZnZZX2xBS2k1WlFfa2k1MzJaZTVyVjZUb1R2Rk1HSTJmandyUWhR?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-24T00:24:00+00:00",
-      "score": 67.43,
+      "id": "a9fda5cd8f2458c0",
+      "title": "Desfalque no STF supera 400 dias, é o mais longo na redemocratização e deixa 64 julgamentos suspensos - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTFp6TzVOVDBaZVNvN0RKSzBPTGhMcktkWWdMc3I5MW5lMWZKTnhDdzkyZWt1bl9xeG5nR21IalRXb1hWX05VbDRqcWJtUFI5YllPemtfTTNtWjVLN2VYc2d4QlVRX3hXUzBXU1N3VjYzSFdSaDY2TmlCTGluTW4tYkZFVjN4RTBWeXNVdDhlME1sOHNNQVg0cHhRTlN5THBLYjg3U0o1NHFQNzRrTlhkNzQwYzJfT1NMMWh5N1FGcDQ3UFNtUlR2NzZKeDRNZHRHeEE3T1hmRmltT3JiQ1lqQTM2azI?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-24T02:00:00+00:00",
+      "score": 56.91,
       "corroborating_sources": [
-        "Estadão"
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "82802de6c214d0ba",
+      "title": "Amnistía Internacional documenta hasta 57 retrocesos en derechos humanos concentrados en los programas de PP y Vox - Elplural.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM19lUmUwVmxCQTFDMXlYeTd0ZDhvUnhIM2F3VmROMzZ6WllvMTVBVDlIVHRUOWU0OVQ0bHpwaGR5TlRVU0ZzaGR2a0Z6SUs1ekJ6T0tCWlc1VnZraTBDVUdVYWo5UWo5NzE5U2dfdHJ2cGhmcHV6dnhILTJ2bmwzRVFCd1l0akhGRXdVb0lfTjd2RHZPOFIxVUp5czQ3LV9mTEs4a3RsdkhhMG42VTRTc1MxdzlLa0dzc2thS01RRFVncWJMSXpxTlV5RFJ0UjFXS2pEWDhETEVKTXcxdVFIcnNQdWPSAeoBQVVfeXFMT3NTb1JQTC03eXBreGxWZnFyME9tLWJKeGRqWUhqM1ZaSHZ1d2E4SUxIUWVYZnVNblFFNmdPQXJYYmtFVkNpQjMzVzlGWEVSbDdJaXVSX2VnekJ4Tk1waHNKLW1VVVhRUm5mWGIwMDZTMHBrNFMxbllaeDZybzBCTDZZLVJHUGhLNll5cFJoZmdnUWU1QUEySVpoU3BINk5wTlpEc1NqbFlyUk5HN1RxRzBvZ3VmeGNaZmtuLWs1SmREaHhPNVk0Ukh4OHhqUW5rTUhRV2JiQ2xNZXpHdWlaLTdrVXdrakxJaXRR?oc=5",
+      "source": "Elplural.com",
+      "published_at": "2026-11-24T05:00:00+00:00",
+      "score": 56.64,
+      "corroborating_sources": [
+        "Elplural.com"
       ],
       "signals": {
         "source_count": 1,
@@ -71,7 +251,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblVZQ3VSb1lwZzM3cnJDRUtxamp3QnFUZWN5d2g3WFZqWkI5U3hmMThmYnJ1Z01CT1RNZWdtUjA0SE94WldQczZ6X3dYNHFsc2lmQ3JZblRuU0VIQkpicUVjc3VWNHNwbnlIWFpBc0xBNFFULXp1elZkYWYzMVVmY00xS3NGQQ?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-23T18:31:40+00:00",
-      "score": 66.12,
+      "score": 56.01,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -81,14 +261,29 @@
       }
     },
     {
-      "id": "e0507c1572a1e568",
-      "title": "Energy, sporting events, and veterans: von der Leyen unveils the 22nd package of sanctions against Russia - Eunews",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONXBDc2lqb3lJOFdzQ3E4dEJkNFo3cGJlcWwwYkhzU0Mwb01hc0o2UnlnMFg4Unl4NDhjWFVsaEhvbUxBY2E1UDFINlgtUFNjOFY3ZlZld0F5LUpqSExpWlZMTG9yTm00bzdWSjExUjJuZFZTSDBrYmVweTNCU0hkUHY0VkNsc2Q5ZUVreFdQMERlbUVxaW1ELTRBZWpwYU9TQXhnSEYzUDlLck5DenhMdVlYS2lWTEtaczgyRDhtenE1TDVIV2RPa2ZIRFZLMjFiM3pEOG13?oc=5",
-      "source": "Eunews",
-      "published_at": "2026-11-23T17:34:45+00:00",
-      "score": 65.19,
+      "id": "74f89dc3190f011e",
+      "title": "Trump’s extraordinary Nvidia intervention sidelines national security concerns - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzktRVFjS0VYMU9TYmZDWDJvRWE1Y3BMUE1pb2hLMjdFajJXMHM5cXZSNlFXR2RfcEZ5R3d0TVFRNWZkYml6U3RNNTlVUGd3N05qZ3I5a0V6ZmhnbThPMXdaZElkN0dlWFRhNFM5MWlWSV9Ua0h0WE1WS0RsS1RYU3hRNzRPaFZRbTFWRmdtTXQ4ak54Sm9aQWRDTU0tZE5QbmdiV1NPSUMtNlFSMlRuUHVGOXFhb0R0UUpyOFU3d091Ukp4bUVXVE5Wa1ZrUFJoT1E?oc=5",
+      "source": "The Seattle Times",
+      "published_at": "2026-11-24T03:51:57+00:00",
+      "score": 55.58,
       "corroborating_sources": [
-        "Eunews"
+        "The Seattle Times"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ed18681053be2668",
+      "title": "Sete cidades irão escolher novos prefeitos em dezembro - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGN3OWxZMnQ2ZFY1RzZ4U0NvOWRzdjBKOHlPTjJjNC11YkJ4WnRNTWtJRmc5TzVLLTJIMUx5YXVtR1p1Y29BMEMxNzhxZW5BWEJVRGxIcjhXYXVHOVViY1RTVXdwUlpldmxhakdJVVV1YkE5Sy1rSFFmWm1TMzFwbWpHWjhsRml2MjU1aURvb0JSRUpfQ3VQcUh3MjHSAaIBQVVfeXFMT0FxNl85SHZDNHU1dUw5eVJkZzhEYW9NaURsVFEta08wTFVEWkRxQlJVakc3M3RsNXJENkE2NTgzTi12RU5UcnQzYXVPUE1LMFBtaS0xWmNUMzRWTVJTUDliWll2TVBMeS1kN3dJVHhhTGtNOUgyMUc1MEtyZnZZX2xBS2k1WlFfa2k1MzJaZTVyVjZUb1R2Rk1HSTJmandyUWhR?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-24T00:24:00+00:00",
+      "score": 55.54,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -101,54 +296,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHhBMWlyNFlXRjIzMkJuTHVHVGcweTJscnVReG1MQUczSHNkZGZ2c1oyQXcwbTRFNFg2RDctTXFPRDZkelF4Mk1SMTE2RmZIcEVYeDJ1MTNlZjl0emxGZm9MMzlPSVE0YWZ0NFVkNFdoWmw2bG00OHNhdjB0dGNVeHpMWS12V1RZaDAwenZucU5mckFqRkdLcVVNMFVIdHFHLTQtMm0tUnlZZw?oc=5",
       "source": "The Institute of World Politics",
       "published_at": "2026-11-23T17:29:18+00:00",
-      "score": 65.1,
+      "score": 55.29,
       "corroborating_sources": [
         "The Institute of World Politics"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "cdbe5b5e0c9d6c19",
-      "title": "World Politics & History (@worldpoliticshistory): \"The catastrophe exposing the coal industry’s stupendous negligence\" - Substack",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xTHJJR2Y3NkhUUjNad0s0NlZWbVJrMjZiUDVrSUZjZ3hLU21pZVJPaGVZa29TbVQzekFmVTh0WnBMNkJRbV95RVBJMUpXbUZkZ25ZdkdnOVlUYzVtWGJ5cGR5TTljVUlTb2tz?oc=5",
-      "source": "Substack",
-      "published_at": "2026-11-23T17:21:20+00:00",
-      "score": 64.98,
-      "corroborating_sources": [
-        "Substack"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "143bb4a7da109560",
-      "title": "How A Wounded Trump And Fractious Spanish Politics Are Shaping FIFA’s 2030 World Cup - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMEdBcTQ4RnlPQWJtSGRWQWtHaHVYdW14dkVzb3E4NDljRFNlcmRIVDZ3aEthY1ZrQS04M3hIT2xRVzIzN3FQREpKTlNTYkZWTEE2WDlZREtZQU93cXBJX2VHR2lnTWYyS2VlckVzSVMwWnRZalNhMy1Gel9aT1M0dzNTV211bFBzdEhjUVFCbmtWOXRaWk05c1d6a2c0N1E0dHp2MDNPTUdrQkdpczI4MjhBVXVtTlJfckNMM2dsajlmTnFPZzFzOEdneXdtWUFuTEg1bnhR?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-11-23T15:44:51+00:00",
-      "score": 63.47,
-      "corroborating_sources": [
-        "Forbes"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "584767c27a9ee62e",
-      "title": "Encuesta CEPI: economía desplaza a migración y 49% pide a Kast no alinearse con las potencias - El Mostrador",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcE01NWd1bEs0bVlWSGIzSGNiekdDNGRhM3gxaFRpU1dJdGhxTTVYWnYyZk81Y1pDbnk4alRlRFJQeGVvd21FY3MxaDlWeHlGM21WMUZOaEFUVmNwSk5zcXRZcXJjQjl0MUp5RkpldFdXYllxdGNWN1lxX0ZvOFJZM3N2aWVUUi1KREctUXRfOUdtTk56eGZSZ1B5ck5hUDFHYkF6d2RTSkx5X2IxeWFXVmltNXB3QVdVbG9ZcUpfRndpSmZNd1A2NWw1eUdjYUZpVVhpR0loNXB3VmJ0?oc=5",
-      "source": "El Mostrador",
-      "published_at": "2026-11-23T23:26:59+00:00",
-      "score": 63.34,
-      "corroborating_sources": [
-        "El Mostrador"
       ],
       "signals": {
         "source_count": 1,
@@ -161,24 +311,9 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlMtNmNLWEJRamlsQ3cwdnBVZ2hmUjRhNjVoM1NuSE84VERCNGYtQzQ1cmlFSkotZENXOTAwR05lYnp1VzNGVXlqYkNDUG1ONzgxZzE1czBfUlpGS3VCT1FlMWV4X3ZQd3ZTTFhuMm5LT0NGc1Z1UE5CQjJpbEgzZzFCdkgtRHVoV3JYWTFOWWg?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-23T15:04:24+00:00",
-      "score": 62.86,
+      "score": 53.68,
       "corroborating_sources": [
         "World Politics Review"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "c4ea800430aecb35",
-      "title": "ESPECIAL Informat.ro / Clasificación de los temas de política internacional de la última semana. De Shenzhen al flanco oriental, máxima presión sobre la seguridad de Europa - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHBNeVFxdDJRVGJlNTJlYkI5M0pSNE9fUVhlbVhhd3hfMWpEMDZYaklwY2xEVk5nVWtzU1BLT29mTHRpdkQzUW5Yald4TmZCV0R3Tmd6dGlDZzNwdGhHbjlmaUwzdlZEelQzQk9zNkN3Tlp6ek9WV2NmUlJkOFVub053SFVrNnBMclUzcE9DVQ?oc=5",
-      "source": "Informat.ro",
-      "published_at": "2026-11-23T14:58:39+00:00",
-      "score": 62.77,
-      "corroborating_sources": [
-        "Informat.ro"
       ],
       "signals": {
         "source_count": 1,
@@ -191,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd05PaWZMSVoxZzZPOU53cmY4ekptTjhXcFl3Qnd6aW5tLU5GRVRmRHJSTGxGUFR3Z19SM0ZUV18zeXFjUjh4Mm1pTXhaSlVfODM1c3pCRDl1UTY4LTRnUy11aFgybFBUcl8xWGk0T3RiVENlRzcybV9FOV9acWJINXB3?oc=5",
       "source": "World Politics Review",
       "published_at": "2026-11-23T14:37:49+00:00",
-      "score": 62.46,
+      "score": 53.39,
       "corroborating_sources": [
         "World Politics Review"
       ],
@@ -201,14 +336,14 @@
       }
     },
     {
-      "id": "44ea408f50d397e9",
-      "title": "Allies say Russia may launch nuclear space weapon next month - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZER0cFFCOGU0QmpRcy14NEVXRnhzSHMzUGFYbUJUZWpIdTZVRUxwU1FQNHBreTdtQWRITngwSm9BWHQ4QWNCMzRqVDZ3T3R0a0lJNmdWM3k5WkRjTERIejVqV0ZUTGF4OFdHSEdxRnNqVklVN3o1NVlWeUdBemh2Ty04a2JWYzhvM2lCRUdqZUJxZw?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-11-23T22:38:00+00:00",
-      "score": 62.42,
+      "id": "584767c27a9ee62e",
+      "title": "Encuesta CEPI: economía desplaza a migración y 49% pide a Kast no alinearse con las potencias - El Mostrador",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcE01NWd1bEs0bVlWSGIzSGNiekdDNGRhM3gxaFRpU1dJdGhxTTVYWnYyZk81Y1pDbnk4alRlRFJQeGVvd21FY3MxaDlWeHlGM21WMUZOaEFUVmNwSk5zcXRZcXJjQjl0MUp5RkpldFdXYllxdGNWN1lxX0ZvOFJZM3N2aWVUUi1KREctUXRfOUdtTk56eGZSZ1B5ck5hUDFHYkF6d2RTSkx5X2IxeWFXVmltNXB3QVdVbG9ZcUpfRndpSmZNd1A2NWw1eUdjYUZpVVhpR0loNXB3VmJ0?oc=5",
+      "source": "El Mostrador",
+      "published_at": "2026-11-23T23:26:59+00:00",
+      "score": 51.76,
       "corroborating_sources": [
-        "The Japan Times"
+        "El Mostrador"
       ],
       "signals": {
         "source_count": 1,
@@ -216,14 +351,14 @@
       }
     },
     {
-      "id": "003d0db056b5d5c0",
-      "title": "Economía es la principal preocupación de los chilenos tras migración y lineamientos internacionales - The Clinic",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbU9IQXViQ3JwZGFBSVhMcTZNNVNDZFIxNlBocXk1ODk2RnV4a2pqc2tIa2pzSXNyamYxY2xudUtKR0JmXzIwTHhIZjdGQzRQMzFCbWFZakZOTFNqR0Y2V0dYWHdwazAtZC1WX1JMSnhDaVY3dHlzMExkRW9BTVhqLWpHVEdfelU?oc=5",
-      "source": "The Clinic",
-      "published_at": "2026-11-23T21:32:11+00:00",
-      "score": 61.22,
+      "id": "4f6a8744b9816c36",
+      "title": "U.N. food agency chief warns wars jeopardize food aid for 7.3 million more people - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxLWUk1T0w4R0NmV3ZKWEJCbVcxRjNyVFF5Z2VVam9VQndXZ1V0em8xYmVSOHlwRVQ4aVBReGpPMDVpSzVIaURJLXplZ25nWFNZVkNjam1MUy1HWFdlbThqSlVUR3BicjNza0w5TFdjVjF1d1RuMklaNEZsQXJHUERVZlE1aDN4bjYtM2NtMmlPc1hheEZLUzhR?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-11-23T23:05:00+00:00",
+      "score": 51.46,
       "corroborating_sources": [
-        "The Clinic"
+        "The Japan Times"
       ],
       "signals": {
         "source_count": 1,
@@ -236,7 +371,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVXpqaWpVY1k3RTdJT0UxY0UweVlQcnRVZHd6R3NIUWhjYnZVQkRyZFFXZWVHUGJoQlVaSWRzc01WT3EwVTh4VG1EdjZiZno3dnVCWi1WaUI1c0lhcnNmVG1wUWRJTXF4MHZSdHNVVWZIQnNRQ0phbV9GeHBvWkJxLVJUREZLY1FXNE14a2E4YUFxcTEtTzZKQ0J3OA?oc=5",
       "source": "Brasil Paralelo",
       "published_at": "2026-11-23T18:27:03+00:00",
-      "score": 61.04,
+      "score": 50.96,
       "corroborating_sources": [
         "Brasil Paralelo"
       ],
@@ -246,14 +381,14 @@
       }
     },
     {
-      "id": "c41702e25ebafffd",
-      "title": "“El Evangelio no nos permite callar”: sacerdotes españoles publicaron un 'manifiesto' antes de las elecciones - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM0dNWXdhVXdpcU1fbjY5Z0k2eWN5dGlQU29kTlR5bC04TmtGc005ZEdyVk9vdVJrMnM4YlBhZ05ldTl1aGNlVkRpdnVvQkVjbjV6NjBKOHpnSFMzVkhEZnhpcjh5VUh1UmRMeGd5QXBzVmxTWEJkcmhjVmdlZktoeVc3NEotS1lzT0Z0d1pwenVsOVZEVkdDTktLUDdvLWZuaUNha3E4R1p5ZTRiaFl0ZlNTMGxGTUdjRVNURUg4ZXBOb2JwUEdkNnY2dC03X3lTLUFoalBqSjBwWE5YMGUzOXdVV1hxUXNHTXc?oc=5",
-      "source": "Perfil",
-      "published_at": "2026-11-23T18:41:46+00:00",
-      "score": 58.29,
+      "id": "82e41dabf5235ac3",
+      "title": "Estudio CEPI U. Central: Prioridades de los chilenos da giro, economía desplaza a migración y crece rechazo a alineamientos internacionales - The Clinic",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbU9IQXViQ3JwZGFBSVhMcTZNNVNDZFIxNlBocXk1ODk2RnV4a2pqc2tIa2pzSXNyamYxY2xudUtKR0JmXzIwTHhIZjdGQzRQMzFCbWFZakZOTFNqR0Y2V0dYWHdwazAtZC1WX1JMSnhDaVY3dHlzMExkRW9BTVhqLWpHVEdfelU?oc=5",
+      "source": "The Clinic",
+      "published_at": "2026-11-23T21:32:11+00:00",
+      "score": 50.24,
       "corroborating_sources": [
-        "Perfil"
+        "The Clinic"
       ],
       "signals": {
         "source_count": 1,
@@ -261,29 +396,14 @@
       }
     },
     {
-      "id": "ec9e13a3f4226de5",
-      "title": "Ministério Público Eleitoral defende rejeição de recurso por 2° turno no Rio de Janeiro - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGFLRVBqTWFORXVlXzFCT0dJTC1YTlE0cl9vMDhNdng3YW5kTlB3SmFBU2d2X0Fka1dMd1RjOWRPUXQ1cnNiZ0FCdnRLT1RxdHJvV0IxQll1TG1FMGZGZklmTG9QUDlWWlFwZ3ctTkV3VmtzZ3hwRUVsMWRkMU5hczhCOFdnVjkxMHVGLUxjRG90MzBBYUFCN2Jtem84andWbDljWUUyTdIBrAFBVV95cUxQLW1wTjkzdDBXT3I1RmhBVXpJR0tzc3ZvWEpHb2phcFJaVHFKd25IRFNTY2ZPVE1aaUFkZEh0dzBuZnFWNmM5YURlcHpra1p6REtaZkJDeVVnSml3bTZuYk41Szc2TmVtVmRkeUg4VjdtdE91MkxXNXgxazdnMHB5ZksxeXZGMFoxTnZnV2tGbk1nYVRHTEFLLVRxcGhRM1dUNUdXMXUwbHpsTEZN?oc=5",
+      "id": "ddc0ad676af0d9bd",
+      "title": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFV2UW0xbFFGc3RmczdZdXdtZXUxaVFXX3lZRzA5R2hhT2JYVllVdWx0SHpFNTFsZlFaMzNNY1VXSGdGTlRwWEtFd2JYQy1qYjlwZnBUUVVvS3hVc290V3NBVlg5ajRHWG4wd3BwSEhSSlo0Ny1taHgwRTBCMi1oT3Y0RE5Sb0ZQWUFsdXduM0JEbnVMUjdrb0VOWXNFMmJGejFrUHlKTWnSAa4BQVVfeXFMTWRkU18tWmp5M1VieXhQZl9YUTVtRW1yRTRkUGdyVzJSZ1hLTkF5bktXMlhVQWRGRWlEc3YzT21kblRLdWQ1OV9FcFRkNFc4TWptTWtnMDdScmQ4UmpjcFJfUjkzdDlMb0JwekhBUXkzRDBOck5TSy1fdjBiS2VYazV6MG5pZ2lUTW51djJyV3Y2clZRQlcxbWVlNVBnOWlEN2p1S3liem5MM1JKWDNB?oc=5",
       "source": "Estadão",
-      "published_at": "2026-11-23T15:11:00+00:00",
-      "score": 57.96,
+      "published_at": "2026-11-21T23:56:52+00:00",
+      "score": 49.3,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a48e792cb6d4c001",
-      "title": "Tri-lateral summit: Putin and Xi got the goods. Trump got a fig leaf to cover his embarrassment - The Age",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVU9YQWpGZkx5LThTMGtrRHdUbnhfUDFDS2hUYW0ySkRIZ1FRRVNuT1d6eE5DM0dONlFYc2kyT2lqczRqZUI4cWJWa2FVSElEd0x3YzNPUnZ0eWZ2RHh1OFFQaVM1S05KS2llQ0xhSlc1RXd1QXRQYlpfTURuNTNaRXMzZFBteUtIcHc0VzJIckMyUGY5U3BuQ1RIVENXanB2WkdLeDRoY2M0TGpxV2V5WXBHVmtxOEpxd3FKVnZ2REpaYTdkY2tQUVlrQXk?oc=5",
-      "source": "The Age",
-      "published_at": "2026-11-23T18:00:00+00:00",
-      "score": 57.6,
-      "corroborating_sources": [
-        "The Age"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNY1lkQU9LREhYOFI3d29TazdSZFFkMnpLOUxJZmgyajY5OTJvMVo1cjEtZjREenBYTWVzS0MtV2VnaW02am1LYW1NNU5sUjlrcjZRaUREZVFWRk1jRGRBX2pQVi1kLUNNVDVoWDNMWHRJSEdkUldZZ2xYYkpZNHVoRTBEWEJmY1FLYTA0XzdqZFljQWQ5dWltSjJvUTJYUlBzdW8zd0NoSUhEUFA5cDhLWlJzWVlGOUtKTjE1MU5yR3hRREY3UmlRTkFvV1REamZWNHhsR2o4M3lZc19wMFg3bi1PdE5seFJzWWgwdWRBVE5LZldrcWZ3d0N2X1JYd3V1cHJGbkp1R1otLVJGcmxqU21PbU8?oc=5",
       "source": "Repórter Maceió",
       "published_at": "2026-11-23T07:19:00+00:00",
-      "score": 56.58,
+      "score": 49.18,
       "corroborating_sources": [
         "Repórter Maceió"
       ],
@@ -311,7 +431,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYTJRMkgtd0xNY2p5UURDbWhBZE96TDg0cjBuZDFMUVZxbkg1RlJkcHpnbGdHRlF3dEtMalV0WmFKWEROcG9SaFQ1NlF6WVduMS1abWZCWFI4ckVBZUxIc1duSzNFdnNacEt6SFpQNTJSVUFRd0l4V2E2MVlBRnNLeg?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-11-23T06:33:55+00:00",
-      "score": 56.04,
+      "score": 48.79,
       "corroborating_sources": [
         "Política Exterior"
       ],
@@ -321,134 +441,14 @@
       }
     },
     {
-      "id": "79ffc89dbdcb676d",
-      "title": "El programa internacional del PP - Descifrando la Guerra",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yT0VFNUY5X0d5SkppV3U3UUN5LUdvQnZiaXB6RWE0ampoSVd1dXY4Wk0xczl4MWtiZFVOdkt0RUdxcTNtc0wzcUJSNS14bk9lQTZUVE5DbUt5TEh6eWtERXNYeUpvLWlwY01hZDdR?oc=5",
-      "source": "Descifrando la Guerra",
-      "published_at": "2026-11-23T06:28:00+00:00",
-      "score": 55.97,
-      "corroborating_sources": [
-        "Descifrando la Guerra"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a2eb4e6ac59401bb",
-      "title": "Nvidia reinstates Jensen Huang as CEO 11 days after he resigned, citing \"no national security risk\"; the investigation continues - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDlaSFJYaUNGUHN0Q3NldzFZaWMxZFoyclpDYVY3UnoxOW95RHY5NTZtd2d1aFoydW1oLVFoYXphOXVZUVV3RjJuczZjaG54MkZtUHg1UGhXdUpNTERPYmRaS1Q0TVBiMFVKTHh5V0ozSFZJVUZEQjY2d0FDZEF3c24zNVY2eHZXUi13Sml6MzB2UjVLbFVJbDVRT1N1RzFOdXRoZFVjNFpwOFd2aDRmeE9MYw?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-23T15:29:40+00:00",
-      "score": 55.24,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7d6aa0697a78cec3",
-      "title": "El PCTE apuesta por intervenir el mercado de la vivienda y aumentar los salarios - Cadena SER",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNGM3YTdGSEd4TnFWb3c3dWE5Mmh4TlNfWFhmdXJNOFlkNWhVT1doT0tkellYMVAzTi04Ylp3alhPeDJNMGJ3dkFVTmR3M2x5RWd6U0pjWmFlUmZCNVhkcUpVTll6Q2QweGtOLUVLSUdCUUtVa3piZGpEczFGVTMzZ0djcDU2NGlNUkxuYUVlVktSTDNYUUhheVQ3Z0MtcDBLYzhPSldVREItRW5WV0pKalFsckZNR3RWM2tSRzlkdTRPelNLNTF0emVYZ0ZlSU1uR1B5a9IB6AFBVV95cUxQcVctSGxyYW1aV0xRNVg5U0Uwek5yVlAwQjdFeS1jNDBMSFFiakxJU1JOMzhVQTI4RjlXMzNIcU85NnczTFdpd01iR2ZTcksydEoyckRFUWJjWlFMd2lfRjl5akZhMHZkc2M5R1Rzdmx3ZnROdGx0QXBGbnV0TmE5NDk5Yno5NlZDOW1maXVMM2NlTTlKWlJtU0FoXzRsQ01keXRYQ0FGNk5ndERTell1eldad09jZ1ozUkxtdDdZWXRZSVMtMkhnVnA5SGxsVXdOejRCNTNQcDJOQTAzdUNsOFJiQUhUcTlC?oc=5",
-      "source": "Cadena SER",
-      "published_at": "2026-11-23T13:54:28+00:00",
-      "score": 53.83,
-      "corroborating_sources": [
-        "Cadena SER"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bb1e1ec19db099f3",
-      "title": "México, por fin, sale de su concha - La Verdad Juárez",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45cDFnVkU3cUxhblR0cWZxdE5mRENJaUtwX2xzVFBMSm1odW5GT0YyTVVlRXhBNzQ5MGJMeGRzWWtXSV9oNlpDTWdtUndGZS0waDg0Tm9IaHprMlQ1azhpNEdNXzItQUZxSERFNWU2NHpWc1IwUlVVSnJBbw?oc=5",
-      "source": "La Verdad Juárez",
-      "published_at": "2026-11-23T13:47:40+00:00",
-      "score": 53.73,
-      "corroborating_sources": [
-        "La Verdad Juárez"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6ac0389c89d64aee",
-      "title": "Netanyahu and Eisenkot parties end talks without deal on forming government - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajV4UExMelVJVzJqVjRpMlk2UkNBTzVLWU5MMlhxNGtFS3IyNjVEZk9TWkhQN0NQNnA4MGFhY3Rob0hPV1FoZTVTTnQwdU5nSzdrWnNmTE1kV2d5VUx6UVROelVDS0kwS3l0MzdfQlRCSzZKbUtrZ2tYRi1HNjgtb2RLNVRGNFFFRHlDb1Z0WjFiZFNLZWxtdnZjbHRiUnRIR0xaN0tn?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-11-23T01:26:00+00:00",
-      "score": 52.65,
-      "corroborating_sources": [
-        "The Japan Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ddc0ad676af0d9bd",
-      "title": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFV2UW0xbFFGc3RmczdZdXdtZXUxaVFXX3lZRzA5R2hhT2JYVllVdWx0SHpFNTFsZlFaMzNNY1VXSGdGTlRwWEtFd2JYQy1qYjlwZnBUUVVvS3hVc290V3NBVlg5ajRHWG4wd3BwSEhSSlo0Ny1taHgwRTBCMi1oT3Y0RE5Sb0ZQWUFsdXduM0JEbnVMUjdrb0VOWXNFMmJGejFrUHlKTWnSAa4BQVVfeXFMTWRkU18tWmp5M1VieXhQZl9YUTVtRW1yRTRkUGdyVzJSZ1hLTkF5bktXMlhVQWRGRWlEc3YzT21kblRLdWQ1OV9FcFRkNFc4TWptTWtnMDdScmQ4UmpjcFJfUjkzdDlMb0JwekhBUXkzRDBOck5TSy1fdjBiS2VYazV6MG5pZ2lUTW51djJyV3Y2clZRQlcxbWVlNVBnOWlEN2p1S3liem5MM1JKWDNB?oc=5",
+      "id": "ec9e13a3f4226de5",
+      "title": "Ministério Público Eleitoral defende rejeição de recurso por 2° turno no Rio de Janeiro - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGFLRVBqTWFORXVlXzFCT0dJTC1YTlE0cl9vMDhNdng3YW5kTlB3SmFBU2d2X0Fka1dMd1RjOWRPUXQ1cnNiZ0FCdnRLT1RxdHJvV0IxQll1TG1FMGZGZklmTG9QUDlWWlFwZ3ctTkV3VmtzZ3hwRUVsMWRkMU5hczhCOFdnVjkxMHVGLUxjRG90MzBBYUFCN2Jtem84andWbDljWUUyTdIBrAFBVV95cUxQLW1wTjkzdDBXT3I1RmhBVXpJR0tzc3ZvWEpHb2phcFJaVHFKd25IRFNTY2ZPVE1aaUFkZEh0dzBuZnFWNmM5YURlcHpra1p6REtaZkJDeVVnSml3bTZuYk41Szc2TmVtVmRkeUg4VjdtdE91MkxXNXgxazdnMHB5ZksxeXZGMFoxTnZnV2tGbk1nYVRHTEFLLVRxcGhRM1dUNUdXMXUwbHpsTEZN?oc=5",
       "source": "Estadão",
-      "published_at": "2026-11-21T23:56:52+00:00",
-      "score": 52.4,
+      "published_at": "2026-11-23T15:11:00+00:00",
+      "score": 48.75,
       "corroborating_sources": [
         "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ebe8bf44d7320d15",
-      "title": "El flanco débil de la gestión Milei - La Tecla Mar del Plata",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGdrRlIxcWlBVElVM1o1X2J0RC1qQTdHX1N5a1dFamtXRXNSRGtyMlZ1bnlQc3B5d3dncnQxeG40SVFwNkJmdmgwWDllM1pKYVkydlM3YXg3OG5SYXk1ZXNjV3U1S2lPcDJfLUIwaHI0OGg1eUZLbTN4SW1uVm9xSkpLejAydw?oc=5",
-      "source": "La Tecla Mar del Plata",
-      "published_at": "2026-11-23T11:20:32+00:00",
-      "score": 51.67,
-      "corroborating_sources": [
-        "La Tecla Mar del Plata"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "224d68496a6f7774",
-      "title": "Amnistía Internacional alertó sobre la política del Gobierno contra la violencia de género - Infobrisas",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSW5jdV9lMmp6Q1EybUJpNFlVekM5ZnZ4QlFoSkMzeU1jS1VfLWdUbW9wWTZhSE05eUZndzl3T1lxdVltQVV6RnZwQy0wWGJOMEZzSEktV25CelF5b3BCaHN5ZlFqeTVRdG9veEhleXNoMTRjaGdHOTdPUGdVUTd3VGREWDR5SDFYb2tEQTJCQ196QmZiQm9JYWl0SXY5VWpMeERkQmVRT2dvTDRPWjlqVDVBbEx3clZoLUZtdjVENExPdTVfVlVFelpaSzBHSjhQNXNIaEtfdVp5WHNS0gHiAUFVX3lxTE1yYXQ5d2N3eFlsQjZEalV4ZnFuUW1NeWhNRzlTbE8weXVTT0RicS1WeDlxS3hibUZVT0xsWVJ3UU5GSERmVUYxMXo1eV9ZMzVLcTF5SktoZVNDMHdldlFzZ2NEeXFiZWROOWhmU2J4eW02Z011SDlLMTVncVAtYVJOTFBCaHlQbjZyR24yZVBzSzJfbXp0MFhueU1HMUtWcWV4bHZlbHB3Qmh6RndtaXlBT2JQWHRWVllVYU56c3VvN3Y1SlAzR0ZsTmtzX3FIbmxkNUVWYnZ2amdWdFVSakxhU3c?oc=5",
-      "source": "Infobrisas",
-      "published_at": "2026-11-22T21:37:55+00:00",
-      "score": 50.42,
-      "corroborating_sources": [
-        "Infobrisas"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "5b9a5d09196e837c",
-      "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjZiTUhjUEZlVFNJc2RUZlZhZXcxcElrcnY5TEJkU05ZdDRyZXBjbHBqSHpoWFA4UzIzTklVTTl1R1J0ZlI5Yk1Wa3dxYXJOVncyMnJUVklrWllabUd0OTBKYUlYZHVlN0ZYM3dYdWtkbDRJNUhNNU1KNVVZNlhGS3ZZeFNDTzc3Ul9VX2NyNGY0VTJLcjRRUlpic2JqLXE1dmxXOE13N1BjUE85WWlTOUNXQ09uclptYTh1ck5Lcmt0UC1KaE1Z?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-11-22T19:28:53+00:00",
-      "score": 49.27,
-      "corroborating_sources": [
-        "The Seattle Times"
       ],
       "signals": {
         "source_count": 1,
