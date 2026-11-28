@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-11-28T00:04:11.592595+00:00",
-  "next_update_expected_at": "2026-11-28T04:04:11.592595+00:00",
+  "generated_at": "2026-11-28T07:55:51.895689+00:00",
+  "next_update_expected_at": "2026-11-28T11:55:51.895689+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "31fbf362a82383f8",
+      "title": "Los demócratas prometen contener la política exterior de Trump, pero prevén límites - Prensa Libre",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXVjSDVwdXQ3ME1YY185QTVGdFJhV3pQZnRBZFZHOUk2NGZEdlM4SU5kcEF1Qi1vUk5PLWZDbXNtbzZIM2g0dWF3UzhlVVhHUm9fOTJVNE5MYjgtTGV1WGdRdWQ2VkZiNFJGQkROY3R2d3RiU0Y0QUg0MExfQmJMa2RzS3N3Y0pyWkhSSFNZOUtPTXNaU3N2S3JjLWc3STNWMnBkUlFUMUdzMzVGS19WRW1SN3pURXR6aFNHZHh4ckdnTjg?oc=5",
+      "source": "Prensa Libre",
+      "published_at": "2026-11-28T06:05:00+00:00",
+      "score": 73.23,
+      "corroborating_sources": [
+        "Prensa Libre"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "40c26b31c94dd20c",
+      "title": "Costa Rica muestra su nueva política exterior: impide la entrada de una relatora de la ONU que iba a recibir un ‘honoris causa’ - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcHotUFVIejZmenNLSjhKTmxObTBzdkdEWU5DUmpva1h6ZHJwQ0NGXzUyY1FyaHFTd21aUmExVlhsZ3U5N0tZYkthTEhhT1hINGY2MnU5cllreklBRVRTMTZ2Q1JsNTFrZGRjSXJHM3ZvbTVLUGlpNW1GaU9FRXQ2NXZlS1p5RHJBLTN1Vko4dmhsano4R0JPc2dvOEpqandZWXYxanRhMkxOOGtmQlZJMTNzQV83SkZGNmt0alZGQ1BrSDBYLVhhTGdzV2M4UVRXbDhOTU9WSXZNV0NuY2N2bmVwTDl2NzRKU2xEc2hFTlE4VWNKNGJ6eTdn?oc=5",
+      "source": "EL PAÍS",
+      "published_at": "2026-11-28T05:55:00+00:00",
+      "score": 73.03,
+      "corroborating_sources": [
+        "EL PAÍS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "8d911ce9b9e45c48",
       "title": "La diplomacia de la inteligencia artificial: ética, política exterior y gobernanza global - Universidad de Chile",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0lPbkJPT09jNmhUSjVvS2ZZYjNyVEtaaU1vd2J6SVgwRG1HcjhpYXlwQndzeUtSQlJXbFJhZ2RHUjlKVHczVDN3RThJTndTYzVtUjFGZ1dBU1YzMU0wS05iYUlmckVuVFlER1g1cjRFY0s0WHRrQ1VwM3h4aVFXdGppcw?oc=5",
       "source": "Universidad de Chile",
       "published_at": "2026-11-27T15:29:50+00:00",
-      "score": 73.94,
+      "score": 66.98,
       "corroborating_sources": [
         "Universidad de Chile"
       ],
@@ -26,7 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdThuc2JPOFBlbE5ZOVkzV3IyOWVIa3pualNWMV90Y1Nhamk1ZkRIbkRYRHRVRU5yeml5ekxtMjlIVmdfWmlkTXFFSk92QkNsa1FXWXg1aFVFdkJHYlJrenFZbUwwREo5djJpU2w0UUlrN0ctY0JkaVRhS2J4MHA0TUl4RGpoUjhwRG9aY09ma24wSjEyZ2xsbDNUazctb3MtRDgyMnNWLVQtX1NCdnRQX0FocDVOYS1HRGNpSkdMaDJYc3BwVkxnbWNnV3l1Rnc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-27T18:18:00+00:00",
-      "score": 71.81,
+      "score": 64.29,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -41,9 +71,24 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2d1MzFqRGRrbzlkOUI0Vm5lZm5RTFZLQ0VzUDJyX2hWcEZNTW1lX19fWVhyRTJLaTQ3NVJNNnViRWdmS2M5V1R5dGtJbzd4WnQ1cTJqR1lLLTFRT0ZKNGFvQzNpMlZ4SW82WWd5ZEVCZC1BR2J2WjNPbnUxTzVkdm50REJjMG8yZlRHMTBwUDNiQndBU1VtN3dKdFFRZVdBNmo0azFSZUhIdk9ZQ255RFB3?oc=5",
       "source": "Punto Biz",
       "published_at": "2026-11-27T20:54:55+00:00",
-      "score": 71.7,
+      "score": 63.61,
       "corroborating_sources": [
         "Punto Biz"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "7757decc664e0a92",
+      "title": "Global News Podcast | US asks Mexicans to contact cartel tip line - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96elplWlZoRDBWTGRvQTItdE9HOXo1a1AxZVY0WkZxSkVJQVlhOTRkU0ZOdmpRQy1Rck5HMmtkY1RJQTJLdHc5MmhvZnhabFNH?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-28T04:24:14+00:00",
+      "score": 63.28,
+      "corroborating_sources": [
+        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -55,8 +100,8 @@
       "title": "Ortuño se presenta ante legisladores y su designación como embajador queda en manos del Senado - Correo del Sur",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzVpakdkMUktdG5Pakp2MWJISWU1X0ptOEFZelBYb0JubW9MRk1ZaHV1TE5Jb1dSV2QtdXF6SmNLYldiYnU0X0NyM3hIVWluVVZUVEo0dl9ud1diTlNyQ3JsSUl2YzRvQUZvLXNHaXhtNDNBb1plZDk4UFZyRzRhVmxiRWxxVFJkQWMyNzNBTnl6WTZrQzBHQUlmbExFN2F1Uml5Mi1ZLXVjbkNuWnZvWWMtTDVZMjB5SVdMYVQtcnZGQVBKRkdMbkFQQmRHQTItMF8zR2NtSHpxQQ?oc=5",
       "source": "Correo del Sur",
-      "published_at": "2026-11-27T20:39:51+00:00",
-      "score": 71.41,
+      "published_at": "2026-11-27T20:32:00+00:00",
+      "score": 63.26,
       "corroborating_sources": [
         "Correo del Sur"
       ],
@@ -71,7 +116,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGhsUVJ2ZDNSSEhCU1dJOUNlN3g1d2FZY1hndDdqNjRKVkFEdmh4LVVqX0NDU3FmaTdJMVhZekFCZlF5UDNXSmdaekFCbVFvX1FSZWJ5TkZfaC10TEY2MWxvMGQ0M1hRV0RqUS1wTk9QMlpibnR2Ujd6TjVOY2tYemlwblFHVjljYmhaNVN5a0FMUEZyT19LM0V6VndsVzdCSUY2MDRtT25BX1ZhSDl3OUNHU3FBNzF0UUZKd0hsX0pqXzRKNzBMZlln?oc=5",
       "source": "RNZ",
       "published_at": "2026-11-27T19:41:38+00:00",
-      "score": 70.33,
+      "score": 62.51,
       "corroborating_sources": [
         "RNZ"
       ],
@@ -86,9 +131,24 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUlkQ3B4WjRlNnN5RDBiZ3lqeVVQVjlBaTdoNnZLYXl4dTBPZG80ZGRaeExlZkNrdmpvVGJId0l0SVhaNThWMERtU1Y2b0xaWndoRHp2VXhUdkE0RFVVNU1YUUhwRlJfemNkYmR0LU41ejctOGR0WEdza0hLcTFHdUZRQ1hfaWVUWE1RRE5FU0dsMTRVaVFkd0doeHFUa2E0blh6eElPbW9xVklYUkJQNTVOb3VnQU5TbFJ5dy1TRERVaFF6WlF6NHV6TXI0UQ?oc=5",
       "source": "Plataforma Media",
       "published_at": "2026-11-27T15:37:59+00:00",
-      "score": 66.08,
+      "score": 59.09,
       "corroborating_sources": [
         "Plataforma Media"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ef896a822656cf5a",
+      "title": "Congresso quer facilitar indicação política para agências reguladoras - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzNza2lVaklfTDRyWmZmOVdOSnYwQnFjdEVqaWl3Q1A0UVdNalVjYnBqLThDMDFnbFRtSHJkeVpzREZVN25hc21IdGRNQ01ScUVKM2NILTBndlFXc2o5SDRiOWJ1TTdHR01KaGZPc0NLeHhSVTZIOF9ZZFBJaVRPMnl4VDl2d085b0ZMUHJycGtTMnVHdFJvcHlFSWdSbFdwbnlFbW91bmt3ekE2Q0ZGVF9pQ20?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-26T21:59:41+00:00",
+      "score": 59.01,
+      "corroborating_sources": [
+        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -101,9 +161,24 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPblhaSTRwbTZ5aWJ2b2pWX1MyVXVmeUhqaTdReDNJR2RJNzRzZjhtTGgyNXR4VUpSNU9Nc3lsUzFXQnRQV2c0WjR1Xy1SOGs3Ul8ybFF3dW05aE9rVGVYb0R2aF9oTFZ5T3VZN1A0TlQtY3Y2S1FQRXptY3BHWjRjRXNPYzNLYVV5OHRaV2JDQXJFNWtSX0FQb3RIWFhzNVNCUndoWVRKdEh6dGFKMkIzWnd3VnJ1bEFCaVVvNNIBxAFBVV95cUxOc1Y5UWJ1M1RDaVREZjNmdWM2TlZSaFE0d0NyWFVqcjJRbFFrU0pXbVNfSkxmY2E4SUkwQ29DdHhaTmxqSC1xZmxtSFBpT21KYWdSX0tJWWhYc1RQZmJYSEFsSmVkbmdDWXdrN0FjNlAyVERkTUFtSWFJejhxUGZYZjJ1bGp3d2wzRXRuNzAtNExlSFl0YUptd3lWWktvNzFLNmc5blJXWExHcE5jd281TlYzU0JtNllqNzE3V1Y1RWxmaDNW?oc=5",
       "source": "Escenario Mundial",
       "published_at": "2026-11-27T15:17:46+00:00",
-      "score": 65.74,
+      "score": 58.83,
       "corroborating_sources": [
         "Escenario Mundial"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "6883d24be008a748",
+      "title": "La identidad y sus reconciliaciones - Política Exterior",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1alhKMUJTUmlIMVpwMGlTa1A1eEd2LW8wQnEwUERnZVh0Z25zTVUzZWt1QWotaVBhR0pHVWU1ZHJmc3BLcTVzclJtTlZwM0tmWjVWdjUzdF9sRkxwMkRvQWQ4aHlLV1pfVEtXQkR5Ml9peGRmSmNOag?oc=5",
+      "source": "Política Exterior",
+      "published_at": "2026-11-27T13:33:09+00:00",
+      "score": 57.49,
+      "corroborating_sources": [
+        "Política Exterior"
       ],
       "signals": {
         "source_count": 1,
@@ -116,7 +191,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUE1Q0xUd2pXUWhTM1JmYUtzTDdJdjhwdkZhNkNuMlFLU3d3eFFfcjhFWTZCMWdHTGhGRzVzak5EM2laeXdLMHlTSjZaRWpqb3hoUThDWW1pdWE1WUoyUVczZXJBYVZrZHlERWFIZUtPR1RZQm5ZNzNfQ2pjT0tWblhaQllxQlN6SklQLTBuQlctcG95SXhOVzM2dlprcS1obzAtRFdkV1BlYkU?oc=5",
       "source": "La Patria Bolivia",
       "published_at": "2026-11-27T22:35:36+00:00",
-      "score": 65.67,
+      "score": 57.2,
       "corroborating_sources": [
         "La Patria Bolivia"
       ],
@@ -131,24 +206,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd19KUk5ydm1OSndJbW1NbFJ4RlBEZ0tTQVhWck1yN2p3SnBBaVcyTlk4RmVwQ2ZFNkNZN29MZ1RncHVnUl9sVEpDUElkQ0p4em1MVHoyYU1zMmZVc2F6aDZhbFJXRWR1UnIxUjlDeUcwSTFRYXJKbHJqV3Z2YVRVLTRtNzNkX0stUm5HQmExRlJleTZWMDl1bDg5YURkN18tZ2fSAawBQVVfeXFMTlh4UlZOUlV5T21tVWpJRjh1MlBLUmFKSnJUcW9VMGhqYVV4LTM4T1VBNjVKdkJmdXlxTV9qdFhpWnhZRW5LRERQbDdXb2ZuN2lOUEctZk9LNjJ2MWVyLTcwak8zUEJBemlvNWt4a2xGR3p1LTFlWEE2RkE5U3dWcGtqQmlSeEJWTzdLeFNkYmlWUWJjeDktNWJWMTFtdGRzRTNBR2lSZmtfRWNMeA?oc=5",
       "source": "Diario El Mundo",
       "published_at": "2026-11-27T22:30:22+00:00",
-      "score": 65.56,
+      "score": 57.11,
       "corroborating_sources": [
         "Diario El Mundo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "6883d24be008a748",
-      "title": "La identidad y sus reconciliaciones - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1alhKMUJTUmlIMVpwMGlTa1A1eEd2LW8wQnEwUERnZVh0Z25zTVUzZWt1QWotaVBhR0pHVWU1ZHJmc3BLcTVzclJtTlZwM0tmWjVWdjUzdF9sRkxwMkRvQWQ4aHlLV1pfVEtXQkR5Ml9peGRmSmNOag?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-11-27T13:33:09+00:00",
-      "score": 64.08,
-      "corroborating_sources": [
-        "Política Exterior"
       ],
       "signals": {
         "source_count": 1,
@@ -161,7 +221,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDdMMXFOOWlYQkNjdW9EcHJvT3A4ME1MM05rQTN6QXpGQmQ0UzZzVVlGeURHZUl5WWNGWnNKZndnbXZsM3hrZ1gzZGlmZnk4OXBBMW9ZZkhYeUxRWFluTHUwaEJTZTVkcTcwOU94RVVsQXhfWFNMUGFPUVNZOVpvQi1wLWQtazBHMS01OWtUVFl5ODVSZGdSOUszNTFJUnRrVmo0?oc=5",
       "source": "Enfoque Digital TV",
       "published_at": "2026-11-27T13:03:03+00:00",
-      "score": 63.61,
+      "score": 57.11,
       "corroborating_sources": [
         "Enfoque Digital TV"
       ],
@@ -176,24 +236,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN1hIS09vTjQxTFNMSG14cXBBMkh2ZVRrcXJuWUM3aXlsTHlQTGVwazE2ODRwRVBrakNwaXRxTC01TlZXd1lsbjcxZm1ITFRjS1FZTGN3QllITWkwcUFCZEhNQTZlOTNZLVhzYjkxUHFsaHRPcV8xUnRGeDgtaVJmNEhxR1RZd3dmMDJrYXFXNUtwalFFWFRZblVoX25pcVZIVjlqNWkxYmlDQVFhUnFtWUtwOS1UeHlJQzhJQXFBbVpTSUN2U0JGX1BNa0l2UzRMY21ETGJMcEhvQXVw0gHiAUFVX3lxTE9tN1BWelA0Y2lGcm5QWTBJWHAyT3o5WFk5c2dNWHNfN1JRUG1IRmM1aGNabXE3ck5fUmxQa2VEQkRreXJwN0Z2YTJzV2lqaU4zSWd3SE8tY2IzVnFCbDhkQTRxVDdCVlRYUkNacmxicEMtQUo2LWdZdk1WUU5TMUlLZ2RvUTRSSEtqdGNhaE8wakxxazNSZFd1bFFmSm45ZEFxUmw1SXZzNU1vRU9PanNVVVdjVFoxNnpOYlU4WUh1NDBhc3JWNG1tVHRKSGNhbE43c3RUa043NG1WZXZzaVZLUlE?oc=5",
       "source": "Negocios.com",
       "published_at": "2026-11-27T12:59:35+00:00",
-      "score": 63.56,
+      "score": 57.07,
       "corroborating_sources": [
         "Negocios.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ef896a822656cf5a",
-      "title": "Congresso quer facilitar indicação política para agências reguladoras - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzNza2lVaklfTDRyWmZmOVdOSnYwQnFjdEVqaWl3Q1A0UVdNalVjYnBqLThDMDFnbFRtSHJkeVpzREZVN25hc21IdGRNQ01ScUVKM2NILTBndlFXc2o5SDRiOWJ1TTdHR01KaGZPc0NLeHhSVTZIOF9ZZFBJaVRPMnl4VDl2d085b0ZMUHJycGtTMnVHdFJvcHlFSWdSbFdwbnlFbW91bmt3ekE2Q0ZGVF9pQ20?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-26T21:59:41+00:00",
-      "score": 63.29,
-      "corroborating_sources": [
-        "Poder360"
       ],
       "signals": {
         "source_count": 1,
@@ -205,10 +250,55 @@
       "title": "Perú ofrece puertos a Bolivia y habilita paso fronterizo - La Patria Bolivia",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcy12YkRhc3NBRElGT0tVaWNWWGYwNGxpdnhEdE5YcUt3U0tOQXoxb3A1cHVhUjBhSDVuU0pfclFxMFlBdmhmd1JxZVJuVk5kSWxSWXJodGdvVUgtWWJGaHh6THZNTDhmRm9fczdFS3NuYTBILVladXk5dllzQzN5anp1M1pndE92R3hGY1Q3WGtrUUdSMnRHdWR4d1Z3Vk1UbmxMMVViODZaczF2?oc=5",
       "source": "La Patria Bolivia",
-      "published_at": "2026-11-27T20:27:36+00:00",
-      "score": 63.18,
+      "published_at": "2026-11-27T20:31:42+00:00",
+      "score": 55.26,
       "corroborating_sources": [
         "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8774d1b27ca27f37",
+      "title": "La UNCUYO fue sede del VIII Foro de Política Exterior de REDAPPE - Universidad Nacional de Cuyo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3VRZTdiWjd4eG1VWXJiOHIydWNtdEgxSk5tQjJaRTViWnFMZDFacWpEbkV3NExkd3lGbXBCRFpuMkdYN080S1VPMUVjcEhidVg3UE8yZ0llRkxBUWpDcl95bExEa3JCZDVwUm9aRzdQV0x0NHZ5M19VMHVzYXhaU0IwdW9tZGVtQlZfRW41R2ZSandpT0ItZ3dWQS1IUQ?oc=5",
+      "source": "Universidad Nacional de Cuyo",
+      "published_at": "2026-11-27T10:12:46+00:00",
+      "score": 55.09,
+      "corroborating_sources": [
+        "Universidad Nacional de Cuyo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ca0a97b958fbb5c4",
+      "title": "Senajus apresenta avanços e prioridades da política migratória brasileira em conferência internacional - Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjlFVm55a3h0WmRrYlVtVG5sQl93bXQtV1B6MWQ2Z1lLYWs2bkpxRjRDSnZ4WWNGc2huWnZ6VUs1Z1ZNcE1sbjR3dzlNZmVHcmFMMGdQTjdoNlVNeW5yZFFDNGl3d1lSb08yYzNSaGlIbkNiTklzbDZ1elMwRlMzOWtXN0tjeXlyNF9RYmM5S3RFTHBnZWpFLXBjM1l5dDBDdkhxYVNab2w1cHUyZlRCaWRRbEJibzhmcVJNQkdTdEtjeUQ1NHpHZ3l0ZjVCaTg2MTRZUmpPeEhNY1d6X2oyRFVB?oc=5",
+      "source": "Governo Federal",
+      "published_at": "2026-11-26T19:21:10+00:00",
+      "score": 54.77,
+      "corroborating_sources": [
+        "Governo Federal"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "08b95a27ad5a85db",
+      "title": "Camilo Santana viaja com Lula para o Rio, mas anúncio para Casa Civil pode ficar para próxima semana - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUhnblF5WmJfTTJsN2NUakZiRG9FY19ZTlhOamNjS29NSUZfZlB5ZnFiS1p0N2ZfbDVZb2M2WVYyNXF0d09fZ01tQWdFWkw2bXVkWHNiVTFEcDlORGNoWWNJVFJoNWpXTUVWSmhwNkpMeHBYTG9nWmNFWlcwY2ZTU3RjaUFxZDJjLVZ2aHlZUDVnRzJ4akVjODg5ZFlqYmNNcUtHTlJmaHNhWG1YRGVuM1ZieDg2OVhtSWNTYmhFc1RIdW01LWtzemtyU3dWX3NVOWfSAdcBQVVfeXFMT01DaU1PUDBSZThnenlvSDktWVdJRTFjaU5pWHZzbU1lQWJFWUtGMGc1YXdWTk52ZUtldEhFTVVNVUhNcHFkUDB5djZ6S0VTNU5uOFZoVFpidXFpaWI1S0JGeHE3YTRSTXliVldDUTZjdjZaa2ZfenlRcUpEQTc2VFAwTzc2b2g5cmdvbGpGY2lRVkVzTjNJNXVhQUlVRHA5ZWhwd2tyay1QRWdKNGZVajRXLTdqYUNZY24zR01BRkZUeU5LVGN1cTkwSmwxS2hSdDVTalgwWXc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-27T16:05:52+00:00",
+      "score": 54.46,
+      "corroborating_sources": [
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
@@ -221,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2JNdk04Z1p5aXVTNEl0M2FTNnVLWm9vbUkzMl9lNUFfaTdUYTEzNXB2d0E1T1djdkNJbUNXTHdNRDh3MFBtaml3QXhTclRtT1VVZS1pVmRGbDRyMmtaamc4Mm5xeGRhZk42NVJyWDFJY3lzeVktTktmR283dU15VVZtdmV4dVprZS1fdUhqYU9NTmxKVm16TlZuRQ?oc=5",
       "source": "Rue20 Espagnol",
       "published_at": "2026-11-27T18:50:22+00:00",
-      "score": 61.39,
+      "score": 53.76,
       "corroborating_sources": [
         "Rue20 Espagnol"
       ],
@@ -236,54 +326,9 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE03eXIzLVBNNEJRUmhpUGRIS2hhNmVybXI3a2V2WDlWYWw3aDF3SHRWRGw3WUpIQ2hlTEdSaUtZaFdlbm1tN3pHcHRZLTZFR20tY3FncnlBcW01MmtFUG1udnA0Ujk4UHlHVGlrUkJUWkN4dFpHTVk2cWNlc0pGemI1OF9yWWNfQVBVZkh6OA?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "published_at": "2026-11-27T18:00:00+00:00",
-      "score": 60.49,
+      "score": 53.04,
       "corroborating_sources": [
         "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "23f8c17cf84400f9",
-      "title": "Pizza Hut cofounder Dan Carney dies, nearly seven decades after first launching the business - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzJxdzBWNk1yM1FUMXNSb3JxNHI2bGU5Y3ZWeGNFN3h6MENrWFQ1X0lGV080Qmw5aGhnd2phby0zSjdoeWdkc1pyQ2R6clQ3WWJaX201RHBrdHYwMlpGZmt6VFRRREIydGgxNTRYdFpaS1FEY3JzZElCT3BRQ3MwU2ZSbHdDTHoycjZkMG54VV93M0I4dENWQVJkcldWZU9qaExKQ3dR?oc=5",
-      "source": "Audacy",
-      "published_at": "2026-11-27T16:47:00+00:00",
-      "score": 59.23,
-      "corroborating_sources": [
-        "Audacy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ca0a97b958fbb5c4",
-      "title": "Senajus apresenta avanços e prioridades da política migratória brasileira em conferência internacional - Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjlFVm55a3h0WmRrYlVtVG5sQl93bXQtV1B6MWQ2Z1lLYWs2bkpxRjRDSnZ4WWNGc2huWnZ6VUs1Z1ZNcE1sbjR3dzlNZmVHcmFMMGdQTjdoNlVNeW5yZFFDNGl3d1lSb08yYzNSaGlIbkNiTklzbDZ1elMwRlMzOWtXN0tjeXlyNF9RYmM5S3RFTHBnZWpFLXBjM1l5dDBDdkhxYVNab2w1cHUyZlRCaWRRbEJibzhmcVJNQkdTdEtjeUQ1NHpHZ3l0ZjVCaTg2MTRZUmpPeEhNY1d6X2oyRFVB?oc=5",
-      "source": "Governo Federal",
-      "published_at": "2026-11-26T19:21:10+00:00",
-      "score": 58.74,
-      "corroborating_sources": [
-        "Governo Federal"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9b5182a3887d4370",
-      "title": "Zelensky calls Trump's \"my friend\" remark on Putin \"strange\" and urges more US pressure on Moscow - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNzk3akp5bFg2TDFvdmU2WFlQcGZxMlY3TGwxdGNZRGdGcUtuSGx4NVQ5WDJfbFh5Q1hOVHIxbTVuNHVzSVdVOUFUMUptWnNqM0NVN2d2Q2hlLUhPQlQtN2RvX1BjMDhoWGUxbVB6Q24xYll4YTVhTkRvbDY4bVR1c1BPRzc3SXVZU3IxN2drbjlUMk1oSlFoY3VadFk5YXg3bVhMUVI0SFBGV0pjMVdWNWNDR0JCZURRX0hyZlpWeVhJSnRHVFZ0SUItWHVHZTNoMzBnNlpQbXBFMFNvcWc?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-27T15:38:16+00:00",
-      "score": 58.08,
-      "corroborating_sources": [
-        "Plataforma Media"
       ],
       "signals": {
         "source_count": 1,
@@ -296,7 +341,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qbUtqM0MzZkNwN0FRdUtvQVN3R0diZ1dJdE1MTkhlUDh3MW1TcElLN1RnbzZ2OVh6dHY0ajNyV2hNdGhYazBNNU9qeDYtTy00cWtSYzNvVDlLalYxc1NBV2E5aVJZeUhET0dCRkZYSjdJMWo0WTVqaEdqZ0w?oc=5",
       "source": "Descifrando la Guerra",
       "published_at": "2026-11-27T05:27:59+00:00",
-      "score": 57.32,
+      "score": 52.05,
       "corroborating_sources": [
         "Descifrando la Guerra"
       ],
@@ -306,14 +351,14 @@
       }
     },
     {
-      "id": "00fe6f593cbc03c8",
-      "title": "102 entidades pedem rejeição de PL que flexibiliza agências reguladoras - Poder360",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblB6VzN5b2Z4dHp0UFRTaGJvS3JxeE1ReVFONy1qd0FSMGRPSnNnVmFocTNkNm95LWVSZzlNRVVBWURlZnVZT0w4UUFBRnRfbV9BX0xqRFY2UTMtYW5mZkJQTklEQ1BLVlV2MGJjdnRqM3Q0V1dicEVqUGVtX3l0R0hmRmhzY1FFNVJfTk5Nb1VlV0xVc2ptRjR4Nkk1UWNEWWZONjBiZWJSMFNHaDBvNnk1YTBUdw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-11-27T11:13:34+00:00",
-      "score": 56.97,
+      "id": "23f8c17cf84400f9",
+      "title": "Pizza Hut cofounder Dan Carney dies, nearly seven decades after first launching the business - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzJxdzBWNk1yM1FUMXNSb3JxNHI2bGU5Y3ZWeGNFN3h6MENrWFQ1X0lGV080Qmw5aGhnd2phby0zSjdoeWdkc1pyQ2R6clQ3WWJaX201RHBrdHYwMlpGZmt6VFRRREIydGgxNTRYdFpaS1FEY3JzZElCT3BRQ3MwU2ZSbHdDTHoycjZkMG54VV93M0I4dENWQVJkcldWZU9qaExKQ3dR?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-11-27T16:47:00+00:00",
+      "score": 52.02,
       "corroborating_sources": [
-        "Poder360"
+        "Audacy"
       ],
       "signals": {
         "source_count": 1,
@@ -321,14 +366,29 @@
       }
     },
     {
-      "id": "7517ded02a8016c7",
-      "title": "Entre Washington y Abu Dhabi: las oportunidades de la Argentina para captar inversiones y los desafíos de consolidar sus alianzas - TN",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOemJtNW1iVUV0NXlIbzRTTmVDU18yLW50TzhDVTQzUlYyVF9nSDE2cE92UG1FTjRacDczUkttVFBnb1UzdWt3ZGlzdnhMSlAxSTUybWVFc3pFR21WVC1RUnhEekRkTThHR0ljdGc1ZDJDdWtIbHpxQUdQMVpNOWJ2OUVlZm5zcE1Fd0htcFhrem1ORnd2cmtYN2JoN1NrSU50SHdxb293WlpDV00tbWFPczNoUEkwZkVHWHJldTE1NEFCdEFiRUtlV0RZc2JPQVFrUUxvdmJ0eVp1Z3Y2TTVuOWdKQTZKUnJlZDVOWnJYLWlCMmlfWWM4MGhaMEd4ZndvMEHSAZYCQVVfeXFMTnhMbHR6cmo4UWZvZTFKM2VmUWpXekRQMDVndWFBRko5aXdRNW0weWxSMjJTdElBWWh5V1hNcTNKaV93N0dONW9QeWgyQi1qN2l5aEh5TFlxNTg4QjQ4bnd4RVhyWHNXdWNVMDJqNlE5RWlNZnI0eDNiQjF6bFZJXzBFRm1KY1JnTnJYdVhGQUpIdE9wNWRmY0t5bWN1bDhtcGI3ZGI1c0pxcnBFQmFueXYydWlvWE9SRnpBYXVQb0trSXF3MHlhV19BdW1nQ1dkNG9pRkxKODVtejVRdm1PUEZoRGJGS2pVd1dwd0JQUktLRTRXRy1zbVlWQ2Eyc2QybHNEdVcxdGNiMHg4LUhtRXlYQzZRREE?oc=5",
-      "source": "TN",
-      "published_at": "2026-11-27T14:04:48+00:00",
-      "score": 56.57,
+      "id": "2ba6a175df69f866",
+      "title": "Paz plantea conexión con el Atlántico en reunión con Fujimori - La Patria Bolivia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSENCM1ZVTkk0ZS16dFVpdzZFbHNGR0p0YXk3TFlOSjNMRmtlQ0s1NzB6dW5MOTFjcnpWNlhvM3R6QWRrdnJuR1U3cHF1bm9DQVgweWh3YUxGR2lfTFRSM3hsek9ZaEoyNDZ6Q2w1RDVIN2x0d2ZjTnRXazAxaTNRZldLczlwNG5udHcyMWZiQjYyYlJvazVSd2pTbVlzRXM?oc=5",
+      "source": "La Patria Bolivia",
+      "published_at": "2026-11-27T16:00:18+00:00",
+      "score": 51.39,
       "corroborating_sources": [
-        "TN"
+        "La Patria Bolivia"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9b5182a3887d4370",
+      "title": "Zelensky calls Trump's \"my friend\" remark on Putin \"strange\" and urges more US pressure on Moscow - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNzk3akp5bFg2TDFvdmU2WFlQcGZxMlY3TGwxdGNZRGdGcUtuSGx4NVQ5WDJfbFh5Q1hOVHIxbTVuNHVzSVdVOUFUMUptWnNqM0NVN2d2Q2hlLUhPQlQtN2RvX1BjMDhoWGUxbVB6Q24xYll4YTVhTkRvbDY4bVR1c1BPRzc3SXVZU3IxN2drbjlUMk1oSlFoY3VadFk5YXg3bVhMUVI0SFBGV0pjMVdWNWNDR0JCZURRX0hyZlpWeVhJSnRHVFZ0SUItWHVHZTNoMzBnNlpQbXBFMFNvcWc?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-27T15:38:16+00:00",
+      "score": 51.1,
+      "corroborating_sources": [
+        "Plataforma Media"
       ],
       "signals": {
         "source_count": 1,
@@ -341,7 +401,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZk5fREZXTmR2MnROTTNuc24yMjZ3WTFBZjAxY2VSbHJKeFV1Tm9wUlZoVlRVYVlvV0lsV1E1bTdXQUNoT3VnRmdFN1BQWVhuSHVOOVF4dDl5WjZEdGp3cHV1WFMxX0ZoVWFSSmlrbm8zc1lfY2tJSm1ld2ExcmVad1RrV3lDalI1a0g0Skh3cC12NFZjTkNCTllvckhmSUplTmUzb1lyVDdaQ1hXeGkwUlFHSkgwZDJlQkVHLWNkYTJNanViYk51QTVJZlRIUGtGSl9FLXpB?oc=5",
       "source": "Correo del Sur",
       "published_at": "2026-11-27T02:06:00+00:00",
-      "score": 54.92,
+      "score": 50.13,
       "corroborating_sources": [
         "Correo del Sur"
       ],
@@ -356,7 +416,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3k4TktLd1ItMXA1TzRQejhKSGNSTmgzRzMtQURFMDNGcUFFemFxdWt6b0VEMGNtbW1zWUFlbERGOVZRWmg2WS0tMWdCTDFZdnZuQ3RuQkhCajFyeDAxUDg0QzdMcWtKVUJVbTdOTUJRRi1Qd0o2RENtcFQxUVpqTEJMY2t5djZGOGRodldYQkRMRThub3ZPZFJpOW9tbi1SUkxIWFFwRQ?oc=5",
       "source": "The Times",
       "published_at": "2026-11-27T02:03:00+00:00",
-      "score": 54.89,
+      "score": 50.1,
       "corroborating_sources": [
         "The Times"
       ],
@@ -366,14 +426,14 @@
       }
     },
     {
-      "id": "b69bf951acf7ea23",
-      "title": "Los estudiantes compiten demostrando sus conocimientos y habilidades diplomáticas en el DIP Game 2026. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGZ4eTdvaWxabUVHaVllNE5SSjZRLXh6UDYyYWl3dmxXQnJWTm42YWl4SFBzeGVYMUpFSWFpVTY3WXJlbk9EdGE3elB2QTNSZ1l6Tzk0bnpfQVA2akExQlNlMGFjOGZnaDdXRjJyYmw3dTBqWlBsNGkzYTU5eklGeXh3WGs4MXowTkVrOFFmeHB5cm1JSkVPekoydkhNNUVKRHVaM01hYw?oc=5",
-      "source": "Vietnam.vn",
-      "published_at": "2026-11-27T12:13:10+00:00",
-      "score": 54.85,
+      "id": "7517ded02a8016c7",
+      "title": "Entre Washington y Abu Dhabi: las oportunidades de la Argentina para captar inversiones y los desafíos de consolidar sus alianzas - TN",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOemJtNW1iVUV0NXlIbzRTTmVDU18yLW50TzhDVTQzUlYyVF9nSDE2cE92UG1FTjRacDczUkttVFBnb1UzdWt3ZGlzdnhMSlAxSTUybWVFc3pFR21WVC1RUnhEekRkTThHR0ljdGc1ZDJDdWtIbHpxQUdQMVpNOWJ2OUVlZm5zcE1Fd0htcFhrem1ORnd2cmtYN2JoN1NrSU50SHdxb293WlpDV00tbWFPczNoUEkwZkVHWHJldTE1NEFCdEFiRUtlV0RZc2JPQVFrUUxvdmJ0eVp1Z3Y2TTVuOWdKQTZKUnJlZDVOWnJYLWlCMmlfWWM4MGhaMEd4ZndvMEHSAZYCQVVfeXFMTnhMbHR6cmo4UWZvZTFKM2VmUWpXekRQMDVndWFBRko5aXdRNW0weWxSMjJTdElBWWh5V1hNcTNKaV93N0dONW9QeWgyQi1qN2l5aEh5TFlxNTg4QjQ4bnd4RVhyWHNXdWNVMDJqNlE5RWlNZnI0eDNiQjF6bFZJXzBFRm1KY1JnTnJYdVhGQUpIdE9wNWRmY0t5bWN1bDhtcGI3ZGI1c0pxcnBFQmFueXYydWlvWE9SRnpBYXVQb0trSXF3MHlhV19BdW1nQ1dkNG9pRkxKODVtejVRdm1PUEZoRGJGS2pVd1dwd0JQUktLRTRXRy1zbVlWQ2Eyc2QybHNEdVcxdGNiMHg4LUhtRXlYQzZRREE?oc=5",
+      "source": "TN",
+      "published_at": "2026-11-27T14:04:48+00:00",
+      "score": 49.88,
       "corroborating_sources": [
-        "Vietnam.vn"
+        "TN"
       ],
       "signals": {
         "source_count": 1,
@@ -381,74 +441,14 @@
       }
     },
     {
-      "id": "30d2cf302e1913cf",
-      "title": "Chinese stocks rally strongly after Beijing signals fresh market support - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEJUbGxZcGJ0cE9idWk5eTlUTk8wNEg1Q0dHenVZM0NGRGU5OFVtaE4wdlBleXNMcW93dWFjVGt0bjdCdUdHUEVOSFl3YnFOUUxSRnV2RnlWa1otTHhZaTAteWdSbTgzczNNVHFqVTZMOEVHNFZsTGlZMVR5M0JSNllMeHpaQUNvcHRramNvc3hxclZraVpCV25sSHlzWTMyVjhYVlZ3enRhbTczSDdiNlplWWpOSXdZYlQ4?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-27T10:55:03+00:00",
-      "score": 53.7,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "bdd51e8585e47fc4",
-      "title": "Cuba honors dictator Fidel Castro with cultural event amid energy and financial crisis - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXEzWUgzX1VGLWZBWXNPcU44cExyRXNDOXJqTHVjd1d5LUlZRHkzRUxCYzVINU1lMWdoenY4TjgxaWcxRTZsQ2xtOTZ5YmdJZi0yZWNvTXZuUlJDU05XcDBGc09naHJWOWxRY3RzdXZ6MUJLRUhVNlIyUUlURVVuelduak90MFFpZXc3SFEtbmdVdk4zNThDb0oweEJ1bVY1UVZSLUlaUlFQcnFmTXRVYkFUZWNUSFJ3R2JSMGpKaElXemlsdE9TU2xMd0s3QQ?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-27T10:51:40+00:00",
-      "score": 53.66,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "901a55ca07542f60",
-      "title": "Sandra Borda, internacionalista: “De la Espriella tiene que flexibilizar su apuesta por el trumpismo” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ0xMTmVweDgwZHU1TnNiN0l6SUNuZkgyUHk2UnJQd1BaREQ0c2NodVkwbnk5S24tcVFOZV9WTHRleHlJb1VsQURxeG9WZTJISWNSZVBXRm1tWTJXNXVBQVJ0ZFlKc2hZTk9zOFlMYkx0LUsySkhiWDVlU0VBY1Q4SVFUeUxqNW5lQ3F5WjduTTduYk5YOTBGdnd3LXphMy1zQ0F5dy11bDBzaUpJaVM5eWdqal95b0w4NEZpM0xMMlBpWmlRVGFjcTQ3WjExUnJyRW5taTdoRWxGeEhSS0RTZFRrd9IB9wFBVV95cUxNbkRmRnRiWEt3SWY1VG1jTW5XZkxUUWdUT2pOVXhLQnRtSUJwVW5qbFJwUGJ4UG1QMExBanJkbGsyaTB6RnJsU2dkNG1nckVxYTRCV3QyRk5BakIyeVdJQ05lWWlNYWtWUlFRWUtjbUUwLUVNaGRfWTRvbkZzbmFTN25KUGRZZFRoSE9abVhaOG5XVXRya1FiZmlOSFNvYVVVNXU4MnNaX3hXY2p5ZkEzU1VST25QdTFaN3g5RkhsZDQ3WktxRFFfUVgyb1lsbUgycWFuUUlHaXdfM3ctUjl0Wk1oY2VhZFNDU0luRGRiVkdqWXFKZzJR?oc=5",
-      "source": "EL PAÍS",
-      "published_at": "2026-11-27T09:30:00+00:00",
-      "score": 52.5,
-      "corroborating_sources": [
-        "EL PAÍS"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "4321a4f64401a3fd",
-      "title": "La factura china en América Latina y el Caribe y el contrapeso de Japón - Política Exterior",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlppbExRXzZvZmRsTDBFdlAwandxUWwwVFlnX3VpNWVoMW81NzUyS01VczVNR1JlZ19WWTZhV3ZTMHUtZ2VFaWZJOHNBN1ZYX1RHbzRZOVBmWC15NnN1cU92R3lHUEpBRTlQTzdzT0M1UjlNRUNuUTdYSXZ5RVFJUHBwVGZXaGc?oc=5",
-      "source": "Política Exterior",
-      "published_at": "2026-11-26T17:58:01+00:00",
-      "score": 49.98,
-      "corroborating_sources": [
-        "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "a01f35485193c8fb",
-      "title": "Política externa ganha centralidade na eleição e desafia próximo presidente - Metrópoles",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGxxLU9yQjJOWGlOTDY0bjdVQXRiQkxsQS1TMmU3UTBHYnEyNmIxeHUzQzk5ZWRDbUU3NDN3dzRWR3VYeGlIS1M4c0VIQk5oazJlZ2ZvZTF3eFp4Wnpxc25fNjhIMHgyNm5CMWh6WjRHZEhhNUpReGFGS1pfYXl2NUNsdmpMcUNPVU9sZFNIWFNCeXdSbHNuMEM3MWkzdzdNVHRQSmNmYS10N1E1OUE?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-09-04T07:00:00+00:00",
+      "id": "4257be90acd5b743",
+      "title": "Rodrigo Pacheco, presidente do Senado, anuncia data para deixar a política - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmZHVlNQcV9neDlkZHoyTHZnbS04RWRQREpoWFJjalNqZEV3cUt1ZTZUZld3dU1pdk5CZFQySjVZVjB3RWNnSlN4dU5KSFBqNUpQTUFfQ1lGc2pLZVRxczZnSzVXclVNM2dYM3J6N2VuRlFRZVk4RUpWamtfMlFjeXVVVDQ4dmprNDBxckFPU1RlVkVSYkgyNmV4WjJoMURVZG9FRXF3X29kT0VfNHhIdTJqSHNpeXR1ajhMZG95dXp5dFdWOFVfQnBRdkVfRERTTkhXelhyd1RkZVhRWnYzS3I4N2ZkOTNIMmU00gHwAUFVX3lxTFBFZWNPeHpiVXdJMzZiT1luWWhJNTY5c1QwT05yOHZwRC1sOXE3RDVoQUFJc1R3Y3hfbW9ROUNNdEtuam00VWNBcHJ5QlJjRGVtVHZrOHFyRXY3NjZQdU9EaXp0a1dSWHZ6dXBkV2xoNHh6NXFnOFhlMHVoekJzaGpKUmVvVXpLOTBxdTBDY0hEcUdGNWtTMTNvZFlSMkl6ZlVMd3JkSWYtWTlQMXdSYlZKNzM2VkF3S2ZrM0tqdm5WZzJ6MWNBamk0Z2hrN3FpUGNMaTBpOUxhS25hUW5Hc0ktTnBkNkQ1Wkotd0JaZ2Rnbg?oc=5",
+      "source": "Estadão",
+      "published_at": "2024-05-08T07:00:00+00:00",
       "score": 49.48,
       "corroborating_sources": [
-        "Metrópoles"
+        "Estadão"
       ],
       "signals": {
         "source_count": 1,
