@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-11-28T07:55:51.895689+00:00",
-  "next_update_expected_at": "2026-11-28T11:55:51.895689+00:00",
+  "generated_at": "2026-11-28T16:55:30.702520+00:00",
+  "next_update_expected_at": "2026-11-28T20:55:30.702520+00:00",
   "scope": "Política nacional e internacional",
   "methodology": "RSS + recência + relevância política + repetição entre fontes",
   "warning": "Não representa ranking oficial de acessos ou comentários de X/Instagram.",
   "items": [
+    {
+      "id": "e36383cdfdfec5b7",
+      "title": "Lula pede desculpas e diz que chamar FHC de morto-vivo foi 'gafe muito ruim' - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnJIZHhYblVtR3ZDTUxQR2NqS1ZDVVR5eDJGYUdZSERVVXBhVWVOb0dXTlB6aEVmckJQQmpBR0F2Si1SV2FlNE9HV1ppWXY2MDFsRDMtR1llVkRmenRyTFNXTDRxR3RzQlZLVGpOX1RGNlp4dmh5TDloNDllZnBrU2V1YTZPQ2t4TVBpR0tDX2s5cHlIWkcyNG5xYy03V2pjTnJRMlNxWDk0clF4UldkTmVLOGwtallROFZkLXpmTGJVZw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-28T14:47:00+00:00",
+      "score": 67.88,
+      "corroborating_sources": [
+        "Folha de S.Paulo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "969c423bd286f4a0",
+      "title": "Football, politics and dark past: How Germany’s far right recruited World Cup winner - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43czdYYllkdE5sdzdqZTZMNGF0Z1VuZm81U2hxbzRKbU1HbTBMNF9YLWlaalplZ2poV1pVU1JENlMzVHk5MWNPYWNIZFN3dEcyOGxjampfX0Uxc2h0UHc?oc=5",
+      "source": "Ynetnews",
+      "published_at": "2026-11-28T09:36:52+00:00",
+      "score": 67.21,
+      "corroborating_sources": [
+        "Ynetnews"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
     {
       "id": "31fbf362a82383f8",
       "title": "Los demócratas prometen contener la política exterior de Trump, pero prevén límites - Prensa Libre",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXVjSDVwdXQ3ME1YY185QTVGdFJhV3pQZnRBZFZHOUk2NGZEdlM4SU5kcEF1Qi1vUk5PLWZDbXNtbzZIM2g0dWF3UzhlVVhHUm9fOTJVNE5MYjgtTGV1WGdRdWQ2VkZiNFJGQkROY3R2d3RiU0Y0QUg0MExfQmJMa2RzS3N3Y0pyWkhSSFNZOUtPTXNaU3N2S3JjLWc3STNWMnBkUlFUMUdzMzVGS19WRW1SN3pURXR6aFNHZHh4ckdnTjg?oc=5",
       "source": "Prensa Libre",
       "published_at": "2026-11-28T06:05:00+00:00",
-      "score": 73.23,
+      "score": 63.77,
       "corroborating_sources": [
         "Prensa Libre"
       ],
@@ -26,9 +56,69 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcHotUFVIejZmenNLSjhKTmxObTBzdkdEWU5DUmpva1h6ZHJwQ0NGXzUyY1FyaHFTd21aUmExVlhsZ3U5N0tZYkthTEhhT1hINGY2MnU5cllreklBRVRTMTZ2Q1JsNTFrZGRjSXJHM3ZvbTVLUGlpNW1GaU9FRXQ2NXZlS1p5RHJBLTN1Vko4dmhsano4R0JPc2dvOEpqandZWXYxanRhMkxOOGtmQlZJMTNzQV83SkZGNmt0alZGQ1BrSDBYLVhhTGdzV2M4UVRXbDhOTU9WSXZNV0NuY2N2bmVwTDl2NzRKU2xEc2hFTlE4VWNKNGJ6eTdn?oc=5",
       "source": "EL PAÍS",
       "published_at": "2026-11-28T05:55:00+00:00",
-      "score": 73.03,
+      "score": 63.62,
       "corroborating_sources": [
         "EL PAÍS"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "8e8545e27371d64e",
+      "title": "Candidatura de Benjamín Salas a la ONU genera polémica - Enfoque Digital TV",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeXBJaUplRzNnajhwYTZkQ3RRbk9JS1cwR055cmpIX1liQnZrWWg0aGdQZUtka3gxeXYyRDlxX0NPc1Zjb3RkMWpVaE1zT2oycFBROFkwSGtmckt6cVJsSmJrZFY4MWI0S2huUkY2QVIwSXY2eElYYkoyQ1Ayc1NSM2tjdzRRUUlxSlhRQm5RcE1OMklhV25pbFVidlRSRkdsQnJJc1p4OTFSVlhQeFFBbjlHNzR0eDZkNGx3NW5tQW1EZW9hc3BaZllpTkdzd1JpZjdTdFFNUS1Cdw?oc=5",
+      "source": "Enfoque Digital TV",
+      "published_at": "2026-11-28T12:53:18+00:00",
+      "score": 62.7,
+      "corroborating_sources": [
+        "Enfoque Digital TV"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b7c814e3f500e4cf",
+      "title": "Ameaça de Trump causa incerteza no mercado brasileiro de data centers - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmFsYUM2cDBJUnVBeC1fLTZGWG9sZWx6MXZ2eUQ5c1V6ckphR1lDdE1Kdno4VWxDd2IySUF0U2cyZU55ODlDakZNS2xhRWV5ejJvWlAtNGVHQmtjRWNzRVZUN1k2bU40X2tUZHc0LURkVURVbzhvWFluaWVaZkJEa3ZOMkZfMHNaZzVNM191NURObVcxVEMzU2ZUVnZPd3ZsTWZGWVFvVF9xb3pSeWRkSE5nSQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-28T10:01:44+00:00",
+      "score": 62.63,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9b7c307799164883",
+      "title": "Financiamento federal à mídia pública volta ao debate nos EUA - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEczM3J3N1NCMjBMZkZaakhmOXBldmJRajFwYUVtbk02Qm9MQmFtaHd4R2tnTmtjano3d1RRWldscmhydjFoZjVnTEpoLTdwRXFfVGNNMWg5X0FEVUJCQTFwazRWbV9TWFRRRDFkbkt6cV85OGg2eTd6aTRsR044eEtEWGF1YTZWTmNqQjlGVUhLeEh2VGJtM0VMSkRNdmlXUmhsZm9PUG5DMGZUd3Vz?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-11-28T10:01:44+00:00",
+      "score": 62.63,
+      "corroborating_sources": [
+        "Poder360"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "caaadb86f0a1cd26",
+      "title": "La soberanía latinoamericana frente al regreso de la fuerza - Caras y Caretas",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFhOZHNVeHRLUjJ5Rl9sRFNkSVZpOGdYWDZHSjNUX2VoRVBBTzFoVDgyMEhpSFBIaG9IOVlWRk02dXVmVWZNbXZpTUNfYWtGVmpOdTZCWlNON01ROWxWRVBhc1ZWZEVXTnQzUDdLTFpiaDlrMHdlVmNVcnY1OXc1VldJQUE5UERjbk1kVGw0OHp5Z3JGQU9WNnRXbTBQTVdOaFRlT05XMFQ2QS1oTUstVnZlc9IBuAFBVV95cUxPZTVnM2tEbHF0WHlhSmxIRXprWWhSSGlULU9ZMHJfNkpqc3FlcW4zRXY4SHNsdHlzYUotNVphbExwUjEtSG0tQWM3cGdOOEdXVVpGSWpBRVZuQlVmSDdJTHp0T1dDc2RqR0JOVkg2WU5VdkRkYXh2T1ZjbEdFV1pvRkJ4RHpoTDRyeUlUeUF4V01VZWJJNDNOcXMzMVJTaW9KVzB4X1dpRHg0UUQtcmxlaUsyaDl2MWp2?oc=5",
+      "source": "Caras y Caretas",
+      "published_at": "2026-11-28T11:17:49+00:00",
+      "score": 60.96,
+      "corroborating_sources": [
+        "Caras y Caretas"
       ],
       "signals": {
         "source_count": 1,
@@ -41,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0lPbkJPT09jNmhUSjVvS2ZZYjNyVEtaaU1vd2J6SVgwRG1HcjhpYXlwQndzeUtSQlJXbFJhZ2RHUjlKVHczVDN3RThJTndTYzVtUjFGZ1dBU1YzMU0wS05iYUlmckVuVFlER1g1cjRFY0s0WHRrQ1VwM3h4aVFXdGppcw?oc=5",
       "source": "Universidad de Chile",
       "published_at": "2026-11-27T15:29:50+00:00",
-      "score": 66.98,
+      "score": 60.68,
       "corroborating_sources": [
         "Universidad de Chile"
       ],
@@ -56,7 +146,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdThuc2JPOFBlbE5ZOVkzV3IyOWVIa3pualNWMV90Y1Nhamk1ZkRIbkRYRHRVRU5yeml5ekxtMjlIVmdfWmlkTXFFSk92QkNsa1FXWXg1aFVFdkJHYlJrenFZbUwwREo5djJpU2w0UUlrN0ctY0JkaVRhS2J4MHA0TUl4RGpoUjhwRG9aY09ma24wSjEyZ2xsbDNUazctb3MtRDgyMnNWLVQtX1NCdnRQX0FocDVOYS1HRGNpSkdMaDJYc3BwVkxnbWNnV3l1Rnc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-27T18:18:00+00:00",
-      "score": 64.29,
+      "score": 57.48,
       "corroborating_sources": [
         "Folha de S.Paulo"
       ],
@@ -71,24 +161,9 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2d1MzFqRGRrbzlkOUI0Vm5lZm5RTFZLQ0VzUDJyX2hWcEZNTW1lX19fWVhyRTJLaTQ3NVJNNnViRWdmS2M5V1R5dGtJbzd4WnQ1cTJqR1lLLTFRT0ZKNGFvQzNpMlZ4SW82WWd5ZEVCZC1BR2J2WjNPbnUxTzVkdm50REJjMG8yZlRHMTBwUDNiQndBU1VtN3dKdFFRZVdBNmo0azFSZUhIdk9ZQ255RFB3?oc=5",
       "source": "Punto Biz",
       "published_at": "2026-11-27T20:54:55+00:00",
-      "score": 63.61,
+      "score": 56.29,
       "corroborating_sources": [
         "Punto Biz"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7757decc664e0a92",
-      "title": "Global News Podcast | US asks Mexicans to contact cartel tip line - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96elplWlZoRDBWTGRvQTItdE9HOXo1a1AxZVY0WkZxSkVJQVlhOTRkU0ZOdmpRQy1Rck5HMmtkY1RJQTJLdHc5MmhvZnhabFNH?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-28T04:24:14+00:00",
-      "score": 63.28,
-      "corroborating_sources": [
-        "BBC"
       ],
       "signals": {
         "source_count": 1,
@@ -101,7 +176,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzVpakdkMUktdG5Pakp2MWJISWU1X0ptOEFZelBYb0JubW9MRk1ZaHV1TE5Jb1dSV2QtdXF6SmNLYldiYnU0X0NyM3hIVWluVVZUVEo0dl9ud1diTlNyQ3JsSUl2YzRvQUZvLXNHaXhtNDNBb1plZDk4UFZyRzRhVmxiRWxxVFJkQWMyNzNBTnl6WTZrQzBHQUlmbExFN2F1Uml5Mi1ZLXVjbkNuWnZvWWMtTDVZMjB5SVdMYVQtcnZGQVBKRkdMbkFQQmRHQTItMF8zR2NtSHpxQQ?oc=5",
       "source": "Correo del Sur",
       "published_at": "2026-11-27T20:32:00+00:00",
-      "score": 63.26,
+      "score": 56.02,
       "corroborating_sources": [
         "Correo del Sur"
       ],
@@ -116,24 +191,9 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGhsUVJ2ZDNSSEhCU1dJOUNlN3g1d2FZY1hndDdqNjRKVkFEdmh4LVVqX0NDU3FmaTdJMVhZekFCZlF5UDNXSmdaekFCbVFvX1FSZWJ5TkZfaC10TEY2MWxvMGQ0M1hRV0RqUS1wTk9QMlpibnR2Ujd6TjVOY2tYemlwblFHVjljYmhaNVN5a0FMUEZyT19LM0V6VndsVzdCSUY2MDRtT25BX1ZhSDl3OUNHU3FBNzF0UUZKd0hsX0pqXzRKNzBMZlln?oc=5",
       "source": "RNZ",
       "published_at": "2026-11-27T19:41:38+00:00",
-      "score": 62.51,
+      "score": 55.43,
       "corroborating_sources": [
         "RNZ"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "04a5ccfa7dbf4ae2",
-      "title": "Kushner says Putin \"showed restraint\" by agreeing not to use nuclear weapons; calls him a \"grandmaster of politics\" - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUlkQ3B4WjRlNnN5RDBiZ3lqeVVQVjlBaTdoNnZLYXl4dTBPZG80ZGRaeExlZkNrdmpvVGJId0l0SVhaNThWMERtU1Y2b0xaWndoRHp2VXhUdkE0RFVVNU1YUUhwRlJfemNkYmR0LU41ejctOGR0WEdza0hLcTFHdUZRQ1hfaWVUWE1RRE5FU0dsMTRVaVFkd0doeHFUa2E0blh6eElPbW9xVklYUkJQNTVOb3VnQU5TbFJ5dy1TRERVaFF6WlF6NHV6TXI0UQ?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-27T15:37:59+00:00",
-      "score": 59.09,
-      "corroborating_sources": [
-        "Plataforma Media"
       ],
       "signals": {
         "source_count": 1,
@@ -146,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzNza2lVaklfTDRyWmZmOVdOSnYwQnFjdEVqaWl3Q1A0UVdNalVjYnBqLThDMDFnbFRtSHJkeVpzREZVN25hc21IdGRNQ01ScUVKM2NILTBndlFXc2o5SDRiOWJ1TTdHR01KaGZPc0NLeHhSVTZIOF9ZZFBJaVRPMnl4VDl2d085b0ZMUHJycGtTMnVHdFJvcHlFSWdSbFdwbnlFbW91bmt3ekE2Q0ZGVF9pQ20?oc=5",
       "source": "Poder360",
       "published_at": "2026-11-26T21:59:41+00:00",
-      "score": 59.01,
+      "score": 55.13,
       "corroborating_sources": [
         "Poder360"
       ],
@@ -156,14 +216,29 @@
       }
     },
     {
-      "id": "286a609bec983a89",
-      "title": "Revista Escenario Mundial Nº 10: Anuario de Política Exterior Argentina 2026 - Escenario Mundial",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPblhaSTRwbTZ5aWJ2b2pWX1MyVXVmeUhqaTdReDNJR2RJNzRzZjhtTGgyNXR4VUpSNU9Nc3lsUzFXQnRQV2c0WjR1Xy1SOGs3Ul8ybFF3dW05aE9rVGVYb0R2aF9oTFZ5T3VZN1A0TlQtY3Y2S1FQRXptY3BHWjRjRXNPYzNLYVV5OHRaV2JDQXJFNWtSX0FQb3RIWFhzNVNCUndoWVRKdEh6dGFKMkIzWnd3VnJ1bEFCaVVvNNIBxAFBVV95cUxOc1Y5UWJ1M1RDaVREZjNmdWM2TlZSaFE0d0NyWFVqcjJRbFFrU0pXbVNfSkxmY2E4SUkwQ29DdHhaTmxqSC1xZmxtSFBpT21KYWdSX0tJWWhYc1RQZmJYSEFsSmVkbmdDWXdrN0FjNlAyVERkTUFtSWFJejhxUGZYZjJ1bGp3d2wzRXRuNzAtNExlSFl0YUptd3lWWktvNzFLNmc5blJXWExHcE5jd281TlYzU0JtNllqNzE3V1Y1RWxmaDNW?oc=5",
-      "source": "Escenario Mundial",
-      "published_at": "2026-11-27T15:17:46+00:00",
-      "score": 58.83,
+      "id": "04a5ccfa7dbf4ae2",
+      "title": "Kushner says Putin \"showed restraint\" by agreeing not to use nuclear weapons; calls him a \"grandmaster of politics\" - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUlkQ3B4WjRlNnN5RDBiZ3lqeVVQVjlBaTdoNnZLYXl4dTBPZG80ZGRaeExlZkNrdmpvVGJId0l0SVhaNThWMERtU1Y2b0xaWndoRHp2VXhUdkE0RFVVNU1YUUhwRlJfemNkYmR0LU41ejctOGR0WEdza0hLcTFHdUZRQ1hfaWVUWE1RRE5FU0dsMTRVaVFkd0doeHFUa2E0blh6eElPbW9xVklYUkJQNTVOb3VnQU5TbFJ5dy1TRERVaFF6WlF6NHV6TXI0UQ?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-27T15:37:59+00:00",
+      "score": 52.77,
       "corroborating_sources": [
-        "Escenario Mundial"
+        "Plataforma Media"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ff2290a8421d7ca6",
+      "title": "Impedir ingreso de relatora de la ONU es el hecho más insólito de la política exterior desde 1945, afirma internacionalista - El Observador CR",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMm9EVFRIWGo4M3BPaTdsd2RHTWV6QnhXNlU1MUh3VUpYNzZtQ191NmgxRDBlU1V3VUU2M3FXNWVqeGM4TkZUdnU2QTNkSzkxdF81TThzLW50aGhTLU5oUmpWdDlxUXNyWEJtTWtVakFlaDN2YXBOOC1ZUE9oV2M1V0R2Z0tjQ0tYV2w3d1NxdDIwVGcxM29LbTF6OHktWUN3UDZJNkdRN0tjU0Z5QmFlRUF3ZlA5M0tQX2ZQYnd3TUFBY0dqVzlIWnBHd3FMbXAxMmhnb3dFZDg0TjRQcHc?oc=5",
+      "source": "El Observador CR",
+      "published_at": "2026-11-27T15:30:40+00:00",
+      "score": 52.69,
+      "corroborating_sources": [
+        "El Observador CR"
       ],
       "signals": {
         "source_count": 1,
@@ -176,99 +251,9 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1alhKMUJTUmlIMVpwMGlTa1A1eEd2LW8wQnEwUERnZVh0Z25zTVUzZWt1QWotaVBhR0pHVWU1ZHJmc3BLcTVzclJtTlZwM0tmWjVWdjUzdF9sRkxwMkRvQWQ4aHlLV1pfVEtXQkR5Ml9peGRmSmNOag?oc=5",
       "source": "Política Exterior",
       "published_at": "2026-11-27T13:33:09+00:00",
-      "score": 57.49,
+      "score": 51.51,
       "corroborating_sources": [
         "Política Exterior"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "86b62566a662a9cd",
-      "title": "Bolivia y Perú firman la Declaración de Lima y retoman gabinetes - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUE1Q0xUd2pXUWhTM1JmYUtzTDdJdjhwdkZhNkNuMlFLU3d3eFFfcjhFWTZCMWdHTGhGRzVzak5EM2laeXdLMHlTSjZaRWpqb3hoUThDWW1pdWE1WUoyUVczZXJBYVZrZHlERWFIZUtPR1RZQm5ZNzNfQ2pjT0tWblhaQllxQlN6SklQLTBuQlctcG95SXhOVzM2dlprcS1obzAtRFdkV1BlYkU?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-11-27T22:35:36+00:00",
-      "score": 57.2,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "d1f4cd1de284bbc8",
-      "title": "Expresidentes costarricenses cuestionan veto a relatora de la ONU - Diario El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd19KUk5ydm1OSndJbW1NbFJ4RlBEZ0tTQVhWck1yN2p3SnBBaVcyTlk4RmVwQ2ZFNkNZN29MZ1RncHVnUl9sVEpDUElkQ0p4em1MVHoyYU1zMmZVc2F6aDZhbFJXRWR1UnIxUjlDeUcwSTFRYXJKbHJqV3Z2YVRVLTRtNzNkX0stUm5HQmExRlJleTZWMDl1bDg5YURkN18tZ2fSAawBQVVfeXFMTlh4UlZOUlV5T21tVWpJRjh1MlBLUmFKSnJUcW9VMGhqYVV4LTM4T1VBNjVKdkJmdXlxTV9qdFhpWnhZRW5LRERQbDdXb2ZuN2lOUEctZk9LNjJ2MWVyLTcwak8zUEJBemlvNWt4a2xGR3p1LTFlWEE2RkE5U3dWcGtqQmlSeEJWTzdLeFNkYmlWUWJjeDktNWJWMTFtdGRzRTNBR2lSZmtfRWNMeA?oc=5",
-      "source": "Diario El Mundo",
-      "published_at": "2026-11-27T22:30:22+00:00",
-      "score": 57.11,
-      "corroborating_sources": [
-        "Diario El Mundo"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2c7e47791ad1f407",
-      "title": "Análisis internacional: Sandra Borda examina la diplomacia de Gustavo Petro - Enfoque Digital TV",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDdMMXFOOWlYQkNjdW9EcHJvT3A4ME1MM05rQTN6QXpGQmQ0UzZzVVlGeURHZUl5WWNGWnNKZndnbXZsM3hrZ1gzZGlmZnk4OXBBMW9ZZkhYeUxRWFluTHUwaEJTZTVkcTcwOU94RVVsQXhfWFNMUGFPUVNZOVpvQi1wLWQtazBHMS01OWtUVFl5ODVSZGdSOUszNTFJUnRrVmo0?oc=5",
-      "source": "Enfoque Digital TV",
-      "published_at": "2026-11-27T13:03:03+00:00",
-      "score": 57.11,
-      "corroborating_sources": [
-        "Enfoque Digital TV"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8f5bda33c23f2d00",
-      "title": "Todo es geopolítica: La tensión nuclear en el Báltico sacude a Europa y la comunidad internacional - Negocios.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN1hIS09vTjQxTFNMSG14cXBBMkh2ZVRrcXJuWUM3aXlsTHlQTGVwazE2ODRwRVBrakNwaXRxTC01TlZXd1lsbjcxZm1ITFRjS1FZTGN3QllITWkwcUFCZEhNQTZlOTNZLVhzYjkxUHFsaHRPcV8xUnRGeDgtaVJmNEhxR1RZd3dmMDJrYXFXNUtwalFFWFRZblVoX25pcVZIVjlqNWkxYmlDQVFhUnFtWUtwOS1UeHlJQzhJQXFBbVpTSUN2U0JGX1BNa0l2UzRMY21ETGJMcEhvQXVw0gHiAUFVX3lxTE9tN1BWelA0Y2lGcm5QWTBJWHAyT3o5WFk5c2dNWHNfN1JRUG1IRmM1aGNabXE3ck5fUmxQa2VEQkRreXJwN0Z2YTJzV2lqaU4zSWd3SE8tY2IzVnFCbDhkQTRxVDdCVlRYUkNacmxicEMtQUo2LWdZdk1WUU5TMUlLZ2RvUTRSSEtqdGNhaE8wakxxazNSZFd1bFFmSm45ZEFxUmw1SXZzNU1vRU9PanNVVVdjVFoxNnpOYlU4WUh1NDBhc3JWNG1tVHRKSGNhbE43c3RUa043NG1WZXZzaVZLUlE?oc=5",
-      "source": "Negocios.com",
-      "published_at": "2026-11-27T12:59:35+00:00",
-      "score": 57.07,
-      "corroborating_sources": [
-        "Negocios.com"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "74c21a155aedab1f",
-      "title": "Perú ofrece puertos a Bolivia y habilita paso fronterizo - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcy12YkRhc3NBRElGT0tVaWNWWGYwNGxpdnhEdE5YcUt3U0tOQXoxb3A1cHVhUjBhSDVuU0pfclFxMFlBdmhmd1JxZVJuVk5kSWxSWXJodGdvVUgtWWJGaHh6THZNTDhmRm9fczdFS3NuYTBILVladXk5dllzQzN5anp1M1pndE92R3hGY1Q3WGtrUUdSMnRHdWR4d1Z3Vk1UbmxMMVViODZaczF2?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-11-27T20:31:42+00:00",
-      "score": 55.26,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "8774d1b27ca27f37",
-      "title": "La UNCUYO fue sede del VIII Foro de Política Exterior de REDAPPE - Universidad Nacional de Cuyo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3VRZTdiWjd4eG1VWXJiOHIydWNtdEgxSk5tQjJaRTViWnFMZDFacWpEbkV3NExkd3lGbXBCRFpuMkdYN080S1VPMUVjcEhidVg3UE8yZ0llRkxBUWpDcl95bExEa3JCZDVwUm9aRzdQV0x0NHZ5M19VMHVzYXhaU0IwdW9tZGVtQlZfRW41R2ZSandpT0ItZ3dWQS1IUQ?oc=5",
-      "source": "Universidad Nacional de Cuyo",
-      "published_at": "2026-11-27T10:12:46+00:00",
-      "score": 55.09,
-      "corroborating_sources": [
-        "Universidad Nacional de Cuyo"
       ],
       "signals": {
         "source_count": 1,
@@ -281,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjlFVm55a3h0WmRrYlVtVG5sQl93bXQtV1B6MWQ2Z1lLYWs2bkpxRjRDSnZ4WWNGc2huWnZ6VUs1Z1ZNcE1sbjR3dzlNZmVHcmFMMGdQTjdoNlVNeW5yZFFDNGl3d1lSb08yYzNSaGlIbkNiTklzbDZ1elMwRlMzOWtXN0tjeXlyNF9RYmM5S3RFTHBnZWpFLXBjM1l5dDBDdkhxYVNab2w1cHUyZlRCaWRRbEJibzhmcVJNQkdTdEtjeUQ1NHpHZ3l0ZjVCaTg2MTRZUmpPeEhNY1d6X2oyRFVB?oc=5",
       "source": "Governo Federal",
       "published_at": "2026-11-26T19:21:10+00:00",
-      "score": 54.77,
+      "score": 51.17,
       "corroborating_sources": [
         "Governo Federal"
       ],
@@ -291,149 +276,14 @@
       }
     },
     {
-      "id": "08b95a27ad5a85db",
-      "title": "Camilo Santana viaja com Lula para o Rio, mas anúncio para Casa Civil pode ficar para próxima semana - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUhnblF5WmJfTTJsN2NUakZiRG9FY19ZTlhOamNjS29NSUZfZlB5ZnFiS1p0N2ZfbDVZb2M2WVYyNXF0d09fZ01tQWdFWkw2bXVkWHNiVTFEcDlORGNoWWNJVFJoNWpXTUVWSmhwNkpMeHBYTG9nWmNFWlcwY2ZTU3RjaUFxZDJjLVZ2aHlZUDVnRzJ4akVjODg5ZFlqYmNNcUtHTlJmaHNhWG1YRGVuM1ZieDg2OVhtSWNTYmhFc1RIdW01LWtzemtyU3dWX3NVOWfSAdcBQVVfeXFMT01DaU1PUDBSZThnenlvSDktWVdJRTFjaU5pWHZzbU1lQWJFWUtGMGc1YXdWTk52ZUtldEhFTVVNVUhNcHFkUDB5djZ6S0VTNU5uOFZoVFpidXFpaWI1S0JGeHE3YTRSTXliVldDUTZjdjZaa2ZfenlRcUpEQTc2VFAwTzc2b2g5cmdvbGpGY2lRVkVzTjNJNXVhQUlVRHA5ZWhwd2tyay1QRWdKNGZVajRXLTdqYUNZY24zR01BRkZUeU5LVGN1cTkwSmwxS2hSdDVTalgwWXc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-27T16:05:52+00:00",
-      "score": 54.46,
+      "id": "8774d1b27ca27f37",
+      "title": "La UNCUYO fue sede del VIII Foro de Política Exterior de REDAPPE - Universidad Nacional de Cuyo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3VRZTdiWjd4eG1VWXJiOHIydWNtdEgxSk5tQjJaRTViWnFMZDFacWpEbkV3NExkd3lGbXBCRFpuMkdYN080S1VPMUVjcEhidVg3UE8yZ0llRkxBUWpDcl95bExEa3JCZDVwUm9aRzdQV0x0NHZ5M19VMHVzYXhaU0IwdW9tZGVtQlZfRW41R2ZSandpT0ItZ3dWQS1IUQ?oc=5",
+      "source": "Universidad Nacional de Cuyo",
+      "published_at": "2026-11-27T10:12:46+00:00",
+      "score": 49.65,
       "corroborating_sources": [
-        "Estadão"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ba9734aecefee39b",
-      "title": "Marruecos sabe dónde quiere la final del Mundial 2030, ¿y España? - Rue20 Espagnol",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2JNdk04Z1p5aXVTNEl0M2FTNnVLWm9vbUkzMl9lNUFfaTdUYTEzNXB2d0E1T1djdkNJbUNXTHdNRDh3MFBtaml3QXhTclRtT1VVZS1pVmRGbDRyMmtaamc4Mm5xeGRhZk42NVJyWDFJY3lzeVktTktmR283dU15VVZtdmV4dVprZS1fdUhqYU9NTmxKVm16TlZuRQ?oc=5",
-      "source": "Rue20 Espagnol",
-      "published_at": "2026-11-27T18:50:22+00:00",
-      "score": 53.76,
-      "corroborating_sources": [
-        "Rue20 Espagnol"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "ccdf456620c60915",
-      "title": "Why should we care about Taiwan's nine-in-one elections? - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE03eXIzLVBNNEJRUmhpUGRIS2hhNmVybXI3a2V2WDlWYWw3aDF3SHRWRGw3WUpIQ2hlTEdSaUtZaFdlbm1tN3pHcHRZLTZFR20tY3FncnlBcW01MmtFUG1udnA0Ujk4UHlHVGlrUkJUWkN4dFpHTVk2cWNlc0pGemI1OF9yWWNfQVBVZkh6OA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_at": "2026-11-27T18:00:00+00:00",
-      "score": 53.04,
-      "corroborating_sources": [
-        "ABC News & Headlines – Australian Broadcasting Corporation"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "85dec54be6fcc9e9",
-      "title": "El programa internacional de Frente Amplio - Descifrando la Guerra",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qbUtqM0MzZkNwN0FRdUtvQVN3R0diZ1dJdE1MTkhlUDh3MW1TcElLN1RnbzZ2OVh6dHY0ajNyV2hNdGhYazBNNU9qeDYtTy00cWtSYzNvVDlLalYxc1NBV2E5aVJZeUhET0dCRkZYSjdJMWo0WTVqaEdqZ0w?oc=5",
-      "source": "Descifrando la Guerra",
-      "published_at": "2026-11-27T05:27:59+00:00",
-      "score": 52.05,
-      "corroborating_sources": [
-        "Descifrando la Guerra"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "23f8c17cf84400f9",
-      "title": "Pizza Hut cofounder Dan Carney dies, nearly seven decades after first launching the business - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzJxdzBWNk1yM1FUMXNSb3JxNHI2bGU5Y3ZWeGNFN3h6MENrWFQ1X0lGV080Qmw5aGhnd2phby0zSjdoeWdkc1pyQ2R6clQ3WWJaX201RHBrdHYwMlpGZmt6VFRRREIydGgxNTRYdFpaS1FEY3JzZElCT3BRQ3MwU2ZSbHdDTHoycjZkMG54VV93M0I4dENWQVJkcldWZU9qaExKQ3dR?oc=5",
-      "source": "Audacy",
-      "published_at": "2026-11-27T16:47:00+00:00",
-      "score": 52.02,
-      "corroborating_sources": [
-        "Audacy"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "2ba6a175df69f866",
-      "title": "Paz plantea conexión con el Atlántico en reunión con Fujimori - La Patria Bolivia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSENCM1ZVTkk0ZS16dFVpdzZFbHNGR0p0YXk3TFlOSjNMRmtlQ0s1NzB6dW5MOTFjcnpWNlhvM3R6QWRrdnJuR1U3cHF1bm9DQVgweWh3YUxGR2lfTFRSM3hsek9ZaEoyNDZ6Q2w1RDVIN2x0d2ZjTnRXazAxaTNRZldLczlwNG5udHcyMWZiQjYyYlJvazVSd2pTbVlzRXM?oc=5",
-      "source": "La Patria Bolivia",
-      "published_at": "2026-11-27T16:00:18+00:00",
-      "score": 51.39,
-      "corroborating_sources": [
-        "La Patria Bolivia"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "9b5182a3887d4370",
-      "title": "Zelensky calls Trump's \"my friend\" remark on Putin \"strange\" and urges more US pressure on Moscow - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNzk3akp5bFg2TDFvdmU2WFlQcGZxMlY3TGwxdGNZRGdGcUtuSGx4NVQ5WDJfbFh5Q1hOVHIxbTVuNHVzSVdVOUFUMUptWnNqM0NVN2d2Q2hlLUhPQlQtN2RvX1BjMDhoWGUxbVB6Q24xYll4YTVhTkRvbDY4bVR1c1BPRzc3SXVZU3IxN2drbjlUMk1oSlFoY3VadFk5YXg3bVhMUVI0SFBGV0pjMVdWNWNDR0JCZURRX0hyZlpWeVhJSnRHVFZ0SUItWHVHZTNoMzBnNlpQbXBFMFNvcWc?oc=5",
-      "source": "Plataforma Media",
-      "published_at": "2026-11-27T15:38:16+00:00",
-      "score": 51.1,
-      "corroborating_sources": [
-        "Plataforma Media"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "0bf14317c8657e6c",
-      "title": "Comisión del Senado reprograma entrevista a Giovanni Ortuño, nominado como embajador en EEUU - Correo del Sur",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZk5fREZXTmR2MnROTTNuc24yMjZ3WTFBZjAxY2VSbHJKeFV1Tm9wUlZoVlRVYVlvV0lsV1E1bTdXQUNoT3VnRmdFN1BQWVhuSHVOOVF4dDl5WjZEdGp3cHV1WFMxX0ZoVWFSSmlrbm8zc1lfY2tJSm1ld2ExcmVad1RrV3lDalI1a0g0Skh3cC12NFZjTkNCTllvckhmSUplTmUzb1lyVDdaQ1hXeGkwUlFHSkgwZDJlQkVHLWNkYTJNanViYk51QTVJZlRIUGtGSl9FLXpB?oc=5",
-      "source": "Correo del Sur",
-      "published_at": "2026-11-27T02:06:00+00:00",
-      "score": 50.13,
-      "corroborating_sources": [
-        "Correo del Sur"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "57c3bb2612c8cc96",
-      "title": "Putin is a ‘grandmaster of politics’, says Jared Kushner - The Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3k4TktLd1ItMXA1TzRQejhKSGNSTmgzRzMtQURFMDNGcUFFemFxdWt6b0VEMGNtbW1zWUFlbERGOVZRWmg2WS0tMWdCTDFZdnZuQ3RuQkhCajFyeDAxUDg0QzdMcWtKVUJVbTdOTUJRRi1Qd0o2RENtcFQxUVpqTEJMY2t5djZGOGRodldYQkRMRThub3ZPZFJpOW9tbi1SUkxIWFFwRQ?oc=5",
-      "source": "The Times",
-      "published_at": "2026-11-27T02:03:00+00:00",
-      "score": 50.1,
-      "corroborating_sources": [
-        "The Times"
-      ],
-      "signals": {
-        "source_count": 1,
-        "social_metrics_available": false
-      }
-    },
-    {
-      "id": "7517ded02a8016c7",
-      "title": "Entre Washington y Abu Dhabi: las oportunidades de la Argentina para captar inversiones y los desafíos de consolidar sus alianzas - TN",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOemJtNW1iVUV0NXlIbzRTTmVDU18yLW50TzhDVTQzUlYyVF9nSDE2cE92UG1FTjRacDczUkttVFBnb1UzdWt3ZGlzdnhMSlAxSTUybWVFc3pFR21WVC1RUnhEekRkTThHR0ljdGc1ZDJDdWtIbHpxQUdQMVpNOWJ2OUVlZm5zcE1Fd0htcFhrem1ORnd2cmtYN2JoN1NrSU50SHdxb293WlpDV00tbWFPczNoUEkwZkVHWHJldTE1NEFCdEFiRUtlV0RZc2JPQVFrUUxvdmJ0eVp1Z3Y2TTVuOWdKQTZKUnJlZDVOWnJYLWlCMmlfWWM4MGhaMEd4ZndvMEHSAZYCQVVfeXFMTnhMbHR6cmo4UWZvZTFKM2VmUWpXekRQMDVndWFBRko5aXdRNW0weWxSMjJTdElBWWh5V1hNcTNKaV93N0dONW9QeWgyQi1qN2l5aEh5TFlxNTg4QjQ4bnd4RVhyWHNXdWNVMDJqNlE5RWlNZnI0eDNiQjF6bFZJXzBFRm1KY1JnTnJYdVhGQUpIdE9wNWRmY0t5bWN1bDhtcGI3ZGI1c0pxcnBFQmFueXYydWlvWE9SRnpBYXVQb0trSXF3MHlhV19BdW1nQ1dkNG9pRkxKODVtejVRdm1PUEZoRGJGS2pVd1dwd0JQUktLRTRXRy1zbVlWQ2Eyc2QybHNEdVcxdGNiMHg4LUhtRXlYQzZRREE?oc=5",
-      "source": "TN",
-      "published_at": "2026-11-27T14:04:48+00:00",
-      "score": 49.88,
-      "corroborating_sources": [
-        "TN"
+        "Universidad Nacional de Cuyo"
       ],
       "signals": {
         "source_count": 1,
@@ -449,6 +299,156 @@
       "score": 49.48,
       "corroborating_sources": [
         "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d1f4cd1de284bbc8",
+      "title": "Expresidentes costarricenses cuestionan veto a relatora de la ONU - Diario El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd19KUk5ydm1OSndJbW1NbFJ4RlBEZ0tTQVhWck1yN2p3SnBBaVcyTlk4RmVwQ2ZFNkNZN29MZ1RncHVnUl9sVEpDUElkQ0p4em1MVHoyYU1zMmZVc2F6aDZhbFJXRWR1UnIxUjlDeUcwSTFRYXJKbHJqV3Z2YVRVLTRtNzNkX0stUm5HQmExRlJleTZWMDl1bDg5YURkN18tZ2fSAawBQVVfeXFMTlh4UlZOUlV5T21tVWpJRjh1MlBLUmFKSnJUcW9VMGhqYVV4LTM4T1VBNjVKdkJmdXlxTV9qdFhpWnhZRW5LRERQbDdXb2ZuN2lOUEctZk9LNjJ2MWVyLTcwak8zUEJBemlvNWt4a2xGR3p1LTFlWEE2RkE5U3dWcGtqQmlSeEJWTzdLeFNkYmlWUWJjeDktNWJWMTFtdGRzRTNBR2lSZmtfRWNMeA?oc=5",
+      "source": "Diario El Mundo",
+      "published_at": "2026-11-27T22:30:22+00:00",
+      "score": 49.45,
+      "corroborating_sources": [
+        "Diario El Mundo"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "08b95a27ad5a85db",
+      "title": "Camilo Santana viaja com Lula para o Rio, mas anúncio para Casa Civil pode ficar para próxima semana - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUhnblF5WmJfTTJsN2NUakZiRG9FY19ZTlhOamNjS29NSUZfZlB5ZnFiS1p0N2ZfbDVZb2M2WVYyNXF0d09fZ01tQWdFWkw2bXVkWHNiVTFEcDlORGNoWWNJVFJoNWpXTUVWSmhwNkpMeHBYTG9nWmNFWlcwY2ZTU3RjaUFxZDJjLVZ2aHlZUDVnRzJ4akVjODg5ZFlqYmNNcUtHTlJmaHNhWG1YRGVuM1ZieDg2OVhtSWNTYmhFc1RIdW01LWtzemtyU3dWX3NVOWfSAdcBQVVfeXFMT01DaU1PUDBSZThnenlvSDktWVdJRTFjaU5pWHZzbU1lQWJFWUtGMGc1YXdWTk52ZUtldEhFTVVNVUhNcHFkUDB5djZ6S0VTNU5uOFZoVFpidXFpaWI1S0JGeHE3YTRSTXliVldDUTZjdjZaa2ZfenlRcUpEQTc2VFAwTzc2b2g5cmdvbGpGY2lRVkVzTjNJNXVhQUlVRHA5ZWhwd2tyay1QRWdKNGZVajRXLTdqYUNZY24zR01BRkZUeU5LVGN1cTkwSmwxS2hSdDVTalgwWXc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-27T16:05:52+00:00",
+      "score": 48.06,
+      "corroborating_sources": [
+        "Estadão"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "d9adb73009d3160a",
+      "title": "Relatora poupa estatais, mas facilita indicação política para reguladoras - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTm9xbURvaVBCV01YeFZpakZ3blkzRGdkc0h4Tm9nN2pVYjNhbTJELXpqODFlUjM5eExOQ2FhbUx6WUVhSlgtdk9HelotdURDTTNYX3F0TEMwMERQNXU0Wjk2UzJOeFpyTmh4SUItS3hsd1VPOU5BTGVTQjNCbks0MmZhQU52ZWJhenR5MFhwMHJ4ejBGUldHRlZQemtiVG43Y2IwWjltWmpndw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-26T23:08:00+00:00",
+      "score": 47.57,
+      "corroborating_sources": [
+        "Metrópoles"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ba9734aecefee39b",
+      "title": "Marruecos sabe dónde quiere la final del Mundial 2030, ¿y España? - Rue20 Espagnol",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2JNdk04Z1p5aXVTNEl0M2FTNnVLWm9vbUkzMl9lNUFfaTdUYTEzNXB2d0E1T1djdkNJbUNXTHdNRDh3MFBtaml3QXhTclRtT1VVZS1pVmRGbDRyMmtaamc4Mm5xeGRhZk42NVJyWDFJY3lzeVktTktmR283dU15VVZtdmV4dVprZS1fdUhqYU9NTmxKVm16TlZuRQ?oc=5",
+      "source": "Rue20 Espagnol",
+      "published_at": "2026-11-27T18:50:22+00:00",
+      "score": 46.84,
+      "corroborating_sources": [
+        "Rue20 Espagnol"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b76935a51281dbec",
+      "title": "When Effect Becomes Cause: Policy Feedback and Political Change | World Politics - Cambridge University Press & Assessment",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDhMZjJfbXM2eDBtT09WeUJQUmxzbzJXdFlXWmlucVI2Ti1HRVBJc3ZHNkNZY3dvd0NpclRSYlExT3NLb0U1b24yaWhEekFrSFVfYnhHbTJpYmpXQWYwX2lXdExDbXFndXBlSGtHZ1lfb292WEM0dWFsWnJkSGtCWVRDeEFUdFFKR1lKNENHSzFVT0hWTkUtTFJKZkJwZFduQV9qQkZDa2xtZ3VEZGVfWXkzUHAtZXFHSmg0NEFQNmR0UWZWUGJUX2pLMHpZcHl3WVF3TlRWMmNUTmJoS3diSmlHbkJ0QVk5Wnh1RnpEZw?oc=5",
+      "source": "Cambridge University Press & Assessment",
+      "published_at": "2016-09-10T06:17:41+00:00",
+      "score": 46.48,
+      "corroborating_sources": [
+        "Cambridge University Press & Assessment"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "ccdf456620c60915",
+      "title": "Why should we care about Taiwan's nine-in-one elections? - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE03eXIzLVBNNEJRUmhpUGRIS2hhNmVybXI3a2V2WDlWYWw3aDF3SHRWRGw3WUpIQ2hlTEdSaUtZaFdlbm1tN3pHcHRZLTZFR20tY3FncnlBcW01MmtFUG1udnA0Ujk4UHlHVGlrUkJUWkN4dFpHTVk2cWNlc0pGemI1OF9yWWNfQVBVZkh6OA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-11-27T18:08:59+00:00",
+      "score": 46.38,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "b3e6bb6b11226329",
+      "title": "From Huang to tariffs, Trump keeps creating chaos — and we won't stop him - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWJGS05vNnZ2aG9iRkN2V1dpN094RGdZNW5PZlNEUU4wR3FlbHh1VGlnN1J1VjlwTXFEQmRtZkVDdFpiMk5jYUozN1Z1UFNzOHlvX2tkU3lwVDl5dm9hbzR5Ui1Ib3piV2RPNEFKSmdrTUpjU3k2d2RuQWdGa3FHeVNfR3BhbjBnOUtZQ0FSSi1yOXNONk9xMUVjOTljamJpSVQxTVIzTQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "published_at": "2026-11-27T18:00:00+00:00",
+      "score": 46.28,
+      "corroborating_sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "0bf14317c8657e6c",
+      "title": "Comisión del Senado reprograma entrevista a Giovanni Ortuño, nominado como embajador en EEUU - Correo del Sur",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZk5fREZXTmR2MnROTTNuc24yMjZ3WTFBZjAxY2VSbHJKeFV1Tm9wUlZoVlRVYVlvV0lsV1E1bTdXQUNoT3VnRmdFN1BQWVhuSHVOOVF4dDl5WjZEdGp3cHV1WFMxX0ZoVWFSSmlrbm8zc1lfY2tJSm1ld2ExcmVad1RrV3lDalI1a0g0Skh3cC12NFZjTkNCTllvckhmSUplTmUzb1lyVDdaQ1hXeGkwUlFHSkgwZDJlQkVHLWNkYTJNanViYk51QTVJZlRIUGtGSl9FLXpB?oc=5",
+      "source": "Correo del Sur",
+      "published_at": "2026-11-27T02:06:00+00:00",
+      "score": 45.78,
+      "corroborating_sources": [
+        "Correo del Sur"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "23f8c17cf84400f9",
+      "title": "Pizza Hut cofounder Dan Carney dies, nearly seven decades after first launching the business - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzJxdzBWNk1yM1FUMXNSb3JxNHI2bGU5Y3ZWeGNFN3h6MENrWFQ1X0lGV080Qmw5aGhnd2phby0zSjdoeWdkc1pyQ2R6clQ3WWJaX201RHBrdHYwMlpGZmt6VFRRREIydGgxNTRYdFpaS1FEY3JzZElCT3BRQ3MwU2ZSbHdDTHoycjZkMG54VV93M0I4dENWQVJkcldWZU9qaExKQ3dR?oc=5",
+      "source": "Audacy",
+      "published_at": "2026-11-27T16:47:00+00:00",
+      "score": 45.49,
+      "corroborating_sources": [
+        "Audacy"
+      ],
+      "signals": {
+        "source_count": 1,
+        "social_metrics_available": false
+      }
+    },
+    {
+      "id": "9b5182a3887d4370",
+      "title": "Zelensky calls Trump's \"my friend\" remark on Putin \"strange\" and urges more US pressure on Moscow - Plataforma Media",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNzk3akp5bFg2TDFvdmU2WFlQcGZxMlY3TGwxdGNZRGdGcUtuSGx4NVQ5WDJfbFh5Q1hOVHIxbTVuNHVzSVdVOUFUMUptWnNqM0NVN2d2Q2hlLUhPQlQtN2RvX1BjMDhoWGUxbVB6Q24xYll4YTVhTkRvbDY4bVR1c1BPRzc3SXVZU3IxN2drbjlUMk1oSlFoY3VadFk5YXg3bVhMUVI0SFBGV0pjMVdWNWNDR0JCZURRX0hyZlpWeVhJSnRHVFZ0SUItWHVHZTNoMzBnNlpQbXBFMFNvcWc?oc=5",
+      "source": "Plataforma Media",
+      "published_at": "2026-11-27T15:38:16+00:00",
+      "score": 44.77,
+      "corroborating_sources": [
+        "Plataforma Media"
       ],
       "signals": {
         "source_count": 1,
